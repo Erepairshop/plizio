@@ -315,3 +315,25 @@ jobs:
           else
             echo "[cf-purge] CF_API_TOKEN/CF_ZONE_ID secret not set, skipping CF purge"
           fi
+
+      # Right after the purge the CF edge is cold; if Googlebot fetches a large
+      # sitemap (2-3 MB) while the box is busy (a follow-up build saturates the
+      # uplink), CF's origin pull can take 15-30s and Googlebot times out →
+      # GSC "Sitemap konnte nicht gelesen werden". Origin (nginx static) serves
+      # in ~0.01s, so the cure is to re-prime the CF cache here while the box is
+      # idle (deploy just finished) — the next public fetch is a fast HIT, and the
+      # 24h edge_ttl keeps it warm. Gzip is requested so we exercise the same path
+      # Googlebot uses. Two passes: 1st warms (MISS), 2nd confirms HIT.
+      - name: Re-warm sitemap cache (avoid cold CF→origin timeout for Googlebot)
+        run: |
+          set -uo pipefail
+          for pass in 1 2; do
+            for f in $(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'); do
+              code=$(curl -s -o /dev/null -w "%{http_code} %{time_total}s" \
+                -H "Accept-Encoding: gzip" \
+                -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" \
+                --max-time 35 "https://plizio.com/$f" || echo "ERR")
+              echo "[warm pass$pass] $f -> $code"
+            done
+          done
+          echo "[warm] done — sitemap CF cache primed (24h edge_ttl)"
