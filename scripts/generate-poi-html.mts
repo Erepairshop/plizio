@@ -1415,7 +1415,7 @@ function renderSightRadius(poi: POI, lang: Lang): string {
     var top=items.slice(0,120);
     list.innerHTML=top.map(function(x){var e=x.e;
       var sv=e[5]?'<a class="plz-sgr-sv" href="https://www.google.com/maps/@?api=1&map_action=pano&'+(typeof e[5]==='string'?'pano='+e[5]+'&':'')+'viewpoint='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Street View">'+PEG+'</a>'
-        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/'+encodeURIComponent(e[0].replace(/ß/g,'ss'))+'/@'+e[1]+','+e[2]+',17z" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
+        :'<a class="plz-sgr-sv plz-sgr-gm" href="https://www.google.com/maps/search/?api=1&query='+e[1]+','+e[2]+'" target="_blank" rel="nofollow noopener" title="Google Maps">'+PIN+'</a>';
       var nm='<span class="plz-sgr-nm">'+esc(e[0])+'</span>';
       return '<div class="plz-sgr-it" data-ck="'+x.ck+'" data-ix="'+x.ix+'"'+(e[4]?' data-u="'+esc(e[4])+'"':'')+'><span class="plz-sgr-d">'+(x.d<10?x.d.toFixed(1):Math.round(x.d))+' km</span>'+nm+sv+'</div>';
     }).join('');
@@ -2401,7 +2401,9 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         // gyakran ss-sel listazza (Spaßinsel -> Spassinsel), kulonben nincs nev-
         // match es nem ismeri fel (user 2026-06-09).
         const nm = encodeURIComponent(s.name.replace(/ß/g, "ss").replace(/\s+/g, " ").trim());
-        svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/${nm}/@${slat.toFixed(6)},${slng.toFixed(6)},17z" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
+        // KOORD-alapu query (NEM nev): a nev-keresest a Google a hires azonos-nevu
+        // helyre vinne (pl. pagi "Sveti Jure" -> Biokovo-csucs Zagvozdnal). 2026-06-11.
+        svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/?api=1&query=${slat.toFixed(6)},${slng.toFixed(6)}" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
       // OSM hard-facts (LLM-free): hivatalos oldal / nyitvatartas / magassag / akadalymentes / belepo
       const fct = SIGHT_FACTS[svKey(slat, slng)];
