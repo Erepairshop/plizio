@@ -26,8 +26,12 @@ try { _tzLookup = _tzRequire("tz-lookup"); } catch { _tzLookup = null; }
 import * as _slugsNs from "../lib/seo/slugs";
 import type { POI } from "../lib/visualLab/data/poi";
 import * as _exploreNs from "../lib/explore/explore-block";
-import { sightsHubSlug, SIGHTS_HUB_LABEL, type HubLang } from "../lib/seo/sightsHubs";
+import type { HubLang } from "../lib/seo/sightsHubs";
+import * as _hubsNs from "../lib/seo/sightsHubs";
 const _expl: any = (_exploreNs as any).default ?? _exploreNs;
+const _hubs: any = (_hubsNs as any).default ?? _hubsNs;
+const sightsHubSlug: (countryId: string, lang: string) => string | null = _hubs.sightsHubSlug;
+const SIGHTS_HUB_LABEL: Record<HubLang, string> = _hubs.SIGHTS_HUB_LABEL;
 const renderExploreBlock = _expl.renderExploreBlock as (o: any) => string;
 const EXPLORE_CSS = _expl.EXPLORE_CSS as string;
 // timing-config loaded dynamically below to avoid Node 24 ESM static-resolver issue
