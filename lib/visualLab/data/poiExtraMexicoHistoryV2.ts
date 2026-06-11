@@ -4,7 +4,412 @@ import type { POI } from "./poi";
 
 export const poiExtraMexicoHistoryV2: POI[] = [
   {
-    id: "el-tajn-history-v2",
+    id: "el-tajn-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona Arqueológica \"El Tajín\"",
+                  "text": "Die Zona Arqueológica El Tajín ist eine präkolumbische Ruinenstätte und UNESCO-Weltkulturerbe in El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377359,
+                        20.447266
+                  ]
+            },
+            {
+                  "name": "Teodoro Cano",
+                  "text": "Das Teodoro Cano ist ein Museum, das dem Künstler Teodoro Cano gewidmet ist, in El Tajín.",
+                  "category": "museum",
+                  "coords": [
+                        -97.320235,
+                        20.444596
+                  ]
+            },
+            {
+                  "name": "Edificio de las Columnas",
+                  "text": "Der Edificio de las Columnas ist ein Monument in El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378071,
+                        20.450892
+                  ]
+            },
+            {
+                  "name": "Edificio I",
+                  "text": "Der Edificio I ist eine Ruine in El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377231,
+                        20.449478
+                  ]
+            },
+            {
+                  "name": "Juego del Pelota Norte",
+                  "text": "Juego del Pelota Norte ist ein nördliches Ballspielplatz-Ruinenfeld in El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377227,
+                        20.448504
+                  ]
+            },
+            {
+                  "name": "Monumento al Volador",
+                  "text": "Monumento al Volador ist ein Denkmal in El Tajín, das den fliegenden Tänzern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378306,
+                        20.441045
+                  ]
+            },
+            {
+                  "name": "Parque xanat restaurant",
+                  "text": "Parque xanat restaurant ist ein Restaurant im Park in El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.328333,
+                        20.42569
+                  ]
+            },
+            {
+                  "name": "Edificio 20",
+                  "text": "Edificio 20 ist ein Gebäude in der archäologischen Stätte El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378246,
+                        20.445937
+                  ]
+            },
+            {
+                  "name": "Edificio 7",
+                  "text": "Edificio 7 ist ein Gebäude in der archäologischen Zone El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378415,
+                        20.447122
+                  ]
+            },
+            {
+                  "name": "Fuente Danzante",
+                  "text": "Fuente Danzante ist ein Springbrunnen in der archäologischen Zone El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.321767,
+                        20.446524
+                  ]
+            },
+            {
+                  "name": "Edificio 18",
+                  "text": "Edificio 18 ist ein Gebäude in der archäologischen Zone El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377094,
+                        20.44569
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona Arqueológica \"El Tajín\"",
+                  "text": "A Zona Arqueológica El Tajín egy prekolumbián romváros és UNESCO Világörökség El Tajínban.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377359,
+                        20.447266
+                  ]
+            },
+            {
+                  "name": "Teodoro Cano",
+                  "text": "A Teodoro Cano egy múzeum, amely Teodoro Cano művésznek szentelt, El Tajínban.",
+                  "category": "museum",
+                  "coords": [
+                        -97.320235,
+                        20.444596
+                  ]
+            },
+            {
+                  "name": "Edificio de las Columnas",
+                  "text": "Az Edificio de las Columnas egy emlékmű El Tajínban.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378071,
+                        20.450892
+                  ]
+            },
+            {
+                  "name": "Edificio I",
+                  "text": "Az Edificio I egy rom El Tajínban.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377231,
+                        20.449478
+                  ]
+            },
+            {
+                  "name": "Juego del Pelota Norte",
+                  "text": "A Juego del Pelota Norte egy északi labdajáték-pálya romja El Tajínban.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377227,
+                        20.448504
+                  ]
+            },
+            {
+                  "name": "Monumento al Volador",
+                  "text": "A Monumento al Volador egy emlékmű El Tajínban, amely a repülő táncosoknak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378306,
+                        20.441045
+                  ]
+            },
+            {
+                  "name": "Parque xanat restaurant",
+                  "text": "A Parque xanat restaurant egy étterem a parkban El Tajínban.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.328333,
+                        20.42569
+                  ]
+            },
+            {
+                  "name": "Edificio 20",
+                  "text": "Az Edificio 20 egy épület El Tajín régészeti lelőhelyén.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378246,
+                        20.445937
+                  ]
+            },
+            {
+                  "name": "Edificio 7",
+                  "text": "Az Edificio 7 egy épület El Tajín régészeti övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378415,
+                        20.447122
+                  ]
+            },
+            {
+                  "name": "Fuente Danzante",
+                  "text": "A Fuente Danzante egy szökőkút El Tajín régészeti övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.321767,
+                        20.446524
+                  ]
+            },
+            {
+                  "name": "Edificio 18",
+                  "text": "Az Edificio 18 egy épület El Tajín régészeti övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377094,
+                        20.44569
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona Arqueológica \"El Tajín\"",
+                  "text": "Zona Arqueológica El Tajín este un sit arheologic precolumbian și Patrimoniu Mondial UNESCO în El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377359,
+                        20.447266
+                  ]
+            },
+            {
+                  "name": "Teodoro Cano",
+                  "text": "Teodoro Cano este un muzeu dedicat artistului Teodoro Cano în El Tajín.",
+                  "category": "museum",
+                  "coords": [
+                        -97.320235,
+                        20.444596
+                  ]
+            },
+            {
+                  "name": "Edificio de las Columnas",
+                  "text": "Edificio de las Columnas este un monument în El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378071,
+                        20.450892
+                  ]
+            },
+            {
+                  "name": "Edificio I",
+                  "text": "Edificio I este o ruină în El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377231,
+                        20.449478
+                  ]
+            },
+            {
+                  "name": "Juego del Pelota Norte",
+                  "text": "Juego del Pelota Norte este un teren de joc cu mingea în ruină, situat la nord în El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377227,
+                        20.448504
+                  ]
+            },
+            {
+                  "name": "Monumento al Volador",
+                  "text": "Monumento al Volador este un monument din El Tajín dedicat dansatorilor zburători.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378306,
+                        20.441045
+                  ]
+            },
+            {
+                  "name": "Parque xanat restaurant",
+                  "text": "Parque xanat restaurant este un restaurant situat în parcul din El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.328333,
+                        20.42569
+                  ]
+            },
+            {
+                  "name": "Edificio 20",
+                  "text": "Edificio 20 este o clădire în situl arheologic El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378246,
+                        20.445937
+                  ]
+            },
+            {
+                  "name": "Edificio 7",
+                  "text": "Edificio 7 este o clădire în zona arheologică El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378415,
+                        20.447122
+                  ]
+            },
+            {
+                  "name": "Fuente Danzante",
+                  "text": "Fuente Danzante este o fântână arteziană în zona arheologică El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.321767,
+                        20.446524
+                  ]
+            },
+            {
+                  "name": "Edificio 18",
+                  "text": "Edificio 18 este o clădire în zona arheologică El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377094,
+                        20.44569
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona Arqueológica \"El Tajín\"",
+                  "text": "Zona Arqueológica El Tajín is a pre-Columbian archaeological site and UNESCO World Heritage site in El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377359,
+                        20.447266
+                  ]
+            },
+            {
+                  "name": "Teodoro Cano",
+                  "text": "Teodoro Cano is a museum dedicated to the artist Teodoro Cano in El Tajín.",
+                  "category": "museum",
+                  "coords": [
+                        -97.320235,
+                        20.444596
+                  ]
+            },
+            {
+                  "name": "Edificio de las Columnas",
+                  "text": "Edificio de las Columnas is a monument in El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378071,
+                        20.450892
+                  ]
+            },
+            {
+                  "name": "Edificio I",
+                  "text": "Edificio I is a ruin in El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377231,
+                        20.449478
+                  ]
+            },
+            {
+                  "name": "Juego del Pelota Norte",
+                  "text": "Juego del Pelota Norte is a northern ball court ruin at El Tajín.",
+                  "category": "historical",
+                  "coords": [
+                        -97.377227,
+                        20.448504
+                  ]
+            },
+            {
+                  "name": "Monumento al Volador",
+                  "text": "Monumento al Volador is a monument in El Tajín dedicated to the flying dancers.",
+                  "category": "historical",
+                  "coords": [
+                        -97.378306,
+                        20.441045
+                  ]
+            },
+            {
+                  "name": "Parque xanat restaurant",
+                  "text": "Parque xanat restaurant is a restaurant in the park at El Tajín.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.328333,
+                        20.42569
+                  ]
+            },
+            {
+                  "name": "Edificio 20",
+                  "text": "Edificio 20 is a building at the El Tajín archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378246,
+                        20.445937
+                  ]
+            },
+            {
+                  "name": "Edificio 7",
+                  "text": "Edificio 7 is a building in the El Tajín archaeological zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.378415,
+                        20.447122
+                  ]
+            },
+            {
+                  "name": "Fuente Danzante",
+                  "text": "Fuente Danzante is a fountain in the El Tajín archaeological zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.321767,
+                        20.446524
+                  ]
+            },
+            {
+                  "name": "Edificio 18",
+                  "text": "Edificio 18 is a building in the El Tajín archaeological zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.377094,
+                        20.44569
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-VER",
     coords: [-97.378, 20.447],
@@ -51,7 +456,628 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["La célèbre pyramide des Niches possède exactement 365 niches.", "Le site dispose d'un nombre inhabituellement élevé de terrains de jeu de balle précolombiens.", "A été classé au patrimoine mondial de l'UNESCO en 1992."],
     }, image: "/poi-images/el-tajn-history-v2.webp"},
   {
-    id: "monte-alban-history-v2",
+    id: "monte-alban-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Path to Monte Alban",
+                  "text": "Ein Weg, der zur archäologischen Stätte Monte Albán führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.763641,
+                        17.067207
+                  ]
+            },
+            {
+                  "name": "Pintura Al Óleo",
+                  "text": "Ein Kunstzentrum in der Nähe von Monte Albán mit Schwerpunkt auf Ölmalerei.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.760732,
+                        17.005838
+                  ]
+            },
+            {
+                  "name": "Panteón Xoxo",
+                  "text": "Eine Attraktion in Monte Albán, bekannt als Panteón Xoxo, ein Friedhof mit historischer Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.738105,
+                        17.029224
+                  ]
+            },
+            {
+                  "name": "Capilla Abierta",
+                  "text": "Ruinen einer offenen Kapelle in Monte Albán, Teil der archäologischen Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        -96.77892,
+                        16.992784
+                  ]
+            },
+            {
+                  "name": "Campamento Operativo Del Conjunto Monumental De Atzompa Zona Arqueologica De Montealban",
+                  "text": "Ein archäologisches Camp im Atzompa-Monumentalkomplex innerhalb von Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.782568,
+                        17.078459
+                  ]
+            },
+            {
+                  "name": "Balneario Santa Maria",
+                  "text": "Ein Wasserpark in der Nähe von Monte Albán.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.784699,
+                        17.100225
+                  ]
+            },
+            {
+                  "name": "Plataforma Norte",
+                  "text": "Die Nordplattform-Ruinen in Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.767839,
+                        17.045421
+                  ]
+            },
+            {
+                  "name": "Tumba 104",
+                  "text": "Grab 104, eine Begräbnisstätte in Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768647,
+                        17.046864
+                  ]
+            },
+            {
+                  "name": "Edificio X",
+                  "text": "Gebäude X, eine der Strukturen in Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766459,
+                        17.046644
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Chico",
+                  "text": "Ruinen eines kleinen Ballspielplatzes in Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.764395,
+                        17.046781
+                  ]
+            },
+            {
+                  "name": "Residencia Tumba 56",
+                  "text": "Wohnruinen, die mit Grab 56 in Monte Albán verbunden sind.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766332,
+                        17.045519
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ruinen eines Ballspielplatzes in Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76723,
+                        17.043951
+                  ]
+            },
+            {
+                  "name": "Edificio IV",
+                  "text": "Edificio IV ist ein Ruinengebäude in der archäologischen Stätte Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769075,
+                        17.04345
+                  ]
+            },
+            {
+                  "name": "Edificio L",
+                  "text": "Edificio L ist ein Ruinengebäude in der archäologischen Stätte Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769379,
+                        17.042402
+                  ]
+            },
+            {
+                  "name": "Monticulo J",
+                  "text": "Monticulo J ist ein Ruinengebäude in der archäologischen Stätte Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768189,
+                        17.042097
+                  ]
+            },
+            {
+                  "name": "Templo G",
+                  "text": "Templo G ist ein Ruinengebäude in der archäologischen Stätte Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76813,
+                        17.04324
+                  ]
+            },
+            {
+                  "name": "Templo Sur",
+                  "text": "Templo Sur ist eine Attraktion in Monte Albán.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.768149,
+                        17.041003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Path to Monte Alban",
+                  "text": "Egy ösvény, amely a Monte Albán régészeti lelőhelyhez vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.763641,
+                        17.067207
+                  ]
+            },
+            {
+                  "name": "Pintura Al Óleo",
+                  "text": "Egy művészeti központ Monte Albán közelében, amely olajfestészetre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.760732,
+                        17.005838
+                  ]
+            },
+            {
+                  "name": "Panteón Xoxo",
+                  "text": "Egy látványosság Monte Albánban, ismert mint Panteón Xoxo, egy temető történelmi jelentőséggel.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.738105,
+                        17.029224
+                  ]
+            },
+            {
+                  "name": "Capilla Abierta",
+                  "text": "Egy nyitott kápolna romjai Monte Albánban, a régészeti lelőhely része.",
+                  "category": "historical",
+                  "coords": [
+                        -96.77892,
+                        16.992784
+                  ]
+            },
+            {
+                  "name": "Campamento Operativo Del Conjunto Monumental De Atzompa Zona Arqueologica De Montealban",
+                  "text": "Egy régészeti tábor az Atzompa műemlékegyüttesben, Monte Albánon belül.",
+                  "category": "historical",
+                  "coords": [
+                        -96.782568,
+                        17.078459
+                  ]
+            },
+            {
+                  "name": "Balneario Santa Maria",
+                  "text": "Egy vízipark Monte Albán közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.784699,
+                        17.100225
+                  ]
+            },
+            {
+                  "name": "Plataforma Norte",
+                  "text": "Az északi platform romjai Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.767839,
+                        17.045421
+                  ]
+            },
+            {
+                  "name": "Tumba 104",
+                  "text": "104-es sír, egy temetkezési hely Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768647,
+                        17.046864
+                  ]
+            },
+            {
+                  "name": "Edificio X",
+                  "text": "X épület, az egyik szerkezet Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766459,
+                        17.046644
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Chico",
+                  "text": "Egy kis labdajátékpálya romjai Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.764395,
+                        17.046781
+                  ]
+            },
+            {
+                  "name": "Residencia Tumba 56",
+                  "text": "Lakóromok, amelyek az 56-os sírhoz kapcsolódnak Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766332,
+                        17.045519
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Egy labdajátékpálya romjai Monte Albánban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76723,
+                        17.043951
+                  ]
+            },
+            {
+                  "name": "Edificio IV",
+                  "text": "Edificio IV egy romépület Monte Albán régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769075,
+                        17.04345
+                  ]
+            },
+            {
+                  "name": "Edificio L",
+                  "text": "Edificio L egy romépület Monte Albán régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769379,
+                        17.042402
+                  ]
+            },
+            {
+                  "name": "Monticulo J",
+                  "text": "Monticulo J egy romépület Monte Albán régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768189,
+                        17.042097
+                  ]
+            },
+            {
+                  "name": "Templo G",
+                  "text": "Templo G egy romépület Monte Albán régészeti lelőhelyén.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76813,
+                        17.04324
+                  ]
+            },
+            {
+                  "name": "Templo Sur",
+                  "text": "Templo Sur egy látványosság Monte Albánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.768149,
+                        17.041003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Path to Monte Alban",
+                  "text": "Un drum care duce la situl arheologic Monte Albán.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.763641,
+                        17.067207
+                  ]
+            },
+            {
+                  "name": "Pintura Al Óleo",
+                  "text": "Un centru de artă lângă Monte Albán, axat pe pictura în ulei.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.760732,
+                        17.005838
+                  ]
+            },
+            {
+                  "name": "Panteón Xoxo",
+                  "text": "O atracție la Monte Albán cunoscută sub numele de Panteón Xoxo, un cimitir cu semnificație istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.738105,
+                        17.029224
+                  ]
+            },
+            {
+                  "name": "Capilla Abierta",
+                  "text": "Ruinele unei capele deschise la Monte Albán, parte a sitului arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        -96.77892,
+                        16.992784
+                  ]
+            },
+            {
+                  "name": "Campamento Operativo Del Conjunto Monumental De Atzompa Zona Arqueologica De Montealban",
+                  "text": "O tabără arheologică în complexul monumental Atzompa din cadrul Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.782568,
+                        17.078459
+                  ]
+            },
+            {
+                  "name": "Balneario Santa Maria",
+                  "text": "Un parc acvatic lângă Monte Albán.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.784699,
+                        17.100225
+                  ]
+            },
+            {
+                  "name": "Plataforma Norte",
+                  "text": "Ruinele Platformei de Nord la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.767839,
+                        17.045421
+                  ]
+            },
+            {
+                  "name": "Tumba 104",
+                  "text": "Mormântul 104, o structură funerară la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768647,
+                        17.046864
+                  ]
+            },
+            {
+                  "name": "Edificio X",
+                  "text": "Clădirea X, una dintre structurile de la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766459,
+                        17.046644
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Chico",
+                  "text": "Ruinele unui teren mic de joc cu mingea la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.764395,
+                        17.046781
+                  ]
+            },
+            {
+                  "name": "Residencia Tumba 56",
+                  "text": "Ruine rezidențiale asociate cu Mormântul 56 la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766332,
+                        17.045519
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ruinele unui teren de joc cu mingea la Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76723,
+                        17.043951
+                  ]
+            },
+            {
+                  "name": "Edificio IV",
+                  "text": "Edificio IV este o ruină a unui edificiu în situl arheologic Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769075,
+                        17.04345
+                  ]
+            },
+            {
+                  "name": "Edificio L",
+                  "text": "Edificio L este o ruină a unui edificiu în situl arheologic Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769379,
+                        17.042402
+                  ]
+            },
+            {
+                  "name": "Monticulo J",
+                  "text": "Monticulo J este o ruină a unui edificiu în situl arheologic Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768189,
+                        17.042097
+                  ]
+            },
+            {
+                  "name": "Templo G",
+                  "text": "Templo G este o ruină a unui edificiu în situl arheologic Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76813,
+                        17.04324
+                  ]
+            },
+            {
+                  "name": "Templo Sur",
+                  "text": "Templo Sur este o atracție în Monte Albán.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.768149,
+                        17.041003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Path to Monte Alban",
+                  "text": "A path leading to the Monte Albán archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.763641,
+                        17.067207
+                  ]
+            },
+            {
+                  "name": "Pintura Al Óleo",
+                  "text": "An arts centre near Monte Albán focusing on oil painting.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.760732,
+                        17.005838
+                  ]
+            },
+            {
+                  "name": "Panteón Xoxo",
+                  "text": "An attraction at Monte Albán known as Panteón Xoxo, a cemetery with historic significance.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.738105,
+                        17.029224
+                  ]
+            },
+            {
+                  "name": "Capilla Abierta",
+                  "text": "Open chapel ruins at Monte Albán, part of the archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.77892,
+                        16.992784
+                  ]
+            },
+            {
+                  "name": "Campamento Operativo Del Conjunto Monumental De Atzompa Zona Arqueologica De Montealban",
+                  "text": "An archaeological camp at the Atzompa monumental complex within Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.782568,
+                        17.078459
+                  ]
+            },
+            {
+                  "name": "Balneario Santa Maria",
+                  "text": "A water park located near Monte Albán.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.784699,
+                        17.100225
+                  ]
+            },
+            {
+                  "name": "Plataforma Norte",
+                  "text": "The North Platform ruins at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.767839,
+                        17.045421
+                  ]
+            },
+            {
+                  "name": "Tumba 104",
+                  "text": "Tomb 104, a burial structure at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768647,
+                        17.046864
+                  ]
+            },
+            {
+                  "name": "Edificio X",
+                  "text": "Building X, one of the structures at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766459,
+                        17.046644
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Chico",
+                  "text": "Small ball court ruins at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.764395,
+                        17.046781
+                  ]
+            },
+            {
+                  "name": "Residence of Tomb 56",
+                  "text": "Residential ruins associated with Tomb 56 at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.766332,
+                        17.045519
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ball court ruins at Monte Albán.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76723,
+                        17.043951
+                  ]
+            },
+            {
+                  "name": "Edificio IV",
+                  "text": "Edificio IV is a ruined building in the Monte Albán archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769075,
+                        17.04345
+                  ]
+            },
+            {
+                  "name": "Edificio L",
+                  "text": "Edificio L is a ruined building in the Monte Albán archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.769379,
+                        17.042402
+                  ]
+            },
+            {
+                  "name": "Monticulo J",
+                  "text": "Monticulo J is a ruined building in the Monte Albán archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.768189,
+                        17.042097
+                  ]
+            },
+            {
+                  "name": "Templo G",
+                  "text": "Templo G is a ruined building in the Monte Albán archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.76813,
+                        17.04324
+                  ]
+            },
+            {
+                  "name": "Templo Sur",
+                  "text": "Templo Sur is an attraction in Monte Albán.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.768149,
+                        17.041003
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-OAX",
     coords: [-96.767, 17.046],
@@ -98,7 +1124,52 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Était l'ancienne capitale et le centre cérémoniel des Zapotèques.", "Situé de manière spectaculaire sur une crête artificiellement aplatie dominant la vallée d'Oaxaca.", "Connu pour les énigmatiques reliefs en pierre des « Danzantes » (danseurs)."],
     }, image: "/poi-images/monte-alban-history-v2.webp"},
   {
-    id: "uxmal-history-v2",
+    id: "uxmal-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cementerio",
+                  "text": "Mirador Cementerio sind Ruinen in Uxmal, die einen Blick auf den Friedhof bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -89.773281,
+                        20.360925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cementerio",
+                  "text": "A Mirador Cementerio romok Uxmalban, melyek a temetőre nyújtanak kilátást.",
+                  "category": "historical",
+                  "coords": [
+                        -89.773281,
+                        20.360925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cementerio",
+                  "text": "Mirador Cementerio sunt ruine în Uxmal care oferă o vedere spre cimitir.",
+                  "category": "historical",
+                  "coords": [
+                        -89.773281,
+                        20.360925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cementerio",
+                  "text": "Mirador Cementerio are ruins in Uxmal offering a view of the cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        -89.773281,
+                        20.360925
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-YUC",
     coords: [-89.771, 20.36],
@@ -145,7 +1216,448 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Considéré comme le chef-d'œuvre architectural le plus important du style Puuc.", "La Pyramide du Devin possède une forme arrondie unique.", "Les façades élaborées sont fortement marquées par les représentations du dieu de la pluie Chaac."],
     }, image: "/poi-images/uxmal-history-v2.webp"},
   {
-    id: "calakmul-history-v2",
+    id: "calakmul-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estructura XV",
+                  "text": "Estructura XV sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812341,
+                        18.10656
+                  ]
+            },
+            {
+                  "name": "Gran Acrópolis / Estructura XX",
+                  "text": "Gran Acrópolis, auch Estructura XX genannt, sind Ruinen einer großen Akropolis in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813921,
+                        18.107784
+                  ]
+            },
+            {
+                  "name": "Estructura XIII",
+                  "text": "Estructura XIII sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812586,
+                        18.108085
+                  ]
+            },
+            {
+                  "name": "Muralla",
+                  "text": "Muralla sind Mauerreste in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813844,
+                        18.108879
+                  ]
+            },
+            {
+                  "name": "Acrópolis Chik Naab",
+                  "text": "Acrópolis Chik Naab sind Ruinen einer Akropolis in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810601,
+                        18.10876
+                  ]
+            },
+            {
+                  "name": "Estructura VII",
+                  "text": "Estructura VII sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810137,
+                        18.107309
+                  ]
+            },
+            {
+                  "name": "Área Residencial Chan Chi'Ich",
+                  "text": "Área Residencial Chan Chi'Ich sind Wohnruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808628,
+                        18.108359
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Calakmul",
+                  "text": "Die archäologische Zone Calakmul ist eine der größten Maya-Städte der antiken Maya-Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.806912,
+                        18.107854
+                  ]
+            },
+            {
+                  "name": "Estructura GN E1",
+                  "text": "Estructura GN E1 sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.803091,
+                        18.108801
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Estructura I sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808477,
+                        18.103182
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Estructura III sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.809078,
+                        18.105365
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Estructura V sind Ruinen in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810447,
+                        18.105949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estructura XV",
+                  "text": "Az Estructura XV romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812341,
+                        18.10656
+                  ]
+            },
+            {
+                  "name": "Gran Acrópolis / Estructura XX",
+                  "text": "A Gran Acrópolis, más néven Estructura XX, egy nagy akropolisz romjai Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813921,
+                        18.107784
+                  ]
+            },
+            {
+                  "name": "Estructura XIII",
+                  "text": "Az Estructura XIII romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812586,
+                        18.108085
+                  ]
+            },
+            {
+                  "name": "Muralla",
+                  "text": "A Muralla falromok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813844,
+                        18.108879
+                  ]
+            },
+            {
+                  "name": "Acrópolis Chik Naab",
+                  "text": "Az Acrópolis Chik Naab egy akropolisz romjai Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810601,
+                        18.10876
+                  ]
+            },
+            {
+                  "name": "Estructura VII",
+                  "text": "Az Estructura VII romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810137,
+                        18.107309
+                  ]
+            },
+            {
+                  "name": "Área Residencial Chan Chi'Ich",
+                  "text": "Az Área Residencial Chan Chi'Ich lakóromok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808628,
+                        18.108359
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Calakmul",
+                  "text": "A Calakmul régészeti övezet az egyik legnagyobb maja város az ókori maja világban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.806912,
+                        18.107854
+                  ]
+            },
+            {
+                  "name": "Estructura GN E1",
+                  "text": "Az Estructura GN E1 romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.803091,
+                        18.108801
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Az Estructura I romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808477,
+                        18.103182
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Az Estructura III romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.809078,
+                        18.105365
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Az Estructura V romok Calakmulban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810447,
+                        18.105949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estructura XV",
+                  "text": "Estructura XV sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812341,
+                        18.10656
+                  ]
+            },
+            {
+                  "name": "Gran Acrópolis / Estructura XX",
+                  "text": "Gran Acrópolis, cunoscută și ca Estructura XX, sunt ruinele unei mari acropole în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813921,
+                        18.107784
+                  ]
+            },
+            {
+                  "name": "Estructura XIII",
+                  "text": "Estructura XIII sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812586,
+                        18.108085
+                  ]
+            },
+            {
+                  "name": "Muralla",
+                  "text": "Muralla sunt ruine de zid în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813844,
+                        18.108879
+                  ]
+            },
+            {
+                  "name": "Acrópolis Chik Naab",
+                  "text": "Acrópolis Chik Naab sunt ruinele unei acropole în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810601,
+                        18.10876
+                  ]
+            },
+            {
+                  "name": "Estructura VII",
+                  "text": "Estructura VII sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810137,
+                        18.107309
+                  ]
+            },
+            {
+                  "name": "Área Residencial Chan Chi'Ich",
+                  "text": "Área Residencial Chan Chi'Ich sunt ruine rezidențiale în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808628,
+                        18.108359
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Calakmul",
+                  "text": "Zona arheologică Calakmul este unul dintre cele mai mari orașe mayașe din lumea mayașă antică.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.806912,
+                        18.107854
+                  ]
+            },
+            {
+                  "name": "Estructura GN E1",
+                  "text": "Estructura GN E1 sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.803091,
+                        18.108801
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Estructura I sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808477,
+                        18.103182
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Estructura III sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.809078,
+                        18.105365
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Estructura V sunt ruine în Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810447,
+                        18.105949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estructura XV",
+                  "text": "Estructura XV are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812341,
+                        18.10656
+                  ]
+            },
+            {
+                  "name": "Gran Acrópolis / Estructura XX",
+                  "text": "Gran Acrópolis, also known as Estructura XX, are ruins of a large acropolis in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813921,
+                        18.107784
+                  ]
+            },
+            {
+                  "name": "Estructura XIII",
+                  "text": "Estructura XIII are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.812586,
+                        18.108085
+                  ]
+            },
+            {
+                  "name": "Muralla",
+                  "text": "Muralla are wall ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.813844,
+                        18.108879
+                  ]
+            },
+            {
+                  "name": "Acrópolis Chik Naab",
+                  "text": "Acrópolis Chik Naab are ruins of an acropolis in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810601,
+                        18.10876
+                  ]
+            },
+            {
+                  "name": "Estructura VII",
+                  "text": "Estructura VII are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810137,
+                        18.107309
+                  ]
+            },
+            {
+                  "name": "Área Residencial Chan Chi'Ich",
+                  "text": "Área Residencial Chan Chi'Ich are residential ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808628,
+                        18.108359
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Calakmul",
+                  "text": "The Calakmul archaeological zone is one of the largest Maya cities in the ancient Maya world.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.806912,
+                        18.107854
+                  ]
+            },
+            {
+                  "name": "Estructura GN E1",
+                  "text": "Estructura GN E1 are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.803091,
+                        18.108801
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Estructura I are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.808477,
+                        18.103182
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Estructura III are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.809078,
+                        18.105365
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Estructura V are ruins in Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.810447,
+                        18.105949
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CAM",
     coords: [-89.81, 18.106],
@@ -192,7 +1704,448 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Était, avec Tikal, l'une des superpuissances les plus puissantes de la période maya classique.", "La pyramide principale est l'une des structures les plus hautes jamais construites par les Mayas.", "Situé au centre de l'une des plus grandes réserves de biosphère tropicale du Mexique."],
     }, image: "/poi-images/calakmul-history-v2.webp"},
   {
-    id: "coba-history-v2",
+    id: "coba-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Estela 1",
+                  "text": "Estela 1 ist eine eingravierte Steinstela an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724464,
+                        20.48594
+                  ]
+            },
+            {
+                  "name": "Estela 28",
+                  "text": "Estela 28 ist eine eingravierte Steinstela an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72657,
+                        20.490398
+                  ]
+            },
+            {
+                  "name": "Estela 10",
+                  "text": "Estela 10 ist eine eingravierte Steinstela an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.732297,
+                        20.4904
+                  ]
+            },
+            {
+                  "name": "Altar",
+                  "text": "Altar ist ein Altar an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.73126,
+                        20.490585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
+                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' ist eine archäologische Zone im Gebiet von Cobá.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.725587,
+                        20.424219
+                  ]
+            },
+            {
+                  "name": "Nohoch Mul",
+                  "text": "Nohoch Mul ist eine große Pyramide an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.720271,
+                        20.494647
+                  ]
+            },
+            {
+                  "name": "Xaibe",
+                  "text": "Xaibe ist eine Struktur an der archäologischen Stätte Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.721719,
+                        20.493307
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cobá",
+                  "text": "Zona Arqueológica Cobá ist eine antike Maya-Stadt mit Ruinen in Quintana Roo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.724788,
+                        20.488787
+                  ]
+            },
+            {
+                  "name": "Estructura 3",
+                  "text": "Struktur 3 in den Ruinen von Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725467,
+                        20.490397
+                  ]
+            },
+            {
+                  "name": "Estructura",
+                  "text": "Eine Struktur (Estructura) in den Ruinen von Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725991,
+                        20.491959
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Ein Ballspielplatz (Juego de pelota) in den Ruinen von Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724074,
+                        20.492866
+                  ]
+            },
+            {
+                  "name": "Grupo Macanxoc",
+                  "text": "Die Macanxoc-Gruppe in den Ruinen von Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72171,
+                        20.48319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estela 1",
+                  "text": "Estela 1 egy faragott kő sztélé a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724464,
+                        20.48594
+                  ]
+            },
+            {
+                  "name": "Estela 28",
+                  "text": "Estela 28 egy faragott kő sztélé a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72657,
+                        20.490398
+                  ]
+            },
+            {
+                  "name": "Estela 10",
+                  "text": "Estela 10 egy faragott kő sztélé a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.732297,
+                        20.4904
+                  ]
+            },
+            {
+                  "name": "Altar",
+                  "text": "Az Altar egy oltár a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.73126,
+                        20.490585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
+                  "text": "A Zona Arqueológica 'San Juan de Diós Q. Roo' egy régészeti zóna Cobá területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.725587,
+                        20.424219
+                  ]
+            },
+            {
+                  "name": "Nohoch Mul",
+                  "text": "Nohoch Mul egy nagy piramis a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.720271,
+                        20.494647
+                  ]
+            },
+            {
+                  "name": "Xaibe",
+                  "text": "Xaibe egy építmény a cobai régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -87.721719,
+                        20.493307
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cobá",
+                  "text": "Zona Arqueológica Cobá egy ősi maja város romokkal Quintana Rooban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.724788,
+                        20.488787
+                  ]
+            },
+            {
+                  "name": "Estructura 3",
+                  "text": "A 3-as szerkezet a cobá-i romok között.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725467,
+                        20.490397
+                  ]
+            },
+            {
+                  "name": "Estructura",
+                  "text": "Egy szerkezet (Estructura) a cobá-i romok között.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725991,
+                        20.491959
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Egy labdajátékpálya (Juego de pelota) a cobá-i romok között.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724074,
+                        20.492866
+                  ]
+            },
+            {
+                  "name": "Grupo Macanxoc",
+                  "text": "A Macanxoc csoport a cobá-i romok között.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72171,
+                        20.48319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estela 1",
+                  "text": "Estela 1 este o stelă de piatră sculptată la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724464,
+                        20.48594
+                  ]
+            },
+            {
+                  "name": "Estela 28",
+                  "text": "Estela 28 este o stelă de piatră sculptată la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72657,
+                        20.490398
+                  ]
+            },
+            {
+                  "name": "Estela 10",
+                  "text": "Estela 10 este o stelă de piatră sculptată la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.732297,
+                        20.4904
+                  ]
+            },
+            {
+                  "name": "Altar",
+                  "text": "Altar este un altar la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.73126,
+                        20.490585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
+                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' este o zonă arheologică în zona Cobá.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.725587,
+                        20.424219
+                  ]
+            },
+            {
+                  "name": "Nohoch Mul",
+                  "text": "Nohoch Mul este o piramidă mare la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.720271,
+                        20.494647
+                  ]
+            },
+            {
+                  "name": "Xaibe",
+                  "text": "Xaibe este o structură la situl arheologic Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.721719,
+                        20.493307
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cobá",
+                  "text": "Zona Arqueológica Cobá este un oraș mayaș antic cu ruine în Quintana Roo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.724788,
+                        20.488787
+                  ]
+            },
+            {
+                  "name": "Estructura 3",
+                  "text": "Structura 3 în ruinele din Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725467,
+                        20.490397
+                  ]
+            },
+            {
+                  "name": "Estructura",
+                  "text": "O structură (Estructura) în ruinele din Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725991,
+                        20.491959
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Un teren de joc cu mingea (Juego de pelota) în ruinele din Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724074,
+                        20.492866
+                  ]
+            },
+            {
+                  "name": "Grupo Macanxoc",
+                  "text": "Grupul Macanxoc în ruinele din Cobá.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72171,
+                        20.48319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Estela 1",
+                  "text": "Estela 1 is a carved stone stela at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724464,
+                        20.48594
+                  ]
+            },
+            {
+                  "name": "Estela 28",
+                  "text": "Estela 28 is a carved stone stela at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72657,
+                        20.490398
+                  ]
+            },
+            {
+                  "name": "Estela 10",
+                  "text": "Estela 10 is a carved stone stela at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.732297,
+                        20.4904
+                  ]
+            },
+            {
+                  "name": "Altar",
+                  "text": "Altar is an altar at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.73126,
+                        20.490585
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica \"San Juan de Diós Q. Roo\"",
+                  "text": "Zona Arqueológica 'San Juan de Diós Q. Roo' is an archaeological zone in the Cobá area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.725587,
+                        20.424219
+                  ]
+            },
+            {
+                  "name": "Nohoch Mul",
+                  "text": "Nohoch Mul is a large pyramid at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.720271,
+                        20.494647
+                  ]
+            },
+            {
+                  "name": "Xaibe",
+                  "text": "Xaibe is a structure at the Cobá archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -87.721719,
+                        20.493307
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Cobá",
+                  "text": "Zona Arqueológica Cobá is an ancient Mayan city with ruins in Quintana Roo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.724788,
+                        20.488787
+                  ]
+            },
+            {
+                  "name": "Estructura 3",
+                  "text": "Structure 3 in the Cobá ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725467,
+                        20.490397
+                  ]
+            },
+            {
+                  "name": "Estructura",
+                  "text": "A structure (Estructura) in the Cobá ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -87.725991,
+                        20.491959
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "A ball court (Juego de pelota) in the Cobá ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -87.724074,
+                        20.492866
+                  ]
+            },
+            {
+                  "name": "Grupo Macanxoc",
+                  "text": "The Macanxoc Group in the Cobá ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -87.72171,
+                        20.48319
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-ROO",
     coords: [-87.732, 20.493],
@@ -239,7 +2192,304 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Possède le réseau le plus étendu de routes mayas originales (Sacbéob).", "La pyramide Nohoch Mul mesure une hauteur impressionnante de 42 mètres.", "Était un centre commercial puissant et indépendant pendant la période classique."],
     }, image: "/poi-images/coba-history-v2.webp"},
     {
-    id: "mitla-history-v2",
+    id: "mitla-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yaguar Xoo",
+                  "text": "Ein Zoo in Mitla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.437361,
+                        16.935257
+                  ]
+            },
+            {
+                  "name": "Grupo de Norte (Lyobaa)",
+                  "text": "Die nördliche Gruppe der archäologischen Stätte Lyobaa (Mitla), bekannt für ihre geometrischen Mosaike.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.359218,
+                        16.928436
+                  ]
+            },
+            {
+                  "name": "Grupo de las Columnas",
+                  "text": "Ruinen der Säulengruppe in Mitla.",
+                  "category": "historical",
+                  "coords": [
+                        -96.359857,
+                        16.927047
+                  ]
+            },
+            {
+                  "name": "Mitla",
+                  "text": "Die berühmte archäologische Stätte Mitla, bekannt für ihre kunstvollen Mosaikfriese und geometrischen Muster.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.363145,
+                        16.920513
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo de los Adobes",
+                  "text": "Die Ruinen der Adobes-Gruppe sind Teil der archäologischen Stätte von Mitla.",
+                  "category": "historical",
+                  "coords": [
+                        -96.36183,
+                        16.927218
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Arroyo",
+                  "text": "Die Arroyo-Gruppe ist Teil der archäologischen Stätte von Mitla, bekannt für ihr kunstvolles Zapoteken-Mosaik.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.361613,
+                        16.925813
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Sur",
+                  "text": "Die Südgruppe ist Teil der archäologischen Zone von Mitla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.360741,
+                        16.922901
+                  ]
+            },
+            {
+                  "name": "Museo Frisell de Arte Zapoteca Mitla",
+                  "text": "Das Frisell Museum für Zapotekische Kunst in Mitla zeigt Artefakte aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -96.36332,
+                        16.921988
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yaguar Xoo",
+                  "text": "Állatkert Mitlában.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.437361,
+                        16.935257
+                  ]
+            },
+            {
+                  "name": "Grupo de Norte (Lyobaa)",
+                  "text": "A Lyobaa (Mitla) régészeti lelőhely északi csoportja, híres geometrikus mozaikjairól.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.359218,
+                        16.928436
+                  ]
+            },
+            {
+                  "name": "Grupo de las Columnas",
+                  "text": "Az Oszlopok Csoportjának romjai Mitlában.",
+                  "category": "historical",
+                  "coords": [
+                        -96.359857,
+                        16.927047
+                  ]
+            },
+            {
+                  "name": "Mitla",
+                  "text": "A híres Mitla régészeti lelőhely, híres bonyolult mozaik díszítéseiről és geometrikus mintáiról.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.363145,
+                        16.920513
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo de los Adobes",
+                  "text": "Az Adobes-csoport romjai Mitla régészeti lelőhelyének részét képezik.",
+                  "category": "historical",
+                  "coords": [
+                        -96.36183,
+                        16.927218
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Arroyo",
+                  "text": "Az Arroyo-csoport Mitla régészeti lelőhelyének része, híres bonyolult zapotek mozaikmintázatáról.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.361613,
+                        16.925813
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Sur",
+                  "text": "A Déli csoport Mitla régészeti zónájának része.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.360741,
+                        16.922901
+                  ]
+            },
+            {
+                  "name": "Museo Frisell de Arte Zapoteca Mitla",
+                  "text": "A Frisell Zapotek Művészeti Múzeum Mitlában a régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -96.36332,
+                        16.921988
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yaguar Xoo",
+                  "text": "O grădină zoologică în Mitla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.437361,
+                        16.935257
+                  ]
+            },
+            {
+                  "name": "Grupo de Norte (Lyobaa)",
+                  "text": "Grupul de Nord al sitului arheologic Lyobaa (Mitla), cunoscut pentru mozaicurile sale geometrice.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.359218,
+                        16.928436
+                  ]
+            },
+            {
+                  "name": "Grupo de las Columnas",
+                  "text": "Ruinele Grupului Coloanelor din Mitla.",
+                  "category": "historical",
+                  "coords": [
+                        -96.359857,
+                        16.927047
+                  ]
+            },
+            {
+                  "name": "Mitla",
+                  "text": "Faimosul sit arheologic Mitla, renumit pentru frizele sale complicate de mozaic și modelele geometrice.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.363145,
+                        16.920513
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo de los Adobes",
+                  "text": "Ruinele Grupului Adobes fac parte din situl arheologic Mitla.",
+                  "category": "historical",
+                  "coords": [
+                        -96.36183,
+                        16.927218
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Arroyo",
+                  "text": "Grupul Arroyo face parte din situl arheologic Mitla, renumit pentru mozaicul său zapotec complicat.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.361613,
+                        16.925813
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Sur",
+                  "text": "Grupul de Sud face parte din zona arheologică Mitla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.360741,
+                        16.922901
+                  ]
+            },
+            {
+                  "name": "Museo Frisell de Arte Zapoteca Mitla",
+                  "text": "Muzeul Frisell de Artă Zapotecă din Mitla expune artefacte din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -96.36332,
+                        16.921988
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yaguar Xoo",
+                  "text": "A zoo in Mitla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.437361,
+                        16.935257
+                  ]
+            },
+            {
+                  "name": "Northern Group (Lyobaa)",
+                  "text": "The Northern Group of the Lyobaa (Mitla) archaeological site, known for its geometric mosaics.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.359218,
+                        16.928436
+                  ]
+            },
+            {
+                  "name": "Grupo de las Columnas",
+                  "text": "Ruins of the Group of the Columns at Mitla.",
+                  "category": "historical",
+                  "coords": [
+                        -96.359857,
+                        16.927047
+                  ]
+            },
+            {
+                  "name": "Mitla",
+                  "text": "The famous Mitla archaeological site, renowned for its intricate mosaic fretwork and geometric designs.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.363145,
+                        16.920513
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo de los Adobes",
+                  "text": "The Adobe Group ruins are part of the Mitla archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -96.36183,
+                        16.927218
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Arroyo",
+                  "text": "The Arroyo Group is part of the Mitla archaeological site, famous for its intricate Zapotec mosaic fretwork.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.361613,
+                        16.925813
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mitla - Grupo del Sur",
+                  "text": "The Southern Group is part of the Mitla archaeological zone in Mitla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.360741,
+                        16.922901
+                  ]
+            },
+            {
+                  "name": "Museo Frisell de Arte Zapoteca Mitla",
+                  "text": "The Frisell Museum of Zapotec Art in Mitla displays artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -96.36332,
+                        16.921988
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-OAX",
     coords: [-96.36, 16.923],
@@ -286,7 +2536,412 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Célèbre pour ses mosaïques de pierre géométriques uniques et hautement complexes.", "Était le centre religieux le plus important de la culture zapotèque après la chute de Monte Albán.", "Les fins reliefs en pierre ont été assemblés sans aucun usage de mortier."],
     }, image: "/poi-images/mitla-history-v2.webp"},
   {
-    id: "tula-history-v2",
+    id: "tula-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Letras Tula",
+                  "text": "Eine Touristenattraktion in Tula mit großen Buchstaben, die 'Tula' buchstabieren.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.342322,
+                        20.056083
+                  ]
+            },
+            {
+                  "name": "Puerta de Atitalaquia",
+                  "text": "Ein monumentales Tor in Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.25278,
+                        20.031427
+                  ]
+            },
+            {
+                  "name": "Tula",
+                  "text": "Eine archäologische Stätte in Tula; sie war die Hauptstadt der toltekischen Zivilisation.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruinen einer offenen Kapelle in Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Eine archäologische Stätte in Tula; die berühmte Schlangenmauer ist mit Serpentenreliefs verziert.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Auditorio del Cooperativismo",
+                  "text": "Ein Theater in Tula, das dem Genossenschaftswesen gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.323218,
+                        19.98901
+                  ]
+            },
+            {
+                  "name": "Zona de Preservación Ecológica Cerro Lobo",
+                  "text": "Ein Naturschutzgebiet auf dem Cerro Lobo in Tula.",
+                  "category": "natural",
+                  "coords": [
+                        -99.40894,
+                        20.021168
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Ein Museumsraum in Tula, der Orientierung und Dienstleistungen für Besucher bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341811,
+                        20.061979
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Eine archäologische Stätte in Tula; ein älterer Teil der toltekischen Zone.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345891,
+                        20.062257
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Ein Nationalpark in Tula mit natürlicher Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -99.336989,
+                        20.067169
+                  ]
+            },
+            {
+                  "name": "La Cantera",
+                  "text": "Ein Wasserpark in Tula namens La Cantera.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.30943,
+                        20.04073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Letras Tula",
+                  "text": "Egy turisztikai látványosság Tula városában, nagy betűkkel kirakva 'Tula'.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.342322,
+                        20.056083
+                  ]
+            },
+            {
+                  "name": "Puerta de Atitalaquia",
+                  "text": "Egy monumentális kapu Tula városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.25278,
+                        20.031427
+                  ]
+            },
+            {
+                  "name": "Tula",
+                  "text": "Egy régészeti lelőhely Tula városában; a tolték civilizáció fővárosa volt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Egy nyitott kápolna romjai Tula városában.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Egy régészeti lelőhely Tula városában; a híres Kígyófalat kígyódomborművek díszítik.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Auditorio del Cooperativismo",
+                  "text": "Egy színház Tula városában, amely a szövetkezeti mozgalomnak van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.323218,
+                        19.98901
+                  ]
+            },
+            {
+                  "name": "Zona de Preservación Ecológica Cerro Lobo",
+                  "text": "Egy természetvédelmi terület a Cerro Lobón Tula városában.",
+                  "category": "natural",
+                  "coords": [
+                        -99.40894,
+                        20.021168
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Egy múzeumi tér Tula városában, amely tájékoztatást és szolgáltatásokat nyújt a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341811,
+                        20.061979
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Egy régészeti lelőhely Tula városában; a tolték zóna korábbi része.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345891,
+                        20.062257
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Egy nemzeti park Tula városában természetes tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        -99.336989,
+                        20.067169
+                  ]
+            },
+            {
+                  "name": "La Cantera",
+                  "text": "Egy vízipark Tula városában, La Cantera néven.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.30943,
+                        20.04073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Letras Tula",
+                  "text": "O atracție turistică în Tula cu litere mari care scriu 'Tula'.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.342322,
+                        20.056083
+                  ]
+            },
+            {
+                  "name": "Puerta de Atitalaquia",
+                  "text": "O poartă monumentală în Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.25278,
+                        20.031427
+                  ]
+            },
+            {
+                  "name": "Tula",
+                  "text": "Un sit arheologic în Tula; a fost capitala civilizației toltece.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruinele unei capele deschise în Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "Un sit arheologic în Tula; celebrul Zid al Șerpilor este decorat cu reliefuri de șerpi.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Auditorio del Cooperativismo",
+                  "text": "Un teatru în Tula dedicat cooperativismului.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.323218,
+                        19.98901
+                  ]
+            },
+            {
+                  "name": "Zona de Preservación Ecológica Cerro Lobo",
+                  "text": "O rezervație naturală pe Cerro Lobo în Tula.",
+                  "category": "natural",
+                  "coords": [
+                        -99.40894,
+                        20.021168
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "Un spațiu muzeal în Tula care oferă orientare și servicii vizitatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341811,
+                        20.061979
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "Un sit arheologic în Tula; o parte mai veche a zonei toltece.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345891,
+                        20.062257
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "Un parc național în Tula cu peisaj natural.",
+                  "category": "natural",
+                  "coords": [
+                        -99.336989,
+                        20.067169
+                  ]
+            },
+            {
+                  "name": "La Cantera",
+                  "text": "Un parc acvatic în Tula numit La Cantera.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.30943,
+                        20.04073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Letras Tula",
+                  "text": "A tourist attraction in Tula featuring large letters spelling 'Tula'.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.342322,
+                        20.056083
+                  ]
+            },
+            {
+                  "name": "Puerta de Atitalaquia",
+                  "text": "A monumental gate in Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.25278,
+                        20.031427
+                  ]
+            },
+            {
+                  "name": "Tula",
+                  "text": "An archaeological site in Tula; it was the capital of the Toltec civilization.",
+                  "category": "historical",
+                  "coords": [
+                        -99.334321,
+                        20.067333
+                  ]
+            },
+            {
+                  "name": "capilla abierta",
+                  "text": "Ruins of an open chapel in Tula.",
+                  "category": "historical",
+                  "coords": [
+                        -99.338579,
+                        20.061492
+                  ]
+            },
+            {
+                  "name": "Coatepantli",
+                  "text": "An archaeological site in Tula; the famous Wall of Serpents is carved with serpent reliefs.",
+                  "category": "historical",
+                  "coords": [
+                        -99.34036,
+                        20.064414
+                  ]
+            },
+            {
+                  "name": "Auditorio del Cooperativismo",
+                  "text": "A theatre in Tula dedicated to cooperativism.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.323218,
+                        19.98901
+                  ]
+            },
+            {
+                  "name": "Zona de Preservación Ecológica Cerro Lobo",
+                  "text": "A nature reserve on Cerro Lobo in Tula.",
+                  "category": "natural",
+                  "coords": [
+                        -99.40894,
+                        20.021168
+                  ]
+            },
+            {
+                  "name": "Sala de Orientación y Servicios Guadalupe Mastache",
+                  "text": "A museum space in Tula providing orientation and services for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        -99.341811,
+                        20.061979
+                  ]
+            },
+            {
+                  "name": "Tula Chico",
+                  "text": "An archaeological site in Tula; an earlier section of the Toltec zone.",
+                  "category": "historical",
+                  "coords": [
+                        -99.345891,
+                        20.062257
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Tula",
+                  "text": "A national park in Tula offering natural scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -99.336989,
+                        20.067169
+                  ]
+            },
+            {
+                  "name": "La Cantera",
+                  "text": "A water park in Tula called La Cantera.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.30943,
+                        20.04073
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-HGO",
     coords: [-99.34, 20.066],
@@ -333,7 +2988,196 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Était le centre le plus important de la culture guerrière toltèque.", "Mondialement connu pour ses guerriers de pierre gigantesques, les « Atlantes de Tula ».", "A eu une influence culturelle et architecturale massive sur la civilisation aztèque ultérieure."],
     }, image: "/poi-images/tula-history-v2.webp"},
   {
-    id: "bonampak-history-v2",
+    id: "bonampak-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lakan'Ha",
+                  "text": "Ruinen von Lakan'Ha in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.114298,
+                        16.737759
+                  ]
+            },
+            {
+                  "name": "Temple sacrificiel Maya",
+                  "text": "Maya-Opfertempel, ein Monument in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.113238,
+                        16.736772
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Bonampak",
+                  "text": "Naturdenkmal Bonampak, ein Schutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -91.074801,
+                        16.707418
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Bonampak",
+                  "text": "Archäologische Zone von Bonampak, berühmt für ihre gut erhaltenen Maya-Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.063541,
+                        16.703827
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Ruinen eines Tempels in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.064695,
+                        16.703349
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lakan'Ha",
+                  "text": "Lakan'Ha romjai Bonampakban.",
+                  "category": "historical",
+                  "coords": [
+                        -91.114298,
+                        16.737759
+                  ]
+            },
+            {
+                  "name": "Temple sacrificiel Maya",
+                  "text": "Maja áldozati templom, emlékmű Bonampakban.",
+                  "category": "historical",
+                  "coords": [
+                        -91.113238,
+                        16.736772
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Bonampak",
+                  "text": "Bonampak természeti emlékmű, védett terület.",
+                  "category": "natural",
+                  "coords": [
+                        -91.074801,
+                        16.707418
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Bonampak",
+                  "text": "Bonampak régészeti övezete, híres jól megőrzött maja falfestményeiről.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.063541,
+                        16.703827
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Egy templom romjai Bonampakban.",
+                  "category": "historical",
+                  "coords": [
+                        -91.064695,
+                        16.703349
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lakan'Ha",
+                  "text": "Ruinele Lakan'Ha din Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.114298,
+                        16.737759
+                  ]
+            },
+            {
+                  "name": "Temple sacrificiel Maya",
+                  "text": "Templu sacrificial mayaș, monument în Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.113238,
+                        16.736772
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Bonampak",
+                  "text": "Monumentul natural Bonampak, o arie protejată.",
+                  "category": "natural",
+                  "coords": [
+                        -91.074801,
+                        16.707418
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Bonampak",
+                  "text": "Zona arheologică Bonampak, renumită pentru picturile murale mayașe bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.063541,
+                        16.703827
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Ruinele unui templu din Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.064695,
+                        16.703349
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lakan'Ha",
+                  "text": "Ruins of Lakan'Ha in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.114298,
+                        16.737759
+                  ]
+            },
+            {
+                  "name": "Temple sacrificiel Maya",
+                  "text": "Maya sacrificial temple, a monument in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.113238,
+                        16.736772
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Bonampak",
+                  "text": "Natural monument of Bonampak, a protected area.",
+                  "category": "natural",
+                  "coords": [
+                        -91.074801,
+                        16.707418
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Bonampak",
+                  "text": "Archaeological zone of Bonampak, famous for its well-preserved Maya murals.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.063541,
+                        16.703827
+                  ]
+            },
+            {
+                  "name": "Templo",
+                  "text": "Ruins of a temple in Bonampak.",
+                  "category": "historical",
+                  "coords": [
+                        -91.064695,
+                        16.703349
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CHP",
     coords: [-91.066, 16.708],
@@ -380,7 +3224,268 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Abrite les peintures murales de la culture maya les mieux conservées au monde.", "Les fresques ont montré pour la première fois que les Mayas étaient aussi guerriers.", "Le nom Bonampak signifie littéralement \"murs peints\" en langue maya."],
     }, image: "/poi-images/bonampak-history-v2.webp"},
   {
-    id: "yaxchilan-history-v2",
+    id: "yaxchilan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona Arqueológica de Yaxchilán",
+                  "text": "Archäologische Stätte von Yaxchilán, berühmt für ihre gemeißelten Türstürze.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967638,
+                        16.901489
+                  ]
+            },
+            {
+                  "name": "Pequeña Acrópolis",
+                  "text": "Ruinen der Kleinen Akropolis in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967095,
+                        16.899636
+                  ]
+            },
+            {
+                  "name": "La Gran Plaza",
+                  "text": "Ruinen der Großen Plaza in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.963889,
+                        16.899039
+                  ]
+            },
+            {
+                  "name": "Edificio 39",
+                  "text": "Ruinen von Gebäude 39 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.966676,
+                        16.897015
+                  ]
+            },
+            {
+                  "name": "Edificio 17",
+                  "text": "Ruinen von Gebäude 17 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.965225,
+                        16.900434
+                  ]
+            },
+            {
+                  "name": "Edificio 33",
+                  "text": "Ruinen von Gebäude 33 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.964791,
+                        16.898664
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yaxchilán",
+                  "text": "Naturdenkmal Yaxchilán, ein Schutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -90.981818,
+                        16.867209
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona Arqueológica de Yaxchilán",
+                  "text": "Yaxchilán régészeti lelőhelye, híres faragott szemöldökgerendáiról.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967638,
+                        16.901489
+                  ]
+            },
+            {
+                  "name": "Pequeña Acrópolis",
+                  "text": "A Kis Akropolisz romjai Yaxchilánban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967095,
+                        16.899636
+                  ]
+            },
+            {
+                  "name": "La Gran Plaza",
+                  "text": "A Nagy Pláza romjai Yaxchilánban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.963889,
+                        16.899039
+                  ]
+            },
+            {
+                  "name": "Edificio 39",
+                  "text": "A 39-es épület romjai Yaxchilánban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.966676,
+                        16.897015
+                  ]
+            },
+            {
+                  "name": "Edificio 17",
+                  "text": "A 17-es épület romjai Yaxchilánban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.965225,
+                        16.900434
+                  ]
+            },
+            {
+                  "name": "Edificio 33",
+                  "text": "A 33-as épület romjai Yaxchilánban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.964791,
+                        16.898664
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yaxchilán",
+                  "text": "Yaxchilán természeti emlékmű, védett terület.",
+                  "category": "natural",
+                  "coords": [
+                        -90.981818,
+                        16.867209
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona Arqueológica de Yaxchilán",
+                  "text": "Situl arheologic Yaxchilán, celebru pentru lintelurile sale sculptate.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967638,
+                        16.901489
+                  ]
+            },
+            {
+                  "name": "Pequeña Acrópolis",
+                  "text": "Ruinele Acropolei Mici din Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967095,
+                        16.899636
+                  ]
+            },
+            {
+                  "name": "La Gran Plaza",
+                  "text": "Ruinele Pieței Mari din Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.963889,
+                        16.899039
+                  ]
+            },
+            {
+                  "name": "Edificio 39",
+                  "text": "Ruinele Clădirii 39 din Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.966676,
+                        16.897015
+                  ]
+            },
+            {
+                  "name": "Edificio 17",
+                  "text": "Ruinele Clădirii 17 din Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.965225,
+                        16.900434
+                  ]
+            },
+            {
+                  "name": "Edificio 33",
+                  "text": "Ruinele Clădirii 33 din Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.964791,
+                        16.898664
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yaxchilán",
+                  "text": "Monumentul natural Yaxchilán, o arie protejată.",
+                  "category": "natural",
+                  "coords": [
+                        -90.981818,
+                        16.867209
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona Arqueológica de Yaxchilán",
+                  "text": "Archaeological site of Yaxchilán, famous for its carved lintels.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967638,
+                        16.901489
+                  ]
+            },
+            {
+                  "name": "Pequeña Acrópolis",
+                  "text": "Ruins of the Small Acropolis in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.967095,
+                        16.899636
+                  ]
+            },
+            {
+                  "name": "La Gran Plaza",
+                  "text": "Ruins of the Great Plaza in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.963889,
+                        16.899039
+                  ]
+            },
+            {
+                  "name": "Edificio 39",
+                  "text": "Ruins of Building 39 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.966676,
+                        16.897015
+                  ]
+            },
+            {
+                  "name": "Edificio 17",
+                  "text": "Ruins of Building 17 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.965225,
+                        16.900434
+                  ]
+            },
+            {
+                  "name": "Edificio 33",
+                  "text": "Ruins of Building 33 in Yaxchilán.",
+                  "category": "historical",
+                  "coords": [
+                        -90.964791,
+                        16.898664
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yaxchilán",
+                  "text": "Natural monument of Yaxchilán, a protected area.",
+                  "category": "natural",
+                  "coords": [
+                        -90.981818,
+                        16.867209
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CHP",
     coords: [-90.966, 16.899],
@@ -427,7 +3532,520 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Célèbre pour ses reliefs en pierre et ses linteaux extraordinairement détaillés.", "Ne peut être atteinte que par bateau en raison de son emplacement isolé sur le fleuve Usumacinta.", "A fourni aux chercheurs des textes extrêmement importants pour le déchiffrement de l'écriture maya."],
     }, image: "/poi-images/yaxchilan-history-v2.webp"},
   {
-    id: "xochicalco-history-v2",
+    id: "xochicalco-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xochi",
+                  "text": "Xochixaclo ist eine Attraktion in der Region Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.295862,
+                        18.804214
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xochicalco",
+                  "text": "Die Archeological Site of Xochicalco sind die Ruinen der antiken Stadt Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.29471,
+                        18.804044
+                  ]
+            },
+            {
+                  "name": "Museo del Sitio de Xochicalco",
+                  "text": "Das Museo del Sitio de Xochicalco ist das Museum vor Ort in Xochicalco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.290992,
+                        18.802158
+                  ]
+            },
+            {
+                  "name": "Palo Bolero",
+                  "text": "Palo Bolero ist ein Wasserpark in der Region Xochicalco.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.238681,
+                        18.766935
+                  ]
+            },
+            {
+                  "name": "Jardín Real",
+                  "text": "Der Jardín Real ist eine Attraktion in der Region Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.255203,
+                        18.857235
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "Der Palacio sind Ruinen eines Palastes in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.298856,
+                        18.801675
+                  ]
+            },
+            {
+                  "name": "Estructura E",
+                  "text": "Die Estructura E sind Ruinen einer Struktur in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296313,
+                        18.803297
+                  ]
+            },
+            {
+                  "name": "Cerro de la Bodega",
+                  "text": "Der Cerro de la Bodega sind Ruinen auf einem Hügel in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.291446,
+                        18.806182
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Norte",
+                  "text": "Der Juego de Pelota Norte sind Ruinen eines nördlichen Ballspielplatzes in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296354,
+                        18.805572
+                  ]
+            },
+            {
+                  "name": "Acrópolis",
+                  "text": "Die Acrópolis sind Ruinen der Akropolis in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.297363,
+                        18.80479
+                  ]
+            },
+            {
+                  "name": "La Parota",
+                  "text": "La Parota ist eine archäologische Stätte in der Region Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.267224,
+                        18.861412
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico \"Ojo de Agua\"",
+                  "text": "Der Parque Acuatico \"Ojo de Agua\" ist ein Wasserpark in der Region Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.229566,
+                        18.831594
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Xochitepequense",
+                  "text": "Das Centro Cultural Xochitepequense ist ein Museum in der Region Xochicalco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.229493,
+                        18.783957
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Coatetelco",
+                  "text": "Die Zona Arqueológica de Coatetelco ist eine archäologische Stätte in der Region Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.325935,
+                        18.726335
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xochi",
+                  "text": "Xochixaclo egy látványosság a Xochicalco régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.295862,
+                        18.804214
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xochicalco",
+                  "text": "Az Archeological Site of Xochicalco az ősi Xochicalco város romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -99.29471,
+                        18.804044
+                  ]
+            },
+            {
+                  "name": "Museo del Sitio de Xochicalco",
+                  "text": "A Museo del Sitio de Xochicalco a helyszíni múzeum Xochicalcóban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.290992,
+                        18.802158
+                  ]
+            },
+            {
+                  "name": "Palo Bolero",
+                  "text": "Palo Bolero egy vízipark a Xochicalco régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.238681,
+                        18.766935
+                  ]
+            },
+            {
+                  "name": "Jardín Real",
+                  "text": "A Jardín Real egy látványosság a Xochicalco régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.255203,
+                        18.857235
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "A Palacio egy palota romjai Xochicalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.298856,
+                        18.801675
+                  ]
+            },
+            {
+                  "name": "Estructura E",
+                  "text": "Az Estructura E egy építmény romjai Xochicalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296313,
+                        18.803297
+                  ]
+            },
+            {
+                  "name": "Cerro de la Bodega",
+                  "text": "A Cerro de la Bodega egy dombon lévő romok Xochicalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.291446,
+                        18.806182
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Norte",
+                  "text": "A Juego de Pelota Norte egy északi labdajáték-pálya romjai Xochicalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296354,
+                        18.805572
+                  ]
+            },
+            {
+                  "name": "Acrópolis",
+                  "text": "Az Acrópolis az akropolisz romjai Xochicalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.297363,
+                        18.80479
+                  ]
+            },
+            {
+                  "name": "La Parota",
+                  "text": "La Parota egy régészeti lelőhely a Xochicalco régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.267224,
+                        18.861412
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico \"Ojo de Agua\"",
+                  "text": "A Parque Acuatico \"Ojo de Agua\" egy vízipark a Xochicalco régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.229566,
+                        18.831594
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Xochitepequense",
+                  "text": "A Centro Cultural Xochitepequense egy múzeum a Xochicalco régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.229493,
+                        18.783957
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Coatetelco",
+                  "text": "A Zona Arqueológica de Coatetelco egy régészeti lelőhely a Xochicalco régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.325935,
+                        18.726335
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xochi",
+                  "text": "Xochixaclo este o atracție în regiunea Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.295862,
+                        18.804214
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xochicalco",
+                  "text": "Archeological Site of Xochicalco este ruina orașului antic Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.29471,
+                        18.804044
+                  ]
+            },
+            {
+                  "name": "Museo del Sitio de Xochicalco",
+                  "text": "Museo del Sitio de Xochicalco este muzeul de sit din Xochicalco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.290992,
+                        18.802158
+                  ]
+            },
+            {
+                  "name": "Palo Bolero",
+                  "text": "Palo Bolero este un parc acvatic în regiunea Xochicalco.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.238681,
+                        18.766935
+                  ]
+            },
+            {
+                  "name": "Jardín Real",
+                  "text": "Jardín Real este o atracție în regiunea Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.255203,
+                        18.857235
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "Palacio este ruina unui palat în Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.298856,
+                        18.801675
+                  ]
+            },
+            {
+                  "name": "Estructura E",
+                  "text": "Estructura E este ruina unei structuri în Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296313,
+                        18.803297
+                  ]
+            },
+            {
+                  "name": "Cerro de la Bodega",
+                  "text": "Cerro de la Bodega este o ruină pe un deal în Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.291446,
+                        18.806182
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Norte",
+                  "text": "Juego de Pelota Norte este ruina unui teren de joc cu mingea nordic în Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296354,
+                        18.805572
+                  ]
+            },
+            {
+                  "name": "Acrópolis",
+                  "text": "Acrópolis este ruina acropolei în Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.297363,
+                        18.80479
+                  ]
+            },
+            {
+                  "name": "La Parota",
+                  "text": "La Parota este un sit arheologic în regiunea Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.267224,
+                        18.861412
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico \"Ojo de Agua\"",
+                  "text": "Parque Acuatico \"Ojo de Agua\" este un parc acvatic în regiunea Xochicalco.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.229566,
+                        18.831594
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Xochitepequense",
+                  "text": "Centro Cultural Xochitepequense este un muzeu în regiunea Xochicalco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.229493,
+                        18.783957
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Coatetelco",
+                  "text": "Zona Arqueológica de Coatetelco este un sit arheologic în regiunea Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.325935,
+                        18.726335
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xochixaclo",
+                  "text": "Xochixaclo is an attraction in the Xochicalco region.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.295862,
+                        18.804214
+                  ]
+            },
+            {
+                  "name": "Archeological Site of Xochicalco",
+                  "text": "Archeological Site of Xochicalco is the ruin of the ancient city of Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.29471,
+                        18.804044
+                  ]
+            },
+            {
+                  "name": "Museo del Sitio de Xochicalco",
+                  "text": "Museo del Sitio de Xochicalco is the site museum in Xochicalco.",
+                  "category": "museum",
+                  "coords": [
+                        -99.290992,
+                        18.802158
+                  ]
+            },
+            {
+                  "name": "Palo Bolero",
+                  "text": "Palo Bolero is a water park in the Xochicalco region.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.238681,
+                        18.766935
+                  ]
+            },
+            {
+                  "name": "Jardín Real",
+                  "text": "Jardín Real is an attraction in the Xochicalco region.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.255203,
+                        18.857235
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "Palacio is the ruin of a palace in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.298856,
+                        18.801675
+                  ]
+            },
+            {
+                  "name": "Estructura E",
+                  "text": "Estructura E is the ruin of a structure in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296313,
+                        18.803297
+                  ]
+            },
+            {
+                  "name": "Cerro de la Bodega",
+                  "text": "Cerro de la Bodega is a ruin on a hill in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.291446,
+                        18.806182
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota Norte",
+                  "text": "Juego de Pelota Norte is the ruin of a northern ball court in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.296354,
+                        18.805572
+                  ]
+            },
+            {
+                  "name": "Acrópolis",
+                  "text": "Acrópolis is the ruin of the acropolis in Xochicalco.",
+                  "category": "historical",
+                  "coords": [
+                        -99.297363,
+                        18.80479
+                  ]
+            },
+            {
+                  "name": "La Parota",
+                  "text": "La Parota is an archaeological site in the Xochicalco region.",
+                  "category": "historical",
+                  "coords": [
+                        -99.267224,
+                        18.861412
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico \"Ojo de Agua\"",
+                  "text": "Parque Acuatico \"Ojo de Agua\" is a water park in the Xochicalco region.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.229566,
+                        18.831594
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Xochitepequense",
+                  "text": "Centro Cultural Xochitepequense is a museum in the Xochicalco region.",
+                  "category": "museum",
+                  "coords": [
+                        -99.229493,
+                        18.783957
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Coatetelco",
+                  "text": "Zona Arqueológica de Coatetelco is an archaeological site in the Xochicalco region.",
+                  "category": "historical",
+                  "coords": [
+                        -99.325935,
+                        18.726335
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-MOR",
     coords: [-99.296, 18.805],
@@ -474,7 +4092,124 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["La cité a été construite comme un centre commercial fortifié sur une colline.", "Abrite un observatoire souterrain pour suivre avec précision la course du soleil.", "Le temple du Serpent à plumes présente d'impressionnants reliefs en pierre interculturels."],
     }, image: "/poi-images/xochicalco-history-v2.webp"},
   {
-    id: "edzna-history-v2",
+    id: "edzna-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Redonda",
+                  "text": "Die Casa Redonda in Edzná ist ein rundes Gebäude aus der Maya-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -90.231189,
+                        19.597876
+                  ]
+            },
+            {
+                  "name": "Ball Court (east)",
+                  "text": "Der östliche Ballplatz in Edzná ist ein Ruinenplatz für das Ballspiel.",
+                  "category": "historical",
+                  "coords": [
+                        -90.230531,
+                        19.59642
+                  ]
+            },
+            {
+                  "name": "Temple of the Five Storeys",
+                  "text": "Der Temple of the Five Storeys in Edzná ist ein fünfstöckiger Tempel.",
+                  "category": "historical",
+                  "coords": [
+                        -90.229126,
+                        19.596807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Redonda",
+                  "text": "Az edzná-i Casa Redonda egy kerek maja épület.",
+                  "category": "historical",
+                  "coords": [
+                        -90.231189,
+                        19.597876
+                  ]
+            },
+            {
+                  "name": "Ball Court (east)",
+                  "text": "Az edzná-i keleti labdapálya egy romos labdajáték-pálya.",
+                  "category": "historical",
+                  "coords": [
+                        -90.230531,
+                        19.59642
+                  ]
+            },
+            {
+                  "name": "Temple of the Five Storeys",
+                  "text": "Az edzná-i Temple of the Five Storeys egy ötemeletes templom.",
+                  "category": "historical",
+                  "coords": [
+                        -90.229126,
+                        19.596807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Redonda",
+                  "text": "Casa Rotundă din Edzná este o clădire circulară mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -90.231189,
+                        19.597876
+                  ]
+            },
+            {
+                  "name": "Ball Court (east)",
+                  "text": "Terenul de joc cu mingea (est) din Edzná este un teren de joc în ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -90.230531,
+                        19.59642
+                  ]
+            },
+            {
+                  "name": "Temple of the Five Storeys",
+                  "text": "Templul celor Cinci Niveluri din Edzná este un templu cu cinci etaje.",
+                  "category": "historical",
+                  "coords": [
+                        -90.229126,
+                        19.596807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Redonda",
+                  "text": "The Round House in Edzná is a circular Maya building.",
+                  "category": "historical",
+                  "coords": [
+                        -90.231189,
+                        19.597876
+                  ]
+            },
+            {
+                  "name": "Ball Court (east)",
+                  "text": "The east ball court in Edzná is a ruined ball game court.",
+                  "category": "historical",
+                  "coords": [
+                        -90.230531,
+                        19.59642
+                  ]
+            },
+            {
+                  "name": "Temple of the Five Storeys",
+                  "text": "The Temple of the Five Storeys in Edzná is a five-storey temple.",
+                  "category": "historical",
+                  "coords": [
+                        -90.229126,
+                        19.596807
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CAM",
     coords: [-90.229, 19.596],
@@ -521,7 +4256,700 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Le bâtiment le plus remarquable est l'impressionnante pyramide à cinq étages.", "Présente un mélange architectural des styles Petén, Chenes et Puuc.", "Possédait un système antique d'eau et d'égouts extrêmement complexe."],
     }, image: "/poi-images/edzna-history-v2.webp"},
   {
-    id: "becan-history-v2",
+    id: "becan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caca de Yhanha",
+                  "text": "Eine archäologische Stätte in Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.499081,
+                        18.53056
+                  ]
+            },
+            {
+                  "name": "Monticulo 1",
+                  "text": "Ruinen in Becán, genannt Monticulo 1.",
+                  "category": "historical",
+                  "coords": [
+                        -89.390496,
+                        18.50949
+                  ]
+            },
+            {
+                  "name": "La Campechana",
+                  "text": "Ein Denkmal in Becán mit dem Namen La Campechana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394779,
+                        18.508247
+                  ]
+            },
+            {
+                  "name": "Maya Balam",
+                  "text": "Ein Hotel in Becán, Maya Balam genannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.400042,
+                        18.506641
+                  ]
+            },
+            {
+                  "name": "Centauro del Norte",
+                  "text": "Eine archäologische Stätte in Becán, Centauro del Norte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46601,
+                        18.43312
+                  ]
+            },
+            {
+                  "name": "Xuch",
+                  "text": "Eine archäologische Stätte in Becán namens Xuch.",
+                  "category": "historical",
+                  "coords": [
+                        -89.450732,
+                        18.48783
+                  ]
+            },
+            {
+                  "name": "Chicanna Ruinen",
+                  "text": "Die Chicanna Ruinen sind eine Sehenswürdigkeit in Becán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.487011,
+                        18.508102
+                  ]
+            },
+            {
+                  "name": "CHanna",
+                  "text": "Eine archäologische Stätte in Becán, CHanna genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.49279,
+                        18.461943
+                  ]
+            },
+            {
+                  "name": "Estrectura VI",
+                  "text": "Ruinen in Becán, als Estrectura VI bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48539,
+                        18.506013
+                  ]
+            },
+            {
+                  "name": "Estrectura I",
+                  "text": "Ruinen in Becán, Estrectura I genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.486842,
+                        18.50686
+                  ]
+            },
+            {
+                  "name": "Altar Circular",
+                  "text": "Ein runder Altar als Ruine in Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46624,
+                        18.516331
+                  ]
+            },
+            {
+                  "name": "Estrectura VIII",
+                  "text": "Ruinen in Becán, Estrectura VIII genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.466432,
+                        18.517841
+                  ]
+            },
+            {
+                  "name": "Estrectura XX",
+                  "text": "Ruinen in Becán, als Estrectura XX bezeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48876,
+                        18.509597
+                  ]
+            },
+            {
+                  "name": "Estructura X",
+                  "text": "Ruinen in Becán, Estructura X (korrekte Schreibweise).",
+                  "category": "historical",
+                  "coords": [
+                        -89.467955,
+                        18.518089
+                  ]
+            },
+            {
+                  "name": "Struktur I",
+                  "text": "Ruinen in Becán, als Structure I bezeichnet.",
+                  "category": "historical",
+                  "coords": [
+                        -89.406476,
+                        18.510691
+                  ]
+            },
+            {
+                  "name": "Struktur III",
+                  "text": "Ruinen in Becán, Structure III genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.405423,
+                        18.510235
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Xpujil",
+                  "text": "Die archäologische Zone Xpujil ist eine Maya-Stätte mit einem markanten dreitürmigen Bauwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404056,
+                        18.510067
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Ruinen in Becán, Estructura V genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.403013,
+                        18.510213
+                  ]
+            },
+            {
+                  "name": "Estrectura XI",
+                  "text": "Ruinen in Becán, Estrectura XI genannt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.487806,
+                        18.50662
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caca de Yhanha",
+                  "text": "Egy régészeti lelőhely Becánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.499081,
+                        18.53056
+                  ]
+            },
+            {
+                  "name": "Monticulo 1",
+                  "text": "Romok Becánban, Monticulo 1 néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.390496,
+                        18.50949
+                  ]
+            },
+            {
+                  "name": "La Campechana",
+                  "text": "Egy emlékmű Becánban, La Campechana néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394779,
+                        18.508247
+                  ]
+            },
+            {
+                  "name": "Maya Balam",
+                  "text": "Egy szálloda Becánban, Maya Balam néven.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.400042,
+                        18.506641
+                  ]
+            },
+            {
+                  "name": "Centauro del Norte",
+                  "text": "Egy régészeti lelőhely Becánban, Centauro del Norte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46601,
+                        18.43312
+                  ]
+            },
+            {
+                  "name": "Xuch",
+                  "text": "Egy régészeti lelőhely Becánban, Xuch néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.450732,
+                        18.48783
+                  ]
+            },
+            {
+                  "name": "Chicanna - La casa de la boca de serpiente",
+                  "text": "A Chicanna romok egy látványosság Becánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.487011,
+                        18.508102
+                  ]
+            },
+            {
+                  "name": "CHanna",
+                  "text": "Egy régészeti lelőhely Becánban, CHanna néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.49279,
+                        18.461943
+                  ]
+            },
+            {
+                  "name": "Estrectura VI",
+                  "text": "Romok Becánban, Estrectura VI néven ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48539,
+                        18.506013
+                  ]
+            },
+            {
+                  "name": "Estrectura I",
+                  "text": "Romok Becánban, Estrectura I néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.486842,
+                        18.50686
+                  ]
+            },
+            {
+                  "name": "Altar Circular",
+                  "text": "Egy kör alakú oltár romja Becánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46624,
+                        18.516331
+                  ]
+            },
+            {
+                  "name": "Estrectura VIII",
+                  "text": "Romok Becánban, Estrectura VIII néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.466432,
+                        18.517841
+                  ]
+            },
+            {
+                  "name": "Estrectura XX",
+                  "text": "Romok Becánban, Estrectura XX néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48876,
+                        18.509597
+                  ]
+            },
+            {
+                  "name": "Estructura X",
+                  "text": "Romok Becánban, Estructura X (helyes írásmód).",
+                  "category": "historical",
+                  "coords": [
+                        -89.467955,
+                        18.518089
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Romok Becánban, Structure I néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.406476,
+                        18.510691
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Romok Becánban, Structure III néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.405423,
+                        18.510235
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Xpujil",
+                  "text": "A Xpujil régészeti zóna egy maja lelőhely, amely jellegzetes háromtornyos építményéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404056,
+                        18.510067
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Romok Becánban, Estructura V néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.403013,
+                        18.510213
+                  ]
+            },
+            {
+                  "name": "Estrectura XI",
+                  "text": "Romok Becánban, Estrectura XI néven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.487806,
+                        18.50662
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caca de Yhanha",
+                  "text": "Un sit arheologic în Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.499081,
+                        18.53056
+                  ]
+            },
+            {
+                  "name": "Monticulo 1",
+                  "text": "Ruine în Becán, numite Monticulo 1.",
+                  "category": "historical",
+                  "coords": [
+                        -89.390496,
+                        18.50949
+                  ]
+            },
+            {
+                  "name": "La Campechana",
+                  "text": "Un monument în Becán numit La Campechana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394779,
+                        18.508247
+                  ]
+            },
+            {
+                  "name": "Maya Balam",
+                  "text": "Un hotel în Becán numit Maya Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.400042,
+                        18.506641
+                  ]
+            },
+            {
+                  "name": "Centauro del Norte",
+                  "text": "Un sit arheologic în Becán, Centauro del Norte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46601,
+                        18.43312
+                  ]
+            },
+            {
+                  "name": "Xuch",
+                  "text": "Un sit arheologic în Becán numit Xuch.",
+                  "category": "historical",
+                  "coords": [
+                        -89.450732,
+                        18.48783
+                  ]
+            },
+            {
+                  "name": "Chicanna - La casa de la boca de serpiente",
+                  "text": "Ruinele Chicanna sunt o atracție în Becán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.487011,
+                        18.508102
+                  ]
+            },
+            {
+                  "name": "CHanna",
+                  "text": "Un sit arheologic în Becán numit CHanna.",
+                  "category": "historical",
+                  "coords": [
+                        -89.49279,
+                        18.461943
+                  ]
+            },
+            {
+                  "name": "Estrectura VI",
+                  "text": "Ruine în Becán, cunoscute ca Estrectura VI.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48539,
+                        18.506013
+                  ]
+            },
+            {
+                  "name": "Estrectura I",
+                  "text": "Ruine în Becán numite Estrectura I.",
+                  "category": "historical",
+                  "coords": [
+                        -89.486842,
+                        18.50686
+                  ]
+            },
+            {
+                  "name": "Altar Circular",
+                  "text": "Un altar circular ca ruină în Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46624,
+                        18.516331
+                  ]
+            },
+            {
+                  "name": "Estrectura VIII",
+                  "text": "Ruine în Becán numite Estrectura VIII.",
+                  "category": "historical",
+                  "coords": [
+                        -89.466432,
+                        18.517841
+                  ]
+            },
+            {
+                  "name": "Estrectura XX",
+                  "text": "Ruine în Becán, denumite Estrectura XX.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48876,
+                        18.509597
+                  ]
+            },
+            {
+                  "name": "Estructura X",
+                  "text": "Ruine în Becán, Estructura X (ortografie corectă).",
+                  "category": "historical",
+                  "coords": [
+                        -89.467955,
+                        18.518089
+                  ]
+            },
+            {
+                  "name": "Estructura I",
+                  "text": "Ruine în Becán, denumite Structure I.",
+                  "category": "historical",
+                  "coords": [
+                        -89.406476,
+                        18.510691
+                  ]
+            },
+            {
+                  "name": "Estructura III",
+                  "text": "Ruine în Becán numite Structure III.",
+                  "category": "historical",
+                  "coords": [
+                        -89.405423,
+                        18.510235
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Xpujil",
+                  "text": "Zona arheologică Xpujil este un sit mayaș cu o structură distinctivă cu trei turnuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404056,
+                        18.510067
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Ruine în Becán numite Estructura V.",
+                  "category": "historical",
+                  "coords": [
+                        -89.403013,
+                        18.510213
+                  ]
+            },
+            {
+                  "name": "Estrectura XI",
+                  "text": "Ruine în Becán numite Estrectura XI.",
+                  "category": "historical",
+                  "coords": [
+                        -89.487806,
+                        18.50662
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caca de Yhanha",
+                  "text": "An archaeological site in Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.499081,
+                        18.53056
+                  ]
+            },
+            {
+                  "name": "Monticulo 1",
+                  "text": "Ruins in Becán called Monticulo 1.",
+                  "category": "historical",
+                  "coords": [
+                        -89.390496,
+                        18.50949
+                  ]
+            },
+            {
+                  "name": "La Campechana",
+                  "text": "A monument in Becán named La Campechana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394779,
+                        18.508247
+                  ]
+            },
+            {
+                  "name": "Maya Balam",
+                  "text": "A hotel in Becán called Maya Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.400042,
+                        18.506641
+                  ]
+            },
+            {
+                  "name": "Centauro del Norte",
+                  "text": "An archaeological site in Becán, Centauro del Norte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46601,
+                        18.43312
+                  ]
+            },
+            {
+                  "name": "Xuch",
+                  "text": "An archaeological site in Becán named Xuch.",
+                  "category": "historical",
+                  "coords": [
+                        -89.450732,
+                        18.48783
+                  ]
+            },
+            {
+                  "name": "Chicanna Ruins",
+                  "text": "The Chicanna Ruins are an attraction in Becán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.487011,
+                        18.508102
+                  ]
+            },
+            {
+                  "name": "CHanna",
+                  "text": "An archaeological site in Becán called CHanna.",
+                  "category": "historical",
+                  "coords": [
+                        -89.49279,
+                        18.461943
+                  ]
+            },
+            {
+                  "name": "Estrectura VI",
+                  "text": "Ruins in Becán known as Estrectura VI.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48539,
+                        18.506013
+                  ]
+            },
+            {
+                  "name": "Estrectura I",
+                  "text": "Ruins in Becán called Estrectura I.",
+                  "category": "historical",
+                  "coords": [
+                        -89.486842,
+                        18.50686
+                  ]
+            },
+            {
+                  "name": "Altar Circular",
+                  "text": "A circular altar as ruins in Becán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.46624,
+                        18.516331
+                  ]
+            },
+            {
+                  "name": "Estrectura VIII",
+                  "text": "Ruins in Becán called Estrectura VIII.",
+                  "category": "historical",
+                  "coords": [
+                        -89.466432,
+                        18.517841
+                  ]
+            },
+            {
+                  "name": "Estrectura XX",
+                  "text": "Ruins in Becán referred to as Estrectura XX.",
+                  "category": "historical",
+                  "coords": [
+                        -89.48876,
+                        18.509597
+                  ]
+            },
+            {
+                  "name": "Estructura X",
+                  "text": "Ruins in Becán, Estructura X (correct spelling).",
+                  "category": "historical",
+                  "coords": [
+                        -89.467955,
+                        18.518089
+                  ]
+            },
+            {
+                  "name": "Structure I",
+                  "text": "Ruins in Becán designated as Structure I.",
+                  "category": "historical",
+                  "coords": [
+                        -89.406476,
+                        18.510691
+                  ]
+            },
+            {
+                  "name": "Structure III",
+                  "text": "Ruins in Becán called Structure III.",
+                  "category": "historical",
+                  "coords": [
+                        -89.405423,
+                        18.510235
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Xpujil",
+                  "text": "The Xpujil archaeological zone is a Maya site with a distinctive three-tower structure.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404056,
+                        18.510067
+                  ]
+            },
+            {
+                  "name": "Estructura V",
+                  "text": "Ruins in Becán called Estructura V.",
+                  "category": "historical",
+                  "coords": [
+                        -89.403013,
+                        18.510213
+                  ]
+            },
+            {
+                  "name": "Estrectura XI",
+                  "text": "Ruins in Becán called Estrectura XI.",
+                  "category": "historical",
+                  "coords": [
+                        -89.487806,
+                        18.50662
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CAM",
     coords: [-89.46, 18.52],
@@ -568,7 +4996,664 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Est entouré d'un grand fossé antique, ce qui est très rare chez les Mayas.", "Considéré comme le centre politique et militaire de la région dite de Río Bec.", "Comprend des tours factices marquantes qui servaient à des fins purement décoratives."],
     }, image: "/poi-images/becan-history-v2.webp"},
   {
-    id: "kabah-history-v2",
+    id: "kabah-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las momias",
+                  "text": "Das Museo de las momias in Kabah zeigt Mumien aus Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.641478,
+                        20.327911
+                  ]
+            },
+            {
+                  "name": "Stela 9",
+                  "text": "Die Stela 9 in Kabah ist ein geschnitzter Steinmonolith.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.651412,
+                        20.173714
+                  ]
+            },
+            {
+                  "name": "Grupo 3",
+                  "text": "Grupo 3 in Kabah ist eine Gruppe von Ruinenstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.608664,
+                        20.175351
+                  ]
+            },
+            {
+                  "name": "Segunda Casa (Estrectura 2C2)",
+                  "text": "Die Segunda Casa (Struktur 2C2) in Kabah ist ein Ruinenbau.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646341,
+                        20.248366
+                  ]
+            },
+            {
+                  "name": "Estrectura 1C1",
+                  "text": "Die Struktur 1C1 in Kabah ist eine Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.643797,
+                        20.248923
+                  ]
+            },
+            {
+                  "name": "Palast der Masken",
+                  "text": "Der Palace of the Masks in Kabah ist bekannt für seine Maskenverzierungen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.647308,
+                        20.247939
+                  ]
+            },
+            {
+                  "name": "Arco",
+                  "text": "Der Arco in Kabah ist ein Bogen aus der Maya-Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -89.650205,
+                        20.25011
+                  ]
+            },
+            {
+                  "name": "Gran Pirámide",
+                  "text": "Die Gran Pirámide in Kabah ist die große Pyramide der Stätte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649001,
+                        20.250321
+                  ]
+            },
+            {
+                  "name": "El Palacio - Grupo 1",
+                  "text": "El Palacio - Grupo 1 in Kabah ist ein Palast in der ersten Gruppe.",
+                  "category": "historical",
+                  "coords": [
+                        -89.606154,
+                        20.174119
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xlapak",
+                  "text": "Die Zona Arqueológica de Xlapak ist eine Maya-archäologische Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.607699,
+                        20.174647
+                  ]
+            },
+            {
+                  "name": "Grupo 2",
+                  "text": "Grupo 2 in Kabah ist eine Gruppe von Ruinenstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.609132,
+                        20.174397
+                  ]
+            },
+            {
+                  "name": "Parque Estatal de Kabah",
+                  "text": "Der Parque Estatal de Kabah ist ein Staatspark in Kabah.",
+                  "category": "natural",
+                  "coords": [
+                        -89.650938,
+                        20.245082
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "Der Palacio in Kabah ist ein Palastruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.651869,
+                        20.178145
+                  ]
+            },
+            {
+                  "name": "2-B-5",
+                  "text": "Die Struktur 2-B-5 in Kabah ist eine Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.652733,
+                        20.176895
+                  ]
+            },
+            {
+                  "name": "Templo de las Columnas",
+                  "text": "Der Templo de las Columnas in Kabah ist ein Tempel mit Säulen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649762,
+                        20.176233
+                  ]
+            },
+            {
+                  "name": "Sayil",
+                  "text": "Sayil ist eine Maya-archäologische Stätte in der Region Kabah.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.652576,
+                        20.17394
+                  ]
+            },
+            {
+                  "name": "Templo del Linteles",
+                  "text": "Der Templo del Linteles in Kabah ist ein Tempel mit Türstürzen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.654091,
+                        20.173991
+                  ]
+            },
+            {
+                  "name": "Grupo del Sur",
+                  "text": "Grupo del Sur in Kabah ist die südliche Gruppe von Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.653426,
+                        20.169221
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las momias",
+                  "text": "A kabah-i Museo de las momias a Santa Elena-i múmiákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.641478,
+                        20.327911
+                  ]
+            },
+            {
+                  "name": "Stela 9",
+                  "text": "A kabah-i 9-es sztélé egy faragott kőmonolit.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.651412,
+                        20.173714
+                  ]
+            },
+            {
+                  "name": "Grupo 3",
+                  "text": "A kabah-i 3-as csoport romépületek együttese.",
+                  "category": "historical",
+                  "coords": [
+                        -89.608664,
+                        20.175351
+                  ]
+            },
+            {
+                  "name": "Segunda Casa (Estrectura 2C2)",
+                  "text": "A kabah-i Segunda Casa (2C2-es épület) egy romépület.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646341,
+                        20.248366
+                  ]
+            },
+            {
+                  "name": "Estrectura 1C1",
+                  "text": "A kabah-i 1C1-es épület egy rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.643797,
+                        20.248923
+                  ]
+            },
+            {
+                  "name": "Templo de las Máscaras Codzpoop (Estrectura 2C6)",
+                  "text": "A kabah-i Palace of the Masks maszkdíszítéseiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -89.647308,
+                        20.247939
+                  ]
+            },
+            {
+                  "name": "Arco",
+                  "text": "A kabah-i Arco egy maja kori boltív.",
+                  "category": "historical",
+                  "coords": [
+                        -89.650205,
+                        20.25011
+                  ]
+            },
+            {
+                  "name": "Gran Pirámide",
+                  "text": "A kabah-i Gran Pirámide a helyszín nagy piramisa.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649001,
+                        20.250321
+                  ]
+            },
+            {
+                  "name": "El Palacio - Grupo 1",
+                  "text": "A kabah-i El Palacio - 1. csoport egy palota az első csoportban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.606154,
+                        20.174119
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xlapak",
+                  "text": "A xlapaki régészeti övezet egy maja régészeti lelőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.607699,
+                        20.174647
+                  ]
+            },
+            {
+                  "name": "Grupo 2",
+                  "text": "A kabah-i 2-es csoport romépületek együttese.",
+                  "category": "historical",
+                  "coords": [
+                        -89.609132,
+                        20.174397
+                  ]
+            },
+            {
+                  "name": "Parque Estatal de Kabah",
+                  "text": "A kabah-i Parque Estatal de Kabah egy állami park.",
+                  "category": "natural",
+                  "coords": [
+                        -89.650938,
+                        20.245082
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "A kabah-i Palacio egy palotarom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.651869,
+                        20.178145
+                  ]
+            },
+            {
+                  "name": "2-B-5",
+                  "text": "A kabah-i 2-B-5 épület egy rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.652733,
+                        20.176895
+                  ]
+            },
+            {
+                  "name": "Templo de las Columnas",
+                  "text": "A kabah-i Templo de las Columnas egy oszlopos templom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649762,
+                        20.176233
+                  ]
+            },
+            {
+                  "name": "Sayil",
+                  "text": "Sayil egy maja régészeti lelőhely a kabah-i régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.652576,
+                        20.17394
+                  ]
+            },
+            {
+                  "name": "Templo del Linteles",
+                  "text": "A kabah-i Templo del Linteles egy szemöldökgerendákkal rendelkező templom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.654091,
+                        20.173991
+                  ]
+            },
+            {
+                  "name": "Grupo del Sur",
+                  "text": "A kabah-i Grupo del Sur a romok déli csoportja.",
+                  "category": "historical",
+                  "coords": [
+                        -89.653426,
+                        20.169221
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las momias",
+                  "text": "Muzeul de Mumii din Kabah expune mumii din Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.641478,
+                        20.327911
+                  ]
+            },
+            {
+                  "name": "Stela 9",
+                  "text": "Stela 9 din Kabah este un monolit de piatră sculptat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.651412,
+                        20.173714
+                  ]
+            },
+            {
+                  "name": "Grupo 3",
+                  "text": "Grupul 3 din Kabah este un grup de structuri în ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.608664,
+                        20.175351
+                  ]
+            },
+            {
+                  "name": "Segunda Casa (Estrectura 2C2)",
+                  "text": "Casa a Doua (Structura 2C2) din Kabah este o ruină.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646341,
+                        20.248366
+                  ]
+            },
+            {
+                  "name": "Estrectura 1C1",
+                  "text": "Structura 1C1 din Kabah este o ruină.",
+                  "category": "historical",
+                  "coords": [
+                        -89.643797,
+                        20.248923
+                  ]
+            },
+            {
+                  "name": "Templo de las Máscaras Codzpoop (Estrectura 2C6)",
+                  "text": "Palatul Măștilor din Kabah este cunoscut pentru decorațiunile cu măști.",
+                  "category": "historical",
+                  "coords": [
+                        -89.647308,
+                        20.247939
+                  ]
+            },
+            {
+                  "name": "Arco",
+                  "text": "Arcul din Kabah este un arc mayaș.",
+                  "category": "historical",
+                  "coords": [
+                        -89.650205,
+                        20.25011
+                  ]
+            },
+            {
+                  "name": "Gran Pirámide",
+                  "text": "Marea Piramidă din Kabah este piramida principală a sitului.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649001,
+                        20.250321
+                  ]
+            },
+            {
+                  "name": "El Palacio - Grupo 1",
+                  "text": "El Palacio - Grupul 1 din Kabah este un palat din primul grup.",
+                  "category": "historical",
+                  "coords": [
+                        -89.606154,
+                        20.174119
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xlapak",
+                  "text": "Zona arheologică Xlapak este un sit arheologic mayaș.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.607699,
+                        20.174647
+                  ]
+            },
+            {
+                  "name": "Grupo 2",
+                  "text": "Grupul 2 din Kabah este un grup de structuri în ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.609132,
+                        20.174397
+                  ]
+            },
+            {
+                  "name": "Parque Estatal de Kabah",
+                  "text": "Parcul de Stat Kabah este un parc de stat în Kabah.",
+                  "category": "natural",
+                  "coords": [
+                        -89.650938,
+                        20.245082
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "Palatul din Kabah este o ruină de palat.",
+                  "category": "historical",
+                  "coords": [
+                        -89.651869,
+                        20.178145
+                  ]
+            },
+            {
+                  "name": "2-B-5",
+                  "text": "Structura 2-B-5 din Kabah este o ruină.",
+                  "category": "historical",
+                  "coords": [
+                        -89.652733,
+                        20.176895
+                  ]
+            },
+            {
+                  "name": "Templo de las Columnas",
+                  "text": "Templul Coloanelor din Kabah este un templu cu coloane.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649762,
+                        20.176233
+                  ]
+            },
+            {
+                  "name": "Sayil",
+                  "text": "Sayil este un sit arheologic mayaș în regiunea Kabah.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.652576,
+                        20.17394
+                  ]
+            },
+            {
+                  "name": "Templo del Linteles",
+                  "text": "Templul Lintelilor din Kabah este un templu cu linteluri.",
+                  "category": "historical",
+                  "coords": [
+                        -89.654091,
+                        20.173991
+                  ]
+            },
+            {
+                  "name": "Grupo del Sur",
+                  "text": "Grupul de Sud din Kabah este grupul sudic de ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.653426,
+                        20.169221
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de las momias",
+                  "text": "The Museum of Mummies in Kabah exhibits mummies from Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.641478,
+                        20.327911
+                  ]
+            },
+            {
+                  "name": "Stela 9",
+                  "text": "Stela 9 in Kabah is a carved stone monolith.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.651412,
+                        20.173714
+                  ]
+            },
+            {
+                  "name": "Grupo 3",
+                  "text": "Group 3 in Kabah is a group of ruined structures.",
+                  "category": "historical",
+                  "coords": [
+                        -89.608664,
+                        20.175351
+                  ]
+            },
+            {
+                  "name": "Segunda Casa (Estrectura 2C2)",
+                  "text": "The Segunda Casa (Structure 2C2) in Kabah is a ruined building.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646341,
+                        20.248366
+                  ]
+            },
+            {
+                  "name": "Estrectura 1C1",
+                  "text": "Structure 1C1 in Kabah is a ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.643797,
+                        20.248923
+                  ]
+            },
+            {
+                  "name": "Palace of the Masks",
+                  "text": "The Palace of the Masks in Kabah is known for its mask decorations.",
+                  "category": "historical",
+                  "coords": [
+                        -89.647308,
+                        20.247939
+                  ]
+            },
+            {
+                  "name": "Arco",
+                  "text": "The Arch in Kabah is a Maya arch.",
+                  "category": "historical",
+                  "coords": [
+                        -89.650205,
+                        20.25011
+                  ]
+            },
+            {
+                  "name": "Gran Pirámide",
+                  "text": "The Great Pyramid in Kabah is the site's main pyramid.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649001,
+                        20.250321
+                  ]
+            },
+            {
+                  "name": "El Palacio - Grupo 1",
+                  "text": "El Palacio - Group 1 in Kabah is a palace in the first group.",
+                  "category": "historical",
+                  "coords": [
+                        -89.606154,
+                        20.174119
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Xlapak",
+                  "text": "The Xlapak archaeological zone is a Maya archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.607699,
+                        20.174647
+                  ]
+            },
+            {
+                  "name": "Grupo 2",
+                  "text": "Group 2 in Kabah is a group of ruined structures.",
+                  "category": "historical",
+                  "coords": [
+                        -89.609132,
+                        20.174397
+                  ]
+            },
+            {
+                  "name": "Parque Estatal de Kabah",
+                  "text": "The Kabah State Park is a state park in Kabah.",
+                  "category": "natural",
+                  "coords": [
+                        -89.650938,
+                        20.245082
+                  ]
+            },
+            {
+                  "name": "Palacio",
+                  "text": "The Palace in Kabah is a palace ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.651869,
+                        20.178145
+                  ]
+            },
+            {
+                  "name": "2-B-5",
+                  "text": "Structure 2-B-5 in Kabah is a ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.652733,
+                        20.176895
+                  ]
+            },
+            {
+                  "name": "Templo de las Columnas",
+                  "text": "The Temple of the Columns in Kabah is a temple with columns.",
+                  "category": "historical",
+                  "coords": [
+                        -89.649762,
+                        20.176233
+                  ]
+            },
+            {
+                  "name": "Sayil",
+                  "text": "Sayil is a Maya archaeological site in the Kabah region.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.652576,
+                        20.17394
+                  ]
+            },
+            {
+                  "name": "Templo del Linteles",
+                  "text": "The Temple of the Lintels in Kabah is a temple with lintels.",
+                  "category": "historical",
+                  "coords": [
+                        -89.654091,
+                        20.173991
+                  ]
+            },
+            {
+                  "name": "Grupo del Sur",
+                  "text": "The Southern Group in Kabah is the southern group of ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -89.653426,
+                        20.169221
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-YUC",
     coords: [-89.65, 20.25],
@@ -615,7 +5700,160 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Est célèbre pour le Codz Poop, dont la façade se compose de près de 300 masques de Chaac.", "Était relié directement à la métropole d'Uxmal par une longue route cérémonielle.", "Fait partie des sites les plus importants et les mieux préservés du style architectural Puuc."],
     }, image: "/poi-images/kabah-history-v2.webp"},
   {
-    id: "la-venta-history-v2",
+    id: "la-venta-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento 3",
+                  "text": "Ein Denkmal auf der archäologischen Stätte La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.041024,
+                        18.105374
+                  ]
+            },
+            {
+                  "name": "Monumento 1",
+                  "text": "Ein Denkmal auf der archäologischen Stätte La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.040946,
+                        18.101818
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio La Venta",
+                  "text": "Ein Museum vor Ort auf der archäologischen Stätte La Venta.",
+                  "category": "museum",
+                  "coords": [
+                        -94.042724,
+                        18.102851
+                  ]
+            },
+            {
+                  "name": "Museo La Venta",
+                  "text": "Ein Museum auf der archäologischen Stätte La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.038909,
+                        18.101965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento 3",
+                  "text": "Egy emlékmű a La Venta régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -94.041024,
+                        18.105374
+                  ]
+            },
+            {
+                  "name": "Monumento 1",
+                  "text": "Egy emlékmű a La Venta régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -94.040946,
+                        18.101818
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio La Venta",
+                  "text": "Helyszíni múzeum a La Venta régészeti lelőhelyen.",
+                  "category": "museum",
+                  "coords": [
+                        -94.042724,
+                        18.102851
+                  ]
+            },
+            {
+                  "name": "Museo La Venta",
+                  "text": "Egy múzeum a La Venta régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        -94.038909,
+                        18.101965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento 3",
+                  "text": "Un monument la situl arheologic La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.041024,
+                        18.105374
+                  ]
+            },
+            {
+                  "name": "Monumento 1",
+                  "text": "Un monument la situl arheologic La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.040946,
+                        18.101818
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio La Venta",
+                  "text": "Un muzeu de sit la situl arheologic La Venta.",
+                  "category": "museum",
+                  "coords": [
+                        -94.042724,
+                        18.102851
+                  ]
+            },
+            {
+                  "name": "Museo La Venta",
+                  "text": "Un muzeu la situl arheologic La Venta.",
+                  "category": "historical",
+                  "coords": [
+                        -94.038909,
+                        18.101965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento 3",
+                  "text": "A monument at the La Venta archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -94.041024,
+                        18.105374
+                  ]
+            },
+            {
+                  "name": "Monumento 1",
+                  "text": "A monument at the La Venta archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -94.040946,
+                        18.101818
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio La Venta",
+                  "text": "A site museum at the La Venta archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        -94.042724,
+                        18.102851
+                  ]
+            },
+            {
+                  "name": "Museo La Venta",
+                  "text": "A museum at the La Venta archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        -94.038909,
+                        18.101965
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-TAB",
     coords: [-94.04, 18.10],
@@ -710,7 +5948,88 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     },
   },
   {
-    id: "san-lorenzo-tenochtitlan-history-v2",
+    id: "san-lorenzo-tenochtitlan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Lorenzo Tenochtitlan",
+                  "text": "San Lorenzo Tenochtitlan ist eine archäologische Stätte der alten Olmeken-Zivilisation, bekannt für kolossale Steinköpfe.",
+                  "category": "historical",
+                  "coords": [
+                        -94.780169,
+                        17.728941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Museo de Sitio ist ein Museum am San Lorenzo Tenochtitlan, das Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -94.761531,
+                        17.750482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Lorenzo Tenochtitlan",
+                  "text": "San Lorenzo Tenochtitlan egy régészeti lelőhely az ókori olmék civilizációból, híres hatalmas kőfejeiről.",
+                  "category": "historical",
+                  "coords": [
+                        -94.780169,
+                        17.728941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Museo de Sitio egy múzeum San Lorenzo Tenochtitlannál, amely tárgyakat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -94.761531,
+                        17.750482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Lorenzo Tenochtitlan",
+                  "text": "San Lorenzo Tenochtitlan este un sit arheologic al vechii civilizații olmece, cunoscut pentru capetele colosale de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -94.780169,
+                        17.728941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Museo de Sitio este un muzeu la situl San Lorenzo Tenochtitlan care expune artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -94.761531,
+                        17.750482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Lorenzo Tenochtitlan",
+                  "text": "San Lorenzo Tenochtitlan is an archaeological site of the ancient Olmec civilization known for colossal stone heads.",
+                  "category": "historical",
+                  "coords": [
+                        -94.780169,
+                        17.728941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio",
+                  "text": "Museo de Sitio is a museum at the San Lorenzo Tenochtitlan site displaying artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -94.761531,
+                        17.750482
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-VER",
     coords: [-94.76, 17.75],
@@ -757,7 +6076,1204 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Considéré comme le plus ancien grand centre cérémoniel de la culture olmèque.", "Construit sur un immense plateau artificiellement modifié.", "Lieu de découverte des premières têtes colossales olmèques jamais mises au jour."],
     }, image: "/poi-images/san-lorenzo-tenochtitlan-history-v2.webp"},
   {
-    id: "el-rey-history-v2",
+    id: "el-rey-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona Arqueológica San Miguelito",
+                  "text": "San Miguelito ist eine Maya-archäologische Stätte in der Hotelzone von Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.778541,
+                        21.071762
+                  ]
+            },
+            {
+                  "name": "Museo Subacuático de Arte",
+                  "text": "Das Unterwasser-Museum von Cancún zeigt versunkene Skulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.846196,
+                        21.076264
+                  ]
+            },
+            {
+                  "name": "Playa Tortugas",
+                  "text": "Playa Tortugas ist ein Strand im Bereich El Rey in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.769079,
+                        21.139699
+                  ]
+            },
+            {
+                  "name": "Playa Ancha",
+                  "text": "Playa Ancha ist ein Strand im Bereich El Rey in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.755167,
+                        21.136749
+                  ]
+            },
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque ist ein Museum und Park im Bereich El Rey.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio, Zona Arqueológica El Rey",
+                  "text": "Das Site-Museum der archäologischen Zone El Rey.",
+                  "category": "museum",
+                  "coords": [
+                        -86.78182,
+                        21.059474
+                  ]
+            },
+            {
+                  "name": "Museo Maya de Cancún",
+                  "text": "Das Maya-Museum von Cancún zeigt Funde aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -86.777116,
+                        21.073871
+                  ]
+            },
+            {
+                  "name": "Torre a Telmex",
+                  "text": "Ein Turmdenkmal zu Ehren von Telmex im Bereich El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.74586,
+                        21.134852
+                  ]
+            },
+            {
+                  "name": "Antigua torre de control",
+                  "text": "Der alte Kontrollturm als Denkmal im Bereich El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829686,
+                        21.130157
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "Denkmal für die heldenhaften Kinder (Niños Héroes) im Bereich El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.777093,
+                        21.143349
+                  ]
+            },
+            {
+                  "name": "Arco de Labná",
+                  "text": "Ein Bogenmonument, das an den Arco de Labná erinnert, im Bereich El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.776182,
+                        21.142883
+                  ]
+            },
+            {
+                  "name": "las ruinas de EL REY",
+                  "text": "Die EL-REY-Ruinen sind eine Maya-archäologische Stätte in Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.781461,
+                        21.061476
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Ein Strand im Bereich El Rey in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.77935,
+                        21.036522
+                  ]
+            },
+            {
+                  "name": "Templo del Alacran",
+                  "text": "Ruinen eines Skorpion-Tempels in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.760622,
+                        21.110727
+                  ]
+            },
+            {
+                  "name": "Jungle Tour Adventure Cancun",
+                  "text": "Jungle Tour Adventure Cancun bietet Dschungelabenteuer in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.772967,
+                        21.088493
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) ist ein Meeresfrüchterestaurant in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Marina Cha-Chi",
+                  "text": "Marina Cha-Chi ist ein Jachthafen in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.793213,
+                        21.150606
+                  ]
+            },
+            {
+                  "name": "Señal CANCÚN",
+                  "text": "Das CANCUN SIGN ist die ikonische Buchstabeninstallation in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.781193,
+                        21.144608
+                  ]
+            },
+            {
+                  "name": "Condominio Bellamar",
+                  "text": "Bellamar Condo ist ein Wohnkomplex in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788512,
+                        21.145952
+                  ]
+            },
+            {
+                  "name": "Torre Escénica de Cancún",
+                  "text": "Die Torre Escénica de Cancún ist ein Aussichtsturm mit Panoramablick über Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788242,
+                        21.143739
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "View Point ist ein Aussichtspunkt in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779731,
+                        21.060781
+                  ]
+            },
+            {
+                  "name": "Mirador playa delfines",
+                  "text": "Mirador Playa Delfines ist ein Aussichtspunkt oberhalb von Playa Delfines in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779216,
+                        21.062024
+                  ]
+            },
+            {
+                  "name": "Plaza la Isla. Atardecer al lado del muelle",
+                  "text": "Plaza la Isla bietet einen atemberaubenden Sonnenuntergang am Pier in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.763674,
+                        21.111365
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah ist ein ökologischer Park in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.838393,
+                        21.143793
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna San Buenaventura",
+                  "text": "Das Área de Protección de Flora y Fauna San Buenaventura ist ein Naturschutzgebiet in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.817026,
+                        21.138167
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Jacinto Pat",
+                  "text": "Das Área de Protección de Flora y Fauna Jacinto Pat ist ein Naturschutzgebiet in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.816877,
+                        21.152449
+                  ]
+            },
+            {
+                  "name": "Playa Chac Mool",
+                  "text": "Playa Chac Mool ist ein Strand in Cancún, benannt nach der Maya-Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.749352,
+                        21.128613
+                  ]
+            },
+            {
+                  "name": "Playa Gaviota Azul",
+                  "text": "Playa Gaviota Azul ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746368,
+                        21.13232
+                  ]
+            },
+            {
+                  "name": "Playa Marlín",
+                  "text": "Playa Marlín ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.762825,
+                        21.103866
+                  ]
+            },
+            {
+                  "name": "Playa Ballenas",
+                  "text": "Playa Ballenas ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.768581,
+                        21.089933
+                  ]
+            },
+            {
+                  "name": "Playa San Miguelito",
+                  "text": "Playa San Miguelito ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.766244,
+                        21.095889
+                  ]
+            },
+            {
+                  "name": "Playa Coral",
+                  "text": "Playa Coral ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.811927,
+                        21.025393
+                  ]
+            },
+            {
+                  "name": "Playa Conchitas",
+                  "text": "Playa Conchitas ist ein Strand in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.79934,
+                        21.144278
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona Arqueológica San Miguelito",
+                  "text": "San Miguelito egy maja régészeti lelőhely Cancún szállodai övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        -86.778541,
+                        21.071762
+                  ]
+            },
+            {
+                  "name": "Museo Subacuático de Arte",
+                  "text": "A Cancúni Víz alatti Múzeum elsüllyedt szobrokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.846196,
+                        21.076264
+                  ]
+            },
+            {
+                  "name": "Playa Tortugas",
+                  "text": "A Playa Tortugas egy strand Cancún El Rey nevű részében.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.769079,
+                        21.139699
+                  ]
+            },
+            {
+                  "name": "Playa Ancha",
+                  "text": "A Playa Ancha egy strand Cancún El Rey nevű részében.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.755167,
+                        21.136749
+                  ]
+            },
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "A Casa Lima Museo Parque egy múzeum és park az El Rey területén.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio, Zona Arqueológica El Rey",
+                  "text": "Az El Rey régészeti zóna helyszíni múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -86.78182,
+                        21.059474
+                  ]
+            },
+            {
+                  "name": "Museo Maya de Cancún",
+                  "text": "A Cancúni Maja Múzeum a régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -86.777116,
+                        21.073871
+                  ]
+            },
+            {
+                  "name": "Torre a Telmex",
+                  "text": "Egy toronyemlékmű a Telmex tiszteletére az El Rey területén.",
+                  "category": "historical",
+                  "coords": [
+                        -86.74586,
+                        21.134852
+                  ]
+            },
+            {
+                  "name": "Antigua torre de control",
+                  "text": "A régi irányítótorony emlékmű az El Rey területén.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829686,
+                        21.130157
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "A Hős Gyermekek (Niños Héroes) emlékműve az El Rey területén.",
+                  "category": "historical",
+                  "coords": [
+                        -86.777093,
+                        21.143349
+                  ]
+            },
+            {
+                  "name": "Arco de Labná",
+                  "text": "Egy ívemlékmű, amely a Labnái ívre emlékeztet, az El Rey területén.",
+                  "category": "historical",
+                  "coords": [
+                        -86.776182,
+                        21.142883
+                  ]
+            },
+            {
+                  "name": "las ruinas de EL REY",
+                  "text": "Az EL REY romok egy maja régészeti lelőhely Cancúnban.",
+                  "category": "historical",
+                  "coords": [
+                        -86.781461,
+                        21.061476
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "Egy strand Cancún El Rey nevű részében.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.77935,
+                        21.036522
+                  ]
+            },
+            {
+                  "name": "Templo del Alacran",
+                  "text": "Skorpió-templom romjai Cancúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.760622,
+                        21.110727
+                  ]
+            },
+            {
+                  "name": "Jungle Tour Adventure Cancun",
+                  "text": "Jungle Tour Adventure Cancun dzsungelkalandokat kínál Cancúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.772967,
+                        21.088493
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) egy tenger gyümölcsei étterem Cancúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Marina Cha-Chi",
+                  "text": "Marina Cha-Chi egy kikötő Cancúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.793213,
+                        21.150606
+                  ]
+            },
+            {
+                  "name": "Señal CANCÚN",
+                  "text": "A CANCUN SIGN Cancún ikonikus betűinstallációja.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.781193,
+                        21.144608
+                  ]
+            },
+            {
+                  "name": "Condominio Bellamar",
+                  "text": "Bellamar Condo egy lakókomplexum Cancúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788512,
+                        21.145952
+                  ]
+            },
+            {
+                  "name": "Torre Escénica de Cancún",
+                  "text": "A Torre Escénica de Cancún egy kilátótorony panorámás kilátással Cancúnt.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788242,
+                        21.143739
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "View Point egy kilátópont Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779731,
+                        21.060781
+                  ]
+            },
+            {
+                  "name": "Mirador playa delfines",
+                  "text": "Mirador Playa Delfines egy kilátó a Playa Delfines felett Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779216,
+                        21.062024
+                  ]
+            },
+            {
+                  "name": "Plaza la Isla. Atardecer al lado del muelle",
+                  "text": "A Plaza la Isla lenyűgöző naplementét kínál a mólónál Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.763674,
+                        21.111365
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah egy ökológiai park Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.838393,
+                        21.143793
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna San Buenaventura",
+                  "text": "Az Área de Protección de Flora y Fauna San Buenaventura egy természetvédelmi terület Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.817026,
+                        21.138167
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Jacinto Pat",
+                  "text": "Az Área de Protección de Flora y Fauna Jacinto Pat egy természetvédelmi terület Cancúnban.",
+                  "category": "natural",
+                  "coords": [
+                        -86.816877,
+                        21.152449
+                  ]
+            },
+            {
+                  "name": "Playa Chac Mool",
+                  "text": "Playa Chac Mool egy strand Cancúnban, a maja szoborról elnevezve.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.749352,
+                        21.128613
+                  ]
+            },
+            {
+                  "name": "Playa Gaviota Azul",
+                  "text": "Playa Gaviota Azul egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746368,
+                        21.13232
+                  ]
+            },
+            {
+                  "name": "Playa Marlín",
+                  "text": "Playa Marlín egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.762825,
+                        21.103866
+                  ]
+            },
+            {
+                  "name": "Playa Ballenas",
+                  "text": "Playa Ballenas egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.768581,
+                        21.089933
+                  ]
+            },
+            {
+                  "name": "Playa San Miguelito",
+                  "text": "Playa San Miguelito egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.766244,
+                        21.095889
+                  ]
+            },
+            {
+                  "name": "Playa Coral",
+                  "text": "Playa Coral egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.811927,
+                        21.025393
+                  ]
+            },
+            {
+                  "name": "Playa Conchitas",
+                  "text": "Playa Conchitas egy strand Cancúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.79934,
+                        21.144278
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona Arqueológica San Miguelito",
+                  "text": "San Miguelito este un sit arheologic mayaș situat în zona hotelieră din Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.778541,
+                        21.071762
+                  ]
+            },
+            {
+                  "name": "Museo Subacuático de Arte",
+                  "text": "Muzeul Subacvatic din Cancún prezintă sculpturi scufundate.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.846196,
+                        21.076264
+                  ]
+            },
+            {
+                  "name": "Playa Tortugas",
+                  "text": "Playa Tortugas este o plajă în zona El Rey din Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.769079,
+                        21.139699
+                  ]
+            },
+            {
+                  "name": "Playa Ancha",
+                  "text": "Playa Ancha este o plajă în zona El Rey din Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.755167,
+                        21.136749
+                  ]
+            },
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque este un muzeu și un parc în zona El Rey.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio, Zona Arqueológica El Rey",
+                  "text": "Muzeul de sit al zonei arheologice El Rey.",
+                  "category": "museum",
+                  "coords": [
+                        -86.78182,
+                        21.059474
+                  ]
+            },
+            {
+                  "name": "Museo Maya de Cancún",
+                  "text": "Muzeul Maya din Cancún expune artefacte din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -86.777116,
+                        21.073871
+                  ]
+            },
+            {
+                  "name": "Torre a Telmex",
+                  "text": "Un monument-turn dedicat Telmex în zona El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.74586,
+                        21.134852
+                  ]
+            },
+            {
+                  "name": "Antigua torre de control",
+                  "text": "Fostul turn de control ca monument în zona El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829686,
+                        21.130157
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "Monumentul Copiilor Eroi (Niños Héroes) în zona El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.777093,
+                        21.143349
+                  ]
+            },
+            {
+                  "name": "Arco de Labná",
+                  "text": "Un monument-arc care amintește de Arcul din Labná, în zona El Rey.",
+                  "category": "historical",
+                  "coords": [
+                        -86.776182,
+                        21.142883
+                  ]
+            },
+            {
+                  "name": "las ruinas de EL REY",
+                  "text": "Ruinele EL REY sunt un sit arheologic mayaș din Cancún.",
+                  "category": "historical",
+                  "coords": [
+                        -86.781461,
+                        21.061476
+                  ]
+            },
+            {
+                  "name": "Playa",
+                  "text": "O plajă în zona El Rey din Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.77935,
+                        21.036522
+                  ]
+            },
+            {
+                  "name": "Templo del Alacran",
+                  "text": "Ruinele unui templu al Scorpionului din Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.760622,
+                        21.110727
+                  ]
+            },
+            {
+                  "name": "Jungle Tour Adventure Cancun",
+                  "text": "Jungle Tour Adventure Cancun oferă aventuri în junglă în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.772967,
+                        21.088493
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) este un restaurant cu fructe de mare în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Marina Cha-Chi",
+                  "text": "Marina Cha-Chi este o marină în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.793213,
+                        21.150606
+                  ]
+            },
+            {
+                  "name": "Señal CANCÚN",
+                  "text": "CANCUN SIGN este instalația iconică de litere din Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.781193,
+                        21.144608
+                  ]
+            },
+            {
+                  "name": "Condominio Bellamar",
+                  "text": "Bellamar Condo este un complex rezidențial în Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788512,
+                        21.145952
+                  ]
+            },
+            {
+                  "name": "Torre Escénica de Cancún",
+                  "text": "Torre Escénica de Cancún este un turn de observare cu vedere panoramică asupra Cancúnului.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788242,
+                        21.143739
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "View Point este un punct de belvedere în Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779731,
+                        21.060781
+                  ]
+            },
+            {
+                  "name": "Mirador playa delfines",
+                  "text": "Mirador Playa Delfines este un punct de belvedere deasupra Playa Delfines din Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779216,
+                        21.062024
+                  ]
+            },
+            {
+                  "name": "Plaza la Isla. Atardecer al lado del muelle",
+                  "text": "Plaza la Isla oferă un apus de soare spectaculos la debarcaderul din Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.763674,
+                        21.111365
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah este un parc ecologic în Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.838393,
+                        21.143793
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna San Buenaventura",
+                  "text": "Área de Protección de Flora y Fauna San Buenaventura este o arie protejată în Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.817026,
+                        21.138167
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Jacinto Pat",
+                  "text": "Área de Protección de Flora y Fauna Jacinto Pat este o arie protejată în Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.816877,
+                        21.152449
+                  ]
+            },
+            {
+                  "name": "Playa Chac Mool",
+                  "text": "Playa Chac Mool este o plajă în Cancún, numită după statuia mayașă.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.749352,
+                        21.128613
+                  ]
+            },
+            {
+                  "name": "Playa Gaviota Azul",
+                  "text": "Playa Gaviota Azul este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746368,
+                        21.13232
+                  ]
+            },
+            {
+                  "name": "Playa Marlín",
+                  "text": "Playa Marlín este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.762825,
+                        21.103866
+                  ]
+            },
+            {
+                  "name": "Playa Ballenas",
+                  "text": "Playa Ballenas este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.768581,
+                        21.089933
+                  ]
+            },
+            {
+                  "name": "Playa San Miguelito",
+                  "text": "Playa San Miguelito este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.766244,
+                        21.095889
+                  ]
+            },
+            {
+                  "name": "Playa Coral",
+                  "text": "Playa Coral este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.811927,
+                        21.025393
+                  ]
+            },
+            {
+                  "name": "Playa Conchitas",
+                  "text": "Playa Conchitas este o plajă în Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.79934,
+                        21.144278
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona Arqueológica San Miguelito",
+                  "text": "San Miguelito is a Maya archaeological site located within the Hotel Zone of Cancun.",
+                  "category": "historical",
+                  "coords": [
+                        -86.778541,
+                        21.071762
+                  ]
+            },
+            {
+                  "name": "Cancun Underwater Museum",
+                  "text": "The Cancun Underwater Museum features submerged sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.846196,
+                        21.076264
+                  ]
+            },
+            {
+                  "name": "Playa Tortugas",
+                  "text": "Playa Tortugas is a beach in the El Rey area of Cancun.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.769079,
+                        21.139699
+                  ]
+            },
+            {
+                  "name": "Playa Ancha",
+                  "text": "Playa Ancha is a beach in the El Rey area of Cancun.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.755167,
+                        21.136749
+                  ]
+            },
+            {
+                  "name": "Casa Lima Museo Parque",
+                  "text": "Casa Lima Museo Parque is a museum and park in the El Rey area.",
+                  "category": "museum",
+                  "coords": [
+                        -86.836964,
+                        21.142204
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio, Zona Arqueológica El Rey",
+                  "text": "The site museum of the El Rey archaeological zone.",
+                  "category": "museum",
+                  "coords": [
+                        -86.78182,
+                        21.059474
+                  ]
+            },
+            {
+                  "name": "Museo Maya de Cancún",
+                  "text": "The Maya Museum of Cancun displays artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -86.777116,
+                        21.073871
+                  ]
+            },
+            {
+                  "name": "Torre a Telmex",
+                  "text": "A monument tower dedicated to Telmex in the El Rey area.",
+                  "category": "historical",
+                  "coords": [
+                        -86.74586,
+                        21.134852
+                  ]
+            },
+            {
+                  "name": "Antigua torre de control",
+                  "text": "The old control tower monument in the El Rey area.",
+                  "category": "historical",
+                  "coords": [
+                        -86.829686,
+                        21.130157
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "Monument to the Boy Heroes (Niños Héroes) in the El Rey area.",
+                  "category": "historical",
+                  "coords": [
+                        -86.777093,
+                        21.143349
+                  ]
+            },
+            {
+                  "name": "Arco de Labná",
+                  "text": "A monument resembling the Arch of Labná in the El Rey area.",
+                  "category": "historical",
+                  "coords": [
+                        -86.776182,
+                        21.142883
+                  ]
+            },
+            {
+                  "name": "EL REY ruins",
+                  "text": "The EL REY ruins are a Maya archaeological site in Cancun.",
+                  "category": "historical",
+                  "coords": [
+                        -86.781461,
+                        21.061476
+                  ]
+            },
+            {
+                  "name": "Beach",
+                  "text": "A beach in the El Rey area of Cancun.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.77935,
+                        21.036522
+                  ]
+            },
+            {
+                  "name": "Scorpion's Temple ruins",
+                  "text": "Ruins of a Scorpion's Temple in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.760622,
+                        21.110727
+                  ]
+            },
+            {
+                  "name": "Jungle Tour Adventure Cancun",
+                  "text": "Jungle Tour Adventure Cancun offers jungle adventures in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.772967,
+                        21.088493
+                  ]
+            },
+            {
+                  "name": "Caracoles y Estrellas de Mar (El Ceviche)",
+                  "text": "Caracoles y Estrellas de Mar (El Ceviche) is a seafood restaurant in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.825296,
+                        21.156963
+                  ]
+            },
+            {
+                  "name": "Marina Cha-Chi",
+                  "text": "Marina Cha-Chi is a marina in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.793213,
+                        21.150606
+                  ]
+            },
+            {
+                  "name": "CANCUN SIGN",
+                  "text": "The CANCUN SIGN is the iconic letter installation in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.781193,
+                        21.144608
+                  ]
+            },
+            {
+                  "name": "Bellamar Condo",
+                  "text": "Bellamar Condo is a condominium complex in Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788512,
+                        21.145952
+                  ]
+            },
+            {
+                  "name": "Torre Escénica de Cancún",
+                  "text": "Torre Escénica de Cancún is a scenic tower with panoramic views of Cancún.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.788242,
+                        21.143739
+                  ]
+            },
+            {
+                  "name": "View Point",
+                  "text": "View Point is a viewpoint in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779731,
+                        21.060781
+                  ]
+            },
+            {
+                  "name": "Mirador playa delfines",
+                  "text": "Mirador Playa Delfines is a viewpoint above Playa Delfines in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.779216,
+                        21.062024
+                  ]
+            },
+            {
+                  "name": "Plaza la Isla. Atardecer al lado del muelle",
+                  "text": "Plaza la Isla offers a stunning sunset at the pier in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.763674,
+                        21.111365
+                  ]
+            },
+            {
+                  "name": "Parque Ecológico Kabah",
+                  "text": "Parque Ecológico Kabah is an ecological park in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.838393,
+                        21.143793
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna San Buenaventura",
+                  "text": "Área de Protección de Flora y Fauna San Buenaventura is a nature reserve in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.817026,
+                        21.138167
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Jacinto Pat",
+                  "text": "Área de Protección de Flora y Fauna Jacinto Pat is a nature reserve in Cancún.",
+                  "category": "natural",
+                  "coords": [
+                        -86.816877,
+                        21.152449
+                  ]
+            },
+            {
+                  "name": "Playa Chac Mool",
+                  "text": "Playa Chac Mool is a beach in Cancún, named after the Maya statue.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.749352,
+                        21.128613
+                  ]
+            },
+            {
+                  "name": "Playa Gaviota Azul",
+                  "text": "Playa Gaviota Azul is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746368,
+                        21.13232
+                  ]
+            },
+            {
+                  "name": "Playa Marlín",
+                  "text": "Playa Marlín is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.762825,
+                        21.103866
+                  ]
+            },
+            {
+                  "name": "Playa Ballenas",
+                  "text": "Playa Ballenas is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.768581,
+                        21.089933
+                  ]
+            },
+            {
+                  "name": "Playa San Miguelito",
+                  "text": "Playa San Miguelito is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.766244,
+                        21.095889
+                  ]
+            },
+            {
+                  "name": "Playa Coral",
+                  "text": "Playa Coral is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.811927,
+                        21.025393
+                  ]
+            },
+            {
+                  "name": "Playa Conchitas",
+                  "text": "Playa Conchitas is a beach in Cancún.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.79934,
+                        21.144278
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-ROO",
     coords: [-86.78, 21.08],
@@ -805,7 +7321,772 @@ export const poiExtraMexicoHistoryV2: POI[] = [
     },
   },
   {
-    id: "dzibilchaltun-history-v2",
+    id: "dzibilchaltun-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hogar",
+                  "text": "Hogar ist ein Schloss in der Gegend von Dzibilchaltun.",
+                  "category": "castle",
+                  "coords": [
+                        -89.54994,
+                        21.06385
+                  ]
+            },
+            {
+                  "name": "Río Salvaje Balneario",
+                  "text": "Río Salvaje Balneario ist ein Naturbad am Fluss in der Gegend von Dzibilchaltun.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.646606,
+                        21.142984
+                  ]
+            },
+            {
+                  "name": "Komchén",
+                  "text": "Komchén sind Ruinen in der Gegend von Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646453,
+                        21.112549
+                  ]
+            },
+            {
+                  "name": "Zona Arquueologica Tixcuytun",
+                  "text": "Die Zona Arqueológica Tixcuytun ist eine archäologische Zone in der Gegend von Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.572771,
+                        21.066562
+                  ]
+            },
+            {
+                  "name": "Cuadra De Caballos San Rafael",
+                  "text": "Cuadra De Caballos San Rafael ist ein Aussichtspunkt in der Gegend von Dzibilchaltun.",
+                  "category": "natural",
+                  "coords": [
+                        -89.613539,
+                        21.062254
+                  ]
+            },
+            {
+                  "name": "Chimenea de la hacienda Sodzil Norte",
+                  "text": "Die Chimenea de la hacienda Sodzil Norte ist ein Denkmal in der Gegend von Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.630786,
+                        21.048824
+                  ]
+            },
+            {
+                  "name": "Rancho Las Palomas",
+                  "text": "Rancho Las Palomas ist eine Attraktion in der Gegend von Dzibilchaltun.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.517107,
+                        21.111049
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro de Conkal",
+                  "text": "Das Museo de Arte Sacro de Conkal ist ein Museum für sakrale Kunst in Conkal in der Gegend von Dzibilchaltun.",
+                  "category": "museum",
+                  "coords": [
+                        -89.519742,
+                        21.075731
+                  ]
+            },
+            {
+                  "name": "Estuctura maya en la exhacienda San Pedro Cholul",
+                  "text": "Estructura maya en la exhacienda San Pedro Cholul ist eine archäologische Stätte in der Gegend von Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.556692,
+                        21.029538
+                  ]
+            },
+            {
+                  "name": "Exhacienda San Pedro Cholul",
+                  "text": "Exhacienda San Pedro Cholul sind Ruinen in der Gegend von Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550188,
+                        21.030564
+                  ]
+            },
+            {
+                  "name": "Iglesia Abandonada San José de Capadocia",
+                  "text": "Die verlassene Kirche San José de Capadocia in Dzibilchaltún ist eine Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595059,
+                        21.14964
+                  ]
+            },
+            {
+                  "name": "Hacienda de Misnebalam",
+                  "text": "Die Hacienda de Misnebalam in Dzibilchaltún ist eine archäologische Stätte einer ehemaligen Hacienda.",
+                  "category": "historical",
+                  "coords": [
+                        -89.594808,
+                        21.150681
+                  ]
+            },
+            {
+                  "name": "Foro GNP Seguros",
+                  "text": "Das Foro GNP Seguros in Dzibilchaltún ist ein Theater, das für Konzerte und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.638765,
+                        21.088502
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Dzibilchantún",
+                  "text": "Der Parque Nacional Dzibilchantún in Dzibilchaltún ist ein Nationalpark, der die Maya-Ruinen und einen Cenote schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.597422,
+                        21.088581
+                  ]
+            },
+            {
+                  "name": "Structure 44",
+                  "text": "Struktur 44 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59737,
+                        21.090411
+                  ]
+            },
+            {
+                  "name": "Structure 49",
+                  "text": "Struktur 49 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59628,
+                        21.09027
+                  ]
+            },
+            {
+                  "name": "Structure 36",
+                  "text": "Struktur 36 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.596689,
+                        21.091528
+                  ]
+            },
+            {
+                  "name": "Structure 46",
+                  "text": "Struktur 46 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.598279,
+                        21.09017
+                  ]
+            },
+            {
+                  "name": "Structure 12",
+                  "text": "Struktur 12 in Dzibilchaltún ist eine Maya-Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.591658,
+                        21.091158
+                  ]
+            },
+            {
+                  "name": "Platform of the Knives",
+                  "text": "Die Plattform der Messer in Dzibilchaltún ist eine Ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595739,
+                        21.091407
+                  ]
+            },
+            {
+                  "name": "El Templo de las 7 muñecas",
+                  "text": "Der Tempel der 7 Puppen in Dzibilchaltún ist eine Maya-Ruine, benannt nach sieben dort gefundenen Figuren.",
+                  "category": "historical",
+                  "coords": [
+                        -89.590392,
+                        21.091072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hogar",
+                  "text": "A Hogar egy kastély a Dzibilchaltun környékén.",
+                  "category": "castle",
+                  "coords": [
+                        -89.54994,
+                        21.06385
+                  ]
+            },
+            {
+                  "name": "Río Salvaje Balneario",
+                  "text": "A Río Salvaje Balneario egy folyó menti természetes fürdőhely a Dzibilchaltun környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.646606,
+                        21.142984
+                  ]
+            },
+            {
+                  "name": "Komchén",
+                  "text": "A Komchén romok a Dzibilchaltun környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646453,
+                        21.112549
+                  ]
+            },
+            {
+                  "name": "Zona Arquueologica Tixcuytun",
+                  "text": "A Zona Arqueológica Tixcuytun egy régészeti övezet a Dzibilchaltun környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.572771,
+                        21.066562
+                  ]
+            },
+            {
+                  "name": "Cuadra De Caballos San Rafael",
+                  "text": "A Cuadra De Caballos San Rafael egy kilátópont a Dzibilchaltun környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -89.613539,
+                        21.062254
+                  ]
+            },
+            {
+                  "name": "Chimenea de la hacienda Sodzil Norte",
+                  "text": "A Chimenea de la hacienda Sodzil Norte egy emlékmű a Dzibilchaltun környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.630786,
+                        21.048824
+                  ]
+            },
+            {
+                  "name": "Rancho Las Palomas",
+                  "text": "A Rancho Las Palomas egy látványosság a Dzibilchaltun környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.517107,
+                        21.111049
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro de Conkal",
+                  "text": "A Museo de Arte Sacro de Conkal egy szakrális művészeti múzeum Conkalban, a Dzibilchaltun környékén.",
+                  "category": "museum",
+                  "coords": [
+                        -89.519742,
+                        21.075731
+                  ]
+            },
+            {
+                  "name": "Estuctura maya en la exhacienda San Pedro Cholul",
+                  "text": "Estructura maya en la exhacienda San Pedro Cholul egy régészeti lelőhely a Dzibilchaltun környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.556692,
+                        21.029538
+                  ]
+            },
+            {
+                  "name": "Exhacienda San Pedro Cholul",
+                  "text": "Az Exhacienda San Pedro Cholul romok a Dzibilchaltun környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550188,
+                        21.030564
+                  ]
+            },
+            {
+                  "name": "Iglesia Abandonada San José de Capadocia",
+                  "text": "A Dzibilchaltúnban található elhagyott San José de Capadocia templom romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595059,
+                        21.14964
+                  ]
+            },
+            {
+                  "name": "Hacienda de Misnebalam",
+                  "text": "A Dzibilchaltúnban található Hacienda de Misnebalam egy egykori hacienda régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -89.594808,
+                        21.150681
+                  ]
+            },
+            {
+                  "name": "Foro GNP Seguros",
+                  "text": "A Dzibilchaltúnban található Foro GNP Seguros egy színház, amelyet koncertek és események számára használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.638765,
+                        21.088502
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Dzibilchantún",
+                  "text": "A Dzibilchaltúnban található Dzibilchantún Nemzeti Park egy nemzeti park, amely a maja romokat és egy cenotét véd.",
+                  "category": "natural",
+                  "coords": [
+                        -89.597422,
+                        21.088581
+                  ]
+            },
+            {
+                  "name": "Structure 44",
+                  "text": "A 44-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59737,
+                        21.090411
+                  ]
+            },
+            {
+                  "name": "Structure 49",
+                  "text": "A 49-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59628,
+                        21.09027
+                  ]
+            },
+            {
+                  "name": "Structure 36",
+                  "text": "A 36-os szerkezet Dzibilchaltúnban egy maja rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.596689,
+                        21.091528
+                  ]
+            },
+            {
+                  "name": "Structure 46",
+                  "text": "A 46-os szerkezet Dzibilchaltúnban egy maja rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.598279,
+                        21.09017
+                  ]
+            },
+            {
+                  "name": "Structure 12",
+                  "text": "A 12-es szerkezet Dzibilchaltúnban egy maja rom.",
+                  "category": "historical",
+                  "coords": [
+                        -89.591658,
+                        21.091158
+                  ]
+            },
+            {
+                  "name": "Platform of the Knives",
+                  "text": "A Kések platformja Dzibilchaltúnban romok.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595739,
+                        21.091407
+                  ]
+            },
+            {
+                  "name": "El Templo de las 7 muñecas",
+                  "text": "A 7 baba temploma Dzibilchaltúnban egy maja rom, amelyet a benne talált hét figura után neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        -89.590392,
+                        21.091072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hogar",
+                  "text": "Hogar este un castel în zona Dzibilchaltun.",
+                  "category": "castle",
+                  "coords": [
+                        -89.54994,
+                        21.06385
+                  ]
+            },
+            {
+                  "name": "Río Salvaje Balneario",
+                  "text": "Río Salvaje Balneario este o baie naturală de râu în zona Dzibilchaltun.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.646606,
+                        21.142984
+                  ]
+            },
+            {
+                  "name": "Komchén",
+                  "text": "Komchén este un sit de ruine în zona Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646453,
+                        21.112549
+                  ]
+            },
+            {
+                  "name": "Zona Arquueologica Tixcuytun",
+                  "text": "Zona Arqueológica Tixcuytun este o zonă arheologică în zona Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.572771,
+                        21.066562
+                  ]
+            },
+            {
+                  "name": "Cuadra De Caballos San Rafael",
+                  "text": "Cuadra De Caballos San Rafael este un punct de belvedere în zona Dzibilchaltun.",
+                  "category": "natural",
+                  "coords": [
+                        -89.613539,
+                        21.062254
+                  ]
+            },
+            {
+                  "name": "Chimenea de la hacienda Sodzil Norte",
+                  "text": "Chimenea de la hacienda Sodzil Norte este un monument în zona Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.630786,
+                        21.048824
+                  ]
+            },
+            {
+                  "name": "Rancho Las Palomas",
+                  "text": "Rancho Las Palomas este o atracție în zona Dzibilchaltun.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.517107,
+                        21.111049
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro de Conkal",
+                  "text": "Museo de Arte Sacro de Conkal este un muzeu de artă sacră în Conkal, în zona Dzibilchaltun.",
+                  "category": "museum",
+                  "coords": [
+                        -89.519742,
+                        21.075731
+                  ]
+            },
+            {
+                  "name": "Estuctura maya en la exhacienda San Pedro Cholul",
+                  "text": "Estructura maya en la exhacienda San Pedro Cholul este un sit arheologic în zona Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.556692,
+                        21.029538
+                  ]
+            },
+            {
+                  "name": "Exhacienda San Pedro Cholul",
+                  "text": "Exhacienda San Pedro Cholul sunt ruine în zona Dzibilchaltun.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550188,
+                        21.030564
+                  ]
+            },
+            {
+                  "name": "Iglesia Abandonada San José de Capadocia",
+                  "text": "Ruinele bisericii abandonate San José de Capadocia din Dzibilchaltún.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595059,
+                        21.14964
+                  ]
+            },
+            {
+                  "name": "Hacienda de Misnebalam",
+                  "text": "Hacienda de Misnebalam din Dzibilchaltún este un sit arheologic al unei foste hacienda.",
+                  "category": "historical",
+                  "coords": [
+                        -89.594808,
+                        21.150681
+                  ]
+            },
+            {
+                  "name": "Foro GNP Seguros",
+                  "text": "Foro GNP Seguros din Dzibilchaltún este un teatru folosit pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.638765,
+                        21.088502
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Dzibilchantún",
+                  "text": "Parcul Național Dzibilchantún din Dzibilchaltún este un parc național care protejează ruinele mayașe și un cenot.",
+                  "category": "natural",
+                  "coords": [
+                        -89.597422,
+                        21.088581
+                  ]
+            },
+            {
+                  "name": "Structure 44",
+                  "text": "Structura 44 din Dzibilchaltún este o ruină mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59737,
+                        21.090411
+                  ]
+            },
+            {
+                  "name": "Structure 49",
+                  "text": "Structura 49 din Dzibilchaltún este o ruină mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59628,
+                        21.09027
+                  ]
+            },
+            {
+                  "name": "Structure 36",
+                  "text": "Structura 36 din Dzibilchaltún este o ruină mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.596689,
+                        21.091528
+                  ]
+            },
+            {
+                  "name": "Structure 46",
+                  "text": "Structura 46 din Dzibilchaltún este o ruină mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.598279,
+                        21.09017
+                  ]
+            },
+            {
+                  "name": "Structure 12",
+                  "text": "Structura 12 din Dzibilchaltún este o ruină mayașă.",
+                  "category": "historical",
+                  "coords": [
+                        -89.591658,
+                        21.091158
+                  ]
+            },
+            {
+                  "name": "Platform of the Knives",
+                  "text": "Platforma cuțitelor din Dzibilchaltún este o ruină.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595739,
+                        21.091407
+                  ]
+            },
+            {
+                  "name": "El Templo de las 7 muñecas",
+                  "text": "Templul celor 7 păpuși din Dzibilchaltún este o ruină mayașă numită după șapte figurine găsite în interior.",
+                  "category": "historical",
+                  "coords": [
+                        -89.590392,
+                        21.091072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hogar",
+                  "text": "Hogar is a castle in the Dzibilchaltun area.",
+                  "category": "castle",
+                  "coords": [
+                        -89.54994,
+                        21.06385
+                  ]
+            },
+            {
+                  "name": "Río Salvaje Balneario",
+                  "text": "Río Salvaje Balneario is a wild river swimming spot in the Dzibilchaltun area.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.646606,
+                        21.142984
+                  ]
+            },
+            {
+                  "name": "Komchén",
+                  "text": "Komchén is a ruins site in the Dzibilchaltun area.",
+                  "category": "historical",
+                  "coords": [
+                        -89.646453,
+                        21.112549
+                  ]
+            },
+            {
+                  "name": "Zona Arquueologica Tixcuytun",
+                  "text": "Zona Arqueológica Tixcuytun is an archaeological zone in the Dzibilchaltun area.",
+                  "category": "historical",
+                  "coords": [
+                        -89.572771,
+                        21.066562
+                  ]
+            },
+            {
+                  "name": "Cuadra De Caballos San Rafael",
+                  "text": "Cuadra De Caballos San Rafael is a viewpoint in the Dzibilchaltun area.",
+                  "category": "natural",
+                  "coords": [
+                        -89.613539,
+                        21.062254
+                  ]
+            },
+            {
+                  "name": "Chimenea de la hacienda Sodzil Norte",
+                  "text": "Chimenea de la hacienda Sodzil Norte is a monument in the Dzibilchaltun area.",
+                  "category": "historical",
+                  "coords": [
+                        -89.630786,
+                        21.048824
+                  ]
+            },
+            {
+                  "name": "Rancho Las Palomas",
+                  "text": "Rancho Las Palomas is an attraction in the Dzibilchaltun area.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.517107,
+                        21.111049
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Sacro de Conkal",
+                  "text": "Museo de Arte Sacro de Conkal is a museum of sacred art in Conkal in the Dzibilchaltun area.",
+                  "category": "museum",
+                  "coords": [
+                        -89.519742,
+                        21.075731
+                  ]
+            },
+            {
+                  "name": "Estuctura maya en la exhacienda San Pedro Cholul",
+                  "text": "Estructura maya en la exhacienda San Pedro Cholul is an archaeological site in the Dzibilchaltun area.",
+                  "category": "historical",
+                  "coords": [
+                        -89.556692,
+                        21.029538
+                  ]
+            },
+            {
+                  "name": "Exhacienda San Pedro Cholul",
+                  "text": "Exhacienda San Pedro Cholul is a ruins site in the Dzibilchaltun area.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550188,
+                        21.030564
+                  ]
+            },
+            {
+                  "name": "Iglesia Abandonada San José de Capadocia",
+                  "text": "The abandoned church San José de Capadocia in Dzibilchaltún is a ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595059,
+                        21.14964
+                  ]
+            },
+            {
+                  "name": "Hacienda de Misnebalam",
+                  "text": "Hacienda de Misnebalam in Dzibilchaltún is an archaeological site of a former hacienda.",
+                  "category": "historical",
+                  "coords": [
+                        -89.594808,
+                        21.150681
+                  ]
+            },
+            {
+                  "name": "Foro GNP Seguros",
+                  "text": "Foro GNP Seguros in Dzibilchaltún is a theatre used for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.638765,
+                        21.088502
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Dzibilchantún",
+                  "text": "Dzibilchantún National Park in Dzibilchaltún is a national park protecting Maya ruins and a cenote.",
+                  "category": "natural",
+                  "coords": [
+                        -89.597422,
+                        21.088581
+                  ]
+            },
+            {
+                  "name": "Structure 44",
+                  "text": "Structure 44 in Dzibilchaltún is a Maya ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59737,
+                        21.090411
+                  ]
+            },
+            {
+                  "name": "Structure 49",
+                  "text": "Structure 49 in Dzibilchaltún is a Maya ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.59628,
+                        21.09027
+                  ]
+            },
+            {
+                  "name": "Structure 36",
+                  "text": "Structure 36 in Dzibilchaltún is a Maya ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.596689,
+                        21.091528
+                  ]
+            },
+            {
+                  "name": "Structure 46",
+                  "text": "Structure 46 in Dzibilchaltún is a Maya ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.598279,
+                        21.09017
+                  ]
+            },
+            {
+                  "name": "Structure 12",
+                  "text": "Structure 12 in Dzibilchaltún is a Maya ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.591658,
+                        21.091158
+                  ]
+            },
+            {
+                  "name": "Platform of the Knives",
+                  "text": "The Platform of the Knives in Dzibilchaltún is a ruin.",
+                  "category": "historical",
+                  "coords": [
+                        -89.595739,
+                        21.091407
+                  ]
+            },
+            {
+                  "name": "Temple of the 7 Dolls",
+                  "text": "The Temple of the 7 Dolls in Dzibilchaltún is a Maya ruin named after seven figurines found inside.",
+                  "category": "historical",
+                  "coords": [
+                        -89.590392,
+                        21.091072
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-YUC",
     coords: [-89.59, 21.09],
@@ -852,7 +8133,88 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Connu pour le Temple des Sept Poupées et son spectaculaire phénomène solaire.", "Habité depuis le début de l'ère maya jusqu'après la conquête espagnole.", "Dispose d'un cénoté directement sur le site, invitant à la baignade."],
     }, image: "/poi-images/dzibilchaltun-history-v2.webp"},
   {
-    id: "mayapan-history-v2",
+    id: "mayapan-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cenote Nah Yah",
+                  "text": "Ein natürliches Loch (Cenote) im archäologischen Gelände von Mayapán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404599,
+                        20.646459
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Mayapán",
+                  "text": "Die archäologische Zone von Mayapán ist der Ort einer ehemaligen bedeutenden Maya-Stadt, die einst Hauptstadt des Maya-Bundes war.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.460367,
+                        20.629316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cenote Nah Yah",
+                  "text": "Egy természetes víznyelő (cenote) a Mayapán régészeti területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404599,
+                        20.646459
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Mayapán",
+                  "text": "Mayapán régészeti zónája egykori jelentős maja város helye, amely a Maja Liga fővárosa volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.460367,
+                        20.629316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cenote Nah Yah",
+                  "text": "O dolină naturală (cenotă) în situl arheologic Mayapán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404599,
+                        20.646459
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Mayapán",
+                  "text": "Zona Arheologică Mayapán este situl unui fost important oraș maya, care a fost capitala Ligii Mayapán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.460367,
+                        20.629316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cenote Nah Yah",
+                  "text": "A natural sinkhole (cenote) in the Mayapán archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.404599,
+                        20.646459
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Mayapán",
+                  "text": "The Mayapán Archaeological Zone is the site of a former major Maya city that was once the capital of the League of Mayapán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.460367,
+                        20.629316
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-YUC",
     coords: [-89.46, 20.62],
@@ -899,7 +8261,304 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Était considérée comme la dernière grande capitale politique des Mayas avant l'arrivée des Espagnols.", "La pyramide principale est une copie architecturale du temple de Kukulcan à Chichén Itzá.", "Tout le centre-ville était entouré d'une muraille de pierre défensive massive."],
     }, image: "/poi-images/mayapan-history-v2.webp"},
   {
-    id: "ek-balam-history-v2",
+    id: "ek-balam-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie",
+                  "text": "Eine Galerie in der Nähe von Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.136069,
+                        20.892429
+                  ]
+            },
+            {
+                  "name": "Cenote Hubikú",
+                  "text": "Cenote Hubikú ist ein natürlicher Süßwassersee nahe Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.172432,
+                        20.819234
+                  ]
+            },
+            {
+                  "name": "Cénote",
+                  "text": "Ein Cenote in der Nähe von Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.145495,
+                        20.861899
+                  ]
+            },
+            {
+                  "name": "Alte Maya-Höhle",
+                  "text": "Alte Maya-Höhle in der Nähe von Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.050989,
+                        20.841163
+                  ]
+            },
+            {
+                  "name": "Cenote Sak Awa",
+                  "text": "Cenote Sak Awa in der Nähe von Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.051265,
+                        20.836317
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ruinen eines Ballspielplatzes in Ek Balam.",
+                  "category": "historical",
+                  "coords": [
+                        -88.136066,
+                        20.891301
+                  ]
+            },
+            {
+                  "name": "Cenote X-Canché",
+                  "text": "Cenote X-Canché in der Nähe von Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.120408,
+                        20.888258
+                  ]
+            },
+            {
+                  "name": "Centro de Educación Ambiental Finca San Luis",
+                  "text": "Das Umweltbildungszentrum Finca San Luis ist ein Naturschutzgebiet nahe Ek Balam.",
+                  "category": "natural",
+                  "coords": [
+                        -88.125783,
+                        20.826152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie",
+                  "text": "Egy galéria Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.136069,
+                        20.892429
+                  ]
+            },
+            {
+                  "name": "Cenote Hubikú",
+                  "text": "A Cenote Hubikú egy természetes édesvizű tó Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.172432,
+                        20.819234
+                  ]
+            },
+            {
+                  "name": "Cénote",
+                  "text": "Egy cenote Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.145495,
+                        20.861899
+                  ]
+            },
+            {
+                  "name": "Cueva de Maya",
+                  "text": "Ősi maja barlang Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.050989,
+                        20.841163
+                  ]
+            },
+            {
+                  "name": "Cenote Sak Awa",
+                  "text": "Cenote Sak Awa Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.051265,
+                        20.836317
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Egy labdajátékpálya romjai Ek Balam területén.",
+                  "category": "historical",
+                  "coords": [
+                        -88.136066,
+                        20.891301
+                  ]
+            },
+            {
+                  "name": "Cenote X-Canché",
+                  "text": "Cenote X-Canché Ek Balam közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.120408,
+                        20.888258
+                  ]
+            },
+            {
+                  "name": "Centro de Educación Ambiental Finca San Luis",
+                  "text": "A Finca San Luis Környezeti Nevelési Központ természetvédelmi terület Ek Balam közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -88.125783,
+                        20.826152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie",
+                  "text": "O galerie lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.136069,
+                        20.892429
+                  ]
+            },
+            {
+                  "name": "Cenote Hubikú",
+                  "text": "Cenote Hubikú este un lac natural de apă dulce lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.172432,
+                        20.819234
+                  ]
+            },
+            {
+                  "name": "Cénote",
+                  "text": "Un cenote lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.145495,
+                        20.861899
+                  ]
+            },
+            {
+                  "name": "Cueva de Maya",
+                  "text": "O peșteră mayașă veche lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.050989,
+                        20.841163
+                  ]
+            },
+            {
+                  "name": "Cenote Sak Awa",
+                  "text": "Cenote Sak Awa lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.051265,
+                        20.836317
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ruinele unui teren de joc cu mingea la Ek Balam.",
+                  "category": "historical",
+                  "coords": [
+                        -88.136066,
+                        20.891301
+                  ]
+            },
+            {
+                  "name": "Cenote X-Canché",
+                  "text": "Cenote X-Canché lângă Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.120408,
+                        20.888258
+                  ]
+            },
+            {
+                  "name": "Centro de Educación Ambiental Finca San Luis",
+                  "text": "Centrul de Educație Ecologică Finca San Luis este o rezervație naturală lângă Ek Balam.",
+                  "category": "natural",
+                  "coords": [
+                        -88.125783,
+                        20.826152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie",
+                  "text": "A gallery near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.136069,
+                        20.892429
+                  ]
+            },
+            {
+                  "name": "Cenote Hubikú",
+                  "text": "Cenote Hubikú is a natural freshwater sinkhole near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.172432,
+                        20.819234
+                  ]
+            },
+            {
+                  "name": "Cénote",
+                  "text": "A cenote near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.145495,
+                        20.861899
+                  ]
+            },
+            {
+                  "name": "Old Maya cave",
+                  "text": "Old Maya cave near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.050989,
+                        20.841163
+                  ]
+            },
+            {
+                  "name": "Cenote Sak Awa",
+                  "text": "Cenote Sak Awa near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.051265,
+                        20.836317
+                  ]
+            },
+            {
+                  "name": "Juego de Pelota",
+                  "text": "Ball court ruins at Ek Balam.",
+                  "category": "historical",
+                  "coords": [
+                        -88.136066,
+                        20.891301
+                  ]
+            },
+            {
+                  "name": "Cenote X-Canché",
+                  "text": "Cenote X-Canché near Ek Balam.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.120408,
+                        20.888258
+                  ]
+            },
+            {
+                  "name": "Centro de Educación Ambiental Finca San Luis",
+                  "text": "Centro de Educación Ambiental Finca San Luis is a nature reserve near Ek Balam.",
+                  "category": "natural",
+                  "coords": [
+                        -88.125783,
+                        20.826152
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-YUC",
     coords: [-88.13, 20.88],
@@ -946,7 +8605,1096 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["La monumentale Acropole est l'un des bâtiments les plus massifs du monde maya.", "Possède des reliefs en stuc magnifiquement conservés et des figures de guerriers ailés uniques.", "L'accès à une chambre centrale est conçu comme une gigantesque gueule de jaguar ou de monstre."],
     }, image: "/poi-images/ek-balam-history-v2.webp"},
   {
-    id: "chapultepec-castle-history-v2",
+    id: "chapultepec-castle-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arte Moderno",
+                  "text": "Das Museo de Arte Moderno ist ein Museum in Chapultepec, Mexiko-Stadt, das eine Sammlung moderner mexikanischer Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179635,
+                        19.422933
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Antropología",
+                  "text": "Das Museo Nacional de Antropología ist ein Museum in Chapultepec, Mexiko-Stadt, berühmt für den aztekischen Sonnenstein.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186515,
+                        19.426081
+                  ]
+            },
+            {
+                  "name": "Museo Rufino Tamayo",
+                  "text": "Das Museo Rufino Tamayo ist ein Museum in Chapultepec, Mexiko-Stadt, das zeitgenössische Kunst zeigt und nach dem Maler Rufino Tamayo benannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181655,
+                        19.425795
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Castillo de Chapultepec",
+                  "text": "Das Museo Nacional de Historia Castillo de Chapultepec ist ein Museum in Chapultepec, Mexiko-Stadt, das in einem ehemaligen Kaiserschloss untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181871,
+                        19.420488
+                  ]
+            },
+            {
+                  "name": "Petrograbados del Cerro de Chapultepec",
+                  "text": "Die Petrograbados del Cerro de Chapultepec sind eine archäologische Stätte in Chapultepec, Mexiko-Stadt, mit präkolumbianischen Felszeichnungen.",
+                  "category": "historical",
+                  "coords": [
+                        -99.180692,
+                        19.420768
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Digital",
+                  "text": "Das Centro de Cultura Digital ist ein Kunstzentrum in Chapultepec, Mexiko-Stadt, das sich mit digitaler Kultur beschäftigt und nahe der Estela de Luz liegt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.175909,
+                        19.423059
+                  ]
+            },
+            {
+                  "name": "Ahuehuete El Sargento",
+                  "text": "Der Ahuehuete El Sargento ist eine Attraktion in Chapultepec, Mexiko-Stadt, ein über 500 Jahre alter Zypressenbaum.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.180805,
+                        19.419334
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "Das Monumento a los Niños Héroes ist ein Denkmal in Chapultepec, Mexiko-Stadt, das an die gefallenen Kadetten des Mexikanisch-Amerikanischen Krieges erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.179289,
+                        19.421513
+                  ]
+            },
+            {
+                  "name": "Parque México",
+                  "text": "Der Parque México ist ein Park in Chapultepec, Mexiko-Stadt, bekannt für seine Art-déco-Architektur.",
+                  "category": "park",
+                  "coords": [
+                        -99.169357,
+                        19.412196
+                  ]
+            },
+            {
+                  "name": "Parque España",
+                  "text": "Der Parque España ist ein Park in Chapultepec, Mexiko-Stadt, mit einem Denkmal für die spanische Gemeinschaft.",
+                  "category": "park",
+                  "coords": [
+                        -99.171262,
+                        19.415099
+                  ]
+            },
+            {
+                  "name": "Baños de Moctezuma",
+                  "text": "Die Baños de Moctezuma sind eine archäologische Stätte in Chapultepec, Mexiko-Stadt, die Überreste aztekischer Bäder zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.181439,
+                        19.417633
+                  ]
+            },
+            {
+                  "name": "König Galerie",
+                  "text": "Die König Galerie ist eine Galerie in Chapultepec, Mexiko-Stadt, die zeitgenössische Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.17779,
+                        19.411923
+                  ]
+            },
+            {
+                  "name": "Mooni",
+                  "text": "Die Mooni ist eine Galerie in Chapultepec, Mexiko-Stadt, die sich auf moderne Kunst spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        -99.174533,
+                        19.412982
+                  ]
+            },
+            {
+                  "name": "House of Gaga",
+                  "text": "Die House of Gaga ist eine Galerie in Chapultepec, Mexiko-Stadt, die Werke mexikanischer und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.163168,
+                        19.404736
+                  ]
+            },
+            {
+                  "name": "54 gallery",
+                  "text": "Die 54 gallery ist eine Galerie in Chapultepec, Mexiko-Stadt, die zeitgenössische Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -99.169879,
+                        19.413545
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Judío y del Holocausto \"Tuvie Maizel\"",
+                  "text": "Das Museo Histórico Judío y del Holocausto \"Tuvie Maizel\" ist ein Museum in Chapultepec, Mexiko-Stadt, das die jüdische Geschichte und den Holocaust dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -99.173626,
+                        19.417638
+                  ]
+            },
+            {
+                  "name": "Galería de Historia",
+                  "text": "Die Galería de Historia ist ein Museum in Chapultepec, Mexiko-Stadt, das die mexikanische Geschichte durch Dioramen darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183312,
+                        19.418941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+                  "text": "Das Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec ist ein Museum in Chapultepec, Mexiko-Stadt, das Informationen über den Park bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179297,
+                        19.420334
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Público Siqueiros",
+                  "text": "Die Sala de Arte Público Siqueiros ist ein Museum in Chapultepec, Mexiko-Stadt, das dem Wandmaler David Alfaro Siqueiros gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.187384,
+                        19.429001
+                  ]
+            },
+            {
+                  "name": "Sala de exposiciones temporales",
+                  "text": "Die Temporary Exhibition Hall ist eine Galerie in Chapultepec, Mexiko-Stadt, die temporäre Kunstausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -99.18559,
+                        19.42642
+                  ]
+            },
+            {
+                  "name": "Rotary International",
+                  "text": "Das Rotary International ist ein Denkmal in Chapultepec, Mexiko-Stadt, das an die Arbeit der Rotary Clubs erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -99.18004,
+                        19.428349
+                  ]
+            },
+            {
+                  "name": "Arnoldo Alemán Lacaya",
+                  "text": "Das Arnoldo Alemán Lacaya ist ein Denkmal in Chapultepec, Mexiko-Stadt, das dem nicaraguanischen Politiker gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -99.185527,
+                        19.428671
+                  ]
+            },
+            {
+                  "name": "Julio Prieto",
+                  "text": "Das Julio Prieto ist ein Theater in Chapultepec, Mexiko-Stadt, benannt nach dem mexikanischen Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.161298,
+                        19.39598
+                  ]
+            },
+            {
+                  "name": "Bajo Circuito Multiforo Urbano",
+                  "text": "Das Bajo Circuito Multiforo Urbano ist ein Theater in Chapultepec, Mexiko-Stadt, das alternative Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179417,
+                        19.416232
+                  ]
+            },
+            {
+                  "name": "Foro Cultural Chapultepec",
+                  "text": "Das Foro Cultural Chapultepec ist ein Theater in Chapultepec, Mexiko-Stadt, das kulturelle Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179127,
+                        19.425735
+                  ]
+            },
+            {
+                  "name": "Teatro Reforma",
+                  "text": "Das Teatro Reforma ist ein Theater in Chapultepec, Mexiko-Stadt, ein historisches Gebäude aus dem 20. Jahrhundert.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173725,
+                        19.423136
+                  ]
+            },
+            {
+                  "name": "Foro Shakespeare",
+                  "text": "Das Foro Shakespeare ist ein Theater in Chapultepec, Mexiko-Stadt, das sich auf Theaterstücke spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.176598,
+                        19.419455
+                  ]
+            },
+            {
+                  "name": "Auditorio BB",
+                  "text": "Das Auditorio BB ist ein Theater in Chapultepec, Mexiko-Stadt, ein Veranstaltungsort für Konzerte und Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.168974,
+                        19.40664
+                  ]
+            },
+            {
+                  "name": "Teatro Ofelia",
+                  "text": "Das Teatro Ofelia ist ein Theater in Chapultepec, Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.182767,
+                        19.437117
+                  ]
+            },
+            {
+                  "name": "Voladores de Papantla",
+                  "text": "Die Voladores de Papantla sind eine Attraktion in Chapultepec, Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.184062,
+                        19.425703
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arte Moderno",
+                  "text": "A Museo de Arte Moderno egy múzeum a Chapultepecben, Mexikóvárosban, amely modern mexikói művészetet gyűjt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179635,
+                        19.422933
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Antropología",
+                  "text": "A Museo Nacional de Antropología egy múzeum a Chapultepecben, Mexikóvárosban, híres az azték Napkőről.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186515,
+                        19.426081
+                  ]
+            },
+            {
+                  "name": "Museo Rufino Tamayo",
+                  "text": "A Museo Rufino Tamayo egy múzeum a Chapultepecben, Mexikóvárosban, amely kortárs művészetet mutat be, és Rufino Tamayo festőről kapta a nevét.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181655,
+                        19.425795
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Castillo de Chapultepec",
+                  "text": "A Museo Nacional de Historia Castillo de Chapultepec egy múzeum a Chapultepecben, Mexikóvárosban, amely egy egykori császári kastélyban található.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181871,
+                        19.420488
+                  ]
+            },
+            {
+                  "name": "Petrograbados del Cerro de Chapultepec",
+                  "text": "A Petrograbados del Cerro de Chapultepec egy régészeti lelőhely a Chapultepecben, Mexikóvárosban, prekolumbián sziklarajzokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -99.180692,
+                        19.420768
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Digital",
+                  "text": "A Centro de Cultura Digital egy művészeti központ a Chapultepecben, Mexikóvárosban, amely digitális kultúrával foglalkozik és az Estela de Luz mellett található.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.175909,
+                        19.423059
+                  ]
+            },
+            {
+                  "name": "Ahuehuete El Sargento",
+                  "text": "Az Ahuehuete El Sargento egy látnivaló a Chapultepecben, Mexikóvárosban, egy több mint 500 éves ciprusfa.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.180805,
+                        19.419334
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "A Monumento a los Niños Héroes egy emlékmű a Chapultepecben, Mexikóvárosban, amely az amerikai-mexikói háborúban elesett kadétokra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.179289,
+                        19.421513
+                  ]
+            },
+            {
+                  "name": "Parque México",
+                  "text": "A Parque México egy park a Chapultepecben, Mexikóvárosban, híres art deco építészetéről.",
+                  "category": "park",
+                  "coords": [
+                        -99.169357,
+                        19.412196
+                  ]
+            },
+            {
+                  "name": "Parque España",
+                  "text": "A Parque España egy park a Chapultepecben, Mexikóvárosban, a spanyol közösség emlékművével.",
+                  "category": "park",
+                  "coords": [
+                        -99.171262,
+                        19.415099
+                  ]
+            },
+            {
+                  "name": "Baños de Moctezuma",
+                  "text": "A Baños de Moctezuma egy régészeti lelőhely a Chapultepecben, Mexikóvárosban, amely azték fürdők maradványait mutatja.",
+                  "category": "historical",
+                  "coords": [
+                        -99.181439,
+                        19.417633
+                  ]
+            },
+            {
+                  "name": "König Galerie",
+                  "text": "A König Galerie egy galéria a Chapultepecben, Mexikóvárosban, amely kortárs művészetet állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -99.17779,
+                        19.411923
+                  ]
+            },
+            {
+                  "name": "Mooni",
+                  "text": "A Mooni egy galéria a Chapultepecben, Mexikóvárosban, amely modern művészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        -99.174533,
+                        19.412982
+                  ]
+            },
+            {
+                  "name": "House of Gaga",
+                  "text": "A House of Gaga egy galéria a Chapultepecben, Mexikóvárosban, amely mexikói és nemzetközi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -99.163168,
+                        19.404736
+                  ]
+            },
+            {
+                  "name": "54 gallery",
+                  "text": "A 54 gallery egy galéria a Chapultepecben, Mexikóvárosban, amely kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -99.169879,
+                        19.413545
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Judío y del Holocausto \"Tuvie Maizel\"",
+                  "text": "A \"Tuvie Maizel\" Museo Histórico Judío y del Holocausto egy múzeum a Chapultepecben, Mexikóvárosban, amely a zsidó történelmet és a holokausztot dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -99.173626,
+                        19.417638
+                  ]
+            },
+            {
+                  "name": "Galería de Historia",
+                  "text": "A Galería de Historia egy múzeum a Chapultepecben, Mexikóvárosban, amely diorámákon keresztül mutatja be a mexikói történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183312,
+                        19.418941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+                  "text": "A Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec egy múzeum a Chapultepecben, Mexikóvárosban, amely információkat nyújt a parkról.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179297,
+                        19.420334
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Público Siqueiros",
+                  "text": "A Sala de Arte Público Siqueiros egy múzeum a Chapultepecben, Mexikóvárosban, amely David Alfaro Siqueiros festőművésznek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.187384,
+                        19.429001
+                  ]
+            },
+            {
+                  "name": "Sala de exposiciones temporales",
+                  "text": "A Temporary Exhibition Hall egy galéria a Chapultepecben, Mexikóvárosban, amely időszakos művészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -99.18559,
+                        19.42642
+                  ]
+            },
+            {
+                  "name": "Rotary International",
+                  "text": "A Rotary International egy emlékmű a Chapultepecben, Mexikóvárosban, amely a Rotary klubok munkájára emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -99.18004,
+                        19.428349
+                  ]
+            },
+            {
+                  "name": "Arnoldo Alemán Lacaya",
+                  "text": "Az Arnoldo Alemán Lacaya egy emlékmű a Chapultepecben, Mexikóvárosban, amely a nicaraguai politikusnak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -99.185527,
+                        19.428671
+                  ]
+            },
+            {
+                  "name": "Julio Prieto",
+                  "text": "A Julio Prieto egy színház a Chapultepecben, Mexikóvárosban, amely a mexikói művészről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.161298,
+                        19.39598
+                  ]
+            },
+            {
+                  "name": "Bajo Circuito Multiforo Urbano",
+                  "text": "A Bajo Circuito Multiforo Urbano egy színház a Chapultepecben, Mexikóvárosban, amely alternatív előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179417,
+                        19.416232
+                  ]
+            },
+            {
+                  "name": "Foro Cultural Chapultepec",
+                  "text": "A Foro Cultural Chapultepec egy színház a Chapultepecben, Mexikóvárosban, amely kulturális eseményeket rendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179127,
+                        19.425735
+                  ]
+            },
+            {
+                  "name": "Teatro Reforma",
+                  "text": "A Teatro Reforma egy színház a Chapultepecben, Mexikóvárosban, egy 20. századi történelmi épület.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173725,
+                        19.423136
+                  ]
+            },
+            {
+                  "name": "Foro Shakespeare",
+                  "text": "A Foro Shakespeare egy színház a Chapultepecben, Mexikóvárosban, amely színdarabokra specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.176598,
+                        19.419455
+                  ]
+            },
+            {
+                  "name": "Auditorio BB",
+                  "text": "Az Auditorio BB egy színház a Chapultepecben, Mexikóvárosban, koncertek és előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.168974,
+                        19.40664
+                  ]
+            },
+            {
+                  "name": "Teatro Ofelia",
+                  "text": "A Teatro Ofelia egy színház Chapultepecben, Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.182767,
+                        19.437117
+                  ]
+            },
+            {
+                  "name": "Voladores de Papantla",
+                  "text": "A Voladores de Papantla egy látványosság Chapultepecben, Mexikóvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.184062,
+                        19.425703
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arte Moderno",
+                  "text": "Museo de Arte Moderno este un muzeu în Chapultepec, Mexico City, care adăpostește artă modernă mexicană.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179635,
+                        19.422933
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Antropología",
+                  "text": "Museo Nacional de Antropología este un muzeu în Chapultepec, Mexico City, renumit pentru Piatra Soarelui aztecă.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186515,
+                        19.426081
+                  ]
+            },
+            {
+                  "name": "Museo Rufino Tamayo",
+                  "text": "Museo Rufino Tamayo este un muzeu în Chapultepec, Mexico City, dedicat artei contemporane și numit după pictorul Rufino Tamayo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181655,
+                        19.425795
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Castillo de Chapultepec",
+                  "text": "Museo Nacional de Historia Castillo de Chapultepec este un muzeu în Chapultepec, Mexico City, găzduit într-un fost castel imperial.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181871,
+                        19.420488
+                  ]
+            },
+            {
+                  "name": "Petrograbados del Cerro de Chapultepec",
+                  "text": "Petrograbados del Cerro de Chapultepec este un sit arheologic în Chapultepec, Mexico City, cu petroglife precolumbiene.",
+                  "category": "historical",
+                  "coords": [
+                        -99.180692,
+                        19.420768
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Digital",
+                  "text": "Centro de Cultura Digital este un centru de artă în Chapultepec, Mexico City, dedicat culturii digitale, situat lângă Estela de Luz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.175909,
+                        19.423059
+                  ]
+            },
+            {
+                  "name": "Ahuehuete El Sargento",
+                  "text": "Ahuehuete El Sargento este o atracție în Chapultepec, Mexico City, un chiparos vechi de peste 500 de ani.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.180805,
+                        19.419334
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "Monumento a los Niños Héroes este un monument în Chapultepec, Mexico City, care comemorează cadeții căzuți în războiul mexicano-american.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.179289,
+                        19.421513
+                  ]
+            },
+            {
+                  "name": "Parque México",
+                  "text": "Parque México este un parc în Chapultepec, Mexico City, cunoscut pentru arhitectura sa Art Deco.",
+                  "category": "park",
+                  "coords": [
+                        -99.169357,
+                        19.412196
+                  ]
+            },
+            {
+                  "name": "Parque España",
+                  "text": "Parque España este un parc în Chapultepec, Mexico City, cu un monument dedicat comunității spaniole.",
+                  "category": "park",
+                  "coords": [
+                        -99.171262,
+                        19.415099
+                  ]
+            },
+            {
+                  "name": "Baños de Moctezuma",
+                  "text": "Baños de Moctezuma este un sit arheologic în Chapultepec, Mexico City, care prezintă rămășițe ale unor băi aztece.",
+                  "category": "historical",
+                  "coords": [
+                        -99.181439,
+                        19.417633
+                  ]
+            },
+            {
+                  "name": "König Galerie",
+                  "text": "König Galerie este o galerie în Chapultepec, Mexico City, care expune artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -99.17779,
+                        19.411923
+                  ]
+            },
+            {
+                  "name": "Mooni",
+                  "text": "Mooni este o galerie în Chapultepec, Mexico City, specializată în artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        -99.174533,
+                        19.412982
+                  ]
+            },
+            {
+                  "name": "House of Gaga",
+                  "text": "House of Gaga este o galerie în Chapultepec, Mexico City, care prezintă lucrări ale artiștilor mexicani și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        -99.163168,
+                        19.404736
+                  ]
+            },
+            {
+                  "name": "54 gallery",
+                  "text": "54 gallery este o galerie în Chapultepec, Mexico City, care prezintă artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -99.169879,
+                        19.413545
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Judío y del Holocausto \"Tuvie Maizel\"",
+                  "text": "Museo Histórico Judío y del Holocausto \"Tuvie Maizel\" este un muzeu în Chapultepec, Mexico City, care documentează istoria evreiască și Holocaustul.",
+                  "category": "museum",
+                  "coords": [
+                        -99.173626,
+                        19.417638
+                  ]
+            },
+            {
+                  "name": "Galería de Historia",
+                  "text": "Galería de Historia este un muzeu în Chapultepec, Mexico City, care prezintă istoria Mexicului prin diorame.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183312,
+                        19.418941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+                  "text": "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec este un muzeu în Chapultepec, Mexico City, care oferă informații despre parc.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179297,
+                        19.420334
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Público Siqueiros",
+                  "text": "Sala de Arte Público Siqueiros este un muzeu în Chapultepec, Mexico City, dedicat pictorului muralist David Alfaro Siqueiros.",
+                  "category": "museum",
+                  "coords": [
+                        -99.187384,
+                        19.429001
+                  ]
+            },
+            {
+                  "name": "Sala de exposiciones temporales",
+                  "text": "Temporary Exhibition Hall este o galerie în Chapultepec, Mexico City, care prezintă expoziții temporare de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -99.18559,
+                        19.42642
+                  ]
+            },
+            {
+                  "name": "Rotary International",
+                  "text": "Rotary International este un monument în Chapultepec, Mexico City, care comemorează activitatea cluburilor Rotary.",
+                  "category": "historical",
+                  "coords": [
+                        -99.18004,
+                        19.428349
+                  ]
+            },
+            {
+                  "name": "Arnoldo Alemán Lacaya",
+                  "text": "Arnoldo Alemán Lacaya este un monument în Chapultepec, Mexico City, dedicat politicianului nicaraguan.",
+                  "category": "historical",
+                  "coords": [
+                        -99.185527,
+                        19.428671
+                  ]
+            },
+            {
+                  "name": "Julio Prieto",
+                  "text": "Julio Prieto este un teatru în Chapultepec, Mexico City, numit după artistul mexican.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.161298,
+                        19.39598
+                  ]
+            },
+            {
+                  "name": "Bajo Circuito Multiforo Urbano",
+                  "text": "Bajo Circuito Multiforo Urbano este un teatru în Chapultepec, Mexico City, care oferă spectacole alternative.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179417,
+                        19.416232
+                  ]
+            },
+            {
+                  "name": "Foro Cultural Chapultepec",
+                  "text": "Foro Cultural Chapultepec este un teatru în Chapultepec, Mexico City, care găzduiește evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179127,
+                        19.425735
+                  ]
+            },
+            {
+                  "name": "Teatro Reforma",
+                  "text": "Teatro Reforma este un teatru în Chapultepec, Mexico City, o clădire istorică din secolul al XX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173725,
+                        19.423136
+                  ]
+            },
+            {
+                  "name": "Foro Shakespeare",
+                  "text": "Foro Shakespeare este un teatru în Chapultepec, Mexico City, specializat în piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.176598,
+                        19.419455
+                  ]
+            },
+            {
+                  "name": "Auditorio BB",
+                  "text": "Auditorio BB este un teatru în Chapultepec, Mexico City, un loc pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.168974,
+                        19.40664
+                  ]
+            },
+            {
+                  "name": "Teatro Ofelia",
+                  "text": "Teatro Ofelia este un teatru în Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.182767,
+                        19.437117
+                  ]
+            },
+            {
+                  "name": "Voladores de Papantla",
+                  "text": "Voladores de Papantla este o atracție în Chapultepec, Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.184062,
+                        19.425703
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arte Moderno",
+                  "text": "The Museo de Arte Moderno is a museum in Chapultepec, Mexico City, housing a collection of modern Mexican art.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179635,
+                        19.422933
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Antropología",
+                  "text": "The Museo Nacional de Antropología is a museum in Chapultepec, Mexico City, famous for the Aztec Sun Stone.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186515,
+                        19.426081
+                  ]
+            },
+            {
+                  "name": "Museo Rufino Tamayo",
+                  "text": "The Museo Rufino Tamayo is a museum in Chapultepec, Mexico City, dedicated to contemporary art and named after the painter Rufino Tamayo.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181655,
+                        19.425795
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de Historia Castillo de Chapultepec",
+                  "text": "The Museo Nacional de Historia Castillo de Chapultepec is a museum in Chapultepec, Mexico City, housed in a former imperial castle.",
+                  "category": "museum",
+                  "coords": [
+                        -99.181871,
+                        19.420488
+                  ]
+            },
+            {
+                  "name": "Petrograbados del Cerro de Chapultepec",
+                  "text": "The Petrograbados del Cerro de Chapultepec is an archaeological site in Chapultepec, Mexico City, featuring pre-Columbian petroglyphs.",
+                  "category": "historical",
+                  "coords": [
+                        -99.180692,
+                        19.420768
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Digital",
+                  "text": "The Centro de Cultura Digital is an arts centre in Chapultepec, Mexico City, focusing on digital culture and located near the Estela de Luz.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.175909,
+                        19.423059
+                  ]
+            },
+            {
+                  "name": "Ahuehuete El Sargento",
+                  "text": "The Ahuehuete El Sargento is an attraction in Chapultepec, Mexico City, a cypress tree over 500 years old.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.180805,
+                        19.419334
+                  ]
+            },
+            {
+                  "name": "Monumento a los Niños Héroes",
+                  "text": "The Monumento a los Niños Héroes is a monument in Chapultepec, Mexico City, commemorating the fallen cadets of the Mexican–American War.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.179289,
+                        19.421513
+                  ]
+            },
+            {
+                  "name": "Parque México",
+                  "text": "The Parque México is a park in Chapultepec, Mexico City, known for its Art Deco architecture.",
+                  "category": "park",
+                  "coords": [
+                        -99.169357,
+                        19.412196
+                  ]
+            },
+            {
+                  "name": "Parque España",
+                  "text": "The Parque España is a park in Chapultepec, Mexico City, featuring a monument to the Spanish community.",
+                  "category": "park",
+                  "coords": [
+                        -99.171262,
+                        19.415099
+                  ]
+            },
+            {
+                  "name": "Baños de Moctezuma",
+                  "text": "The Baños de Moctezuma is an archaeological site in Chapultepec, Mexico City, showing remains of Aztec baths.",
+                  "category": "historical",
+                  "coords": [
+                        -99.181439,
+                        19.417633
+                  ]
+            },
+            {
+                  "name": "König Galerie",
+                  "text": "The König Galerie is a gallery in Chapultepec, Mexico City, exhibiting contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -99.17779,
+                        19.411923
+                  ]
+            },
+            {
+                  "name": "Mooni",
+                  "text": "The Mooni is a gallery in Chapultepec, Mexico City, specializing in modern art.",
+                  "category": "museum",
+                  "coords": [
+                        -99.174533,
+                        19.412982
+                  ]
+            },
+            {
+                  "name": "House of Gaga",
+                  "text": "The House of Gaga is a gallery in Chapultepec, Mexico City, showing works by Mexican and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        -99.163168,
+                        19.404736
+                  ]
+            },
+            {
+                  "name": "54 gallery",
+                  "text": "The 54 gallery is a gallery in Chapultepec, Mexico City, presenting contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -99.169879,
+                        19.413545
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Judío y del Holocausto \"Tuvie Maizel\"",
+                  "text": "The Museo Histórico Judío y del Holocausto \"Tuvie Maizel\" is a museum in Chapultepec, Mexico City, documenting Jewish history and the Holocaust.",
+                  "category": "museum",
+                  "coords": [
+                        -99.173626,
+                        19.417638
+                  ]
+            },
+            {
+                  "name": "Galería de Historia",
+                  "text": "The Galería de Historia is a museum in Chapultepec, Mexico City, depicting Mexican history through dioramas.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183312,
+                        19.418941
+                  ]
+            },
+            {
+                  "name": "Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec",
+                  "text": "The Museo de Sitio y Centro de Visitantes del Bosque de Chapultepec is a museum in Chapultepec, Mexico City, providing information about the park.",
+                  "category": "museum",
+                  "coords": [
+                        -99.179297,
+                        19.420334
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Público Siqueiros",
+                  "text": "The Sala de Arte Público Siqueiros is a museum in Chapultepec, Mexico City, dedicated to muralist David Alfaro Siqueiros.",
+                  "category": "museum",
+                  "coords": [
+                        -99.187384,
+                        19.429001
+                  ]
+            },
+            {
+                  "name": "Temporary Exhibition Hall",
+                  "text": "The Temporary Exhibition Hall is a gallery in Chapultepec, Mexico City, presenting temporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -99.18559,
+                        19.42642
+                  ]
+            },
+            {
+                  "name": "Rotary International",
+                  "text": "The Rotary International is a monument in Chapultepec, Mexico City, commemorating the work of Rotary clubs.",
+                  "category": "historical",
+                  "coords": [
+                        -99.18004,
+                        19.428349
+                  ]
+            },
+            {
+                  "name": "Arnoldo Alemán Lacaya",
+                  "text": "The Arnoldo Alemán Lacaya is a monument in Chapultepec, Mexico City, dedicated to the Nicaraguan politician.",
+                  "category": "historical",
+                  "coords": [
+                        -99.185527,
+                        19.428671
+                  ]
+            },
+            {
+                  "name": "Julio Prieto",
+                  "text": "The Julio Prieto is a theatre in Chapultepec, Mexico City, named after the Mexican artist.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.161298,
+                        19.39598
+                  ]
+            },
+            {
+                  "name": "Bajo Circuito Multiforo Urbano",
+                  "text": "The Bajo Circuito Multiforo Urbano is a theatre in Chapultepec, Mexico City, offering alternative performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179417,
+                        19.416232
+                  ]
+            },
+            {
+                  "name": "Foro Cultural Chapultepec",
+                  "text": "The Foro Cultural Chapultepec is a theatre in Chapultepec, Mexico City, hosting cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.179127,
+                        19.425735
+                  ]
+            },
+            {
+                  "name": "Teatro Reforma",
+                  "text": "The Teatro Reforma is a theatre in Chapultepec, Mexico City, a historic building from the 20th century.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.173725,
+                        19.423136
+                  ]
+            },
+            {
+                  "name": "Foro Shakespeare",
+                  "text": "The Foro Shakespeare is a theatre in Chapultepec, Mexico City, specializing in plays.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.176598,
+                        19.419455
+                  ]
+            },
+            {
+                  "name": "Auditorio BB",
+                  "text": "The Auditorio BB is a theatre in Chapultepec, Mexico City, a venue for concerts and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.168974,
+                        19.40664
+                  ]
+            },
+            {
+                  "name": "Teatro Ofelia",
+                  "text": "Teatro Ofelia is a theatre in Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.182767,
+                        19.437117
+                  ]
+            },
+            {
+                  "name": "Voladores de Papantla",
+                  "text": "Voladores de Papantla is an attraction in Chapultepec, Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.184062,
+                        19.425703
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CMX",
     coords: [-99.18, 19.42],
@@ -993,7 +9741,700 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Est le seul château royal historiquement utilisé dans toute l'Amérique du Nord.", "Fut la résidence principale de l'archiduc autrichien Maximilien Ier dans les années 1860.", "Abrite aujourd'hui l'important Musée national d'histoire du Mexique."],
     }, image: "/poi-images/chapultepec-castle-history-v2.webp"},
   {
-    id: "palacio-de-bellas-artes-history-v2",
+    id: "palacio-de-bellas-artes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Foro Valparaíso",
+                  "text": "Ein Museum in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.136248,
+                        19.431635
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria Indómita",
+                  "text": "Ein Museum in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.1348,
+                        19.427706
+                  ]
+            },
+            {
+                  "name": "Teatro San Millán",
+                  "text": "Ein Theater in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.138576,
+                        19.420914
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Carreterra 45",
+                  "text": "Ein Kulturzentrum/Theater in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.136873,
+                        19.416865
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Antiguo México",
+                  "text": "Ein Museum für antikes Spielzeug in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.144101,
+                        19.415373
+                  ]
+            },
+            {
+                  "name": "Instituto Nacional de Bellas Artes",
+                  "text": "Das Nationalinstitut der Schönen Künste in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.135758,
+                        19.427829
+                  ]
+            },
+            {
+                  "name": "Museo de la Cancillería",
+                  "text": "Ein Museum des Außenministeriums in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138172,
+                        19.429792
+                  ]
+            },
+            {
+                  "name": "Centro de la Imagen",
+                  "text": "Ein Museum für Bildkultur in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.148898,
+                        19.428709
+                  ]
+            },
+            {
+                  "name": "Galería Abraham Zabludovsky",
+                  "text": "Eine Galerie in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.150046,
+                        19.429057
+                  ]
+            },
+            {
+                  "name": "Secretaría del Trabajo y Previsión Social",
+                  "text": "Ein Denkmal des Ministeriums für Arbeit und soziale Vorsorge in Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.14807,
+                        19.417057
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Amphitheater in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.148529,
+                        19.401036
+                  ]
+            },
+            {
+                  "name": "La Resurrección Tultenco",
+                  "text": "Eine Kapelle, bekannt als La Resurrección Tultenco, in Mexiko-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -99.126423,
+                        19.412711
+                  ]
+            },
+            {
+                  "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
+                  "text": "Eine Basilika in Mexiko-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -99.143472,
+                        19.431014
+                  ]
+            },
+            {
+                  "name": "Museo Agrario",
+                  "text": "Ein Agrar museum in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.131992,
+                        19.424724
+                  ]
+            },
+            {
+                  "name": "Museo de la Charrería",
+                  "text": "Ein Museum der mexikanischen Reitkunst (Charrería) in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.13713,
+                        19.426049
+                  ]
+            },
+            {
+                  "name": "Museo Del Sitio Del Antiguo Hospital Concepción Béistegui",
+                  "text": "Ein Museum am Ort des alten Krankenhauses Concepción Béistegui in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138307,
+                        19.427801
+                  ]
+            },
+            {
+                  "name": "Fuente de Salto del Agua",
+                  "text": "Ein Brunnen in Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.142268,
+                        19.426764
+                  ]
+            },
+            {
+                  "name": "Teatro Ciudadela",
+                  "text": "Ein Theater in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.151265,
+                        19.430241
+                  ]
+            },
+            {
+                  "name": "Arena México",
+                  "text": "Eine Arena in Mexiko-Stadt, bekannt für Wrestling-Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.152003,
+                        19.424614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Foro Valparaíso",
+                  "text": "Múzeum Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.136248,
+                        19.431635
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria Indómita",
+                  "text": "Múzeum Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.1348,
+                        19.427706
+                  ]
+            },
+            {
+                  "name": "Teatro San Millán",
+                  "text": "Színház Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.138576,
+                        19.420914
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Carreterra 45",
+                  "text": "Kulturális központ/színház Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.136873,
+                        19.416865
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Antiguo México",
+                  "text": "Antik játékok múzeuma Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.144101,
+                        19.415373
+                  ]
+            },
+            {
+                  "name": "Instituto Nacional de Bellas Artes",
+                  "text": "A Szépművészeti Nemzeti Intézet Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.135758,
+                        19.427829
+                  ]
+            },
+            {
+                  "name": "Museo de la Cancillería",
+                  "text": "A Külügyminisztérium múzeuma Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138172,
+                        19.429792
+                  ]
+            },
+            {
+                  "name": "Centro de la Imagen",
+                  "text": "Képmúzeum Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.148898,
+                        19.428709
+                  ]
+            },
+            {
+                  "name": "Galería Abraham Zabludovsky",
+                  "text": "Galéria Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.150046,
+                        19.429057
+                  ]
+            },
+            {
+                  "name": "Secretaría del Trabajo y Previsión Social",
+                  "text": "A Munkaügyi és Szociális Jóléti Minisztérium emlékműve Mexikóvárosban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.14807,
+                        19.417057
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Amfiteátrum Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.148529,
+                        19.401036
+                  ]
+            },
+            {
+                  "name": "La Resurrección Tultenco",
+                  "text": "Kápolna, más néven La Resurrección Tultenco, Mexikóvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        -99.126423,
+                        19.412711
+                  ]
+            },
+            {
+                  "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
+                  "text": "Bazilika Mexikóvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        -99.143472,
+                        19.431014
+                  ]
+            },
+            {
+                  "name": "Museo Agrario",
+                  "text": "Agrár múzeum Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.131992,
+                        19.424724
+                  ]
+            },
+            {
+                  "name": "Museo de la Charrería",
+                  "text": "A mexikói lovas művészet (Charrería) múzeuma Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.13713,
+                        19.426049
+                  ]
+            },
+            {
+                  "name": "Museo Del Sitio Del Antiguo Hospital Concepción Béistegui",
+                  "text": "Múzeum a régi Concepción Béistegui Kórház helyén, Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138307,
+                        19.427801
+                  ]
+            },
+            {
+                  "name": "Fuente de Salto del Agua",
+                  "text": "Szökőkút Mexikóvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.142268,
+                        19.426764
+                  ]
+            },
+            {
+                  "name": "Teatro Ciudadela",
+                  "text": "Színház Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.151265,
+                        19.430241
+                  ]
+            },
+            {
+                  "name": "Arena México",
+                  "text": "Arena Mexikóvárosban, híres birkózó rendezvényekről.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.152003,
+                        19.424614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Foro Valparaíso",
+                  "text": "Un muzeu în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.136248,
+                        19.431635
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria Indómita",
+                  "text": "Un muzeu în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.1348,
+                        19.427706
+                  ]
+            },
+            {
+                  "name": "Teatro San Millán",
+                  "text": "Un teatru în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.138576,
+                        19.420914
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Carreterra 45",
+                  "text": "Un centru cultural/teatru în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.136873,
+                        19.416865
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Antiguo México",
+                  "text": "Un muzeu al jucăriilor antice în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.144101,
+                        19.415373
+                  ]
+            },
+            {
+                  "name": "Instituto Nacional de Bellas Artes",
+                  "text": "Institutul Național de Arte Frumoase din Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.135758,
+                        19.427829
+                  ]
+            },
+            {
+                  "name": "Museo de la Cancillería",
+                  "text": "Un muzeu al Ministerului de Externe în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138172,
+                        19.429792
+                  ]
+            },
+            {
+                  "name": "Centro de la Imagen",
+                  "text": "Un muzeu al imaginii în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.148898,
+                        19.428709
+                  ]
+            },
+            {
+                  "name": "Galería Abraham Zabludovsky",
+                  "text": "O galerie în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.150046,
+                        19.429057
+                  ]
+            },
+            {
+                  "name": "Secretaría del Trabajo y Previsión Social",
+                  "text": "Un monument al Secretariatului Muncii și Protecției Sociale în Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.14807,
+                        19.417057
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.148529,
+                        19.401036
+                  ]
+            },
+            {
+                  "name": "La Resurrección Tultenco",
+                  "text": "O capelă, cunoscută ca La Resurrección Tultenco, în Mexico City.",
+                  "category": "religious",
+                  "coords": [
+                        -99.126423,
+                        19.412711
+                  ]
+            },
+            {
+                  "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
+                  "text": "O bazilică în Mexico City.",
+                  "category": "religious",
+                  "coords": [
+                        -99.143472,
+                        19.431014
+                  ]
+            },
+            {
+                  "name": "Museo Agrario",
+                  "text": "Un muzeu agrar în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.131992,
+                        19.424724
+                  ]
+            },
+            {
+                  "name": "Museo de la Charrería",
+                  "text": "Un muzeu al călăritului mexican (Charrería) în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.13713,
+                        19.426049
+                  ]
+            },
+            {
+                  "name": "Museo Del Sitio Del Antiguo Hospital Concepción Béistegui",
+                  "text": "Un muzeu la locul vechiului Spital Concepción Béistegui din Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138307,
+                        19.427801
+                  ]
+            },
+            {
+                  "name": "Fuente de Salto del Agua",
+                  "text": "O fântână în Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.142268,
+                        19.426764
+                  ]
+            },
+            {
+                  "name": "Teatro Ciudadela",
+                  "text": "Un teatru în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.151265,
+                        19.430241
+                  ]
+            },
+            {
+                  "name": "Arena México",
+                  "text": "O arenă în Mexico City, cunoscută pentru evenimente de wrestling.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.152003,
+                        19.424614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Foro Valparaíso",
+                  "text": "A museum in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.136248,
+                        19.431635
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Memoria Indómita",
+                  "text": "A museum in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.1348,
+                        19.427706
+                  ]
+            },
+            {
+                  "name": "Teatro San Millán",
+                  "text": "A theatre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.138576,
+                        19.420914
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Carreterra 45",
+                  "text": "A cultural centre/theatre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.136873,
+                        19.416865
+                  ]
+            },
+            {
+                  "name": "Museo del Juguete Antiguo México",
+                  "text": "A museum of antique toys in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.144101,
+                        19.415373
+                  ]
+            },
+            {
+                  "name": "Instituto Nacional de Bellas Artes",
+                  "text": "The National Institute of Fine Arts in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.135758,
+                        19.427829
+                  ]
+            },
+            {
+                  "name": "Museo de la Cancillería",
+                  "text": "A museum of the Ministry of Foreign Affairs in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138172,
+                        19.429792
+                  ]
+            },
+            {
+                  "name": "Centro de la Imagen",
+                  "text": "A museum of image culture in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.148898,
+                        19.428709
+                  ]
+            },
+            {
+                  "name": "Galería Abraham Zabludovsky",
+                  "text": "A gallery in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.150046,
+                        19.429057
+                  ]
+            },
+            {
+                  "name": "Secretaría del Trabajo y Previsión Social",
+                  "text": "A monument of the Ministry of Labor and Social Welfare in Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.14807,
+                        19.417057
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An amphitheatre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.148529,
+                        19.401036
+                  ]
+            },
+            {
+                  "name": "La Resurrección Tultenco",
+                  "text": "A chapel known as La Resurrección Tultenco in Mexico City.",
+                  "category": "religious",
+                  "coords": [
+                        -99.126423,
+                        19.412711
+                  ]
+            },
+            {
+                  "name": "Basílica de San José y Nuestra Señora del Sagrado Corazón",
+                  "text": "A basilica in Mexico City.",
+                  "category": "religious",
+                  "coords": [
+                        -99.143472,
+                        19.431014
+                  ]
+            },
+            {
+                  "name": "Museo Agrario",
+                  "text": "An agrarian museum in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.131992,
+                        19.424724
+                  ]
+            },
+            {
+                  "name": "Museo de la Charrería",
+                  "text": "A museum of Mexican horsemanship (Charrería) in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.13713,
+                        19.426049
+                  ]
+            },
+            {
+                  "name": "Museo Del Sitio Del Antiguo Hospital Concepción Béistegui",
+                  "text": "A museum on the site of the old Concepción Béistegui Hospital in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.138307,
+                        19.427801
+                  ]
+            },
+            {
+                  "name": "Fuente de Salto del Agua",
+                  "text": "A fountain in Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.142268,
+                        19.426764
+                  ]
+            },
+            {
+                  "name": "Teatro Ciudadela",
+                  "text": "A theatre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.151265,
+                        19.430241
+                  ]
+            },
+            {
+                  "name": "Arena México",
+                  "text": "An arena in Mexico City, known for wrestling events.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.152003,
+                        19.424614
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CMX",
     coords: [-99.14, 19.43],
@@ -1040,7 +10481,556 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Combine de manière unique l'Art nouveau à l'extérieur et l'Art déco à l'intérieur.", "Les travaux de construction ont été interrompus pendant des années par la Révolution mexicaine.", "Abrite certaines des peintures murales (murals) les plus célèbres du Mexique."],
     }, image: "/poi-images/palacio-de-bellas-artes-history-v2.webp"},
   {
-    id: "hospicio-cabanas-history-v2",
+    id: "hospicio-cabanas-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Columna de la Antigua Garita de San Pedro",
+                  "text": "Columna de la Antigua Garita de San Pedro ist eine Ruine in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.33359,
+                        20.663311
+                  ]
+            },
+            {
+                  "name": "Arena Coliseo wrestling",
+                  "text": "Arena Coliseo wrestling ist eine Attraktion in Guadalajara für Wrestling-Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.342793,
+                        20.670952
+                  ]
+            },
+            {
+                  "name": "\"El Palomar\" de Luis Barragán",
+                  "text": "El Palomar de Luis Barragán ist eine Attraktion in Guadalajara, entworfen vom Architekten Luis Barragán.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.347243,
+                        20.670081
+                  ]
+            },
+            {
+                  "name": "Foro Independencia",
+                  "text": "Foro Independencia ist ein Theater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347693,
+                        20.66631
+                  ]
+            },
+            {
+                  "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
+                  "text": "Museum of Paleontology Guadalajara ist ein Museum in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.345995,
+                        20.658967
+                  ]
+            },
+            {
+                  "name": "Las Columnas",
+                  "text": "Las Columnas ist eine Attraktion in Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.349728,
+                        20.661496
+                  ]
+            },
+            {
+                  "name": "Tianguis Cultural de Guadalajara",
+                  "text": "Tianguis Cultural de Guadalajara ist ein kultureller Markt in Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.350569,
+                        20.659617
+                  ]
+            },
+            {
+                  "name": "Instituto de la Artesanía Jalisciense",
+                  "text": "Instituto de la Artesanía Jalisciense ist ein Museum für Handwerk in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.348253,
+                        20.661357
+                  ]
+            },
+            {
+                  "name": "Plaza de La Bandera",
+                  "text": "Plaza de La Bandera ist ein Park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.333419,
+                        20.665101
+                  ]
+            },
+            {
+                  "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
+                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) ist ein Museum in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.332566,
+                        20.669365
+                  ]
+            },
+            {
+                  "name": "Foro Infantil Agua Azul",
+                  "text": "Foro Infantil Agua Azul ist ein Kindertheater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347237,
+                        20.65912
+                  ]
+            },
+            {
+                  "name": "Teatro Diana",
+                  "text": "Teatro Diana ist ein Theater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349292,
+                        20.665471
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Agua Azul",
+                  "text": "Concha Acústica Agua Azul ist ein Freilichttheater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349017,
+                        20.659605
+                  ]
+            },
+            {
+                  "name": "Parque González Gallo",
+                  "text": "Parque González Gallo ist ein Park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.337302,
+                        20.64778
+                  ]
+            },
+            {
+                  "name": "Parque Walt Disney",
+                  "text": "Parque Walt Disney ist ein Park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.330322,
+                        20.653411
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Columna de la Antigua Garita de San Pedro",
+                  "text": "A Columna de la Antigua Garita de San Pedro egy rom Guadalajarában.",
+                  "category": "historical",
+                  "coords": [
+                        -103.33359,
+                        20.663311
+                  ]
+            },
+            {
+                  "name": "Arena Coliseo wrestling",
+                  "text": "Az Arena Coliseo wrestling egy látványosság Guadalajarában birkózóesemények számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.342793,
+                        20.670952
+                  ]
+            },
+            {
+                  "name": "\"El Palomar\" de Luis Barragán",
+                  "text": "Az El Palomar de Luis Barragán egy látványosság Guadalajarában, amelyet Luis Barragán építész tervezett.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.347243,
+                        20.670081
+                  ]
+            },
+            {
+                  "name": "Foro Independencia",
+                  "text": "A Foro Independencia egy színház Guadalajarában.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347693,
+                        20.66631
+                  ]
+            },
+            {
+                  "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
+                  "text": "A Museum of Paleontology Guadalajara egy múzeum Guadalajarában.",
+                  "category": "museum",
+                  "coords": [
+                        -103.345995,
+                        20.658967
+                  ]
+            },
+            {
+                  "name": "Las Columnas",
+                  "text": "A Las Columnas egy látványosság Guadalajarában.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.349728,
+                        20.661496
+                  ]
+            },
+            {
+                  "name": "Tianguis Cultural de Guadalajara",
+                  "text": "A Tianguis Cultural de Guadalajara egy kulturális piac Guadalajarában.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.350569,
+                        20.659617
+                  ]
+            },
+            {
+                  "name": "Instituto de la Artesanía Jalisciense",
+                  "text": "Az Instituto de la Artesanía Jalisciense egy kézműves múzeum Guadalajarában.",
+                  "category": "museum",
+                  "coords": [
+                        -103.348253,
+                        20.661357
+                  ]
+            },
+            {
+                  "name": "Plaza de La Bandera",
+                  "text": "A Plaza de La Bandera egy park Guadalajarában.",
+                  "category": "park",
+                  "coords": [
+                        -103.333419,
+                        20.665101
+                  ]
+            },
+            {
+                  "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
+                  "text": "A Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) egy múzeum Guadalajarában.",
+                  "category": "museum",
+                  "coords": [
+                        -103.332566,
+                        20.669365
+                  ]
+            },
+            {
+                  "name": "Foro Infantil Agua Azul",
+                  "text": "A Foro Infantil Agua Azul egy gyerekszínház Guadalajarában.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347237,
+                        20.65912
+                  ]
+            },
+            {
+                  "name": "Teatro Diana",
+                  "text": "A Teatro Diana egy színház Guadalajarában.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349292,
+                        20.665471
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Agua Azul",
+                  "text": "A Concha Acústica Agua Azul egy szabadtéri színház Guadalajarában.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349017,
+                        20.659605
+                  ]
+            },
+            {
+                  "name": "Parque González Gallo",
+                  "text": "A Parque González Gallo egy park Guadalajarában.",
+                  "category": "park",
+                  "coords": [
+                        -103.337302,
+                        20.64778
+                  ]
+            },
+            {
+                  "name": "Parque Walt Disney",
+                  "text": "A Parque Walt Disney egy park Guadalajarában.",
+                  "category": "park",
+                  "coords": [
+                        -103.330322,
+                        20.653411
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Columna de la Antigua Garita de San Pedro",
+                  "text": "Columna de la Antigua Garita de San Pedro este o ruină în Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.33359,
+                        20.663311
+                  ]
+            },
+            {
+                  "name": "Arena Coliseo wrestling",
+                  "text": "Arena Coliseo wrestling este o atracție în Guadalajara pentru evenimente de wrestling.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.342793,
+                        20.670952
+                  ]
+            },
+            {
+                  "name": "\"El Palomar\" de Luis Barragán",
+                  "text": "El Palomar de Luis Barragán este o atracție în Guadalajara proiectată de arhitectul Luis Barragán.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.347243,
+                        20.670081
+                  ]
+            },
+            {
+                  "name": "Foro Independencia",
+                  "text": "Foro Independencia este un teatru în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347693,
+                        20.66631
+                  ]
+            },
+            {
+                  "name": "Museo de Paleontología de Guadalajara \"Federico A. Solórzano Barreto\"",
+                  "text": "Museum of Paleontology Guadalajara este un muzeu în Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.345995,
+                        20.658967
+                  ]
+            },
+            {
+                  "name": "Las Columnas",
+                  "text": "Las Columnas este o atracție în Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.349728,
+                        20.661496
+                  ]
+            },
+            {
+                  "name": "Tianguis Cultural de Guadalajara",
+                  "text": "Tianguis Cultural de Guadalajara este o atracție de piață culturală în Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.350569,
+                        20.659617
+                  ]
+            },
+            {
+                  "name": "Instituto de la Artesanía Jalisciense",
+                  "text": "Instituto de la Artesanía Jalisciense este un muzeu al meșteșugurilor în Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.348253,
+                        20.661357
+                  ]
+            },
+            {
+                  "name": "Plaza de La Bandera",
+                  "text": "Plaza de La Bandera este un parc în Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.333419,
+                        20.665101
+                  ]
+            },
+            {
+                  "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
+                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) este un muzeu în Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.332566,
+                        20.669365
+                  ]
+            },
+            {
+                  "name": "Foro Infantil Agua Azul",
+                  "text": "Foro Infantil Agua Azul este un teatru pentru copii în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347237,
+                        20.65912
+                  ]
+            },
+            {
+                  "name": "Teatro Diana",
+                  "text": "Teatro Diana este un teatru în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349292,
+                        20.665471
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Agua Azul",
+                  "text": "Concha Acústica Agua Azul este un teatru în aer liber în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349017,
+                        20.659605
+                  ]
+            },
+            {
+                  "name": "Parque González Gallo",
+                  "text": "Parque González Gallo este un parc în Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.337302,
+                        20.64778
+                  ]
+            },
+            {
+                  "name": "Parque Walt Disney",
+                  "text": "Parque Walt Disney este un parc în Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.330322,
+                        20.653411
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Columna de la Antigua Garita de San Pedro",
+                  "text": "Columna de la Antigua Garita de San Pedro is a ruin in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.33359,
+                        20.663311
+                  ]
+            },
+            {
+                  "name": "Arena Coliseo wrestling",
+                  "text": "Arena Coliseo wrestling is an attraction in Guadalajara for wrestling events.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.342793,
+                        20.670952
+                  ]
+            },
+            {
+                  "name": "\"El Palomar\" de Luis Barragán",
+                  "text": "El Palomar de Luis Barragán is an attraction in Guadalajara designed by the architect Luis Barragán.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.347243,
+                        20.670081
+                  ]
+            },
+            {
+                  "name": "Foro Independencia",
+                  "text": "Foro Independencia is a theatre in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347693,
+                        20.66631
+                  ]
+            },
+            {
+                  "name": "Museum of Paleontology Guadalajara",
+                  "text": "Museum of Paleontology Guadalajara is a museum in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.345995,
+                        20.658967
+                  ]
+            },
+            {
+                  "name": "Las Columnas",
+                  "text": "Las Columnas is an attraction in Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.349728,
+                        20.661496
+                  ]
+            },
+            {
+                  "name": "Tianguis Cultural de Guadalajara",
+                  "text": "Tianguis Cultural de Guadalajara is a cultural market attraction in Guadalajara.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.350569,
+                        20.659617
+                  ]
+            },
+            {
+                  "name": "Instituto de la Artesanía Jalisciense",
+                  "text": "Instituto de la Artesanía Jalisciense is a museum of crafts in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.348253,
+                        20.661357
+                  ]
+            },
+            {
+                  "name": "Plaza de La Bandera",
+                  "text": "Plaza de La Bandera is a park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.333419,
+                        20.665101
+                  ]
+            },
+            {
+                  "name": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado)",
+                  "text": "Museo del Ejercito y Fuerza Aerea Méxicana (Cuartel Colorado) is a museum in Guadalajara.",
+                  "category": "museum",
+                  "coords": [
+                        -103.332566,
+                        20.669365
+                  ]
+            },
+            {
+                  "name": "Foro Infantil Agua Azul",
+                  "text": "Foro Infantil Agua Azul is a children's theatre in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.347237,
+                        20.65912
+                  ]
+            },
+            {
+                  "name": "Teatro Diana",
+                  "text": "Teatro Diana is a theatre in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349292,
+                        20.665471
+                  ]
+            },
+            {
+                  "name": "Concha Acústica Agua Azul",
+                  "text": "Concha Acústica Agua Azul is an open-air theatre in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.349017,
+                        20.659605
+                  ]
+            },
+            {
+                  "name": "Parque González Gallo",
+                  "text": "Parque González Gallo is a park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.337302,
+                        20.64778
+                  ]
+            },
+            {
+                  "name": "Parque Walt Disney",
+                  "text": "Parque Walt Disney is a park in Guadalajara.",
+                  "category": "park",
+                  "coords": [
+                        -103.330322,
+                        20.653411
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-JAL",
     coords: [-103.34, 20.67],
@@ -1087,7 +11077,664 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["A été construit à l'origine comme un immense orphelinat et un hospice pour les nécessiteux.", "Abrite la célèbre fresque au plafond « L'Homme de Feu » de José Clemente Orozco.", "A été reconnu par l'UNESCO comme patrimoine mondial en 1997."],
     }, image: "/poi-images/hospicio-cabanas-history-v2.webp"},
   {
-    id: "zacatecas-cathedral-history-v2",
+    id: "zacatecas-cathedral-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al Soldado",
+                  "text": "Das Monumento al Soldado in Zacatecas ist ein Denkmal für die Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        -102.502035,
+                        22.749349
+                  ]
+            },
+            {
+                  "name": "Arco de las Quintas",
+                  "text": "Der Arco de las Quintas in Zacatecas ist ein Bogenmonument.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491695,
+                        22.767636
+                  ]
+            },
+            {
+                  "name": "Torre de Vigilancia Villafontana",
+                  "text": "Die Torre de Vigilancia Villafontana in Zacatecas ist ein Wachturm.",
+                  "category": "historical",
+                  "coords": [
+                        -102.480469,
+                        22.768499
+                  ]
+            },
+            {
+                  "name": "Mover a México",
+                  "text": "Das Monument 'Mover a México' in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491863,
+                        22.771136
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Guadalupe",
+                  "text": "Das Museo Regional de Guadalupe in Zacatecas ist ein Regionalmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        -102.518183,
+                        22.746156
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Der Obelisco in Zacatecas ist ein Obelisk.",
+                  "category": "historical",
+                  "coords": [
+                        -102.517148,
+                        22.748731
+                  ]
+            },
+            {
+                  "name": "Ángeles",
+                  "text": "Das Monument 'Ángeles' in Zacatecas stellt Engel dar.",
+                  "category": "historical",
+                  "coords": [
+                        -102.519682,
+                        22.749449
+                  ]
+            },
+            {
+                  "name": "Glorieta de Guadalupe",
+                  "text": "Die Glorieta de Guadalupe in Zacatecas ist ein Denkmal im Kreisverkehr.",
+                  "category": "historical",
+                  "coords": [
+                        -102.525412,
+                        22.751099
+                  ]
+            },
+            {
+                  "name": "torito",
+                  "text": "Das Monument 'torito' in Zacatecas stellt einen Stier dar.",
+                  "category": "historical",
+                  "coords": [
+                        -102.550573,
+                        22.764496
+                  ]
+            },
+            {
+                  "name": "Peñuela de la Bufa",
+                  "text": "Die Peñuela de la Bufa in Zacatecas sind Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        -102.565438,
+                        22.77138
+                  ]
+            },
+            {
+                  "name": "Statue",
+                  "text": "Ein Denkmal in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.573009,
+                        22.75575
+                  ]
+            },
+            {
+                  "name": "fuente",
+                  "text": "Ein Brunnen in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.575217,
+                        22.759132
+                  ]
+            },
+            {
+                  "name": "Multiforo Zacatecas",
+                  "text": "Ein Veranstaltungsort in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.552359,
+                        22.768383
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre \"Centenario\"",
+                  "text": "Ein Freilichttheater in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.555295,
+                        22.762225
+                  ]
+            },
+            {
+                  "name": "Bandera de Mexico",
+                  "text": "Ein Denkmal der mexikanischen Flagge in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.560907,
+                        22.763306
+                  ]
+            },
+            {
+                  "name": "Bala",
+                  "text": "Ein Denkmal namens Bala in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.559335,
+                        22.771508
+                  ]
+            },
+            {
+                  "name": "Mirador Paseo de la Bufa",
+                  "text": "Ein Aussichtspunkt in Zacatecas.",
+                  "category": "natural",
+                  "coords": [
+                        -102.563802,
+                        22.773873
+                  ]
+            },
+            {
+                  "name": "Teatro Ramón López Velarde",
+                  "text": "Ein Theater in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.578847,
+                        22.757111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al Soldado",
+                  "text": "A Monumento al Soldado Zacatecasban a katonák emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -102.502035,
+                        22.749349
+                  ]
+            },
+            {
+                  "name": "Arco de las Quintas",
+                  "text": "Az Arco de las Quintas Zacatecasban egy ív emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491695,
+                        22.767636
+                  ]
+            },
+            {
+                  "name": "Torre de Vigilancia Villafontana",
+                  "text": "A Torre de Vigilancia Villafontana Zacatecasban egy őrtorony.",
+                  "category": "historical",
+                  "coords": [
+                        -102.480469,
+                        22.768499
+                  ]
+            },
+            {
+                  "name": "Mover a México",
+                  "text": "A 'Mover a México' emlékmű Zacatecasban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491863,
+                        22.771136
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Guadalupe",
+                  "text": "A Guadalupe Regionális Múzeum Zacatecasban egy regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -102.518183,
+                        22.746156
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Az Obelisco Zacatecasban egy obeliszk.",
+                  "category": "historical",
+                  "coords": [
+                        -102.517148,
+                        22.748731
+                  ]
+            },
+            {
+                  "name": "Ángeles",
+                  "text": "Az 'Ángeles' emlékmű Zacatecasban angyalokat ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        -102.519682,
+                        22.749449
+                  ]
+            },
+            {
+                  "name": "Glorieta de Guadalupe",
+                  "text": "A Glorieta de Guadalupe Zacatecasban egy körforgalomban lévő emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -102.525412,
+                        22.751099
+                  ]
+            },
+            {
+                  "name": "torito",
+                  "text": "A 'torito' emlékmű Zacatecasban egy bikát ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        -102.550573,
+                        22.764496
+                  ]
+            },
+            {
+                  "name": "Peñuela de la Bufa",
+                  "text": "A Peñuela de la Bufa Zacatecasban romok.",
+                  "category": "historical",
+                  "coords": [
+                        -102.565438,
+                        22.77138
+                  ]
+            },
+            {
+                  "name": "Statue",
+                  "text": "Egy szobor Zacatecasban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.573009,
+                        22.75575
+                  ]
+            },
+            {
+                  "name": "fuente",
+                  "text": "Egy szökőkút Zacatecasban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.575217,
+                        22.759132
+                  ]
+            },
+            {
+                  "name": "Multiforo Zacatecas",
+                  "text": "Egy többfunkciós helyszín Zacatecasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.552359,
+                        22.768383
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre \"Centenario\"",
+                  "text": "Egy szabadtéri színház Zacatecasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.555295,
+                        22.762225
+                  ]
+            },
+            {
+                  "name": "Bandera de Mexico",
+                  "text": "A mexikói zászló emlékműve Zacatecasban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.560907,
+                        22.763306
+                  ]
+            },
+            {
+                  "name": "Bala",
+                  "text": "Egy Bala nevű emlékmű Zacatecasban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.559335,
+                        22.771508
+                  ]
+            },
+            {
+                  "name": "Mirador Paseo de la Bufa",
+                  "text": "Egy kilátó Zacatecasban.",
+                  "category": "natural",
+                  "coords": [
+                        -102.563802,
+                        22.773873
+                  ]
+            },
+            {
+                  "name": "Teatro Ramón López Velarde",
+                  "text": "Egy színház Zacatecasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.578847,
+                        22.757111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al Soldado",
+                  "text": "Monumentul Soldatului din Zacatecas este un monument dedicat soldaților.",
+                  "category": "historical",
+                  "coords": [
+                        -102.502035,
+                        22.749349
+                  ]
+            },
+            {
+                  "name": "Arco de las Quintas",
+                  "text": "Arcul de las Quintas din Zacatecas este un monument sub formă de arc.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491695,
+                        22.767636
+                  ]
+            },
+            {
+                  "name": "Torre de Vigilancia Villafontana",
+                  "text": "Turnul de veghe Villafontana din Zacatecas este un turn de pază.",
+                  "category": "historical",
+                  "coords": [
+                        -102.480469,
+                        22.768499
+                  ]
+            },
+            {
+                  "name": "Mover a México",
+                  "text": "Monumentul 'Mover a México' din Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491863,
+                        22.771136
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Guadalupe",
+                  "text": "Muzeul Regional Guadalupe din Zacatecas este un muzeu regional.",
+                  "category": "museum",
+                  "coords": [
+                        -102.518183,
+                        22.746156
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "Obeliscul din Zacatecas este un obelisc.",
+                  "category": "historical",
+                  "coords": [
+                        -102.517148,
+                        22.748731
+                  ]
+            },
+            {
+                  "name": "Ángeles",
+                  "text": "Monumentul 'Ángeles' din Zacatecas reprezintă îngeri.",
+                  "category": "historical",
+                  "coords": [
+                        -102.519682,
+                        22.749449
+                  ]
+            },
+            {
+                  "name": "Glorieta de Guadalupe",
+                  "text": "Glorieta de Guadalupe din Zacatecas este un monument în sensul giratoriu.",
+                  "category": "historical",
+                  "coords": [
+                        -102.525412,
+                        22.751099
+                  ]
+            },
+            {
+                  "name": "torito",
+                  "text": "Monumentul 'torito' din Zacatecas reprezintă un taur.",
+                  "category": "historical",
+                  "coords": [
+                        -102.550573,
+                        22.764496
+                  ]
+            },
+            {
+                  "name": "Peñuela de la Bufa",
+                  "text": "Ruinele Peñuela de la Bufa din Zacatecas sunt ruine.",
+                  "category": "historical",
+                  "coords": [
+                        -102.565438,
+                        22.77138
+                  ]
+            },
+            {
+                  "name": "Statue",
+                  "text": "O statuie în Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.573009,
+                        22.75575
+                  ]
+            },
+            {
+                  "name": "fuente",
+                  "text": "O fântână în Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.575217,
+                        22.759132
+                  ]
+            },
+            {
+                  "name": "Multiforo Zacatecas",
+                  "text": "Un loc multifuncțional în Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.552359,
+                        22.768383
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre \"Centenario\"",
+                  "text": "Un teatru în aer liber în Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.555295,
+                        22.762225
+                  ]
+            },
+            {
+                  "name": "Bandera de Mexico",
+                  "text": "Un monument al drapelului Mexicului în Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.560907,
+                        22.763306
+                  ]
+            },
+            {
+                  "name": "Bala",
+                  "text": "Un monument numit Bala în Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.559335,
+                        22.771508
+                  ]
+            },
+            {
+                  "name": "Mirador Paseo de la Bufa",
+                  "text": "Un punct de belvedere în Zacatecas.",
+                  "category": "natural",
+                  "coords": [
+                        -102.563802,
+                        22.773873
+                  ]
+            },
+            {
+                  "name": "Teatro Ramón López Velarde",
+                  "text": "Un teatru în Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.578847,
+                        22.757111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al Soldado",
+                  "text": "The Monumento al Soldado in Zacatecas is a monument to the soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        -102.502035,
+                        22.749349
+                  ]
+            },
+            {
+                  "name": "Arco de las Quintas",
+                  "text": "The Arco de las Quintas in Zacatecas is an arch monument.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491695,
+                        22.767636
+                  ]
+            },
+            {
+                  "name": "Torre de Vigilancia Villafontana",
+                  "text": "The Torre de Vigilancia Villafontana in Zacatecas is a watchtower.",
+                  "category": "historical",
+                  "coords": [
+                        -102.480469,
+                        22.768499
+                  ]
+            },
+            {
+                  "name": "Mover a México",
+                  "text": "The monument 'Mover a México' in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.491863,
+                        22.771136
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Guadalupe",
+                  "text": "The Museo Regional de Guadalupe in Zacatecas is a regional museum.",
+                  "category": "museum",
+                  "coords": [
+                        -102.518183,
+                        22.746156
+                  ]
+            },
+            {
+                  "name": "obelisco",
+                  "text": "The Obelisco in Zacatecas is an obelisk.",
+                  "category": "historical",
+                  "coords": [
+                        -102.517148,
+                        22.748731
+                  ]
+            },
+            {
+                  "name": "Ángeles",
+                  "text": "The monument 'Ángeles' in Zacatecas depicts angels.",
+                  "category": "historical",
+                  "coords": [
+                        -102.519682,
+                        22.749449
+                  ]
+            },
+            {
+                  "name": "Glorieta de Guadalupe",
+                  "text": "The Glorieta de Guadalupe in Zacatecas is a monument in a traffic circle.",
+                  "category": "historical",
+                  "coords": [
+                        -102.525412,
+                        22.751099
+                  ]
+            },
+            {
+                  "name": "torito",
+                  "text": "The monument 'torito' in Zacatecas depicts a bull.",
+                  "category": "historical",
+                  "coords": [
+                        -102.550573,
+                        22.764496
+                  ]
+            },
+            {
+                  "name": "Peñuela de la Bufa",
+                  "text": "The Peñuela de la Bufa in Zacatecas are ruins.",
+                  "category": "historical",
+                  "coords": [
+                        -102.565438,
+                        22.77138
+                  ]
+            },
+            {
+                  "name": "Statue",
+                  "text": "A statue in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.573009,
+                        22.75575
+                  ]
+            },
+            {
+                  "name": "fuente",
+                  "text": "A fountain in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.575217,
+                        22.759132
+                  ]
+            },
+            {
+                  "name": "Multiforo Zacatecas",
+                  "text": "A multifunctional venue in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.552359,
+                        22.768383
+                  ]
+            },
+            {
+                  "name": "Teatro al aire libre \"Centenario\"",
+                  "text": "An open-air theatre in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.555295,
+                        22.762225
+                  ]
+            },
+            {
+                  "name": "Bandera de Mexico",
+                  "text": "A monument of the Mexican flag in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.560907,
+                        22.763306
+                  ]
+            },
+            {
+                  "name": "Bala",
+                  "text": "A monument named Bala in Zacatecas.",
+                  "category": "historical",
+                  "coords": [
+                        -102.559335,
+                        22.771508
+                  ]
+            },
+            {
+                  "name": "Mirador Paseo de la Bufa",
+                  "text": "A viewpoint in Zacatecas.",
+                  "category": "natural",
+                  "coords": [
+                        -102.563802,
+                        22.773873
+                  ]
+            },
+            {
+                  "name": "Teatro Ramón López Velarde",
+                  "text": "A theatre in Zacatecas.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.578847,
+                        22.757111
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-ZAC",
     coords: [-102.57, 22.77],
@@ -1134,7 +11781,304 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Elle est considérée comme l'exemple le plus remarquable du style baroque mexicain (churrigueresque).", "Elle a été financée au XVIIIe siècle grâce aux immenses profits des mines d'argent locales.", "Elle fascine chaque visiteur par sa façade détaillée en pierre rose."],
     }, image: "/poi-images/zacatecas-cathedral-history-v2.webp"},
   {
-    id: "grito-de-dolores-history-v2",
+    id: "grito-de-dolores-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "In Dolores Hidalgo ist die Casa de la Cultura ein kulturelles Zentrum.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.933454,
+                        21.163655
+                  ]
+            },
+            {
+                  "name": "Museo de la Indepencia",
+                  "text": "In Dolores Hidalgo ist das Museo de la Indepencia ein Museum über die Unabhängigkeit Mexikos.",
+                  "category": "museum",
+                  "coords": [
+                        -100.935283,
+                        21.15839
+                  ]
+            },
+            {
+                  "name": "Casa del cura Hidalgo",
+                  "text": "In Dolores Hidalgo ist die Casa del cura Hidalgo das Haus des Priesters Miguel Hidalgo.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.935769,
+                        21.156469
+                  ]
+            },
+            {
+                  "name": "José Alfredo Jiménez",
+                  "text": "In Dolores Hidalgo ist das José Alfredo Jiménez ein Museum, das dem Sänger gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -100.93277,
+                        21.157341
+                  ]
+            },
+            {
+                  "name": "Monumento A La Bandera",
+                  "text": "In Dolores Hidalgo ist das Monumento A La Bandera ein Denkmal für die Flagge.",
+                  "category": "historical",
+                  "coords": [
+                        -100.926757,
+                        21.154865
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "In Dolores Hidalgo ist die Monumental Flag eine große Flagge auf einem Mast.",
+                  "category": "historical",
+                  "coords": [
+                        -100.90975,
+                        21.159285
+                  ]
+            },
+            {
+                  "name": "Monumento a los Heores de la Independencia",
+                  "text": "In Dolores Hidalgo ist das Monumento a los Heores de la Independencia ein Denkmal für die Helden der Unabhängigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        -100.916708,
+                        21.1582
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mariano Abasolo D.",
+                  "text": "In Dolores Hidalgo ist das Auditorio Municipal Mariano Abasolo D. ein städtisches Auditorium.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.934456,
+                        21.161887
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Dolores Hidalgóban a Casa de la Cultura egy kulturális központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.933454,
+                        21.163655
+                  ]
+            },
+            {
+                  "name": "Museo de la Indepencia",
+                  "text": "Dolores Hidalgóban a Museo de la Indepencia múzeum Mexikó függetlenségéről.",
+                  "category": "museum",
+                  "coords": [
+                        -100.935283,
+                        21.15839
+                  ]
+            },
+            {
+                  "name": "Casa del cura Hidalgo",
+                  "text": "Dolores Hidalgóban a Casa del cura Hidalgo Miguel Hidalgo pap háza.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.935769,
+                        21.156469
+                  ]
+            },
+            {
+                  "name": "José Alfredo Jiménez",
+                  "text": "Dolores Hidalgóban a José Alfredo Jiménez múzeum, amely az énekesnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -100.93277,
+                        21.157341
+                  ]
+            },
+            {
+                  "name": "Monumento A La Bandera",
+                  "text": "Dolores Hidalgóban a Monumento A La Bandera egy emlékmű a zászló számára.",
+                  "category": "historical",
+                  "coords": [
+                        -100.926757,
+                        21.154865
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Dolores Hidalgóban a Monumental Flag egy nagy zászló egy árbocon.",
+                  "category": "historical",
+                  "coords": [
+                        -100.90975,
+                        21.159285
+                  ]
+            },
+            {
+                  "name": "Monumento a los Heores de la Independencia",
+                  "text": "Dolores Hidalgóban a Monumento a los Heores de la Independencia egy emlékmű a függetlenség hőseinek.",
+                  "category": "historical",
+                  "coords": [
+                        -100.916708,
+                        21.1582
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mariano Abasolo D.",
+                  "text": "Dolores Hidalgóban az Auditorio Municipal Mariano Abasolo D. egy városi előadóterem.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.934456,
+                        21.161887
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "În Dolores Hidalgo, Casa de la Cultura este un centru cultural.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.933454,
+                        21.163655
+                  ]
+            },
+            {
+                  "name": "Museo de la Indepencia",
+                  "text": "În Dolores Hidalgo, Muzeul Independenței este un muzeu despre independența Mexicului.",
+                  "category": "museum",
+                  "coords": [
+                        -100.935283,
+                        21.15839
+                  ]
+            },
+            {
+                  "name": "Casa del cura Hidalgo",
+                  "text": "În Dolores Hidalgo, Casa del cura Hidalgo este casa preotului Miguel Hidalgo.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.935769,
+                        21.156469
+                  ]
+            },
+            {
+                  "name": "José Alfredo Jiménez",
+                  "text": "În Dolores Hidalgo, José Alfredo Jiménez este un muzeu dedicat cântărețului.",
+                  "category": "museum",
+                  "coords": [
+                        -100.93277,
+                        21.157341
+                  ]
+            },
+            {
+                  "name": "Monumento A La Bandera",
+                  "text": "În Dolores Hidalgo, Monumentul pentru Drapel este un monument dedicat drapelului.",
+                  "category": "historical",
+                  "coords": [
+                        -100.926757,
+                        21.154865
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "În Dolores Hidalgo, Monumental Flag este un drapel mare pe un catarg.",
+                  "category": "historical",
+                  "coords": [
+                        -100.90975,
+                        21.159285
+                  ]
+            },
+            {
+                  "name": "Monumento a los Heores de la Independencia",
+                  "text": "În Dolores Hidalgo, Monumentul Eroilor Independenței este un monument dedicat eroilor independenței.",
+                  "category": "historical",
+                  "coords": [
+                        -100.916708,
+                        21.1582
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mariano Abasolo D.",
+                  "text": "În Dolores Hidalgo, Auditorio Municipal Mariano Abasolo D. este un auditoriu municipal.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.934456,
+                        21.161887
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "In Dolores Hidalgo, the Casa de la Cultura is a cultural centre.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.933454,
+                        21.163655
+                  ]
+            },
+            {
+                  "name": "Museo de la Indepencia",
+                  "text": "In Dolores Hidalgo, the Museo de la Indepencia is a museum about Mexican independence.",
+                  "category": "museum",
+                  "coords": [
+                        -100.935283,
+                        21.15839
+                  ]
+            },
+            {
+                  "name": "Casa del cura Hidalgo",
+                  "text": "In Dolores Hidalgo, the Casa del cura Hidalgo is the house of priest Miguel Hidalgo.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.935769,
+                        21.156469
+                  ]
+            },
+            {
+                  "name": "José Alfredo Jiménez",
+                  "text": "In Dolores Hidalgo, the José Alfredo Jiménez is a museum dedicated to the singer.",
+                  "category": "museum",
+                  "coords": [
+                        -100.93277,
+                        21.157341
+                  ]
+            },
+            {
+                  "name": "Monumento A La Bandera",
+                  "text": "In Dolores Hidalgo, the Monumento A La Bandera is a monument to the flag.",
+                  "category": "historical",
+                  "coords": [
+                        -100.926757,
+                        21.154865
+                  ]
+            },
+            {
+                  "name": "Monumental Flag",
+                  "text": "In Dolores Hidalgo, the Monumental Flag is a large flag on a pole.",
+                  "category": "historical",
+                  "coords": [
+                        -100.90975,
+                        21.159285
+                  ]
+            },
+            {
+                  "name": "Monumento a los Heores de la Independencia",
+                  "text": "In Dolores Hidalgo, the Monumento a los Heores de la Independencia is a monument to the heroes of independence.",
+                  "category": "historical",
+                  "coords": [
+                        -100.916708,
+                        21.1582
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Mariano Abasolo D.",
+                  "text": "In Dolores Hidalgo, the Auditorio Municipal Mariano Abasolo D. is a municipal auditorium.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.934456,
+                        21.161887
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-GUA",
     coords: [-100.93, 21.15],
@@ -1228,7 +12172,1060 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Fut le théâtre d'un siège décisif pendant la révolution texane en 1836.", "L'armée mexicaine sous le général Santa Anna a capturé la forteresse après 13 jours.", "Est aujourd'hui l'un des monuments historiques les plus importants d'Amérique du Nord."],
     }, image: "/poi-images/alamo-battlefield-history-v2.webp"},
   {
-    id: "fuerte-de-loreto-history-v2",
+    id: "fuerte-de-loreto-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Los Remedios",
+                  "text": "Los Remedios ist eine Kirche auf dem Cerro de San Juan in Puebla, die für ihren Panoramablick bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -98.183935,
+                        19.041638
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo de la batalla 5 de Mayo",
+                  "text": "Das Museo Interactivo de la batalla 5 de Mayo ist ein interaktives Museum über die Schlacht von Puebla in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.180486,
+                        19.054899
+                  ]
+            },
+            {
+                  "name": "Museo de la Evolución",
+                  "text": "Das Museum of Evolution ist ein Museum in Puebla, das sich der Evolution widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181626,
+                        19.05794
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Puebla",
+                  "text": "Das Museo Regional de Puebla ist ein Regionalmuseum in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.182737,
+                        19.05625
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Das Planetario ist ein Planetarium in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181638,
+                        19.057021
+                  ]
+            },
+            {
+                  "name": "La Victoria",
+                  "text": "La Victoria ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138019,
+                        19.050712
+                  ]
+            },
+            {
+                  "name": "Monumento a las Madres",
+                  "text": "Monumento a las Madres ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.178869,
+                        19.04346
+                  ]
+            },
+            {
+                  "name": "Fuente de los muñecos",
+                  "text": "Doll's fountain ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.18318,
+                        19.0474
+                  ]
+            },
+            {
+                  "name": "Monumento a la China Poblana",
+                  "text": "Monumento a la China Poblana ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.191217,
+                        19.064911
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Los Teteles\" (Manzanilla)",
+                  "text": "Sitio Arqueológico \"Los Teteles\" (Manzanilla) ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123707,
+                        19.083385
+                  ]
+            },
+            {
+                  "name": "Montículo (Los teteles)",
+                  "text": "Montículo (Los teteles) ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123873,
+                        19.082215
+                  ]
+            },
+            {
+                  "name": "Ruinas San Lorenzo",
+                  "text": "Ruinas San Lorenzo sind Ruinen im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.103613,
+                        19.05121
+                  ]
+            },
+            {
+                  "name": "Montículo \"C\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"C\" de Sitio Arqueológico Amalucan ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126388,
+                        19.047825
+                  ]
+            },
+            {
+                  "name": "Montículo \"A\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"A\" de Sitio Arqueológico Amalucan ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126026,
+                        19.046289
+                  ]
+            },
+            {
+                  "name": "Montículo \"B\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"B\" de Sitio Arqueológico Amalucan ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138982,
+                        19.051283
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Flor del Bosque\"",
+                  "text": "Sitio Arqueológico \"Flor del Bosque\" ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.12048,
+                        19.030223
+                  ]
+            },
+            {
+                  "name": "Fuerte de Guadalupe",
+                  "text": "Fuerte de Guadalupe ist eine Festung im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.17996,
+                        19.052568
+                  ]
+            },
+            {
+                  "name": "Monumento a Ignacio Zaragoza",
+                  "text": "Monumento a Ignacio Zaragoza ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.184599,
+                        19.06045
+                  ]
+            },
+            {
+                  "name": "Fuerte de Loreto",
+                  "text": "Fuerte de Loreto ist eine Festung im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.187019,
+                        19.057775
+                  ]
+            },
+            {
+                  "name": "La Manta",
+                  "text": "La Manta ist ein Denkmal im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.187961,
+                        19.056433
+                  ]
+            },
+            {
+                  "name": "Montículo 1 (Barranca Honda)",
+                  "text": "Montículo 1 (Barranca Honda) ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197885,
+                        19.117421
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Barranca Honda\"",
+                  "text": "Sitio Arqueológico \"Barranca Honda\" ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197658,
+                        19.116482
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"San Sebastián Aparicio\"",
+                  "text": "Sitio Arqueológico \"San Sebastián Aparicio\" ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.156596,
+                        19.099259
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Manzanilla",
+                  "text": "Sitio Arqueológico de Manzanilla ist eine archäologische Stätte im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "historical",
+                  "coords": [
+                        -98.133485,
+                        19.087027
+                  ]
+            },
+            {
+                  "name": "Teatro Popular José Recek Saade",
+                  "text": "Teatro Popular José Recek Saade ist ein Theater im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.185669,
+                        19.044055
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Reforma",
+                  "text": "Auditorio de la Reforma ist ein Theater im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.183261,
+                        19.057354
+                  ]
+            },
+            {
+                  "name": "Auditorio GNP Seguros",
+                  "text": "Auditorio GNP Seguros ist ein Theater im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.166357,
+                        19.076109
+                  ]
+            },
+            {
+                  "name": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance",
+                  "text": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance ist eine Attraktion im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "landmark",
+                  "coords": [
+                        -98.191175,
+                        19.052507
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Flor del Bosque",
+                  "text": "Parque Estatal Flor del Bosque ist ein Naturschutzgebiet im Bereich des Fuerte de Loreto in Puebla, Mexiko.",
+                  "category": "natural",
+                  "coords": [
+                        -98.103584,
+                        19.01579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Los Remedios",
+                  "text": "A Los Remedios egy templom a Cerro de San Juan-on Pueblában, amely panorámás kilátásáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -98.183935,
+                        19.041638
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo de la batalla 5 de Mayo",
+                  "text": "A Museo Interactivo de la batalla 5 de Mayo egy interaktív múzeum a pueblai csatáról Pueblában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.180486,
+                        19.054899
+                  ]
+            },
+            {
+                  "name": "Museo de la Evolución",
+                  "text": "A Museum of Evolution egy múzeum Pueblában, amely az evolúciónak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181626,
+                        19.05794
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Puebla",
+                  "text": "A Museo Regional de Puebla egy regionális múzeum Pueblában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.182737,
+                        19.05625
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "A Planetario egy planetárium Pueblában.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181638,
+                        19.057021
+                  ]
+            },
+            {
+                  "name": "La Victoria",
+                  "text": "La Victoria egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138019,
+                        19.050712
+                  ]
+            },
+            {
+                  "name": "Monumento a las Madres",
+                  "text": "Monumento a las Madres egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.178869,
+                        19.04346
+                  ]
+            },
+            {
+                  "name": "Fuente de los muñecos",
+                  "text": "Doll's fountain egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.18318,
+                        19.0474
+                  ]
+            },
+            {
+                  "name": "Monumento a la China Poblana",
+                  "text": "Monumento a la China Poblana egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.191217,
+                        19.064911
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Los Teteles\" (Manzanilla)",
+                  "text": "Sitio Arqueológico \"Los Teteles\" (Manzanilla) egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123707,
+                        19.083385
+                  ]
+            },
+            {
+                  "name": "Montículo (Los teteles)",
+                  "text": "Montículo (Los teteles) egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123873,
+                        19.082215
+                  ]
+            },
+            {
+                  "name": "Ruinas San Lorenzo",
+                  "text": "Ruinas San Lorenzo romok a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.103613,
+                        19.05121
+                  ]
+            },
+            {
+                  "name": "Montículo \"C\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"C\" de Sitio Arqueológico Amalucan egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126388,
+                        19.047825
+                  ]
+            },
+            {
+                  "name": "Montículo \"A\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"A\" de Sitio Arqueológico Amalucan egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126026,
+                        19.046289
+                  ]
+            },
+            {
+                  "name": "Montículo \"B\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"B\" de Sitio Arqueológico Amalucan egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138982,
+                        19.051283
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Flor del Bosque\"",
+                  "text": "Sitio Arqueológico \"Flor del Bosque\" egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.12048,
+                        19.030223
+                  ]
+            },
+            {
+                  "name": "Fuerte de Guadalupe",
+                  "text": "Fuerte de Guadalupe egy erőd a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.17996,
+                        19.052568
+                  ]
+            },
+            {
+                  "name": "Monumento a Ignacio Zaragoza",
+                  "text": "Monumento a Ignacio Zaragoza egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.184599,
+                        19.06045
+                  ]
+            },
+            {
+                  "name": "Fuerte de Loreto",
+                  "text": "Fuerte de Loreto egy erőd a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.187019,
+                        19.057775
+                  ]
+            },
+            {
+                  "name": "La Manta",
+                  "text": "La Manta egy emlékmű a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.187961,
+                        19.056433
+                  ]
+            },
+            {
+                  "name": "Montículo 1 (Barranca Honda)",
+                  "text": "Montículo 1 (Barranca Honda) egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197885,
+                        19.117421
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Barranca Honda\"",
+                  "text": "Sitio Arqueológico \"Barranca Honda\" egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197658,
+                        19.116482
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"San Sebastián Aparicio\"",
+                  "text": "Sitio Arqueológico \"San Sebastián Aparicio\" egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.156596,
+                        19.099259
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Manzanilla",
+                  "text": "Sitio Arqueológico de Manzanilla egy régészeti lelőhely a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.133485,
+                        19.087027
+                  ]
+            },
+            {
+                  "name": "Teatro Popular José Recek Saade",
+                  "text": "Teatro Popular José Recek Saade egy színház a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.185669,
+                        19.044055
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Reforma",
+                  "text": "Auditorio de la Reforma egy színház a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.183261,
+                        19.057354
+                  ]
+            },
+            {
+                  "name": "Auditorio GNP Seguros",
+                  "text": "Auditorio GNP Seguros egy színház a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.166357,
+                        19.076109
+                  ]
+            },
+            {
+                  "name": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance",
+                  "text": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance egy látványosság a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -98.191175,
+                        19.052507
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Flor del Bosque",
+                  "text": "Parque Estatal Flor del Bosque egy természetvédelmi terület a Fuerte de Loreto területén Pueblában, Mexikóban.",
+                  "category": "natural",
+                  "coords": [
+                        -98.103584,
+                        19.01579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Los Remedios",
+                  "text": "Los Remedios este o biserică pe Cerro de San Juan în Puebla, cunoscută pentru priveliștea panoramică.",
+                  "category": "religious",
+                  "coords": [
+                        -98.183935,
+                        19.041638
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo de la batalla 5 de Mayo",
+                  "text": "Museo Interactivo de la batalla 5 de Mayo este un muzeu interactiv despre Bătălia de la Puebla în Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.180486,
+                        19.054899
+                  ]
+            },
+            {
+                  "name": "Museo de la Evolución",
+                  "text": "Museum of Evolution este un muzeu în Puebla dedicat evoluției.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181626,
+                        19.05794
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Puebla",
+                  "text": "Museo Regional de Puebla este un muzeu regional în Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.182737,
+                        19.05625
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Planetario este un planetariu în Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181638,
+                        19.057021
+                  ]
+            },
+            {
+                  "name": "La Victoria",
+                  "text": "La Victoria este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138019,
+                        19.050712
+                  ]
+            },
+            {
+                  "name": "Monumento a las Madres",
+                  "text": "Monumento a las Madres este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.178869,
+                        19.04346
+                  ]
+            },
+            {
+                  "name": "Fuente de los muñecos",
+                  "text": "Doll's fountain este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.18318,
+                        19.0474
+                  ]
+            },
+            {
+                  "name": "Monumento a la China Poblana",
+                  "text": "Monumento a la China Poblana este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.191217,
+                        19.064911
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Los Teteles\" (Manzanilla)",
+                  "text": "Sitio Arqueológico \"Los Teteles\" (Manzanilla) este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123707,
+                        19.083385
+                  ]
+            },
+            {
+                  "name": "Montículo (Los teteles)",
+                  "text": "Montículo (Los teteles) este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123873,
+                        19.082215
+                  ]
+            },
+            {
+                  "name": "Ruinas San Lorenzo",
+                  "text": "Ruinas San Lorenzo sunt ruine situate în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.103613,
+                        19.05121
+                  ]
+            },
+            {
+                  "name": "Montículo \"C\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"C\" de Sitio Arqueológico Amalucan este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126388,
+                        19.047825
+                  ]
+            },
+            {
+                  "name": "Montículo \"A\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"A\" de Sitio Arqueológico Amalucan este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126026,
+                        19.046289
+                  ]
+            },
+            {
+                  "name": "Montículo \"B\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"B\" de Sitio Arqueológico Amalucan este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138982,
+                        19.051283
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Flor del Bosque\"",
+                  "text": "Sitio Arqueológico \"Flor del Bosque\" este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.12048,
+                        19.030223
+                  ]
+            },
+            {
+                  "name": "Fuerte de Guadalupe",
+                  "text": "Fuerte de Guadalupe este o fortăreață situată în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.17996,
+                        19.052568
+                  ]
+            },
+            {
+                  "name": "Monumento a Ignacio Zaragoza",
+                  "text": "Monumento a Ignacio Zaragoza este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.184599,
+                        19.06045
+                  ]
+            },
+            {
+                  "name": "Fuerte de Loreto",
+                  "text": "Fuerte de Loreto este o fortăreață situată în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.187019,
+                        19.057775
+                  ]
+            },
+            {
+                  "name": "La Manta",
+                  "text": "La Manta este un monument situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.187961,
+                        19.056433
+                  ]
+            },
+            {
+                  "name": "Montículo 1 (Barranca Honda)",
+                  "text": "Montículo 1 (Barranca Honda) este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197885,
+                        19.117421
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Barranca Honda\"",
+                  "text": "Sitio Arqueológico \"Barranca Honda\" este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197658,
+                        19.116482
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"San Sebastián Aparicio\"",
+                  "text": "Sitio Arqueológico \"San Sebastián Aparicio\" este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.156596,
+                        19.099259
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Manzanilla",
+                  "text": "Sitio Arqueológico de Manzanilla este un sit arheologic situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "historical",
+                  "coords": [
+                        -98.133485,
+                        19.087027
+                  ]
+            },
+            {
+                  "name": "Teatro Popular José Recek Saade",
+                  "text": "Teatro Popular José Recek Saade este un teatru situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.185669,
+                        19.044055
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Reforma",
+                  "text": "Auditorio de la Reforma este un teatru situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.183261,
+                        19.057354
+                  ]
+            },
+            {
+                  "name": "Auditorio GNP Seguros",
+                  "text": "Auditorio GNP Seguros este un teatru situat în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.166357,
+                        19.076109
+                  ]
+            },
+            {
+                  "name": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance",
+                  "text": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance este o atracție situată în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "landmark",
+                  "coords": [
+                        -98.191175,
+                        19.052507
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Flor del Bosque",
+                  "text": "Parque Estatal Flor del Bosque este o rezervație naturală situată în zona Fuerte de Loreto din Puebla, Mexic.",
+                  "category": "natural",
+                  "coords": [
+                        -98.103584,
+                        19.01579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Los Remedios",
+                  "text": "Los Remedios is a church on Cerro de San Juan in Puebla, known for its panoramic view.",
+                  "category": "religious",
+                  "coords": [
+                        -98.183935,
+                        19.041638
+                  ]
+            },
+            {
+                  "name": "Museo Interactivo de la batalla 5 de Mayo",
+                  "text": "Museo Interactivo de la batalla 5 de Mayo is an interactive museum about the Battle of Puebla in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.180486,
+                        19.054899
+                  ]
+            },
+            {
+                  "name": "Museum of Evolution",
+                  "text": "Museum of Evolution is a museum in Puebla dedicated to evolution.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181626,
+                        19.05794
+                  ]
+            },
+            {
+                  "name": "Museo Regional de Puebla",
+                  "text": "Museo Regional de Puebla is a regional museum in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.182737,
+                        19.05625
+                  ]
+            },
+            {
+                  "name": "Planetario",
+                  "text": "Planetario is a planetarium in Puebla.",
+                  "category": "museum",
+                  "coords": [
+                        -98.181638,
+                        19.057021
+                  ]
+            },
+            {
+                  "name": "La Victoria",
+                  "text": "La Victoria is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138019,
+                        19.050712
+                  ]
+            },
+            {
+                  "name": "Monumento a las Madres",
+                  "text": "Monumento a las Madres is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.178869,
+                        19.04346
+                  ]
+            },
+            {
+                  "name": "Doll's fountain",
+                  "text": "Doll's fountain is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.18318,
+                        19.0474
+                  ]
+            },
+            {
+                  "name": "Monumento a la China Poblana",
+                  "text": "Monumento a la China Poblana is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.191217,
+                        19.064911
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Los Teteles\" (Manzanilla)",
+                  "text": "Sitio Arqueológico \"Los Teteles\" (Manzanilla) is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123707,
+                        19.083385
+                  ]
+            },
+            {
+                  "name": "Montículo (Los teteles)",
+                  "text": "Montículo (Los teteles) is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.123873,
+                        19.082215
+                  ]
+            },
+            {
+                  "name": "Ruinas San Lorenzo",
+                  "text": "Ruinas San Lorenzo are ruins located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.103613,
+                        19.05121
+                  ]
+            },
+            {
+                  "name": "Montículo \"C\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"C\" de Sitio Arqueológico Amalucan is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126388,
+                        19.047825
+                  ]
+            },
+            {
+                  "name": "Montículo \"A\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"A\" de Sitio Arqueológico Amalucan is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.126026,
+                        19.046289
+                  ]
+            },
+            {
+                  "name": "Montículo \"B\" de Sitio Arqueológico Amalucan",
+                  "text": "Montículo \"B\" de Sitio Arqueológico Amalucan is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.138982,
+                        19.051283
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Flor del Bosque\"",
+                  "text": "Sitio Arqueológico \"Flor del Bosque\" is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.12048,
+                        19.030223
+                  ]
+            },
+            {
+                  "name": "Fuerte de Guadalupe",
+                  "text": "Fuerte de Guadalupe is a fort located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.17996,
+                        19.052568
+                  ]
+            },
+            {
+                  "name": "Monumento a Ignacio Zaragoza",
+                  "text": "Monumento a Ignacio Zaragoza is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.184599,
+                        19.06045
+                  ]
+            },
+            {
+                  "name": "Fuerte de Loreto",
+                  "text": "Fuerte de Loreto is a fort located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "fortress",
+                  "coords": [
+                        -98.187019,
+                        19.057775
+                  ]
+            },
+            {
+                  "name": "La Manta",
+                  "text": "La Manta is a monument located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.187961,
+                        19.056433
+                  ]
+            },
+            {
+                  "name": "Montículo 1 (Barranca Honda)",
+                  "text": "Montículo 1 (Barranca Honda) is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197885,
+                        19.117421
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"Barranca Honda\"",
+                  "text": "Sitio Arqueológico \"Barranca Honda\" is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.197658,
+                        19.116482
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico \"San Sebastián Aparicio\"",
+                  "text": "Sitio Arqueológico \"San Sebastián Aparicio\" is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.156596,
+                        19.099259
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Manzanilla",
+                  "text": "Sitio Arqueológico de Manzanilla is an archaeological site located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -98.133485,
+                        19.087027
+                  ]
+            },
+            {
+                  "name": "Teatro Popular José Recek Saade",
+                  "text": "Teatro Popular José Recek Saade is a theatre located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.185669,
+                        19.044055
+                  ]
+            },
+            {
+                  "name": "Auditorio de la Reforma",
+                  "text": "Auditorio de la Reforma is a theatre located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.183261,
+                        19.057354
+                  ]
+            },
+            {
+                  "name": "Auditorio GNP Seguros",
+                  "text": "Auditorio GNP Seguros is a theatre located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "cultural",
+                  "coords": [
+                        -98.166357,
+                        19.076109
+                  ]
+            },
+            {
+                  "name": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance",
+                  "text": "Secretos de Puebla - Pasaje Historic 5 de Mayo - Tunnel Entrance is an attraction located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "landmark",
+                  "coords": [
+                        -98.191175,
+                        19.052507
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Flor del Bosque",
+                  "text": "Parque Estatal Flor del Bosque is a nature reserve located in the Fuerte de Loreto area of Puebla, Mexico.",
+                  "category": "natural",
+                  "coords": [
+                        -98.103584,
+                        19.01579
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-PUE",
     coords: [-98.18, 19.05],
@@ -1275,7 +13272,88 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Était le centre de la célèbre bataille de Puebla le 5 mai 1862.", "La victoire mexicaine est à l'origine de la fête du « Cinco de Mayo ».", "A été construit à l'origine comme église catholique avant d'être fortifié militairement."],
     }, image: "/poi-images/fuerte-de-loreto-history-v2.webp"},
   {
-    id: "convento-de-huejotzingo-history-v2",
+    id: "convento-de-huejotzingo-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piramide de Coyotzingo",
+                  "text": "Piramide de Coyotzingo ist eine Pyramide im Bereich des Klosters von Huejotzingo.",
+                  "category": "historical",
+                  "coords": [
+                        -98.439984,
+                        19.197524
+                  ]
+            },
+            {
+                  "name": "Ex-Hacienda San Esteban Tepetzingo",
+                  "text": "Die Ex-Hacienda San Esteban Tepetzingo ist eine Ruine in Convento de Huejotzingo.",
+                  "category": "historical",
+                  "coords": [
+                        -98.462073,
+                        19.190678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piramide de Coyotzingo",
+                  "text": "A Piramide de Coyotzingo egy piramis a huejotzingói kolostor területén.",
+                  "category": "historical",
+                  "coords": [
+                        -98.439984,
+                        19.197524
+                  ]
+            },
+            {
+                  "name": "Ex-Hacienda San Esteban Tepetzingo",
+                  "text": "Az Ex-Hacienda San Esteban Tepetzingo romok Convento de Huejotzingóban.",
+                  "category": "historical",
+                  "coords": [
+                        -98.462073,
+                        19.190678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piramide de Coyotzingo",
+                  "text": "Piramide de Coyotzingo este o piramidă în zona mănăstirii Huejotzingo.",
+                  "category": "historical",
+                  "coords": [
+                        -98.439984,
+                        19.197524
+                  ]
+            },
+            {
+                  "name": "Ex-Hacienda San Esteban Tepetzingo",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo sunt ruine în Convento de Huejotzingo.",
+                  "category": "historical",
+                  "coords": [
+                        -98.462073,
+                        19.190678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piramide de Coyotzingo",
+                  "text": "Piramide de Coyotzingo is a pyramid in the Huejotzingo convent area.",
+                  "category": "historical",
+                  "coords": [
+                        -98.439984,
+                        19.197524
+                  ]
+            },
+            {
+                  "name": "Ex-Hacienda San Esteban Tepetzingo",
+                  "text": "Ex-Hacienda San Esteban Tepetzingo is a ruin in Convento de Huejotzingo.",
+                  "category": "historical",
+                  "coords": [
+                        -98.462073,
+                        19.190678
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-PUE",
     coords: [-98.40, 19.16],
@@ -1322,7 +13400,916 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Fait partie des plus anciens monastères franciscains intacts de toute l'Amérique.", "Montre de manière impressionnante le style de forteresse défensive des premiers couvents coloniaux.", "Célèbre pour son art syncrétique, mêlant symboles indigènes et chrétiens."],
     }, image: "/poi-images/convento-de-huejotzingo-history-v2.webp"},
   {
-    id: "san-miguel-de-allende-history-v2",
+    id: "san-miguel-de-allende-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Ein Theater in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "Kuna Galería",
+                  "text": "Eine Kunstgalerie in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.743972,
+                        20.912972
+                  ]
+            },
+            {
+                  "name": "Casa del Mayorazgo de la Canal",
+                  "text": "Ein Museum in einem historischen Herrenhaus der Familie Canal in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744255,
+                        20.914335
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Ein Museum für Spielzeug und Kindheit in San Miguel de Allende. (La Esquina ist das Mexikanische Spielzeugmuseum.)",
+                  "category": "museum",
+                  "coords": [
+                        -100.740137,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Der Bogen von San Miguel, ein markanter Stadteingang.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt mit Blick auf San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "Ein Gewächshaus für mexikanische Pflanzen in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "Ein botanischer Garten und Naturschutzgebiet in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Ein antikes Aquädukt-Denkmal in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Ein Theater namens La Troje in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.738905,
+                        20.921315
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Ein Kapellen-Denkmal in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "La Otra Cara de México",
+                  "text": "Eine Museumsgalerie, die ein anderes Gesicht Mexikos zeigt, in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.737492,
+                        20.916781
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "Eine Galerie in San Miguel de Allende, die farbenfrohe Taschen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "Eine Galerie in San Miguel de Allende, die zeitgenössische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "Eine Galerie in San Miguel de Allende, benannt nach Juan Zaragoza.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "Eine Galerie in San Miguel de Allende mit wechselnden Kunstausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "Eine Galerie in San Miguel de Allende, die Werke lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "Eine Galerie in San Miguel de Allende, benannt nach Ted Davis.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "Eine Galerie in San Miguel de Allende mit Kunst von Danyel Joy.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Xote",
+                  "text": "Ein Wasserpark in San Miguel de Allende mit Rutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.799477,
+                        20.967263
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Ignacio Ramírez \"El Nigromante\"",
+                  "text": "Ein Kulturzentrum in San Miguel de Allende, benannt nach Ignacio Ramírez.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745582,
+                        20.914917
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Ein Theater in San Miguel de Allende für Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.707725,
+                        20.905762
+                  ]
+            },
+            {
+                  "name": "Recinto Ferial San Miguel de Allende",
+                  "text": "Ein Messegelände und Freizeitpark in San Miguel de Allende.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.71009,
+                        20.905714
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Ein Theater in San Miguel de Allende für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.714971,
+                        20.909664
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Ein Theater in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735215,
+                        20.916613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Egy színház San Miguel de Allendében.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "Kuna Galería",
+                  "text": "Egy művészeti galéria San Miguel de Allendében.",
+                  "category": "museum",
+                  "coords": [
+                        -100.743972,
+                        20.912972
+                  ]
+            },
+            {
+                  "name": "Casa del Mayorazgo de la Canal",
+                  "text": "Egy múzeum, amely a Canal család történelmi kúriájában található San Miguel de Allendében.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744255,
+                        20.914335
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Egy játékoknak és gyermekkornak szentelt múzeum San Miguel de Allendében. (A La Esquina a Mexikói Játékmúzeum.)",
+                  "category": "museum",
+                  "coords": [
+                        -100.740137,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "San Miguel íve, a város nevezetes bejárata.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Egy kilátó San Miguel de Allendére.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "Mexikói növények konzervatóriuma San Miguel de Allendében.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "Egy botanikus kert és természetvédelmi terület San Miguel de Allendében.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Egy ősi vízvezeték emlékmű San Miguel de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Egy La Troje nevű színház San Miguel de Allendében.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.738905,
+                        20.921315
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Egy kápolna emlékmű San Miguel de Allendében.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "La Otra Cara de México",
+                  "text": "Egy múzeum galéria, amely Mexikó másik arcát mutatja be, San Miguel de Allendében.",
+                  "category": "museum",
+                  "coords": [
+                        -100.737492,
+                        20.916781
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "Egy galéria San Miguel de Allendében, amely színes táskákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "Egy galéria San Miguel de Allendében, amely kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "Egy galéria San Miguel de Allendében, amely Juan Zaragozáról kapta a nevét.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "Egy galéria San Miguel de Allendében változó művészeti kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "Egy galéria San Miguel de Allendében, amely helyi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "Egy galéria San Miguel de Allendében, amely Ted Davisről kapta a nevét.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "Egy galéria San Miguel de Allendében Danyel Joy művészetével.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Xote",
+                  "text": "Egy vízipark San Miguel de Allendében csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.799477,
+                        20.967263
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Ignacio Ramírez \"El Nigromante\"",
+                  "text": "Egy kulturális központ San Miguel de Allendében, Ignacio Ramírezről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745582,
+                        20.914917
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Egy színház San Miguel de Allendében előadások és események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.707725,
+                        20.905762
+                  ]
+            },
+            {
+                  "name": "Recinto Ferial San Miguel de Allende",
+                  "text": "Egy vásár- és szabadidőpark San Miguel de Allendében.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.71009,
+                        20.905714
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Egy színház San Miguel de Allendében kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.714971,
+                        20.909664
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Egy színház San Miguel de Allendében.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735215,
+                        20.916613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "Un teatru în San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "Kuna Galería",
+                  "text": "O galerie de artă în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.743972,
+                        20.912972
+                  ]
+            },
+            {
+                  "name": "Casa del Mayorazgo de la Canal",
+                  "text": "Un muzeu găzduit într-un conac istoric al familiei Canal în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744255,
+                        20.914335
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "Un muzeu dedicat jucăriilor și copilăriei în San Miguel de Allende. (La Esquina este Muzeul Mexican al Jucăriilor.)",
+                  "category": "museum",
+                  "coords": [
+                        -100.740137,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "Arcul San Miguel, o intrare emblematică în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere care oferă vedere asupra San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "O conservatoare de plante mexicane în San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "O grădină botanică și rezervație naturală în San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "Un monument de apeduct antic în San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "Un teatru numit La Troje în San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.738905,
+                        20.921315
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "Un monument de capelă în San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "La Otra Cara de México",
+                  "text": "O galerie muzeală care arată o altă față a Mexicului, în San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.737492,
+                        20.916781
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "O galerie din San Miguel de Allende care prezintă genți colorate.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "O galerie din San Miguel de Allende care expune artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "O galerie din San Miguel de Allende numită după Juan Zaragoza.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "O galerie din San Miguel de Allende cu expoziții de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "O galerie din San Miguel de Allende care expune lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "O galerie din San Miguel de Allende numită după Ted Davis.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "O galerie din San Miguel de Allende cu arta lui Danyel Joy.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Xote",
+                  "text": "Un parc acvatic în San Miguel de Allende cu tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.799477,
+                        20.967263
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Ignacio Ramírez \"El Nigromante\"",
+                  "text": "Un centru cultural în San Miguel de Allende numit după Ignacio Ramírez.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745582,
+                        20.914917
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "Un teatru în San Miguel de Allende pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.707725,
+                        20.905762
+                  ]
+            },
+            {
+                  "name": "Recinto Ferial San Miguel de Allende",
+                  "text": "Un parc de expoziții și agrement în San Miguel de Allende.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.71009,
+                        20.905714
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "Un teatru în San Miguel de Allende pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.714971,
+                        20.909664
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "Un teatru în San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735215,
+                        20.916613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Sana Ana",
+                  "text": "A theatre in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.74313,
+                        20.916752
+                  ]
+            },
+            {
+                  "name": "Kuna Galería",
+                  "text": "An art gallery in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.743972,
+                        20.912972
+                  ]
+            },
+            {
+                  "name": "Casa del Mayorazgo de la Canal",
+                  "text": "A museum housed in a historic mansion from the Canal family in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744255,
+                        20.914335
+                  ]
+            },
+            {
+                  "name": "Museo la Esquina",
+                  "text": "A museum dedicated to toys and childhood in San Miguel de Allende. (La Esquina is the Mexican Toy Museum.)",
+                  "category": "museum",
+                  "coords": [
+                        -100.740137,
+                        20.914695
+                  ]
+            },
+            {
+                  "name": "Arco de San Miguel",
+                  "text": "The Arch of San Miguel, a landmark entrance to the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.73603,
+                        20.913631
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A viewpoint overlooking San Miguel de Allende.",
+                  "category": "natural",
+                  "coords": [
+                        -100.73802,
+                        20.907818
+                  ]
+            },
+            {
+                  "name": "Conservatorio de Plantas Mexicanas",
+                  "text": "A conservatory of Mexican plants in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.723695,
+                        20.917614
+                  ]
+            },
+            {
+                  "name": "Charco del Ingenio",
+                  "text": "A botanical garden and nature reserve in San Miguel de Allende.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.727746,
+                        20.918477
+                  ]
+            },
+            {
+                  "name": "Antiguo Acueducto",
+                  "text": "An ancient aqueduct monument in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.73745,
+                        20.922888
+                  ]
+            },
+            {
+                  "name": "La Troje",
+                  "text": "A theatre called La Troje in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.738905,
+                        20.921315
+                  ]
+            },
+            {
+                  "name": "Capella",
+                  "text": "A chapel monument in San Miguel de Allende.",
+                  "category": "historical",
+                  "coords": [
+                        -100.736086,
+                        20.915643
+                  ]
+            },
+            {
+                  "name": "Other Face of Mexico Gallery",
+                  "text": "A museum gallery showing another face of Mexico in San Miguel de Allende.",
+                  "category": "museum",
+                  "coords": [
+                        -100.737492,
+                        20.916781
+                  ]
+            },
+            {
+                  "name": "Bag Colorin",
+                  "text": "A gallery in San Miguel de Allende showcasing colorful bags.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742366,
+                        20.918079
+                  ]
+            },
+            {
+                  "name": "Galeria Ascender",
+                  "text": "A gallery in San Miguel de Allende displaying contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -100.744243,
+                        20.919042
+                  ]
+            },
+            {
+                  "name": "Juan Zaragoza Gallery",
+                  "text": "A gallery in San Miguel de Allende named after Juan Zaragoza.",
+                  "category": "museum",
+                  "coords": [
+                        -100.742198,
+                        20.921467
+                  ]
+            },
+            {
+                  "name": "La Aurora",
+                  "text": "A gallery in San Miguel de Allende with rotating art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -100.74039,
+                        20.923241
+                  ]
+            },
+            {
+                  "name": "Sienna Galeria",
+                  "text": "A gallery in San Miguel de Allende featuring works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746487,
+                        20.913938
+                  ]
+            },
+            {
+                  "name": "Ted Davis Galeria",
+                  "text": "A gallery in San Miguel de Allende named after Ted Davis.",
+                  "category": "museum",
+                  "coords": [
+                        -100.746441,
+                        20.911281
+                  ]
+            },
+            {
+                  "name": "Danyel Joy Art",
+                  "text": "A gallery in San Miguel de Allende featuring art by Danyel Joy.",
+                  "category": "museum",
+                  "coords": [
+                        -100.748161,
+                        20.90678
+                  ]
+            },
+            {
+                  "name": "Xote",
+                  "text": "A water park in San Miguel de Allende with slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.799477,
+                        20.967263
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Ignacio Ramírez \"El Nigromante\"",
+                  "text": "A cultural centre in San Miguel de Allende named after Ignacio Ramírez.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.745582,
+                        20.914917
+                  ]
+            },
+            {
+                  "name": "Teatro del Pueblo",
+                  "text": "A theatre in San Miguel de Allende for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.707725,
+                        20.905762
+                  ]
+            },
+            {
+                  "name": "Recinto Ferial San Miguel de Allende",
+                  "text": "A fairground and amusement park in San Miguel de Allende.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.71009,
+                        20.905714
+                  ]
+            },
+            {
+                  "name": "Foro San Miguel",
+                  "text": "A theatre in San Miguel de Allende for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.714971,
+                        20.909664
+                  ]
+            },
+            {
+                  "name": "Foro",
+                  "text": "A theatre in San Miguel de Allende.",
+                  "category": "cultural",
+                  "coords": [
+                        -100.735215,
+                        20.916613
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-GUA",
     coords: [-100.74, 20.91],
@@ -1369,7 +14356,448 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       fr: ["Possède une église mondialement connue à la façade néogotique rose.", "A joué un rôle clé dans la planification de la guerre d'indépendance du Mexique.", "Inscrit au patrimoine mondial de l'UNESCO en 2008."],
     }, image: "/poi-images/san-miguel-de-allende-history-v2.webp"},
   {
-    id: "paquime-casas-grandes-history-v2",
+    id: "paquime-casas-grandes-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Los Nogales",
+                  "text": "Los Nogales ist eine Attraktion in der Paquimé-Gegend, in der Nähe von Casas Grandes.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.950102,
+                        30.287636
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Madero",
+                  "text": "Der Parque Acuatico Madero ist ein Wasserpark in der Region Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941398,
+                        30.298723
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Paquime",
+                  "text": "Die Aguas Termales Paquime sind natürliche heiße Quellen in der Nähe der archäologischen Stätte Paquimé.",
+                  "category": "recreational",
+                  "coords": [
+                        -107.939646,
+                        30.305307
+                  ]
+            },
+            {
+                  "name": "Temazcal Terapeutico",
+                  "text": "Der Temazcal Terapeutico bietet ein traditionelles mexikanisches Schwitzhütten-Erlebnis in der Paquimé-Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941308,
+                        30.307472
+                  ]
+            },
+            {
+                  "name": "El Pueblito",
+                  "text": "El Pueblito sind kleine Ruinen der Paquimé-Kultur in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -107.999755,
+                        30.328238
+                  ]
+            },
+            {
+                  "name": "Segundo Quiosco",
+                  "text": "Segundo Quiosco ist ein Denkmalkiosk in der Paquimé-Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        -107.915644,
+                        30.416188
+                  ]
+            },
+            {
+                  "name": "Letras NCG",
+                  "text": "Letras NCG ist ein Denkmal mit den Buchstaben NCG in der Region Paquimé.",
+                  "category": "historical",
+                  "coords": [
+                        -107.914707,
+                        30.417043
+                  ]
+            },
+            {
+                  "name": "Blaneario el Tiburon",
+                  "text": "Blaneario el Tiburon ist eine Schwimmmöglichkeit in der Paquimé-Gegend.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.951649,
+                        30.391875
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "Die archäologische Zone von Paquimé ist ein UNESCO-Weltkulturerbe, das die antike Paquimé-Kultur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.947617,
+                        30.366342
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "Die Zona arqueológica de Paquimé ist das vor Ort befindliche Museum mit Artefakten der archäologischen Stätte Paquimé.",
+                  "category": "museum",
+                  "coords": [
+                        -107.949937,
+                        30.367916
+                  ]
+            },
+            {
+                  "name": "Monumento Al Ferrocarrilero",
+                  "text": "Das Monumento Al Ferrocarrilero ist ein Denkmal zu Ehren der Eisenbahnarbeiter in der Region Paquimé.",
+                  "category": "historical",
+                  "coords": [
+                        -107.912248,
+                        30.409292
+                  ]
+            },
+            {
+                  "name": "Temascal Piedras Calientes",
+                  "text": "Der Temascal Piedras Calientes ist eine traditionelle Schwitzhütte mit heißen Steinen in der Region Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.910173,
+                        30.433042
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Los Nogales",
+                  "text": "A Los Nogales egy látványosság a Paquimé környékén, Casas Grandes közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.950102,
+                        30.287636
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Madero",
+                  "text": "A Parque Acuatico Madero egy vízipark a Paquimé régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941398,
+                        30.298723
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Paquime",
+                  "text": "Az Aguas Termales Paquime természetes termálforrások a Paquimé régészeti lelőhely közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -107.939646,
+                        30.305307
+                  ]
+            },
+            {
+                  "name": "Temazcal Terapeutico",
+                  "text": "A Temazcal Terapeutico hagyományos mexikói gőzkunyhó élményt kínál a Paquimé környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941308,
+                        30.307472
+                  ]
+            },
+            {
+                  "name": "El Pueblito",
+                  "text": "Az El Pueblito a Paquimé kultúra kis romjai a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -107.999755,
+                        30.328238
+                  ]
+            },
+            {
+                  "name": "Segundo Quiosco",
+                  "text": "A Segundo Quiosco egy emlékmű kioszk a Paquimé környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -107.915644,
+                        30.416188
+                  ]
+            },
+            {
+                  "name": "Letras NCG",
+                  "text": "A Letras NCG egy emlékmű az NCG betűkkel a Paquimé régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -107.914707,
+                        30.417043
+                  ]
+            },
+            {
+                  "name": "Blaneario el Tiburon",
+                  "text": "A Blaneario el Tiburon egy fürdőhely a Paquimé környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.951649,
+                        30.391875
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "A Paquimé régészeti zóna egy UNESCO világörökségi helyszín, amely az ősi Paquimé kultúrát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.947617,
+                        30.366342
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "A Zona arqueológica de Paquimé a helyszínen található múzeum, amely a Paquimé régészeti lelőhely tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -107.949937,
+                        30.367916
+                  ]
+            },
+            {
+                  "name": "Monumento Al Ferrocarrilero",
+                  "text": "A Monumento Al Ferrocarrilero egy emlékmű, amely a vasúti munkásokat tiszteli a Paquimé régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -107.912248,
+                        30.409292
+                  ]
+            },
+            {
+                  "name": "Temascal Piedras Calientes",
+                  "text": "A Temascal Piedras Calientes egy hagyományos gőzkunyhó forró kövekkel a Paquimé régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.910173,
+                        30.433042
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Los Nogales",
+                  "text": "Los Nogales este o atracție în zona Paquimé, lângă Casas Grandes.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.950102,
+                        30.287636
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Madero",
+                  "text": "Parque Acuatico Madero este un parc acvatic în regiunea Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941398,
+                        30.298723
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Paquime",
+                  "text": "Aguas Termales Paquime sunt izvoare termale naturale lângă situl arheologic Paquimé.",
+                  "category": "recreational",
+                  "coords": [
+                        -107.939646,
+                        30.305307
+                  ]
+            },
+            {
+                  "name": "Temazcal Terapeutico",
+                  "text": "Temazcal Terapeutico oferă o experiență tradițională mexicană de saună în zona Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941308,
+                        30.307472
+                  ]
+            },
+            {
+                  "name": "El Pueblito",
+                  "text": "El Pueblito sunt ruine mici ale culturii Paquimé în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -107.999755,
+                        30.328238
+                  ]
+            },
+            {
+                  "name": "Segundo Quiosco",
+                  "text": "Segundo Quiosco este un chioșc monument în zona Paquimé.",
+                  "category": "historical",
+                  "coords": [
+                        -107.915644,
+                        30.416188
+                  ]
+            },
+            {
+                  "name": "Letras NCG",
+                  "text": "Letras NCG este un monument cu literele NCG în regiunea Paquimé.",
+                  "category": "historical",
+                  "coords": [
+                        -107.914707,
+                        30.417043
+                  ]
+            },
+            {
+                  "name": "Blaneario el Tiburon",
+                  "text": "Blaneario el Tiburon este o atracție de înot în zona Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.951649,
+                        30.391875
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "Zona Arheologică Paquimé este un sit UNESCO Patrimoniu Mondial care prezintă cultura antică Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.947617,
+                        30.366342
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "Zona arqueológica de Paquimé este muzeul de la fața locului care expune artefacte de la situl arheologic Paquimé.",
+                  "category": "museum",
+                  "coords": [
+                        -107.949937,
+                        30.367916
+                  ]
+            },
+            {
+                  "name": "Monumento Al Ferrocarrilero",
+                  "text": "Monumento Al Ferrocarrilero este un monument care onorează lucrătorii feroviari din regiunea Paquimé.",
+                  "category": "historical",
+                  "coords": [
+                        -107.912248,
+                        30.409292
+                  ]
+            },
+            {
+                  "name": "Temascal Piedras Calientes",
+                  "text": "Temascal Piedras Calientes este o saună tradițională cu pietre fierbinți în regiunea Paquimé.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.910173,
+                        30.433042
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Los Nogales",
+                  "text": "Los Nogales is an attraction in the Paquimé area, near Casas Grandes.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.950102,
+                        30.287636
+                  ]
+            },
+            {
+                  "name": "Parque Acuatico Madero",
+                  "text": "Parque Acuatico Madero is a water park in the Paquimé region.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941398,
+                        30.298723
+                  ]
+            },
+            {
+                  "name": "Aguas Termales Paquime",
+                  "text": "Aguas Termales Paquime are natural hot springs near the archaeological site of Paquimé.",
+                  "category": "recreational",
+                  "coords": [
+                        -107.939646,
+                        30.305307
+                  ]
+            },
+            {
+                  "name": "Temazcal Terapeutico",
+                  "text": "Temazcal Terapeutico offers a traditional Mexican sweat lodge experience in the Paquimé area.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.941308,
+                        30.307472
+                  ]
+            },
+            {
+                  "name": "El Pueblito",
+                  "text": "El Pueblito are small ruins from the Paquimé culture in the region.",
+                  "category": "historical",
+                  "coords": [
+                        -107.999755,
+                        30.328238
+                  ]
+            },
+            {
+                  "name": "Segundo Quiosco",
+                  "text": "Segundo Quiosco is a monument kiosk in the Paquimé area.",
+                  "category": "historical",
+                  "coords": [
+                        -107.915644,
+                        30.416188
+                  ]
+            },
+            {
+                  "name": "Letras NCG",
+                  "text": "Letras NCG is a monument with the letters NCG in the Paquimé region.",
+                  "category": "historical",
+                  "coords": [
+                        -107.914707,
+                        30.417043
+                  ]
+            },
+            {
+                  "name": "Blaneario el Tiburon",
+                  "text": "Blaneario el Tiburon is a swimming attraction in the Paquimé area.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.951649,
+                        30.391875
+                  ]
+            },
+            {
+                  "name": "Archaeological Zone of Paquimé",
+                  "text": "Archaeological Zone of Paquimé is a UNESCO World Heritage site featuring the ancient Paquimé culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.947617,
+                        30.366342
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Paquimé",
+                  "text": "Zona arqueológica de Paquimé is the on-site museum displaying artifacts from the Paquimé archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        -107.949937,
+                        30.367916
+                  ]
+            },
+            {
+                  "name": "Monumento Al Ferrocarrilero",
+                  "text": "Monumento Al Ferrocarrilero is a monument honoring railroad workers in the Paquimé region.",
+                  "category": "historical",
+                  "coords": [
+                        -107.912248,
+                        30.409292
+                  ]
+            },
+            {
+                  "name": "Temascal Piedras Calientes",
+                  "text": "Temascal Piedras Calientes is a traditional sweat lodge with hot stones in the Paquimé region.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.910173,
+                        30.433042
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "MX-CHH",
     coords: [-107.94, 30.36],

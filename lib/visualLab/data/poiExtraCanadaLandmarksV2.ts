@@ -3,7 +3,448 @@ import type { POI } from "./poi";
 
 export const poiExtraCanadaLandmarksV2: POI[] = [
   {
-    id: "notre-dame-basilica-montreal-landmarks-v2",
+    id: "notre-dame-basilica-montreal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie de Chine",
+                  "text": "Die Galerie de Chine ist eine Galerie in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.560718,
+                        45.506955
+                  ]
+            },
+            {
+                  "name": "Monument-National",
+                  "text": "Das Monument-National ist ein Theater in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.562377,
+                        45.509012
+                  ]
+            },
+            {
+                  "name": "Club Soda",
+                  "text": "Der Club Soda ist ein Konzertort im Plateau-Mont-Royal in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.563335,
+                        45.509792
+                  ]
+            },
+            {
+                  "name": "Carre d'artistes",
+                  "text": "Das Carre d'artistes ist eine Galerie in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553889,
+                        45.505227
+                  ]
+            },
+            {
+                  "name": "Les fortifications de Montréal - escarpe 1717 à 1806",
+                  "text": "Das Monument erinnert an die ehemaligen Befestigungsanlagen von Montreal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.56003,
+                        45.501108
+                  ]
+            },
+            {
+                  "name": "Élément du mur de Berlin",
+                  "text": "Ein Stück der Berliner Mauer in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.560337,
+                        45.502331
+                  ]
+            },
+            {
+                  "name": "Galerie 203",
+                  "text": "Die Galerie 203 ist eine Galerie in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557781,
+                        45.503646
+                  ]
+            },
+            {
+                  "name": "Centaur Theatre",
+                  "text": "Das Centaur Theatre ist ein Theater in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.556556,
+                        45.503556
+                  ]
+            },
+            {
+                  "name": "Musée de l'Illusion Montréal",
+                  "text": "Das Musée de l'Illusion Montréal ist ein Museum der Illusionen in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557754,
+                        45.506092
+                  ]
+            },
+            {
+                  "name": "DHC/ART",
+                  "text": "Das DHC/ART ist ein Kunstzentrum in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.557479,
+                        45.502694
+                  ]
+            },
+            {
+                  "name": "Théâtre du nouveau monde",
+                  "text": "Das Théâtre du nouveau monde ist ein Theater in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.564185,
+                        45.508739
+                  ]
+            },
+            {
+                  "name": "Place Jean-Paul-Riopelle",
+                  "text": "Die Place Jean-Paul-Riopelle ist ein nach dem Maler Jean-Paul Riopelle benannter Platz in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.561198,
+                        45.503341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie de Chine",
+                  "text": "A Galerie de Chine egy galéria Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.560718,
+                        45.506955
+                  ]
+            },
+            {
+                  "name": "Monument-National",
+                  "text": "A Monument-National egy színház Montrealban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.562377,
+                        45.509012
+                  ]
+            },
+            {
+                  "name": "Club Soda",
+                  "text": "A Club Soda egy koncerthelyszín Montreal Plateau-Mont-Royal negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.563335,
+                        45.509792
+                  ]
+            },
+            {
+                  "name": "Carre d'artistes",
+                  "text": "A Carre d'artistes egy galéria Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553889,
+                        45.505227
+                  ]
+            },
+            {
+                  "name": "Les fortifications de Montréal - escarpe 1717 à 1806",
+                  "text": "Az emlékmű Montreal egykori erődítményeire emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -73.56003,
+                        45.501108
+                  ]
+            },
+            {
+                  "name": "Élément du mur de Berlin",
+                  "text": "Egy darab a berlini falból Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.560337,
+                        45.502331
+                  ]
+            },
+            {
+                  "name": "Galerie 203",
+                  "text": "A Galerie 203 egy galéria Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557781,
+                        45.503646
+                  ]
+            },
+            {
+                  "name": "Centaur Theatre",
+                  "text": "A Centaur Theatre egy színház Montrealban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.556556,
+                        45.503556
+                  ]
+            },
+            {
+                  "name": "Musée de l'Illusion Montréal",
+                  "text": "A Musée de l'Illusion Montréal egy illúziómúzeum Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557754,
+                        45.506092
+                  ]
+            },
+            {
+                  "name": "DHC/ART",
+                  "text": "A DHC/ART egy művészeti központ Montrealban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.557479,
+                        45.502694
+                  ]
+            },
+            {
+                  "name": "Théâtre du nouveau monde",
+                  "text": "A Théâtre du nouveau monde egy színház Montrealban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.564185,
+                        45.508739
+                  ]
+            },
+            {
+                  "name": "Place Jean-Paul-Riopelle",
+                  "text": "A Place Jean-Paul-Riopelle egy tér Montrealban, amely Jean-Paul Riopelle festőről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -73.561198,
+                        45.503341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie de Chine",
+                  "text": "Galerie de Chine este o galerie în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.560718,
+                        45.506955
+                  ]
+            },
+            {
+                  "name": "Monument-National",
+                  "text": "Monument-National este un teatru în Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.562377,
+                        45.509012
+                  ]
+            },
+            {
+                  "name": "Club Soda",
+                  "text": "Club Soda este un loc de concerte în Plateau-Mont-Royal din Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.563335,
+                        45.509792
+                  ]
+            },
+            {
+                  "name": "Carre d'artistes",
+                  "text": "Carre d'artistes este o galerie în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553889,
+                        45.505227
+                  ]
+            },
+            {
+                  "name": "Les fortifications de Montréal - escarpe 1717 à 1806",
+                  "text": "Monumentul amintește de fostele fortificații ale orașului Montreal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.56003,
+                        45.501108
+                  ]
+            },
+            {
+                  "name": "Élément du mur de Berlin",
+                  "text": "O bucată din Zidul Berlinului în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.560337,
+                        45.502331
+                  ]
+            },
+            {
+                  "name": "Galerie 203",
+                  "text": "Galerie 203 este o galerie în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557781,
+                        45.503646
+                  ]
+            },
+            {
+                  "name": "Centaur Theatre",
+                  "text": "Centaur Theatre este un teatru în Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.556556,
+                        45.503556
+                  ]
+            },
+            {
+                  "name": "Musée de l'Illusion Montréal",
+                  "text": "Musée de l'Illusion Montréal este un muzeu al iluziilor în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557754,
+                        45.506092
+                  ]
+            },
+            {
+                  "name": "DHC/ART",
+                  "text": "DHC/ART este un centru de artă în Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.557479,
+                        45.502694
+                  ]
+            },
+            {
+                  "name": "Théâtre du nouveau monde",
+                  "text": "Théâtre du nouveau monde este un teatru în Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.564185,
+                        45.508739
+                  ]
+            },
+            {
+                  "name": "Place Jean-Paul-Riopelle",
+                  "text": "Place Jean-Paul-Riopelle este o piață în Montreal numită după pictorul Jean-Paul Riopelle.",
+                  "category": "park",
+                  "coords": [
+                        -73.561198,
+                        45.503341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie de Chine",
+                  "text": "Galerie de Chine is a gallery in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.560718,
+                        45.506955
+                  ]
+            },
+            {
+                  "name": "Monument-National",
+                  "text": "Monument-National is a theatre in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.562377,
+                        45.509012
+                  ]
+            },
+            {
+                  "name": "Club Soda",
+                  "text": "Club Soda is a concert venue in Montreal's Plateau-Mont-Royal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.563335,
+                        45.509792
+                  ]
+            },
+            {
+                  "name": "Carre d'artistes",
+                  "text": "Carre d'artistes is a gallery in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553889,
+                        45.505227
+                  ]
+            },
+            {
+                  "name": "Les fortifications de Montréal - escarpe 1717 à 1806",
+                  "text": "The monument commemorates Montreal's former fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -73.56003,
+                        45.501108
+                  ]
+            },
+            {
+                  "name": "Élément du mur de Berlin",
+                  "text": "A piece of the Berlin Wall in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.560337,
+                        45.502331
+                  ]
+            },
+            {
+                  "name": "Galerie 203",
+                  "text": "Galerie 203 is a gallery in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557781,
+                        45.503646
+                  ]
+            },
+            {
+                  "name": "Centaur Theatre",
+                  "text": "Centaur Theatre is a theatre in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.556556,
+                        45.503556
+                  ]
+            },
+            {
+                  "name": "Musée de l'Illusion Montréal",
+                  "text": "Musée de l'Illusion Montréal is a museum of illusions in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.557754,
+                        45.506092
+                  ]
+            },
+            {
+                  "name": "DHC/ART",
+                  "text": "DHC/ART is an arts centre in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.557479,
+                        45.502694
+                  ]
+            },
+            {
+                  "name": "Théâtre du nouveau monde",
+                  "text": "Théâtre du nouveau monde is a theatre in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.564185,
+                        45.508739
+                  ]
+            },
+            {
+                  "name": "Place Jean-Paul-Riopelle",
+                  "text": "Place Jean-Paul-Riopelle is a public square in Montreal named after painter Jean-Paul Riopelle.",
+                  "category": "park",
+                  "coords": [
+                        -73.561198,
+                        45.503341
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-73.5562, 45.5045],
@@ -38,7 +479,1276 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       fr: ["Construite dans le style néogothique", "Achèvement de la structure principale en 1829", "Intérieur richement orné de sculptures", "Réputée pour son acoustique spectaculaire", "Important centre religieux et culturel", "Architecte : James O'Donnell"],
     }, image: "/poi-images/notre-dame-basilica-montreal-landmarks-v2.webp"},
   {
-    id: "saint-josephs-oratory-landmarks-v2",
+    id: "saint-josephs-oratory-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée des maîtres et artisans du Québec",
+                  "text": "Das Musée des maîtres et artisans du Québec ist ein Museum in Montreal, das dem Kunsthandwerk und den Meisterhandwerkern Quebecs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -73.671333,
+                        45.511693
+                  ]
+            },
+            {
+                  "name": "Oratoriumsmuseum",
+                  "text": "Das Oratorium-Museum am Sankt-Josephs-Oratorium in Montreal zeigt Artefakte zur Basilika und Bruder André.",
+                  "category": "museum",
+                  "coords": [
+                        -73.617264,
+                        45.492442
+                  ]
+            },
+            {
+                  "name": "Musée des ondes Emile Berliner",
+                  "text": "Das Musée des ondes Emile Berliner in Montreal ist ein Museum zur Geschichte der Tonaufnahme und Emile Berliner.",
+                  "category": "museum",
+                  "coords": [
+                        -73.592403,
+                        45.47755
+                  ]
+            },
+            {
+                  "name": "Musée de l'Holocauste",
+                  "text": "Das Montreal Holocaust Memorial Center ist ein Museum in Montreal, das der Holocaust-Bildung und Erinnerung dient.",
+                  "category": "museum",
+                  "coords": [
+                        -73.636368,
+                        45.488958
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
+                  "text": "Die Fur Trade at Lachine National Historic Site ist ein Museum in Montreal, das die Geschichte des Pelzhandels vermittelt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.675535,
+                        45.431439
+                  ]
+            },
+            {
+                  "name": "Théatre Outremont",
+                  "text": "Das Théatre Outremont ist ein historisches Theater im Outremont-Viertel von Montreal, das Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.608597,
+                        45.519937
+                  ]
+            },
+            {
+                  "name": "Shaar Hashomayim",
+                  "text": "Shaar Hashomayim ist eine historische Synagoge in Montreal, gegründet im 19. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -73.59858,
+                        45.485052
+                  ]
+            },
+            {
+                  "name": "Église de Notre-Dame-de-la-Défense",
+                  "text": "Die Kirche Madonna della Difesa ist eine katholische Kirche in Montreals Little Italy, bekannt für ihre Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        -73.61124,
+                        45.534874
+                  ]
+            },
+            {
+                  "name": "Temple Emanuel El Beth Shalom",
+                  "text": "Temple Emanuel El Beth Shalom ist eine reformjüdische Gemeinde in Westmount, Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590346,
+                        45.488598
+                  ]
+            },
+            {
+                  "name": "Saint-Léon de Westmount",
+                  "text": "Saint-Léon de Westmount ist eine katholische Kirche in Westmount, Montreal, erbaut im frühen 20. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591945,
+                        45.485393
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-Grâce",
+                  "text": "Notre-Dame-de-Grâce ist eine Pfarrkirche im Stadtteil Notre-Dame-de-Grâce von Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.616779,
+                        45.477118
+                  ]
+            },
+            {
+                  "name": "Congregation Dorshei Emet",
+                  "text": "Congregation Dorshei Emet ist eine rekonstruktionistische Synagoge in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.653183,
+                        45.486405
+                  ]
+            },
+            {
+                  "name": "Shearith Israel – Spanish and Portuguese Synagogue",
+                  "text": "Shearith Israel ist die älteste Synagoge in Montreal, gegründet von sephardischen Juden.",
+                  "category": "religious",
+                  "coords": [
+                        -73.631705,
+                        45.489806
+                  ]
+            },
+            {
+                  "name": "Église des Saints-Anges-Gardiens",
+                  "text": "Église des Saints-Anges-Gardiens ist eine katholische Kirche im Villeray-Viertel von Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.677129,
+                        45.432962
+                  ]
+            },
+            {
+                  "name": "Pont Viau",
+                  "text": "Pont Viau ist eine Brücke, die Ahuntsic-Cartierville mit Laval über die Rivière des Prairies in Montreal verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.675346,
+                        45.557258
+                  ]
+            },
+            {
+                  "name": "Pont Médéric-Martin",
+                  "text": "Pont Médéric-Martin ist eine Brücke, die die Rivière des Prairies in Montreal überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.712076,
+                        45.540269
+                  ]
+            },
+            {
+                  "name": "Parc Ahuntsic",
+                  "text": "Parc Ahuntsic ist ein großer Park im Ahuntsic-Viertel von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.664145,
+                        45.555765
+                  ]
+            },
+            {
+                  "name": "Parc Belmont",
+                  "text": "Belmont Park ist ein ehemaliger Vergnügungspark in Montreal, jetzt ein öffentlicher Park.",
+                  "category": "park",
+                  "coords": [
+                        -73.725626,
+                        45.533216
+                  ]
+            },
+            {
+                  "name": "Parc Jarry",
+                  "text": "Parc Jarry ist ein großer öffentlicher Park im Villeray–Saint-Michel–Parc-Extension Bezirk von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.628692,
+                        45.535381
+                  ]
+            },
+            {
+                  "name": "Parc Toto-Bissainthe",
+                  "text": "Toto-Bissainthe Mini-Park ist ein kleiner Park in Montreal, benannt nach der Schauspielerin Toto Bissainthe.",
+                  "category": "park",
+                  "coords": [
+                        -73.610406,
+                        45.525101
+                  ]
+            },
+            {
+                  "name": "Parc Westmount",
+                  "text": "Westmount Park ist ein großer Park in Westmount, Montreal, mit Sportanlagen und einem Teich.",
+                  "category": "park",
+                  "coords": [
+                        -73.59727,
+                        45.481059
+                  ]
+            },
+            {
+                  "name": "Parc René-Lévesque",
+                  "text": "Der Parc René-Lévesque ist ein Park im Saint-Joseph's-Oratory-Wahrzeichengebiet, benannt nach einem ehemaligen Premierminister von Québec.",
+                  "category": "park",
+                  "coords": [
+                        -73.679651,
+                        45.428614
+                  ]
+            },
+            {
+                  "name": "Parc Angrignon",
+                  "text": "Der Parc Angrignon ist ein Park im Saint-Joseph's-Oratory-Wahrzeichengebiet.",
+                  "category": "park",
+                  "coords": [
+                        -73.602913,
+                        45.442183
+                  ]
+            },
+            {
+                  "name": "Parc des Rapides",
+                  "text": "Der Parc des Rapides ist ein Park im Saint-Joseph's-Oratory-Wahrzeichengebiet mit Blick auf die Lachine-Stromschnellen.",
+                  "category": "park",
+                  "coords": [
+                        -73.595702,
+                        45.426038
+                  ]
+            },
+            {
+                  "name": "Parc Riverside",
+                  "text": "Der Parc Riverside ist ein Park im Saint-Joseph's-Oratory-Wahrzeichengebiet entlang des Sankt-Lorenz-Stroms.",
+                  "category": "park",
+                  "coords": [
+                        -73.611702,
+                        45.420894
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs de l'Île-aux-Hérons",
+                  "text": "Das Île aux Hérons-Vogelschutzgebiet ist ein Naturschutzgebiet im Saint-Joseph's-Oratory-Wahrzeichengebiet auf einer Insel für Zugvögel.",
+                  "category": "natural",
+                  "coords": [
+                        -73.582584,
+                        45.418864
+                  ]
+            },
+            {
+                  "name": "Shaare Zedek Congregation",
+                  "text": "Die Shaare Zedek Congregation ist ein Gotteshaus im Saint-Joseph's-Oratory-Wahrzeichengebiet, eine Synagoge der jüdischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -73.648949,
+                        45.46716
+                  ]
+            },
+            {
+                  "name": "Congregation Beth Ora",
+                  "text": "Die Congregation Beth Ora ist ein Gotteshaus im Saint-Joseph's-Oratory-Wahrzeichengebiet, eine Synagoge.",
+                  "category": "religious",
+                  "coords": [
+                        -73.688659,
+                        45.497131
+                  ]
+            },
+            {
+                  "name": "Marché Jean Talon",
+                  "text": "Der Jean Talon Markt ist ein Marktplatz im Saint-Joseph's-Oratory-Wahrzeichengebiet, einer der ältesten öffentlichen Märkte Montreals.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.615061,
+                        45.535913
+                  ]
+            },
+            {
+                  "name": "Musée Armand-Frappier",
+                  "text": "Das Musée Armand-Frappier ist ein Museum im Saint-Joseph's-Oratory-Wahrzeichengebiet, das sich der Wissenschaft widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -73.716184,
+                        45.54086
+                  ]
+            },
+            {
+                  "name": "Maison Etienne Nivard de Saint-Dizier",
+                  "text": "Die Maison Etienne Nivard de Saint-Dizier ist ein Museum im Saint-Joseph's-Oratory-Wahrzeichengebiet, ein historisches Haus.",
+                  "category": "museum",
+                  "coords": [
+                        -73.582874,
+                        45.4374
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville de Westmount",
+                  "text": "Das Westmount City Hall ist das Rathaus von Westmount im Saint-Joseph's-Oratory-Wahrzeichengebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -73.59672,
+                        45.485577
+                  ]
+            },
+            {
+                  "name": "Salle Claude-Champagne",
+                  "text": "Die Salle Claude-Champagne ist ein Theater im Saint-Joseph's-Oratory-Wahrzeichengebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.609083,
+                        45.509091
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine-Sophie-Barat",
+                  "text": "Die Église Sainte-Madeleine-Sophie-Barat ist ein Gotteshaus im Saint-Joseph's-Oratory-Wahrzeichengebiet, eine Kirche, die der Heiligen Madeleine Sophie Barat geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        -73.666493,
+                        45.560269
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Die Église Sainte-Madeleine ist ein Gotteshaus im Saint-Joseph's-Oratory-Wahrzeichengebiet.",
+                  "category": "religious",
+                  "coords": [
+                        -73.613146,
+                        45.520135
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des maîtres et artisans du Québec",
+                  "text": "A Musée des maîtres et artisans du Québec egy múzeum Montrealban, amely Quebec kézművességének és mesterkézműveseinek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.671333,
+                        45.511693
+                  ]
+            },
+            {
+                  "name": "Musée de l'Oratoire",
+                  "text": "Az Oratórium Múzeum a montreali Szent József Oratóriumban a bazilikával és André testvérrel kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.617264,
+                        45.492442
+                  ]
+            },
+            {
+                  "name": "Musée des ondes Emile Berliner",
+                  "text": "A montréali Musée des ondes Emile Berliner egy múzeum a hangrögzítés történetéről és Emile Berlinerről.",
+                  "category": "museum",
+                  "coords": [
+                        -73.592403,
+                        45.47755
+                  ]
+            },
+            {
+                  "name": "Musée de l'Holocauste",
+                  "text": "A Montreal Holokauszt Emlékközpont egy múzeum Montrealban, amely a holokauszt oktatásának és emlékezésének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.636368,
+                        45.488958
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
+                  "text": "A Lachine-i Szőrmekereskedelmi Nemzeti Történelmi Helyszín egy múzeum Montrealban, amely a szőrmekereskedelem történetét dolgozza fel.",
+                  "category": "museum",
+                  "coords": [
+                        -73.675535,
+                        45.431439
+                  ]
+            },
+            {
+                  "name": "Théatre Outremont",
+                  "text": "A Théatre Outremont egy történelmi színház Montreal Outremont negyedében, előadásokat tart.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.608597,
+                        45.519937
+                  ]
+            },
+            {
+                  "name": "Shaar Hashomayim",
+                  "text": "A Shaar Hashomayim egy történelmi zsinagóga Montrealban, a 19. században alapították.",
+                  "category": "religious",
+                  "coords": [
+                        -73.59858,
+                        45.485052
+                  ]
+            },
+            {
+                  "name": "Église de Notre-Dame-de-la-Défense",
+                  "text": "A Madonna della Difesa templom egy katolikus templom Montreal Little Italy negyedében, híres falfestményeiről.",
+                  "category": "religious",
+                  "coords": [
+                        -73.61124,
+                        45.534874
+                  ]
+            },
+            {
+                  "name": "Temple Emanuel El Beth Shalom",
+                  "text": "A Temple Emanuel El Beth Shalom egy reform zsidó közösség Westmountban, Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590346,
+                        45.488598
+                  ]
+            },
+            {
+                  "name": "Saint-Léon de Westmount",
+                  "text": "A Saint-Léon de Westmount egy katolikus templom Westmountban, Montrealban, a 20. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591945,
+                        45.485393
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-Grâce",
+                  "text": "A Notre-Dame-de-Grâce egy plébániatemplom Montreal Notre-Dame-de-Grâce negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.616779,
+                        45.477118
+                  ]
+            },
+            {
+                  "name": "Congregation Dorshei Emet",
+                  "text": "A Congregation Dorshei Emet egy rekonstrukciós zsinagóga Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.653183,
+                        45.486405
+                  ]
+            },
+            {
+                  "name": "Shearith Israel – Spanish and Portuguese Synagogue",
+                  "text": "A Shearith Israel a legrégebbi zsinagóga Montrealban, szefárd zsidók által alapított.",
+                  "category": "religious",
+                  "coords": [
+                        -73.631705,
+                        45.489806
+                  ]
+            },
+            {
+                  "name": "Église des Saints-Anges-Gardiens",
+                  "text": "Az Église des Saints-Anges-Gardiens egy katolikus templom Montreal Villeray negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.677129,
+                        45.432962
+                  ]
+            },
+            {
+                  "name": "Pont Viau",
+                  "text": "A Pont Viau egy híd, amely Ahuntsic-Cartierville-t köti össze Laval-lal a Rivière des Prairies felett Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.675346,
+                        45.557258
+                  ]
+            },
+            {
+                  "name": "Pont Médéric-Martin",
+                  "text": "A Pont Médéric-Martin egy híd, amely a Rivière des Prairies-t keresztezi Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.712076,
+                        45.540269
+                  ]
+            },
+            {
+                  "name": "Parc Ahuntsic",
+                  "text": "A Parc Ahuntsic egy nagy park Montreal Ahuntsic negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -73.664145,
+                        45.555765
+                  ]
+            },
+            {
+                  "name": "Parc Belmont",
+                  "text": "A Belmont Park egy egykori vidámpark Montrealban, ma közpark.",
+                  "category": "park",
+                  "coords": [
+                        -73.725626,
+                        45.533216
+                  ]
+            },
+            {
+                  "name": "Parc Jarry",
+                  "text": "A Parc Jarry egy nagy közpark Montreal Villeray–Saint-Michel–Parc-Extension kerületében.",
+                  "category": "park",
+                  "coords": [
+                        -73.628692,
+                        45.535381
+                  ]
+            },
+            {
+                  "name": "Parc Toto-Bissainthe",
+                  "text": "A Toto-Bissainthe Mini-Park egy kis park Montrealban, Toto Bissainthe színésznőről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -73.610406,
+                        45.525101
+                  ]
+            },
+            {
+                  "name": "Parc Westmount",
+                  "text": "A Westmount Park egy nagy park Westmountban, Montrealban, sportlétesítményekkel és egy tóval.",
+                  "category": "park",
+                  "coords": [
+                        -73.59727,
+                        45.481059
+                  ]
+            },
+            {
+                  "name": "Parc René-Lévesque",
+                  "text": "A Parc René-Lévesque egy park a Saint-Joseph's Oratory nevezetességek területén, amely egy volt québeci miniszterelnökről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -73.679651,
+                        45.428614
+                  ]
+            },
+            {
+                  "name": "Parc Angrignon",
+                  "text": "A Parc Angrignon egy park a Saint-Joseph's Oratory nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.602913,
+                        45.442183
+                  ]
+            },
+            {
+                  "name": "Parc des Rapides",
+                  "text": "A Parc des Rapides egy park a Saint-Joseph's Oratory nevezetességek területén, ahonnan kilátás nyílik a Lachine zuhatagokra.",
+                  "category": "park",
+                  "coords": [
+                        -73.595702,
+                        45.426038
+                  ]
+            },
+            {
+                  "name": "Parc Riverside",
+                  "text": "A Parc Riverside egy park a Saint-Joseph's Oratory nevezetességek területén, a Szent Lőrinc folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        -73.611702,
+                        45.420894
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs de l'Île-aux-Hérons",
+                  "text": "Az Île aux Hérons Madárrezervátum egy természetvédelmi terület a Saint-Joseph's Oratory nevezetességek területén, egy szigeten, amely a vándormadarak számára biztosít élőhelyet.",
+                  "category": "natural",
+                  "coords": [
+                        -73.582584,
+                        45.418864
+                  ]
+            },
+            {
+                  "name": "Shaare Zedek Congregation",
+                  "text": "A Shaare Zedek Congregation egy istentiszteleti hely a Saint-Joseph's Oratory nevezetességek területén, a zsidó közösség zsinagógája.",
+                  "category": "religious",
+                  "coords": [
+                        -73.648949,
+                        45.46716
+                  ]
+            },
+            {
+                  "name": "Congregation Beth Ora",
+                  "text": "A Congregation Beth Ora egy istentiszteleti hely a Saint-Joseph's Oratory nevezetességek területén, egy zsinagóga.",
+                  "category": "religious",
+                  "coords": [
+                        -73.688659,
+                        45.497131
+                  ]
+            },
+            {
+                  "name": "Marché Jean Talon",
+                  "text": "A Jean Talon piac egy piac a Saint-Joseph's Oratory nevezetességek területén, Montreal egyik legrégebbi nyilvános piaca.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.615061,
+                        45.535913
+                  ]
+            },
+            {
+                  "name": "Musée Armand-Frappier",
+                  "text": "A Musée Armand-Frappier egy múzeum a Saint-Joseph's Oratory nevezetességek területén, amely a tudományra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -73.716184,
+                        45.54086
+                  ]
+            },
+            {
+                  "name": "Maison Etienne Nivard de Saint-Dizier",
+                  "text": "A Maison Etienne Nivard de Saint-Dizier egy múzeum a Saint-Joseph's Oratory nevezetességek területén, egy történelmi ház.",
+                  "category": "museum",
+                  "coords": [
+                        -73.582874,
+                        45.4374
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville de Westmount",
+                  "text": "A Westmount City Hall Westmount városháza a Saint-Joseph's Oratory nevezetességek területén.",
+                  "category": "historical",
+                  "coords": [
+                        -73.59672,
+                        45.485577
+                  ]
+            },
+            {
+                  "name": "Salle Claude-Champagne",
+                  "text": "A Salle Claude-Champagne egy színház a Saint-Joseph's Oratory nevezetességek területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.609083,
+                        45.509091
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine-Sophie-Barat",
+                  "text": "Az Église Sainte-Madeleine-Sophie-Barat egy istentiszteleti hely a Saint-Joseph's Oratory nevezetességek területén, egy templom, amelyet Szent Madeleine Sophie Barat tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -73.666493,
+                        45.560269
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Az Église Sainte-Madeleine egy istentiszteleti hely a Saint-Joseph's Oratory nevezetességek területén.",
+                  "category": "religious",
+                  "coords": [
+                        -73.613146,
+                        45.520135
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des maîtres et artisans du Québec",
+                  "text": "Muzeul Maestrilor și Meșteșugarilor din Quebec este un muzeu în Montreal dedicat meșteșugurilor și meșterilor din Quebec.",
+                  "category": "museum",
+                  "coords": [
+                        -73.671333,
+                        45.511693
+                  ]
+            },
+            {
+                  "name": "Musée de l'Oratoire",
+                  "text": "Muzeul Oratoriului de la Oratoriul Sfântul Iosif din Montreal prezintă artefacte legate de bazilică și de fratele André.",
+                  "category": "museum",
+                  "coords": [
+                        -73.617264,
+                        45.492442
+                  ]
+            },
+            {
+                  "name": "Musée des ondes Emile Berliner",
+                  "text": "Muzeul undelor Emile Berliner din Montreal este un muzeu despre istoria înregistrării sunetului și a lui Emile Berliner.",
+                  "category": "museum",
+                  "coords": [
+                        -73.592403,
+                        45.47755
+                  ]
+            },
+            {
+                  "name": "Musée de l'Holocauste",
+                  "text": "Centrul Memorial al Holocaustului din Montreal este un muzeu din Montreal dedicat educației și comemorării Holocaustului.",
+                  "category": "museum",
+                  "coords": [
+                        -73.636368,
+                        45.488958
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du Commerce-de-la-Fourrure-à-Lachine",
+                  "text": "Situl istoric național al comerțului cu blănuri de la Lachine este un muzeu din Montreal care prezintă istoria comerțului cu blănuri.",
+                  "category": "museum",
+                  "coords": [
+                        -73.675535,
+                        45.431439
+                  ]
+            },
+            {
+                  "name": "Théatre Outremont",
+                  "text": "Teatrul Outremont este un teatru istoric în cartierul Outremont din Montreal, care găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.608597,
+                        45.519937
+                  ]
+            },
+            {
+                  "name": "Shaar Hashomayim",
+                  "text": "Shaar Hashomayim este o sinagogă istorică din Montreal, fondată în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -73.59858,
+                        45.485052
+                  ]
+            },
+            {
+                  "name": "Église de Notre-Dame-de-la-Défense",
+                  "text": "Biserica Madonna della Difesa este o biserică catolică din Little Italy din Montreal, cunoscută pentru picturile murale.",
+                  "category": "religious",
+                  "coords": [
+                        -73.61124,
+                        45.534874
+                  ]
+            },
+            {
+                  "name": "Temple Emanuel El Beth Shalom",
+                  "text": "Templul Emanuel El Beth Shalom este o congregație evreiască reformată în Westmount, Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590346,
+                        45.488598
+                  ]
+            },
+            {
+                  "name": "Saint-Léon de Westmount",
+                  "text": "Saint-Léon de Westmount este o biserică catolică în Westmount, Montreal, construită la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591945,
+                        45.485393
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-Grâce",
+                  "text": "Notre-Dame-de-Grâce este o biserică parohială în cartierul Notre-Dame-de-Grâce din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.616779,
+                        45.477118
+                  ]
+            },
+            {
+                  "name": "Congregation Dorshei Emet",
+                  "text": "Congregația Dorshei Emet este o sinagogă reconstrucționistă în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.653183,
+                        45.486405
+                  ]
+            },
+            {
+                  "name": "Shearith Israel – Spanish and Portuguese Synagogue",
+                  "text": "Shearith Israel este cea mai veche sinagogă din Montreal, fondată de evreii sefarzi.",
+                  "category": "religious",
+                  "coords": [
+                        -73.631705,
+                        45.489806
+                  ]
+            },
+            {
+                  "name": "Église des Saints-Anges-Gardiens",
+                  "text": "Biserica Sfinților Îngeri Păzitori este o biserică catolică în cartierul Villeray din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.677129,
+                        45.432962
+                  ]
+            },
+            {
+                  "name": "Pont Viau",
+                  "text": "Podul Viau este un pod care leagă Ahuntsic-Cartierville de Laval peste Rivière des Prairies în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.675346,
+                        45.557258
+                  ]
+            },
+            {
+                  "name": "Pont Médéric-Martin",
+                  "text": "Podul Médéric-Martin este un pod care traversează Rivière des Prairies în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.712076,
+                        45.540269
+                  ]
+            },
+            {
+                  "name": "Parc Ahuntsic",
+                  "text": "Parcul Ahuntsic este un parc mare în cartierul Ahuntsic din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.664145,
+                        45.555765
+                  ]
+            },
+            {
+                  "name": "Parc Belmont",
+                  "text": "Parcul Belmont este un fost parc de distracții din Montreal, acum un parc public.",
+                  "category": "park",
+                  "coords": [
+                        -73.725626,
+                        45.533216
+                  ]
+            },
+            {
+                  "name": "Parc Jarry",
+                  "text": "Parcul Jarry este un parc public mare în districtul Villeray–Saint-Michel–Parc-Extension din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.628692,
+                        45.535381
+                  ]
+            },
+            {
+                  "name": "Parc Toto-Bissainthe",
+                  "text": "Mini-Parcul Toto-Bissainthe este un mic parc din Montreal, numit după actrița Toto Bissainthe.",
+                  "category": "park",
+                  "coords": [
+                        -73.610406,
+                        45.525101
+                  ]
+            },
+            {
+                  "name": "Parc Westmount",
+                  "text": "Parcul Westmount este un parc mare în Westmount, Montreal, cu facilități sportive și un iaz.",
+                  "category": "park",
+                  "coords": [
+                        -73.59727,
+                        45.481059
+                  ]
+            },
+            {
+                  "name": "Parc René-Lévesque",
+                  "text": "Parc René-Lévesque este un parc în zona reperelor Saint-Joseph's Oratory, numit după un fost premier al Québecului.",
+                  "category": "park",
+                  "coords": [
+                        -73.679651,
+                        45.428614
+                  ]
+            },
+            {
+                  "name": "Parc Angrignon",
+                  "text": "Parc Angrignon este un parc în zona reperelor Saint-Joseph's Oratory.",
+                  "category": "park",
+                  "coords": [
+                        -73.602913,
+                        45.442183
+                  ]
+            },
+            {
+                  "name": "Parc des Rapides",
+                  "text": "Parc des Rapides este un parc în zona reperelor Saint-Joseph's Oratory, oferind vedere asupra rapidelor Lachine.",
+                  "category": "park",
+                  "coords": [
+                        -73.595702,
+                        45.426038
+                  ]
+            },
+            {
+                  "name": "Parc Riverside",
+                  "text": "Parc Riverside este un parc în zona reperelor Saint-Joseph's Oratory, de-a lungul fluviului Saint-Laurent.",
+                  "category": "park",
+                  "coords": [
+                        -73.611702,
+                        45.420894
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs de l'Île-aux-Hérons",
+                  "text": "Sanctuarul de păsări migratoare Île aux Hérons este o rezervație naturală în zona reperelor Saint-Joseph's Oratory, pe o insulă pentru păsări migratoare.",
+                  "category": "natural",
+                  "coords": [
+                        -73.582584,
+                        45.418864
+                  ]
+            },
+            {
+                  "name": "Shaare Zedek Congregation",
+                  "text": "Shaare Zedek Congregation este un locaș de cult în zona reperelor Saint-Joseph's Oratory, o sinagogă a comunității evreiești.",
+                  "category": "religious",
+                  "coords": [
+                        -73.648949,
+                        45.46716
+                  ]
+            },
+            {
+                  "name": "Congregation Beth Ora",
+                  "text": "Congregation Beth Ora este un locaș de cult în zona reperelor Saint-Joseph's Oratory, o sinagogă.",
+                  "category": "religious",
+                  "coords": [
+                        -73.688659,
+                        45.497131
+                  ]
+            },
+            {
+                  "name": "Marché Jean Talon",
+                  "text": "Piața Jean Talon este o piață în zona reperelor Saint-Joseph's Oratory, una dintre cele mai vechi piețe publice din Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.615061,
+                        45.535913
+                  ]
+            },
+            {
+                  "name": "Musée Armand-Frappier",
+                  "text": "Musée Armand-Frappier este un muzeu în zona reperelor Saint-Joseph's Oratory, dedicat științei.",
+                  "category": "museum",
+                  "coords": [
+                        -73.716184,
+                        45.54086
+                  ]
+            },
+            {
+                  "name": "Maison Etienne Nivard de Saint-Dizier",
+                  "text": "Maison Etienne Nivard de Saint-Dizier este un muzeu în zona reperelor Saint-Joseph's Oratory, o casă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -73.582874,
+                        45.4374
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville de Westmount",
+                  "text": "Westmount City Hall este primăria localității Westmount în zona reperelor Saint-Joseph's Oratory.",
+                  "category": "historical",
+                  "coords": [
+                        -73.59672,
+                        45.485577
+                  ]
+            },
+            {
+                  "name": "Salle Claude-Champagne",
+                  "text": "Salle Claude-Champagne este un teatru în zona reperelor Saint-Joseph's Oratory.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.609083,
+                        45.509091
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine-Sophie-Barat",
+                  "text": "Église Sainte-Madeleine-Sophie-Barat este un locaș de cult în zona reperelor Saint-Joseph's Oratory, o biserică dedicată Sfintei Madeleine Sophie Barat.",
+                  "category": "religious",
+                  "coords": [
+                        -73.666493,
+                        45.560269
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Église Sainte-Madeleine este un locaș de cult în zona reperelor Saint-Joseph's Oratory.",
+                  "category": "religious",
+                  "coords": [
+                        -73.613146,
+                        45.520135
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des maîtres et artisans du Québec",
+                  "text": "The Musée des maîtres et artisans du Québec is a museum in Montreal dedicated to Quebec crafts and master artisans.",
+                  "category": "museum",
+                  "coords": [
+                        -73.671333,
+                        45.511693
+                  ]
+            },
+            {
+                  "name": "The Oratory Museum",
+                  "text": "The Oratory Museum at Saint Joseph's Oratory in Montreal displays artifacts related to the basilica and Brother André.",
+                  "category": "museum",
+                  "coords": [
+                        -73.617264,
+                        45.492442
+                  ]
+            },
+            {
+                  "name": "Musée des ondes Emile Berliner",
+                  "text": "The Musée des ondes Emile Berliner in Montreal is a museum about the history of sound recording and Emile Berliner.",
+                  "category": "museum",
+                  "coords": [
+                        -73.592403,
+                        45.47755
+                  ]
+            },
+            {
+                  "name": "Montreal Holocaust Memorial Center",
+                  "text": "The Montreal Holocaust Memorial Center is a museum in Montreal dedicated to Holocaust education and remembrance.",
+                  "category": "museum",
+                  "coords": [
+                        -73.636368,
+                        45.488958
+                  ]
+            },
+            {
+                  "name": "The Fur Trade at Lachine National Historic Site",
+                  "text": "The Fur Trade at Lachine National Historic Site is a museum in Montreal that interprets the history of the fur trade.",
+                  "category": "museum",
+                  "coords": [
+                        -73.675535,
+                        45.431439
+                  ]
+            },
+            {
+                  "name": "Théatre Outremont",
+                  "text": "Théatre Outremont is a historic theatre in the Outremont district of Montreal, hosting performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.608597,
+                        45.519937
+                  ]
+            },
+            {
+                  "name": "Shaar Hashomayim",
+                  "text": "Shaar Hashomayim is a historic synagogue in Montreal, founded in the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        -73.59858,
+                        45.485052
+                  ]
+            },
+            {
+                  "name": "Church of the Madonna della Difesa",
+                  "text": "The Church of the Madonna della Difesa is a Catholic church in Montreal's Little Italy, known for its murals.",
+                  "category": "religious",
+                  "coords": [
+                        -73.61124,
+                        45.534874
+                  ]
+            },
+            {
+                  "name": "Temple Emanuel El Beth Shalom",
+                  "text": "Temple Emanuel El Beth Shalom is a Reform Jewish congregation in Westmount, Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590346,
+                        45.488598
+                  ]
+            },
+            {
+                  "name": "Saint-Léon de Westmount",
+                  "text": "Saint-Léon de Westmount is a Catholic church in Westmount, Montreal, built in the early 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591945,
+                        45.485393
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-Grâce",
+                  "text": "Notre-Dame-de-Grâce is a parish church in the Notre-Dame-de-Grâce neighborhood of Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.616779,
+                        45.477118
+                  ]
+            },
+            {
+                  "name": "Congregation Dorshei Emet",
+                  "text": "Congregation Dorshei Emet is a Reconstructionist synagogue in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.653183,
+                        45.486405
+                  ]
+            },
+            {
+                  "name": "Shearith Israel – Spanish and Portuguese Synagogue",
+                  "text": "Shearith Israel is the oldest synagogue in Montreal, founded by Sephardic Jews.",
+                  "category": "religious",
+                  "coords": [
+                        -73.631705,
+                        45.489806
+                  ]
+            },
+            {
+                  "name": "Église des Saints-Anges-Gardiens",
+                  "text": "Église des Saints-Anges-Gardiens is a Catholic church in Montreal's Villeray neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -73.677129,
+                        45.432962
+                  ]
+            },
+            {
+                  "name": "Pont Viau",
+                  "text": "Pont Viau is a bridge connecting Ahuntsic-Cartierville to Laval over the Rivière des Prairies in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.675346,
+                        45.557258
+                  ]
+            },
+            {
+                  "name": "Pont Médéric-Martin",
+                  "text": "Pont Médéric-Martin is a bridge crossing the Rivière des Prairies in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.712076,
+                        45.540269
+                  ]
+            },
+            {
+                  "name": "Parc Ahuntsic",
+                  "text": "Parc Ahuntsic is a large park in the Ahuntsic district of Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.664145,
+                        45.555765
+                  ]
+            },
+            {
+                  "name": "Belmont Park",
+                  "text": "Belmont Park is a former amusement park in Montreal, now a public park.",
+                  "category": "park",
+                  "coords": [
+                        -73.725626,
+                        45.533216
+                  ]
+            },
+            {
+                  "name": "Parc Jarry",
+                  "text": "Parc Jarry is a large public park in Montreal's Villeray–Saint-Michel–Parc-Extension district.",
+                  "category": "park",
+                  "coords": [
+                        -73.628692,
+                        45.535381
+                  ]
+            },
+            {
+                  "name": "Toto-Bissainthe Mini-Park",
+                  "text": "Toto-Bissainthe Mini-Park is a small park in Montreal, named after the actress Toto Bissainthe.",
+                  "category": "park",
+                  "coords": [
+                        -73.610406,
+                        45.525101
+                  ]
+            },
+            {
+                  "name": "Westmount Park",
+                  "text": "Westmount Park is a large park in Westmount, Montreal, with sports facilities and a pond.",
+                  "category": "park",
+                  "coords": [
+                        -73.59727,
+                        45.481059
+                  ]
+            },
+            {
+                  "name": "Parc René-Lévesque",
+                  "text": "Parc René-Lévesque is a park in the Saint-Joseph's Oratory landmarks area named after a former Quebec premier.",
+                  "category": "park",
+                  "coords": [
+                        -73.679651,
+                        45.428614
+                  ]
+            },
+            {
+                  "name": "Parc Angrignon",
+                  "text": "Parc Angrignon is a park in the Saint-Joseph's Oratory landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.602913,
+                        45.442183
+                  ]
+            },
+            {
+                  "name": "Parc des Rapides",
+                  "text": "Parc des Rapides is a park in the Saint-Joseph's Oratory landmarks area offering views of the Lachine Rapids.",
+                  "category": "park",
+                  "coords": [
+                        -73.595702,
+                        45.426038
+                  ]
+            },
+            {
+                  "name": "Parc Riverside",
+                  "text": "Parc Riverside is a park in the Saint-Joseph's Oratory landmarks area along the St. Lawrence River.",
+                  "category": "park",
+                  "coords": [
+                        -73.611702,
+                        45.420894
+                  ]
+            },
+            {
+                  "name": "Île aux Hérons Migratory Bird Sanctuary",
+                  "text": "Île aux Hérons Migratory Bird Sanctuary is a nature reserve in the Saint-Joseph's Oratory landmarks area on an island for migratory birds.",
+                  "category": "natural",
+                  "coords": [
+                        -73.582584,
+                        45.418864
+                  ]
+            },
+            {
+                  "name": "Shaare Zedek Congregation",
+                  "text": "Shaare Zedek Congregation is a place of worship in the Saint-Joseph's Oratory landmarks area, a synagogue serving the Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        -73.648949,
+                        45.46716
+                  ]
+            },
+            {
+                  "name": "Congregation Beth Ora",
+                  "text": "Congregation Beth Ora is a place of worship in the Saint-Joseph's Oratory landmarks area, a synagogue.",
+                  "category": "religious",
+                  "coords": [
+                        -73.688659,
+                        45.497131
+                  ]
+            },
+            {
+                  "name": "Jean Talon Market",
+                  "text": "Jean Talon Market is a marketplace in the Saint-Joseph's Oratory landmarks area, one of the oldest public markets in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.615061,
+                        45.535913
+                  ]
+            },
+            {
+                  "name": "Musée Armand-Frappier",
+                  "text": "Musée Armand-Frappier is a museum in the Saint-Joseph's Oratory landmarks area focusing on science.",
+                  "category": "museum",
+                  "coords": [
+                        -73.716184,
+                        45.54086
+                  ]
+            },
+            {
+                  "name": "Maison Etienne Nivard de Saint-Dizier",
+                  "text": "Maison Etienne Nivard de Saint-Dizier is a museum in the Saint-Joseph's Oratory landmarks area, a historic house.",
+                  "category": "museum",
+                  "coords": [
+                        -73.582874,
+                        45.4374
+                  ]
+            },
+            {
+                  "name": "Westmount City Hall",
+                  "text": "Westmount City Hall is the town hall of Westmount in the Saint-Joseph's Oratory landmarks area.",
+                  "category": "historical",
+                  "coords": [
+                        -73.59672,
+                        45.485577
+                  ]
+            },
+            {
+                  "name": "Salle Claude-Champagne",
+                  "text": "Salle Claude-Champagne is a theatre in the Saint-Joseph's Oratory landmarks area.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.609083,
+                        45.509091
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine-Sophie-Barat",
+                  "text": "Église Sainte-Madeleine-Sophie-Barat is a place of worship in the Saint-Joseph's Oratory landmarks area, a church dedicated to Saint Madeleine Sophie Barat.",
+                  "category": "religious",
+                  "coords": [
+                        -73.666493,
+                        45.560269
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Madeleine",
+                  "text": "Église Sainte-Madeleine is a place of worship in the Saint-Joseph's Oratory landmarks area.",
+                  "category": "religious",
+                  "coords": [
+                        -73.613146,
+                        45.520135
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-73.6169, 45.4926],
@@ -73,7 +1783,196 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       fr: ["Son dôme imposant surplombe Montréal", "Construit à l'initiative du frère André", "Sanctuaire catholique d'importance majeure", "Style architectural : Renaissance italienne", "Lieu de pèlerinage essentiel pour les fidèles"],
     }, image: "/poi-images/saint-josephs-oratory-landmarks-v2.webp"},
   {
-    id: "confederation-bridge-landmarks-v2",
+    id: "confederation-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Jourimain National Wildlife Area",
+                  "text": "Dieses Naturschutzgebiet in Confederation Bridge Landmarks V2 schützt die Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824529,
+                        46.151187
+                  ]
+            },
+            {
+                  "name": "Cape Jourimain Exhibit Hall",
+                  "text": "Dieses Museum in Confederation Bridge Landmarks V2 zeigt lokale Natur.",
+                  "category": "museum",
+                  "coords": [
+                        -63.814609,
+                        46.161179
+                  ]
+            },
+            {
+                  "name": "CN Borden-Carleton Interpretive Centre",
+                  "text": "Dieses Museum in Confederation Bridge Landmarks V2 interpretiert die Eisenbahngeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -63.704556,
+                        46.250254
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge Viewpoint",
+                  "text": "Dieser Aussichtspunkt in Confederation Bridge Landmarks V2 bietet einen Blick auf die Brücke.",
+                  "category": "natural",
+                  "coords": [
+                        -63.696676,
+                        46.284552
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge",
+                  "text": "Diese Brücke verbindet Prince Edward Island mit dem Festland von New Brunswick.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.758277,
+                        46.206915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Jourimain National Wildlife Area",
+                  "text": "Ez a természetvédelmi terület a Confederation Bridge Landmarks V2-ben védi a vadon élő állatokat.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824529,
+                        46.151187
+                  ]
+            },
+            {
+                  "name": "Cape Jourimain Exhibit Hall",
+                  "text": "Ez a múzeum a Confederation Bridge Landmarks V2-ben a helyi természetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -63.814609,
+                        46.161179
+                  ]
+            },
+            {
+                  "name": "CN Borden-Carleton Interpretive Centre",
+                  "text": "Ez a múzeum a Confederation Bridge Landmarks V2-ben a vasúttörténetet értelmezi.",
+                  "category": "museum",
+                  "coords": [
+                        -63.704556,
+                        46.250254
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge Viewpoint",
+                  "text": "Ez a kilátó a Confederation Bridge Landmarks V2-ben kilátást nyújt a hídra.",
+                  "category": "natural",
+                  "coords": [
+                        -63.696676,
+                        46.284552
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge",
+                  "text": "Ez a híd összeköti Prince Edward-szigetet Új-Brunswick szárazföldjével.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.758277,
+                        46.206915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Jourimain National Wildlife Area",
+                  "text": "Această rezervație naturală din Confederation Bridge Landmarks V2 protejează fauna sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824529,
+                        46.151187
+                  ]
+            },
+            {
+                  "name": "Cape Jourimain Exhibit Hall",
+                  "text": "Acest muzeu din Confederation Bridge Landmarks V2 expune natura locală.",
+                  "category": "museum",
+                  "coords": [
+                        -63.814609,
+                        46.161179
+                  ]
+            },
+            {
+                  "name": "CN Borden-Carleton Interpretive Centre",
+                  "text": "Acest muzeu din Confederation Bridge Landmarks V2 interpretează istoria căilor ferate.",
+                  "category": "museum",
+                  "coords": [
+                        -63.704556,
+                        46.250254
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge Viewpoint",
+                  "text": "Acest punct de observație din Confederation Bridge Landmarks V2 oferă vederi asupra podului.",
+                  "category": "natural",
+                  "coords": [
+                        -63.696676,
+                        46.284552
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge",
+                  "text": "Acest pod leagă Insula Prințului Eduard de continentul New Brunswick.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.758277,
+                        46.206915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Jourimain National Wildlife Area",
+                  "text": "This nature reserve in Confederation Bridge Landmarks V2 protects wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -63.824529,
+                        46.151187
+                  ]
+            },
+            {
+                  "name": "Cape Jourimain Exhibit Hall",
+                  "text": "This museum in Confederation Bridge Landmarks V2 exhibits local nature.",
+                  "category": "museum",
+                  "coords": [
+                        -63.814609,
+                        46.161179
+                  ]
+            },
+            {
+                  "name": "CN Borden-Carleton Interpretive Centre",
+                  "text": "This museum in Confederation Bridge Landmarks V2 interprets railway history.",
+                  "category": "museum",
+                  "coords": [
+                        -63.704556,
+                        46.250254
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge Viewpoint",
+                  "text": "This viewpoint in Confederation Bridge Landmarks V2 offers views of the bridge.",
+                  "category": "natural",
+                  "coords": [
+                        -63.696676,
+                        46.284552
+                  ]
+            },
+            {
+                  "name": "Confederation Bridge",
+                  "text": "This bridge connects Prince Edward Island to mainland New Brunswick.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.758277,
+                        46.206915
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-PE",
     coords: [-63.7483, 46.2081],
@@ -108,7 +2007,124 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       fr: ["Longueur : 12,9 kilomètres", "Lien entre l'Î.-P.-É. et le Nouveau-Brunswick", "Plus long pont au-dessus d'eaux glacées", "Inauguré en 1997", "Crucial pour l'économie et le tourisme de l'île", "Prouesse d'ingénierie exceptionnelle"],
     }, image: "/poi-images/confederation-bridge-landmarks-v2.webp"},
   {
-    id: "calgary-tower-landmarks-v2",
+    id: "calgary-tower-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "DJD Dance Centre",
+                  "text": "Das DJD Dance Centre ist ein Tanzzentrum in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062527,
+                        51.041234
+                  ]
+            },
+            {
+                  "name": "Vertigo Theatre",
+                  "text": "Das Vertigo Theatre ist ein Theater in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062443,
+                        51.04398
+                  ]
+            },
+            {
+                  "name": "Alberta Ballet",
+                  "text": "Das Alberta Ballet ist ein Ballettaufführungsort in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.065467,
+                        51.036793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DJD Dance Centre",
+                  "text": "A DJD Dance Centre egy táncközpont Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062527,
+                        51.041234
+                  ]
+            },
+            {
+                  "name": "Vertigo Theatre",
+                  "text": "A Vertigo Színház egy színház Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062443,
+                        51.04398
+                  ]
+            },
+            {
+                  "name": "Alberta Ballet",
+                  "text": "Az Alberta Ballet egy balettelőadási helyszín Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.065467,
+                        51.036793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DJD Dance Centre",
+                  "text": "DJD Dance Centre este un centru de dans în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062527,
+                        51.041234
+                  ]
+            },
+            {
+                  "name": "Vertigo Theatre",
+                  "text": "Teatrul Vertigo este un teatru în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062443,
+                        51.04398
+                  ]
+            },
+            {
+                  "name": "Alberta Ballet",
+                  "text": "Alberta Ballet este un loc de spectacole de balet în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.065467,
+                        51.036793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DJD Dance Centre",
+                  "text": "DJD Dance Centre is a dance centre in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062527,
+                        51.041234
+                  ]
+            },
+            {
+                  "name": "Vertigo Theatre",
+                  "text": "Vertigo Theatre is a theatre in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062443,
+                        51.04398
+                  ]
+            },
+            {
+                  "name": "Alberta Ballet",
+                  "text": "Alberta Ballet is a ballet performance venue in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.065467,
+                        51.036793
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-AB",
     coords: [-114.0631, 51.0443],
@@ -143,7 +2159,376 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       fr: ["Hauteur : 191 mètres", "Construite en 1968 pour le centenaire du Canada", "Plateforme d'observation emblématique avec sol en verre", "Symbole de la skyline de Calgary", "Construite comme symbole du développement urbain de la ville", "Vue possible sur les montagnes Rocheuses"],
     }, image: "/poi-images/calgary-tower-landmarks-v2.webp"},
   {
-    id: "rogers-centre-landmarks-v2",
+    id: "rogers-centre-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blockhouse Bay",
+                  "text": "Die Blockhouse Bay ist eine Bucht im Toronto Harbour auf den Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.388527,
+                        43.623265
+                  ]
+            },
+            {
+                  "name": "Ned Hanlan ship",
+                  "text": "Das historische Schiff Ned Hanlan ist ein Schlepper, der in Toronto liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389394,
+                        43.627975
+                  ]
+            },
+            {
+                  "name": "Rees Wave Deck",
+                  "text": "Das Rees Wave Deck ist eine wellenförmige Aussichtsplattform am Wasser in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387301,
+                        43.638487
+                  ]
+            },
+            {
+                  "name": "\"Poet's Corner\" - Music Garden",
+                  "text": "Der ‚Poet’s Corner‘ – Music Garden ist ein musikalisches Gartengelände im Toronto Music Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.394411,
+                        43.637037
+                  ]
+            },
+            {
+                  "name": "Empire Sandy",
+                  "text": "Die Empire Sandy ist ein historisches Großsegler-Schiff im Toronto Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.391667,
+                        43.636821
+                  ]
+            },
+            {
+                  "name": "Long Pond",
+                  "text": "Der Long Pond ist ein Teich auf den Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.382701,
+                        43.620166
+                  ]
+            },
+            {
+                  "name": "Musideum",
+                  "text": "Das Musideum ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.395008,
+                        43.647811
+                  ]
+            },
+            {
+                  "name": "Toronto Island Park",
+                  "text": "Der Toronto Island Park ist ein großer Park auf den Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.381403,
+                        43.62015
+                  ]
+            },
+            {
+                  "name": "HTO Beach",
+                  "text": "Der HTO Beach ist ein Stadtstrand an der Waterfront von Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.387868,
+                        43.63745
+                  ]
+            },
+            {
+                  "name": "Clarence Square",
+                  "text": "Der Clarence Square ist ein historischer Park im Stadtzentrum von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.393666,
+                        43.644141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blockhouse Bay",
+                  "text": "A Blockhouse-öböl egy öböl a Toronto Harbourben, a Toronto-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.388527,
+                        43.623265
+                  ]
+            },
+            {
+                  "name": "Ned Hanlan ship",
+                  "text": "A Ned Hanlan egy történelmi vontatóhajó, amely Torontóban horgonyoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389394,
+                        43.627975
+                  ]
+            },
+            {
+                  "name": "Rees Wave Deck",
+                  "text": "A Rees Wave Deck egy hullám alakú kilátó fedélzet Toronto vízpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387301,
+                        43.638487
+                  ]
+            },
+            {
+                  "name": "\"Poet's Corner\" - Music Garden",
+                  "text": "A „Poet’s Corner” – Music Garden egy zenei kertterület a torontói Music Gardenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.394411,
+                        43.637037
+                  ]
+            },
+            {
+                  "name": "Empire Sandy",
+                  "text": "Az Empire Sandy egy történelmi nagyvitorlás hajó a Toronto Harbourben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.391667,
+                        43.636821
+                  ]
+            },
+            {
+                  "name": "Long Pond",
+                  "text": "A Long Pond egy tó a Toronto-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.382701,
+                        43.620166
+                  ]
+            },
+            {
+                  "name": "Musideum",
+                  "text": "A Musideum egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.395008,
+                        43.647811
+                  ]
+            },
+            {
+                  "name": "Toronto Island Park",
+                  "text": "A Toronto Island Park egy nagy park a Toronto-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.381403,
+                        43.62015
+                  ]
+            },
+            {
+                  "name": "HTO Beach",
+                  "text": "A HTO Beach egy városi strand Toronto vízpartján.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.387868,
+                        43.63745
+                  ]
+            },
+            {
+                  "name": "Clarence Square",
+                  "text": "A Clarence Square egy történelmi park Toronto belvárosában.",
+                  "category": "park",
+                  "coords": [
+                        -79.393666,
+                        43.644141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blockhouse Bay",
+                  "text": "Blockhouse Bay este un golf în portul Toronto, pe insulele Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.388527,
+                        43.623265
+                  ]
+            },
+            {
+                  "name": "Ned Hanlan ship",
+                  "text": "Ned Hanlan este un remorcher istoric ancorat în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389394,
+                        43.627975
+                  ]
+            },
+            {
+                  "name": "Rees Wave Deck",
+                  "text": "Rees Wave Deck este o platformă de observație în formă de val pe malul apei din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387301,
+                        43.638487
+                  ]
+            },
+            {
+                  "name": "\"Poet's Corner\" - Music Garden",
+                  "text": "„Poet's Corner” – Music Garden este o grădină cu temă muzicală în Toronto Music Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.394411,
+                        43.637037
+                  ]
+            },
+            {
+                  "name": "Empire Sandy",
+                  "text": "Empire Sandy este o navă istorică cu vele mare ancorată în portul Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.391667,
+                        43.636821
+                  ]
+            },
+            {
+                  "name": "Long Pond",
+                  "text": "Long Pond este un iaz pe insulele Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.382701,
+                        43.620166
+                  ]
+            },
+            {
+                  "name": "Musideum",
+                  "text": "Musideum este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.395008,
+                        43.647811
+                  ]
+            },
+            {
+                  "name": "Toronto Island Park",
+                  "text": "Toronto Island Park este un parc mare pe insulele Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.381403,
+                        43.62015
+                  ]
+            },
+            {
+                  "name": "HTO Beach",
+                  "text": "HTO Beach este o plajă urbană pe malul apei din Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.387868,
+                        43.63745
+                  ]
+            },
+            {
+                  "name": "Clarence Square",
+                  "text": "Clarence Square este un parc istoric în centrul orașului Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.393666,
+                        43.644141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blockhouse Bay",
+                  "text": "Blockhouse Bay is a bay in Toronto Harbour on the Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.388527,
+                        43.623265
+                  ]
+            },
+            {
+                  "name": "Ned Hanlan ship",
+                  "text": "Ned Hanlan is a historic tugboat moored in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389394,
+                        43.627975
+                  ]
+            },
+            {
+                  "name": "Rees Wave Deck",
+                  "text": "Rees Wave Deck is a wave-shaped viewing deck on Toronto's waterfront.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387301,
+                        43.638487
+                  ]
+            },
+            {
+                  "name": "\"Poet's Corner\" - Music Garden",
+                  "text": "Poet's Corner – Music Garden is a music-themed garden area in Toronto's Music Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.394411,
+                        43.637037
+                  ]
+            },
+            {
+                  "name": "Empire Sandy",
+                  "text": "Empire Sandy is a historic tall ship berthed in Toronto Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.391667,
+                        43.636821
+                  ]
+            },
+            {
+                  "name": "Long Pond",
+                  "text": "Long Pond is a pond on the Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.382701,
+                        43.620166
+                  ]
+            },
+            {
+                  "name": "Musideum",
+                  "text": "Musideum is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.395008,
+                        43.647811
+                  ]
+            },
+            {
+                  "name": "Toronto Island Park",
+                  "text": "Toronto Island Park is a large park on the Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.381403,
+                        43.62015
+                  ]
+            },
+            {
+                  "name": "HTO Beach",
+                  "text": "HTO Beach is an urban beach on Toronto's waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.387868,
+                        43.63745
+                  ]
+            },
+            {
+                  "name": "Clarence Square",
+                  "text": "Clarence Square is a historic park in downtown Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.393666,
+                        43.644141
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.3894, 43.6414],
@@ -178,7 +2563,988 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
       fr: ["Premier stade avec un toit entièrement rétractable", "Ouvert en 1989 sous le nom de SkyDome", "Capacité jusqu'à 50 000 spectateurs", "Symbole de l'architecture moderne des stades", "Situé au cœur du centre-ville de Toronto"],
     }, image: "/poi-images/rogers-centre-landmarks-v2.webp"},
   {
-    id: "scotiabank-saddledome-landmarks-v2",
+    id: "scotiabank-saddledome-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heritage Park",
+                  "text": "Der Heritage Park in Scotiabank-Saddledome-Landmarks-v2 ist ein Park mit historischen Ausstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.107243,
+                        50.984976
+                  ]
+            },
+            {
+                  "name": "The big \"H\"",
+                  "text": "Das Denkmal „The big H” in Scotiabank-Saddledome-Landmarks-v2 ist ein großes H aus Stein.",
+                  "category": "historical",
+                  "coords": [
+                        -114.097943,
+                        50.979644
+                  ]
+            },
+            {
+                  "name": "In-Definite Arts",
+                  "text": "Das In-Definite Arts in Scotiabank-Saddledome-Landmarks-v2 ist ein Kunstzentrum für inklusive Programme.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.059287,
+                        50.982466
+                  ]
+            },
+            {
+                  "name": "Green Fools Theatre Society",
+                  "text": "Die Green Fools Theatre Society in Scotiabank-Saddledome-Landmarks-v2 ist eine Theatergruppe mit grünem Fokus.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.055548,
+                        50.992346
+                  ]
+            },
+            {
+                  "name": "Norberg Hall",
+                  "text": "Die Norberg Hall in Scotiabank-Saddledome-Landmarks-v2 ist eine Galerie in einer historischen Halle.",
+                  "category": "museum",
+                  "coords": [
+                        -114.058131,
+                        51.021257
+                  ]
+            },
+            {
+                  "name": "Coca-Cola Stage",
+                  "text": "Die Coca-Cola Stage in Scotiabank-Saddledome-Landmarks-v2 ist ein Open-Air-Theater, gesponsert von Coca-Cola.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.05727,
+                        51.033856
+                  ]
+            },
+            {
+                  "name": "Calgary Selfie Museum",
+                  "text": "Das Calgary Selfie Museum in Scotiabank-Saddledome-Landmarks-v2 ist ein Kunstzentrum mit Selfie-Fotografie.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.061346,
+                        51.038002
+                  ]
+            },
+            {
+                  "name": "Scotsman's Hill",
+                  "text": "Der Scotsman's Hill in Scotiabank-Saddledome-Landmarks-v2 ist ein Aussichtspunkt über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -114.047617,
+                        51.0365
+                  ]
+            },
+            {
+                  "name": "BMO Amphitheatre",
+                  "text": "Das BMO Amphitheatre in Scotiabank-Saddledome-Landmarks-v2 ist ein Amphitheater, benannt nach der BMO-Bank.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.048361,
+                        51.039623
+                  ]
+            },
+            {
+                  "name": "Rundle Ruins",
+                  "text": "Die Rundle Ruins in Scotiabank-Saddledome-Landmarks-v2 sind die Überreste eines historischen Gebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        -114.048846,
+                        51.040753
+                  ]
+            },
+            {
+                  "name": "The New Blank",
+                  "text": "Das The New Blank in Scotiabank-Saddledome-Landmarks-v2 ist ein Kunstzentrum mit zeitgenössischem Fokus.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.040512,
+                        51.042844
+                  ]
+            },
+            {
+                  "name": "Historic Suspension Bridge Monument",
+                  "text": "Das Historic Suspension Bridge Monument in Scotiabank-Saddledome-Landmarks-v2 erinnert an eine historische Hängebrücke.",
+                  "category": "historical",
+                  "coords": [
+                        -114.077771,
+                        51.023684
+                  ]
+            },
+            {
+                  "name": "Taytayski Gallery & Studio",
+                  "text": "Die Taytayski Gallery & Studio in Scotiabank-Saddledome-Landmarks-v2 ist eine Galerie und ein Atelier.",
+                  "category": "museum",
+                  "coords": [
+                        -114.06924,
+                        50.999478
+                  ]
+            },
+            {
+                  "name": "Variety Childrens Spray Park",
+                  "text": "Der Variety Childrens Spray Park in Scotiabank-Saddledome-Landmarks-v2 ist ein Wasserspielplatz für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.121611,
+                        50.974339
+                  ]
+            },
+            {
+                  "name": "South Glenmore Park",
+                  "text": "Der South Glenmore Park in Scotiabank-Saddledome-Landmarks-v2 ist ein großer Park am Glenmore Reservoir.",
+                  "category": "park",
+                  "coords": [
+                        -114.119541,
+                        50.97682
+                  ]
+            },
+            {
+                  "name": "The Fairgrounds",
+                  "text": "Der The Fairgrounds in Scotiabank-Saddledome-Landmarks-v2 ist ein Themenpark mit Fahrgeschäften.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.108872,
+                        50.983677
+                  ]
+            },
+            {
+                  "name": "Wolffe and McVittie Cabin",
+                  "text": "Die Wolffe and McVittie Cabin in Scotiabank-Saddledome-Landmarks-v2 ist eine historische Blockhütte, die als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -114.103944,
+                        50.987132
+                  ]
+            },
+            {
+                  "name": "Famous 5 Centre of Canadian Women",
+                  "text": "Das Famous 5 Centre of Canadian Women in Scotiabank-Saddledome-Landmarks-v2 ist ein Museum, das die Famous Five feiert.",
+                  "category": "museum",
+                  "coords": [
+                        -114.105277,
+                        50.982958
+                  ]
+            },
+            {
+                  "name": "Gasoline Alley",
+                  "text": "Das Gasoline Alley in Scotiabank-Saddledome-Landmarks-v2 ist ein Museum für Oldtimer und Benzinmotoren.",
+                  "category": "museum",
+                  "coords": [
+                        -114.102009,
+                        50.982931
+                  ]
+            },
+            {
+                  "name": "Trico Centre",
+                  "text": "Das Trico Centre in Scotiabank-Saddledome-Landmarks-v2 ist ein Wasserpark und Fitnesscenter.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.058699,
+                        50.952139
+                  ]
+            },
+            {
+                  "name": "Dean Miller Fine Arts Gallery",
+                  "text": "Die Dean Miller Fine Arts Gallery in Scotiabank-Saddledome-Landmarks-v2 ist eine Galerie für bildende Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -114.061102,
+                        51.00581
+                  ]
+            },
+            {
+                  "name": "Calgary Stampede Midway",
+                  "text": "Der Calgary Stampede Midway in Scotiabank-Saddledome-Landmarks-v2 ist der Vergnügungsbereich der Calgary Stampede.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.057079,
+                        51.035419
+                  ]
+            },
+            {
+                  "name": "Stampede Park",
+                  "text": "Der Stampede Park in Scotiabank-Saddledome-Landmarks-v2 ist der Austragungsort der jährlichen Calgary Stampede.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.053685,
+                        51.035976
+                  ]
+            },
+            {
+                  "name": "Art Point Gallery",
+                  "text": "Die Art Point Gallery in Scotiabank-Saddledome-Landmarks-v2 ist eine Kunstgalerie.",
+                  "category": "museum",
+                  "coords": [
+                        -114.037102,
+                        51.038534
+                  ]
+            },
+            {
+                  "name": "The Confluence Historic Site & Parkland",
+                  "text": "Die Confluence Historic Site & Parkland in Scotiabank-Saddledome-Landmarks-v2 ist eine historische Stätte am Zusammenfluss zweier Flüsse.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045519,
+                        51.045117
+                  ]
+            },
+            {
+                  "name": "nvrlnd.",
+                  "text": "Das nvrlnd. in Scotiabank-Saddledome-Landmarks-v2 ist ein Kunstzentrum mit kreativem Raum.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.037195,
+                        51.034823
+                  ]
+            },
+            {
+                  "name": "Stanley Park",
+                  "text": "Der Stanley Park in Scotiabank-Saddledome-Landmarks-v2 ist ein großer Stadtpark.",
+                  "category": "park",
+                  "coords": [
+                        -114.070452,
+                        51.01842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heritage Park",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Heritage Park egy park történelmi kiállításokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.107243,
+                        50.984976
+                  ]
+            },
+            {
+                  "name": "The big \"H\"",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található „The big H” emlékmű egy nagy H betűt formáz.",
+                  "category": "historical",
+                  "coords": [
+                        -114.097943,
+                        50.979644
+                  ]
+            },
+            {
+                  "name": "In-Definite Arts",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben lévő In-Definite Arts egy művészeti központ inkluzív programokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.059287,
+                        50.982466
+                  ]
+            },
+            {
+                  "name": "Green Fools Theatre Society",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben működő Green Fools Theatre Society egy színházi társaság, amely a zöld témákra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.055548,
+                        50.992346
+                  ]
+            },
+            {
+                  "name": "Norberg Hall",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Norberg Hall egy galéria egy történelmi teremben.",
+                  "category": "museum",
+                  "coords": [
+                        -114.058131,
+                        51.021257
+                  ]
+            },
+            {
+                  "name": "Coca-Cola Stage",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Coca-Cola Stage egy szabadtéri színház, amelyet a Coca-Cola szponzorál.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.05727,
+                        51.033856
+                  ]
+            },
+            {
+                  "name": "Calgary Selfie Museum",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben lévő Calgary Selfie Múzeum egy művészeti központ, amely a szelfi fényképezésre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.061346,
+                        51.038002
+                  ]
+            },
+            {
+                  "name": "Scotsman's Hill",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Scotsman's Hill egy kilátópont a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -114.047617,
+                        51.0365
+                  ]
+            },
+            {
+                  "name": "BMO Amphitheatre",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található BMO Amphitheatre egy amfiteátrum, amely a BMO bankról kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.048361,
+                        51.039623
+                  ]
+            },
+            {
+                  "name": "Rundle Ruins",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Rundle Ruins egy történelmi épület romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -114.048846,
+                        51.040753
+                  ]
+            },
+            {
+                  "name": "The New Blank",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben lévő The New Blank egy művészeti központ kortárs fókusszal.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.040512,
+                        51.042844
+                  ]
+            },
+            {
+                  "name": "Historic Suspension Bridge Monument",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Historic Suspension Bridge Monument egy történelmi függőhídra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -114.077771,
+                        51.023684
+                  ]
+            },
+            {
+                  "name": "Taytayski Gallery & Studio",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Taytayski Galéria és Stúdió egy galéria és műterem.",
+                  "category": "museum",
+                  "coords": [
+                        -114.06924,
+                        50.999478
+                  ]
+            },
+            {
+                  "name": "Variety Childrens Spray Park",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Variety Gyermek Spray Park egy gyermekek számára kialakított vízi játszótér.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.121611,
+                        50.974339
+                  ]
+            },
+            {
+                  "name": "South Glenmore Park",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található South Glenmore Park egy nagy park a Glenmore-tározó mellett.",
+                  "category": "park",
+                  "coords": [
+                        -114.119541,
+                        50.97682
+                  ]
+            },
+            {
+                  "name": "The Fairgrounds",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található The Fairgrounds egy vidámpark látványosságokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.108872,
+                        50.983677
+                  ]
+            },
+            {
+                  "name": "Wolffe and McVittie Cabin",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Wolffe and McVittie Cabin egy történelmi faház, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -114.103944,
+                        50.987132
+                  ]
+            },
+            {
+                  "name": "Famous 5 Centre of Canadian Women",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Híres 5 Kanadai Női Központ egy múzeum, amely a Famous Five-ot ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -114.105277,
+                        50.982958
+                  ]
+            },
+            {
+                  "name": "Gasoline Alley",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Gasoline Alley egy múzeum régi autók és benzinmotorok számára.",
+                  "category": "museum",
+                  "coords": [
+                        -114.102009,
+                        50.982931
+                  ]
+            },
+            {
+                  "name": "Trico Centre",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Trico Centre egy vízi park és fitneszközpont.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.058699,
+                        50.952139
+                  ]
+            },
+            {
+                  "name": "Dean Miller Fine Arts Gallery",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Dean Miller Képzőművészeti Galéria egy képzőművészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -114.061102,
+                        51.00581
+                  ]
+            },
+            {
+                  "name": "Calgary Stampede Midway",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Calgary Stampede Midway a Calgary Stampede vidámparki része.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.057079,
+                        51.035419
+                  ]
+            },
+            {
+                  "name": "Stampede Park",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Stampede Park a Calgary Stampede éves eseményének helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.053685,
+                        51.035976
+                  ]
+            },
+            {
+                  "name": "Art Point Gallery",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Art Point Galéria egy művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -114.037102,
+                        51.038534
+                  ]
+            },
+            {
+                  "name": "The Confluence Historic Site & Parkland",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Confluence Történelmi Hely és Parkterület egy történelmi helyszín két folyó találkozásánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045519,
+                        51.045117
+                  ]
+            },
+            {
+                  "name": "nvrlnd.",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található nvrlnd. egy művészeti központ kreatív térrel.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.037195,
+                        51.034823
+                  ]
+            },
+            {
+                  "name": "Stanley Park",
+                  "text": "A Scotiabank-Saddledome-Landmarks-v2-ben található Stanley Park egy nagy városi park.",
+                  "category": "park",
+                  "coords": [
+                        -114.070452,
+                        51.01842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heritage Park",
+                  "text": "Parcul Heritage din Scotiabank-Saddledome-Landmarks-v2 este un parc cu expoziții istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.107243,
+                        50.984976
+                  ]
+            },
+            {
+                  "name": "The big \"H\"",
+                  "text": "Monumentul „The big H” din Scotiabank-Saddledome-Landmarks-v2 este un H mare din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        -114.097943,
+                        50.979644
+                  ]
+            },
+            {
+                  "name": "In-Definite Arts",
+                  "text": "In-Definite Arts din Scotiabank-Saddledome-Landmarks-v2 este un centru de arte cu programe incluzive.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.059287,
+                        50.982466
+                  ]
+            },
+            {
+                  "name": "Green Fools Theatre Society",
+                  "text": "Societatea de Teatru Green Fools din Scotiabank-Saddledome-Landmarks-v2 este o trupă de teatru axată pe teme ecologice.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.055548,
+                        50.992346
+                  ]
+            },
+            {
+                  "name": "Norberg Hall",
+                  "text": "Sala Norberg din Scotiabank-Saddledome-Landmarks-v2 este o galerie într-o sală istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -114.058131,
+                        51.021257
+                  ]
+            },
+            {
+                  "name": "Coca-Cola Stage",
+                  "text": "Scena Coca-Cola din Scotiabank-Saddledome-Landmarks-v2 este un teatru în aer liber sponsorizat de Coca-Cola.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.05727,
+                        51.033856
+                  ]
+            },
+            {
+                  "name": "Calgary Selfie Museum",
+                  "text": "Muzeul Selfie Calgary din Scotiabank-Saddledome-Landmarks-v2 este un centru de arte dedicat fotografiei selfie.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.061346,
+                        51.038002
+                  ]
+            },
+            {
+                  "name": "Scotsman's Hill",
+                  "text": "Dealul Scoțianului din Scotiabank-Saddledome-Landmarks-v2 este un punct de belvedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -114.047617,
+                        51.0365
+                  ]
+            },
+            {
+                  "name": "BMO Amphitheatre",
+                  "text": "Amfiteatrul BMO din Scotiabank-Saddledome-Landmarks-v2 este un amfiteatru numit după banca BMO.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.048361,
+                        51.039623
+                  ]
+            },
+            {
+                  "name": "Rundle Ruins",
+                  "text": "Ruinele Rundle din Scotiabank-Saddledome-Landmarks-v2 sunt rămășițele unei clădiri istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -114.048846,
+                        51.040753
+                  ]
+            },
+            {
+                  "name": "The New Blank",
+                  "text": "The New Blank din Scotiabank-Saddledome-Landmarks-v2 este un centru de arte cu accent contemporan.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.040512,
+                        51.042844
+                  ]
+            },
+            {
+                  "name": "Historic Suspension Bridge Monument",
+                  "text": "Monumentul Podului Suspendat Istoric din Scotiabank-Saddledome-Landmarks-v2 comemorează un pod suspendat istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -114.077771,
+                        51.023684
+                  ]
+            },
+            {
+                  "name": "Taytayski Gallery & Studio",
+                  "text": "Galeriile și Studioul Taytayski din Scotiabank-Saddledome-Landmarks-v2 este o galerie și un atelier.",
+                  "category": "museum",
+                  "coords": [
+                        -114.06924,
+                        50.999478
+                  ]
+            },
+            {
+                  "name": "Variety Childrens Spray Park",
+                  "text": "Parcul cu Apă pentru Copii Variety din Scotiabank-Saddledome-Landmarks-v2 este un parc acvatic pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.121611,
+                        50.974339
+                  ]
+            },
+            {
+                  "name": "South Glenmore Park",
+                  "text": "Parcul South Glenmore din Scotiabank-Saddledome-Landmarks-v2 este un parc mare lângă Rezervorul Glenmore.",
+                  "category": "park",
+                  "coords": [
+                        -114.119541,
+                        50.97682
+                  ]
+            },
+            {
+                  "name": "The Fairgrounds",
+                  "text": "The Fairgrounds din Scotiabank-Saddledome-Landmarks-v2 este un parc tematic cu atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.108872,
+                        50.983677
+                  ]
+            },
+            {
+                  "name": "Wolffe and McVittie Cabin",
+                  "text": "Cabana Wolffe and McVittie din Scotiabank-Saddledome-Landmarks-v2 este o cabană istorică din bușteni, folosită ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -114.103944,
+                        50.987132
+                  ]
+            },
+            {
+                  "name": "Famous 5 Centre of Canadian Women",
+                  "text": "Centrul Famous 5 al Femeilor Canadiene din Scotiabank-Saddledome-Landmarks-v2 este un muzeu care celebrează Famous Five.",
+                  "category": "museum",
+                  "coords": [
+                        -114.105277,
+                        50.982958
+                  ]
+            },
+            {
+                  "name": "Gasoline Alley",
+                  "text": "Gasoline Alley din Scotiabank-Saddledome-Landmarks-v2 este un muzeu dedicat mașinilor de epocă și motoarelor pe benzină.",
+                  "category": "museum",
+                  "coords": [
+                        -114.102009,
+                        50.982931
+                  ]
+            },
+            {
+                  "name": "Trico Centre",
+                  "text": "Centrul Trico din Scotiabank-Saddledome-Landmarks-v2 este un parc acvatic și un centru de fitness.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.058699,
+                        50.952139
+                  ]
+            },
+            {
+                  "name": "Dean Miller Fine Arts Gallery",
+                  "text": "Galeriile de Artă Plastică Dean Miller din Scotiabank-Saddledome-Landmarks-v2 este o galerie de artă plastică.",
+                  "category": "museum",
+                  "coords": [
+                        -114.061102,
+                        51.00581
+                  ]
+            },
+            {
+                  "name": "Calgary Stampede Midway",
+                  "text": "Zona de distracții Calgary Stampede Midway din Scotiabank-Saddledome-Landmarks-v2 este partea de parc de distracții a evenimentului Calgary Stampede.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.057079,
+                        51.035419
+                  ]
+            },
+            {
+                  "name": "Stampede Park",
+                  "text": "Parcul Stampede din Scotiabank-Saddledome-Landmarks-v2 este locul unde are loc anual Calgary Stampede.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.053685,
+                        51.035976
+                  ]
+            },
+            {
+                  "name": "Art Point Gallery",
+                  "text": "Galeriile Art Point din Scotiabank-Saddledome-Landmarks-v2 este o galerie de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -114.037102,
+                        51.038534
+                  ]
+            },
+            {
+                  "name": "The Confluence Historic Site & Parkland",
+                  "text": "Situl Istoric și Parcul Confluence din Scotiabank-Saddledome-Landmarks-v2 este un sit istoric la confluența a două râuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045519,
+                        51.045117
+                  ]
+            },
+            {
+                  "name": "nvrlnd.",
+                  "text": "nvrlnd. din Scotiabank-Saddledome-Landmarks-v2 este un centru de arte cu spațiu creativ.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.037195,
+                        51.034823
+                  ]
+            },
+            {
+                  "name": "Stanley Park",
+                  "text": "Parcul Stanley din Scotiabank-Saddledome-Landmarks-v2 este un parc urban mare.",
+                  "category": "park",
+                  "coords": [
+                        -114.070452,
+                        51.01842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heritage Park",
+                  "text": "Heritage Park in Scotiabank-Saddledome-Landmarks-v2 is a park with historical exhibits.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.107243,
+                        50.984976
+                  ]
+            },
+            {
+                  "name": "The big \"H\"",
+                  "text": "The big \"H\" monument in Scotiabank-Saddledome-Landmarks-v2 is a large letter H.",
+                  "category": "historical",
+                  "coords": [
+                        -114.097943,
+                        50.979644
+                  ]
+            },
+            {
+                  "name": "In-Definite Arts",
+                  "text": "In-Definite Arts in Scotiabank-Saddledome-Landmarks-v2 is an arts centre with inclusive programming.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.059287,
+                        50.982466
+                  ]
+            },
+            {
+                  "name": "Green Fools Theatre Society",
+                  "text": "Green Fools Theatre Society in Scotiabank-Saddledome-Landmarks-v2 is a theatre society with a green focus.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.055548,
+                        50.992346
+                  ]
+            },
+            {
+                  "name": "Norberg Hall",
+                  "text": "Norberg Hall in Scotiabank-Saddledome-Landmarks-v2 is a gallery in a historic hall.",
+                  "category": "museum",
+                  "coords": [
+                        -114.058131,
+                        51.021257
+                  ]
+            },
+            {
+                  "name": "Coca-Cola Stage",
+                  "text": "Coca-Cola Stage in Scotiabank-Saddledome-Landmarks-v2 is an outdoor theatre sponsored by Coca-Cola.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.05727,
+                        51.033856
+                  ]
+            },
+            {
+                  "name": "Calgary Selfie Museum",
+                  "text": "Calgary Selfie Museum in Scotiabank-Saddledome-Landmarks-v2 is an arts centre focused on selfie photography.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.061346,
+                        51.038002
+                  ]
+            },
+            {
+                  "name": "Scotsman's Hill",
+                  "text": "Scotsman's Hill in Scotiabank-Saddledome-Landmarks-v2 is a viewpoint overlooking the city.",
+                  "category": "natural",
+                  "coords": [
+                        -114.047617,
+                        51.0365
+                  ]
+            },
+            {
+                  "name": "BMO Amphitheatre",
+                  "text": "BMO Amphitheatre in Scotiabank-Saddledome-Landmarks-v2 is an amphitheatre named after BMO bank.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.048361,
+                        51.039623
+                  ]
+            },
+            {
+                  "name": "Rundle Ruins",
+                  "text": "Rundle Ruins in Scotiabank-Saddledome-Landmarks-v2 are the ruins of a historic building.",
+                  "category": "historical",
+                  "coords": [
+                        -114.048846,
+                        51.040753
+                  ]
+            },
+            {
+                  "name": "The New Blank",
+                  "text": "The New Blank in Scotiabank-Saddledome-Landmarks-v2 is an arts centre with a contemporary focus.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.040512,
+                        51.042844
+                  ]
+            },
+            {
+                  "name": "Historic Suspension Bridge Monument",
+                  "text": "The Historic Suspension Bridge Monument in Scotiabank-Saddledome-Landmarks-v2 commemorates a historic suspension bridge.",
+                  "category": "historical",
+                  "coords": [
+                        -114.077771,
+                        51.023684
+                  ]
+            },
+            {
+                  "name": "Taytayski Gallery & Studio",
+                  "text": "Taytayski Gallery & Studio in Scotiabank-Saddledome-Landmarks-v2 is a gallery and studio.",
+                  "category": "museum",
+                  "coords": [
+                        -114.06924,
+                        50.999478
+                  ]
+            },
+            {
+                  "name": "Variety Childrens Spray Park",
+                  "text": "Variety Childrens Spray Park in Scotiabank-Saddledome-Landmarks-v2 is a water play area for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.121611,
+                        50.974339
+                  ]
+            },
+            {
+                  "name": "South Glenmore Park",
+                  "text": "South Glenmore Park in Scotiabank-Saddledome-Landmarks-v2 is a large park along the Glenmore Reservoir.",
+                  "category": "park",
+                  "coords": [
+                        -114.119541,
+                        50.97682
+                  ]
+            },
+            {
+                  "name": "The Fairgrounds",
+                  "text": "The Fairgrounds in Scotiabank-Saddledome-Landmarks-v2 is a theme park with fairground attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.108872,
+                        50.983677
+                  ]
+            },
+            {
+                  "name": "Wolffe and McVittie Cabin",
+                  "text": "The Wolffe and McVittie Cabin in Scotiabank-Saddledome-Landmarks-v2 is a historic log cabin museum.",
+                  "category": "museum",
+                  "coords": [
+                        -114.103944,
+                        50.987132
+                  ]
+            },
+            {
+                  "name": "Famous 5 Centre of Canadian Women",
+                  "text": "The Famous 5 Centre of Canadian Women in Scotiabank-Saddledome-Landmarks-v2 is a museum celebrating the Famous Five.",
+                  "category": "museum",
+                  "coords": [
+                        -114.105277,
+                        50.982958
+                  ]
+            },
+            {
+                  "name": "Gasoline Alley",
+                  "text": "Gasoline Alley in Scotiabank-Saddledome-Landmarks-v2 is a museum dedicated to vintage cars and gasoline engines.",
+                  "category": "museum",
+                  "coords": [
+                        -114.102009,
+                        50.982931
+                  ]
+            },
+            {
+                  "name": "Trico Centre",
+                  "text": "Trico Centre in Scotiabank-Saddledome-Landmarks-v2 is a water park and fitness centre.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.058699,
+                        50.952139
+                  ]
+            },
+            {
+                  "name": "Dean Miller Fine Arts Gallery",
+                  "text": "Dean Miller Fine Arts Gallery in Scotiabank-Saddledome-Landmarks-v2 is a fine arts gallery.",
+                  "category": "museum",
+                  "coords": [
+                        -114.061102,
+                        51.00581
+                  ]
+            },
+            {
+                  "name": "Calgary Stampede Midway",
+                  "text": "Calgary Stampede Midway in Scotiabank-Saddledome-Landmarks-v2 is the amusement area of the Calgary Stampede.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.057079,
+                        51.035419
+                  ]
+            },
+            {
+                  "name": "Stampede Park",
+                  "text": "Stampede Park in Scotiabank-Saddledome-Landmarks-v2 is home to the annual Calgary Stampede.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.053685,
+                        51.035976
+                  ]
+            },
+            {
+                  "name": "Art Point Gallery",
+                  "text": "Art Point Gallery in Scotiabank-Saddledome-Landmarks-v2 is an art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        -114.037102,
+                        51.038534
+                  ]
+            },
+            {
+                  "name": "The Confluence Historic Site & Parkland",
+                  "text": "The Confluence Historic Site & Parkland in Scotiabank-Saddledome-Landmarks-v2 is a historic site at the confluence of two rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045519,
+                        51.045117
+                  ]
+            },
+            {
+                  "name": "nvrlnd.",
+                  "text": "nvrlnd. in Scotiabank-Saddledome-Landmarks-v2 is an arts centre with creative space.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.037195,
+                        51.034823
+                  ]
+            },
+            {
+                  "name": "Stanley Park",
+                  "text": "Stanley Park in Scotiabank-Saddledome-Landmarks-v2 is a large urban park.",
+                  "category": "park",
+                  "coords": [
+                        -114.070452,
+                        51.01842
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-AB",
     coords: [-114.052, 51.0375],
@@ -214,7 +3580,592 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "olympic-stadium-montreal-landmarks-v2",
+    id: "olympic-stadium-montreal-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galerie MËL",
+                  "text": "Galerie MËL ist eine Galerie in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.551198,
+                        45.541138
+                  ]
+            },
+            {
+                  "name": "Anciens ateliers Angus",
+                  "text": "Anciens ateliers Angus ist eine Attraktion in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561804,
+                        45.544087
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Tour de Montréal",
+                  "text": "Der Montreal Tower Observatory ist ein Aussichtspunkt in Montreal; er ist der höchste geneigte Turm der Welt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551804,
+                        45.558392
+                  ]
+            },
+            {
+                  "name": "Parc Fernand-Gignac",
+                  "text": "Parc Fernand-Gignac ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541562,
+                        45.553332
+                  ]
+            },
+            {
+                  "name": "Saint-Jean Baptiste-de-Lasalle",
+                  "text": "Saint-Jean Baptiste-de-Lasalle ist ein Gotteshaus in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.548723,
+                        45.553261
+                  ]
+            },
+            {
+                  "name": "Parc Lalancette",
+                  "text": "Parc Lalancette ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.548559,
+                        45.548617
+                  ]
+            },
+            {
+                  "name": "Église du Très-Saint-Nom-de-Jésu",
+                  "text": "Église du Très-Saint-Nom-de-Jésu ist ein Gotteshaus in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.537327,
+                        45.55031
+                  ]
+            },
+            {
+                  "name": "Ruelle CLAN",
+                  "text": "Ruelle CLAN ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541292,
+                        45.545166
+                  ]
+            },
+            {
+                  "name": "Parc Raymond-Préfontaine",
+                  "text": "Parc Raymond-Préfontaine ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.552722,
+                        45.541769
+                  ]
+            },
+            {
+                  "name": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga",
+                  "text": "Die Église Nativité-de-la-Sainte-Vierge-d’Hochelaga ist eine römisch-katholische Kirche im Stadtteil Hochelaga-Maisonneuve in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.546295,
+                        45.541099
+                  ]
+            },
+            {
+                  "name": "Bain Mathieu",
+                  "text": "Das Bain Mathieu ist ein Theater in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.549914,
+                        45.537472
+                  ]
+            },
+            {
+                  "name": "Parc Baldwin",
+                  "text": "Der Parc Baldwin ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.567041,
+                        45.536827
+                  ]
+            },
+            {
+                  "name": "Parc Mia-Riddez-Morisset",
+                  "text": "Der Parc Mia-Riddez-Morisset ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.564607,
+                        45.544666
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Duceppe",
+                  "text": "Der Parc Jean-Duceppe ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.565995,
+                        45.543495
+                  ]
+            },
+            {
+                  "name": "Château Dufresne",
+                  "text": "Das Château Dufresne ist ein Museum in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553918,
+                        45.553879
+                  ]
+            },
+            {
+                  "name": "Parc Guido-Nincheri",
+                  "text": "Der Parc Guido-Nincheri ist ein Park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.555323,
+                        45.554295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galerie MËL",
+                  "text": "A Galerie MËL egy galéria Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.551198,
+                        45.541138
+                  ]
+            },
+            {
+                  "name": "Anciens ateliers Angus",
+                  "text": "Az Anciens ateliers Angus egy attrakció Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561804,
+                        45.544087
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Tour de Montréal",
+                  "text": "A Montreal Tower Observatory egy kilátópont Montrealban; ez a világ legmagasabb ferde tornya.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551804,
+                        45.558392
+                  ]
+            },
+            {
+                  "name": "Parc Fernand-Gignac",
+                  "text": "A Parc Fernand-Gignac egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.541562,
+                        45.553332
+                  ]
+            },
+            {
+                  "name": "Saint-Jean Baptiste-de-Lasalle",
+                  "text": "A Saint-Jean Baptiste-de-Lasalle egy istentiszteleti hely Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.548723,
+                        45.553261
+                  ]
+            },
+            {
+                  "name": "Parc Lalancette",
+                  "text": "A Parc Lalancette egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.548559,
+                        45.548617
+                  ]
+            },
+            {
+                  "name": "Église du Très-Saint-Nom-de-Jésu",
+                  "text": "Az Église du Très-Saint-Nom-de-Jésu egy istentiszteleti hely Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.537327,
+                        45.55031
+                  ]
+            },
+            {
+                  "name": "Ruelle CLAN",
+                  "text": "A Ruelle CLAN egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.541292,
+                        45.545166
+                  ]
+            },
+            {
+                  "name": "Parc Raymond-Préfontaine",
+                  "text": "A Parc Raymond-Préfontaine egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.552722,
+                        45.541769
+                  ]
+            },
+            {
+                  "name": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga",
+                  "text": "Az Église Nativité-de-la-Sainte-Vierge-d’Hochelaga egy római katolikus templom Montreal Hochelaga-Maisonneuve negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -73.546295,
+                        45.541099
+                  ]
+            },
+            {
+                  "name": "Bain Mathieu",
+                  "text": "A Bain Mathieu egy színház Montrealban.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.549914,
+                        45.537472
+                  ]
+            },
+            {
+                  "name": "Parc Baldwin",
+                  "text": "A Parc Baldwin egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.567041,
+                        45.536827
+                  ]
+            },
+            {
+                  "name": "Parc Mia-Riddez-Morisset",
+                  "text": "A Parc Mia-Riddez-Morisset egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.564607,
+                        45.544666
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Duceppe",
+                  "text": "A Parc Jean-Duceppe egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.565995,
+                        45.543495
+                  ]
+            },
+            {
+                  "name": "Château Dufresne",
+                  "text": "A Château Dufresne egy múzeum Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553918,
+                        45.553879
+                  ]
+            },
+            {
+                  "name": "Parc Guido-Nincheri",
+                  "text": "A Parc Guido-Nincheri egy park Montrealban.",
+                  "category": "park",
+                  "coords": [
+                        -73.555323,
+                        45.554295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galerie MËL",
+                  "text": "Galerie MËL este o galerie în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.551198,
+                        45.541138
+                  ]
+            },
+            {
+                  "name": "Anciens ateliers Angus",
+                  "text": "Anciens ateliers Angus este o atracție în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561804,
+                        45.544087
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Tour de Montréal",
+                  "text": "Observatorul Turnului Montreal este un punct de belvedere în Montreal, fiind cel mai înalt turn înclinat din lume.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551804,
+                        45.558392
+                  ]
+            },
+            {
+                  "name": "Parc Fernand-Gignac",
+                  "text": "Parcul Fernand-Gignac este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541562,
+                        45.553332
+                  ]
+            },
+            {
+                  "name": "Saint-Jean Baptiste-de-Lasalle",
+                  "text": "Saint-Jean Baptiste-de-Lasalle este un lăcaș de cult în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.548723,
+                        45.553261
+                  ]
+            },
+            {
+                  "name": "Parc Lalancette",
+                  "text": "Parcul Lalancette este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.548559,
+                        45.548617
+                  ]
+            },
+            {
+                  "name": "Église du Très-Saint-Nom-de-Jésu",
+                  "text": "Église du Très-Saint-Nom-de-Jésu este un lăcaș de cult în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.537327,
+                        45.55031
+                  ]
+            },
+            {
+                  "name": "Ruelle CLAN",
+                  "text": "Ruelle CLAN este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541292,
+                        45.545166
+                  ]
+            },
+            {
+                  "name": "Parc Raymond-Préfontaine",
+                  "text": "Parcul Raymond-Préfontaine este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.552722,
+                        45.541769
+                  ]
+            },
+            {
+                  "name": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga",
+                  "text": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga este o biserică romano-catolică în cartierul Hochelaga-Maisonneuve din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.546295,
+                        45.541099
+                  ]
+            },
+            {
+                  "name": "Bain Mathieu",
+                  "text": "Bain Mathieu este un teatru în Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.549914,
+                        45.537472
+                  ]
+            },
+            {
+                  "name": "Parc Baldwin",
+                  "text": "Parc Baldwin este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.567041,
+                        45.536827
+                  ]
+            },
+            {
+                  "name": "Parc Mia-Riddez-Morisset",
+                  "text": "Parc Mia-Riddez-Morisset este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.564607,
+                        45.544666
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Duceppe",
+                  "text": "Parc Jean-Duceppe este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.565995,
+                        45.543495
+                  ]
+            },
+            {
+                  "name": "Château Dufresne",
+                  "text": "Château Dufresne este un muzeu în Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553918,
+                        45.553879
+                  ]
+            },
+            {
+                  "name": "Parc Guido-Nincheri",
+                  "text": "Parc Guido-Nincheri este un parc în Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.555323,
+                        45.554295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galerie MËL",
+                  "text": "Galerie MËL is a gallery in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.551198,
+                        45.541138
+                  ]
+            },
+            {
+                  "name": "Anciens ateliers Angus",
+                  "text": "Anciens ateliers Angus is an attraction in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561804,
+                        45.544087
+                  ]
+            },
+            {
+                  "name": "Montreal Tower Observatory",
+                  "text": "Montreal Tower Observatory is a viewpoint in Montreal; it is the tallest inclined tower in the world.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551804,
+                        45.558392
+                  ]
+            },
+            {
+                  "name": "Parc Fernand-Gignac",
+                  "text": "Parc Fernand-Gignac is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541562,
+                        45.553332
+                  ]
+            },
+            {
+                  "name": "Saint-Jean Baptiste-de-Lasalle",
+                  "text": "Saint-Jean Baptiste-de-Lasalle is a place of worship in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.548723,
+                        45.553261
+                  ]
+            },
+            {
+                  "name": "Parc Lalancette",
+                  "text": "Parc Lalancette is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.548559,
+                        45.548617
+                  ]
+            },
+            {
+                  "name": "Église du Très-Saint-Nom-de-Jésu",
+                  "text": "Église du Très-Saint-Nom-de-Jésu is a place of worship in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.537327,
+                        45.55031
+                  ]
+            },
+            {
+                  "name": "Ruelle CLAN",
+                  "text": "Ruelle CLAN is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.541292,
+                        45.545166
+                  ]
+            },
+            {
+                  "name": "Parc Raymond-Préfontaine",
+                  "text": "Parc Raymond-Préfontaine is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.552722,
+                        45.541769
+                  ]
+            },
+            {
+                  "name": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga",
+                  "text": "Église Nativité-de-la-Sainte-Vierge-d’Hochelaga is a Roman Catholic church in the Hochelaga-Maisonneuve district of Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.546295,
+                        45.541099
+                  ]
+            },
+            {
+                  "name": "Bain Mathieu",
+                  "text": "Bain Mathieu is a theatre in Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.549914,
+                        45.537472
+                  ]
+            },
+            {
+                  "name": "Parc Baldwin",
+                  "text": "Parc Baldwin is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.567041,
+                        45.536827
+                  ]
+            },
+            {
+                  "name": "Parc Mia-Riddez-Morisset",
+                  "text": "Parc Mia-Riddez-Morisset is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.564607,
+                        45.544666
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Duceppe",
+                  "text": "Parc Jean-Duceppe is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.565995,
+                        45.543495
+                  ]
+            },
+            {
+                  "name": "Château Dufresne",
+                  "text": "Château Dufresne is a museum in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553918,
+                        45.553879
+                  ]
+            },
+            {
+                  "name": "Parc Guido-Nincheri",
+                  "text": "Parc Guido-Nincheri is a park in Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.555323,
+                        45.554295
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-73.5516, 45.5586],
@@ -250,7 +4201,1096 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "bc-place-stadium-landmarks-v2",
+    id: "bc-place-stadium-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vancouver Police Museum",
+                  "text": "Das Vancouver Police Museum befindet sich im ehemaligen Gerichtsmedizinischen Gebäude und zeigt die Geschichte der Polizeiarbeit in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.098189,
+                        49.282083
+                  ]
+            },
+            {
+                  "name": "Chinese Canadian Military Museum Society",
+                  "text": "Das Chinese Canadian Military Museum Society widmet sich der Geschichte des Militärdienstes chinesischstämmiger Kanadier.",
+                  "category": "museum",
+                  "coords": [
+                        -123.10261,
+                        49.279797
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Theatre",
+                  "text": "Das Queen Elizabeth Theatre ist eine große Veranstaltungshalle in Vancouver, die Oper und Ballett beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.113161,
+                        49.280313
+                  ]
+            },
+            {
+                  "name": "St. James'",
+                  "text": "St. James' ist eine anglikanische Kirche in Vancouver, bekannt für ihre neugotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -123.097205,
+                        49.28252
+                  ]
+            },
+            {
+                  "name": "Georgia Viaduct",
+                  "text": "Der Georgia Viaduct ist ein Brückenpaar, das die Innenstadt von Vancouver mit dem Gebiet südlich von False Creek verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.106315,
+                        49.277382
+                  ]
+            },
+            {
+                  "name": "Hinge Park",
+                  "text": "Der Hinge Park im Olympic Village von Vancouver ist für seine scharnierartige Form bekannt.",
+                  "category": "park",
+                  "coords": [
+                        -123.110317,
+                        49.271123
+                  ]
+            },
+            {
+                  "name": "Victory Square",
+                  "text": "Victory Square ist ein historischer Park in Vancouver mit einem Kriegerdenkmal.",
+                  "category": "park",
+                  "coords": [
+                        -123.110185,
+                        49.282199
+                  ]
+            },
+            {
+                  "name": "Doctor Sun Yat-Sen Classical Chinese Garden",
+                  "text": "Der Dr. Sun-Yat-Sen-Klassisch-Chinesische Garten ist ein Garten im Ming-Stil in Vancouvers Chinatown, der erste seiner Art außerhalb Chinas.",
+                  "category": "park",
+                  "coords": [
+                        -123.103941,
+                        49.279629
+                  ]
+            },
+            {
+                  "name": "Oppenheimer Park",
+                  "text": "Der Oppenheimer Park ist ein historischer Park im Downtown Eastside von Vancouver, oft Schauplatz von Gemeinschaftsveranstaltungen.",
+                  "category": "park",
+                  "coords": [
+                        -123.094362,
+                        49.282645
+                  ]
+            },
+            {
+                  "name": "BC Sports Hall of Fame and Museum",
+                  "text": "Die BC Sports Hall of Fame and Museum feiert die Sportgeschichte British Columbias.",
+                  "category": "museum",
+                  "coords": [
+                        -123.112443,
+                        49.277444
+                  ]
+            },
+            {
+                  "name": "Gallery Gachet",
+                  "text": "Die Gallery Gachet ist eine Kunstgalerie in Vancouver mit zeitgenössischen Werken.",
+                  "category": "museum",
+                  "coords": [
+                        -123.105081,
+                        49.281759
+                  ]
+            },
+            {
+                  "name": "Goldcorp Centre for the Arts",
+                  "text": "Das Goldcorp Centre for the Arts ist ein Kunstzentrum in Vancouver, das kulturelle Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.108081,
+                        49.282607
+                  ]
+            },
+            {
+                  "name": "The Rickshaw",
+                  "text": "The Rickshaw ist ein Theater und Live-Musik-Location in Vancouver.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.098369,
+                        49.281101
+                  ]
+            },
+            {
+                  "name": "Stanley Industrial Alliance Stage",
+                  "text": "Die Stanley Industrial Alliance Stage ist ein Theater in Vancouver, Teil des Stanley Theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.138223,
+                        49.261354
+                  ]
+            },
+            {
+                  "name": "False Creek",
+                  "text": "False Creek ist eine malerische Bucht in Vancouver, beliebt für Erholungsaktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.125135,
+                        49.272825
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge",
+                  "text": "Die Cambie Bridge ist eine Brücke über den False Creek in Vancouver und verbindet die Innenstadt mit der Cambie Street.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.114975,
+                        49.270442
+                  ]
+            },
+            {
+                  "name": "VPL: Central Library",
+                  "text": "Die Vancouver Public Library ist das öffentliche Bibliothekssystem von Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.115519,
+                        49.279692
+                  ]
+            },
+            {
+                  "name": "Dunsmuir Viaduct",
+                  "text": "Der Dunsmuir Viaduct ist ein Viadukt in Vancouver, das die Innenstadt mit dem Osten verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.105193,
+                        49.277952
+                  ]
+            },
+            {
+                  "name": "Charleson Park",
+                  "text": "Der Charleson Park ist ein Park im Fairview-Viertel von Vancouver.",
+                  "category": "park",
+                  "coords": [
+                        -123.124203,
+                        49.267261
+                  ]
+            },
+            {
+                  "name": "Wendy Poole Park",
+                  "text": "Der Wendy Poole Park ist ein Park in Vancouver, benannt nach einer Gemeinschaftsaktivistin.",
+                  "category": "park",
+                  "coords": [
+                        -123.099683,
+                        49.284303
+                  ]
+            },
+            {
+                  "name": "The Space Art Gallery",
+                  "text": "Die Space Art Gallery ist eine Kunstgalerie in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.120672,
+                        49.276394
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "Die Bau-Xi Gallery ist eine Galerie in Vancouver, die kanadische Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -123.139033,
+                        49.258494
+                  ]
+            },
+            {
+                  "name": "British Columbia Regimental Museum",
+                  "text": "Das British Columbia Regimental Museum ist ein Museum, das der Geschichte eines Regiments aus British Columbia gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -123.110805,
+                        49.279283
+                  ]
+            },
+            {
+                  "name": "Artspeak Gallery",
+                  "text": "Die Artspeak Gallery ist eine Galerie in Vancouver, die zeitgenössische und experimentelle Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104467,
+                        49.28279
+                  ]
+            },
+            {
+                  "name": "Centre of International Contemporary Art Vancouver",
+                  "text": "Das Centre of International Contemporary Art Vancouver ist eine Galerie für internationale zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -123.106489,
+                        49.283273
+                  ]
+            },
+            {
+                  "name": "Interurban Gallery",
+                  "text": "Die Interurban Gallery ist eine Kunstgalerie in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104153,
+                        49.281608
+                  ]
+            },
+            {
+                  "name": "Chinatown Storytelling Centre",
+                  "text": "Das Chinatown Storytelling Centre ist ein Museum in Vancouvers Chinatown, das Geschichten der Gemeinschaft teilt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.100783,
+                        49.280296
+                  ]
+            },
+            {
+                  "name": "Engine 374 Pavilion",
+                  "text": "Der Engine 374 Pavilion beherbergt die Lokomotive, die den ersten transkontinentalen Personenzug zog, in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.121235,
+                        49.273706
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge Ring Gear Monument",
+                  "text": "Das Cambie Bridge Ring Gear Monument ist ein Denkmal in Vancouver, das an den Bau der Cambie Bridge erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -123.117018,
+                        49.274294
+                  ]
+            },
+            {
+                  "name": "Shanghai Alley Bell",
+                  "text": "Die Shanghai Alley Bell ist ein Denkmal in bc-place-stadium-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -123.105223,
+                        49.279962
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vancouver Police Museum",
+                  "text": "A Vancouver Police Museum az egykori halottkém épületében található, és bemutatja a vancouveri rendőri munka történetét.",
+                  "category": "museum",
+                  "coords": [
+                        -123.098189,
+                        49.282083
+                  ]
+            },
+            {
+                  "name": "Chinese Canadian Military Museum Society",
+                  "text": "A Chinese Canadian Military Museum Society a kanadai kínaiak katonai szolgálatának történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -123.10261,
+                        49.279797
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Theatre",
+                  "text": "A Queen Elizabeth Theatre egy nagy előadó-művészeti központ Vancouverben, otthont adva operának és balettnek.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.113161,
+                        49.280313
+                  ]
+            },
+            {
+                  "name": "St. James'",
+                  "text": "A St. James' egy anglikán templom Vancouverben, neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -123.097205,
+                        49.28252
+                  ]
+            },
+            {
+                  "name": "Georgia Viaduct",
+                  "text": "A Georgia Viaduct egy hídpár, amely összeköti Vancouver belvárosát a False Creek déli részével.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.106315,
+                        49.277382
+                  ]
+            },
+            {
+                  "name": "Hinge Park",
+                  "text": "A Hinge Park Vancouver olimpiai falujában található, és jellegzetes, csuklószerű alakjáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -123.110317,
+                        49.271123
+                  ]
+            },
+            {
+                  "name": "Victory Square",
+                  "text": "A Victory Square egy történelmi park Vancouverben, a város fő háborús emlékművével.",
+                  "category": "park",
+                  "coords": [
+                        -123.110185,
+                        49.282199
+                  ]
+            },
+            {
+                  "name": "Doctor Sun Yat-Sen Classical Chinese Garden",
+                  "text": "A Dr. Sun Yat-Sen Klasszikus Kínai Kert egy Ming stílusú kert Vancouver kínai negyedében, az első ilyen Kínán kívül.",
+                  "category": "park",
+                  "coords": [
+                        -123.103941,
+                        49.279629
+                  ]
+            },
+            {
+                  "name": "Oppenheimer Park",
+                  "text": "Az Oppenheimer Park egy történelmi park Vancouver Downtown Eastside negyedében, gyakran ad otthont közösségi eseményeknek.",
+                  "category": "park",
+                  "coords": [
+                        -123.094362,
+                        49.282645
+                  ]
+            },
+            {
+                  "name": "BC Sports Hall of Fame and Museum",
+                  "text": "A BC Sports Hall of Fame and Museum Brit Columbia sporttörténetének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -123.112443,
+                        49.277444
+                  ]
+            },
+            {
+                  "name": "Gallery Gachet",
+                  "text": "A Gallery Gachet egy művészeti galéria Vancouverben, kortárs alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -123.105081,
+                        49.281759
+                  ]
+            },
+            {
+                  "name": "Goldcorp Centre for the Arts",
+                  "text": "A Goldcorp Centre for the Arts egy művészeti központ Vancouverben, kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.108081,
+                        49.282607
+                  ]
+            },
+            {
+                  "name": "The Rickshaw",
+                  "text": "A The Rickshaw egy színház és élőzenei helyszín Vancouverben.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.098369,
+                        49.281101
+                  ]
+            },
+            {
+                  "name": "Stanley Industrial Alliance Stage",
+                  "text": "A Stanley Industrial Alliance Stage egy színház Vancouverben, a Stanley Theatre része.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.138223,
+                        49.261354
+                  ]
+            },
+            {
+                  "name": "False Creek",
+                  "text": "A False Creek egy festői öböl Vancouverben, népszerű a szabadidős tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.125135,
+                        49.272825
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge",
+                  "text": "A Cambie Bridge egy híd a False Creek felett Vancouverben, összekötve a belvárost a Cambie utcával.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.114975,
+                        49.270442
+                  ]
+            },
+            {
+                  "name": "VPL: Central Library",
+                  "text": "A Vancouver Public Library Vancouver nyilvános könyvtári rendszere.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.115519,
+                        49.279692
+                  ]
+            },
+            {
+                  "name": "Dunsmuir Viaduct",
+                  "text": "A Dunsmuir Viaduct egy felüljáró Vancouverben, amely összeköti a belvárost a keleti részekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.105193,
+                        49.277952
+                  ]
+            },
+            {
+                  "name": "Charleson Park",
+                  "text": "A Charleson Park egy park Vancouver Fairview negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -123.124203,
+                        49.267261
+                  ]
+            },
+            {
+                  "name": "Wendy Poole Park",
+                  "text": "A Wendy Poole Park egy park Vancouverben, egy közösségi aktivistáról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -123.099683,
+                        49.284303
+                  ]
+            },
+            {
+                  "name": "The Space Art Gallery",
+                  "text": "A Space Art Gallery egy művészeti galéria Vancouverben.",
+                  "category": "museum",
+                  "coords": [
+                        -123.120672,
+                        49.276394
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "A Bau-Xi Gallery egy galéria Vancouverben, kanadai művészek munkáit bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -123.139033,
+                        49.258494
+                  ]
+            },
+            {
+                  "name": "British Columbia Regimental Museum",
+                  "text": "A British Columbia Regimental Museum egy múzeum, amely egy brit columbiai ezred történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.110805,
+                        49.279283
+                  ]
+            },
+            {
+                  "name": "Artspeak Gallery",
+                  "text": "Az Artspeak Gallery egy galéria Vancouverben, amely kortárs és kísérleti művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104467,
+                        49.28279
+                  ]
+            },
+            {
+                  "name": "Centre of International Contemporary Art Vancouver",
+                  "text": "A Centre of International Contemporary Art Vancouver egy galéria nemzetközi kortárs művészet számára.",
+                  "category": "museum",
+                  "coords": [
+                        -123.106489,
+                        49.283273
+                  ]
+            },
+            {
+                  "name": "Interurban Gallery",
+                  "text": "Az Interurban Gallery egy művészeti galéria Vancouverben.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104153,
+                        49.281608
+                  ]
+            },
+            {
+                  "name": "Chinatown Storytelling Centre",
+                  "text": "A Chinatown Storytelling Centre egy múzeum Vancouver kínai negyedében, amely a közösség történeteit osztja meg.",
+                  "category": "museum",
+                  "coords": [
+                        -123.100783,
+                        49.280296
+                  ]
+            },
+            {
+                  "name": "Engine 374 Pavilion",
+                  "text": "Az Engine 374 Pavilion Vancouverben található, és azt a mozdonyt őrzi, amely az első transzkontinentális személyvonatot húzta.",
+                  "category": "museum",
+                  "coords": [
+                        -123.121235,
+                        49.273706
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge Ring Gear Monument",
+                  "text": "A Cambie Bridge Ring Gear Monument egy emlékmű Vancouverben, amely a Cambie Bridge építésére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -123.117018,
+                        49.274294
+                  ]
+            },
+            {
+                  "name": "Shanghai Alley Bell",
+                  "text": "A Shanghai Alley Bell egy emlékmű bc-place-stadium-landmarks-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -123.105223,
+                        49.279962
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vancouver Police Museum",
+                  "text": "Muzeul Poliției din Vancouver se află în fosta clădire a medicului legist și prezintă istoria poliției din Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.098189,
+                        49.282083
+                  ]
+            },
+            {
+                  "name": "Chinese Canadian Military Museum Society",
+                  "text": "Societatea Muzeului Militar Chinez-Canadian se concentrează pe istoria serviciului militar al canadianilor de origine chineză.",
+                  "category": "museum",
+                  "coords": [
+                        -123.10261,
+                        49.279797
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Theatre",
+                  "text": "Teatrul Regina Elisabeta este o mare sală de spectacole din Vancouver, găzduind operă și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.113161,
+                        49.280313
+                  ]
+            },
+            {
+                  "name": "St. James'",
+                  "text": "Biserica St. James' este o biserică anglicană din Vancouver, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        -123.097205,
+                        49.28252
+                  ]
+            },
+            {
+                  "name": "Georgia Viaduct",
+                  "text": "Georgia Viaduct este o pereche de poduri care leagă centrul orașului Vancouver de zona de sud a False Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.106315,
+                        49.277382
+                  ]
+            },
+            {
+                  "name": "Hinge Park",
+                  "text": "Parcul Hinge din Satul Olimpic din Vancouver este cunoscut pentru forma sa de balama.",
+                  "category": "park",
+                  "coords": [
+                        -123.110317,
+                        49.271123
+                  ]
+            },
+            {
+                  "name": "Victory Square",
+                  "text": "Victory Square este un parc istoric din Vancouver, găzduind principalul monument al orașului dedicat războiului.",
+                  "category": "park",
+                  "coords": [
+                        -123.110185,
+                        49.282199
+                  ]
+            },
+            {
+                  "name": "Doctor Sun Yat-Sen Classical Chinese Garden",
+                  "text": "Grădina Clasică Chineză Dr. Sun Yat-Sen este o grădină în stil Ming din Chinatown-ul Vancouverului, prima de acest fel în afara Chinei.",
+                  "category": "park",
+                  "coords": [
+                        -123.103941,
+                        49.279629
+                  ]
+            },
+            {
+                  "name": "Oppenheimer Park",
+                  "text": "Parcul Oppenheimer este un parc istoric din cartierul Downtown Eastside din Vancouver, găzduind adesea evenimente comunitare.",
+                  "category": "park",
+                  "coords": [
+                        -123.094362,
+                        49.282645
+                  ]
+            },
+            {
+                  "name": "BC Sports Hall of Fame and Museum",
+                  "text": "Galeria de Onoare și Muzeul Sportului din Columbia Britanică celebrează istoria sportului din provincia canadiană.",
+                  "category": "museum",
+                  "coords": [
+                        -123.112443,
+                        49.277444
+                  ]
+            },
+            {
+                  "name": "Gallery Gachet",
+                  "text": "Galeria Gachet este o galerie de artă din Vancouver, cu lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -123.105081,
+                        49.281759
+                  ]
+            },
+            {
+                  "name": "Goldcorp Centre for the Arts",
+                  "text": "Centrul de Arte Goldcorp este un centru artistic din Vancouver care găzduiește evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.108081,
+                        49.282607
+                  ]
+            },
+            {
+                  "name": "The Rickshaw",
+                  "text": "The Rickshaw este un teatru și loc de muzică live din Vancouver.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.098369,
+                        49.281101
+                  ]
+            },
+            {
+                  "name": "Stanley Industrial Alliance Stage",
+                  "text": "Stanley Industrial Alliance Stage este un teatru din Vancouver, parte a Stanley Theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.138223,
+                        49.261354
+                  ]
+            },
+            {
+                  "name": "False Creek",
+                  "text": "False Creek este un golf pitoresc din Vancouver, popular pentru activități recreative.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.125135,
+                        49.272825
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge",
+                  "text": "Podul Cambie este un pod peste False Creek din Vancouver, care leagă centrul orașului de strada Cambie.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.114975,
+                        49.270442
+                  ]
+            },
+            {
+                  "name": "VPL: Central Library",
+                  "text": "Biblioteca Publică din Vancouver este sistemul de biblioteci publice al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.115519,
+                        49.279692
+                  ]
+            },
+            {
+                  "name": "Dunsmuir Viaduct",
+                  "text": "Viaductul Dunsmuir este un viaduct din Vancouver care leagă centrul orașului de est.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.105193,
+                        49.277952
+                  ]
+            },
+            {
+                  "name": "Charleson Park",
+                  "text": "Parcul Charleson este un parc din cartierul Fairview din Vancouver.",
+                  "category": "park",
+                  "coords": [
+                        -123.124203,
+                        49.267261
+                  ]
+            },
+            {
+                  "name": "Wendy Poole Park",
+                  "text": "Parcul Wendy Poole este un parc din Vancouver, numit după o activistă comunitară.",
+                  "category": "park",
+                  "coords": [
+                        -123.099683,
+                        49.284303
+                  ]
+            },
+            {
+                  "name": "The Space Art Gallery",
+                  "text": "Galeria Space Art este o galerie de artă din Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.120672,
+                        49.276394
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "Galeria Bau-Xi este o galerie din Vancouver care prezintă artiști canadieni.",
+                  "category": "museum",
+                  "coords": [
+                        -123.139033,
+                        49.258494
+                  ]
+            },
+            {
+                  "name": "British Columbia Regimental Museum",
+                  "text": "Muzeul Regimental din Columbia Britanică este un muzeu dedicat istoriei unui regiment din provincia canadiană.",
+                  "category": "museum",
+                  "coords": [
+                        -123.110805,
+                        49.279283
+                  ]
+            },
+            {
+                  "name": "Artspeak Gallery",
+                  "text": "Galeria Artspeak este o galerie din Vancouver care prezintă artă contemporană și experimentală.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104467,
+                        49.28279
+                  ]
+            },
+            {
+                  "name": "Centre of International Contemporary Art Vancouver",
+                  "text": "Centrul de Artă Contemporană Internațională Vancouver este o galerie pentru artă contemporană internațională.",
+                  "category": "museum",
+                  "coords": [
+                        -123.106489,
+                        49.283273
+                  ]
+            },
+            {
+                  "name": "Interurban Gallery",
+                  "text": "Galeria Interurban este o galerie de artă din Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104153,
+                        49.281608
+                  ]
+            },
+            {
+                  "name": "Chinatown Storytelling Centre",
+                  "text": "Centrul de Povestiri Chinatown este un muzeu din Chinatown-ul Vancouverului care împărtășește poveștile comunității.",
+                  "category": "museum",
+                  "coords": [
+                        -123.100783,
+                        49.280296
+                  ]
+            },
+            {
+                  "name": "Engine 374 Pavilion",
+                  "text": "Pavilionul Engine 374 găzduiește locomotiva care a tras primul tren de pasageri transcontinental în Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.121235,
+                        49.273706
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge Ring Gear Monument",
+                  "text": "Monumentul Ring Gear al Podului Cambie este un monument din Vancouver care comemorează construcția Podului Cambie.",
+                  "category": "historical",
+                  "coords": [
+                        -123.117018,
+                        49.274294
+                  ]
+            },
+            {
+                  "name": "Shanghai Alley Bell",
+                  "text": "Shanghai Alley Bell este un monument în bc-place-stadium-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -123.105223,
+                        49.279962
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vancouver Police Museum",
+                  "text": "The Vancouver Police Museum is housed in the former coroner's court and tells the history of policing in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.098189,
+                        49.282083
+                  ]
+            },
+            {
+                  "name": "Chinese Canadian Military Museum Society",
+                  "text": "The Chinese Canadian Military Museum Society focuses on the contributions of Chinese Canadians in the military.",
+                  "category": "museum",
+                  "coords": [
+                        -123.10261,
+                        49.279797
+                  ]
+            },
+            {
+                  "name": "Queen Elizabeth Theatre",
+                  "text": "The Queen Elizabeth Theatre is a major performing arts venue in Vancouver, hosting opera and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.113161,
+                        49.280313
+                  ]
+            },
+            {
+                  "name": "St. James'",
+                  "text": "St. James' is an Anglican church in Vancouver, known for its Gothic Revival architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -123.097205,
+                        49.28252
+                  ]
+            },
+            {
+                  "name": "Georgia Viaduct",
+                  "text": "The Georgia Viaduct is a pair of bridges linking downtown Vancouver with the area south of False Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.106315,
+                        49.277382
+                  ]
+            },
+            {
+                  "name": "Hinge Park",
+                  "text": "Hinge Park is a park in Vancouver's Olympic Village, noted for its distinctive hinge-like shape.",
+                  "category": "park",
+                  "coords": [
+                        -123.110317,
+                        49.271123
+                  ]
+            },
+            {
+                  "name": "Victory Square",
+                  "text": "Victory Square is a historic park in Vancouver, home to the city's main war memorial cenotaph.",
+                  "category": "park",
+                  "coords": [
+                        -123.110185,
+                        49.282199
+                  ]
+            },
+            {
+                  "name": "Doctor Sun Yat-Sen Classical Chinese Garden",
+                  "text": "The Dr. Sun Yat-Sen Classical Chinese Garden is a Ming-style garden in Vancouver's Chinatown, the first of its kind outside China.",
+                  "category": "park",
+                  "coords": [
+                        -123.103941,
+                        49.279629
+                  ]
+            },
+            {
+                  "name": "Oppenheimer Park",
+                  "text": "Oppenheimer Park is a historic park in Vancouver's Downtown Eastside, often hosting community gatherings.",
+                  "category": "park",
+                  "coords": [
+                        -123.094362,
+                        49.282645
+                  ]
+            },
+            {
+                  "name": "BC Sports Hall of Fame and Museum",
+                  "text": "The BC Sports Hall of Fame and Museum celebrates British Columbia's sports history.",
+                  "category": "museum",
+                  "coords": [
+                        -123.112443,
+                        49.277444
+                  ]
+            },
+            {
+                  "name": "Gallery Gachet",
+                  "text": "Gallery Gachet is an art gallery in Vancouver focusing on contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -123.105081,
+                        49.281759
+                  ]
+            },
+            {
+                  "name": "Goldcorp Centre for the Arts",
+                  "text": "The Goldcorp Centre for the Arts is an arts centre in Vancouver hosting cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.108081,
+                        49.282607
+                  ]
+            },
+            {
+                  "name": "The Rickshaw",
+                  "text": "The Rickshaw is a theatre and live music venue in Vancouver.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.098369,
+                        49.281101
+                  ]
+            },
+            {
+                  "name": "Stanley Industrial Alliance Stage",
+                  "text": "The Stanley Industrial Alliance Stage is a theatre in Vancouver, part of the Stanley Theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.138223,
+                        49.261354
+                  ]
+            },
+            {
+                  "name": "False Creek",
+                  "text": "False Creek is a scenic inlet in Vancouver, popular for recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.125135,
+                        49.272825
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge",
+                  "text": "The Cambie Bridge spans False Creek in Vancouver, connecting downtown to Cambie Street.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.114975,
+                        49.270442
+                  ]
+            },
+            {
+                  "name": "Vancouver Public Library",
+                  "text": "The Vancouver Public Library is the public library system serving Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.115519,
+                        49.279692
+                  ]
+            },
+            {
+                  "name": "Dunsmuir Viaduct",
+                  "text": "The Dunsmuir Viaduct is a viaduct in Vancouver connecting downtown to the east.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.105193,
+                        49.277952
+                  ]
+            },
+            {
+                  "name": "Charleson Park",
+                  "text": "Charleson Park is a park in Vancouver's Fairview neighbourhood.",
+                  "category": "park",
+                  "coords": [
+                        -123.124203,
+                        49.267261
+                  ]
+            },
+            {
+                  "name": "Wendy Poole Park",
+                  "text": "Wendy Poole Park is a park in Vancouver, named after a community activist.",
+                  "category": "park",
+                  "coords": [
+                        -123.099683,
+                        49.284303
+                  ]
+            },
+            {
+                  "name": "The Space Art Gallery",
+                  "text": "The Space Art Gallery is an art gallery in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.120672,
+                        49.276394
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "Bau-Xi Gallery is a gallery in Vancouver featuring Canadian artists.",
+                  "category": "museum",
+                  "coords": [
+                        -123.139033,
+                        49.258494
+                  ]
+            },
+            {
+                  "name": "British Columbia Regimental Museum",
+                  "text": "The British Columbia Regimental Museum is a museum dedicated to the history of a British Columbia regiment.",
+                  "category": "museum",
+                  "coords": [
+                        -123.110805,
+                        49.279283
+                  ]
+            },
+            {
+                  "name": "Artspeak Gallery",
+                  "text": "Artspeak Gallery is a gallery in Vancouver focusing on contemporary and experimental art.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104467,
+                        49.28279
+                  ]
+            },
+            {
+                  "name": "Centre of International Contemporary Art Vancouver",
+                  "text": "The Centre of International Contemporary Art Vancouver is a gallery showcasing international contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        -123.106489,
+                        49.283273
+                  ]
+            },
+            {
+                  "name": "Interurban Gallery",
+                  "text": "The Interurban Gallery is an art gallery in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.104153,
+                        49.281608
+                  ]
+            },
+            {
+                  "name": "Chinatown Storytelling Centre",
+                  "text": "The Chinatown Storytelling Centre is a museum in Vancouver's Chinatown that shares stories of the community.",
+                  "category": "museum",
+                  "coords": [
+                        -123.100783,
+                        49.280296
+                  ]
+            },
+            {
+                  "name": "Engine 374 Pavilion",
+                  "text": "The Engine 374 Pavilion houses the locomotive that pulled the first transcontinental passenger train in Vancouver.",
+                  "category": "museum",
+                  "coords": [
+                        -123.121235,
+                        49.273706
+                  ]
+            },
+            {
+                  "name": "Cambie Bridge Ring Gear Monument",
+                  "text": "The Cambie Bridge Ring Gear Monument is a monument in Vancouver commemorating the construction of the Cambie Bridge.",
+                  "category": "historical",
+                  "coords": [
+                        -123.117018,
+                        49.274294
+                  ]
+            },
+            {
+                  "name": "Shanghai Alley Bell",
+                  "text": "The Shanghai Alley Bell is a monument in bc-place-stadium-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -123.105223,
+                        49.279962
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-BC",
     coords: [-123.112, 49.2767],
@@ -286,7 +5326,1276 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "habitat-67-landmarks-v2",
+    id: "habitat-67-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Saint-Gabriel",
+                  "text": "Die Maison Saint-Gabriel ist ein historisches Wohnhausmuseum im Stadtteil Point Saint-Charles in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.556226,
+                        45.476519
+                  ]
+            },
+            {
+                  "name": "Darling Foundry",
+                  "text": "Die Darling Foundry ist ein zeitgenössisches Kunstzentrum in einer ehemaligen Gießerei in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55676,
+                        45.497732
+                  ]
+            },
+            {
+                  "name": "Monument commémoratif irlandais",
+                  "text": "Black Rock ist ein irisches Denkmal in Montreal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.54636,
+                        45.486801
+                  ]
+            },
+            {
+                  "name": "Farine Five Roses",
+                  "text": "Die Farine Five Roses ist eine bekannte Leuchtreklame in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.550675,
+                        45.491967
+                  ]
+            },
+            {
+                  "name": "Modules Aquatiques",
+                  "text": "Die Modules Aquatiques sind ein Wasserpark in Montreal.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524169,
+                        45.500529
+                  ]
+            },
+            {
+                  "name": "Salut Gilles",
+                  "text": "Salut Gilles (starting line) ist ein Startpunkt in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.522709,
+                        45.500082
+                  ]
+            },
+            {
+                  "name": "Pointe du Parc St-Laurent",
+                  "text": "Ein Aussichtspunkt im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.496722,
+                        45.45877
+                  ]
+            },
+            {
+                  "name": "iSaute Brossard",
+                  "text": "Eine Attraktion im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.470839,
+                        45.444421
+                  ]
+            },
+            {
+                  "name": "Goplex e-Karting +",
+                  "text": "Eine Attraktion im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.471485,
+                        45.443402
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux La Prairie",
+                  "text": "Ein Theater im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.496304,
+                        45.419536
+                  ]
+            },
+            {
+                  "name": "Plage urbaine de Verdun",
+                  "text": "Ein Strand im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.560206,
+                        45.462333
+                  ]
+            },
+            {
+                  "name": "Parc de l'Orée-du-Fleuve",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.550696,
+                        45.448996
+                  ]
+            },
+            {
+                  "name": "Parc Maynard-Ferguson",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.557794,
+                        45.447653
+                  ]
+            },
+            {
+                  "name": "Parc Arthur-Therrien",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.560997,
+                        45.466778
+                  ]
+            },
+            {
+                  "name": "Parc Marguerite-Bourgeoys",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.558861,
+                        45.475107
+                  ]
+            },
+            {
+                  "name": "Parc Le Ber",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.554061,
+                        45.477216
+                  ]
+            },
+            {
+                  "name": "Square des Frères-Charon",
+                  "text": "Ein nach den Frères-Charon benannter Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.554746,
+                        45.499095
+                  ]
+            },
+            {
+                  "name": "Galerie Nicolas Robert",
+                  "text": "Eine Galerie im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553367,
+                        45.497384
+                  ]
+            },
+            {
+                  "name": "Ancien poste d'aiguillage du CN",
+                  "text": "Eine Attraktion im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.556407,
+                        45.49127
+                  ]
+            },
+            {
+                  "name": "Square Saint-Patrick",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.558108,
+                        45.488934
+                  ]
+            },
+            {
+                  "name": "Ruines de l'Église de Griffintown Sainte-Anne",
+                  "text": "Ruinen im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "historical",
+                  "coords": [
+                        -73.559069,
+                        45.491581
+                  ]
+            },
+            {
+                  "name": "Berge des Coursiers",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.552221,
+                        45.493873
+                  ]
+            },
+            {
+                  "name": "Pont de la Concorde",
+                  "text": "Eine Brücke namens Pont de la Concorde im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.538928,
+                        45.506034
+                  ]
+            },
+            {
+                  "name": "Habitat 67",
+                  "text": "Die bekannte Wohnanlage Habitat 67 im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.543569,
+                        45.498796
+                  ]
+            },
+            {
+                  "name": "Plage Jean-Doré",
+                  "text": "Ein Strand im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524421,
+                        45.499521
+                  ]
+            },
+            {
+                  "name": "Pont Victoria",
+                  "text": "Eine Brücke namens Pont Victoria im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.517789,
+                        45.495549
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Paul",
+                  "text": "Ein Naturschutzgebiet im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551576,
+                        45.455175
+                  ]
+            },
+            {
+                  "name": "Estacade du Pont Champlain",
+                  "text": "Eine Brücke im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.51882,
+                        45.465856
+                  ]
+            },
+            {
+                  "name": "Parc Alexandra",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.505439,
+                        45.491044
+                  ]
+            },
+            {
+                  "name": "Pont Samuel-De Champlain",
+                  "text": "Eine Brücke namens Samuel-De Champlain Bridge im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.513905,
+                        45.468979
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs des Îles-de-la-Couvée",
+                  "text": "Ein Vogelschutzgebiet im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "natural",
+                  "coords": [
+                        -73.508651,
+                        45.479372
+                  ]
+            },
+            {
+                  "name": "Parc Champlain",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.472467,
+                        45.459678
+                  ]
+            },
+            {
+                  "name": "Parc Poly-Aréna",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.45858,
+                        45.448283
+                  ]
+            },
+            {
+                  "name": "Parc Sorbonne",
+                  "text": "Ein Park im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "park",
+                  "coords": [
+                        -73.480013,
+                        45.447928
+                  ]
+            },
+            {
+                  "name": "Musée d'archéologie de Roussillon",
+                  "text": "Ein Museum im Gebiet der Habitat-67-Wahrzeichen.",
+                  "category": "museum",
+                  "coords": [
+                        -73.496704,
+                        45.420599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Saint-Gabriel",
+                  "text": "A Maison Saint-Gabriel egy történelmi házmúzeum Montreal Point Saint-Charles negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -73.556226,
+                        45.476519
+                  ]
+            },
+            {
+                  "name": "Darling Foundry",
+                  "text": "A Darling Foundry egy kortárs művészeti központ egy egykori öntödében Montrealban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55676,
+                        45.497732
+                  ]
+            },
+            {
+                  "name": "Monument commémoratif irlandais",
+                  "text": "Black Rock egy ír emlékmű Montrealban.",
+                  "category": "historical",
+                  "coords": [
+                        -73.54636,
+                        45.486801
+                  ]
+            },
+            {
+                  "name": "Farine Five Roses",
+                  "text": "A Farine Five Roses egy híres neonreklám Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.550675,
+                        45.491967
+                  ]
+            },
+            {
+                  "name": "Modules Aquatiques",
+                  "text": "A Modules Aquatiques egy vízipark Montrealban.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524169,
+                        45.500529
+                  ]
+            },
+            {
+                  "name": "Salut Gilles",
+                  "text": "Salut Gilles (starting line) egy rajthely Montrealban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.522709,
+                        45.500082
+                  ]
+            },
+            {
+                  "name": "Pointe du Parc St-Laurent",
+                  "text": "Egy kilátópont a Habitat-67 nevezetességek területén.",
+                  "category": "natural",
+                  "coords": [
+                        -73.496722,
+                        45.45877
+                  ]
+            },
+            {
+                  "name": "iSaute Brossard",
+                  "text": "Egy attrakció a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.470839,
+                        45.444421
+                  ]
+            },
+            {
+                  "name": "Goplex e-Karting +",
+                  "text": "Egy attrakció a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.471485,
+                        45.443402
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux La Prairie",
+                  "text": "Egy színház a Habitat-67 nevezetességek területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.496304,
+                        45.419536
+                  ]
+            },
+            {
+                  "name": "Plage urbaine de Verdun",
+                  "text": "Egy strand a Habitat-67 nevezetességek területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.560206,
+                        45.462333
+                  ]
+            },
+            {
+                  "name": "Parc de l'Orée-du-Fleuve",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.550696,
+                        45.448996
+                  ]
+            },
+            {
+                  "name": "Parc Maynard-Ferguson",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.557794,
+                        45.447653
+                  ]
+            },
+            {
+                  "name": "Parc Arthur-Therrien",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.560997,
+                        45.466778
+                  ]
+            },
+            {
+                  "name": "Parc Marguerite-Bourgeoys",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.558861,
+                        45.475107
+                  ]
+            },
+            {
+                  "name": "Parc Le Ber",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.554061,
+                        45.477216
+                  ]
+            },
+            {
+                  "name": "Square des Frères-Charon",
+                  "text": "A Frères-Charonról elnevezett park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.554746,
+                        45.499095
+                  ]
+            },
+            {
+                  "name": "Galerie Nicolas Robert",
+                  "text": "Egy galéria a Habitat-67 nevezetességek területén.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553367,
+                        45.497384
+                  ]
+            },
+            {
+                  "name": "Ancien poste d'aiguillage du CN",
+                  "text": "Egy attrakció a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.556407,
+                        45.49127
+                  ]
+            },
+            {
+                  "name": "Square Saint-Patrick",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.558108,
+                        45.488934
+                  ]
+            },
+            {
+                  "name": "Ruines de l'Église de Griffintown Sainte-Anne",
+                  "text": "Romok a Habitat-67 nevezetességek területén.",
+                  "category": "historical",
+                  "coords": [
+                        -73.559069,
+                        45.491581
+                  ]
+            },
+            {
+                  "name": "Berge des Coursiers",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.552221,
+                        45.493873
+                  ]
+            },
+            {
+                  "name": "Pont de la Concorde",
+                  "text": "A Pont de la Concorde híd a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.538928,
+                        45.506034
+                  ]
+            },
+            {
+                  "name": "Habitat 67",
+                  "text": "A híres Habitat 67 lakóépület a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.543569,
+                        45.498796
+                  ]
+            },
+            {
+                  "name": "Plage Jean-Doré",
+                  "text": "Egy strand a Habitat-67 nevezetességek területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524421,
+                        45.499521
+                  ]
+            },
+            {
+                  "name": "Pont Victoria",
+                  "text": "A Pont Victoria híd a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.517789,
+                        45.495549
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Paul",
+                  "text": "Egy természetvédelmi terület a Habitat-67 nevezetességek területén.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551576,
+                        45.455175
+                  ]
+            },
+            {
+                  "name": "Estacade du Pont Champlain",
+                  "text": "Egy híd a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.51882,
+                        45.465856
+                  ]
+            },
+            {
+                  "name": "Parc Alexandra",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.505439,
+                        45.491044
+                  ]
+            },
+            {
+                  "name": "Pont Samuel-De Champlain",
+                  "text": "A Samuel-De Champlain híd a Habitat-67 nevezetességek területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.513905,
+                        45.468979
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs des Îles-de-la-Couvée",
+                  "text": "Egy madárrezervátum a Habitat-67 nevezetességek területén.",
+                  "category": "natural",
+                  "coords": [
+                        -73.508651,
+                        45.479372
+                  ]
+            },
+            {
+                  "name": "Parc Champlain",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.472467,
+                        45.459678
+                  ]
+            },
+            {
+                  "name": "Parc Poly-Aréna",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.45858,
+                        45.448283
+                  ]
+            },
+            {
+                  "name": "Parc Sorbonne",
+                  "text": "Egy park a Habitat-67 nevezetességek területén.",
+                  "category": "park",
+                  "coords": [
+                        -73.480013,
+                        45.447928
+                  ]
+            },
+            {
+                  "name": "Musée d'archéologie de Roussillon",
+                  "text": "Egy múzeum a Habitat-67 nevezetességek területén.",
+                  "category": "museum",
+                  "coords": [
+                        -73.496704,
+                        45.420599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Saint-Gabriel",
+                  "text": "Maison Saint-Gabriel este un muzeu de casă istorică în cartierul Point Saint-Charles din Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.556226,
+                        45.476519
+                  ]
+            },
+            {
+                  "name": "Darling Foundry",
+                  "text": "Darling Foundry este un centru de artă contemporană într-o fostă turnătorie din Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55676,
+                        45.497732
+                  ]
+            },
+            {
+                  "name": "Monument commémoratif irlandais",
+                  "text": "Black Rock este un monument irlandez în Montreal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.54636,
+                        45.486801
+                  ]
+            },
+            {
+                  "name": "Farine Five Roses",
+                  "text": "Farine Five Roses este un panou neon celebru în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.550675,
+                        45.491967
+                  ]
+            },
+            {
+                  "name": "Modules Aquatiques",
+                  "text": "Modules Aquatiques este un parc acvatic în Montreal.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524169,
+                        45.500529
+                  ]
+            },
+            {
+                  "name": "Salut Gilles",
+                  "text": "Salut Gilles (starting line) este un punct de start în Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.522709,
+                        45.500082
+                  ]
+            },
+            {
+                  "name": "Pointe du Parc St-Laurent",
+                  "text": "Un punct de belvedere în zona reperelor Habitat-67.",
+                  "category": "natural",
+                  "coords": [
+                        -73.496722,
+                        45.45877
+                  ]
+            },
+            {
+                  "name": "iSaute Brossard",
+                  "text": "O atracție în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.470839,
+                        45.444421
+                  ]
+            },
+            {
+                  "name": "Goplex e-Karting +",
+                  "text": "O atracție în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.471485,
+                        45.443402
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux La Prairie",
+                  "text": "Un teatru în zona reperelor Habitat-67.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.496304,
+                        45.419536
+                  ]
+            },
+            {
+                  "name": "Plage urbaine de Verdun",
+                  "text": "O plajă în zona reperelor Habitat-67.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.560206,
+                        45.462333
+                  ]
+            },
+            {
+                  "name": "Parc de l'Orée-du-Fleuve",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.550696,
+                        45.448996
+                  ]
+            },
+            {
+                  "name": "Parc Maynard-Ferguson",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.557794,
+                        45.447653
+                  ]
+            },
+            {
+                  "name": "Parc Arthur-Therrien",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.560997,
+                        45.466778
+                  ]
+            },
+            {
+                  "name": "Parc Marguerite-Bourgeoys",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.558861,
+                        45.475107
+                  ]
+            },
+            {
+                  "name": "Parc Le Ber",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.554061,
+                        45.477216
+                  ]
+            },
+            {
+                  "name": "Square des Frères-Charon",
+                  "text": "Un parc numit după Frații Charon în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.554746,
+                        45.499095
+                  ]
+            },
+            {
+                  "name": "Galerie Nicolas Robert",
+                  "text": "O galerie în zona reperelor Habitat-67.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553367,
+                        45.497384
+                  ]
+            },
+            {
+                  "name": "Ancien poste d'aiguillage du CN",
+                  "text": "O atracție în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.556407,
+                        45.49127
+                  ]
+            },
+            {
+                  "name": "Square Saint-Patrick",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.558108,
+                        45.488934
+                  ]
+            },
+            {
+                  "name": "Ruines de l'Église de Griffintown Sainte-Anne",
+                  "text": "Ruine în zona reperelor Habitat-67.",
+                  "category": "historical",
+                  "coords": [
+                        -73.559069,
+                        45.491581
+                  ]
+            },
+            {
+                  "name": "Berge des Coursiers",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.552221,
+                        45.493873
+                  ]
+            },
+            {
+                  "name": "Pont de la Concorde",
+                  "text": "Podul Pont de la Concorde în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.538928,
+                        45.506034
+                  ]
+            },
+            {
+                  "name": "Habitat 67",
+                  "text": "Celebrul complex rezidențial Habitat 67 în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.543569,
+                        45.498796
+                  ]
+            },
+            {
+                  "name": "Plage Jean-Doré",
+                  "text": "O plajă în zona reperelor Habitat-67.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524421,
+                        45.499521
+                  ]
+            },
+            {
+                  "name": "Pont Victoria",
+                  "text": "Podul Pont Victoria în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.517789,
+                        45.495549
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Paul",
+                  "text": "O rezervație naturală în zona reperelor Habitat-67.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551576,
+                        45.455175
+                  ]
+            },
+            {
+                  "name": "Estacade du Pont Champlain",
+                  "text": "Un pod în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.51882,
+                        45.465856
+                  ]
+            },
+            {
+                  "name": "Parc Alexandra",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.505439,
+                        45.491044
+                  ]
+            },
+            {
+                  "name": "Pont Samuel-De Champlain",
+                  "text": "Podul Samuel-De Champlain în zona reperelor Habitat-67.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.513905,
+                        45.468979
+                  ]
+            },
+            {
+                  "name": "Refuge d'oiseaux migrateurs des Îles-de-la-Couvée",
+                  "text": "Un sanctuar de păsări în zona reperelor Habitat-67.",
+                  "category": "natural",
+                  "coords": [
+                        -73.508651,
+                        45.479372
+                  ]
+            },
+            {
+                  "name": "Parc Champlain",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.472467,
+                        45.459678
+                  ]
+            },
+            {
+                  "name": "Parc Poly-Aréna",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.45858,
+                        45.448283
+                  ]
+            },
+            {
+                  "name": "Parc Sorbonne",
+                  "text": "Un parc în zona reperelor Habitat-67.",
+                  "category": "park",
+                  "coords": [
+                        -73.480013,
+                        45.447928
+                  ]
+            },
+            {
+                  "name": "Musée d'archéologie de Roussillon",
+                  "text": "Un muzeu în zona reperelor Habitat-67.",
+                  "category": "museum",
+                  "coords": [
+                        -73.496704,
+                        45.420599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Saint-Gabriel",
+                  "text": "Maison Saint-Gabriel is a historic house museum in Montreal's Point Saint-Charles neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -73.556226,
+                        45.476519
+                  ]
+            },
+            {
+                  "name": "Darling Foundry",
+                  "text": "Darling Foundry is a contemporary art centre in a former foundry in Montreal.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55676,
+                        45.497732
+                  ]
+            },
+            {
+                  "name": "Black Rock",
+                  "text": "Black Rock is an Irish memorial monument in Montreal.",
+                  "category": "historical",
+                  "coords": [
+                        -73.54636,
+                        45.486801
+                  ]
+            },
+            {
+                  "name": "Farine Five Roses",
+                  "text": "Farine Five Roses is a famous neon sign in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.550675,
+                        45.491967
+                  ]
+            },
+            {
+                  "name": "Modules Aquatiques",
+                  "text": "Modules Aquatiques is a water park in Montreal.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524169,
+                        45.500529
+                  ]
+            },
+            {
+                  "name": "Salut Gilles (starting line)",
+                  "text": "Salut Gilles (starting line) is a starting point in Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.522709,
+                        45.500082
+                  ]
+            },
+            {
+                  "name": "Pointe du Parc St-Laurent",
+                  "text": "A viewpoint in the Habitat-67 landmarks area.",
+                  "category": "natural",
+                  "coords": [
+                        -73.496722,
+                        45.45877
+                  ]
+            },
+            {
+                  "name": "iSaute Brossard",
+                  "text": "An attraction in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.470839,
+                        45.444421
+                  ]
+            },
+            {
+                  "name": "Goplex e-Karting +",
+                  "text": "An attraction in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.471485,
+                        45.443402
+                  ]
+            },
+            {
+                  "name": "Théâtre du Vieux La Prairie",
+                  "text": "A theatre in the Habitat-67 landmarks area.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.496304,
+                        45.419536
+                  ]
+            },
+            {
+                  "name": "Verdun Beach",
+                  "text": "A beach in the Habitat-67 landmarks area.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.560206,
+                        45.462333
+                  ]
+            },
+            {
+                  "name": "Parc de l'Orée-du-Fleuve",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.550696,
+                        45.448996
+                  ]
+            },
+            {
+                  "name": "Parc Maynard-Ferguson",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.557794,
+                        45.447653
+                  ]
+            },
+            {
+                  "name": "Parc Arthur-Therrien",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.560997,
+                        45.466778
+                  ]
+            },
+            {
+                  "name": "Parc Marguerite-Bourgeoys",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.558861,
+                        45.475107
+                  ]
+            },
+            {
+                  "name": "Parc Le Ber",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.554061,
+                        45.477216
+                  ]
+            },
+            {
+                  "name": "Square des Frères-Charon",
+                  "text": "A park named after the Frères-Charon in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.554746,
+                        45.499095
+                  ]
+            },
+            {
+                  "name": "Galerie Nicolas Robert",
+                  "text": "A gallery in the Habitat-67 landmarks area.",
+                  "category": "museum",
+                  "coords": [
+                        -73.553367,
+                        45.497384
+                  ]
+            },
+            {
+                  "name": "Ancien poste d'aiguillage du CN",
+                  "text": "An attraction in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.556407,
+                        45.49127
+                  ]
+            },
+            {
+                  "name": "Square Saint-Patrick",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.558108,
+                        45.488934
+                  ]
+            },
+            {
+                  "name": "Ruines de l'Église de Griffintown Sainte-Anne",
+                  "text": "Ruins in the Habitat-67 landmarks area.",
+                  "category": "historical",
+                  "coords": [
+                        -73.559069,
+                        45.491581
+                  ]
+            },
+            {
+                  "name": "Berge des Coursiers",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.552221,
+                        45.493873
+                  ]
+            },
+            {
+                  "name": "Pont de la Concorde",
+                  "text": "A bridge named Pont de la Concorde in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.538928,
+                        45.506034
+                  ]
+            },
+            {
+                  "name": "Habitat 67",
+                  "text": "The famous housing complex Habitat 67 in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.543569,
+                        45.498796
+                  ]
+            },
+            {
+                  "name": "Plage Jean-Doré",
+                  "text": "A beach in the Habitat-67 landmarks area.",
+                  "category": "recreational",
+                  "coords": [
+                        -73.524421,
+                        45.499521
+                  ]
+            },
+            {
+                  "name": "Pont Victoria",
+                  "text": "A bridge named Pont Victoria in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.517789,
+                        45.495549
+                  ]
+            },
+            {
+                  "name": "Saint-Paul Domain",
+                  "text": "A nature reserve in the Habitat-67 landmarks area.",
+                  "category": "natural",
+                  "coords": [
+                        -73.551576,
+                        45.455175
+                  ]
+            },
+            {
+                  "name": "Estacade du Pont Champlain",
+                  "text": "A bridge in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.51882,
+                        45.465856
+                  ]
+            },
+            {
+                  "name": "Parc Alexandra",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.505439,
+                        45.491044
+                  ]
+            },
+            {
+                  "name": "Samuel-De Champlain Bridge",
+                  "text": "A bridge named Samuel-De Champlain Bridge in the Habitat-67 landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.513905,
+                        45.468979
+                  ]
+            },
+            {
+                  "name": "Couvée Islands Migratory Bird Sanctuary",
+                  "text": "A migratory bird sanctuary in the Habitat-67 landmarks area.",
+                  "category": "natural",
+                  "coords": [
+                        -73.508651,
+                        45.479372
+                  ]
+            },
+            {
+                  "name": "Parc Champlain",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.472467,
+                        45.459678
+                  ]
+            },
+            {
+                  "name": "Parc Poly-Aréna",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.45858,
+                        45.448283
+                  ]
+            },
+            {
+                  "name": "Sorbonne Park",
+                  "text": "A park in the Habitat-67 landmarks area.",
+                  "category": "park",
+                  "coords": [
+                        -73.480013,
+                        45.447928
+                  ]
+            },
+            {
+                  "name": "Musée d'archéologie de Roussillon",
+                  "text": "A museum in the Habitat-67 landmarks area.",
+                  "category": "museum",
+                  "coords": [
+                        -73.496704,
+                        45.420599
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-73.5498, 45.5001],
@@ -322,7 +6631,1348 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "national-gallery-of-canada-landmarks-v2",
+    id: "national-gallery-of-canada-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rideau Hall",
+                  "text": "Rideau Hall ist ein Schloss im Bereich national-gallery-of-canada-landmarks-v2, das als offizielle Residenz des Generalgouverneurs von Kanada dient.",
+                  "category": "castle",
+                  "coords": [
+                        -75.68561,
+                        45.444398
+                  ]
+            },
+            {
+                  "name": "Musée canadien de l'histoire",
+                  "text": "Canadian Museum of History ist ein Museum im Bereich national-gallery-of-canada-landmarks-v2, Kanadas nationales Museum für Menschheitsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -75.708464,
+                        45.429705
+                  ]
+            },
+            {
+                  "name": "National Gallery of Canada",
+                  "text": "National Gallery of Canada ist eine Galerie im Bereich national-gallery-of-canada-landmarks-v2, die eine umfangreiche Sammlung kanadischer und internationaler Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.698805,
+                        45.429537
+                  ]
+            },
+            {
+                  "name": "Canada Aviation and Space Museum",
+                  "text": "Canada Aviation and Space Museum ist ein Museum im Bereich national-gallery-of-canada-landmarks-v2 mit einer großen Sammlung von Flugzeugen und Weltraumartefakten.",
+                  "category": "museum",
+                  "coords": [
+                        -75.643837,
+                        45.459039
+                  ]
+            },
+            {
+                  "name": "Rideau Cottage",
+                  "text": "Rideau Cottage ist ein Herrenhaus im Bereich national-gallery-of-canada-landmarks-v2, das als vorübergehende Residenz des Premierministers von Kanada dient.",
+                  "category": "historical",
+                  "coords": [
+                        -75.682679,
+                        45.443727
+                  ]
+            },
+            {
+                  "name": "Stornoway",
+                  "text": "Stornoway ist ein Herrenhaus im Bereich national-gallery-of-canada-landmarks-v2, die offizielle Residenz des Führers der offiziellen Opposition.",
+                  "category": "historical",
+                  "coords": [
+                        -75.678749,
+                        45.452733
+                  ]
+            },
+            {
+                  "name": "Lornado",
+                  "text": "Lornado ist ein Herrenhaus im Bereich national-gallery-of-canada-landmarks-v2, ein historisches Haus.",
+                  "category": "historical",
+                  "coords": [
+                        -75.686512,
+                        45.454207
+                  ]
+            },
+            {
+                  "name": "Earnscliffe",
+                  "text": "Earnscliffe ist ein historisches Herrenhaus in Ottawa und war einst die Residenz von Kanadas erstem Premierminister, Sir John A. Macdonald.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699036,
+                        45.437395
+                  ]
+            },
+            {
+                  "name": "Église adventiste du septième jour francophone d'Ottawa",
+                  "text": "Die Ottawa French Seventh-day Adventist Church ist eine französischsprachige Kirche der Siebenten-Tags-Adventisten in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685824,
+                        45.429608
+                  ]
+            },
+            {
+                  "name": "MacKay United Church",
+                  "text": "Die MacKay United Church ist eine historische United Church in Ottawa, bekannt für ihre markante Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -75.68313,
+                        45.44047
+                  ]
+            },
+            {
+                  "name": "Pont Macdonald-Cartier Bridge",
+                  "text": "Die Macdonald-Cartier Bridge ist eine interprovinzielle Brücke, die Ottawa (Ontario) mit Gatineau (Québec) verbindet, benannt nach zwei Gründervätern Kanadas.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703073,
+                        45.43703
+                  ]
+            },
+            {
+                  "name": "Kìwekì Point",
+                  "text": "Der Kìwekì Point ist ein Park in Ottawa mit malerischen Ausblicken auf den Ottawa River und die Parlamentsgebäude.",
+                  "category": "park",
+                  "coords": [
+                        -75.700691,
+                        45.429535
+                  ]
+            },
+            {
+                  "name": "Major's Hill Park",
+                  "text": "Der Major's Hill Park ist ein historischer Stadtpark in Ottawa, in der Nähe des Parliament Hill und des Rideau Canal.",
+                  "category": "park",
+                  "coords": [
+                        -75.697344,
+                        45.427424
+                  ]
+            },
+            {
+                  "name": "Cummings Bridge",
+                  "text": "Die Cummings Bridge ist eine Brücke über den Rideau River in Ottawa, die Stadtteile verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.671386,
+                        45.433239
+                  ]
+            },
+            {
+                  "name": "Porter Island Bridge",
+                  "text": "Die Porter Island Bridge ist eine Brücke in Ottawa, Teil des Bank Street Bridge-Komplexes.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.680683,
+                        45.436773
+                  ]
+            },
+            {
+                  "name": "Edgewood",
+                  "text": "Edgewood ist ein historisches Herrenhaus in Ottawa.",
+                  "category": "historical",
+                  "coords": [
+                        -75.692097,
+                        45.444042
+                  ]
+            },
+            {
+                  "name": "Cathedrale Saint-Joseph",
+                  "text": "Die Cathedral of Saint Joseph ist eine römisch-katholische Kathedrale in Ottawa und Sitz des Erzbistums.",
+                  "category": "religious",
+                  "coords": [
+                        -75.7338,
+                        45.435827
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation",
+                  "text": "Our Lady of the Annunciation ist eine katholische Kirche in Ottawa, die der Verkündigung Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -75.744546,
+                        45.451815
+                  ]
+            },
+            {
+                  "name": "Saint-François-de-Sales",
+                  "text": "Saint-François-de-Sales ist eine katholische Kirche in Ottawa, benannt nach dem heiligen Franz von Sales.",
+                  "category": "religious",
+                  "coords": [
+                        -75.699125,
+                        45.45757
+                  ]
+            },
+            {
+                  "name": "Jean XXIII",
+                  "text": "Jean XXIII ist eine katholische Kirche in Ottawa, benannt nach Papst Johannes XXIII.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70418,
+                        45.488094
+                  ]
+            },
+            {
+                  "name": "St. Clement Parish",
+                  "text": "St. Clement Parish ist eine anglikanische Pfarrkirche in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683127,
+                        45.434469
+                  ]
+            },
+            {
+                  "name": "Servantes de Jésus-Marie",
+                  "text": "Servantes de Jésus-Marie ist eine religiöse Gemeinschaft in Ottawa, die der Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -75.707905,
+                        45.436609
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-l'île",
+                  "text": "Notre-Dame-de-l'île ist eine Kirche in Ottawa, die auf einer Insel liegt.",
+                  "category": "religious",
+                  "coords": [
+                        -75.714443,
+                        45.437753
+                  ]
+            },
+            {
+                  "name": "Ottawa Little Theatre",
+                  "text": "Das Ottawa Little Theatre ist ein Gemeinschaftstheater in Ottawa, das Stücke und Aufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.68576,
+                        45.428147
+                  ]
+            },
+            {
+                  "name": "Byward Market",
+                  "text": "Der Byward Market ist einer der ältesten öffentlichen Märkte Kanadas in Ottawa mit Geschäften, Restaurants und Straßenhändlern.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692691,
+                        45.427562
+                  ]
+            },
+            {
+                  "name": "Pont des Draveurs",
+                  "text": "Die Draveurs Bridge ist eine Brücke in Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7161,
+                        45.456857
+                  ]
+            },
+            {
+                  "name": "Pont Lady-Aberdeen",
+                  "text": "Die Lady Aberdeen Bridge ist eine Brücke in Ottawa, benannt nach Lady Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.70116,
+                        45.45688
+                  ]
+            },
+            {
+                  "name": "Pont Alexandra Bridge",
+                  "text": "Die Alexandra Bridge ist eine interprovinzielle Brücke über den Ottawa River, die Ottawa und Gatineau verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705158,
+                        45.43045
+                  ]
+            },
+            {
+                  "name": "Königlich Kanadisches Münzamt",
+                  "text": "Die Royal Canadian Mint in Ottawa produziert kanadische Umlauf- und Sammlermünzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699246,
+                        45.431392
+                  ]
+            },
+            {
+                  "name": "Parc de L'Hôpital",
+                  "text": "Der Parc de L'Hôpital ist ein Park in Ottawa, angrenzend an ein Krankenhaus.",
+                  "category": "park",
+                  "coords": [
+                        -75.693497,
+                        45.49483
+                  ]
+            },
+            {
+                  "name": "Richelieu Park",
+                  "text": "Der Richelieu Park ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.661088,
+                        45.44404
+                  ]
+            },
+            {
+                  "name": "Parc Lavictoire",
+                  "text": "Der Parc Lavictoire ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.647315,
+                        45.480655
+                  ]
+            },
+            {
+                  "name": "Parc de Mingan",
+                  "text": "Der Parc de Mingan ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.648098,
+                        45.508656
+                  ]
+            },
+            {
+                  "name": "Parc de Blainville",
+                  "text": "Der Parc de Blainville ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.639679,
+                        45.506843
+                  ]
+            },
+            {
+                  "name": "Parc de Boisbriand",
+                  "text": "Der Parc de Boisbriand ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.656803,
+                        45.507976
+                  ]
+            },
+            {
+                  "name": "Parc des Deux-Ravins",
+                  "text": "Der Parc des Deux-Ravins ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.663802,
+                        45.507082
+                  ]
+            },
+            {
+                  "name": "Parc des Grands-Jardins",
+                  "text": "Der Parc des Grands-Jardins ist ein Park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.751023,
+                        45.506672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rideau Hall",
+                  "text": "Rideau Hall egy kastély a national-gallery-of-canada-landmarks-v2 területén, amely Kanada kormányzójának hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        -75.68561,
+                        45.444398
+                  ]
+            },
+            {
+                  "name": "Musée canadien de l'histoire",
+                  "text": "Canadian Museum of History egy múzeum a national-gallery-of-canada-landmarks-v2 területén, Kanada emberi történelem nemzeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -75.708464,
+                        45.429705
+                  ]
+            },
+            {
+                  "name": "National Gallery of Canada",
+                  "text": "National Gallery of Canada egy galéria a national-gallery-of-canada-landmarks-v2 területén, amely kanadai és nemzetközi művészet hatalmas gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -75.698805,
+                        45.429537
+                  ]
+            },
+            {
+                  "name": "Canada Aviation and Space Museum",
+                  "text": "Canada Aviation and Space Museum egy múzeum a national-gallery-of-canada-landmarks-v2 területén, repülőgépek és űrartefaktumok nagy gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        -75.643837,
+                        45.459039
+                  ]
+            },
+            {
+                  "name": "Rideau Cottage",
+                  "text": "Rideau Cottage egy kúria a national-gallery-of-canada-landmarks-v2 területén, amely Kanada miniszterelnökének ideiglenes rezidenciájaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -75.682679,
+                        45.443727
+                  ]
+            },
+            {
+                  "name": "Stornoway",
+                  "text": "Stornoway egy kúria a national-gallery-of-canada-landmarks-v2 területén, a hivatalos ellenzék vezetőjének hivatalos rezidenciája.",
+                  "category": "historical",
+                  "coords": [
+                        -75.678749,
+                        45.452733
+                  ]
+            },
+            {
+                  "name": "Lornado",
+                  "text": "Lornado egy kúria a national-gallery-of-canada-landmarks-v2 területén, egy történelmi ház.",
+                  "category": "historical",
+                  "coords": [
+                        -75.686512,
+                        45.454207
+                  ]
+            },
+            {
+                  "name": "Earnscliffe",
+                  "text": "Az Earnscliffe egy történelmi kastély Ottawában, amely egykor Kanada első miniszterelnökének, Sir John A. Macdonaldnak az otthona volt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699036,
+                        45.437395
+                  ]
+            },
+            {
+                  "name": "Église adventiste du septième jour francophone d'Ottawa",
+                  "text": "Az Ottawa French Seventh-day Adventist Church egy francia nyelvű hetednapi adventista gyülekezet Ottawában.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685824,
+                        45.429608
+                  ]
+            },
+            {
+                  "name": "MacKay United Church",
+                  "text": "A MacKay United Church egy történelmi egyesült templom Ottawában, ismert jellegzetes építészetéről.",
+                  "category": "religious",
+                  "coords": [
+                        -75.68313,
+                        45.44047
+                  ]
+            },
+            {
+                  "name": "Pont Macdonald-Cartier Bridge",
+                  "text": "A Macdonald-Cartier híd egy tartományközi híd, amely összeköti Ottawát (Ontario) Gatineau-val (Québec), és két kanadai alapító atyáról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703073,
+                        45.43703
+                  ]
+            },
+            {
+                  "name": "Kìwekì Point",
+                  "text": "A Kìwekì Point egy park Ottawában, festői kilátással az Ottawa folyóra és a parlament épületeire.",
+                  "category": "park",
+                  "coords": [
+                        -75.700691,
+                        45.429535
+                  ]
+            },
+            {
+                  "name": "Major's Hill Park",
+                  "text": "A Major's Hill Park egy történelmi városi park Ottawában, a Parliament Hill és a Rideau-csatorna közelében.",
+                  "category": "park",
+                  "coords": [
+                        -75.697344,
+                        45.427424
+                  ]
+            },
+            {
+                  "name": "Cummings Bridge",
+                  "text": "A Cummings híd egy híd a Rideau folyón Ottawában, amely városrészeket köt össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.671386,
+                        45.433239
+                  ]
+            },
+            {
+                  "name": "Porter Island Bridge",
+                  "text": "A Porter Island híd egy híd Ottawában, a Bank Street Bridge komplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.680683,
+                        45.436773
+                  ]
+            },
+            {
+                  "name": "Edgewood",
+                  "text": "Az Edgewood egy történelmi kastély Ottawában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.692097,
+                        45.444042
+                  ]
+            },
+            {
+                  "name": "Cathedrale Saint-Joseph",
+                  "text": "A Cathedral of Saint Joseph egy római katolikus székesegyház Ottawában, az egyházmegye székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -75.7338,
+                        45.435827
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation",
+                  "text": "Az Our Lady of the Annunciation egy katolikus templom Ottawában, amely az Angyali Üdvözlet tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -75.744546,
+                        45.451815
+                  ]
+            },
+            {
+                  "name": "Saint-François-de-Sales",
+                  "text": "A Saint-François-de-Sales egy katolikus templom Ottawában, amely Szalézi Szent Ferencről kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        -75.699125,
+                        45.45757
+                  ]
+            },
+            {
+                  "name": "Jean XXIII",
+                  "text": "A Jean XXIII egy katolikus templom Ottawában, amely XXIII. János pápáról kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70418,
+                        45.488094
+                  ]
+            },
+            {
+                  "name": "St. Clement Parish",
+                  "text": "A St. Clement Parish egy anglikán plébániatemplom Ottawában.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683127,
+                        45.434469
+                  ]
+            },
+            {
+                  "name": "Servantes de Jésus-Marie",
+                  "text": "A Servantes de Jésus-Marie egy vallási közösség Ottawában, amely a közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -75.707905,
+                        45.436609
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-l'île",
+                  "text": "A Notre-Dame-de-l'île egy templom Ottawában, amely egy szigeten található.",
+                  "category": "religious",
+                  "coords": [
+                        -75.714443,
+                        45.437753
+                  ]
+            },
+            {
+                  "name": "Ottawa Little Theatre",
+                  "text": "Az Ottawa Little Theatre egy közösségi színház Ottawában, amely darabokat és előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.68576,
+                        45.428147
+                  ]
+            },
+            {
+                  "name": "Byward Market",
+                  "text": "A Byward Market Kanada egyik legrégebbi nyilvános piaca Ottawában, üzletekkel, éttermekkel és utcai árusokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692691,
+                        45.427562
+                  ]
+            },
+            {
+                  "name": "Pont des Draveurs",
+                  "text": "A Draveurs híd egy híd Ottawában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7161,
+                        45.456857
+                  ]
+            },
+            {
+                  "name": "Pont Lady-Aberdeen",
+                  "text": "A Lady Aberdeen híd egy híd Ottawában, amely Lady Aberdeenről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.70116,
+                        45.45688
+                  ]
+            },
+            {
+                  "name": "Pont Alexandra Bridge",
+                  "text": "Az Alexandra híd egy tartományközi híd az Ottawa folyón, amely összeköti Ottawát és Gatineau-t.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705158,
+                        45.43045
+                  ]
+            },
+            {
+                  "name": "Royal Canadian Mint",
+                  "text": "Az Ottawai Royal Canadian Mint kanadai forgalmi és gyűjtőérméket gyárt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699246,
+                        45.431392
+                  ]
+            },
+            {
+                  "name": "Parc de L'Hôpital",
+                  "text": "A Parc de L'Hôpital egy park Ottawában, amely egy kórház mellett található.",
+                  "category": "park",
+                  "coords": [
+                        -75.693497,
+                        45.49483
+                  ]
+            },
+            {
+                  "name": "Richelieu Park",
+                  "text": "A Richelieu Park egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.661088,
+                        45.44404
+                  ]
+            },
+            {
+                  "name": "Parc Lavictoire",
+                  "text": "A Parc Lavictoire egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.647315,
+                        45.480655
+                  ]
+            },
+            {
+                  "name": "Parc de Mingan",
+                  "text": "A Parc de Mingan egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.648098,
+                        45.508656
+                  ]
+            },
+            {
+                  "name": "Parc de Blainville",
+                  "text": "A Parc de Blainville egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.639679,
+                        45.506843
+                  ]
+            },
+            {
+                  "name": "Parc de Boisbriand",
+                  "text": "A Parc de Boisbriand egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.656803,
+                        45.507976
+                  ]
+            },
+            {
+                  "name": "Parc des Deux-Ravins",
+                  "text": "A Parc des Deux-Ravins egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.663802,
+                        45.507082
+                  ]
+            },
+            {
+                  "name": "Parc des Grands-Jardins",
+                  "text": "A Parc des Grands-Jardins egy park Ottawában.",
+                  "category": "park",
+                  "coords": [
+                        -75.751023,
+                        45.506672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rideau Hall",
+                  "text": "Rideau Hall este un castel în zona national-gallery-of-canada-landmarks-v2, care servește ca reședință oficială a Guvernatorului General al Canadei.",
+                  "category": "castle",
+                  "coords": [
+                        -75.68561,
+                        45.444398
+                  ]
+            },
+            {
+                  "name": "Musée canadien de l'histoire",
+                  "text": "Canadian Museum of History este un muzeu în zona national-gallery-of-canada-landmarks-v2, muzeul național al istoriei umane a Canadei.",
+                  "category": "museum",
+                  "coords": [
+                        -75.708464,
+                        45.429705
+                  ]
+            },
+            {
+                  "name": "National Gallery of Canada",
+                  "text": "National Gallery of Canada este o galerie în zona national-gallery-of-canada-landmarks-v2, care găzduiește o colecție vastă de artă canadiană și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        -75.698805,
+                        45.429537
+                  ]
+            },
+            {
+                  "name": "Canada Aviation and Space Museum",
+                  "text": "Canada Aviation and Space Museum este un muzeu în zona national-gallery-of-canada-landmarks-v2 cu o colecție mare de aeronave și artefacte spațiale.",
+                  "category": "museum",
+                  "coords": [
+                        -75.643837,
+                        45.459039
+                  ]
+            },
+            {
+                  "name": "Rideau Cottage",
+                  "text": "Rideau Cottage este un conac în zona national-gallery-of-canada-landmarks-v2, folosit ca reședință temporară a Prim-ministrului Canadei.",
+                  "category": "historical",
+                  "coords": [
+                        -75.682679,
+                        45.443727
+                  ]
+            },
+            {
+                  "name": "Stornoway",
+                  "text": "Stornoway este un conac în zona national-gallery-of-canada-landmarks-v2, reședința oficială a Liderului Opoziției Oficiale.",
+                  "category": "historical",
+                  "coords": [
+                        -75.678749,
+                        45.452733
+                  ]
+            },
+            {
+                  "name": "Lornado",
+                  "text": "Lornado este un conac în zona national-gallery-of-canada-landmarks-v2, o casă istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -75.686512,
+                        45.454207
+                  ]
+            },
+            {
+                  "name": "Earnscliffe",
+                  "text": "Earnscliffe este un conac istoric din Ottawa, odinioară reședința primului premier al Canadei, Sir John A. Macdonald.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699036,
+                        45.437395
+                  ]
+            },
+            {
+                  "name": "Église adventiste du septième jour francophone d'Ottawa",
+                  "text": "Biserica Adventistă de Ziua a Șaptea Franceză din Ottawa este o biserică francofonă adventistă din Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685824,
+                        45.429608
+                  ]
+            },
+            {
+                  "name": "MacKay United Church",
+                  "text": "Biserica Unită MacKay este o biserică unită istorică din Ottawa, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        -75.68313,
+                        45.44047
+                  ]
+            },
+            {
+                  "name": "Pont Macdonald-Cartier Bridge",
+                  "text": "Podul Macdonald-Cartier este un pod interprovincial care leagă Ottawa (Ontario) de Gatineau (Quebec), numit după doi Părinți ai Confederației.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703073,
+                        45.43703
+                  ]
+            },
+            {
+                  "name": "Kìwekì Point",
+                  "text": "Kìwekì Point este un parc din Ottawa care oferă vederi pitorești asupra râului Ottawa și a clădirilor Parlamentului.",
+                  "category": "park",
+                  "coords": [
+                        -75.700691,
+                        45.429535
+                  ]
+            },
+            {
+                  "name": "Major's Hill Park",
+                  "text": "Parcul Major's Hill este un parc urban istoric din Ottawa, situat lângă Parliament Hill și Canalul Rideau.",
+                  "category": "park",
+                  "coords": [
+                        -75.697344,
+                        45.427424
+                  ]
+            },
+            {
+                  "name": "Cummings Bridge",
+                  "text": "Podul Cummings este un pod peste râul Rideau din Ottawa, care leagă cartierele.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.671386,
+                        45.433239
+                  ]
+            },
+            {
+                  "name": "Porter Island Bridge",
+                  "text": "Podul Porter Island este un pod din Ottawa, parte a complexului Bank Street Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.680683,
+                        45.436773
+                  ]
+            },
+            {
+                  "name": "Edgewood",
+                  "text": "Edgewood este un conac istoric din Ottawa.",
+                  "category": "historical",
+                  "coords": [
+                        -75.692097,
+                        45.444042
+                  ]
+            },
+            {
+                  "name": "Cathedrale Saint-Joseph",
+                  "text": "Catedrala Sfântul Iosif este o catedrală romano-catolică din Ottawa, sediul arhiepiscopiei.",
+                  "category": "religious",
+                  "coords": [
+                        -75.7338,
+                        45.435827
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation",
+                  "text": "Our Lady of the Annunciation este o biserică catolică din Ottawa dedicată Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        -75.744546,
+                        45.451815
+                  ]
+            },
+            {
+                  "name": "Saint-François-de-Sales",
+                  "text": "Saint-François-de-Sales este o biserică catolică din Ottawa numită după Sfântul Francisc de Sales.",
+                  "category": "religious",
+                  "coords": [
+                        -75.699125,
+                        45.45757
+                  ]
+            },
+            {
+                  "name": "Jean XXIII",
+                  "text": "Jean XXIII este o biserică catolică din Ottawa numită după Papa Ioan al XXIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70418,
+                        45.488094
+                  ]
+            },
+            {
+                  "name": "St. Clement Parish",
+                  "text": "St. Clement Parish este o biserică parohială anglicană din Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683127,
+                        45.434469
+                  ]
+            },
+            {
+                  "name": "Servantes de Jésus-Marie",
+                  "text": "Servantes de Jésus-Marie este o congregație religioasă din Ottawa care slujește comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        -75.707905,
+                        45.436609
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-l'île",
+                  "text": "Notre-Dame-de-l'île este o biserică din Ottawa situată pe o insulă.",
+                  "category": "religious",
+                  "coords": [
+                        -75.714443,
+                        45.437753
+                  ]
+            },
+            {
+                  "name": "Ottawa Little Theatre",
+                  "text": "Ottawa Little Theatre este un teatru comunitar din Ottawa care oferă piese și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.68576,
+                        45.428147
+                  ]
+            },
+            {
+                  "name": "Byward Market",
+                  "text": "Byward Market este una dintre cele mai vechi piețe publice din Canada, situată în Ottawa, cu magazine, restaurante și vânzători ambulanți.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692691,
+                        45.427562
+                  ]
+            },
+            {
+                  "name": "Pont des Draveurs",
+                  "text": "Podul Draveurs este un pod din Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7161,
+                        45.456857
+                  ]
+            },
+            {
+                  "name": "Pont Lady-Aberdeen",
+                  "text": "Podul Lady Aberdeen este un pod din Ottawa numit după Lady Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.70116,
+                        45.45688
+                  ]
+            },
+            {
+                  "name": "Pont Alexandra Bridge",
+                  "text": "Podul Alexandra este un pod interprovincial peste râul Ottawa, care leagă Ottawa de Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705158,
+                        45.43045
+                  ]
+            },
+            {
+                  "name": "Royal Canadian Mint",
+                  "text": "Monetăria Regală Canadiană din Ottawa produce monede canadiene de circulație și pentru colecționari.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699246,
+                        45.431392
+                  ]
+            },
+            {
+                  "name": "Parc de L'Hôpital",
+                  "text": "Parc de L'Hôpital este un parc din Ottawa adiacent unui spital.",
+                  "category": "park",
+                  "coords": [
+                        -75.693497,
+                        45.49483
+                  ]
+            },
+            {
+                  "name": "Richelieu Park",
+                  "text": "Richelieu Park este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.661088,
+                        45.44404
+                  ]
+            },
+            {
+                  "name": "Parc Lavictoire",
+                  "text": "Parc Lavictoire este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.647315,
+                        45.480655
+                  ]
+            },
+            {
+                  "name": "Parc de Mingan",
+                  "text": "Parc de Mingan este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.648098,
+                        45.508656
+                  ]
+            },
+            {
+                  "name": "Parc de Blainville",
+                  "text": "Parc de Blainville este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.639679,
+                        45.506843
+                  ]
+            },
+            {
+                  "name": "Parc de Boisbriand",
+                  "text": "Parc de Boisbriand este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.656803,
+                        45.507976
+                  ]
+            },
+            {
+                  "name": "Parc des Deux-Ravins",
+                  "text": "Parc des Deux-Ravins este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.663802,
+                        45.507082
+                  ]
+            },
+            {
+                  "name": "Parc des Grands-Jardins",
+                  "text": "Parc des Grands-Jardins este un parc din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.751023,
+                        45.506672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rideau Hall",
+                  "text": "Rideau Hall is a castle in the national-gallery-of-canada-landmarks-v2 area, serving as the official residence of the Governor General of Canada.",
+                  "category": "castle",
+                  "coords": [
+                        -75.68561,
+                        45.444398
+                  ]
+            },
+            {
+                  "name": "Canadian Museum of History",
+                  "text": "Canadian Museum of History is a museum in the national-gallery-of-canada-landmarks-v2 area, Canada's national museum of human history.",
+                  "category": "museum",
+                  "coords": [
+                        -75.708464,
+                        45.429705
+                  ]
+            },
+            {
+                  "name": "National Gallery of Canada",
+                  "text": "National Gallery of Canada is a gallery in the national-gallery-of-canada-landmarks-v2 area, housing a vast collection of Canadian and international art.",
+                  "category": "museum",
+                  "coords": [
+                        -75.698805,
+                        45.429537
+                  ]
+            },
+            {
+                  "name": "Canada Aviation and Space Museum",
+                  "text": "Canada Aviation and Space Museum is a museum in the national-gallery-of-canada-landmarks-v2 area with a large collection of aircraft and space artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -75.643837,
+                        45.459039
+                  ]
+            },
+            {
+                  "name": "Rideau Cottage",
+                  "text": "Rideau Cottage is a manor in the national-gallery-of-canada-landmarks-v2 area, used as the temporary residence of the Prime Minister of Canada.",
+                  "category": "historical",
+                  "coords": [
+                        -75.682679,
+                        45.443727
+                  ]
+            },
+            {
+                  "name": "Stornoway",
+                  "text": "Stornoway is a manor in the national-gallery-of-canada-landmarks-v2 area, the official residence of the Leader of the Official Opposition.",
+                  "category": "historical",
+                  "coords": [
+                        -75.678749,
+                        45.452733
+                  ]
+            },
+            {
+                  "name": "Lornado",
+                  "text": "Lornado is a manor in the national-gallery-of-canada-landmarks-v2 area, a historic house.",
+                  "category": "historical",
+                  "coords": [
+                        -75.686512,
+                        45.454207
+                  ]
+            },
+            {
+                  "name": "Earnscliffe",
+                  "text": "Earnscliffe is a historic manor in Ottawa, once home to Canada's first prime minister, Sir John A. Macdonald.",
+                  "category": "historical",
+                  "coords": [
+                        -75.699036,
+                        45.437395
+                  ]
+            },
+            {
+                  "name": "Ottawa French Seventh-day Adventist Church",
+                  "text": "The Ottawa French Seventh-day Adventist Church is a French-speaking Seventh-day Adventist church in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685824,
+                        45.429608
+                  ]
+            },
+            {
+                  "name": "MacKay United Church",
+                  "text": "MacKay United Church is a historic United Church in Ottawa, known for its distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -75.68313,
+                        45.44047
+                  ]
+            },
+            {
+                  "name": "Macdonald-Cartier Bridge",
+                  "text": "The Macdonald-Cartier Bridge is an interprovincial bridge connecting Ottawa, Ontario to Gatineau, Quebec, named after two Fathers of Confederation.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.703073,
+                        45.43703
+                  ]
+            },
+            {
+                  "name": "Kìwekì Point",
+                  "text": "Kìwekì Point is a park in Ottawa offering scenic views of the Ottawa River and the Parliament Buildings.",
+                  "category": "park",
+                  "coords": [
+                        -75.700691,
+                        45.429535
+                  ]
+            },
+            {
+                  "name": "Major's Hill Park",
+                  "text": "Major's Hill Park is a historic urban park in Ottawa, located near Parliament Hill and the Rideau Canal.",
+                  "category": "park",
+                  "coords": [
+                        -75.697344,
+                        45.427424
+                  ]
+            },
+            {
+                  "name": "Cummings Bridge",
+                  "text": "Cummings Bridge is a bridge spanning the Rideau River in Ottawa, connecting neighbourhoods.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.671386,
+                        45.433239
+                  ]
+            },
+            {
+                  "name": "Porter Island Bridge",
+                  "text": "Porter Island Bridge is a bridge in Ottawa, part of the Bank Street Bridge complex.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.680683,
+                        45.436773
+                  ]
+            },
+            {
+                  "name": "Edgewood",
+                  "text": "Edgewood is a historic manor house in Ottawa.",
+                  "category": "historical",
+                  "coords": [
+                        -75.692097,
+                        45.444042
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Joseph",
+                  "text": "The Cathedral of Saint Joseph is a Roman Catholic cathedral in Ottawa, serving as the seat of the archdiocese.",
+                  "category": "religious",
+                  "coords": [
+                        -75.7338,
+                        45.435827
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Annunciation",
+                  "text": "Our Lady of the Annunciation is a Catholic church in Ottawa dedicated to the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        -75.744546,
+                        45.451815
+                  ]
+            },
+            {
+                  "name": "Saint-François-de-Sales",
+                  "text": "Saint-François-de-Sales is a Catholic church in Ottawa named after Saint Francis de Sales.",
+                  "category": "religious",
+                  "coords": [
+                        -75.699125,
+                        45.45757
+                  ]
+            },
+            {
+                  "name": "Jean XXIII",
+                  "text": "Jean XXIII is a Catholic church in Ottawa named after Pope John XXIII.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70418,
+                        45.488094
+                  ]
+            },
+            {
+                  "name": "St. Clement Parish",
+                  "text": "St. Clement Parish is an Anglican parish church in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683127,
+                        45.434469
+                  ]
+            },
+            {
+                  "name": "Servantes de Jésus-Marie",
+                  "text": "Servantes de Jésus-Marie is a religious congregation in Ottawa serving the community.",
+                  "category": "religious",
+                  "coords": [
+                        -75.707905,
+                        45.436609
+                  ]
+            },
+            {
+                  "name": "Notre-Dame-de-l'île",
+                  "text": "Notre-Dame-de-l'île is a church in Ottawa located on an island.",
+                  "category": "religious",
+                  "coords": [
+                        -75.714443,
+                        45.437753
+                  ]
+            },
+            {
+                  "name": "Ottawa Little Theatre",
+                  "text": "Ottawa Little Theatre is a community theatre in Ottawa offering plays and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.68576,
+                        45.428147
+                  ]
+            },
+            {
+                  "name": "Byward Market",
+                  "text": "Byward Market is one of Canada's oldest public markets in Ottawa, with shops, restaurants, and street vendors.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692691,
+                        45.427562
+                  ]
+            },
+            {
+                  "name": "Draveurs Bridge",
+                  "text": "Draveurs Bridge is a bridge in Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.7161,
+                        45.456857
+                  ]
+            },
+            {
+                  "name": "Lady Aberdeen Bridge",
+                  "text": "Lady Aberdeen Bridge is a bridge in Ottawa named after Lady Aberdeen.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.70116,
+                        45.45688
+                  ]
+            },
+            {
+                  "name": "Alexandra Bridge",
+                  "text": "Alexandra Bridge is an interprovincial bridge over the Ottawa River, connecting Ottawa and Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.705158,
+                        45.43045
+                  ]
+            },
+            {
+                  "name": "Royal Canadian Mint",
+                  "text": "The Royal Canadian Mint in Ottawa produces Canadian circulation and collector coins.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699246,
+                        45.431392
+                  ]
+            },
+            {
+                  "name": "Parc de L'Hôpital",
+                  "text": "Parc de L'Hôpital is a park in Ottawa adjacent to a hospital.",
+                  "category": "park",
+                  "coords": [
+                        -75.693497,
+                        45.49483
+                  ]
+            },
+            {
+                  "name": "Richelieu Park",
+                  "text": "Richelieu Park is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.661088,
+                        45.44404
+                  ]
+            },
+            {
+                  "name": "Parc Lavictoire",
+                  "text": "Parc Lavictoire is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.647315,
+                        45.480655
+                  ]
+            },
+            {
+                  "name": "Parc de Mingan",
+                  "text": "Parc de Mingan is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.648098,
+                        45.508656
+                  ]
+            },
+            {
+                  "name": "Parc de Blainville",
+                  "text": "Parc de Blainville is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.639679,
+                        45.506843
+                  ]
+            },
+            {
+                  "name": "Parc de Boisbriand",
+                  "text": "Parc de Boisbriand is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.656803,
+                        45.507976
+                  ]
+            },
+            {
+                  "name": "Parc des Deux-Ravins",
+                  "text": "Parc des Deux-Ravins is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.663802,
+                        45.507082
+                  ]
+            },
+            {
+                  "name": "Parc des Grands-Jardins",
+                  "text": "Parc des Grands-Jardins is a park in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.751023,
+                        45.506672
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-75.6989, 45.4295],
@@ -358,7 +8008,1276 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "royal-ontario-museum-landmarks-v2",
+    id: "royal-ontario-museum-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Justina M. Barnicke Gallery",
+                  "text": "Die Justina M. Barnicke Gallery ist eine Galerie an der University of Toronto, heute Teil des Art Museum der University of Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394987,
+                        43.663652
+                  ]
+            },
+            {
+                  "name": "Gardiner Museum",
+                  "text": "Das Gardiner Museum ist ein Museum für Keramikkunst in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.393095,
+                        43.668144
+                  ]
+            },
+            {
+                  "name": "Royal Ontario Museum",
+                  "text": "Das Royal Ontario Museum ist ein bedeutendes Museum in Toronto mit Sammlungen zur Naturgeschichte und Weltkulturen.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394699,
+                        43.667697
+                  ]
+            },
+            {
+                  "name": "Bata Shoe Museum",
+                  "text": "Das Bata Shoe Museum ist ein Museum in Toronto, das der Geschichte des Schuhwerks gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -79.400147,
+                        43.667255
+                  ]
+            },
+            {
+                  "name": "Buddies in Bad Times",
+                  "text": "Buddies in Bad Times ist ein queeres Theaterunternehmen in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.382994,
+                        43.663209
+                  ]
+            },
+            {
+                  "name": "Trinity-St. Paul's United Church",
+                  "text": "Trinity-St. Paul's United Church ist eine Kirche der United Church of Canada in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405712,
+                        43.666019
+                  ]
+            },
+            {
+                  "name": "First Narayever Congregation",
+                  "text": "Die First Narayever Congregation ist eine Synagoge in Toronto, die ursprünglich von ungarischen jüdischen Einwanderern gegründet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405865,
+                        43.662898
+                  ]
+            },
+            {
+                  "name": "Congregation Shaarei Tzedec",
+                  "text": "Die Congregation Shaarei Tzedec ist eine konservative Synagoge in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.409933,
+                        43.659472
+                  ]
+            },
+            {
+                  "name": "College Street United Church",
+                  "text": "Die College Street United Church ist eine historische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.408188,
+                        43.656737
+                  ]
+            },
+            {
+                  "name": "St. Stephen-in-the-fields Anglican Church",
+                  "text": "Die St. Stephen-in-the-fields Anglican Church ist eine historische anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.403945,
+                        43.65697
+                  ]
+            },
+            {
+                  "name": "St. Paul's Anglican Church",
+                  "text": "Die St. Paul's Anglican Church ist eine anglikanische Kirche an der Bloor Street in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.381502,
+                        43.670955
+                  ]
+            },
+            {
+                  "name": "Knox Presbyterian Church",
+                  "text": "Die Knox Presbyterian Church ist eine presbyterianische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.402589,
+                        43.662503
+                  ]
+            },
+            {
+                  "name": "St. Thomas Aquinas Church",
+                  "text": "St. Thomas Aquinas Church ist eine katholische Kirche in Toronto, auch bekannt als St. John Henry Newman Catholic Church.",
+                  "category": "religious",
+                  "coords": [
+                        -79.397801,
+                        43.664523
+                  ]
+            },
+            {
+                  "name": "Church of the Redeemer",
+                  "text": "Die Church of the Redeemer ist eine anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393976,
+                        43.66909
+                  ]
+            },
+            {
+                  "name": "St. Basil's Church",
+                  "text": "St. Basil's Church ist eine römisch-katholische Kirche an der University of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.389054,
+                        43.666372
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's Anglican Church",
+                  "text": "Saint Thomas's Anglican Church ist eine anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.400605,
+                        43.665957
+                  ]
+            },
+            {
+                  "name": "First Church of Christ, Scientist",
+                  "text": "Die First Church of Christ, Scientist in Toronto ist ein denkmalgeschütztes Gebäude im byzantinischen Revival-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.401402,
+                        43.670033
+                  ]
+            },
+            {
+                  "name": "Rosedale Presbyterian Church",
+                  "text": "Die Rosedale Presbyterian Church ist eine historische presbyterianische Kirche im Stadtteil Rosedale von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.380149,
+                        43.675915
+                  ]
+            },
+            {
+                  "name": "Barbara Hall Park",
+                  "text": "Der Barbara Hall Park in Toronto ist nach der ehemaligen Bürgermeisterin Barbara Hall benannt.",
+                  "category": "park",
+                  "coords": [
+                        -79.380468,
+                        43.666705
+                  ]
+            },
+            {
+                  "name": "Queen's Park",
+                  "text": "Der Queen’s Park in Toronto ist der Standort des Ontario Legislative Building.",
+                  "category": "park",
+                  "coords": [
+                        -79.391979,
+                        43.663758
+                  ]
+            },
+            {
+                  "name": "Taddle Creek Park",
+                  "text": "Der Taddle Creek Park in Toronto ist nach dem unterirdischen Taddle Creek benannt.",
+                  "category": "park",
+                  "coords": [
+                        -79.39876,
+                        43.669959
+                  ]
+            },
+            {
+                  "name": "Ramsden Park",
+                  "text": "Der Ramsden Park ist ein öffentlicher Park im Yorkville-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.393073,
+                        43.676412
+                  ]
+            },
+            {
+                  "name": "TD Gallery",
+                  "text": "Die TD Gallery ist ein Museum in Toronto mit wechselnden Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386759,
+                        43.671615
+                  ]
+            },
+            {
+                  "name": "Notre Place",
+                  "text": "Notre Place ist ein Monument in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391141,
+                        43.660298
+                  ]
+            },
+            {
+                  "name": "Randolph Theatre",
+                  "text": "Das Randolph Theatre ist ein Theater in Toronto, das Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410911,
+                        43.663565
+                  ]
+            },
+            {
+                  "name": "St. Andrew's United Church",
+                  "text": "Die St. Andrew’s United Church ist eine Vereinigte Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.383934,
+                        43.669972
+                  ]
+            },
+            {
+                  "name": "Knox College Chapel",
+                  "text": "Die Knox College Chapel ist eine Kapelle am Knox College in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396289,
+                        43.661304
+                  ]
+            },
+            {
+                  "name": "MacMillan Theatre",
+                  "text": "Das MacMillan Theatre ist ein Theater in Toronto, Teil der Musikfakultät der Universität Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.394627,
+                        43.666722
+                  ]
+            },
+            {
+                  "name": "Our Lady Help of Christians Church",
+                  "text": "Die Our Lady Help of Christians Church ist eine römisch-katholische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.41495,
+                        43.662379
+                  ]
+            },
+            {
+                  "name": "Walmer Road Baptist Church",
+                  "text": "Die Walmer Road Baptist Church ist eine Baptistengemeinde in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.407075,
+                        43.668505
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary Magdalene",
+                  "text": "Die Church of St. Mary Magdalene ist eine anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413706,
+                        43.65907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Die Our Lady of Lourdes Roman Catholic Church ist eine römisch-katholische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375702,
+                        43.668389
+                  ]
+            },
+            {
+                  "name": "George Ignatieff Theatre",
+                  "text": "Das George Ignatieff Theatre ist ein Theater in Toronto, benannt nach dem Diplomaten George Ignatieff.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.397119,
+                        43.665845
+                  ]
+            },
+            {
+                  "name": "CAA Theatre",
+                  "text": "Das CAA Theatre ist ein Theater in Toronto, betrieben vom Canadian Automobile Association.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385466,
+                        43.668096
+                  ]
+            },
+            {
+                  "name": "Glasgow Street Parkette",
+                  "text": "Die Glasgow Street Parkette ist ein kleiner Park in Toronto an der Glasgow Street.",
+                  "category": "park",
+                  "coords": [
+                        -79.398395,
+                        43.656756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Justina M. Barnicke Gallery",
+                  "text": "A Justina M. Barnicke Gallery egy galéria a Torontói Egyetemen, ma a Torontói Egyetem Művészeti Múzeumának része.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394987,
+                        43.663652
+                  ]
+            },
+            {
+                  "name": "Gardiner Museum",
+                  "text": "A Gardiner Museum egy kerámiaművészeti múzeum Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.393095,
+                        43.668144
+                  ]
+            },
+            {
+                  "name": "Royal Ontario Museum",
+                  "text": "A Royal Ontario Museum egy jelentős múzeum Torontóban, természetrajzi és világkultúrák gyűjteményeivel.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394699,
+                        43.667697
+                  ]
+            },
+            {
+                  "name": "Bata Shoe Museum",
+                  "text": "A Bata Shoe Museum egy múzeum Torontóban, amely a lábbelik történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.400147,
+                        43.667255
+                  ]
+            },
+            {
+                  "name": "Buddies in Bad Times",
+                  "text": "A Buddies in Bad Times egy queer színházi társulat Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.382994,
+                        43.663209
+                  ]
+            },
+            {
+                  "name": "Trinity-St. Paul's United Church",
+                  "text": "A Trinity-St. Paul's United Church a Kanadai Egyesült Egyház temploma Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405712,
+                        43.666019
+                  ]
+            },
+            {
+                  "name": "First Narayever Congregation",
+                  "text": "A First Narayever Congregation egy torontói zsinagóga, amelyet eredetileg magyar zsidó bevándorlók alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405865,
+                        43.662898
+                  ]
+            },
+            {
+                  "name": "Congregation Shaarei Tzedec",
+                  "text": "A Congregation Shaarei Tzedec egy konzervatív zsinagóga Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.409933,
+                        43.659472
+                  ]
+            },
+            {
+                  "name": "College Street United Church",
+                  "text": "A College Street United Church egy történelmi templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.408188,
+                        43.656737
+                  ]
+            },
+            {
+                  "name": "St. Stephen-in-the-fields Anglican Church",
+                  "text": "A St. Stephen-in-the-fields Anglican Church egy történelmi anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.403945,
+                        43.65697
+                  ]
+            },
+            {
+                  "name": "St. Paul's Anglican Church",
+                  "text": "A St. Paul's Anglican Church egy anglikán templom a Bloor Streeten Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.381502,
+                        43.670955
+                  ]
+            },
+            {
+                  "name": "Knox Presbyterian Church",
+                  "text": "A Knox Presbyterian Church egy presbiteriánus templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.402589,
+                        43.662503
+                  ]
+            },
+            {
+                  "name": "St. Thomas Aquinas Church",
+                  "text": "A St. Thomas Aquinas Church egy katolikus templom Torontóban, más néven St. John Henry Newman Catholic Church.",
+                  "category": "religious",
+                  "coords": [
+                        -79.397801,
+                        43.664523
+                  ]
+            },
+            {
+                  "name": "Church of the Redeemer",
+                  "text": "A Church of the Redeemer egy anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393976,
+                        43.66909
+                  ]
+            },
+            {
+                  "name": "St. Basil's Church",
+                  "text": "A St. Basil's Church egy római katolikus templom a Torontói Egyetemen.",
+                  "category": "religious",
+                  "coords": [
+                        -79.389054,
+                        43.666372
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's Anglican Church",
+                  "text": "A Saint Thomas's Anglican Church egy anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.400605,
+                        43.665957
+                  ]
+            },
+            {
+                  "name": "First Church of Christ, Scientist",
+                  "text": "A First Church of Christ, Scientist Torontóban egy védett műemlék bizánci újjászületési stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.401402,
+                        43.670033
+                  ]
+            },
+            {
+                  "name": "Rosedale Presbyterian Church",
+                  "text": "A Rosedale Presbyterian Church egy történelmi presbiteriánus templom Toronto Rosedale negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.380149,
+                        43.675915
+                  ]
+            },
+            {
+                  "name": "Barbara Hall Park",
+                  "text": "A Barbara Hall Park Torontóban Barbara Hall volt polgármesterről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -79.380468,
+                        43.666705
+                  ]
+            },
+            {
+                  "name": "Queen's Park",
+                  "text": "A Queen’s Park Torontóban az Ontario Törvényhozási Épületének helyszíne.",
+                  "category": "park",
+                  "coords": [
+                        -79.391979,
+                        43.663758
+                  ]
+            },
+            {
+                  "name": "Taddle Creek Park",
+                  "text": "A Taddle Creek Park Torontóban a föld alá temetett Taddle Creek-ről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -79.39876,
+                        43.669959
+                  ]
+            },
+            {
+                  "name": "Ramsden Park",
+                  "text": "A Ramsden Park egy nyilvános park Toronto Yorkville negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.393073,
+                        43.676412
+                  ]
+            },
+            {
+                  "name": "TD Gallery",
+                  "text": "A TD Gallery egy múzeum Torontóban, amely változó kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386759,
+                        43.671615
+                  ]
+            },
+            {
+                  "name": "Notre Place",
+                  "text": "A Notre Place egy műemlék Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391141,
+                        43.660298
+                  ]
+            },
+            {
+                  "name": "Randolph Theatre",
+                  "text": "A Randolph Theatre egy színház Torontóban, amely előadásokat tart.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410911,
+                        43.663565
+                  ]
+            },
+            {
+                  "name": "St. Andrew's United Church",
+                  "text": "A St. Andrew’s United Church egy egyesült templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.383934,
+                        43.669972
+                  ]
+            },
+            {
+                  "name": "Knox College Chapel",
+                  "text": "A Knox College Chapel egy kápolna a Knox College-on Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396289,
+                        43.661304
+                  ]
+            },
+            {
+                  "name": "MacMillan Theatre",
+                  "text": "A MacMillan Theatre egy színház Torontóban, a Torontói Egyetem Zenei Karának része.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.394627,
+                        43.666722
+                  ]
+            },
+            {
+                  "name": "Our Lady Help of Christians Church",
+                  "text": "Az Our Lady Help of Christians Church egy római katolikus templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.41495,
+                        43.662379
+                  ]
+            },
+            {
+                  "name": "Walmer Road Baptist Church",
+                  "text": "A Walmer Road Baptist Church egy baptista templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.407075,
+                        43.668505
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary Magdalene",
+                  "text": "A Church of St. Mary Magdalene egy anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413706,
+                        43.65907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Az Our Lady of Lourdes Roman Catholic Church egy római katolikus templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375702,
+                        43.668389
+                  ]
+            },
+            {
+                  "name": "George Ignatieff Theatre",
+                  "text": "A George Ignatieff Theatre egy színház Torontóban, George Ignatieff diplomata nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.397119,
+                        43.665845
+                  ]
+            },
+            {
+                  "name": "CAA Theatre",
+                  "text": "A CAA Theatre egy színház Torontóban, a Kanadai Autóklub üzemelteti.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385466,
+                        43.668096
+                  ]
+            },
+            {
+                  "name": "Glasgow Street Parkette",
+                  "text": "A Glasgow Street Parkette egy kis park Torontóban a Glasgow Streeten.",
+                  "category": "park",
+                  "coords": [
+                        -79.398395,
+                        43.656756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Justina M. Barnicke Gallery",
+                  "text": "Galeria Justina M. Barnicke este o galerie la Universitatea din Toronto, acum parte a Muzeului de Artă al Universității din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394987,
+                        43.663652
+                  ]
+            },
+            {
+                  "name": "Gardiner Museum",
+                  "text": "Muzeul Gardiner este un muzeu de artă ceramică din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.393095,
+                        43.668144
+                  ]
+            },
+            {
+                  "name": "Royal Ontario Museum",
+                  "text": "Muzeul Regal din Ontario este un muzeu important din Toronto cu colecții de istorie naturală și culturi mondiale.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394699,
+                        43.667697
+                  ]
+            },
+            {
+                  "name": "Bata Shoe Museum",
+                  "text": "Muzeul de încălțăminte Bata este un muzeu din Toronto dedicat istoriei încălțămintei.",
+                  "category": "museum",
+                  "coords": [
+                        -79.400147,
+                        43.667255
+                  ]
+            },
+            {
+                  "name": "Buddies in Bad Times",
+                  "text": "Buddies in Bad Times este o companie de teatru queer din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.382994,
+                        43.663209
+                  ]
+            },
+            {
+                  "name": "Trinity-St. Paul's United Church",
+                  "text": "Biserica unită Trinity-St. Paul este o biserică a Bisericii Unite a Canadei din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405712,
+                        43.666019
+                  ]
+            },
+            {
+                  "name": "First Narayever Congregation",
+                  "text": "Congregația First Narayever este o sinagogă din Toronto, întemeiată inițial de imigranți evrei maghiari.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405865,
+                        43.662898
+                  ]
+            },
+            {
+                  "name": "Congregation Shaarei Tzedec",
+                  "text": "Congregația Shaarei Tzedec este o sinagogă conservatoare din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.409933,
+                        43.659472
+                  ]
+            },
+            {
+                  "name": "College Street United Church",
+                  "text": "Biserica unită College Street este o biserică istorică din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.408188,
+                        43.656737
+                  ]
+            },
+            {
+                  "name": "St. Stephen-in-the-fields Anglican Church",
+                  "text": "Biserica anglicană St. Stephen-in-the-fields este o biserică anglicană istorică din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.403945,
+                        43.65697
+                  ]
+            },
+            {
+                  "name": "St. Paul's Anglican Church",
+                  "text": "Biserica anglicană St. Paul este o biserică anglicană pe strada Bloor din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.381502,
+                        43.670955
+                  ]
+            },
+            {
+                  "name": "Knox Presbyterian Church",
+                  "text": "Biserica prezbiteriană Knox este o biserică prezbiteriană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.402589,
+                        43.662503
+                  ]
+            },
+            {
+                  "name": "St. Thomas Aquinas Church",
+                  "text": "Biserica Sfântul Toma de Aquino este o biserică catolică din Toronto, cunoscută și ca Biserica Catolică Sf. John Henry Newman.",
+                  "category": "religious",
+                  "coords": [
+                        -79.397801,
+                        43.664523
+                  ]
+            },
+            {
+                  "name": "Church of the Redeemer",
+                  "text": "Biserica Mântuitorului este o biserică anglicană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393976,
+                        43.66909
+                  ]
+            },
+            {
+                  "name": "St. Basil's Church",
+                  "text": "Biserica Sf. Vasile este o biserică romano-catolică la Universitatea din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.389054,
+                        43.666372
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's Anglican Church",
+                  "text": "Biserica anglicană Sfântul Toma este o biserică anglicană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.400605,
+                        43.665957
+                  ]
+            },
+            {
+                  "name": "First Church of Christ, Scientist",
+                  "text": "Prima Biserică a lui Hristos, Scientist din Toronto este o clădire protejată în stil revival bizantin.",
+                  "category": "religious",
+                  "coords": [
+                        -79.401402,
+                        43.670033
+                  ]
+            },
+            {
+                  "name": "Rosedale Presbyterian Church",
+                  "text": "Biserica Prezbiteriană Rosedale este o biserică istorică în cartierul Rosedale din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.380149,
+                        43.675915
+                  ]
+            },
+            {
+                  "name": "Barbara Hall Park",
+                  "text": "Parcul Barbara Hall din Toronto poartă numele fostei primar Barbara Hall.",
+                  "category": "park",
+                  "coords": [
+                        -79.380468,
+                        43.666705
+                  ]
+            },
+            {
+                  "name": "Queen's Park",
+                  "text": "Queen’s Park din Toronto găzduiește Clădirea Legislativă a Ontario.",
+                  "category": "park",
+                  "coords": [
+                        -79.391979,
+                        43.663758
+                  ]
+            },
+            {
+                  "name": "Taddle Creek Park",
+                  "text": "Parcul Taddle Creek din Toronto poartă numele pârâului îngropat Taddle Creek.",
+                  "category": "park",
+                  "coords": [
+                        -79.39876,
+                        43.669959
+                  ]
+            },
+            {
+                  "name": "Ramsden Park",
+                  "text": "Parcul Ramsden este un parc public în cartierul Yorkville din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.393073,
+                        43.676412
+                  ]
+            },
+            {
+                  "name": "TD Gallery",
+                  "text": "Galeria TD este un muzeu din Toronto care găzduiește expoziții variate.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386759,
+                        43.671615
+                  ]
+            },
+            {
+                  "name": "Notre Place",
+                  "text": "Notre Place este un monument din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391141,
+                        43.660298
+                  ]
+            },
+            {
+                  "name": "Randolph Theatre",
+                  "text": "Teatrul Randolph este un teatru din Toronto care găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410911,
+                        43.663565
+                  ]
+            },
+            {
+                  "name": "St. Andrew's United Church",
+                  "text": "Biserica Unită St. Andrew’s este o biserică unită din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.383934,
+                        43.669972
+                  ]
+            },
+            {
+                  "name": "Knox College Chapel",
+                  "text": "Capela Colegiului Knox este o capelă la Colegiul Knox din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396289,
+                        43.661304
+                  ]
+            },
+            {
+                  "name": "MacMillan Theatre",
+                  "text": "Teatrul MacMillan este un teatru din Toronto, parte a Facultății de Muzică a Universității din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.394627,
+                        43.666722
+                  ]
+            },
+            {
+                  "name": "Our Lady Help of Christians Church",
+                  "text": "Biserica Our Lady Help of Christians este o biserică romano-catolică din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.41495,
+                        43.662379
+                  ]
+            },
+            {
+                  "name": "Walmer Road Baptist Church",
+                  "text": "Biserica Baptistă Walmer Road este o biserică baptistă din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.407075,
+                        43.668505
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary Magdalene",
+                  "text": "Biserica Sf. Maria Magdalena este o biserică anglicană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413706,
+                        43.65907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Biserica Romano-Catolică Our Lady of Lourdes este o biserică romano-catolică din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375702,
+                        43.668389
+                  ]
+            },
+            {
+                  "name": "George Ignatieff Theatre",
+                  "text": "Teatrul George Ignatieff este un teatru din Toronto numit după diplomatul George Ignatieff.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.397119,
+                        43.665845
+                  ]
+            },
+            {
+                  "name": "CAA Theatre",
+                  "text": "Teatrul CAA este un teatru din Toronto, operat de Asociația Automobilistică Canadei.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385466,
+                        43.668096
+                  ]
+            },
+            {
+                  "name": "Glasgow Street Parkette",
+                  "text": "Parcul Glasgow Street este un parc mic din Toronto pe strada Glasgow.",
+                  "category": "park",
+                  "coords": [
+                        -79.398395,
+                        43.656756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Justina M. Barnicke Gallery",
+                  "text": "Justina M. Barnicke Gallery is a gallery at the University of Toronto, now part of the Art Museum at the University of Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394987,
+                        43.663652
+                  ]
+            },
+            {
+                  "name": "Gardiner Museum",
+                  "text": "The Gardiner Museum is a museum dedicated to ceramic art in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.393095,
+                        43.668144
+                  ]
+            },
+            {
+                  "name": "Royal Ontario Museum",
+                  "text": "The Royal Ontario Museum is a major museum in Toronto with collections in natural history and world cultures.",
+                  "category": "museum",
+                  "coords": [
+                        -79.394699,
+                        43.667697
+                  ]
+            },
+            {
+                  "name": "Bata Shoe Museum",
+                  "text": "The Bata Shoe Museum is a museum in Toronto dedicated to the history of footwear.",
+                  "category": "museum",
+                  "coords": [
+                        -79.400147,
+                        43.667255
+                  ]
+            },
+            {
+                  "name": "Buddies in Bad Times",
+                  "text": "Buddies in Bad Times is a queer theatre company in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.382994,
+                        43.663209
+                  ]
+            },
+            {
+                  "name": "Trinity-St. Paul's United Church",
+                  "text": "Trinity-St. Paul's United Church is a church in Toronto, part of the United Church of Canada.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405712,
+                        43.666019
+                  ]
+            },
+            {
+                  "name": "First Narayever Congregation",
+                  "text": "First Narayever Congregation is a synagogue in Toronto, originally founded by Hungarian Jewish immigrants.",
+                  "category": "religious",
+                  "coords": [
+                        -79.405865,
+                        43.662898
+                  ]
+            },
+            {
+                  "name": "Congregation Shaarei Tzedec",
+                  "text": "Congregation Shaarei Tzedec is a Conservative synagogue in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.409933,
+                        43.659472
+                  ]
+            },
+            {
+                  "name": "College Street United Church",
+                  "text": "College Street United Church is a historic church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.408188,
+                        43.656737
+                  ]
+            },
+            {
+                  "name": "St. Stephen-in-the-fields Anglican Church",
+                  "text": "St. Stephen-in-the-fields Anglican Church is a historic Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.403945,
+                        43.65697
+                  ]
+            },
+            {
+                  "name": "St. Paul's Anglican Church",
+                  "text": "St. Paul's Anglican Church is an Anglican church on Bloor Street in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.381502,
+                        43.670955
+                  ]
+            },
+            {
+                  "name": "Knox Presbyterian Church",
+                  "text": "Knox Presbyterian Church is a Presbyterian church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.402589,
+                        43.662503
+                  ]
+            },
+            {
+                  "name": "St. Thomas Aquinas Church",
+                  "text": "St. Thomas Aquinas Church is a Catholic church in Toronto, also known as St. John Henry Newman Catholic Church.",
+                  "category": "religious",
+                  "coords": [
+                        -79.397801,
+                        43.664523
+                  ]
+            },
+            {
+                  "name": "Church of the Redeemer",
+                  "text": "Church of the Redeemer is an Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393976,
+                        43.66909
+                  ]
+            },
+            {
+                  "name": "St. Basil's Church",
+                  "text": "St. Basil's Church is a Roman Catholic church at the University of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.389054,
+                        43.666372
+                  ]
+            },
+            {
+                  "name": "Saint Thomas's Anglican Church",
+                  "text": "Saint Thomas's Anglican Church is an Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.400605,
+                        43.665957
+                  ]
+            },
+            {
+                  "name": "First Church of Christ, Scientist",
+                  "text": "The First Church of Christ, Scientist in Toronto is a designated heritage property in Byzantine Revival style.",
+                  "category": "religious",
+                  "coords": [
+                        -79.401402,
+                        43.670033
+                  ]
+            },
+            {
+                  "name": "Rosedale Presbyterian Church",
+                  "text": "Rosedale Presbyterian Church is a historic Presbyterian church in the Rosedale neighbourhood of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.380149,
+                        43.675915
+                  ]
+            },
+            {
+                  "name": "Barbara Hall Park",
+                  "text": "Barbara Hall Park in Toronto is named after former mayor Barbara Hall.",
+                  "category": "park",
+                  "coords": [
+                        -79.380468,
+                        43.666705
+                  ]
+            },
+            {
+                  "name": "Queen's Park",
+                  "text": "Queen's Park in Toronto is the site of the Ontario Legislative Building.",
+                  "category": "park",
+                  "coords": [
+                        -79.391979,
+                        43.663758
+                  ]
+            },
+            {
+                  "name": "Taddle Creek Park",
+                  "text": "Taddle Creek Park in Toronto is named after the buried Taddle Creek.",
+                  "category": "park",
+                  "coords": [
+                        -79.39876,
+                        43.669959
+                  ]
+            },
+            {
+                  "name": "Ramsden Park",
+                  "text": "Ramsden Park is a public park in Toronto's Yorkville area.",
+                  "category": "park",
+                  "coords": [
+                        -79.393073,
+                        43.676412
+                  ]
+            },
+            {
+                  "name": "TD Gallery",
+                  "text": "TD Gallery is a museum in Toronto showcasing various exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386759,
+                        43.671615
+                  ]
+            },
+            {
+                  "name": "Notre Place",
+                  "text": "Notre Place is a monument in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391141,
+                        43.660298
+                  ]
+            },
+            {
+                  "name": "Randolph Theatre",
+                  "text": "Randolph Theatre is a theatre in Toronto hosting performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410911,
+                        43.663565
+                  ]
+            },
+            {
+                  "name": "St. Andrew's United Church",
+                  "text": "St. Andrew's United Church is a United Church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.383934,
+                        43.669972
+                  ]
+            },
+            {
+                  "name": "Knox College Chapel",
+                  "text": "Knox College Chapel is a chapel at Knox College in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396289,
+                        43.661304
+                  ]
+            },
+            {
+                  "name": "MacMillan Theatre",
+                  "text": "MacMillan Theatre is a theatre in Toronto, part of the University of Toronto's Faculty of Music.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.394627,
+                        43.666722
+                  ]
+            },
+            {
+                  "name": "Our Lady Help of Christians Church",
+                  "text": "Our Lady Help of Christians Church is a Roman Catholic church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.41495,
+                        43.662379
+                  ]
+            },
+            {
+                  "name": "Walmer Road Baptist Church",
+                  "text": "Walmer Road Baptist Church is a Baptist church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.407075,
+                        43.668505
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary Magdalene",
+                  "text": "Church of St. Mary Magdalene is an Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413706,
+                        43.65907
+                  ]
+            },
+            {
+                  "name": "Our Lady of Lourdes Roman Catholic Church",
+                  "text": "Our Lady of Lourdes Roman Catholic Church is a Roman Catholic church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375702,
+                        43.668389
+                  ]
+            },
+            {
+                  "name": "George Ignatieff Theatre",
+                  "text": "George Ignatieff Theatre is a theatre in Toronto, named after the diplomat George Ignatieff.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.397119,
+                        43.665845
+                  ]
+            },
+            {
+                  "name": "CAA Theatre",
+                  "text": "CAA Theatre is a theatre in Toronto, operated by the Canadian Automobile Association.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385466,
+                        43.668096
+                  ]
+            },
+            {
+                  "name": "Glasgow Street Parkette",
+                  "text": "Glasgow Street Parkette is a small park in Toronto on Glasgow Street.",
+                  "category": "park",
+                  "coords": [
+                        -79.398395,
+                        43.656756
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.3948, 43.6677],
@@ -394,7 +9313,196 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "canadian-museum-for-human-rights-landmarks-v2",
+    id: "canadian-museum-for-human-rights-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canadian Museum for Human Rights",
+                  "text": "Canadian Museum for Human Rights ist ein nationales Museum für Menschenrechte in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130952,
+                        49.890736
+                  ]
+            },
+            {
+                  "name": "Provencher Bridge",
+                  "text": "Provencher Bridge ist eine Brücke in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.127062,
+                        49.89107
+                  ]
+            },
+            {
+                  "name": "Centre culturel franco-manitobain",
+                  "text": "Centre culturel franco-manitobain ist ein französisches Kulturzentrum in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114107,
+                        49.893574
+                  ]
+            },
+            {
+                  "name": "Whittier Park",
+                  "text": "Whittier Park ist ein Park in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -97.121434,
+                        49.899149
+                  ]
+            },
+            {
+                  "name": "Fort Gibraltar",
+                  "text": "Fort Gibraltar ist eine historische Festungsattraktion in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.125659,
+                        49.899315
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canadian Museum for Human Rights",
+                  "text": "Canadian Museum for Human Rights egy emberi jogoknak szentelt nemzeti múzeum canadian-museum-for-human-rights-landmarks-v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130952,
+                        49.890736
+                  ]
+            },
+            {
+                  "name": "Provencher Bridge",
+                  "text": "Provencher Bridge egy híd canadian-museum-for-human-rights-landmarks-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.127062,
+                        49.89107
+                  ]
+            },
+            {
+                  "name": "Centre culturel franco-manitobain",
+                  "text": "Centre culturel franco-manitobain egy francia kulturális központ canadian-museum-for-human-rights-landmarks-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114107,
+                        49.893574
+                  ]
+            },
+            {
+                  "name": "Whittier Park",
+                  "text": "Whittier Park egy park canadian-museum-for-human-rights-landmarks-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -97.121434,
+                        49.899149
+                  ]
+            },
+            {
+                  "name": "Fort Gibraltar",
+                  "text": "Fort Gibraltar egy történelmi erőd látnivaló canadian-museum-for-human-rights-landmarks-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.125659,
+                        49.899315
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canadian Museum for Human Rights",
+                  "text": "Canadian Museum for Human Rights este un muzeu național dedicat drepturilor omului în canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130952,
+                        49.890736
+                  ]
+            },
+            {
+                  "name": "Provencher Bridge",
+                  "text": "Provencher Bridge este un pod în canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.127062,
+                        49.89107
+                  ]
+            },
+            {
+                  "name": "Centre culturel franco-manitobain",
+                  "text": "Centre culturel franco-manitobain este un centru cultural francez în canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114107,
+                        49.893574
+                  ]
+            },
+            {
+                  "name": "Whittier Park",
+                  "text": "Whittier Park este un parc în canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -97.121434,
+                        49.899149
+                  ]
+            },
+            {
+                  "name": "Fort Gibraltar",
+                  "text": "Fort Gibraltar este o fortăreață istorică atracție în canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.125659,
+                        49.899315
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canadian Museum for Human Rights",
+                  "text": "Canadian Museum for Human Rights is a national museum dedicated to human rights in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130952,
+                        49.890736
+                  ]
+            },
+            {
+                  "name": "Provencher Bridge",
+                  "text": "Provencher Bridge is a bridge in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.127062,
+                        49.89107
+                  ]
+            },
+            {
+                  "name": "Centre culturel franco-manitobain",
+                  "text": "Centre culturel franco-manitobain is a French cultural centre in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.114107,
+                        49.893574
+                  ]
+            },
+            {
+                  "name": "Whittier Park",
+                  "text": "Whittier Park is a park in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -97.121434,
+                        49.899149
+                  ]
+            },
+            {
+                  "name": "Fort Gibraltar",
+                  "text": "Fort Gibraltar is a historic fort attraction in canadian-museum-for-human-rights-landmarks-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.125659,
+                        49.899315
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-MB",
     coords: [-97.1306, 49.891],
@@ -430,7 +9538,952 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "fairmont-le-chateau-frontenac-landmarks-v2",
+    id: "fairmont-le-chateau-frontenac-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison Alphonse-Desjardins",
+                  "text": "Die Maison Alphonse-Desjardins ist ein Museum in Québec-Stadt, Geburtshaus von Alphonse Desjardins.",
+                  "category": "museum",
+                  "coords": [
+                        -71.18206,
+                        46.809417
+                  ]
+            },
+            {
+                  "name": "Musée de la Civilisation de Québec",
+                  "text": "Das Musée de la Civilisation de Québec ist ein Museum in Québec-Stadt, das die menschliche Zivilisation erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -71.202301,
+                        46.815174
+                  ]
+            },
+            {
+                  "name": "Musée de la place Royale",
+                  "text": "Das Musée de la place Royale ist ein Museum in Québec-Stadt, das die Geschichte der Place Royale zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203189,
+                        46.813299
+                  ]
+            },
+            {
+                  "name": "Maison historique Chevalier",
+                  "text": "Die Maison historique Chevalier ist ein Museum in Québec-Stadt in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203135,
+                        46.812361
+                  ]
+            },
+            {
+                  "name": "Lieu historique national des Forts-et-Châteaux-Saint-Louis",
+                  "text": "Der Lieu historique national des Forts-et-Châteaux-Saint-Louis ist ein Museum in Québec-Stadt am Standort der ehemaligen Gouverneursresidenz.",
+                  "category": "museum",
+                  "coords": [
+                        -71.204359,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "Louis-Hébert",
+                  "text": "Das Louis-Hébert-Denkmal in Québec-Stadt ehrt den ersten Bauern Neufrankreichs.",
+                  "category": "historical",
+                  "coords": [
+                        -71.204193,
+                        46.814171
+                  ]
+            },
+            {
+                  "name": "Agora du Vieux-Port",
+                  "text": "Die Agora du Vieux-Port ist ein Freilichttheater im Alten Hafen von Québec-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.200471,
+                        46.817634
+                  ]
+            },
+            {
+                  "name": "Zitadelle von Québec",
+                  "text": "Diese sternförmige Festung ist die größte britische Festung in Nordamerika und dient als offizielle Residenz des Generalgouverneurs von Kanada.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207425,
+                        46.807456
+                  ]
+            },
+            {
+                  "name": "Place de Paris",
+                  "text": "Dieser Platz erinnert an die Städtepartnerschaft zwischen Québec und Paris.",
+                  "category": "park",
+                  "coords": [
+                        -71.201856,
+                        46.813086
+                  ]
+            },
+            {
+                  "name": "Jardin des Gouverneurs",
+                  "text": "Dieser historische Garten ehrt die Gouverneure von Neufrankreich und beherbergt ein Denkmal.",
+                  "category": "park",
+                  "coords": [
+                        -71.205526,
+                        46.810941
+                  ]
+            },
+            {
+                  "name": "Porte Prescott",
+                  "text": "Dieses historische Stadttor ist Teil der Befestigungsanlagen von Québec.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.204302,
+                        46.81323
+                  ]
+            },
+            {
+                  "name": "Parc Georges-Maranda",
+                  "text": "Dieser Stadtpark ist nach einem Québecer Politiker benannt.",
+                  "category": "park",
+                  "coords": [
+                        -71.170236,
+                        46.805468
+                  ]
+            },
+            {
+                  "name": "Parc du Christ-Roi",
+                  "text": "Dieser Park ist nach dem Fest Christi des Königs benannt.",
+                  "category": "park",
+                  "coords": [
+                        -71.184764,
+                        46.799041
+                  ]
+            },
+            {
+                  "name": "Place des Canotiers",
+                  "text": "Dieser Platz erinnert an die Bootsleute, die auf dem Sankt-Lorenz-Strom arbeiteten.",
+                  "category": "park",
+                  "coords": [
+                        -71.200901,
+                        46.814432
+                  ]
+            },
+            {
+                  "name": "Parc de la Garde côtière canadienne",
+                  "text": "Dieser Park ist der Kanadischen Küstenwache gewidmet.",
+                  "category": "park",
+                  "coords": [
+                        -71.202807,
+                        46.811038
+                  ]
+            },
+            {
+                  "name": "Parc du Cavalier-du-Moulin",
+                  "text": "Dieser Park ist nach einer historischen Persönlichkeit aus dem Mühlenviertel benannt.",
+                  "category": "park",
+                  "coords": [
+                        -71.2075,
+                        46.810633
+                  ]
+            },
+            {
+                  "name": "Place D'Armes",
+                  "text": "Dieser historische Platz wurde einst für Militärübungen genutzt.",
+                  "category": "park",
+                  "coords": [
+                        -71.205792,
+                        46.812592
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie La Traversée",
+                  "text": "Diese Kunstgalerie zeigt zeitgenössische Werke lokaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186594,
+                        46.809351
+                  ]
+            },
+            {
+                  "name": "L'Îlot - Galerie Art'chipel",
+                  "text": "Diese Galerie ist Teil eines Kunst- und Kulturkomplexes in Québec.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183212,
+                        46.805756
+                  ]
+            },
+            {
+                  "name": "Regart",
+                  "text": "Dieses Künstlerzentrum fördert die bildende Kunst in Québec.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186456,
+                        46.81083
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition Louise-Carrier",
+                  "text": "Dieses Ausstellungszentrum zeigt Werke von aufstrebenden und etablierten Künstlern.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183337,
+                        46.80846
+                  ]
+            },
+            {
+                  "name": "Société historique Alphonse-Desjardins",
+                  "text": "Diese historische Gesellschaft bewahrt das Erbe von Alphonse Desjardins, dem Gründer der Genossenschaftsbankbewegung.",
+                  "category": "museum",
+                  "coords": [
+                        -71.181295,
+                        46.808359
+                  ]
+            },
+            {
+                  "name": "Espace-temps",
+                  "text": "Dieser Kunstraum bietet Ausstellungen und Workshops an.",
+                  "category": "museum",
+                  "coords": [
+                        -71.166298,
+                        46.825174
+                  ]
+            },
+            {
+                  "name": "Galerie Gisèle Bouliane",
+                  "text": "Diese Galerie zeigt Gemälde und Skulpturen regionaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203468,
+                        46.815201
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du chantier A.C. Davie",
+                  "text": "Diese nationale historische Stätte erinnert an die Davie-Werft, einen wichtigen Teil der maritimen Geschichte Québecs.",
+                  "category": "museum",
+                  "coords": [
+                        -71.184676,
+                        46.8143
+                  ]
+            },
+            {
+                  "name": "Char d'assaut",
+                  "text": "Dieses Denkmal zeigt einen Panzer und erinnert an eine Militäreinheit.",
+                  "category": "historical",
+                  "coords": [
+                        -71.20739,
+                        46.806515
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison Alphonse-Desjardins",
+                  "text": "A Maison Alphonse-Desjardins egy múzeum Quebec Cityben, Alphonse Desjardins szülőháza.",
+                  "category": "museum",
+                  "coords": [
+                        -71.18206,
+                        46.809417
+                  ]
+            },
+            {
+                  "name": "Musée de la Civilisation de Québec",
+                  "text": "A Musée de la Civilisation de Québec egy múzeum Quebec Cityben, amely az emberi kultúrákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.202301,
+                        46.815174
+                  ]
+            },
+            {
+                  "name": "Musée de la place Royale",
+                  "text": "A Musée de la place Royale egy múzeum Quebec Cityben, amely a Place Royale történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203189,
+                        46.813299
+                  ]
+            },
+            {
+                  "name": "Maison historique Chevalier",
+                  "text": "A Maison historique Chevalier egy múzeum Quebec Cityben, egy történelmi épületben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203135,
+                        46.812361
+                  ]
+            },
+            {
+                  "name": "Lieu historique national des Forts-et-Châteaux-Saint-Louis",
+                  "text": "A Lieu historique national des Forts-et-Châteaux-Saint-Louis egy múzeum Quebec Cityben, a volt kormányzói rezidencia helyszínén.",
+                  "category": "museum",
+                  "coords": [
+                        -71.204359,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "Louis-Hébert",
+                  "text": "A Louis-Hébert-emlékmű Quebec Cityben Új-Franciaország első gazdáját tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        -71.204193,
+                        46.814171
+                  ]
+            },
+            {
+                  "name": "Agora du Vieux-Port",
+                  "text": "Az Agora du Vieux-Port egy szabadtéri színház Quebec City Ókikötőjében.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.200471,
+                        46.817634
+                  ]
+            },
+            {
+                  "name": "La Citadelle de Québec",
+                  "text": "Ez a csillag alakú erőd a legnagyobb brit erőd Észak-Amerikában, és Kanada főkormányzójának hivatalos rezidenciája.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207425,
+                        46.807456
+                  ]
+            },
+            {
+                  "name": "Place de Paris",
+                  "text": "Ez a tér Québec és Párizs testvérvárosi kapcsolatára emlékeztet.",
+                  "category": "park",
+                  "coords": [
+                        -71.201856,
+                        46.813086
+                  ]
+            },
+            {
+                  "name": "Jardin des Gouverneurs",
+                  "text": "Ez a történelmi kert Új-Franciaország kormányzóit tiszteli, és egy emlékművet tartalmaz.",
+                  "category": "park",
+                  "coords": [
+                        -71.205526,
+                        46.810941
+                  ]
+            },
+            {
+                  "name": "Porte Prescott",
+                  "text": "Ez a történelmi városkapu Québec erődítményeinek része.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.204302,
+                        46.81323
+                  ]
+            },
+            {
+                  "name": "Parc Georges-Maranda",
+                  "text": "Ez a városi park egy québeci politikusról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -71.170236,
+                        46.805468
+                  ]
+            },
+            {
+                  "name": "Parc du Christ-Roi",
+                  "text": "Ez a park a Krisztus Király ünnepéről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -71.184764,
+                        46.799041
+                  ]
+            },
+            {
+                  "name": "Place des Canotiers",
+                  "text": "Ez a tér a Szent Lőrinc-folyón dolgozó csónakosokra emlékezik.",
+                  "category": "park",
+                  "coords": [
+                        -71.200901,
+                        46.814432
+                  ]
+            },
+            {
+                  "name": "Parc de la Garde côtière canadienne",
+                  "text": "Ez a park a Kanadai Parti Őrségnek van szentelve.",
+                  "category": "park",
+                  "coords": [
+                        -71.202807,
+                        46.811038
+                  ]
+            },
+            {
+                  "name": "Parc du Cavalier-du-Moulin",
+                  "text": "Ez a park a Malom (Moulin) környékének egy történelmi alakjáról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -71.2075,
+                        46.810633
+                  ]
+            },
+            {
+                  "name": "Place D'Armes",
+                  "text": "Ezt a történelmi teret egykor katonai gyakorlatokhoz használták.",
+                  "category": "park",
+                  "coords": [
+                        -71.205792,
+                        46.812592
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie La Traversée",
+                  "text": "Ez a művészeti galéria helyi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186594,
+                        46.809351
+                  ]
+            },
+            {
+                  "name": "L'Îlot - Galerie Art'chipel",
+                  "text": "Ez a galéria egy québeci művészeti és kulturális komplexum része.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183212,
+                        46.805756
+                  ]
+            },
+            {
+                  "name": "Regart",
+                  "text": "Ez a művészközpont a képzőművészetet népszerűsíti Québecben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186456,
+                        46.81083
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition Louise-Carrier",
+                  "text": "Ez a kiállítási központ feltörekvő és elismert művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183337,
+                        46.80846
+                  ]
+            },
+            {
+                  "name": "Société historique Alphonse-Desjardins",
+                  "text": "Ez a történelmi társaság őrzi Alphonse Desjardins, a hitelszövetkezeti mozgalom alapítójának örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        -71.181295,
+                        46.808359
+                  ]
+            },
+            {
+                  "name": "Espace-temps",
+                  "text": "Ez a művészeti tér kiállításokat és workshopokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        -71.166298,
+                        46.825174
+                  ]
+            },
+            {
+                  "name": "Galerie Gisèle Bouliane",
+                  "text": "Ez a galéria regionális művészek festményeit és szobrait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203468,
+                        46.815201
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du chantier A.C. Davie",
+                  "text": "Ez a nemzeti történelmi helyszín a Davie hajógyárra emlékeztet, amely Québec tengerészeti történelmének fontos része.",
+                  "category": "museum",
+                  "coords": [
+                        -71.184676,
+                        46.8143
+                  ]
+            },
+            {
+                  "name": "Char d'assaut",
+                  "text": "Ez az emlékmű egy harckocsit ábrázol, és egy katonai egységre emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        -71.20739,
+                        46.806515
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison Alphonse-Desjardins",
+                  "text": "Maison Alphonse-Desjardins este un muzeu în orașul Québec, casa natală a lui Alphonse Desjardins.",
+                  "category": "museum",
+                  "coords": [
+                        -71.18206,
+                        46.809417
+                  ]
+            },
+            {
+                  "name": "Musée de la Civilisation de Québec",
+                  "text": "Musée de la Civilisation de Québec este un muzeu în orașul Québec care explorează civilizațiile umane.",
+                  "category": "museum",
+                  "coords": [
+                        -71.202301,
+                        46.815174
+                  ]
+            },
+            {
+                  "name": "Musée de la place Royale",
+                  "text": "Musée de la place Royale este un muzeu în orașul Québec care prezintă istoria Pieței Royale.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203189,
+                        46.813299
+                  ]
+            },
+            {
+                  "name": "Maison historique Chevalier",
+                  "text": "Maison historique Chevalier este un muzeu în orașul Québec într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203135,
+                        46.812361
+                  ]
+            },
+            {
+                  "name": "Lieu historique national des Forts-et-Châteaux-Saint-Louis",
+                  "text": "Lieu historique national des Forts-et-Châteaux-Saint-Louis este un muzeu în orașul Québec pe locul fostei reședințe a guvernatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        -71.204359,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "Louis-Hébert",
+                  "text": "Monumentul Louis-Hébert din orașul Québec îl onorează pe primul fermier al Noii Franțe.",
+                  "category": "historical",
+                  "coords": [
+                        -71.204193,
+                        46.814171
+                  ]
+            },
+            {
+                  "name": "Agora du Vieux-Port",
+                  "text": "Agora du Vieux-Port este un teatru în aer liber în Portul Vechi din orașul Québec.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.200471,
+                        46.817634
+                  ]
+            },
+            {
+                  "name": "La Citadelle de Québec",
+                  "text": "Această fortăreață în formă de stea este cea mai mare fortăreață britanică din America de Nord și servește ca reședință oficială a Guvernatorului General al Canadei.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207425,
+                        46.807456
+                  ]
+            },
+            {
+                  "name": "Place de Paris",
+                  "text": "Această piață comemorează înfrățirea între orașele Québec și Paris.",
+                  "category": "park",
+                  "coords": [
+                        -71.201856,
+                        46.813086
+                  ]
+            },
+            {
+                  "name": "Jardin des Gouverneurs",
+                  "text": "Această grădină istorică onorează guvernatorii Noii Franțe și include un monument.",
+                  "category": "park",
+                  "coords": [
+                        -71.205526,
+                        46.810941
+                  ]
+            },
+            {
+                  "name": "Porte Prescott",
+                  "text": "Această poartă istorică face parte din fortificațiile orașului Québec.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.204302,
+                        46.81323
+                  ]
+            },
+            {
+                  "name": "Parc Georges-Maranda",
+                  "text": "Acest parc urban poartă numele unui politician din Québec.",
+                  "category": "park",
+                  "coords": [
+                        -71.170236,
+                        46.805468
+                  ]
+            },
+            {
+                  "name": "Parc du Christ-Roi",
+                  "text": "Acest parc este numit după sărbătoarea lui Hristos Regele.",
+                  "category": "park",
+                  "coords": [
+                        -71.184764,
+                        46.799041
+                  ]
+            },
+            {
+                  "name": "Place des Canotiers",
+                  "text": "Această piață comemorează barcașii care au lucrat pe fluviul Sfântul Laurențiu.",
+                  "category": "park",
+                  "coords": [
+                        -71.200901,
+                        46.814432
+                  ]
+            },
+            {
+                  "name": "Parc de la Garde côtière canadienne",
+                  "text": "Acest parc este dedicat Gărzii de Coastă Canadiene.",
+                  "category": "park",
+                  "coords": [
+                        -71.202807,
+                        46.811038
+                  ]
+            },
+            {
+                  "name": "Parc du Cavalier-du-Moulin",
+                  "text": "Acest parc poartă numele unei figuri istorice asociate cu zona Morii (Moulin).",
+                  "category": "park",
+                  "coords": [
+                        -71.2075,
+                        46.810633
+                  ]
+            },
+            {
+                  "name": "Place D'Armes",
+                  "text": "Această piață istorică a fost odată folosită pentru exerciții militare.",
+                  "category": "park",
+                  "coords": [
+                        -71.205792,
+                        46.812592
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie La Traversée",
+                  "text": "Această galerie de artă prezintă lucrări contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186594,
+                        46.809351
+                  ]
+            },
+            {
+                  "name": "L'Îlot - Galerie Art'chipel",
+                  "text": "Această galerie face parte dintr-un complex de artă și cultură din Québec.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183212,
+                        46.805756
+                  ]
+            },
+            {
+                  "name": "Regart",
+                  "text": "Acest centru condus de artiști promovează artele vizuale în Québec.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186456,
+                        46.81083
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition Louise-Carrier",
+                  "text": "Acest centru expozițional prezintă lucrări ale artiștilor emergenți și consacrați.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183337,
+                        46.80846
+                  ]
+            },
+            {
+                  "name": "Société historique Alphonse-Desjardins",
+                  "text": "Această societate istorică păstrează moștenirea lui Alphonse Desjardins, fondatorul mișcării cooperativelor de credit.",
+                  "category": "museum",
+                  "coords": [
+                        -71.181295,
+                        46.808359
+                  ]
+            },
+            {
+                  "name": "Espace-temps",
+                  "text": "Acest spațiu artistic oferă expoziții și ateliere.",
+                  "category": "museum",
+                  "coords": [
+                        -71.166298,
+                        46.825174
+                  ]
+            },
+            {
+                  "name": "Galerie Gisèle Bouliane",
+                  "text": "Această galerie prezintă picturi și sculpturi ale artiștilor regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203468,
+                        46.815201
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du chantier A.C. Davie",
+                  "text": "Acest sit istoric național comemorează șantierul naval Davie, o parte importantă a istoriei maritime a Québecului.",
+                  "category": "museum",
+                  "coords": [
+                        -71.184676,
+                        46.8143
+                  ]
+            },
+            {
+                  "name": "Char d'assaut",
+                  "text": "Acest monument prezintă un tanc, comemorând o unitate militară.",
+                  "category": "historical",
+                  "coords": [
+                        -71.20739,
+                        46.806515
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison Alphonse-Desjardins",
+                  "text": "Maison Alphonse-Desjardins is a museum in Quebec City, birthplace of Alphonse Desjardins.",
+                  "category": "museum",
+                  "coords": [
+                        -71.18206,
+                        46.809417
+                  ]
+            },
+            {
+                  "name": "Musée de la Civilisation de Québec",
+                  "text": "Musée de la Civilisation de Québec is a museum in Quebec City exploring human cultures.",
+                  "category": "museum",
+                  "coords": [
+                        -71.202301,
+                        46.815174
+                  ]
+            },
+            {
+                  "name": "Musée de la place Royale",
+                  "text": "Musée de la place Royale is a museum in Quebec City showcasing the history of Place Royale.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203189,
+                        46.813299
+                  ]
+            },
+            {
+                  "name": "Maison historique Chevalier",
+                  "text": "Maison historique Chevalier is a museum in Quebec City in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203135,
+                        46.812361
+                  ]
+            },
+            {
+                  "name": "Lieu historique national des Forts-et-Châteaux-Saint-Louis",
+                  "text": "Lieu historique national des Forts-et-Châteaux-Saint-Louis is a museum in Quebec City on the site of the former governor's residence.",
+                  "category": "museum",
+                  "coords": [
+                        -71.204359,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "Louis-Hébert",
+                  "text": "Louis-Hébert is a monument in Quebec City honoring the first farmer of New France.",
+                  "category": "historical",
+                  "coords": [
+                        -71.204193,
+                        46.814171
+                  ]
+            },
+            {
+                  "name": "Agora du Vieux-Port",
+                  "text": "Agora du Vieux-Port is an outdoor theatre in Quebec City's Old Port.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.200471,
+                        46.817634
+                  ]
+            },
+            {
+                  "name": "The Citadel of Quebec",
+                  "text": "This star-shaped fortress is the largest British-built fortress in North America and serves as the official residence of Canada's Governor General.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.207425,
+                        46.807456
+                  ]
+            },
+            {
+                  "name": "Place de Paris",
+                  "text": "This square commemorates the twinning between Quebec City and Paris.",
+                  "category": "park",
+                  "coords": [
+                        -71.201856,
+                        46.813086
+                  ]
+            },
+            {
+                  "name": "Governors' Garden",
+                  "text": "This historic garden honors the governors of New France and features a monument.",
+                  "category": "park",
+                  "coords": [
+                        -71.205526,
+                        46.810941
+                  ]
+            },
+            {
+                  "name": "Porte Prescott",
+                  "text": "This historic city gate is part of the fortifications of Quebec City.",
+                  "category": "fortress",
+                  "coords": [
+                        -71.204302,
+                        46.81323
+                  ]
+            },
+            {
+                  "name": "Parc Georges-Maranda",
+                  "text": "This neighborhood park is named after a Quebec politician.",
+                  "category": "park",
+                  "coords": [
+                        -71.170236,
+                        46.805468
+                  ]
+            },
+            {
+                  "name": "Parc du Christ-Roi",
+                  "text": "This park is named after the feast of Christ the King.",
+                  "category": "park",
+                  "coords": [
+                        -71.184764,
+                        46.799041
+                  ]
+            },
+            {
+                  "name": "Place des Canotiers",
+                  "text": "This square commemorates the boatmen who worked on the St. Lawrence River.",
+                  "category": "park",
+                  "coords": [
+                        -71.200901,
+                        46.814432
+                  ]
+            },
+            {
+                  "name": "Parc de la Garde côtière canadienne",
+                  "text": "This park is dedicated to the Canadian Coast Guard.",
+                  "category": "park",
+                  "coords": [
+                        -71.202807,
+                        46.811038
+                  ]
+            },
+            {
+                  "name": "Parc du Cavalier-du-Moulin",
+                  "text": "This park is named after a historical figure associated with the Moulin (mill) area.",
+                  "category": "park",
+                  "coords": [
+                        -71.2075,
+                        46.810633
+                  ]
+            },
+            {
+                  "name": "Place D'Armes",
+                  "text": "This historic square was once used for military drills.",
+                  "category": "park",
+                  "coords": [
+                        -71.205792,
+                        46.812592
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie La Traversée",
+                  "text": "This art gallery showcases contemporary works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186594,
+                        46.809351
+                  ]
+            },
+            {
+                  "name": "L'Îlot - Galerie Art'chipel",
+                  "text": "This gallery is part of an arts and culture complex in Quebec City.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183212,
+                        46.805756
+                  ]
+            },
+            {
+                  "name": "Regart",
+                  "text": "This artist-run centre promotes visual arts in Quebec City.",
+                  "category": "museum",
+                  "coords": [
+                        -71.186456,
+                        46.81083
+                  ]
+            },
+            {
+                  "name": "Centre d'exposition Louise-Carrier",
+                  "text": "This exhibition centre features works by emerging and established artists.",
+                  "category": "museum",
+                  "coords": [
+                        -71.183337,
+                        46.80846
+                  ]
+            },
+            {
+                  "name": "Société historique Alphonse-Desjardins",
+                  "text": "This historical society preserves the legacy of Alphonse Desjardins, founder of the credit union movement.",
+                  "category": "museum",
+                  "coords": [
+                        -71.181295,
+                        46.808359
+                  ]
+            },
+            {
+                  "name": "Espace-temps",
+                  "text": "This art space offers exhibitions and workshops.",
+                  "category": "museum",
+                  "coords": [
+                        -71.166298,
+                        46.825174
+                  ]
+            },
+            {
+                  "name": "Galerie Gisèle Bouliane",
+                  "text": "This gallery features paintings and sculptures by regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -71.203468,
+                        46.815201
+                  ]
+            },
+            {
+                  "name": "Lieu historique national du chantier A.C. Davie",
+                  "text": "This national historic site commemorates the Davie shipyard, an important part of Quebec's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        -71.184676,
+                        46.8143
+                  ]
+            },
+            {
+                  "name": "Char d'assaut",
+                  "text": "This monument features a tank or armored vehicle, commemorating a military unit.",
+                  "category": "historical",
+                  "coords": [
+                        -71.20739,
+                        46.806515
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-71.2046, 46.8122],
@@ -466,7 +10519,1384 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "casa-loma-landmarks-v2",
+    id: "casa-loma-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lambton House",
+                  "text": "Lambton House ist ein historisches Hausmuseum im Casa-Loma-Viertel von Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503658,
+                        43.663094
+                  ]
+            },
+            {
+                  "name": "Serbian Eastern-Orthodox",
+                  "text": "Die serbisch-ostorthodoxe Kirche ist eine serbisch-orthodoxe Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.428487,
+                        43.661786
+                  ]
+            },
+            {
+                  "name": "Beth Habonim Congregation",
+                  "text": "Beth Habonim Congregation ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.42943,
+                        43.712768
+                  ]
+            },
+            {
+                  "name": "Central United Church",
+                  "text": "Central United Church ist eine Kirche der United Church of Canada im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.520137,
+                        43.70152
+                  ]
+            },
+            {
+                  "name": "St. Paul the Apostle Church",
+                  "text": "St. Paul the Apostle Church ist eine römisch-katholische Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.477855,
+                        43.665817
+                  ]
+            },
+            {
+                  "name": "Congregation Knesseth Israel",
+                  "text": "Congregation Knesseth Israel ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.475426,
+                        43.666493
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "St. Peter's Roman Catholic Church ist eine römisch-katholische Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.412368,
+                        43.665975
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Alban-the-Martyr",
+                  "text": "Die Kapelle von St. Alban-the-Martyr ist eine Kathedrale im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410457,
+                        43.668963
+                  ]
+            },
+            {
+                  "name": "Asbury & West United Church",
+                  "text": "Asbury & West United Church ist eine Kirche der United Church im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.431384,
+                        43.72268
+                  ]
+            },
+            {
+                  "name": "Shaarei Shomayim Congregation",
+                  "text": "Shaarei Shomayim Congregation ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.427049,
+                        43.713111
+                  ]
+            },
+            {
+                  "name": "Grace Church-on-the-Hill",
+                  "text": "Grace Church-on-the-Hill ist eine anglikanische Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410261,
+                        43.689488
+                  ]
+            },
+            {
+                  "name": "Tarragon Theatre",
+                  "text": "Tarragon Theatre ist ein Theater im Casa-Loma-Viertel von Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.412986,
+                        43.674992
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Holy Rosary Church ist eine römisch-katholische Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413895,
+                        43.684553
+                  ]
+            },
+            {
+                  "name": "Beth Tzedec Synagogue",
+                  "text": "Beth Tzedec Synagogue ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.424299,
+                        43.695525
+                  ]
+            },
+            {
+                  "name": "Holy Blossom Temple",
+                  "text": "Holy Blossom Temple ist eine reformjüdische Gemeinde im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.425312,
+                        43.698262
+                  ]
+            },
+            {
+                  "name": "Stashover-Slipia Congregation",
+                  "text": "Stashover-Slipia Congregation ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432609,
+                        43.72835
+                  ]
+            },
+            {
+                  "name": "Adath Israel Congregation",
+                  "text": "Adath Israel Congregation ist eine Synagoge im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43118,
+                        43.738537
+                  ]
+            },
+            {
+                  "name": "Casa Loma",
+                  "text": "Casa Loma ist ein historisches burgähnliches Herrenhaus im Casa-Loma-Viertel von Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.409398,
+                        43.678102
+                  ]
+            },
+            {
+                  "name": "James Gardens",
+                  "text": "James Gardens ist ein öffentlicher Garten im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.514495,
+                        43.6719
+                  ]
+            },
+            {
+                  "name": "Runnymede Park",
+                  "text": "Runnymede Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.479032,
+                        43.668276
+                  ]
+            },
+            {
+                  "name": "West Toronto Railpath",
+                  "text": "West Toronto Railpath ist ein Mehrzweckweg im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.452313,
+                        43.65975
+                  ]
+            },
+            {
+                  "name": "Christie Pits Park",
+                  "text": "Christie Pits Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.420826,
+                        43.664688
+                  ]
+            },
+            {
+                  "name": "Wychwood Barns Park",
+                  "text": "Wychwood Barns Park ist ein Park mit historischen Scheunen im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.423714,
+                        43.679709
+                  ]
+            },
+            {
+                  "name": "Cedarvale Park",
+                  "text": "Cedarvale Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.425525,
+                        43.691095
+                  ]
+            },
+            {
+                  "name": "Fairbank Memorial Park",
+                  "text": "Fairbank Memorial Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.44764,
+                        43.691672
+                  ]
+            },
+            {
+                  "name": "The Eglinton Grand",
+                  "text": "The Eglinton Grand ist ein historisches Theater im Casa-Loma-Viertel von Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410504,
+                        43.704324
+                  ]
+            },
+            {
+                  "name": "St Cecilias Catholic Church",
+                  "text": "St Cecilias Catholic Church ist eine römisch-katholische Kirche im Casa-Loma-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.46723,
+                        43.662988
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Croatia",
+                  "text": "Our Lady Queen of Croatia ist eine katholische Kirche im Casa-Loma-Viertel von Toronto, die der kroatischen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43532,
+                        43.657964
+                  ]
+            },
+            {
+                  "name": "Paradise Cinema",
+                  "text": "Paradise Cinema ist ein Kino im Casa-Loma-Viertel von Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.430707,
+                        43.661144
+                  ]
+            },
+            {
+                  "name": "Malta Park",
+                  "text": "Malta Park ist ein Nachbarschaftspark im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.475568,
+                        43.665301
+                  ]
+            },
+            {
+                  "name": "Harding Park",
+                  "text": "Harding Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.497094,
+                        43.699139
+                  ]
+            },
+            {
+                  "name": "Westlake Park",
+                  "text": "Westlake Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.487025,
+                        43.681586
+                  ]
+            },
+            {
+                  "name": "Baird Park",
+                  "text": "Baird Park ist ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.462561,
+                        43.662362
+                  ]
+            },
+            {
+                  "name": "Bartlett Parkette",
+                  "text": "Ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.436308,
+                        43.670323
+                  ]
+            },
+            {
+                  "name": "Shallmar Parkette",
+                  "text": "Ein Park im Casa-Loma-Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.423812,
+                        43.703868
+                  ]
+            },
+            {
+                  "name": "8×7",
+                  "text": "Eine Kunstgalerie im Casa-Loma-Viertel von Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.463661,
+                        43.668726
+                  ]
+            },
+            {
+                  "name": "Cultural Goods Gallery",
+                  "text": "Eine Kunstgalerie im Casa-Loma-Viertel von Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.449254,
+                        43.666977
+                  ]
+            },
+            {
+                  "name": "Mercer Union - a centre for contemporary art",
+                  "text": "Ein Zentrum für zeitgenössische Kunst im Casa-Loma-Viertel von Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.44194,
+                        43.658679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lambton House",
+                  "text": "A Lambton House egy történelmi házmúzeum Toronto Casa Loma negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503658,
+                        43.663094
+                  ]
+            },
+            {
+                  "name": "Serbian Eastern-Orthodox",
+                  "text": "A szerb keleti ortodox templom egy szerb ortodox templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.428487,
+                        43.661786
+                  ]
+            },
+            {
+                  "name": "Beth Habonim Congregation",
+                  "text": "A Beth Habonim gyülekezet egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.42943,
+                        43.712768
+                  ]
+            },
+            {
+                  "name": "Central United Church",
+                  "text": "A Central United Church a Kanadai Egyesült Templom egyháza Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.520137,
+                        43.70152
+                  ]
+            },
+            {
+                  "name": "St. Paul the Apostle Church",
+                  "text": "A Szent Pál apostol templom egy római katolikus templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.477855,
+                        43.665817
+                  ]
+            },
+            {
+                  "name": "Congregation Knesseth Israel",
+                  "text": "A Knesseth Israel gyülekezet egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.475426,
+                        43.666493
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "A Szent Péter római katolikus templom egy római katolikus templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.412368,
+                        43.665975
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Alban-the-Martyr",
+                  "text": "A Szent Alban vértanú kápolna egy székesegyház Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410457,
+                        43.668963
+                  ]
+            },
+            {
+                  "name": "Asbury & West United Church",
+                  "text": "Az Asbury & West United Church az Egyesült Templom egyháza Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.431384,
+                        43.72268
+                  ]
+            },
+            {
+                  "name": "Shaarei Shomayim Congregation",
+                  "text": "A Shaarei Shomayim gyülekezet egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.427049,
+                        43.713111
+                  ]
+            },
+            {
+                  "name": "Grace Church-on-the-Hill",
+                  "text": "A Grace Church-on-the-Hill egy anglikán templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410261,
+                        43.689488
+                  ]
+            },
+            {
+                  "name": "Tarragon Theatre",
+                  "text": "A Tarragon Theatre egy színház Toronto Casa Loma negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.412986,
+                        43.674992
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "A Holy Rosary Church egy római katolikus templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413895,
+                        43.684553
+                  ]
+            },
+            {
+                  "name": "Beth Tzedec Synagogue",
+                  "text": "A Beth Tzedec zsinagóga egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.424299,
+                        43.695525
+                  ]
+            },
+            {
+                  "name": "Holy Blossom Temple",
+                  "text": "A Holy Blossom Temple egy reformzsidó gyülekezet Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.425312,
+                        43.698262
+                  ]
+            },
+            {
+                  "name": "Stashover-Slipia Congregation",
+                  "text": "A Stashover-Slipia gyülekezet egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432609,
+                        43.72835
+                  ]
+            },
+            {
+                  "name": "Adath Israel Congregation",
+                  "text": "Az Adath Israel gyülekezet egy zsinagóga Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43118,
+                        43.738537
+                  ]
+            },
+            {
+                  "name": "Casa Loma",
+                  "text": "A Casa Loma egy történelmi kastélyszerű kúria Toronto Casa Loma negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.409398,
+                        43.678102
+                  ]
+            },
+            {
+                  "name": "James Gardens",
+                  "text": "A James Gardens egy nyilvános kert Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.514495,
+                        43.6719
+                  ]
+            },
+            {
+                  "name": "Runnymede Park",
+                  "text": "A Runnymede Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.479032,
+                        43.668276
+                  ]
+            },
+            {
+                  "name": "West Toronto Railpath",
+                  "text": "A West Toronto Railpath egy többcélú ösvény Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.452313,
+                        43.65975
+                  ]
+            },
+            {
+                  "name": "Christie Pits Park",
+                  "text": "A Christie Pits Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.420826,
+                        43.664688
+                  ]
+            },
+            {
+                  "name": "Wychwood Barns Park",
+                  "text": "A Wychwood Barns Park egy park történelmi pajtákkal Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.423714,
+                        43.679709
+                  ]
+            },
+            {
+                  "name": "Cedarvale Park",
+                  "text": "A Cedarvale Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.425525,
+                        43.691095
+                  ]
+            },
+            {
+                  "name": "Fairbank Memorial Park",
+                  "text": "A Fairbank Memorial Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.44764,
+                        43.691672
+                  ]
+            },
+            {
+                  "name": "The Eglinton Grand",
+                  "text": "Az Eglinton Grand egy történelmi színház Toronto Casa Loma negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410504,
+                        43.704324
+                  ]
+            },
+            {
+                  "name": "St Cecilias Catholic Church",
+                  "text": "A Szent Cecília katolikus templom egy római katolikus templom Toronto Casa Loma negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.46723,
+                        43.662988
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Croatia",
+                  "text": "A Horvátország Királynője templom egy katolikus templom Toronto Casa Loma negyedében, amely a horvát közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43532,
+                        43.657964
+                  ]
+            },
+            {
+                  "name": "Paradise Cinema",
+                  "text": "A Paradise Cinema egy mozi Toronto Casa Loma negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.430707,
+                        43.661144
+                  ]
+            },
+            {
+                  "name": "Malta Park",
+                  "text": "A Malta Park egy környéki park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.475568,
+                        43.665301
+                  ]
+            },
+            {
+                  "name": "Harding Park",
+                  "text": "A Harding Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.497094,
+                        43.699139
+                  ]
+            },
+            {
+                  "name": "Westlake Park",
+                  "text": "A Westlake Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.487025,
+                        43.681586
+                  ]
+            },
+            {
+                  "name": "Baird Park",
+                  "text": "A Baird Park egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.462561,
+                        43.662362
+                  ]
+            },
+            {
+                  "name": "Bartlett Parkette",
+                  "text": "Egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.436308,
+                        43.670323
+                  ]
+            },
+            {
+                  "name": "Shallmar Parkette",
+                  "text": "Egy park Toronto Casa Loma negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.423812,
+                        43.703868
+                  ]
+            },
+            {
+                  "name": "8×7",
+                  "text": "Egy művészeti galéria Toronto Casa Loma negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.463661,
+                        43.668726
+                  ]
+            },
+            {
+                  "name": "Cultural Goods Gallery",
+                  "text": "Egy művészeti galéria Toronto Casa Loma negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.449254,
+                        43.666977
+                  ]
+            },
+            {
+                  "name": "Mercer Union - a centre for contemporary art",
+                  "text": "A kortárs művészet központja Toronto Casa Loma negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.44194,
+                        43.658679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lambton House",
+                  "text": "Lambton House este un muzeu istoric de casă în cartierul Casa Loma din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503658,
+                        43.663094
+                  ]
+            },
+            {
+                  "name": "Serbian Eastern-Orthodox",
+                  "text": "Biserica ortodoxă sârbă de est este o biserică ortodoxă sârbă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.428487,
+                        43.661786
+                  ]
+            },
+            {
+                  "name": "Beth Habonim Congregation",
+                  "text": "Congregația Beth Habonim este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.42943,
+                        43.712768
+                  ]
+            },
+            {
+                  "name": "Central United Church",
+                  "text": "Central United Church este o biserică a Bisericii Unite a Canadei în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.520137,
+                        43.70152
+                  ]
+            },
+            {
+                  "name": "St. Paul the Apostle Church",
+                  "text": "Biserica Sfântul Pavel Apostolul este o biserică romano-catolică în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.477855,
+                        43.665817
+                  ]
+            },
+            {
+                  "name": "Congregation Knesseth Israel",
+                  "text": "Congregația Knesseth Israel este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.475426,
+                        43.666493
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "Biserica Romano-Catolică Sfântul Petru este o biserică romano-catolică în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.412368,
+                        43.665975
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Alban-the-Martyr",
+                  "text": "Capela Sfântul Alban Mucenicul este o catedrală în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410457,
+                        43.668963
+                  ]
+            },
+            {
+                  "name": "Asbury & West United Church",
+                  "text": "Asbury & West United Church este o biserică a Bisericii Unite în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.431384,
+                        43.72268
+                  ]
+            },
+            {
+                  "name": "Shaarei Shomayim Congregation",
+                  "text": "Congregația Shaarei Shomayim este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.427049,
+                        43.713111
+                  ]
+            },
+            {
+                  "name": "Grace Church-on-the-Hill",
+                  "text": "Grace Church-on-the-Hill este o biserică anglicană în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410261,
+                        43.689488
+                  ]
+            },
+            {
+                  "name": "Tarragon Theatre",
+                  "text": "Tarragon Theatre este un teatru în cartierul Casa Loma din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.412986,
+                        43.674992
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Holy Rosary Church este o biserică romano-catolică în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413895,
+                        43.684553
+                  ]
+            },
+            {
+                  "name": "Beth Tzedec Synagogue",
+                  "text": "Sinagoga Beth Tzedec este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.424299,
+                        43.695525
+                  ]
+            },
+            {
+                  "name": "Holy Blossom Temple",
+                  "text": "Holy Blossom Temple este o congregație evreiască reformată în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.425312,
+                        43.698262
+                  ]
+            },
+            {
+                  "name": "Stashover-Slipia Congregation",
+                  "text": "Congregația Stashover-Slipia este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432609,
+                        43.72835
+                  ]
+            },
+            {
+                  "name": "Adath Israel Congregation",
+                  "text": "Congregația Adath Israel este o sinagogă în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43118,
+                        43.738537
+                  ]
+            },
+            {
+                  "name": "Casa Loma",
+                  "text": "Casa Loma este un conac istoric asemănător unui castel în cartierul Casa Loma din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.409398,
+                        43.678102
+                  ]
+            },
+            {
+                  "name": "James Gardens",
+                  "text": "James Gardens este o grădină publică în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.514495,
+                        43.6719
+                  ]
+            },
+            {
+                  "name": "Runnymede Park",
+                  "text": "Runnymede Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.479032,
+                        43.668276
+                  ]
+            },
+            {
+                  "name": "West Toronto Railpath",
+                  "text": "West Toronto Railpath este o potecă multifuncțională în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.452313,
+                        43.65975
+                  ]
+            },
+            {
+                  "name": "Christie Pits Park",
+                  "text": "Christie Pits Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.420826,
+                        43.664688
+                  ]
+            },
+            {
+                  "name": "Wychwood Barns Park",
+                  "text": "Wychwood Barns Park este un parc cu hambare istorice în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.423714,
+                        43.679709
+                  ]
+            },
+            {
+                  "name": "Cedarvale Park",
+                  "text": "Cedarvale Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.425525,
+                        43.691095
+                  ]
+            },
+            {
+                  "name": "Fairbank Memorial Park",
+                  "text": "Fairbank Memorial Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.44764,
+                        43.691672
+                  ]
+            },
+            {
+                  "name": "The Eglinton Grand",
+                  "text": "The Eglinton Grand este un teatru istoric în cartierul Casa Loma din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410504,
+                        43.704324
+                  ]
+            },
+            {
+                  "name": "St Cecilias Catholic Church",
+                  "text": "Biserica Romano-Catolică Sfânta Cecilia este o biserică romano-catolică în cartierul Casa Loma din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.46723,
+                        43.662988
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Croatia",
+                  "text": "Our Lady Queen of Croatia este o biserică catolică în cartierul Casa Loma din Toronto, care deservește comunitatea croată.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43532,
+                        43.657964
+                  ]
+            },
+            {
+                  "name": "Paradise Cinema",
+                  "text": "Paradise Cinema este un cinematograf în cartierul Casa Loma din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.430707,
+                        43.661144
+                  ]
+            },
+            {
+                  "name": "Malta Park",
+                  "text": "Malta Park este un parc de cartier în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.475568,
+                        43.665301
+                  ]
+            },
+            {
+                  "name": "Harding Park",
+                  "text": "Harding Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.497094,
+                        43.699139
+                  ]
+            },
+            {
+                  "name": "Westlake Park",
+                  "text": "Westlake Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.487025,
+                        43.681586
+                  ]
+            },
+            {
+                  "name": "Baird Park",
+                  "text": "Baird Park este un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.462561,
+                        43.662362
+                  ]
+            },
+            {
+                  "name": "Bartlett Parkette",
+                  "text": "Un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.436308,
+                        43.670323
+                  ]
+            },
+            {
+                  "name": "Shallmar Parkette",
+                  "text": "Un parc în cartierul Casa Loma din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.423812,
+                        43.703868
+                  ]
+            },
+            {
+                  "name": "8×7",
+                  "text": "O galerie de artă în cartierul Casa Loma din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.463661,
+                        43.668726
+                  ]
+            },
+            {
+                  "name": "Cultural Goods Gallery",
+                  "text": "O galerie de artă în cartierul Casa Loma din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.449254,
+                        43.666977
+                  ]
+            },
+            {
+                  "name": "Mercer Union - a centre for contemporary art",
+                  "text": "Un centru de artă contemporană în cartierul Casa Loma din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.44194,
+                        43.658679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lambton House",
+                  "text": "Lambton House is a historic house museum in the Casa Loma area of Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503658,
+                        43.663094
+                  ]
+            },
+            {
+                  "name": "Serbian Eastern-Orthodox",
+                  "text": "The Serbian Eastern-Orthodox church is a Serbian Orthodox church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.428487,
+                        43.661786
+                  ]
+            },
+            {
+                  "name": "Beth Habonim Congregation",
+                  "text": "Beth Habonim Congregation is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.42943,
+                        43.712768
+                  ]
+            },
+            {
+                  "name": "Central United Church",
+                  "text": "Central United Church is a United Church of Canada in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.520137,
+                        43.70152
+                  ]
+            },
+            {
+                  "name": "St. Paul the Apostle Church",
+                  "text": "St. Paul the Apostle Church is a Roman Catholic church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.477855,
+                        43.665817
+                  ]
+            },
+            {
+                  "name": "Congregation Knesseth Israel",
+                  "text": "Congregation Knesseth Israel is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.475426,
+                        43.666493
+                  ]
+            },
+            {
+                  "name": "St. Peter's Roman Catholic Church",
+                  "text": "St. Peter's Roman Catholic Church is a Roman Catholic church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.412368,
+                        43.665975
+                  ]
+            },
+            {
+                  "name": "Chapel of St. Alban-the-Martyr",
+                  "text": "The Chapel of St. Alban-the-Martyr is a cathedral in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410457,
+                        43.668963
+                  ]
+            },
+            {
+                  "name": "Asbury & West United Church",
+                  "text": "Asbury & West United Church is a United Church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.431384,
+                        43.72268
+                  ]
+            },
+            {
+                  "name": "Shaarei Shomayim Congregation",
+                  "text": "Shaarei Shomayim Congregation is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.427049,
+                        43.713111
+                  ]
+            },
+            {
+                  "name": "Grace Church-on-the-Hill",
+                  "text": "Grace Church-on-the-Hill is an Anglican church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.410261,
+                        43.689488
+                  ]
+            },
+            {
+                  "name": "Tarragon Theatre",
+                  "text": "Tarragon Theatre is a theatre in the Casa Loma area of Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.412986,
+                        43.674992
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Holy Rosary Church is a Roman Catholic church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.413895,
+                        43.684553
+                  ]
+            },
+            {
+                  "name": "Beth Tzedec Synagogue",
+                  "text": "Beth Tzedec Synagogue is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.424299,
+                        43.695525
+                  ]
+            },
+            {
+                  "name": "Holy Blossom Temple",
+                  "text": "Holy Blossom Temple is a Reform Jewish congregation in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.425312,
+                        43.698262
+                  ]
+            },
+            {
+                  "name": "Stashover-Slipia Congregation",
+                  "text": "Stashover-Slipia Congregation is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432609,
+                        43.72835
+                  ]
+            },
+            {
+                  "name": "Adath Israel Congregation",
+                  "text": "Adath Israel Congregation is a synagogue in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43118,
+                        43.738537
+                  ]
+            },
+            {
+                  "name": "Casa Loma",
+                  "text": "Casa Loma is a historic castle-like mansion in Toronto's Casa Loma district.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.409398,
+                        43.678102
+                  ]
+            },
+            {
+                  "name": "James Gardens",
+                  "text": "James Gardens is a public garden in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.514495,
+                        43.6719
+                  ]
+            },
+            {
+                  "name": "Runnymede Park",
+                  "text": "Runnymede Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.479032,
+                        43.668276
+                  ]
+            },
+            {
+                  "name": "West Toronto Railpath",
+                  "text": "West Toronto Railpath is a multi-use trail in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.452313,
+                        43.65975
+                  ]
+            },
+            {
+                  "name": "Christie Pits Park",
+                  "text": "Christie Pits Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.420826,
+                        43.664688
+                  ]
+            },
+            {
+                  "name": "Wychwood Barns Park",
+                  "text": "Wychwood Barns Park is a park with historic barns in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.423714,
+                        43.679709
+                  ]
+            },
+            {
+                  "name": "Cedarvale Park",
+                  "text": "Cedarvale Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.425525,
+                        43.691095
+                  ]
+            },
+            {
+                  "name": "Fairbank Memorial Park",
+                  "text": "Fairbank Memorial Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.44764,
+                        43.691672
+                  ]
+            },
+            {
+                  "name": "The Eglinton Grand",
+                  "text": "The Eglinton Grand is a historic theatre in the Casa Loma area of Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.410504,
+                        43.704324
+                  ]
+            },
+            {
+                  "name": "St Cecilias Catholic Church",
+                  "text": "St Cecilias Catholic Church is a Roman Catholic church in the Casa Loma area of Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.46723,
+                        43.662988
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Croatia",
+                  "text": "Our Lady Queen of Croatia is a Catholic church in the Casa Loma area of Toronto serving the Croatian community.",
+                  "category": "religious",
+                  "coords": [
+                        -79.43532,
+                        43.657964
+                  ]
+            },
+            {
+                  "name": "Paradise Cinema",
+                  "text": "Paradise Cinema is a cinema in the Casa Loma area of Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.430707,
+                        43.661144
+                  ]
+            },
+            {
+                  "name": "Malta Park",
+                  "text": "Malta Park is a neighborhood park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.475568,
+                        43.665301
+                  ]
+            },
+            {
+                  "name": "Harding Park",
+                  "text": "Harding Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.497094,
+                        43.699139
+                  ]
+            },
+            {
+                  "name": "Westlake Park",
+                  "text": "Westlake Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.487025,
+                        43.681586
+                  ]
+            },
+            {
+                  "name": "Baird Park",
+                  "text": "Baird Park is a park in the Casa Loma area of Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.462561,
+                        43.662362
+                  ]
+            },
+            {
+                  "name": "Bartlett Parkette",
+                  "text": "A park in Toronto's Casa Loma neighbourhood.",
+                  "category": "park",
+                  "coords": [
+                        -79.436308,
+                        43.670323
+                  ]
+            },
+            {
+                  "name": "Shallmar Parkette",
+                  "text": "A park in Toronto's Casa Loma neighbourhood.",
+                  "category": "park",
+                  "coords": [
+                        -79.423812,
+                        43.703868
+                  ]
+            },
+            {
+                  "name": "8×7",
+                  "text": "An art gallery in Toronto's Casa Loma neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -79.463661,
+                        43.668726
+                  ]
+            },
+            {
+                  "name": "Cultural Goods Gallery",
+                  "text": "An art gallery in Toronto's Casa Loma neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -79.449254,
+                        43.666977
+                  ]
+            },
+            {
+                  "name": "Mercer Union - a centre for contemporary art",
+                  "text": "A centre for contemporary art in Toronto's Casa Loma neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -79.44194,
+                        43.658679
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.4097, 43.678],
@@ -502,7 +11932,952 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "toronto-city-hall-landmarks-v2",
+    id: "toronto-city-hall-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Police Museum & Discovery Centre",
+                  "text": "Das Police Museum & Discovery Centre ist ein Museum zur Polizeigeschichte in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.385153,
+                        43.661129
+                  ]
+            },
+            {
+                  "name": "CARLU",
+                  "text": "Das Carlu ist ein Art-déco-Theater und Veranstaltungsort in Toronto, bekannt für seine ikonische runde Lobby.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.383222,
+                        43.661014
+                  ]
+            },
+            {
+                  "name": "Chrysalis Theatre",
+                  "text": "Das Chrysalis Theatre ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379899,
+                        43.659283
+                  ]
+            },
+            {
+                  "name": "Gallery Arcturus",
+                  "text": "Die Gallery Arcturus ist eine Galerie in Toronto, die visionäre und Outsider-Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377996,
+                        43.660095
+                  ]
+            },
+            {
+                  "name": "Phoenix Concert Theatre",
+                  "text": "Das Phoenix Concert Theatre ist ein Konzerttheater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.373937,
+                        43.664606
+                  ]
+            },
+            {
+                  "name": "Massey Hall",
+                  "text": "Die Massey Hall ist ein historisches Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.378981,
+                        43.653947
+                  ]
+            },
+            {
+                  "name": "Canada's Theatre Museum",
+                  "text": "Das Canada's Theatre Museum ist ein Museum zur kanadischen Theatergeschichte in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.379298,
+                        43.653013
+                  ]
+            },
+            {
+                  "name": "Mackenzie House",
+                  "text": "Das Mackenzie House ist ein historisches Wohnhausmuseum in Toronto, einst Heimat des ersten Bürgermeisters William Lyon Mackenzie.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.378262,
+                        43.655712
+                  ]
+            },
+            {
+                  "name": "Ed Mirvish Theatre",
+                  "text": "Das Ed Mirvish Theatre ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379496,
+                        43.655228
+                  ]
+            },
+            {
+                  "name": "Little Canada",
+                  "text": "Little Canada ist ein Museum mit Miniaturmodellen kanadischer Wahrzeichen in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380906,
+                        43.656712
+                  ]
+            },
+            {
+                  "name": "Canadian Airman's Memorial",
+                  "text": "Das Canadian Airman's Memorial ist ein Denkmal in Toronto zu Ehren kanadischer Flieger.",
+                  "category": "historical",
+                  "coords": [
+                        -79.388218,
+                        43.65461
+                  ]
+            },
+            {
+                  "name": "Textile Museum Of Canada",
+                  "text": "Das Textile Museum of Canada ist ein Museum in Toronto, das sich der Kunst und Geschichte von Textilien widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386691,
+                        43.654494
+                  ]
+            },
+            {
+                  "name": "Wildseed Centre for Art & Activism",
+                  "text": "Das Wildseed Centre for Art & Activism ist ein Kunstzentrum in Toronto mit Schwerpunkt auf Kunst und Aktivismus.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.396152,
+                        43.657003
+                  ]
+            },
+            {
+                  "name": "Insulin: Toronto’s Gift to the World",
+                  "text": "Insulin: Toronto’s Gift to the World ist ein Museum in Toronto, das die Entdeckung des Insulins feiert.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387809,
+                        43.660011
+                  ]
+            },
+            {
+                  "name": "Betty Oliphant Theatre",
+                  "text": "Das Betty Oliphant Theatre ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.377991,
+                        43.664227
+                  ]
+            },
+            {
+                  "name": "Grace Toronto Church",
+                  "text": "Die Grace Toronto Church ist eine historische anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376221,
+                        43.662286
+                  ]
+            },
+            {
+                  "name": "Jarvis Street Baptist Church",
+                  "text": "Die Jarvis Street Baptist Church ist eine historische Baptistenkirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375365,
+                        43.66079
+                  ]
+            },
+            {
+                  "name": "Allan Gardens",
+                  "text": "Der Allan Gardens ist ein öffentlicher Park in Toronto mit dem Allan Gardens Conservatory.",
+                  "category": "park",
+                  "coords": [
+                        -79.374331,
+                        43.661895
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Die Église du Sacré-Cœur ist eine Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372854,
+                        43.663592
+                  ]
+            },
+            {
+                  "name": "Toronto City Hall",
+                  "text": "Das Toronto City Hall ist das Rathaus der Stadt, bekannt für seine moderne Architektur und den Nathan Phillips Square.",
+                  "category": "historical",
+                  "coords": [
+                        -79.383955,
+                        43.65353
+                  ]
+            },
+            {
+                  "name": "Trinity Square",
+                  "text": "Der Trinity Square ist ein kleiner Park in Toronto neben der Church of the Holy Trinity.",
+                  "category": "park",
+                  "coords": [
+                        -79.381898,
+                        43.654454
+                  ]
+            },
+            {
+                  "name": "Metropolitan United Church",
+                  "text": "Die Metropolitan United Church ist eine prominente United Church in Toronto mit neugotischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376713,
+                        43.65393
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral Basilica",
+                  "text": "Die Saint Michael's Cathedral Basilica ist die römisch-katholische Kathedrale von Toronto im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        -79.377092,
+                        43.654992
+                  ]
+            },
+            {
+                  "name": "First Evangelical Lutheran Church",
+                  "text": "Eine lutherische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.378916,
+                        43.656976
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Catholic Church",
+                  "text": "Die St. Patrick's Catholic Church ist eine historische katholische Kirche im Zentrum von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391059,
+                        43.654826
+                  ]
+            },
+            {
+                  "name": "George Brown House",
+                  "text": "Das George Brown House ist das ehemalige Wohnhaus des kanadischen Politikers George Brown in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.395051,
+                        43.655889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Police Museum & Discovery Centre",
+                  "text": "A Police Museum & Discovery Centre egy rendőrségtörténeti múzeum Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.385153,
+                        43.661129
+                  ]
+            },
+            {
+                  "name": "CARLU",
+                  "text": "A Carlu egy Art Deco színház és rendezvényhelyszín Torontóban, híres ikonikus kerek előcsarnokáról.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.383222,
+                        43.661014
+                  ]
+            },
+            {
+                  "name": "Chrysalis Theatre",
+                  "text": "A Chrysalis Theatre egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379899,
+                        43.659283
+                  ]
+            },
+            {
+                  "name": "Gallery Arcturus",
+                  "text": "A Gallery Arcturus egy galéria Torontóban, amely vízionárius és outsider művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377996,
+                        43.660095
+                  ]
+            },
+            {
+                  "name": "Phoenix Concert Theatre",
+                  "text": "A Phoenix Concert Theatre egy koncertszínház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.373937,
+                        43.664606
+                  ]
+            },
+            {
+                  "name": "Massey Hall",
+                  "text": "A Massey Hall egy történelmi színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.378981,
+                        43.653947
+                  ]
+            },
+            {
+                  "name": "Canada's Theatre Museum",
+                  "text": "A Canada's Theatre Museum egy múzeum a kanadai színháztörténetről Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.379298,
+                        43.653013
+                  ]
+            },
+            {
+                  "name": "Mackenzie House",
+                  "text": "A Mackenzie House egy történelmi házmúzeum Torontóban, egykor William Lyon Mackenzie, Toronto első polgármesterének otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.378262,
+                        43.655712
+                  ]
+            },
+            {
+                  "name": "Ed Mirvish Theatre",
+                  "text": "Az Ed Mirvish Theatre egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379496,
+                        43.655228
+                  ]
+            },
+            {
+                  "name": "Little Canada",
+                  "text": "A Little Canada egy múzeum, amely kanadai nevezetességek miniatűr modelljeit mutatja be Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380906,
+                        43.656712
+                  ]
+            },
+            {
+                  "name": "Canadian Airman's Memorial",
+                  "text": "A Canadian Airman's Memorial egy emlékmű Torontóban a kanadai repülők tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.388218,
+                        43.65461
+                  ]
+            },
+            {
+                  "name": "Textile Museum Of Canada",
+                  "text": "A Textile Museum of Canada egy múzeum Torontóban, amely a textíliák művészetének és történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386691,
+                        43.654494
+                  ]
+            },
+            {
+                  "name": "Wildseed Centre for Art & Activism",
+                  "text": "A Wildseed Centre for Art & Activism egy művészeti központ Torontóban, amely a művészetre és aktivizmusra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.396152,
+                        43.657003
+                  ]
+            },
+            {
+                  "name": "Insulin: Toronto’s Gift to the World",
+                  "text": "Az Insulin: Toronto’s Gift to the World egy múzeum Torontóban, amely az inzulin felfedezését ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387809,
+                        43.660011
+                  ]
+            },
+            {
+                  "name": "Betty Oliphant Theatre",
+                  "text": "A Betty Oliphant Theatre egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.377991,
+                        43.664227
+                  ]
+            },
+            {
+                  "name": "Grace Toronto Church",
+                  "text": "A Grace Toronto Church egy történelmi anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376221,
+                        43.662286
+                  ]
+            },
+            {
+                  "name": "Jarvis Street Baptist Church",
+                  "text": "A Jarvis Street Baptist Church egy történelmi baptista templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375365,
+                        43.66079
+                  ]
+            },
+            {
+                  "name": "Allan Gardens",
+                  "text": "Az Allan Gardens egy közpark Torontóban, az Allan Gardens Conservatoryval.",
+                  "category": "park",
+                  "coords": [
+                        -79.374331,
+                        43.661895
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Az Église du Sacré-Cœur egy templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372854,
+                        43.663592
+                  ]
+            },
+            {
+                  "name": "Toronto City Hall",
+                  "text": "A Toronto City Hall a városháza, híres modern építészetéről és a Nathan Phillips Square-ről.",
+                  "category": "historical",
+                  "coords": [
+                        -79.383955,
+                        43.65353
+                  ]
+            },
+            {
+                  "name": "Trinity Square",
+                  "text": "A Trinity Square egy kis park Torontóban a Church of the Holy Trinity mellett.",
+                  "category": "park",
+                  "coords": [
+                        -79.381898,
+                        43.654454
+                  ]
+            },
+            {
+                  "name": "Metropolitan United Church",
+                  "text": "A Metropolitan United Church egy kiemelkedő United Church Torontóban, jellegzetes neogótikus építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376713,
+                        43.65393
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral Basilica",
+                  "text": "A Saint Michael's Cathedral Basilica a római katolikus székesegyház Torontóban, neogótikus stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.377092,
+                        43.654992
+                  ]
+            },
+            {
+                  "name": "First Evangelical Lutheran Church",
+                  "text": "Egy evangélikus templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.378916,
+                        43.656976
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Catholic Church",
+                  "text": "A St. Patrick's Catholic Church egy történelmi katolikus templom Toronto belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391059,
+                        43.654826
+                  ]
+            },
+            {
+                  "name": "George Brown House",
+                  "text": "A George Brown House a kanadai politikus, George Brown egykori otthona Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.395051,
+                        43.655889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Police Museum & Discovery Centre",
+                  "text": "Police Museum & Discovery Centre este un muzeu al istoriei poliției în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.385153,
+                        43.661129
+                  ]
+            },
+            {
+                  "name": "CARLU",
+                  "text": "Carlu este un teatru și spațiu de evenimente Art Deco în Toronto, cunoscut pentru holul său rotund iconic.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.383222,
+                        43.661014
+                  ]
+            },
+            {
+                  "name": "Chrysalis Theatre",
+                  "text": "Chrysalis Theatre este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379899,
+                        43.659283
+                  ]
+            },
+            {
+                  "name": "Gallery Arcturus",
+                  "text": "Galeria Arcturus este o galerie din Toronto dedicată artei vizionare și outsider.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377996,
+                        43.660095
+                  ]
+            },
+            {
+                  "name": "Phoenix Concert Theatre",
+                  "text": "Phoenix Concert Theatre este un teatru de concerte în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.373937,
+                        43.664606
+                  ]
+            },
+            {
+                  "name": "Massey Hall",
+                  "text": "Massey Hall este un teatru istoric în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.378981,
+                        43.653947
+                  ]
+            },
+            {
+                  "name": "Canada's Theatre Museum",
+                  "text": "Canada's Theatre Museum este un muzeu al istoriei teatrului canadian în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.379298,
+                        43.653013
+                  ]
+            },
+            {
+                  "name": "Mackenzie House",
+                  "text": "Mackenzie House este un muzeu al casei istorice din Toronto, fostă locuință a primului primar William Lyon Mackenzie.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.378262,
+                        43.655712
+                  ]
+            },
+            {
+                  "name": "Ed Mirvish Theatre",
+                  "text": "Ed Mirvish Theatre este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379496,
+                        43.655228
+                  ]
+            },
+            {
+                  "name": "Little Canada",
+                  "text": "Little Canada este un muzeu care prezintă modele miniaturale ale reperelor canadiene în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380906,
+                        43.656712
+                  ]
+            },
+            {
+                  "name": "Canadian Airman's Memorial",
+                  "text": "Canadian Airman's Memorial este un monument în Toronto în onoarea aviatorilor canadieni.",
+                  "category": "historical",
+                  "coords": [
+                        -79.388218,
+                        43.65461
+                  ]
+            },
+            {
+                  "name": "Textile Museum Of Canada",
+                  "text": "Muzeul Textil din Canada este un muzeu din Toronto dedicat artei și istoriei textilelor.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386691,
+                        43.654494
+                  ]
+            },
+            {
+                  "name": "Wildseed Centre for Art & Activism",
+                  "text": "Wildseed Centre for Art & Activism este un centru de artă în Toronto axat pe artă și activism.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.396152,
+                        43.657003
+                  ]
+            },
+            {
+                  "name": "Insulin: Toronto’s Gift to the World",
+                  "text": "Insulin: Toronto’s Gift to the World este un muzeu în Toronto care sărbătorește descoperirea insulinei.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387809,
+                        43.660011
+                  ]
+            },
+            {
+                  "name": "Betty Oliphant Theatre",
+                  "text": "Betty Oliphant Theatre este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.377991,
+                        43.664227
+                  ]
+            },
+            {
+                  "name": "Grace Toronto Church",
+                  "text": "Grace Toronto Church este o biserică anglicană istorică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376221,
+                        43.662286
+                  ]
+            },
+            {
+                  "name": "Jarvis Street Baptist Church",
+                  "text": "Jarvis Street Baptist Church este o biserică baptistă istorică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375365,
+                        43.66079
+                  ]
+            },
+            {
+                  "name": "Allan Gardens",
+                  "text": "Allan Gardens este un parc public în Toronto, cu serra Allan Gardens Conservatory.",
+                  "category": "park",
+                  "coords": [
+                        -79.374331,
+                        43.661895
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Église du Sacré-Cœur este o biserică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372854,
+                        43.663592
+                  ]
+            },
+            {
+                  "name": "Toronto City Hall",
+                  "text": "Toronto City Hall este primăria orașului, cunoscută pentru arhitectura sa modernistă și Nathan Phillips Square.",
+                  "category": "historical",
+                  "coords": [
+                        -79.383955,
+                        43.65353
+                  ]
+            },
+            {
+                  "name": "Trinity Square",
+                  "text": "Trinity Square este un mic parc în Toronto, lângă Biserica Sfintei Treimi.",
+                  "category": "park",
+                  "coords": [
+                        -79.381898,
+                        43.654454
+                  ]
+            },
+            {
+                  "name": "Metropolitan United Church",
+                  "text": "Metropolitan United Church este o biserică importantă a United Church în Toronto, cu arhitectură neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376713,
+                        43.65393
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral Basilica",
+                  "text": "Catedrala Bazilica Sfântul Mihail este catedrala romano-catolică a Torontoului, în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        -79.377092,
+                        43.654992
+                  ]
+            },
+            {
+                  "name": "First Evangelical Lutheran Church",
+                  "text": "O biserică luterană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.378916,
+                        43.656976
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Catholic Church",
+                  "text": "Biserica Catolică St. Patrick este o biserică catolică istorică din centrul orașului Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391059,
+                        43.654826
+                  ]
+            },
+            {
+                  "name": "George Brown House",
+                  "text": "Casa George Brown este fosta locuință a politicianului canadian George Brown din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.395051,
+                        43.655889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Police Museum & Discovery Centre",
+                  "text": "Police Museum & Discovery Centre is a museum dedicated to police history in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.385153,
+                        43.661129
+                  ]
+            },
+            {
+                  "name": "CARLU",
+                  "text": "The Carlu is an Art Deco theatre and event space in Toronto, known for its iconic rounded lobby.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.383222,
+                        43.661014
+                  ]
+            },
+            {
+                  "name": "Chrysalis Theatre",
+                  "text": "Chrysalis Theatre is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379899,
+                        43.659283
+                  ]
+            },
+            {
+                  "name": "Gallery Arcturus",
+                  "text": "Gallery Arcturus is a gallery in Toronto showcasing visionary and outsider art.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377996,
+                        43.660095
+                  ]
+            },
+            {
+                  "name": "Phoenix Concert Theatre",
+                  "text": "Phoenix Concert Theatre is a concert theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.373937,
+                        43.664606
+                  ]
+            },
+            {
+                  "name": "Massey Hall",
+                  "text": "Massey Hall is a historic theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.378981,
+                        43.653947
+                  ]
+            },
+            {
+                  "name": "Canada's Theatre Museum",
+                  "text": "Canada's Theatre Museum is a museum dedicated to Canadian theatre history in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.379298,
+                        43.653013
+                  ]
+            },
+            {
+                  "name": "Mackenzie House",
+                  "text": "Mackenzie House is a historic house museum in Toronto, once home to Toronto's first mayor William Lyon Mackenzie.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.378262,
+                        43.655712
+                  ]
+            },
+            {
+                  "name": "Ed Mirvish Theatre",
+                  "text": "Ed Mirvish Theatre is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.379496,
+                        43.655228
+                  ]
+            },
+            {
+                  "name": "Little Canada",
+                  "text": "Little Canada is a museum featuring miniature models of Canadian landmarks in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380906,
+                        43.656712
+                  ]
+            },
+            {
+                  "name": "Canadian Airman's Memorial",
+                  "text": "Canadian Airman's Memorial is a monument in Toronto commemorating Canadian airmen.",
+                  "category": "historical",
+                  "coords": [
+                        -79.388218,
+                        43.65461
+                  ]
+            },
+            {
+                  "name": "Textile Museum Of Canada",
+                  "text": "The Textile Museum of Canada is a museum in Toronto dedicated to the art and history of textiles.",
+                  "category": "museum",
+                  "coords": [
+                        -79.386691,
+                        43.654494
+                  ]
+            },
+            {
+                  "name": "Wildseed Centre for Art & Activism",
+                  "text": "Wildseed Centre for Art & Activism is an arts centre in Toronto focused on art and activism.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.396152,
+                        43.657003
+                  ]
+            },
+            {
+                  "name": "Insulin: Toronto’s Gift to the World",
+                  "text": "Insulin: Toronto’s Gift to the World is a museum in Toronto celebrating the discovery of insulin.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387809,
+                        43.660011
+                  ]
+            },
+            {
+                  "name": "Betty Oliphant Theatre",
+                  "text": "Betty Oliphant Theatre is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.377991,
+                        43.664227
+                  ]
+            },
+            {
+                  "name": "Grace Toronto Church",
+                  "text": "Grace Toronto Church is a historic Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376221,
+                        43.662286
+                  ]
+            },
+            {
+                  "name": "Jarvis Street Baptist Church",
+                  "text": "Jarvis Street Baptist Church is a historic Baptist church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.375365,
+                        43.66079
+                  ]
+            },
+            {
+                  "name": "Allan Gardens",
+                  "text": "Allan Gardens is a public park in Toronto, home to the Allan Gardens Conservatory.",
+                  "category": "park",
+                  "coords": [
+                        -79.374331,
+                        43.661895
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Cœur",
+                  "text": "Église du Sacré-Cœur is a church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372854,
+                        43.663592
+                  ]
+            },
+            {
+                  "name": "Toronto City Hall",
+                  "text": "Toronto City Hall is the municipal government building, known for its modernist architecture and Nathan Phillips Square.",
+                  "category": "historical",
+                  "coords": [
+                        -79.383955,
+                        43.65353
+                  ]
+            },
+            {
+                  "name": "Trinity Square",
+                  "text": "Trinity Square is a park in Toronto adjacent to the Church of the Holy Trinity.",
+                  "category": "park",
+                  "coords": [
+                        -79.381898,
+                        43.654454
+                  ]
+            },
+            {
+                  "name": "Metropolitan United Church",
+                  "text": "Metropolitan United Church is a prominent United Church in Toronto with a distinctive Gothic Revival architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376713,
+                        43.65393
+                  ]
+            },
+            {
+                  "name": "Saint Michael's Cathedral Basilica",
+                  "text": "Saint Michael's Cathedral Basilica is the Roman Catholic cathedral of Toronto, featuring Gothic Revival architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -79.377092,
+                        43.654992
+                  ]
+            },
+            {
+                  "name": "First Evangelical Lutheran Church",
+                  "text": "A Lutheran church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.378916,
+                        43.656976
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Catholic Church",
+                  "text": "St. Patrick's Catholic Church is a historic Catholic church in downtown Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391059,
+                        43.654826
+                  ]
+            },
+            {
+                  "name": "George Brown House",
+                  "text": "George Brown House is the former home of Canadian politician George Brown in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.395051,
+                        43.655889
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.3832, 43.6532],
@@ -538,7 +12913,1384 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "lions-gate-bridge-landmarks-v2",
+    id: "lions-gate-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grouse Mountain Skyride Base",
+                  "text": "Die Grouse Mountain Skyride Base ist der Startpunkt der Seilbahn zum Gipfel des Grouse Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098995,
+                        49.372218
+                  ]
+            },
+            {
+                  "name": "Hollow Tree",
+                  "text": "Der Hollow Tree ist ein historischer hohler Riesenbaum, der sich einst im Stanley Park befand.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.153616,
+                        49.306915
+                  ]
+            },
+            {
+                  "name": "Cleveland Dam",
+                  "text": "Der Cleveland Dam ist eine Betonstaumauer, die den Capilano Lake bildet, eine wichtige Wasserquelle für Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.11076,
+                        49.360218
+                  ]
+            },
+            {
+                  "name": "Lions Gate Bridge",
+                  "text": "Die Lions Gate Bridge ist eine Hängebrücke, die Vancouver mit der North Shore verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.1364,
+                        49.317816
+                  ]
+            },
+            {
+                  "name": "Point Atkinson Lighthouse",
+                  "text": "Der Point Atkinson Lighthouse ist ein historischer Leuchtturm am Eingang zum Vancouver Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.264586,
+                        49.330393
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain",
+                  "text": "Der Grouse Mountain ist ein beliebter Berggipfel, bekannt für Skifahren, Wandern und die Seilbahn.",
+                  "category": "natural",
+                  "coords": [
+                        -123.076077,
+                        49.386225
+                  ]
+            },
+            {
+                  "name": "Capilano Suspension Bridge Park",
+                  "text": "Die Capilano Suspension Bridge ist eine Hängebrücke über den Capilano River, umgeben von einem Park mit Baumkronenwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -123.115277,
+                        49.342988
+                  ]
+            },
+            {
+                  "name": "Lighthouse Park",
+                  "text": "Der Lighthouse Park in West Vancouver beherbergt den Point Atkinson Lighthouse und uralten Wald.",
+                  "category": "park",
+                  "coords": [
+                        -123.262272,
+                        49.335257
+                  ]
+            },
+            {
+                  "name": "Kay Meek Centre for the Performing Arts",
+                  "text": "Das Kay Meek Centre for the Performing Arts ist ein Veranstaltungsort für verschiedene Aufführungen und Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.160056,
+                        49.337896
+                  ]
+            },
+            {
+                  "name": "Outer Vancouver Harbour",
+                  "text": "Der Outer Vancouver Harbour ist eine Bucht, die den äußeren Teil des Vancouverer Hafens bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.207143,
+                        49.305449
+                  ]
+            },
+            {
+                  "name": "Prospect Point Lighthouse",
+                  "text": "Der Prospect Point Lighthouse ist ein Leuchtturm am Prospect Point im Stanley Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.141415,
+                        49.314006
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain Regional Park",
+                  "text": "Der Grouse Mountain Regional Park ist ein regionaler Park an den Hängen des Grouse Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -123.089146,
+                        49.373328
+                  ]
+            },
+            {
+                  "name": "Cleveland Park",
+                  "text": "Der Cleveland Park ist ein Park in der Nähe des Cleveland Dam.",
+                  "category": "park",
+                  "coords": [
+                        -123.103018,
+                        49.360243
+                  ]
+            },
+            {
+                  "name": "Capilano River Regional Park",
+                  "text": "Der Capilano River Regional Park ist ein regionaler Park entlang des Capilano River.",
+                  "category": "park",
+                  "coords": [
+                        -123.114255,
+                        49.351963
+                  ]
+            },
+            {
+                  "name": "Third Beach",
+                  "text": "Der Third Beach ist ein beliebter Strand im Stanley Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.157343,
+                        49.303625
+                  ]
+            },
+            {
+                  "name": "Spanish Banks Beach",
+                  "text": "Spanish Banks Beach ist ein sandiger Strand in Vancouver mit Blick auf die Berge.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.219499,
+                        49.277349
+                  ]
+            },
+            {
+                  "name": "Ferry Building Gallery",
+                  "text": "Die Ferry Building Gallery ist eine Kunstgalerie in einem ehemaligen Fährgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -123.154865,
+                        49.326962
+                  ]
+            },
+            {
+                  "name": "BLAH",
+                  "text": "BLAH ist eine Galerie im Lions-Gate-Bridge-Gebiet.",
+                  "category": "museum",
+                  "coords": [
+                        -123.153644,
+                        49.327643
+                  ]
+            },
+            {
+                  "name": "West Vancouver Art Museum",
+                  "text": "Das West Vancouver Art Museum ist eine Galerie im Bereich der Lions-Gate-Brücke.",
+                  "category": "museum",
+                  "coords": [
+                        -123.159861,
+                        49.3304
+                  ]
+            },
+            {
+                  "name": "Red Horses Gallery",
+                  "text": "Die Red Horses Gallery ist eine Galerie im Bereich der Lions-Gate-Brücke, die Werke lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.179789,
+                        49.334098
+                  ]
+            },
+            {
+                  "name": "The Fairy Bridge",
+                  "text": "Die Fairy Bridge ist ein Monument im Bereich der Lions-Gate-Brücke, bekannt für seine malerische Umgebung.",
+                  "category": "historical",
+                  "coords": [
+                        -123.098549,
+                        49.345382
+                  ]
+            },
+            {
+                  "name": "Abandoned Truck",
+                  "text": "Der verlassene Lastwagen ist eine Ruine im Bereich der Lions-Gate-Brücke.",
+                  "category": "historical",
+                  "coords": [
+                        -123.157655,
+                        49.357085
+                  ]
+            },
+            {
+                  "name": "1912 Mill Site",
+                  "text": "Die Mühlenstätte von 1912 ist eine Ruine im Bereich der Lions-Gate-Brücke, die Überreste einer Mühle aus dem frühen 20. Jahrhundert zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -123.140586,
+                        49.361194
+                  ]
+            },
+            {
+                  "name": "Cable Railway Loading Site",
+                  "text": "Die Ladezone der Kabelbahn ist eine Ruine im Bereich der Lions-Gate-Brücke, von einer ehemaligen Kabelbahn.",
+                  "category": "historical",
+                  "coords": [
+                        -123.145223,
+                        49.365521
+                  ]
+            },
+            {
+                  "name": "Binning Residence",
+                  "text": "Die Binning Residence ist ein Monument im Bereich der Lions-Gate-Brücke, bekannt für seine moderne Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        -123.197315,
+                        49.340218
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Das Amphitheater ist ein Theater im Bereich der Lions-Gate-Brücke, eine Freiluftbühne für Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.077783,
+                        49.382465
+                  ]
+            },
+            {
+                  "name": "Silk Purse",
+                  "text": "Das Silk Purse ist ein Kunstzentrum im Bereich der Lions-Gate-Brücke, das kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.158195,
+                        49.326942
+                  ]
+            },
+            {
+                  "name": "Grouse Grind Trailhead",
+                  "text": "Der Grouse Grind Trailhead ist eine Attraktion im Bereich der Lions-Gate-Brücke, der Startpunkt des berühmten Grouse Grind Wanderwegs.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098378,
+                        49.371199
+                  ]
+            },
+            {
+                  "name": "West Vancouver Recreation Centre",
+                  "text": "Das West Vancouver Recreation Centre ist eine Attraktion im Bereich der Lions-Gate-Brücke, mit Sport- und Fitnesseinrichtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.170201,
+                        49.330988
+                  ]
+            },
+            {
+                  "name": "Capilano River Hatchery",
+                  "text": "Die Capilano River Hatchery ist eine Attraktion im Bereich der Lions-Gate-Brücke, eine Fischzuchtanstalt, die zur Erhaltung der Lachspopulationen beiträgt.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.110129,
+                        49.356649
+                  ]
+            },
+            {
+                  "name": "Wilderness Lookout",
+                  "text": "Der Wilderness Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit malerischem Blick auf die Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -123.073838,
+                        49.387617
+                  ]
+            },
+            {
+                  "name": "Second Canyon Viewpoint",
+                  "text": "Der Second Canyon Viewpoint ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit Blick auf den zweiten Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -123.111421,
+                        49.358183
+                  ]
+            },
+            {
+                  "name": "Cable Pool Lookout",
+                  "text": "Der Cable Pool Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit Blick auf ein Kabelbecken.",
+                  "category": "natural",
+                  "coords": [
+                        -123.110676,
+                        49.354641
+                  ]
+            },
+            {
+                  "name": "Lodge Lake Lookout",
+                  "text": "Der Lodge Lake Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit Blick auf den Lodge Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -123.182915,
+                        49.375809
+                  ]
+            },
+            {
+                  "name": "Clearview Lookout",
+                  "text": "Der Clearview Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit klarer Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -123.180849,
+                        49.380451
+                  ]
+            },
+            {
+                  "name": "Strait Lookout",
+                  "text": "Der Strait Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit Blick auf die Meerenge.",
+                  "category": "natural",
+                  "coords": [
+                        -123.188332,
+                        49.380383
+                  ]
+            },
+            {
+                  "name": "Lowden’s Lookout",
+                  "text": "Der Lowden’s Lookout ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke, benannt nach einer Person, mit landschaftlichem Blick.",
+                  "category": "natural",
+                  "coords": [
+                        -123.14234,
+                        49.313585
+                  ]
+            },
+            {
+                  "name": "Siwash Rock Viewpoint",
+                  "text": "Der Siwash Rock Viewpoint ist ein Aussichtspunkt im Bereich der Lions-Gate-Brücke mit Blick auf den berühmten Siwash Rock.",
+                  "category": "natural",
+                  "coords": [
+                        -123.155788,
+                        49.308443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grouse Mountain Skyride Base",
+                  "text": "A Grouse Mountain Skyride Base a Grouse Mountain csúcsára vezető drótkötélpályás felvonó kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098995,
+                        49.372218
+                  ]
+            },
+            {
+                  "name": "Hollow Tree",
+                  "text": "A Hollow Tree egy történelmi óriás üreges fa, amely egykor a Stanley Parkban állt.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.153616,
+                        49.306915
+                  ]
+            },
+            {
+                  "name": "Cleveland Dam",
+                  "text": "A Cleveland Dam egy beton gát, amely a Capilano-tavat hozza létre, Vancouver fontos vízforrását.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.11076,
+                        49.360218
+                  ]
+            },
+            {
+                  "name": "Lions Gate Bridge",
+                  "text": "A Lions Gate Bridge egy függőhíd, amely összeköti Vancouvert az Északi Parttal.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.1364,
+                        49.317816
+                  ]
+            },
+            {
+                  "name": "Point Atkinson Lighthouse",
+                  "text": "A Point Atkinson Lighthouse egy történelmi világítótorony a Vancouveri kikötő bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.264586,
+                        49.330393
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain",
+                  "text": "A Grouse Mountain egy népszerű hegycsúcs, amely síelésről, túrázásról és a drótkötélpályás felvonóról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -123.076077,
+                        49.386225
+                  ]
+            },
+            {
+                  "name": "Capilano Suspension Bridge Park",
+                  "text": "A Capilano Suspension Bridge egy függőhíd a Capilano folyó felett, amelyet egy park vesz körül lombkoronaösvényekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.115277,
+                        49.342988
+                  ]
+            },
+            {
+                  "name": "Lighthouse Park",
+                  "text": "A Lighthouse Park West Vancouverban található, a Point Atkinson Lighthouse-szal és ősi erdővel.",
+                  "category": "park",
+                  "coords": [
+                        -123.262272,
+                        49.335257
+                  ]
+            },
+            {
+                  "name": "Kay Meek Centre for the Performing Arts",
+                  "text": "A Kay Meek Centre for the Performing Arts különféle előadások és események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.160056,
+                        49.337896
+                  ]
+            },
+            {
+                  "name": "Outer Vancouver Harbour",
+                  "text": "Az Outer Vancouver Harbour egy öböl, amely a Vancouveri kikötő külső részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.207143,
+                        49.305449
+                  ]
+            },
+            {
+                  "name": "Prospect Point Lighthouse",
+                  "text": "A Prospect Point Lighthouse egy világítótorony a Prospect Pointnál a Stanley Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.141415,
+                        49.314006
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain Regional Park",
+                  "text": "A Grouse Mountain Regional Park egy regionális park a Grouse Mountain lejtőin.",
+                  "category": "natural",
+                  "coords": [
+                        -123.089146,
+                        49.373328
+                  ]
+            },
+            {
+                  "name": "Cleveland Park",
+                  "text": "A Cleveland Park egy park a Cleveland Dam közelében.",
+                  "category": "park",
+                  "coords": [
+                        -123.103018,
+                        49.360243
+                  ]
+            },
+            {
+                  "name": "Capilano River Regional Park",
+                  "text": "A Capilano River Regional Park egy regionális park a Capilano folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        -123.114255,
+                        49.351963
+                  ]
+            },
+            {
+                  "name": "Third Beach",
+                  "text": "A Third Beach egy népszerű strand a Stanley Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.157343,
+                        49.303625
+                  ]
+            },
+            {
+                  "name": "Spanish Banks Beach",
+                  "text": "A Spanish Banks Beach egy homokos strand Vancouverben, hegyi kilátással.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.219499,
+                        49.277349
+                  ]
+            },
+            {
+                  "name": "Ferry Building Gallery",
+                  "text": "A Ferry Building Gallery egy művészeti galéria egy egykori kompépületben.",
+                  "category": "museum",
+                  "coords": [
+                        -123.154865,
+                        49.326962
+                  ]
+            },
+            {
+                  "name": "BLAH",
+                  "text": "A BLAH egy galéria a Lions Gate Bridge régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -123.153644,
+                        49.327643
+                  ]
+            },
+            {
+                  "name": "West Vancouver Art Museum",
+                  "text": "A West Vancouver Art Museum egy galéria a Lions Gate Bridge nevezetességek területén.",
+                  "category": "museum",
+                  "coords": [
+                        -123.159861,
+                        49.3304
+                  ]
+            },
+            {
+                  "name": "Red Horses Gallery",
+                  "text": "A Red Horses Gallery egy galéria a Lions Gate Bridge nevezetességek területén, helyi művészek munkáit bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -123.179789,
+                        49.334098
+                  ]
+            },
+            {
+                  "name": "The Fairy Bridge",
+                  "text": "A Fairy Bridge egy emlékmű a Lions Gate Bridge nevezetességek területén, festői környezetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -123.098549,
+                        49.345382
+                  ]
+            },
+            {
+                  "name": "Abandoned Truck",
+                  "text": "Az elhagyott teherautó egy rom a Lions Gate Bridge nevezetességek területén.",
+                  "category": "historical",
+                  "coords": [
+                        -123.157655,
+                        49.357085
+                  ]
+            },
+            {
+                  "name": "1912 Mill Site",
+                  "text": "Az 1912-es malomhely egy rom a Lions Gate Bridge nevezetességek területén, egy 20. század eleji malom maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -123.140586,
+                        49.361194
+                  ]
+            },
+            {
+                  "name": "Cable Railway Loading Site",
+                  "text": "A kábelvasút rakodóhelye egy rom a Lions Gate Bridge nevezetességek területén, egy korábbi kábelvasútról.",
+                  "category": "historical",
+                  "coords": [
+                        -123.145223,
+                        49.365521
+                  ]
+            },
+            {
+                  "name": "Binning Residence",
+                  "text": "A Binning-ház egy emlékmű a Lions Gate Bridge nevezetességek területén, modern építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -123.197315,
+                        49.340218
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Az amfiteátrum egy színház a Lions Gate Bridge nevezetességek területén, egy szabadtéri előadótér.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.077783,
+                        49.382465
+                  ]
+            },
+            {
+                  "name": "Silk Purse",
+                  "text": "A Silk Purse egy művészeti központ a Lions Gate Bridge nevezetességek területén, kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.158195,
+                        49.326942
+                  ]
+            },
+            {
+                  "name": "Grouse Grind Trailhead",
+                  "text": "A Grouse Grind ösvény kezdőpontja egy látványosság a Lions Gate Bridge nevezetességek területén, a híres Grouse Grind túraútvonal kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098378,
+                        49.371199
+                  ]
+            },
+            {
+                  "name": "West Vancouver Recreation Centre",
+                  "text": "A West Vancouver Recreation Centre egy látványosság a Lions Gate Bridge nevezetességek területén, sport- és fitneszlétesítményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.170201,
+                        49.330988
+                  ]
+            },
+            {
+                  "name": "Capilano River Hatchery",
+                  "text": "A Capilano River keltető egy látványosság a Lions Gate Bridge nevezetességek területén, egy halteljesítő, amely segít a lazacállomány fenntartásában.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.110129,
+                        49.356649
+                  ]
+            },
+            {
+                  "name": "Wilderness Lookout",
+                  "text": "A Wilderness Lookout egy kilátó a Lions Gate Bridge nevezetességek területén, festői kilátással a vadonra.",
+                  "category": "natural",
+                  "coords": [
+                        -123.073838,
+                        49.387617
+                  ]
+            },
+            {
+                  "name": "Second Canyon Viewpoint",
+                  "text": "A Second Canyon kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, a második kanyonra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.111421,
+                        49.358183
+                  ]
+            },
+            {
+                  "name": "Cable Pool Lookout",
+                  "text": "A Cable Pool kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, egy kábeltóra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.110676,
+                        49.354641
+                  ]
+            },
+            {
+                  "name": "Lodge Lake Lookout",
+                  "text": "A Lodge Lake kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, a Lodge-tóra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.182915,
+                        49.375809
+                  ]
+            },
+            {
+                  "name": "Clearview Lookout",
+                  "text": "A Clearview kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, tiszta kilátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -123.180849,
+                        49.380451
+                  ]
+            },
+            {
+                  "name": "Strait Lookout",
+                  "text": "A Strait kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, a tengerszorosra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.188332,
+                        49.380383
+                  ]
+            },
+            {
+                  "name": "Lowden’s Lookout",
+                  "text": "A Lowden’s kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, egy személyről elnevezve, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.14234,
+                        49.313585
+                  ]
+            },
+            {
+                  "name": "Siwash Rock Viewpoint",
+                  "text": "A Siwash Rock kilátó egy kilátó a Lions Gate Bridge nevezetességek területén, a híres Siwash Rockra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.155788,
+                        49.308443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grouse Mountain Skyride Base",
+                  "text": "Baza telecabinei Grouse Mountain Skyride este punctul de plecare al telecabinei spre vârful Muntelui Grouse.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098995,
+                        49.372218
+                  ]
+            },
+            {
+                  "name": "Hollow Tree",
+                  "text": "Hollow Tree este un copac uriaș istoric, odată situat în Parcul Stanley.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.153616,
+                        49.306915
+                  ]
+            },
+            {
+                  "name": "Cleveland Dam",
+                  "text": "Barajul Cleveland este un baraj de beton care formează Lacul Capilano, o sursă majoră de apă pentru Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.11076,
+                        49.360218
+                  ]
+            },
+            {
+                  "name": "Lions Gate Bridge",
+                  "text": "Podul Lions Gate este un pod suspendat care leagă Vancouver de North Shore.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.1364,
+                        49.317816
+                  ]
+            },
+            {
+                  "name": "Point Atkinson Lighthouse",
+                  "text": "Farul Point Atkinson este un far istoric la intrarea în Portul Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.264586,
+                        49.330393
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain",
+                  "text": "Muntele Grouse este un vârf montan popular, cunoscut pentru schi, drumeții și telecabină.",
+                  "category": "natural",
+                  "coords": [
+                        -123.076077,
+                        49.386225
+                  ]
+            },
+            {
+                  "name": "Capilano Suspension Bridge Park",
+                  "text": "Podul suspendat Capilano este un pod suspendat peste râul Capilano, înconjurat de un parc cu poteci printre copaci.",
+                  "category": "natural",
+                  "coords": [
+                        -123.115277,
+                        49.342988
+                  ]
+            },
+            {
+                  "name": "Lighthouse Park",
+                  "text": "Parcul Lighthouse din West Vancouver găzduiește Farul Point Atkinson și pădure seculară.",
+                  "category": "park",
+                  "coords": [
+                        -123.262272,
+                        49.335257
+                  ]
+            },
+            {
+                  "name": "Kay Meek Centre for the Performing Arts",
+                  "text": "Kay Meek Centre for the Performing Arts este un centru de arte care găzduiește spectacole și evenimente diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.160056,
+                        49.337896
+                  ]
+            },
+            {
+                  "name": "Outer Vancouver Harbour",
+                  "text": "Outer Vancouver Harbour este un golf care formează partea exterioară a portului Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.207143,
+                        49.305449
+                  ]
+            },
+            {
+                  "name": "Prospect Point Lighthouse",
+                  "text": "Farul Prospect Point este un far la Prospect Point din Parcul Stanley.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.141415,
+                        49.314006
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain Regional Park",
+                  "text": "Parcul Regional Grouse Mountain este un parc regional pe pantele Muntelui Grouse.",
+                  "category": "natural",
+                  "coords": [
+                        -123.089146,
+                        49.373328
+                  ]
+            },
+            {
+                  "name": "Cleveland Park",
+                  "text": "Parcul Cleveland este un parc în apropierea Barajului Cleveland.",
+                  "category": "park",
+                  "coords": [
+                        -123.103018,
+                        49.360243
+                  ]
+            },
+            {
+                  "name": "Capilano River Regional Park",
+                  "text": "Parcul Regional Capilano River este un parc regional de-a lungul râului Capilano.",
+                  "category": "park",
+                  "coords": [
+                        -123.114255,
+                        49.351963
+                  ]
+            },
+            {
+                  "name": "Third Beach",
+                  "text": "Third Beach este o plajă populară în Parcul Stanley.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.157343,
+                        49.303625
+                  ]
+            },
+            {
+                  "name": "Spanish Banks Beach",
+                  "text": "Plaja Spanish Banks este o plajă cu nisip în Vancouver, cu vedere la munți.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.219499,
+                        49.277349
+                  ]
+            },
+            {
+                  "name": "Ferry Building Gallery",
+                  "text": "Ferry Building Gallery este o galerie de artă situată într-o fostă clădire a feribotului.",
+                  "category": "museum",
+                  "coords": [
+                        -123.154865,
+                        49.326962
+                  ]
+            },
+            {
+                  "name": "BLAH",
+                  "text": "BLAH este o galerie în zona Podului Lions Gate.",
+                  "category": "museum",
+                  "coords": [
+                        -123.153644,
+                        49.327643
+                  ]
+            },
+            {
+                  "name": "West Vancouver Art Museum",
+                  "text": "West Vancouver Art Museum este o galerie în zona reperelor Podului Lions Gate.",
+                  "category": "museum",
+                  "coords": [
+                        -123.159861,
+                        49.3304
+                  ]
+            },
+            {
+                  "name": "Red Horses Gallery",
+                  "text": "Red Horses Gallery este o galerie în zona reperelor Podului Lions Gate, care prezintă lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -123.179789,
+                        49.334098
+                  ]
+            },
+            {
+                  "name": "The Fairy Bridge",
+                  "text": "The Fairy Bridge este un monument în zona reperelor Podului Lions Gate, cunoscut pentru peisajul său pitoresc.",
+                  "category": "historical",
+                  "coords": [
+                        -123.098549,
+                        49.345382
+                  ]
+            },
+            {
+                  "name": "Abandoned Truck",
+                  "text": "Camionul abandonat este o ruină în zona reperelor Podului Lions Gate.",
+                  "category": "historical",
+                  "coords": [
+                        -123.157655,
+                        49.357085
+                  ]
+            },
+            {
+                  "name": "1912 Mill Site",
+                  "text": "Situl morii din 1912 este o ruină în zona reperelor Podului Lions Gate, cu rămășițele unei mori de la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -123.140586,
+                        49.361194
+                  ]
+            },
+            {
+                  "name": "Cable Railway Loading Site",
+                  "text": "Zona de încărcare a funicularului este o ruină în zona reperelor Podului Lions Gate, de la o fostă linie de cablu.",
+                  "category": "historical",
+                  "coords": [
+                        -123.145223,
+                        49.365521
+                  ]
+            },
+            {
+                  "name": "Binning Residence",
+                  "text": "Reședința Binning este un monument în zona reperelor Podului Lions Gate, cunoscut pentru arhitectura sa modernistă.",
+                  "category": "historical",
+                  "coords": [
+                        -123.197315,
+                        49.340218
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "Amfiteatrul este un teatru în zona reperelor Podului Lions Gate, o scenă în aer liber pentru spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.077783,
+                        49.382465
+                  ]
+            },
+            {
+                  "name": "Silk Purse",
+                  "text": "Silk Purse este un centru de artă în zona reperelor Podului Lions Gate, care găzduiește evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.158195,
+                        49.326942
+                  ]
+            },
+            {
+                  "name": "Grouse Grind Trailhead",
+                  "text": "Grouse Grind Trailhead este o atracție în zona reperelor Podului Lions Gate, punctul de start al celebrului traseu de drumeție Grouse Grind.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098378,
+                        49.371199
+                  ]
+            },
+            {
+                  "name": "West Vancouver Recreation Centre",
+                  "text": "West Vancouver Recreation Centre este o atracție în zona reperelor Podului Lions Gate, cu facilități sportive și de fitness.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.170201,
+                        49.330988
+                  ]
+            },
+            {
+                  "name": "Capilano River Hatchery",
+                  "text": "Capilano River Hatchery este o atracție în zona reperelor Podului Lions Gate, o stație piscicolă care ajută la susținerea populațiilor de somon.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.110129,
+                        49.356649
+                  ]
+            },
+            {
+                  "name": "Wilderness Lookout",
+                  "text": "Wilderness Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere panoramică asupra sălbăticiei.",
+                  "category": "natural",
+                  "coords": [
+                        -123.073838,
+                        49.387617
+                  ]
+            },
+            {
+                  "name": "Second Canyon Viewpoint",
+                  "text": "Second Canyon Viewpoint este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere la al doilea canion.",
+                  "category": "natural",
+                  "coords": [
+                        -123.111421,
+                        49.358183
+                  ]
+            },
+            {
+                  "name": "Cable Pool Lookout",
+                  "text": "Cable Pool Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere la un bazin de cabluri.",
+                  "category": "natural",
+                  "coords": [
+                        -123.110676,
+                        49.354641
+                  ]
+            },
+            {
+                  "name": "Lodge Lake Lookout",
+                  "text": "Lodge Lake Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere la Lacul Lodge.",
+                  "category": "natural",
+                  "coords": [
+                        -123.182915,
+                        49.375809
+                  ]
+            },
+            {
+                  "name": "Clearview Lookout",
+                  "text": "Clearview Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, cu o vedere clară asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -123.180849,
+                        49.380451
+                  ]
+            },
+            {
+                  "name": "Strait Lookout",
+                  "text": "Strait Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere la strâmtoare.",
+                  "category": "natural",
+                  "coords": [
+                        -123.188332,
+                        49.380383
+                  ]
+            },
+            {
+                  "name": "Lowden’s Lookout",
+                  "text": "Lowden’s Lookout este un punct de belvedere în zona reperelor Podului Lions Gate, numit după o persoană, cu vedere pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -123.14234,
+                        49.313585
+                  ]
+            },
+            {
+                  "name": "Siwash Rock Viewpoint",
+                  "text": "Siwash Rock Viewpoint este un punct de belvedere în zona reperelor Podului Lions Gate, cu vedere la celebrul Siwash Rock.",
+                  "category": "natural",
+                  "coords": [
+                        -123.155788,
+                        49.308443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grouse Mountain Skyride Base",
+                  "text": "The Grouse Mountain Skyride Base is the starting point of the aerial tramway to the summit of Grouse Mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098995,
+                        49.372218
+                  ]
+            },
+            {
+                  "name": "Hollow Tree",
+                  "text": "The Hollow Tree is a historic giant hollow tree once located in Stanley Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.153616,
+                        49.306915
+                  ]
+            },
+            {
+                  "name": "Cleveland Dam",
+                  "text": "Cleveland Dam is a concrete dam that forms Capilano Lake, a major water source for Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.11076,
+                        49.360218
+                  ]
+            },
+            {
+                  "name": "Lions Gate Bridge",
+                  "text": "Lions Gate Bridge is a suspension bridge connecting Vancouver to the North Shore.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.1364,
+                        49.317816
+                  ]
+            },
+            {
+                  "name": "Point Atkinson Lighthouse",
+                  "text": "Point Atkinson Lighthouse is a historic lighthouse at the entrance to Vancouver Harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.264586,
+                        49.330393
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain",
+                  "text": "Grouse Mountain is a popular mountain peak known for skiing, hiking, and the skyride.",
+                  "category": "natural",
+                  "coords": [
+                        -123.076077,
+                        49.386225
+                  ]
+            },
+            {
+                  "name": "Capilano Suspension Bridge Park",
+                  "text": "Capilano Suspension Bridge is a suspension bridge across the Capilano River, part of a park with treetop walkways.",
+                  "category": "natural",
+                  "coords": [
+                        -123.115277,
+                        49.342988
+                  ]
+            },
+            {
+                  "name": "Lighthouse Park",
+                  "text": "Lighthouse Park in West Vancouver features Point Atkinson Lighthouse and old-growth forest.",
+                  "category": "park",
+                  "coords": [
+                        -123.262272,
+                        49.335257
+                  ]
+            },
+            {
+                  "name": "Kay Meek Centre for the Performing Arts",
+                  "text": "Kay Meek Centre for the Performing Arts is an arts centre hosting a variety of shows and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.160056,
+                        49.337896
+                  ]
+            },
+            {
+                  "name": "Outer Vancouver Harbour",
+                  "text": "Outer Vancouver Harbour is a bay forming the outer part of Vancouver's harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.207143,
+                        49.305449
+                  ]
+            },
+            {
+                  "name": "Prospect Point Lighthouse",
+                  "text": "Prospect Point Lighthouse is a lighthouse at Prospect Point in Stanley Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.141415,
+                        49.314006
+                  ]
+            },
+            {
+                  "name": "Grouse Mountain Regional Park",
+                  "text": "Grouse Mountain Regional Park is a regional park on the slopes of Grouse Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -123.089146,
+                        49.373328
+                  ]
+            },
+            {
+                  "name": "Cleveland Park",
+                  "text": "Cleveland Park is a park near the Cleveland Dam.",
+                  "category": "park",
+                  "coords": [
+                        -123.103018,
+                        49.360243
+                  ]
+            },
+            {
+                  "name": "Capilano River Regional Park",
+                  "text": "Capilano River Regional Park is a regional park along the Capilano River.",
+                  "category": "park",
+                  "coords": [
+                        -123.114255,
+                        49.351963
+                  ]
+            },
+            {
+                  "name": "Third Beach",
+                  "text": "Third Beach is a popular beach in Stanley Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.157343,
+                        49.303625
+                  ]
+            },
+            {
+                  "name": "Spanish Banks Beach",
+                  "text": "Spanish Banks Beach is a sandy beach in Vancouver with views of the mountains.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.219499,
+                        49.277349
+                  ]
+            },
+            {
+                  "name": "Ferry Building Gallery",
+                  "text": "Ferry Building Gallery is an art gallery located in a former ferry building.",
+                  "category": "museum",
+                  "coords": [
+                        -123.154865,
+                        49.326962
+                  ]
+            },
+            {
+                  "name": "BLAH",
+                  "text": "BLAH is a gallery in the Lions Gate Bridge area.",
+                  "category": "museum",
+                  "coords": [
+                        -123.153644,
+                        49.327643
+                  ]
+            },
+            {
+                  "name": "West Vancouver Art Museum",
+                  "text": "The West Vancouver Art Museum is a gallery in the Lions Gate Bridge landmarks area.",
+                  "category": "museum",
+                  "coords": [
+                        -123.159861,
+                        49.3304
+                  ]
+            },
+            {
+                  "name": "Red Horses Gallery",
+                  "text": "The Red Horses Gallery is a gallery in the Lions Gate Bridge landmarks area, featuring works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -123.179789,
+                        49.334098
+                  ]
+            },
+            {
+                  "name": "The Fairy Bridge",
+                  "text": "The Fairy Bridge is a monument in the Lions Gate Bridge landmarks area, known for its picturesque setting.",
+                  "category": "historical",
+                  "coords": [
+                        -123.098549,
+                        49.345382
+                  ]
+            },
+            {
+                  "name": "Abandoned Truck",
+                  "text": "The Abandoned Truck is a ruin in the Lions Gate Bridge landmarks area.",
+                  "category": "historical",
+                  "coords": [
+                        -123.157655,
+                        49.357085
+                  ]
+            },
+            {
+                  "name": "1912 Mill Site",
+                  "text": "The 1912 Mill Site is a ruin in the Lions Gate Bridge landmarks area, containing remains of an early 20th-century mill.",
+                  "category": "historical",
+                  "coords": [
+                        -123.140586,
+                        49.361194
+                  ]
+            },
+            {
+                  "name": "Cable Railway Loading Site",
+                  "text": "The Cable Railway Loading Site is a ruin in the Lions Gate Bridge landmarks area, from a former cable railway.",
+                  "category": "historical",
+                  "coords": [
+                        -123.145223,
+                        49.365521
+                  ]
+            },
+            {
+                  "name": "Binning Residence",
+                  "text": "The Binning Residence is a monument in the Lions Gate Bridge landmarks area, known for its modernist architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -123.197315,
+                        49.340218
+                  ]
+            },
+            {
+                  "name": "Ampitheater",
+                  "text": "The Ampitheater is a theatre in the Lions Gate Bridge landmarks area, an outdoor venue for performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.077783,
+                        49.382465
+                  ]
+            },
+            {
+                  "name": "Silk Purse",
+                  "text": "The Silk Purse is an arts centre in the Lions Gate Bridge landmarks area, hosting cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -123.158195,
+                        49.326942
+                  ]
+            },
+            {
+                  "name": "Grouse Grind Trailhead",
+                  "text": "The Grouse Grind Trailhead is an attraction in the Lions Gate Bridge landmarks area, the starting point of the famous Grouse Grind hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.098378,
+                        49.371199
+                  ]
+            },
+            {
+                  "name": "West Vancouver Recreation Centre",
+                  "text": "The West Vancouver Recreation Centre is an attraction in the Lions Gate Bridge landmarks area, offering sports and fitness facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.170201,
+                        49.330988
+                  ]
+            },
+            {
+                  "name": "Capilano River Hatchery",
+                  "text": "The Capilano River Hatchery is an attraction in the Lions Gate Bridge landmarks area, a fish hatchery that helps sustain salmon populations.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.110129,
+                        49.356649
+                  ]
+            },
+            {
+                  "name": "Wilderness Lookout",
+                  "text": "The Wilderness Lookout is a viewpoint in the Lions Gate Bridge landmarks area, offering scenic wilderness views.",
+                  "category": "natural",
+                  "coords": [
+                        -123.073838,
+                        49.387617
+                  ]
+            },
+            {
+                  "name": "Second Canyon Viewpoint",
+                  "text": "The Second Canyon Viewpoint is a viewpoint in the Lions Gate Bridge landmarks area, overlooking the second canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -123.111421,
+                        49.358183
+                  ]
+            },
+            {
+                  "name": "Cable Pool Lookout",
+                  "text": "The Cable Pool Lookout is a viewpoint in the Lions Gate Bridge landmarks area, overlooking a cable pool.",
+                  "category": "natural",
+                  "coords": [
+                        -123.110676,
+                        49.354641
+                  ]
+            },
+            {
+                  "name": "Lodge Lake Lookout",
+                  "text": "The Lodge Lake Lookout is a viewpoint in the Lions Gate Bridge landmarks area, overlooking Lodge Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -123.182915,
+                        49.375809
+                  ]
+            },
+            {
+                  "name": "Clearview Lookout",
+                  "text": "The Clearview Lookout is a viewpoint in the Lions Gate Bridge landmarks area, providing clear views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -123.180849,
+                        49.380451
+                  ]
+            },
+            {
+                  "name": "Strait Lookout",
+                  "text": "The Strait Lookout is a viewpoint in the Lions Gate Bridge landmarks area, offering views of the strait.",
+                  "category": "natural",
+                  "coords": [
+                        -123.188332,
+                        49.380383
+                  ]
+            },
+            {
+                  "name": "Lowden’s Lookout",
+                  "text": "The Lowden’s Lookout is a viewpoint in the Lions Gate Bridge landmarks area, named after a person, offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -123.14234,
+                        49.313585
+                  ]
+            },
+            {
+                  "name": "Siwash Rock Viewpoint",
+                  "text": "The Siwash Rock Viewpoint is a viewpoint in the Lions Gate Bridge landmarks area, overlooking the famous Siwash Rock.",
+                  "category": "natural",
+                  "coords": [
+                        -123.155788,
+                        49.308443
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-BC",
     coords: [-123.1444, 49.3139],
@@ -574,7 +14326,88 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "peace-tower-ottawa-landmarks-v2",
+    id: "peace-tower-ottawa-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "View on the River",
+                  "text": "Die Aussicht auf den Fluss bietet einen Blick auf den Fluss in der Nähe des Friedensturms in Ottawa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.700556,
+                        45.425847
+                  ]
+            },
+            {
+                  "name": "Friedensturm",
+                  "text": "Der Friedensturm beherbergt ein Carillon mit 53 Glocken.",
+                  "category": "tower",
+                  "coords": [
+                        -75.699635,
+                        45.424794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "View on the River",
+                  "text": "A kilátás a folyóra a Békekapu torony közelében Ottawa-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.700556,
+                        45.425847
+                  ]
+            },
+            {
+                  "name": "Peace Tower",
+                  "text": "A Békekapu torony 53 harangból álló harangjátékot tartalmaz.",
+                  "category": "tower",
+                  "coords": [
+                        -75.699635,
+                        45.424794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "View on the River",
+                  "text": "Priveliștea asupra râului oferă o vedere asupra râului lângă Turnul Păcii din Ottawa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.700556,
+                        45.425847
+                  ]
+            },
+            {
+                  "name": "Peace Tower",
+                  "text": "Turnul Păcii adăpostește un carilon cu 53 de clopote.",
+                  "category": "tower",
+                  "coords": [
+                        -75.699635,
+                        45.424794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "View on the River",
+                  "text": "View on the River is a viewpoint of the river near the Peace Tower in Ottawa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.700556,
+                        45.425847
+                  ]
+            },
+            {
+                  "name": "Peace Tower",
+                  "text": "The Peace Tower houses a carillon of 53 bells.",
+                  "category": "tower",
+                  "coords": [
+                        -75.699635,
+                        45.424794
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-75.6998, 45.425],
@@ -610,7 +14443,1348 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "ontario-place-cinesphere-landmarks-v2",
+    id: "ontario-place-cinesphere-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Montgomery's Inn",
+                  "text": "Ein historisches Gasthaus aus dem 19. Jahrhundert, heute ein Museum in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.52562,
+                        43.651654
+                  ]
+            },
+            {
+                  "name": "QEW Monument",
+                  "text": "Ein Denkmal zur Erinnerung an den Queen Elizabeth Way in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.470375,
+                        43.63317
+                  ]
+            },
+            {
+                  "name": "Fort Rouillé Monument",
+                  "text": "Ein Denkmal, das den Standort von Fort Rouillé, einem ehemaligen französischen Fort, markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.423524,
+                        43.630658
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche im Kingsway-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.512599,
+                        43.646679
+                  ]
+            },
+            {
+                  "name": "St. Leo's Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche im Mimico-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.497054,
+                        43.614303
+                  ]
+            },
+            {
+                  "name": "Wesley Mimico United Church",
+                  "text": "Eine United Church im Mimico-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.493738,
+                        43.613235
+                  ]
+            },
+            {
+                  "name": "Jami Mosque",
+                  "text": "Eine Moschee in Toronto, eine der ältesten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -79.454467,
+                        43.653323
+                  ]
+            },
+            {
+                  "name": "St. Vincent de Paul Catholic Church",
+                  "text": "Eine katholische Kirche im Parkdale-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.448838,
+                        43.647082
+                  ]
+            },
+            {
+                  "name": "Holy Family Catholic Church",
+                  "text": "Eine katholische Kirche im Parkdale-Viertel von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.434508,
+                        43.637739
+                  ]
+            },
+            {
+                  "name": "RBC Amphitheatre",
+                  "text": "Ein Open-Air-Amphitheater am Ontario Place in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.415107,
+                        43.629283
+                  ]
+            },
+            {
+                  "name": "Colborne Lodge",
+                  "text": "Ein historisches Herrenhausmuseum im High Park von Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.459996,
+                        43.640362
+                  ]
+            },
+            {
+                  "name": "Humber Bay Arch Bridge",
+                  "text": "Eine Fußgänger- und Radfahrerbrücke über den Humber River in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471263,
+                        43.631873
+                  ]
+            },
+            {
+                  "name": "Hanlan's Point Nude Beach",
+                  "text": "Ein textilfreier Strand auf den Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.397192,
+                        43.62168
+                  ]
+            },
+            {
+                  "name": "Étienne Brûlé Park",
+                  "text": "Ein Park, benannt nach dem französischen Entdecker Étienne Brûlé in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.490348,
+                        43.651916
+                  ]
+            },
+            {
+                  "name": "Colonel Samuel Smith Park",
+                  "text": "Ein Park, benannt nach Colonel Samuel Smith in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.513396,
+                        43.592896
+                  ]
+            },
+            {
+                  "name": "Sunnyside Park",
+                  "text": "Ein Park am Standort des ehemaligen Sunnyside Vergnügungsparks in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.456066,
+                        43.637586
+                  ]
+            },
+            {
+                  "name": "High Park",
+                  "text": "Der größte öffentliche Park Torontos mit Gärten und einem Zoo.",
+                  "category": "park",
+                  "coords": [
+                        -79.463363,
+                        43.646082
+                  ]
+            },
+            {
+                  "name": "Inukshuk Park",
+                  "text": "Ein Park mit einer großen Inukshuk-Skulptur in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.409447,
+                        43.632511
+                  ]
+            },
+            {
+                  "name": "Trillium Park",
+                  "text": "Ein Uferpark am Ontario Place in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.410289,
+                        43.629131
+                  ]
+            },
+            {
+                  "name": "High Park Zoo",
+                  "text": "Ein kleiner Zoo im High Park von Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.462795,
+                        43.64332
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Catholic Church",
+                  "text": "Eine katholische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.491812,
+                        43.633998
+                  ]
+            },
+            {
+                  "name": "St Teresa's Church",
+                  "text": "Eine Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.508663,
+                        43.598848
+                  ]
+            },
+            {
+                  "name": "Church Of The Epiphany & St Mark",
+                  "text": "Eine Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432292,
+                        43.640769
+                  ]
+            },
+            {
+                  "name": "St. John's Cathedral (Polish Catholic)",
+                  "text": "Eine polnisch-katholische Kathedrale in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432856,
+                        43.639538
+                  ]
+            },
+            {
+                  "name": "Medieval Times Dinner & Tournament",
+                  "text": "Ein Dinner-Theater mit einem mittelalterlichen Turnier in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.425573,
+                        43.632649
+                  ]
+            },
+            {
+                  "name": "Mimico Harbour",
+                  "text": "Ein Hafen im Mimico-Viertel von Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.483509,
+                        43.616256
+                  ]
+            },
+            {
+                  "name": "Humber Bay",
+                  "text": "Eine Bucht an der Mündung des Humber River in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.454521,
+                        43.631968
+                  ]
+            },
+            {
+                  "name": "Budapest Park",
+                  "text": "Ein Park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.449659,
+                        43.636904
+                  ]
+            },
+            {
+                  "name": "Kennedy-Margdon Parkette",
+                  "text": "Ein Park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.473332,
+                        43.652357
+                  ]
+            },
+            {
+                  "name": "Sorauren Park",
+                  "text": "Ein Park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.443339,
+                        43.648687
+                  ]
+            },
+            {
+                  "name": "Kumf Gallery",
+                  "text": "Eine Kunstgalerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.509616,
+                        43.618591
+                  ]
+            },
+            {
+                  "name": "General Hardware Contemporary",
+                  "text": "General Hardware Contemporary ist eine zeitgenössische Galerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.438696,
+                        43.640305
+                  ]
+            },
+            {
+                  "name": "Elaine Fleck Gallery",
+                  "text": "Die Elaine Fleck Gallery ist eine Kunstgalerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.434673,
+                        43.640859
+                  ]
+            },
+            {
+                  "name": "1313 Gallery",
+                  "text": "Die 1313 Gallery ist eine Galerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.433318,
+                        43.641087
+                  ]
+            },
+            {
+                  "name": "Museum of Television",
+                  "text": "Das Museum of Television in Toronto ist ein Museum, das der Geschichte des Fernsehens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -79.422274,
+                        43.637565
+                  ]
+            },
+            {
+                  "name": "BAND",
+                  "text": "BAND ist eine Kunstgalerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.432517,
+                        43.642513
+                  ]
+            },
+            {
+                  "name": "Dufferin Gate Arch",
+                  "text": "Der Dufferin Gate Arch ist ein Denkmal in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.425306,
+                        43.633561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Montgomery's Inn",
+                  "text": "Egy 19. századi történelmi fogadó, ma múzeum Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.52562,
+                        43.651654
+                  ]
+            },
+            {
+                  "name": "QEW Monument",
+                  "text": "A Queen Elizabeth Way autópályára emlékező emlékmű Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.470375,
+                        43.63317
+                  ]
+            },
+            {
+                  "name": "Fort Rouillé Monument",
+                  "text": "A Fort Rouillé, egykori francia erőd helyét jelölő emlékmű Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.423524,
+                        43.630658
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Roman Catholic Church",
+                  "text": "Római katolikus templom Toronto Kingsway negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.512599,
+                        43.646679
+                  ]
+            },
+            {
+                  "name": "St. Leo's Roman Catholic Church",
+                  "text": "Római katolikus templom Toronto Mimico negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.497054,
+                        43.614303
+                  ]
+            },
+            {
+                  "name": "Wesley Mimico United Church",
+                  "text": "Egy egyesült templom Toronto Mimico negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.493738,
+                        43.613235
+                  ]
+            },
+            {
+                  "name": "Jami Mosque",
+                  "text": "Egy mecset Torontóban, a város egyik legrégebbi mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        -79.454467,
+                        43.653323
+                  ]
+            },
+            {
+                  "name": "St. Vincent de Paul Catholic Church",
+                  "text": "Katolikus templom Toronto Parkdale negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.448838,
+                        43.647082
+                  ]
+            },
+            {
+                  "name": "Holy Family Catholic Church",
+                  "text": "Katolikus templom Toronto Parkdale negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.434508,
+                        43.637739
+                  ]
+            },
+            {
+                  "name": "RBC Amphitheatre",
+                  "text": "Egy szabadtéri amfiteátrum a torontói Ontario Place területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.415107,
+                        43.629283
+                  ]
+            },
+            {
+                  "name": "Colborne Lodge",
+                  "text": "Történelmi kúria múzeum a torontói High Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.459996,
+                        43.640362
+                  ]
+            },
+            {
+                  "name": "Humber Bay Arch Bridge",
+                  "text": "Gyalogos- és kerékpáros híd a Humber folyó felett Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471263,
+                        43.631873
+                  ]
+            },
+            {
+                  "name": "Hanlan's Point Nude Beach",
+                  "text": "Egy ruházat nélküli strand a Toronto-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.397192,
+                        43.62168
+                  ]
+            },
+            {
+                  "name": "Étienne Brûlé Park",
+                  "text": "Egy park, melyet Étienne Brûlé francia felfedezőről neveztek el Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.490348,
+                        43.651916
+                  ]
+            },
+            {
+                  "name": "Colonel Samuel Smith Park",
+                  "text": "Egy park, melyet Samuel Smith ezredesről neveztek el Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.513396,
+                        43.592896
+                  ]
+            },
+            {
+                  "name": "Sunnyside Park",
+                  "text": "Egy park a korábbi Sunnyside Vidámpark helyén Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.456066,
+                        43.637586
+                  ]
+            },
+            {
+                  "name": "High Park",
+                  "text": "Toronto legnagyobb közparkja kertekkel és állatkerttel.",
+                  "category": "park",
+                  "coords": [
+                        -79.463363,
+                        43.646082
+                  ]
+            },
+            {
+                  "name": "Inukshuk Park",
+                  "text": "Egy park nagy inukshuk szoborral Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.409447,
+                        43.632511
+                  ]
+            },
+            {
+                  "name": "Trillium Park",
+                  "text": "Egy vízparti park a torontói Ontario Place területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.410289,
+                        43.629131
+                  ]
+            },
+            {
+                  "name": "High Park Zoo",
+                  "text": "Egy kis állatkert a torontói High Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.462795,
+                        43.64332
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Catholic Church",
+                  "text": "Katolikus templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.491812,
+                        43.633998
+                  ]
+            },
+            {
+                  "name": "St Teresa's Church",
+                  "text": "Egy templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.508663,
+                        43.598848
+                  ]
+            },
+            {
+                  "name": "Church Of The Epiphany & St Mark",
+                  "text": "Egy templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432292,
+                        43.640769
+                  ]
+            },
+            {
+                  "name": "St. John's Cathedral (Polish Catholic)",
+                  "text": "Lengyel katolikus székesegyház Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432856,
+                        43.639538
+                  ]
+            },
+            {
+                  "name": "Medieval Times Dinner & Tournament",
+                  "text": "Egy vacsoraszínház középkori tornával Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.425573,
+                        43.632649
+                  ]
+            },
+            {
+                  "name": "Mimico Harbour",
+                  "text": "Egy kikötő Toronto Mimico negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.483509,
+                        43.616256
+                  ]
+            },
+            {
+                  "name": "Humber Bay",
+                  "text": "Egy öböl a Humber folyó torkolatánál Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.454521,
+                        43.631968
+                  ]
+            },
+            {
+                  "name": "Budapest Park",
+                  "text": "Egy park Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.449659,
+                        43.636904
+                  ]
+            },
+            {
+                  "name": "Kennedy-Margdon Parkette",
+                  "text": "Egy park Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.473332,
+                        43.652357
+                  ]
+            },
+            {
+                  "name": "Sorauren Park",
+                  "text": "Egy park Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.443339,
+                        43.648687
+                  ]
+            },
+            {
+                  "name": "Kumf Gallery",
+                  "text": "Egy művészeti galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.509616,
+                        43.618591
+                  ]
+            },
+            {
+                  "name": "General Hardware Contemporary",
+                  "text": "A General Hardware Contemporary egy kortárs galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.438696,
+                        43.640305
+                  ]
+            },
+            {
+                  "name": "Elaine Fleck Gallery",
+                  "text": "Az Elaine Fleck Galéria egy művészeti galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.434673,
+                        43.640859
+                  ]
+            },
+            {
+                  "name": "1313 Gallery",
+                  "text": "A 1313 Galéria egy galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.433318,
+                        43.641087
+                  ]
+            },
+            {
+                  "name": "Museum of Television",
+                  "text": "A Museum of Television Torontóban a televíziózás történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -79.422274,
+                        43.637565
+                  ]
+            },
+            {
+                  "name": "BAND",
+                  "text": "A BAND egy művészeti galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.432517,
+                        43.642513
+                  ]
+            },
+            {
+                  "name": "Dufferin Gate Arch",
+                  "text": "A Dufferin Gate Arch egy emlékmű Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.425306,
+                        43.633561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Montgomery's Inn",
+                  "text": "Un han istoric din secolul al XIX-lea, acum muzeu în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.52562,
+                        43.651654
+                  ]
+            },
+            {
+                  "name": "QEW Monument",
+                  "text": "Un monument care comemorează Queen Elizabeth Way din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.470375,
+                        43.63317
+                  ]
+            },
+            {
+                  "name": "Fort Rouillé Monument",
+                  "text": "Un monument care marchează locul Fort Rouillé, un fost fort francez din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.423524,
+                        43.630658
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Roman Catholic Church",
+                  "text": "O biserică romano-catolică în cartierul Kingsway din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.512599,
+                        43.646679
+                  ]
+            },
+            {
+                  "name": "St. Leo's Roman Catholic Church",
+                  "text": "O biserică romano-catolică în cartierul Mimico din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.497054,
+                        43.614303
+                  ]
+            },
+            {
+                  "name": "Wesley Mimico United Church",
+                  "text": "O biserică unită în cartierul Mimico din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.493738,
+                        43.613235
+                  ]
+            },
+            {
+                  "name": "Jami Mosque",
+                  "text": "O moschee în Toronto, una dintre cele mai vechi din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -79.454467,
+                        43.653323
+                  ]
+            },
+            {
+                  "name": "St. Vincent de Paul Catholic Church",
+                  "text": "O biserică catolică în cartierul Parkdale din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.448838,
+                        43.647082
+                  ]
+            },
+            {
+                  "name": "Holy Family Catholic Church",
+                  "text": "O biserică catolică în cartierul Parkdale din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.434508,
+                        43.637739
+                  ]
+            },
+            {
+                  "name": "RBC Amphitheatre",
+                  "text": "Un amfiteatru în aer liber la Ontario Place din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.415107,
+                        43.629283
+                  ]
+            },
+            {
+                  "name": "Colborne Lodge",
+                  "text": "Un muzeu într-o casă istorică din High Park, Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.459996,
+                        43.640362
+                  ]
+            },
+            {
+                  "name": "Humber Bay Arch Bridge",
+                  "text": "Un pod pentru pietoni și bicicliști peste râul Humber din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471263,
+                        43.631873
+                  ]
+            },
+            {
+                  "name": "Hanlan's Point Nude Beach",
+                  "text": "O plajă unde nuditatea este permisă pe Insulele Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.397192,
+                        43.62168
+                  ]
+            },
+            {
+                  "name": "Étienne Brûlé Park",
+                  "text": "Un parc numit după exploratorul francez Étienne Brûlé în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.490348,
+                        43.651916
+                  ]
+            },
+            {
+                  "name": "Colonel Samuel Smith Park",
+                  "text": "Un parc numit după colonelul Samuel Smith în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.513396,
+                        43.592896
+                  ]
+            },
+            {
+                  "name": "Sunnyside Park",
+                  "text": "Un parc pe locul fostului parc de distracții Sunnyside din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.456066,
+                        43.637586
+                  ]
+            },
+            {
+                  "name": "High Park",
+                  "text": "Cel mai mare parc public din Toronto, cu grădini și o grădină zoologică.",
+                  "category": "park",
+                  "coords": [
+                        -79.463363,
+                        43.646082
+                  ]
+            },
+            {
+                  "name": "Inukshuk Park",
+                  "text": "Un parc cu o sculptură mare inukshuk în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.409447,
+                        43.632511
+                  ]
+            },
+            {
+                  "name": "Trillium Park",
+                  "text": "Un parc pe malul apei la Ontario Place din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.410289,
+                        43.629131
+                  ]
+            },
+            {
+                  "name": "High Park Zoo",
+                  "text": "O grădină zoologică mică în High Park din Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.462795,
+                        43.64332
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Catholic Church",
+                  "text": "O biserică catolică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.491812,
+                        43.633998
+                  ]
+            },
+            {
+                  "name": "St Teresa's Church",
+                  "text": "O biserică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.508663,
+                        43.598848
+                  ]
+            },
+            {
+                  "name": "Church Of The Epiphany & St Mark",
+                  "text": "O biserică în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432292,
+                        43.640769
+                  ]
+            },
+            {
+                  "name": "St. John's Cathedral (Polish Catholic)",
+                  "text": "O catedrală catolică poloneză în Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432856,
+                        43.639538
+                  ]
+            },
+            {
+                  "name": "Medieval Times Dinner & Tournament",
+                  "text": "Un teatru-cină cu un turnir medieval în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.425573,
+                        43.632649
+                  ]
+            },
+            {
+                  "name": "Mimico Harbour",
+                  "text": "Un port în cartierul Mimico din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.483509,
+                        43.616256
+                  ]
+            },
+            {
+                  "name": "Humber Bay",
+                  "text": "Un golf la vărsarea râului Humber în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.454521,
+                        43.631968
+                  ]
+            },
+            {
+                  "name": "Budapest Park",
+                  "text": "Un parc în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.449659,
+                        43.636904
+                  ]
+            },
+            {
+                  "name": "Kennedy-Margdon Parkette",
+                  "text": "Un parc în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.473332,
+                        43.652357
+                  ]
+            },
+            {
+                  "name": "Sorauren Park",
+                  "text": "Un parc în Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.443339,
+                        43.648687
+                  ]
+            },
+            {
+                  "name": "Kumf Gallery",
+                  "text": "O galerie de artă în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.509616,
+                        43.618591
+                  ]
+            },
+            {
+                  "name": "General Hardware Contemporary",
+                  "text": "General Hardware Contemporary este o galerie contemporană din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.438696,
+                        43.640305
+                  ]
+            },
+            {
+                  "name": "Elaine Fleck Gallery",
+                  "text": "Galeriile Elaine Fleck sunt o galerie de artă din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.434673,
+                        43.640859
+                  ]
+            },
+            {
+                  "name": "1313 Gallery",
+                  "text": "Galeria 1313 este o galerie în Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.433318,
+                        43.641087
+                  ]
+            },
+            {
+                  "name": "Museum of Television",
+                  "text": "Muzeul de Televiziune din Toronto este un muzeu dedicat istoriei televiziunii.",
+                  "category": "museum",
+                  "coords": [
+                        -79.422274,
+                        43.637565
+                  ]
+            },
+            {
+                  "name": "BAND",
+                  "text": "BAND este o galerie de artă din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.432517,
+                        43.642513
+                  ]
+            },
+            {
+                  "name": "Dufferin Gate Arch",
+                  "text": "Arcul Porții Dufferin este un monument în Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.425306,
+                        43.633561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Montgomery's Inn",
+                  "text": "A historic 19th-century inn turned museum in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.52562,
+                        43.651654
+                  ]
+            },
+            {
+                  "name": "QEW Monument",
+                  "text": "A monument commemorating the Queen Elizabeth Way in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.470375,
+                        43.63317
+                  ]
+            },
+            {
+                  "name": "Fort Rouillé Monument",
+                  "text": "A monument marking the site of Fort Rouillé, a former French fort in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.423524,
+                        43.630658
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows Roman Catholic Church",
+                  "text": "A Roman Catholic church in Toronto's Kingsway neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.512599,
+                        43.646679
+                  ]
+            },
+            {
+                  "name": "St. Leo's Roman Catholic Church",
+                  "text": "A Roman Catholic church in Toronto's Mimico neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.497054,
+                        43.614303
+                  ]
+            },
+            {
+                  "name": "Wesley Mimico United Church",
+                  "text": "A United Church in Toronto's Mimico neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.493738,
+                        43.613235
+                  ]
+            },
+            {
+                  "name": "Jami Mosque",
+                  "text": "A mosque in Toronto, one of the oldest in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -79.454467,
+                        43.653323
+                  ]
+            },
+            {
+                  "name": "St. Vincent de Paul Catholic Church",
+                  "text": "A Catholic church in Toronto's Parkdale neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.448838,
+                        43.647082
+                  ]
+            },
+            {
+                  "name": "Holy Family Catholic Church",
+                  "text": "A Catholic church in Toronto's Parkdale neighbourhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.434508,
+                        43.637739
+                  ]
+            },
+            {
+                  "name": "RBC Amphitheatre",
+                  "text": "An outdoor amphitheatre at Ontario Place in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.415107,
+                        43.629283
+                  ]
+            },
+            {
+                  "name": "Colborne Lodge",
+                  "text": "A historic house museum located in Toronto's High Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.459996,
+                        43.640362
+                  ]
+            },
+            {
+                  "name": "Humber Bay Arch Bridge",
+                  "text": "A pedestrian and cycling bridge over the Humber River in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.471263,
+                        43.631873
+                  ]
+            },
+            {
+                  "name": "Hanlan's Point Nude Beach",
+                  "text": "A clothing-optional beach on the Toronto Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.397192,
+                        43.62168
+                  ]
+            },
+            {
+                  "name": "Étienne Brûlé Park",
+                  "text": "A park named after the French explorer Étienne Brûlé in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.490348,
+                        43.651916
+                  ]
+            },
+            {
+                  "name": "Colonel Samuel Smith Park",
+                  "text": "A park named after Colonel Samuel Smith in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.513396,
+                        43.592896
+                  ]
+            },
+            {
+                  "name": "Sunnyside Park",
+                  "text": "A park on the site of the former Sunnyside Amusement Park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.456066,
+                        43.637586
+                  ]
+            },
+            {
+                  "name": "High Park",
+                  "text": "Toronto's largest public park, featuring gardens and a zoo.",
+                  "category": "park",
+                  "coords": [
+                        -79.463363,
+                        43.646082
+                  ]
+            },
+            {
+                  "name": "Inukshuk Park",
+                  "text": "A park featuring a large inukshuk sculpture in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.409447,
+                        43.632511
+                  ]
+            },
+            {
+                  "name": "Trillium Park",
+                  "text": "A waterfront park at Ontario Place in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.410289,
+                        43.629131
+                  ]
+            },
+            {
+                  "name": "High Park Zoo",
+                  "text": "A small zoo located within Toronto's High Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.462795,
+                        43.64332
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Catholic Church",
+                  "text": "A Catholic church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.491812,
+                        43.633998
+                  ]
+            },
+            {
+                  "name": "St Teresa's Church",
+                  "text": "A church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.508663,
+                        43.598848
+                  ]
+            },
+            {
+                  "name": "Church Of The Epiphany & St Mark",
+                  "text": "A church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432292,
+                        43.640769
+                  ]
+            },
+            {
+                  "name": "St. John's Cathedral (Polish Catholic)",
+                  "text": "A Polish Catholic cathedral in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.432856,
+                        43.639538
+                  ]
+            },
+            {
+                  "name": "Medieval Times Dinner & Tournament",
+                  "text": "A dinner theatre featuring a medieval-themed tournament in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.425573,
+                        43.632649
+                  ]
+            },
+            {
+                  "name": "Mimico Harbour",
+                  "text": "A harbour in the Mimico area of Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.483509,
+                        43.616256
+                  ]
+            },
+            {
+                  "name": "Humber Bay",
+                  "text": "A bay at the mouth of the Humber River in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.454521,
+                        43.631968
+                  ]
+            },
+            {
+                  "name": "Budapest Park",
+                  "text": "A park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.449659,
+                        43.636904
+                  ]
+            },
+            {
+                  "name": "Kennedy-Margdon Parkette",
+                  "text": "A park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.473332,
+                        43.652357
+                  ]
+            },
+            {
+                  "name": "Sorauren Park",
+                  "text": "A park in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.443339,
+                        43.648687
+                  ]
+            },
+            {
+                  "name": "Kumf Gallery",
+                  "text": "An art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.509616,
+                        43.618591
+                  ]
+            },
+            {
+                  "name": "General Hardware Contemporary",
+                  "text": "General Hardware Contemporary is a contemporary art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.438696,
+                        43.640305
+                  ]
+            },
+            {
+                  "name": "Elaine Fleck Gallery",
+                  "text": "Elaine Fleck Gallery is an art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.434673,
+                        43.640859
+                  ]
+            },
+            {
+                  "name": "1313 Gallery",
+                  "text": "1313 Gallery is a gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.433318,
+                        43.641087
+                  ]
+            },
+            {
+                  "name": "Museum of Television",
+                  "text": "The Museum of Television in Toronto is a museum dedicated to the history of television.",
+                  "category": "museum",
+                  "coords": [
+                        -79.422274,
+                        43.637565
+                  ]
+            },
+            {
+                  "name": "BAND",
+                  "text": "BAND is an art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.432517,
+                        43.642513
+                  ]
+            },
+            {
+                  "name": "Dufferin Gate Arch",
+                  "text": "The Dufferin Gate Arch is a monument in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.425306,
+                        43.633561
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.4147, 43.6275],
@@ -646,7 +15820,664 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "brockville-railway-tunnel-landmarks-v2",
+    id: "brockville-railway-tunnel-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maitland Bay",
+                  "text": "Die Maitland Bay ist eine Bucht in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.612392,
+                        44.634892
+                  ]
+            },
+            {
+                  "name": "Skelton Island Lighthouse",
+                  "text": "Der Leuchtturm von Skelton Island ist ein Leuchtturm auf der Insel Skelton in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692542,
+                        44.576686
+                  ]
+            },
+            {
+                  "name": "Brockville Underwater Sculpture Park",
+                  "text": "Der Brockville Unterwasser-Skulpturenpark ist eine Unterwasser-Kunstinstallation in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677241,
+                        44.592015
+                  ]
+            },
+            {
+                  "name": "Escape Brockville",
+                  "text": "Escape Brockville ist ein Escape-Room-Erlebnis in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.681393,
+                        44.589691
+                  ]
+            },
+            {
+                  "name": "Aquatarium",
+                  "text": "Das Aquatarium ist ein Museum und Aquarium in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.682651,
+                        44.587848
+                  ]
+            },
+            {
+                  "name": "Sir Isaac Brock Statue",
+                  "text": "Die Sir Isaac Brock Statue ist ein Denkmal für Sir Isaac Brock in Brockville.",
+                  "category": "historical",
+                  "coords": [
+                        -75.685196,
+                        44.590361
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence State Park",
+                  "text": "Der Saint Lawrence State Park ist ein State Park mit einem 18-Loch-Golfplatz im Brockville-Gebiet.",
+                  "category": "park",
+                  "coords": [
+                        -75.576472,
+                        44.62981
+                  ]
+            },
+            {
+                  "name": "Jacques Cartier State Park",
+                  "text": "Der Jacques Cartier State Park ist ein State Park am Sankt-Lorenz-Strom im Brockville-Gebiet.",
+                  "category": "park",
+                  "coords": [
+                        -75.680598,
+                        44.554727
+                  ]
+            },
+            {
+                  "name": "Refugee Island",
+                  "text": "Refugee Island ist eine Inselpark in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.699203,
+                        44.569147
+                  ]
+            },
+            {
+                  "name": "Sparrow Island",
+                  "text": "Sparrow Island ist eine Inselpark in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.717358,
+                        44.556124
+                  ]
+            },
+            {
+                  "name": "Stovin Island",
+                  "text": "Stovin Island ist eine Inselpark in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.714516,
+                        44.558723
+                  ]
+            },
+            {
+                  "name": "Cockburn Island",
+                  "text": "Cockburn Island ist eine Inselpark in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.709292,
+                        44.562285
+                  ]
+            },
+            {
+                  "name": "Lyn Valley Conservation Area",
+                  "text": "Das Lyn Valley Conservation Area ist ein Naturschutzgebiet im Lyn-Tal in Brockville.",
+                  "category": "natural",
+                  "coords": [
+                        -75.776168,
+                        44.577031
+                  ]
+            },
+            {
+                  "name": "Brockville Arts Centre",
+                  "text": "Das Brockville Arts Centre ist ein Kunstzentrum in Brockville.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.689137,
+                        44.586679
+                  ]
+            },
+            {
+                  "name": "Brockville Museum",
+                  "text": "Das Brockville Museum ist ein Museum zur lokalen Geschichte in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.686548,
+                        44.586258
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church Brockville",
+                  "text": "Die First Presbyterian Church ist eine presbyterianische Kirche in Brockville.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686596,
+                        44.590452
+                  ]
+            },
+            {
+                  "name": "Fulford Place",
+                  "text": "Fulford Place ist ein historisches Edwardianisches Herrenhaus in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.670818,
+                        44.597514
+                  ]
+            },
+            {
+                  "name": "Mac Johnson Wildlife Area",
+                  "text": "Das Mac Johnson Wildlife Area ist ein Naturschutzgebiet in der Brockville-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.722486,
+                        44.625966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maitland Bay",
+                  "text": "A Maitland-öböl egy öböl Brockville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.612392,
+                        44.634892
+                  ]
+            },
+            {
+                  "name": "Skelton Island Lighthouse",
+                  "text": "A Skelton-szigeti világítótorony egy világítótorony a Skelton-szigeten Brockville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692542,
+                        44.576686
+                  ]
+            },
+            {
+                  "name": "Brockville Underwater Sculpture Park",
+                  "text": "A Brockville-i víz alatti szoborpark egy víz alatti művészeti installáció Brockville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677241,
+                        44.592015
+                  ]
+            },
+            {
+                  "name": "Escape Brockville",
+                  "text": "Az Escape Brockville egy szabadulószoba-élmény Brockville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.681393,
+                        44.589691
+                  ]
+            },
+            {
+                  "name": "Aquatarium",
+                  "text": "Az Aquatarium egy múzeum és akvárium Brockville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -75.682651,
+                        44.587848
+                  ]
+            },
+            {
+                  "name": "Sir Isaac Brock Statue",
+                  "text": "A Sir Isaac Brock szobor egy emlékmű Sir Isaac Brock számára Brockville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -75.685196,
+                        44.590361
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence State Park",
+                  "text": "A Saint Lawrence State Park egy 18 lyukú golfpályával rendelkező állami park a Brockville környékén.",
+                  "category": "park",
+                  "coords": [
+                        -75.576472,
+                        44.62981
+                  ]
+            },
+            {
+                  "name": "Jacques Cartier State Park",
+                  "text": "A Jacques Cartier State Park egy állami park a Szent Lőrinc-folyó partján a Brockville környékén.",
+                  "category": "park",
+                  "coords": [
+                        -75.680598,
+                        44.554727
+                  ]
+            },
+            {
+                  "name": "Refugee Island",
+                  "text": "A Refugee Island egy szigetpark Brockville-ben.",
+                  "category": "park",
+                  "coords": [
+                        -75.699203,
+                        44.569147
+                  ]
+            },
+            {
+                  "name": "Sparrow Island",
+                  "text": "A Sparrow Island egy szigetpark Brockville-ben.",
+                  "category": "park",
+                  "coords": [
+                        -75.717358,
+                        44.556124
+                  ]
+            },
+            {
+                  "name": "Stovin Island",
+                  "text": "A Stovin Island egy szigetpark Brockville-ben.",
+                  "category": "park",
+                  "coords": [
+                        -75.714516,
+                        44.558723
+                  ]
+            },
+            {
+                  "name": "Cockburn Island",
+                  "text": "A Cockburn Island egy szigetpark Brockville-ben.",
+                  "category": "park",
+                  "coords": [
+                        -75.709292,
+                        44.562285
+                  ]
+            },
+            {
+                  "name": "Lyn Valley Conservation Area",
+                  "text": "A Lyn Valley Conservation Area egy természetvédelmi terület a Lyn-völgyben Brockville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -75.776168,
+                        44.577031
+                  ]
+            },
+            {
+                  "name": "Brockville Arts Centre",
+                  "text": "A Brockville Arts Centre egy művészeti központ Brockville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.689137,
+                        44.586679
+                  ]
+            },
+            {
+                  "name": "Brockville Museum",
+                  "text": "A Brockville Múzeum egy helytörténeti múzeum Brockville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -75.686548,
+                        44.586258
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church Brockville",
+                  "text": "A First Presbyterian Church egy presbiteriánus templom Brockville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686596,
+                        44.590452
+                  ]
+            },
+            {
+                  "name": "Fulford Place",
+                  "text": "A Fulford Place egy történelmi Edward-kori kúria Brockville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -75.670818,
+                        44.597514
+                  ]
+            },
+            {
+                  "name": "Mac Johnson Wildlife Area",
+                  "text": "A Mac Johnson Wildlife Area egy vadvédelmi terület a Brockville régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.722486,
+                        44.625966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maitland Bay",
+                  "text": "Maitland Bay este un golf în Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.612392,
+                        44.634892
+                  ]
+            },
+            {
+                  "name": "Skelton Island Lighthouse",
+                  "text": "Farul Insulei Skelton este un far pe Insula Skelton în Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692542,
+                        44.576686
+                  ]
+            },
+            {
+                  "name": "Brockville Underwater Sculpture Park",
+                  "text": "Parcul subacvatic de sculpturi din Brockville este o instalație de artă subacvatică în Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677241,
+                        44.592015
+                  ]
+            },
+            {
+                  "name": "Escape Brockville",
+                  "text": "Escape Brockville este o experiență de cameră de evadare în Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.681393,
+                        44.589691
+                  ]
+            },
+            {
+                  "name": "Aquatarium",
+                  "text": "Aquatarium este un muzeu și acvariu în Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.682651,
+                        44.587848
+                  ]
+            },
+            {
+                  "name": "Sir Isaac Brock Statue",
+                  "text": "Statuia lui Sir Isaac Brock este un monument dedicat lui Sir Isaac Brock în Brockville.",
+                  "category": "historical",
+                  "coords": [
+                        -75.685196,
+                        44.590361
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence State Park",
+                  "text": "Parcul de Stat Saint Lawrence este un parc de stat cu un teren de golf de 18 găuri în zona Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.576472,
+                        44.62981
+                  ]
+            },
+            {
+                  "name": "Jacques Cartier State Park",
+                  "text": "Parcul de Stat Jacques Cartier este un parc de stat pe râul Sfântul Laurențiu în zona Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.680598,
+                        44.554727
+                  ]
+            },
+            {
+                  "name": "Refugee Island",
+                  "text": "Insula Refugee este un parc insular în Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.699203,
+                        44.569147
+                  ]
+            },
+            {
+                  "name": "Sparrow Island",
+                  "text": "Insula Sparrow este un parc insular în Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.717358,
+                        44.556124
+                  ]
+            },
+            {
+                  "name": "Stovin Island",
+                  "text": "Insula Stovin este un parc insular în Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.714516,
+                        44.558723
+                  ]
+            },
+            {
+                  "name": "Cockburn Island",
+                  "text": "Insula Cockburn este un parc insular în Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.709292,
+                        44.562285
+                  ]
+            },
+            {
+                  "name": "Lyn Valley Conservation Area",
+                  "text": "Zona de conservare Lyn Valley este o rezervație naturală în valea Lyn din Brockville.",
+                  "category": "natural",
+                  "coords": [
+                        -75.776168,
+                        44.577031
+                  ]
+            },
+            {
+                  "name": "Brockville Arts Centre",
+                  "text": "Centrul de Artă Brockville este un centru de artă în Brockville.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.689137,
+                        44.586679
+                  ]
+            },
+            {
+                  "name": "Brockville Museum",
+                  "text": "Muzeul Brockville este un muzeu de istorie locală în Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.686548,
+                        44.586258
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church Brockville",
+                  "text": "Biserica First Presbyterian este o biserică prezbiteriană în Brockville.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686596,
+                        44.590452
+                  ]
+            },
+            {
+                  "name": "Fulford Place",
+                  "text": "Fulford Place este un conac istoric Edwardian în Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.670818,
+                        44.597514
+                  ]
+            },
+            {
+                  "name": "Mac Johnson Wildlife Area",
+                  "text": "Zona de viață sălbatică Mac Johnson este o rezervație naturală în regiunea Brockville.",
+                  "category": "natural",
+                  "coords": [
+                        -75.722486,
+                        44.625966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maitland Bay",
+                  "text": "Maitland Bay is a bay in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.612392,
+                        44.634892
+                  ]
+            },
+            {
+                  "name": "Skelton Island Lighthouse",
+                  "text": "Skelton Island Lighthouse is a lighthouse on Skelton Island in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.692542,
+                        44.576686
+                  ]
+            },
+            {
+                  "name": "Brockville Underwater Sculpture Park",
+                  "text": "Brockville Underwater Sculpture Park is an underwater art installation in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677241,
+                        44.592015
+                  ]
+            },
+            {
+                  "name": "Escape Brockville",
+                  "text": "Escape Brockville is an escape room experience in Brockville.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.681393,
+                        44.589691
+                  ]
+            },
+            {
+                  "name": "Aquatarium",
+                  "text": "Aquatarium is a museum and aquarium in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.682651,
+                        44.587848
+                  ]
+            },
+            {
+                  "name": "Sir Isaac Brock Statue",
+                  "text": "Sir Isaac Brock Statue is a monument dedicated to Sir Isaac Brock in Brockville.",
+                  "category": "historical",
+                  "coords": [
+                        -75.685196,
+                        44.590361
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence State Park",
+                  "text": "Saint Lawrence State Park is a state park with an 18-hole golf course in the Brockville area.",
+                  "category": "park",
+                  "coords": [
+                        -75.576472,
+                        44.62981
+                  ]
+            },
+            {
+                  "name": "Jacques Cartier State Park",
+                  "text": "Jacques Cartier State Park is a state park on the St. Lawrence River in the Brockville area.",
+                  "category": "park",
+                  "coords": [
+                        -75.680598,
+                        44.554727
+                  ]
+            },
+            {
+                  "name": "Refugee Island",
+                  "text": "Refugee Island is an island park in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.699203,
+                        44.569147
+                  ]
+            },
+            {
+                  "name": "Sparrow Island",
+                  "text": "Sparrow Island is an island park in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.717358,
+                        44.556124
+                  ]
+            },
+            {
+                  "name": "Stovin Island",
+                  "text": "Stovin Island is an island park in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.714516,
+                        44.558723
+                  ]
+            },
+            {
+                  "name": "Cockburn Island",
+                  "text": "Cockburn Island is an island park in Brockville.",
+                  "category": "park",
+                  "coords": [
+                        -75.709292,
+                        44.562285
+                  ]
+            },
+            {
+                  "name": "Lyn Valley Conservation Area",
+                  "text": "Lyn Valley Conservation Area is a nature reserve in the Lyn Valley in Brockville.",
+                  "category": "natural",
+                  "coords": [
+                        -75.776168,
+                        44.577031
+                  ]
+            },
+            {
+                  "name": "Brockville Arts Centre",
+                  "text": "Brockville Arts Centre is an arts centre in Brockville.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.689137,
+                        44.586679
+                  ]
+            },
+            {
+                  "name": "Brockville Museum",
+                  "text": "Brockville Museum is a local history museum in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.686548,
+                        44.586258
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church Brockville",
+                  "text": "First Presbyterian Church is a Presbyterian church in Brockville.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686596,
+                        44.590452
+                  ]
+            },
+            {
+                  "name": "Fulford Place",
+                  "text": "Fulford Place is a historic Edwardian mansion in Brockville.",
+                  "category": "museum",
+                  "coords": [
+                        -75.670818,
+                        44.597514
+                  ]
+            },
+            {
+                  "name": "Mac Johnson Wildlife Area",
+                  "text": "Mac Johnson Wildlife Area is a wildlife area in the Brockville region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.722486,
+                        44.625966
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-75.6845, 44.587],
@@ -682,7 +16513,592 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "toronto-sign-landmarks-v2",
+    id: "toronto-sign-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Design Exchange",
+                  "text": "Das Design Exchange ist ein Museum für Design in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380114,
+                        43.647741
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.392686,
+                        43.654208
+                  ]
+            },
+            {
+                  "name": "Toronto bicycle tour",
+                  "text": "Bietet Fahrradtouren und Veranstaltungen in Toronto an.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389709,
+                        43.653768
+                  ]
+            },
+            {
+                  "name": "Campbell House Museum",
+                  "text": "Ein Museum in einem historischen Gebäude in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387321,
+                        43.651044
+                  ]
+            },
+            {
+                  "name": "OCAD Graduate Gallery",
+                  "text": "Eine Galerie, die Abschlussarbeiten der OCAD University zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.388887,
+                        43.649334
+                  ]
+            },
+            {
+                  "name": "Chinatown Community Marker",
+                  "text": "Ein Denkmal, das Torontos Chinatown markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -79.397897,
+                        43.652436
+                  ]
+            },
+            {
+                  "name": "Unit 270",
+                  "text": "Eine Kunstgalerie in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.397636,
+                        43.650907
+                  ]
+            },
+            {
+                  "name": "Bad Dog Theatre Co.",
+                  "text": "Ein Comedy-Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.399407,
+                        43.655488
+                  ]
+            },
+            {
+                  "name": "Kensington Market Community Marker",
+                  "text": "Ein Denkmal im Kensington Market in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.398899,
+                        43.654378
+                  ]
+            },
+            {
+                  "name": "Nathan Phillips Square",
+                  "text": "Der Nathan Phillips Square ist der Hauptplatz vor dem Rathaus von Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.383812,
+                        43.652457
+                  ]
+            },
+            {
+                  "name": "Four Seasons Centre for the Performing Arts",
+                  "text": "Das Four Seasons Centre for the Performing Arts ist die Heimat der Canadian Opera Company.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385504,
+                        43.650667
+                  ]
+            },
+            {
+                  "name": "St. George the Martyr Anglican Church",
+                  "text": "Eine anglikanische Kirche in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391139,
+                        43.651575
+                  ]
+            },
+            {
+                  "name": "Grange Park",
+                  "text": "Der Grange Park ist der älteste Park in Toronto, neben der Art Gallery of Ontario.",
+                  "category": "park",
+                  "coords": [
+                        -79.392236,
+                        43.652451
+                  ]
+            },
+            {
+                  "name": "Toronto Chinese Baptist Church",
+                  "text": "Eine Baptistengemeinde, die die chinesische Gemeinschaft in Toronto bedient.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393473,
+                        43.651844
+                  ]
+            },
+            {
+                  "name": "Bellevue Square Park",
+                  "text": "Ein Park im Kensington Market Viertel von Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.402318,
+                        43.653486
+                  ]
+            },
+            {
+                  "name": "First Baptist Church",
+                  "text": "Die First Baptist Church ist eine historische Baptistenkirche im Zentrum Torontos.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396403,
+                        43.654631
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Design Exchange",
+                  "text": "A Design Exchange egy designnak szentelt múzeum Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380114,
+                        43.647741
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "Kortárs művészeti galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.392686,
+                        43.654208
+                  ]
+            },
+            {
+                  "name": "Toronto bicycle tour",
+                  "text": "Kerékpártúrákat és eseményeket kínál Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389709,
+                        43.653768
+                  ]
+            },
+            {
+                  "name": "Campbell House Museum",
+                  "text": "Egy múzeum egy történelmi épületben Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387321,
+                        43.651044
+                  ]
+            },
+            {
+                  "name": "OCAD Graduate Gallery",
+                  "text": "Galéria, amely az OCAD Egyetem diplomamunkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.388887,
+                        43.649334
+                  ]
+            },
+            {
+                  "name": "Chinatown Community Marker",
+                  "text": "Egy emlékmű, amely Toronto kínai negyedét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -79.397897,
+                        43.652436
+                  ]
+            },
+            {
+                  "name": "Unit 270",
+                  "text": "Egy művészeti galéria Torontóban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.397636,
+                        43.650907
+                  ]
+            },
+            {
+                  "name": "Bad Dog Theatre Co.",
+                  "text": "Egy komédia színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.399407,
+                        43.655488
+                  ]
+            },
+            {
+                  "name": "Kensington Market Community Marker",
+                  "text": "Egy emlékmű Toronto Kensington piacán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.398899,
+                        43.654378
+                  ]
+            },
+            {
+                  "name": "Nathan Phillips Square",
+                  "text": "A Nathan Phillips Square a főtér a torontói városháza előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.383812,
+                        43.652457
+                  ]
+            },
+            {
+                  "name": "Four Seasons Centre for the Performing Arts",
+                  "text": "A Four Seasons Centre for the Performing Arts a Kanadai Operatársulat otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385504,
+                        43.650667
+                  ]
+            },
+            {
+                  "name": "St. George the Martyr Anglican Church",
+                  "text": "Egy anglikán templom Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391139,
+                        43.651575
+                  ]
+            },
+            {
+                  "name": "Grange Park",
+                  "text": "A Grange Park a legrégebbi park Torontóban, az Ontario Művészeti Galéria mellett.",
+                  "category": "park",
+                  "coords": [
+                        -79.392236,
+                        43.652451
+                  ]
+            },
+            {
+                  "name": "Toronto Chinese Baptist Church",
+                  "text": "Egy baptista gyülekezet, amely a torontói kínai közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393473,
+                        43.651844
+                  ]
+            },
+            {
+                  "name": "Bellevue Square Park",
+                  "text": "Egy park Toronto Kensington Market negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -79.402318,
+                        43.653486
+                  ]
+            },
+            {
+                  "name": "First Baptist Church",
+                  "text": "A First Baptist Church egy történelmi baptista templom Toronto belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396403,
+                        43.654631
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Design Exchange",
+                  "text": "Design Exchange este un muzeu dedicat designului din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380114,
+                        43.647741
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "O galerie de artă contemporană din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.392686,
+                        43.654208
+                  ]
+            },
+            {
+                  "name": "Toronto bicycle tour",
+                  "text": "Oferă tururi cu bicicleta și evenimente în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389709,
+                        43.653768
+                  ]
+            },
+            {
+                  "name": "Campbell House Museum",
+                  "text": "Un muzeu găzduit într-o clădire istorică din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387321,
+                        43.651044
+                  ]
+            },
+            {
+                  "name": "OCAD Graduate Gallery",
+                  "text": "O galerie care prezintă lucrări de absolvire ale Universității OCAD.",
+                  "category": "museum",
+                  "coords": [
+                        -79.388887,
+                        43.649334
+                  ]
+            },
+            {
+                  "name": "Chinatown Community Marker",
+                  "text": "Un monument care marchează Chinatown-ul din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.397897,
+                        43.652436
+                  ]
+            },
+            {
+                  "name": "Unit 270",
+                  "text": "O galerie de artă din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.397636,
+                        43.650907
+                  ]
+            },
+            {
+                  "name": "Bad Dog Theatre Co.",
+                  "text": "O companie de teatru de comedie din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.399407,
+                        43.655488
+                  ]
+            },
+            {
+                  "name": "Kensington Market Community Marker",
+                  "text": "Un monument în piața Kensington din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.398899,
+                        43.654378
+                  ]
+            },
+            {
+                  "name": "Nathan Phillips Square",
+                  "text": "Piața Nathan Phillips este piața principală din fața Primăriei din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.383812,
+                        43.652457
+                  ]
+            },
+            {
+                  "name": "Four Seasons Centre for the Performing Arts",
+                  "text": "Four Seasons Centre for the Performing Arts este casa Companiei Canadiene de Operă.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385504,
+                        43.650667
+                  ]
+            },
+            {
+                  "name": "St. George the Martyr Anglican Church",
+                  "text": "O biserică anglicană din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391139,
+                        43.651575
+                  ]
+            },
+            {
+                  "name": "Grange Park",
+                  "text": "Parcul Grange este cel mai vechi parc din Toronto, adiacent Galeriei de Artă din Ontario.",
+                  "category": "park",
+                  "coords": [
+                        -79.392236,
+                        43.652451
+                  ]
+            },
+            {
+                  "name": "Toronto Chinese Baptist Church",
+                  "text": "O biserică baptistă care deservește comunitatea chineză din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393473,
+                        43.651844
+                  ]
+            },
+            {
+                  "name": "Bellevue Square Park",
+                  "text": "Un parc în cartierul Kensington Market din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.402318,
+                        43.653486
+                  ]
+            },
+            {
+                  "name": "First Baptist Church",
+                  "text": "Biserica Baptistă First Baptist este o biserică baptistă istorică din centrul orașului Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396403,
+                        43.654631
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Design Exchange",
+                  "text": "Design Exchange is a museum dedicated to design in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.380114,
+                        43.647741
+                  ]
+            },
+            {
+                  "name": "Bau-Xi Gallery",
+                  "text": "A contemporary art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.392686,
+                        43.654208
+                  ]
+            },
+            {
+                  "name": "Toronto bicycle tour & events",
+                  "text": "Provides bicycle tours and events in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.389709,
+                        43.653768
+                  ]
+            },
+            {
+                  "name": "Campbell House Museum",
+                  "text": "A museum housed in a historic building in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.387321,
+                        43.651044
+                  ]
+            },
+            {
+                  "name": "OCAD Graduate Gallery",
+                  "text": "A gallery showcasing graduate work from OCAD University.",
+                  "category": "museum",
+                  "coords": [
+                        -79.388887,
+                        43.649334
+                  ]
+            },
+            {
+                  "name": "Chinatown Community Marker",
+                  "text": "A monument marking Toronto's Chinatown.",
+                  "category": "historical",
+                  "coords": [
+                        -79.397897,
+                        43.652436
+                  ]
+            },
+            {
+                  "name": "Unit 270",
+                  "text": "An art gallery in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.397636,
+                        43.650907
+                  ]
+            },
+            {
+                  "name": "Bad Dog Theatre Co.",
+                  "text": "A comedy theatre company in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.399407,
+                        43.655488
+                  ]
+            },
+            {
+                  "name": "Kensington Market Community Marker",
+                  "text": "A monument in Toronto's Kensington Market.",
+                  "category": "historical",
+                  "coords": [
+                        -79.398899,
+                        43.654378
+                  ]
+            },
+            {
+                  "name": "Nathan Phillips Square",
+                  "text": "Nathan Phillips Square is the city's main square in front of Toronto City Hall.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.383812,
+                        43.652457
+                  ]
+            },
+            {
+                  "name": "Four Seasons Centre for the Performing Arts",
+                  "text": "Four Seasons Centre for the Performing Arts is the home of the Canadian Opera Company.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.385504,
+                        43.650667
+                  ]
+            },
+            {
+                  "name": "St. George the Martyr Anglican Church",
+                  "text": "An Anglican church in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.391139,
+                        43.651575
+                  ]
+            },
+            {
+                  "name": "Grange Park",
+                  "text": "Grange Park is the oldest park in Toronto, adjacent to the Art Gallery of Ontario.",
+                  "category": "park",
+                  "coords": [
+                        -79.392236,
+                        43.652451
+                  ]
+            },
+            {
+                  "name": "Toronto Chinese Baptist Church",
+                  "text": "A Baptist church serving the Chinese community in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.393473,
+                        43.651844
+                  ]
+            },
+            {
+                  "name": "Bellevue Square Park",
+                  "text": "A park in Toronto's Kensington Market area.",
+                  "category": "park",
+                  "coords": [
+                        -79.402318,
+                        43.653486
+                  ]
+            },
+            {
+                  "name": "First Baptist Church",
+                  "text": "First Baptist Church is a historic Baptist church in downtown Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.396403,
+                        43.654631
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.3835, 43.6525],
@@ -718,7 +17134,1204 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "calgary-peace-bridge-landmarks-v2",
+    id: "calgary-peace-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Downhill Karting",
+                  "text": "Downhill Karting ist eine Attraktion in Calgary, bei der man mit Go-Karts bergab fährt.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.216525,
+                        51.082187
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "Die Zipline ist eine Seilrutsche-Attraktion in Calgary mit Ausblicken aus der Luft.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.21189,
+                        51.079206
+                  ]
+            },
+            {
+                  "name": "Eckhardt-Gramatté Hall",
+                  "text": "Die Eckhardt-Gramatté Hall ist ein Theater in Calgary, das für Konzerte und Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.131404,
+                        51.076402
+                  ]
+            },
+            {
+                  "name": "Pumphouse Theatre",
+                  "text": "Das Pumphouse Theatre ist ein Theater in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.10993,
+                        51.046308
+                  ]
+            },
+            {
+                  "name": "Quickdraw Animation Society",
+                  "text": "Die Quickdraw Animation Society ist ein Kunstzentrum in Calgary, das sich auf Animation konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.107742,
+                        51.044341
+                  ]
+            },
+            {
+                  "name": "Franz Dopf Gallery",
+                  "text": "Die Franz Dopf Gallery ist eine Galerie in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.08842,
+                        51.052184
+                  ]
+            },
+            {
+                  "name": "Contemporary Calgary",
+                  "text": "Contemporary Calgary ist eine Galerie für zeitgenössische Kunst in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.089446,
+                        51.047358
+                  ]
+            },
+            {
+                  "name": "33 Field Engineer Squadron Monument",
+                  "text": "Das 33 Field Engineer Squadron Monument ist ein Denkmal in Calgary zur Erinnerung an die Pioniereinheit.",
+                  "category": "historical",
+                  "coords": [
+                        -114.088917,
+                        51.046081
+                  ]
+            },
+            {
+                  "name": "BABA'S ART Haus",
+                  "text": "BABA'S ART Haus ist eine Galerie in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.145578,
+                        51.045722
+                  ]
+            },
+            {
+                  "name": "Jubilations Dinner Theatre",
+                  "text": "Das Jubilations Dinner Theatre ist ein Dinner-Theater in Calgary mit Live-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.140006,
+                        51.043911
+                  ]
+            },
+            {
+                  "name": "Nautilus Pond",
+                  "text": "Der Nautilus Pond ist eine Attraktion in Calgary, ein Teich mit einer markanten Form.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.178033,
+                        51.090875
+                  ]
+            },
+            {
+                  "name": "Old Car",
+                  "text": "Das Old Car ist ein ruinöses Auto-Installation in Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.119402,
+                        51.102962
+                  ]
+            },
+            {
+                  "name": "Siksikaitsitapi Medicine Wheel",
+                  "text": "Das Siksikaitsitapi Medicine Wheel ist ein Denkmal in Calgary, das das indigene Erbe repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        -114.09864,
+                        51.101206
+                  ]
+            },
+            {
+                  "name": "John L. Laurie",
+                  "text": "John L. Laurie ist ein Denkmal in Calgary, benannt nach einer lokalen Persönlichkeit.",
+                  "category": "historical",
+                  "coords": [
+                        -114.127113,
+                        51.10366
+                  ]
+            },
+            {
+                  "name": "Battalion Park",
+                  "text": "Der Battalion Park in Calgary erinnert an die kanadischen Bataillone, die dort trainierten.",
+                  "category": "park",
+                  "coords": [
+                        -114.171312,
+                        51.021344
+                  ]
+            },
+            {
+                  "name": "Bowmont Beach",
+                  "text": "Bowmont Beach ist ein Strand entlang des Bow River in Calgary.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.201742,
+                        51.098121
+                  ]
+            },
+            {
+                  "name": "Canada Olympic Park",
+                  "text": "Der Canada Olympic Park ist eine bedeutende Attraktion in Calgary, erbaut für die Olympischen Winterspiele 1988.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.217549,
+                        51.080475
+                  ]
+            },
+            {
+                  "name": "North Mount Pleasant Arts Centre",
+                  "text": "Das North Mount Pleasant Arts Centre ist ein Kunstzentrum in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.072621,
+                        51.076696
+                  ]
+            },
+            {
+                  "name": "Riley Park",
+                  "text": "Der Riley Park in Calgary verfügt über einen historischen Cricket-Platz.",
+                  "category": "park",
+                  "coords": [
+                        -114.088848,
+                        51.058513
+                  ]
+            },
+            {
+                  "name": "Southern Alberta Jubilee Auditorium",
+                  "text": "Das Southern Alberta Jubilee Auditorium ist eine große Veranstaltungshalle in Calgary, bekannt als 'Jube'.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.092592,
+                        51.06256
+                  ]
+            },
+            {
+                  "name": "Confederation Park",
+                  "text": "Der Confederation Park in Calgary wurde zum 100. Jahrestag Kanadas angelegt.",
+                  "category": "park",
+                  "coords": [
+                        -114.084233,
+                        51.076514
+                  ]
+            },
+            {
+                  "name": "University Theatre",
+                  "text": "Das University Theatre ist ein Theater auf dem Campus der University of Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.130221,
+                        51.077038
+                  ]
+            },
+            {
+                  "name": "Louise Bridge",
+                  "text": "Die Louise Bridge ist eine historische Brücke in Calgary, die den Bow River überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.084776,
+                        51.05102
+                  ]
+            },
+            {
+                  "name": "Cowboys Park",
+                  "text": "Der Cowboys Park ist ein Park in Calgary, benannt nach dem Calgary Stampede.",
+                  "category": "park",
+                  "coords": [
+                        -114.0914,
+                        51.046182
+                  ]
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "Die Peace Bridge ist eine markante rote Fußgänger- und Radfahrerbrücke in Calgary mit einem helixförmigen Design.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.07891,
+                        51.053913
+                  ]
+            },
+            {
+                  "name": "West Eau Claire Park",
+                  "text": "Der West Eau Claire Park ist ein Park entlang des Bow River in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.078522,
+                        51.052552
+                  ]
+            },
+            {
+                  "name": "Edworthy Park",
+                  "text": "Der Edworthy Park in Calgary beherbergt den historischen Douglas Fir Trail.",
+                  "category": "park",
+                  "coords": [
+                        -114.160781,
+                        51.059426
+                  ]
+            },
+            {
+                  "name": "Sikh Society of Calgary",
+                  "text": "Die Sikh Society of Calgary ist ein Ort der Anbetung für die Sikh-Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -114.20604,
+                        51.065583
+                  ]
+            },
+            {
+                  "name": "Bowmont Park",
+                  "text": "Der Bowmont Park ist ein großer Naturpark in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.192525,
+                        51.098616
+                  ]
+            },
+            {
+                  "name": "John Laurie Park",
+                  "text": "Der John Laurie Park ist ein Park in Calgary, benannt nach einem lokalen Politiker.",
+                  "category": "park",
+                  "coords": [
+                        -114.150491,
+                        51.11503
+                  ]
+            },
+            {
+                  "name": "Dale Hodges Park",
+                  "text": "Der Dale Hodges Park in Calgary bietet öffentliche Kunst und ein Regenwasserprojekt.",
+                  "category": "park",
+                  "coords": [
+                        -114.170376,
+                        51.087519
+                  ]
+            },
+            {
+                  "name": "Beddington Theatre Arts Centre",
+                  "text": "Das Beddington Theatre Arts Centre ist ein Theater in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.085193,
+                        51.131661
+                  ]
+            },
+            {
+                  "name": "Nose Hill Park",
+                  "text": "Der Nose Hill Park in Calgary ist ein großes Naturreservat mit einheimischem Grasland.",
+                  "category": "park",
+                  "coords": [
+                        -114.110867,
+                        51.112892
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Downhill Karting",
+                  "text": "A Downhill Karting egy látványosság Calgary-ban, ahol gokartokkal lehet lefelé haladni.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.216525,
+                        51.082187
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "A Zipline egy kötélpályás látványosság Calgary-ban, légifelvételekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.21189,
+                        51.079206
+                  ]
+            },
+            {
+                  "name": "Eckhardt-Gramatté Hall",
+                  "text": "Az Eckhardt-Gramatté Hall egy színház Calgary-ban, amelyet koncertekre és előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.131404,
+                        51.076402
+                  ]
+            },
+            {
+                  "name": "Pumphouse Theatre",
+                  "text": "A Pumphouse Theatre egy színház Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.10993,
+                        51.046308
+                  ]
+            },
+            {
+                  "name": "Quickdraw Animation Society",
+                  "text": "A Quickdraw Animation Society egy művészeti központ Calgaryban, amely az animációra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.107742,
+                        51.044341
+                  ]
+            },
+            {
+                  "name": "Franz Dopf Gallery",
+                  "text": "A Franz Dopf Gallery egy galéria Calgaryban.",
+                  "category": "museum",
+                  "coords": [
+                        -114.08842,
+                        51.052184
+                  ]
+            },
+            {
+                  "name": "Contemporary Calgary",
+                  "text": "A Contemporary Calgary egy kortárs művészeti galéria Calgaryban.",
+                  "category": "museum",
+                  "coords": [
+                        -114.089446,
+                        51.047358
+                  ]
+            },
+            {
+                  "name": "33 Field Engineer Squadron Monument",
+                  "text": "A 33 Field Engineer Squadron Monument egy emlékmű Calgaryban, amely a mérnöki századra emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        -114.088917,
+                        51.046081
+                  ]
+            },
+            {
+                  "name": "BABA'S ART Haus",
+                  "text": "A BABA'S ART Haus egy galéria Calgaryban.",
+                  "category": "museum",
+                  "coords": [
+                        -114.145578,
+                        51.045722
+                  ]
+            },
+            {
+                  "name": "Jubilations Dinner Theatre",
+                  "text": "A Jubilations Dinner Theatre egy vacsoraszínház Calgaryban élő előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.140006,
+                        51.043911
+                  ]
+            },
+            {
+                  "name": "Nautilus Pond",
+                  "text": "A Nautilus Pond egy látványosság Calgaryban, egy tó jellegzetes alakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.178033,
+                        51.090875
+                  ]
+            },
+            {
+                  "name": "Old Car",
+                  "text": "Az Old Car egy romos autóinstalláció Calgaryban.",
+                  "category": "historical",
+                  "coords": [
+                        -114.119402,
+                        51.102962
+                  ]
+            },
+            {
+                  "name": "Siksikaitsitapi Medicine Wheel",
+                  "text": "A Siksikaitsitapi Medicine Wheel egy emlékmű Calgaryban, amely az őslakos örökséget képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        -114.09864,
+                        51.101206
+                  ]
+            },
+            {
+                  "name": "John L. Laurie",
+                  "text": "John L. Laurie egy emlékmű Calgaryban, egy helyi személyiségről elnevezve.",
+                  "category": "historical",
+                  "coords": [
+                        -114.127113,
+                        51.10366
+                  ]
+            },
+            {
+                  "name": "Battalion Park",
+                  "text": "A Battalion Park Calgaryban emléket állít a kanadai zászlóaljaknak, amelyek ott gyakorlatoztak.",
+                  "category": "park",
+                  "coords": [
+                        -114.171312,
+                        51.021344
+                  ]
+            },
+            {
+                  "name": "Bowmont Beach",
+                  "text": "A Bowmont Beach egy strand a Bow River mentén Calgaryban.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.201742,
+                        51.098121
+                  ]
+            },
+            {
+                  "name": "Canada Olympic Park",
+                  "text": "A Canada Olympic Park egy jelentős látványosság Calgaryban, az 1988-as téli olimpiára épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.217549,
+                        51.080475
+                  ]
+            },
+            {
+                  "name": "North Mount Pleasant Arts Centre",
+                  "text": "A North Mount Pleasant Arts Centre egy művészeti központ Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.072621,
+                        51.076696
+                  ]
+            },
+            {
+                  "name": "Riley Park",
+                  "text": "A Riley Park Calgaryban egy történelmi krikettpályával rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -114.088848,
+                        51.058513
+                  ]
+            },
+            {
+                  "name": "Southern Alberta Jubilee Auditorium",
+                  "text": "A Southern Alberta Jubilee Auditorium egy nagy előadó-művészeti központ Calgaryban, közismert nevén 'Jube'.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.092592,
+                        51.06256
+                  ]
+            },
+            {
+                  "name": "Confederation Park",
+                  "text": "A Confederation Park Calgaryban Kanada százéves évfordulójára épült.",
+                  "category": "park",
+                  "coords": [
+                        -114.084233,
+                        51.076514
+                  ]
+            },
+            {
+                  "name": "University Theatre",
+                  "text": "A University Theatre egy színház a Calgary-i Egyetem campusán.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.130221,
+                        51.077038
+                  ]
+            },
+            {
+                  "name": "Louise Bridge",
+                  "text": "A Louise Bridge egy történelmi híd Calgaryban, amely a Bow River felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.084776,
+                        51.05102
+                  ]
+            },
+            {
+                  "name": "Cowboys Park",
+                  "text": "A Cowboys Park egy park Calgaryban, amely a Calgary Stampede témájáról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -114.0914,
+                        51.046182
+                  ]
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "A Peace Bridge egy feltűnő piros gyalogos- és kerékpáros híd Calgaryban, spirális kialakítással.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.07891,
+                        51.053913
+                  ]
+            },
+            {
+                  "name": "West Eau Claire Park",
+                  "text": "A West Eau Claire Park egy park a Bow River mentén Calgaryban.",
+                  "category": "park",
+                  "coords": [
+                        -114.078522,
+                        51.052552
+                  ]
+            },
+            {
+                  "name": "Edworthy Park",
+                  "text": "Az Edworthy Park Calgaryban tartalmazza a történelmi Douglas Fir Trail-t.",
+                  "category": "park",
+                  "coords": [
+                        -114.160781,
+                        51.059426
+                  ]
+            },
+            {
+                  "name": "Sikh Society of Calgary",
+                  "text": "A Sikh Society of Calgary egy imahely a szikh közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -114.20604,
+                        51.065583
+                  ]
+            },
+            {
+                  "name": "Bowmont Park",
+                  "text": "A Bowmont Park egy nagy természeti park Calgaryban.",
+                  "category": "park",
+                  "coords": [
+                        -114.192525,
+                        51.098616
+                  ]
+            },
+            {
+                  "name": "John Laurie Park",
+                  "text": "A John Laurie Park egy park Calgaryban, egy helyi politikusról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -114.150491,
+                        51.11503
+                  ]
+            },
+            {
+                  "name": "Dale Hodges Park",
+                  "text": "A Dale Hodges Park Calgaryban közművészetet és egy csapadékvíz-projektet kínál.",
+                  "category": "park",
+                  "coords": [
+                        -114.170376,
+                        51.087519
+                  ]
+            },
+            {
+                  "name": "Beddington Theatre Arts Centre",
+                  "text": "A Beddington Theatre Arts Centre egy színház Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.085193,
+                        51.131661
+                  ]
+            },
+            {
+                  "name": "Nose Hill Park",
+                  "text": "A Nose Hill Park Calgaryban egy nagy természetvédelmi terület őshonos füves pusztával.",
+                  "category": "park",
+                  "coords": [
+                        -114.110867,
+                        51.112892
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Downhill Karting",
+                  "text": "Downhill Karting este o atracție în Calgary, unde te poți da cu go-kart-uri în coborâre.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.216525,
+                        51.082187
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "Zipline este o atracție de tiroliană în Calgary, cu vederi aeriene.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.21189,
+                        51.079206
+                  ]
+            },
+            {
+                  "name": "Eckhardt-Gramatté Hall",
+                  "text": "Eckhardt-Gramatté Hall este un teatru în Calgary, folosit pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.131404,
+                        51.076402
+                  ]
+            },
+            {
+                  "name": "Pumphouse Theatre",
+                  "text": "Pumphouse Theatre este un teatru în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.10993,
+                        51.046308
+                  ]
+            },
+            {
+                  "name": "Quickdraw Animation Society",
+                  "text": "Quickdraw Animation Society este un centru de artă în Calgary, axat pe animație.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.107742,
+                        51.044341
+                  ]
+            },
+            {
+                  "name": "Franz Dopf Gallery",
+                  "text": "Franz Dopf Gallery este o galerie în Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.08842,
+                        51.052184
+                  ]
+            },
+            {
+                  "name": "Contemporary Calgary",
+                  "text": "Contemporary Calgary este o galerie de artă contemporană în Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.089446,
+                        51.047358
+                  ]
+            },
+            {
+                  "name": "33 Field Engineer Squadron Monument",
+                  "text": "Monumentul 33 Field Engineer Squadron este un monument în Calgary care comemorează escadrila de geniu.",
+                  "category": "historical",
+                  "coords": [
+                        -114.088917,
+                        51.046081
+                  ]
+            },
+            {
+                  "name": "BABA'S ART Haus",
+                  "text": "BABA'S ART Haus este o galerie în Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.145578,
+                        51.045722
+                  ]
+            },
+            {
+                  "name": "Jubilations Dinner Theatre",
+                  "text": "Jubilations Dinner Theatre este un teatru-cină în Calgary cu spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.140006,
+                        51.043911
+                  ]
+            },
+            {
+                  "name": "Nautilus Pond",
+                  "text": "Nautilus Pond este o atracție în Calgary, un iaz cu o formă distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.178033,
+                        51.090875
+                  ]
+            },
+            {
+                  "name": "Old Car",
+                  "text": "Old Car este o instalație de mașină ruinată în Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.119402,
+                        51.102962
+                  ]
+            },
+            {
+                  "name": "Siksikaitsitapi Medicine Wheel",
+                  "text": "Siksikaitsitapi Medicine Wheel este un monument în Calgary care reprezintă moștenirea indigenă.",
+                  "category": "historical",
+                  "coords": [
+                        -114.09864,
+                        51.101206
+                  ]
+            },
+            {
+                  "name": "John L. Laurie",
+                  "text": "John L. Laurie este un monument în Calgary numit după o personalitate locală.",
+                  "category": "historical",
+                  "coords": [
+                        -114.127113,
+                        51.10366
+                  ]
+            },
+            {
+                  "name": "Battalion Park",
+                  "text": "Parcul Battalion din Calgary comemorează batalioanele canadiene care s-au antrenat acolo.",
+                  "category": "park",
+                  "coords": [
+                        -114.171312,
+                        51.021344
+                  ]
+            },
+            {
+                  "name": "Bowmont Beach",
+                  "text": "Bowmont Beach este o plajă de-a lungul râului Bow din Calgary.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.201742,
+                        51.098121
+                  ]
+            },
+            {
+                  "name": "Canada Olympic Park",
+                  "text": "Canada Olympic Park este o atracție majoră în Calgary, construită pentru Jocurile Olimpice de iarnă din 1988.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.217549,
+                        51.080475
+                  ]
+            },
+            {
+                  "name": "North Mount Pleasant Arts Centre",
+                  "text": "North Mount Pleasant Arts Centre este un centru de artă în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.072621,
+                        51.076696
+                  ]
+            },
+            {
+                  "name": "Riley Park",
+                  "text": "Parcul Riley din Calgary are un teren de cricket istoric.",
+                  "category": "park",
+                  "coords": [
+                        -114.088848,
+                        51.058513
+                  ]
+            },
+            {
+                  "name": "Southern Alberta Jubilee Auditorium",
+                  "text": "Southern Alberta Jubilee Auditorium este o mare sală de spectacole în Calgary, cunoscută sub numele de 'Jube'.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.092592,
+                        51.06256
+                  ]
+            },
+            {
+                  "name": "Confederation Park",
+                  "text": "Parcul Confederation din Calgary a fost construit pentru centenarul Canadei.",
+                  "category": "park",
+                  "coords": [
+                        -114.084233,
+                        51.076514
+                  ]
+            },
+            {
+                  "name": "University Theatre",
+                  "text": "University Theatre este un teatru pe campusul Universității din Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.130221,
+                        51.077038
+                  ]
+            },
+            {
+                  "name": "Louise Bridge",
+                  "text": "Podul Louise este un pod istoric în Calgary, care traversează râul Bow.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.084776,
+                        51.05102
+                  ]
+            },
+            {
+                  "name": "Cowboys Park",
+                  "text": "Cowboys Park este un parc în Calgary numit după tema Calgary Stampede.",
+                  "category": "park",
+                  "coords": [
+                        -114.0914,
+                        51.046182
+                  ]
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "Peace Bridge este un pod roșu distinctiv pentru pietoni și bicicliști în Calgary, cu un design în formă de helix.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.07891,
+                        51.053913
+                  ]
+            },
+            {
+                  "name": "West Eau Claire Park",
+                  "text": "West Eau Claire Park este un parc de-a lungul râului Bow din Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.078522,
+                        51.052552
+                  ]
+            },
+            {
+                  "name": "Edworthy Park",
+                  "text": "Parcul Edworthy din Calgary include istoricul traseu Douglas Fir Trail.",
+                  "category": "park",
+                  "coords": [
+                        -114.160781,
+                        51.059426
+                  ]
+            },
+            {
+                  "name": "Sikh Society of Calgary",
+                  "text": "Sikh Society of Calgary este un loc de închinare pentru comunitatea sikh.",
+                  "category": "religious",
+                  "coords": [
+                        -114.20604,
+                        51.065583
+                  ]
+            },
+            {
+                  "name": "Bowmont Park",
+                  "text": "Bowmont Park este un parc natural mare în Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.192525,
+                        51.098616
+                  ]
+            },
+            {
+                  "name": "John Laurie Park",
+                  "text": "Parcul John Laurie este un parc în Calgary numit după un politician local.",
+                  "category": "park",
+                  "coords": [
+                        -114.150491,
+                        51.11503
+                  ]
+            },
+            {
+                  "name": "Dale Hodges Park",
+                  "text": "Parcul Dale Hodges din Calgary oferă artă publică și un proiect de gestionare a apelor pluviale.",
+                  "category": "park",
+                  "coords": [
+                        -114.170376,
+                        51.087519
+                  ]
+            },
+            {
+                  "name": "Beddington Theatre Arts Centre",
+                  "text": "Beddington Theatre Arts Centre este un teatru în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.085193,
+                        51.131661
+                  ]
+            },
+            {
+                  "name": "Nose Hill Park",
+                  "text": "Parcul Nose Hill din Calgary este o rezervație naturală mare cu pajiști native.",
+                  "category": "park",
+                  "coords": [
+                        -114.110867,
+                        51.112892
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Downhill Karting",
+                  "text": "Downhill Karting is an attraction in Calgary offering go-kart rides downhill.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.216525,
+                        51.082187
+                  ]
+            },
+            {
+                  "name": "Zipline",
+                  "text": "Zipline is a zipline attraction in Calgary providing aerial views.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.21189,
+                        51.079206
+                  ]
+            },
+            {
+                  "name": "Eckhardt-Gramatté Hall",
+                  "text": "Eckhardt-Gramatté Hall is a theatre in Calgary used for concerts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.131404,
+                        51.076402
+                  ]
+            },
+            {
+                  "name": "Pumphouse Theatre",
+                  "text": "The Pumphouse Theatre is a theatre venue in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.10993,
+                        51.046308
+                  ]
+            },
+            {
+                  "name": "Quickdraw Animation Society",
+                  "text": "The Quickdraw Animation Society is an arts centre in Calgary focusing on animation.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.107742,
+                        51.044341
+                  ]
+            },
+            {
+                  "name": "Franz Dopf Gallery",
+                  "text": "Franz Dopf Gallery is a gallery in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.08842,
+                        51.052184
+                  ]
+            },
+            {
+                  "name": "Contemporary Calgary",
+                  "text": "Contemporary Calgary is a contemporary art gallery in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.089446,
+                        51.047358
+                  ]
+            },
+            {
+                  "name": "33 Field Engineer Squadron Monument",
+                  "text": "The 33 Field Engineer Squadron Monument is a monument in Calgary commemorating the squadron.",
+                  "category": "historical",
+                  "coords": [
+                        -114.088917,
+                        51.046081
+                  ]
+            },
+            {
+                  "name": "BABA'S ART Haus",
+                  "text": "BABA'S ART Haus is a gallery in Calgary.",
+                  "category": "museum",
+                  "coords": [
+                        -114.145578,
+                        51.045722
+                  ]
+            },
+            {
+                  "name": "Jubilations Dinner Theatre",
+                  "text": "Jubilations Dinner Theatre is a dinner theatre in Calgary offering live performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.140006,
+                        51.043911
+                  ]
+            },
+            {
+                  "name": "Nautilus Pond",
+                  "text": "Nautilus Pond is an attraction in Calgary, a pond with a distinctive shape.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.178033,
+                        51.090875
+                  ]
+            },
+            {
+                  "name": "Old Car",
+                  "text": "Old Car is a ruined car installation in Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.119402,
+                        51.102962
+                  ]
+            },
+            {
+                  "name": "Siksikaitsitapi Medicine Wheel",
+                  "text": "The Siksikaitsitapi Medicine Wheel is a monument in Calgary representing Indigenous heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -114.09864,
+                        51.101206
+                  ]
+            },
+            {
+                  "name": "John L. Laurie",
+                  "text": "John L. Laurie is a monument in Calgary named after a local figure.",
+                  "category": "historical",
+                  "coords": [
+                        -114.127113,
+                        51.10366
+                  ]
+            },
+            {
+                  "name": "Battalion Park",
+                  "text": "Battalion Park in Calgary commemorates the Canadian battalions that trained there.",
+                  "category": "park",
+                  "coords": [
+                        -114.171312,
+                        51.021344
+                  ]
+            },
+            {
+                  "name": "Bowmont Beach",
+                  "text": "Bowmont Beach is a beach along the Bow River in Calgary.",
+                  "category": "recreational",
+                  "coords": [
+                        -114.201742,
+                        51.098121
+                  ]
+            },
+            {
+                  "name": "Canada Olympic Park",
+                  "text": "Canada Olympic Park is a major attraction in Calgary, built for the 1988 Winter Olympics.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.217549,
+                        51.080475
+                  ]
+            },
+            {
+                  "name": "North Mount Pleasant Arts Centre",
+                  "text": "North Mount Pleasant Arts Centre is an arts centre in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.072621,
+                        51.076696
+                  ]
+            },
+            {
+                  "name": "Riley Park",
+                  "text": "Riley Park in Calgary features a historic cricket pitch.",
+                  "category": "park",
+                  "coords": [
+                        -114.088848,
+                        51.058513
+                  ]
+            },
+            {
+                  "name": "Southern Alberta Jubilee Auditorium",
+                  "text": "The Southern Alberta Jubilee Auditorium is a large performing arts venue in Calgary, often referred to as the 'Jube'.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.092592,
+                        51.06256
+                  ]
+            },
+            {
+                  "name": "Confederation Park",
+                  "text": "Confederation Park in Calgary was built for Canada's centennial.",
+                  "category": "park",
+                  "coords": [
+                        -114.084233,
+                        51.076514
+                  ]
+            },
+            {
+                  "name": "University Theatre",
+                  "text": "University Theatre is a theatre on the University of Calgary campus.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.130221,
+                        51.077038
+                  ]
+            },
+            {
+                  "name": "Louise Bridge",
+                  "text": "Louise Bridge is a historic bridge in Calgary spanning the Bow River.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.084776,
+                        51.05102
+                  ]
+            },
+            {
+                  "name": "Cowboys Park",
+                  "text": "Cowboys Park is a park in Calgary named after the Calgary Stampede theme.",
+                  "category": "park",
+                  "coords": [
+                        -114.0914,
+                        51.046182
+                  ]
+            },
+            {
+                  "name": "Peace Bridge",
+                  "text": "Peace Bridge is a striking red pedestrian and cyclist bridge in Calgary with a distinctive helix design.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.07891,
+                        51.053913
+                  ]
+            },
+            {
+                  "name": "West Eau Claire Park",
+                  "text": "West Eau Claire Park is a park along the Bow River in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.078522,
+                        51.052552
+                  ]
+            },
+            {
+                  "name": "Edworthy Park",
+                  "text": "Edworthy Park in Calgary includes the historic Douglas Fir Trail.",
+                  "category": "park",
+                  "coords": [
+                        -114.160781,
+                        51.059426
+                  ]
+            },
+            {
+                  "name": "Sikh Society of Calgary",
+                  "text": "The Sikh Society of Calgary is a place of worship for the Sikh community.",
+                  "category": "religious",
+                  "coords": [
+                        -114.20604,
+                        51.065583
+                  ]
+            },
+            {
+                  "name": "Bowmont Park",
+                  "text": "Bowmont Park is a large natural area park in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.192525,
+                        51.098616
+                  ]
+            },
+            {
+                  "name": "John Laurie Park",
+                  "text": "John Laurie Park is a park in Calgary named after a local politician.",
+                  "category": "park",
+                  "coords": [
+                        -114.150491,
+                        51.11503
+                  ]
+            },
+            {
+                  "name": "Dale Hodges Park",
+                  "text": "Dale Hodges Park in Calgary features public art and a stormwater project.",
+                  "category": "park",
+                  "coords": [
+                        -114.170376,
+                        51.087519
+                  ]
+            },
+            {
+                  "name": "Beddington Theatre Arts Centre",
+                  "text": "Beddington Theatre Arts Centre is a theatre in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.085193,
+                        51.131661
+                  ]
+            },
+            {
+                  "name": "Nose Hill Park",
+                  "text": "Nose Hill Park in Calgary is a large natural reserve with native grassland.",
+                  "category": "park",
+                  "coords": [
+                        -114.110867,
+                        51.112892
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-AB",
     coords: [-114.085, 51.0525],
@@ -754,7 +18367,484 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "gooderham-building-landmarks-v2",
+    id: "gooderham-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Van Gogh Exhibit",
+                  "text": "Die Van Gogh Exhibit ist eine immersive Ausstellung mit Werken von Vincent van Gogh.",
+                  "category": "museum",
+                  "coords": [
+                        -79.374332,
+                        43.642642
+                  ]
+            },
+            {
+                  "name": "'1871' Berkeley Church Event Venue",
+                  "text": "Das ‚1871‘ Berkeley Church Event Venue ist eine historische Kirche, die zu einem Veranstaltungsort in Toronto umgebaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.365938,
+                        43.655143
+                  ]
+            },
+            {
+                  "name": "Cabbagetown Community Arts Centre",
+                  "text": "Das Cabbagetown Community Arts Centre ist ein Gemeinschaftskunstzentrum im Viertel Cabbagetown in Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.367642,
+                        43.662889
+                  ]
+            },
+            {
+                  "name": "Toronto's First Post Office",
+                  "text": "Das Museum Toronto’s First Post Office ist in Torontos erstem Postgebäude untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        -79.370401,
+                        43.651961
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Das Museum of Illusions ist ein Museum mit interaktiven optischen Täuschungen und Rätseln.",
+                  "category": "museum",
+                  "coords": [
+                        -79.369691,
+                        43.65013
+                  ]
+            },
+            {
+                  "name": "The Market Gallery",
+                  "text": "The Market Gallery ist eine Galerie, die die Geschichte Torontos zeigt und sich im St. Lawrence Market befindet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.371809,
+                        43.649123
+                  ]
+            },
+            {
+                  "name": "Sugar Beach",
+                  "text": "Sugar Beach ist ein Park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367089,
+                        43.643264
+                  ]
+            },
+            {
+                  "name": "Sherbourne Common",
+                  "text": "Sherbourne Common ist ein Park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.364939,
+                        43.644857
+                  ]
+            },
+            {
+                  "name": "Sculpture Gardens",
+                  "text": "Sculpture Gardens ist ein Park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.373643,
+                        43.649844
+                  ]
+            },
+            {
+                  "name": "David Crombie Park",
+                  "text": "David Crombie Park ist ein Park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367746,
+                        43.648579
+                  ]
+            },
+            {
+                  "name": "St. Lawrence Centre for the Arts",
+                  "text": "St. Lawrence Centre for the Arts ist ein Theater in gooderham-building-landmarks-v2, bekannt für die Ausrichtung von Aufführungen der darstellenden Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.375172,
+                        43.647362
+                  ]
+            },
+            {
+                  "name": "St. James Park",
+                  "text": "St. James Park ist ein Park in gooderham-building-landmarks-v2, angrenzend an die St. James Cathedral.",
+                  "category": "park",
+                  "coords": [
+                        -79.373331,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Hockey Hall of Fame",
+                  "text": "Hockey Hall of Fame ist ein Museum in gooderham-building-landmarks-v2, Heimat des originalen Stanley Cups.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377295,
+                        43.646978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Van Gogh Exhibit",
+                  "text": "A Van Gogh Exhibit egy immerzív kiállítás Vincent van Gogh műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        -79.374332,
+                        43.642642
+                  ]
+            },
+            {
+                  "name": "'1871' Berkeley Church Event Venue",
+                  "text": "Az „1871” Berkeley Church Event Venue egy történelmi templom, amelyet rendezvényhelyszínné alakítottak Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.365938,
+                        43.655143
+                  ]
+            },
+            {
+                  "name": "Cabbagetown Community Arts Centre",
+                  "text": "A Cabbagetown Community Arts Centre egy közösségi művészeti központ Toronto Cabbagetown negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.367642,
+                        43.662889
+                  ]
+            },
+            {
+                  "name": "Toronto's First Post Office",
+                  "text": "A Toronto’s First Post Office múzeum Toronto első postaépületében található.",
+                  "category": "museum",
+                  "coords": [
+                        -79.370401,
+                        43.651961
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "A Museum of Illusions egy múzeum interaktív optikai csalódásokkal és rejtvényekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -79.369691,
+                        43.65013
+                  ]
+            },
+            {
+                  "name": "The Market Gallery",
+                  "text": "The Market Gallery egy galéria, amely Toronto történelmét mutatja be a St. Lawrence Marketben.",
+                  "category": "museum",
+                  "coords": [
+                        -79.371809,
+                        43.649123
+                  ]
+            },
+            {
+                  "name": "Sugar Beach",
+                  "text": "A Sugar Beach egy park a gooderham-building-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.367089,
+                        43.643264
+                  ]
+            },
+            {
+                  "name": "Sherbourne Common",
+                  "text": "A Sherbourne Common egy park a gooderham-building-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.364939,
+                        43.644857
+                  ]
+            },
+            {
+                  "name": "Sculpture Gardens",
+                  "text": "A Sculpture Gardens egy park a gooderham-building-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.373643,
+                        43.649844
+                  ]
+            },
+            {
+                  "name": "David Crombie Park",
+                  "text": "A David Crombie Park egy park a gooderham-building-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.367746,
+                        43.648579
+                  ]
+            },
+            {
+                  "name": "St. Lawrence Centre for the Arts",
+                  "text": "A St. Lawrence Centre for the Arts egy színház a gooderham-building-landmarks-v2 területén, ismert előadóművészeti események befogadásáról.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.375172,
+                        43.647362
+                  ]
+            },
+            {
+                  "name": "St. James Park",
+                  "text": "A St. James Park egy park a gooderham-building-landmarks-v2 területén, a St. James Cathedral mellett.",
+                  "category": "park",
+                  "coords": [
+                        -79.373331,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Hockey Hall of Fame",
+                  "text": "A Hockey Hall of Fame egy múzeum a gooderham-building-landmarks-v2 területén, az eredeti Stanley Cup otthona.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377295,
+                        43.646978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Van Gogh Exhibit",
+                  "text": "Van Gogh Exhibit este o expoziție imersivă cu lucrări ale lui Vincent van Gogh.",
+                  "category": "museum",
+                  "coords": [
+                        -79.374332,
+                        43.642642
+                  ]
+            },
+            {
+                  "name": "'1871' Berkeley Church Event Venue",
+                  "text": "„1871” Berkeley Church Event Venue este o biserică istorică transformată în loc de evenimente în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.365938,
+                        43.655143
+                  ]
+            },
+            {
+                  "name": "Cabbagetown Community Arts Centre",
+                  "text": "Cabbagetown Community Arts Centre este un centru de artă comunitară în cartierul Cabbagetown din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.367642,
+                        43.662889
+                  ]
+            },
+            {
+                  "name": "Toronto's First Post Office",
+                  "text": "Muzeul Toronto's First Post Office este găzduit în prima clădire poștală din Toronto.",
+                  "category": "museum",
+                  "coords": [
+                        -79.370401,
+                        43.651961
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Museum of Illusions este un muzeu cu iluzii optice interactive și puzzle-uri.",
+                  "category": "museum",
+                  "coords": [
+                        -79.369691,
+                        43.65013
+                  ]
+            },
+            {
+                  "name": "The Market Gallery",
+                  "text": "The Market Gallery este o galerie care prezintă istoria Toronto, situată în St. Lawrence Market.",
+                  "category": "museum",
+                  "coords": [
+                        -79.371809,
+                        43.649123
+                  ]
+            },
+            {
+                  "name": "Sugar Beach",
+                  "text": "Sugar Beach este un parc în gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367089,
+                        43.643264
+                  ]
+            },
+            {
+                  "name": "Sherbourne Common",
+                  "text": "Sherbourne Common este un parc în gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.364939,
+                        43.644857
+                  ]
+            },
+            {
+                  "name": "Sculpture Gardens",
+                  "text": "Sculpture Gardens este un parc în gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.373643,
+                        43.649844
+                  ]
+            },
+            {
+                  "name": "David Crombie Park",
+                  "text": "David Crombie Park este un parc în gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367746,
+                        43.648579
+                  ]
+            },
+            {
+                  "name": "St. Lawrence Centre for the Arts",
+                  "text": "St. Lawrence Centre for the Arts este un teatru în gooderham-building-landmarks-v2, cunoscut pentru găzduirea evenimentelor de arte spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.375172,
+                        43.647362
+                  ]
+            },
+            {
+                  "name": "St. James Park",
+                  "text": "St. James Park este un parc în gooderham-building-landmarks-v2, adiacent Catedralei St. James.",
+                  "category": "park",
+                  "coords": [
+                        -79.373331,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Hockey Hall of Fame",
+                  "text": "Hockey Hall of Fame este un muzeu în gooderham-building-landmarks-v2, casa originalei Cupe Stanley.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377295,
+                        43.646978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Van Gogh Exhibit",
+                  "text": "Van Gogh Exhibit is an immersive art exhibition featuring works of Vincent van Gogh.",
+                  "category": "museum",
+                  "coords": [
+                        -79.374332,
+                        43.642642
+                  ]
+            },
+            {
+                  "name": "'1871' Berkeley Church Event Venue",
+                  "text": "'1871' Berkeley Church Event Venue is a historic church turned event venue in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.365938,
+                        43.655143
+                  ]
+            },
+            {
+                  "name": "Cabbagetown Community Arts Centre",
+                  "text": "Cabbagetown Community Arts Centre is a community arts centre in Toronto's Cabbagetown neighbourhood.",
+                  "category": "museum",
+                  "coords": [
+                        -79.367642,
+                        43.662889
+                  ]
+            },
+            {
+                  "name": "Toronto's First Post Office",
+                  "text": "Toronto's First Post Office is a museum housed in Toronto's first post office building.",
+                  "category": "museum",
+                  "coords": [
+                        -79.370401,
+                        43.651961
+                  ]
+            },
+            {
+                  "name": "Museum of Illusions",
+                  "text": "Museum of Illusions is a museum featuring interactive optical illusions and puzzles.",
+                  "category": "museum",
+                  "coords": [
+                        -79.369691,
+                        43.65013
+                  ]
+            },
+            {
+                  "name": "The Market Gallery",
+                  "text": "The Market Gallery is a gallery showcasing Toronto's history, located in St. Lawrence Market.",
+                  "category": "museum",
+                  "coords": [
+                        -79.371809,
+                        43.649123
+                  ]
+            },
+            {
+                  "name": "Sugar Beach",
+                  "text": "Sugar Beach is a park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367089,
+                        43.643264
+                  ]
+            },
+            {
+                  "name": "Sherbourne Common",
+                  "text": "Sherbourne Common is a park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.364939,
+                        43.644857
+                  ]
+            },
+            {
+                  "name": "Sculpture Gardens",
+                  "text": "Sculpture Gardens is a park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.373643,
+                        43.649844
+                  ]
+            },
+            {
+                  "name": "David Crombie Park",
+                  "text": "David Crombie Park is a park in gooderham-building-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.367746,
+                        43.648579
+                  ]
+            },
+            {
+                  "name": "St. Lawrence Centre for the Arts",
+                  "text": "St. Lawrence Centre for the Arts is a theatre in gooderham-building-landmarks-v2, known for hosting performing arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.375172,
+                        43.647362
+                  ]
+            },
+            {
+                  "name": "St. James Park",
+                  "text": "St. James Park is a park in gooderham-building-landmarks-v2, adjacent to St. James Cathedral.",
+                  "category": "park",
+                  "coords": [
+                        -79.373331,
+                        43.650781
+                  ]
+            },
+            {
+                  "name": "Hockey Hall of Fame",
+                  "text": "Hockey Hall of Fame is a museum in gooderham-building-landmarks-v2, home to the original Stanley Cup.",
+                  "category": "museum",
+                  "coords": [
+                        -79.377295,
+                        43.646978
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.3708, 43.6489],
@@ -790,7 +18880,124 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "hartland-covered-bridge-landmarks-v2",
+    id: "hartland-covered-bridge-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Covered Bridge Potato Chips",
+                  "text": "Eine Attraktion im Zusammenhang mit Kartoffelchips in der Nähe der Hartland Covered Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.580386,
+                        46.283449
+                  ]
+            },
+            {
+                  "name": "Hartland Covered Bridge",
+                  "text": "Ein Aussichtspunkt auf die Hartland Covered Bridge in Hartland.",
+                  "category": "natural",
+                  "coords": [
+                        -67.527894,
+                        46.297077
+                  ]
+            },
+            {
+                  "name": "Carleton County Military Museum",
+                  "text": "Ein Militärmuseum in Hartland.",
+                  "category": "museum",
+                  "coords": [
+                        -67.620644,
+                        46.260546
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Covered Bridge Potato Chips",
+                  "text": "Egy burgonya chipsekkel kapcsolatos látványosság a Hartland Covered Bridge közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.580386,
+                        46.283449
+                  ]
+            },
+            {
+                  "name": "Hartland Covered Bridge",
+                  "text": "Egy kilátópont a Hartland Covered Bridge-re Hartlandben.",
+                  "category": "natural",
+                  "coords": [
+                        -67.527894,
+                        46.297077
+                  ]
+            },
+            {
+                  "name": "Carleton County Military Museum",
+                  "text": "Egy katonai múzeum Hartlandben.",
+                  "category": "museum",
+                  "coords": [
+                        -67.620644,
+                        46.260546
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Covered Bridge Potato Chips",
+                  "text": "O atracție legată de chipsuri de cartofi lângă Podul Acoperit Hartland.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.580386,
+                        46.283449
+                  ]
+            },
+            {
+                  "name": "Hartland Covered Bridge",
+                  "text": "Un punct de vedere către Podul Acoperit Hartland din Hartland.",
+                  "category": "natural",
+                  "coords": [
+                        -67.527894,
+                        46.297077
+                  ]
+            },
+            {
+                  "name": "Carleton County Military Museum",
+                  "text": "Un muzeu militar în Hartland.",
+                  "category": "museum",
+                  "coords": [
+                        -67.620644,
+                        46.260546
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Covered Bridge Potato Chips",
+                  "text": "An attraction related to potato chips near the Hartland Covered Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.580386,
+                        46.283449
+                  ]
+            },
+            {
+                  "name": "Hartland Covered Bridge",
+                  "text": "A viewpoint of the Hartland Covered Bridge in Hartland.",
+                  "category": "natural",
+                  "coords": [
+                        -67.527894,
+                        46.297077
+                  ]
+            },
+            {
+                  "name": "Carleton County Military Museum",
+                  "text": "A military museum in Hartland.",
+                  "category": "museum",
+                  "coords": [
+                        -67.620644,
+                        46.260546
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-NB",
     coords: [-67.5278, 46.295],
@@ -826,7 +19033,1420 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "macdonald-bridge-halifax-landmarks-v2",
+    id: "macdonald-bridge-halifax-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naval Museum of Halifax",
+                  "text": "Ein Museum, das der Marinegeschichte von Halifax gewidmet ist, im Raum Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.592772,
+                        44.659561
+                  ]
+            },
+            {
+                  "name": "Bayers Lake Mystery Walls",
+                  "text": "Rätselhafte Steinmauern unbekannter Herkunft im Raum Halifax.",
+                  "category": "historical",
+                  "coords": [
+                        -63.660204,
+                        44.642986
+                  ]
+            },
+            {
+                  "name": "Bella Rose Arts Centre",
+                  "text": "Ein Zentrum für darstellende Künste im Raum Halifax.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.664212,
+                        44.656869
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Eine historische römisch-katholische Kirche im Raum Halifax.",
+                  "category": "religious",
+                  "coords": [
+                        -63.582887,
+                        44.654242
+                  ]
+            },
+            {
+                  "name": "A. Murray MacKay Bridge",
+                  "text": "Eine von zwei Hängebrücken, die Halifax und Dartmouth im Raum Halifax verbinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.611428,
+                        44.678368
+                  ]
+            },
+            {
+                  "name": "Angus L. MacDonald Bridge",
+                  "text": "Die andere Hängebrücke, die Halifax und Dartmouth im Raum Halifax verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.584428,
+                        44.663892
+                  ]
+            },
+            {
+                  "name": "Dartmouth Common",
+                  "text": "Ein großer Stadtpark im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.572939,
+                        44.670003
+                  ]
+            },
+            {
+                  "name": "Chocolate Lake Park",
+                  "text": "Ein Park um den Chocolate Lake, ein beliebter Badeort im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.621104,
+                        44.637808
+                  ]
+            },
+            {
+                  "name": "Canadian Military Museum",
+                  "text": "Ein Museum mit Schwerpunkt auf kanadischer Militärgeschichte im Raum Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.566836,
+                        44.665967
+                  ]
+            },
+            {
+                  "name": "Little 'Dutch' Church",
+                  "text": "Eine historische Kirche im Raum Halifax.",
+                  "category": "religious",
+                  "coords": [
+                        -63.585564,
+                        44.655778
+                  ]
+            },
+            {
+                  "name": "Birch Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.656207,
+                        44.683229
+                  ]
+            },
+            {
+                  "name": "Bedford Basin",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.639272,
+                        44.694251
+                  ]
+            },
+            {
+                  "name": "Navy Island Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.607333,
+                        44.696209
+                  ]
+            },
+            {
+                  "name": "Wrights Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.616068,
+                        44.699871
+                  ]
+            },
+            {
+                  "name": "Norris Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.605217,
+                        44.678577
+                  ]
+            },
+            {
+                  "name": "Tufts Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.600725,
+                        44.679819
+                  ]
+            },
+            {
+                  "name": "Fairview Cove",
+                  "text": "Eine Bucht im Raum Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.634852,
+                        44.673141
+                  ]
+            },
+            {
+                  "name": "Beech Hill",
+                  "text": "Ein Hügel im Raum Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.588558,
+                        44.705251
+                  ]
+            },
+            {
+                  "name": "Pine Hill",
+                  "text": "Ein Hügel im Raum Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.583981,
+                        44.687843
+                  ]
+            },
+            {
+                  "name": "Geizer Hill",
+                  "text": "Ein Hügel im Raum Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.665144,
+                        44.65125
+                  ]
+            },
+            {
+                  "name": "Cyril Smith Golden Acres Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.573234,
+                        44.691674
+                  ]
+            },
+            {
+                  "name": "Shubie Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.556814,
+                        44.717501
+                  ]
+            },
+            {
+                  "name": "Sullivan's Pond Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.563504,
+                        44.672864
+                  ]
+            },
+            {
+                  "name": "Leighton Dillman Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.572172,
+                        44.667325
+                  ]
+            },
+            {
+                  "name": "Sinnot Hill Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.574043,
+                        44.66716
+                  ]
+            },
+            {
+                  "name": "Dartmouth High School Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.573444,
+                        44.671551
+                  ]
+            },
+            {
+                  "name": "Mayfield Bank Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.566681,
+                        44.685622
+                  ]
+            },
+            {
+                  "name": "Birch Cove Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.561782,
+                        44.679703
+                  ]
+            },
+            {
+                  "name": "Silvers Hill Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.558075,
+                        44.676047
+                  ]
+            },
+            {
+                  "name": "Ira Settle Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.539453,
+                        44.685916
+                  ]
+            },
+            {
+                  "name": "Yetter Park",
+                  "text": "Ein Park im Raum Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.591618,
+                        44.676462
+                  ]
+            },
+            {
+                  "name": "Brule Street Park",
+                  "text": "Brule Street Park ist ein Park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.587505,
+                        44.681806
+                  ]
+            },
+            {
+                  "name": "Farrell Street Park",
+                  "text": "Farrell Street Park ist ein Park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.588458,
+                        44.678247
+                  ]
+            },
+            {
+                  "name": "Northbrook Park",
+                  "text": "Northbrook Park ist ein Park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.582211,
+                        44.675805
+                  ]
+            },
+            {
+                  "name": "Saunders Park",
+                  "text": "Saunders Park ist ein Park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.611115,
+                        44.646758
+                  ]
+            },
+            {
+                  "name": "Scott Manor House",
+                  "text": "Scott Manor House ist ein Museum in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.660136,
+                        44.729282
+                  ]
+            },
+            {
+                  "name": "Hermes Gallery",
+                  "text": "Hermes Gallery ist eine Galerie in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.593306,
+                        44.655616
+                  ]
+            },
+            {
+                  "name": "The Blue Building Gallery",
+                  "text": "The Blue Building Gallery ist eine Galerie in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.591058,
+                        44.654753
+                  ]
+            },
+            {
+                  "name": "Evergreen House",
+                  "text": "Evergreen House ist ein Museum in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.560002,
+                        44.666635
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naval Museum of Halifax",
+                  "text": "A Halifax tengerészeti történelmének szentelt múzeum a Halifax környékén.",
+                  "category": "museum",
+                  "coords": [
+                        -63.592772,
+                        44.659561
+                  ]
+            },
+            {
+                  "name": "Bayers Lake Mystery Walls",
+                  "text": "Rejtélyes kőfalak ismeretlen eredetű a Halifax környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -63.660204,
+                        44.642986
+                  ]
+            },
+            {
+                  "name": "Bella Rose Arts Centre",
+                  "text": "Előadóművészeti központ a Halifax környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.664212,
+                        44.656869
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Történelmi római katolikus templom a Halifax környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -63.582887,
+                        44.654242
+                  ]
+            },
+            {
+                  "name": "A. Murray MacKay Bridge",
+                  "text": "A Halifax és Dartmouth összekötő két függőhíd egyike a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.611428,
+                        44.678368
+                  ]
+            },
+            {
+                  "name": "Angus L. MacDonald Bridge",
+                  "text": "A másik függőhíd, amely összeköti Halifaxet és Dartmouthot a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.584428,
+                        44.663892
+                  ]
+            },
+            {
+                  "name": "Dartmouth Common",
+                  "text": "Egy nagy városi park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.572939,
+                        44.670003
+                  ]
+            },
+            {
+                  "name": "Chocolate Lake Park",
+                  "text": "Egy park a Csokoládé-tó körül, népszerű úszóhely a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.621104,
+                        44.637808
+                  ]
+            },
+            {
+                  "name": "Canadian Military Museum",
+                  "text": "A kanadai katonai történelemre összpontosító múzeum a Halifax környékén.",
+                  "category": "museum",
+                  "coords": [
+                        -63.566836,
+                        44.665967
+                  ]
+            },
+            {
+                  "name": "Little 'Dutch' Church",
+                  "text": "Történelmi templom a Halifax környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -63.585564,
+                        44.655778
+                  ]
+            },
+            {
+                  "name": "Birch Cove",
+                  "text": "Egy öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.656207,
+                        44.683229
+                  ]
+            },
+            {
+                  "name": "Bedford Basin",
+                  "text": "Egy öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.639272,
+                        44.694251
+                  ]
+            },
+            {
+                  "name": "Navy Island Cove",
+                  "text": "Egy kis öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.607333,
+                        44.696209
+                  ]
+            },
+            {
+                  "name": "Wrights Cove",
+                  "text": "Egy kis öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.616068,
+                        44.699871
+                  ]
+            },
+            {
+                  "name": "Norris Cove",
+                  "text": "Egy kis öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.605217,
+                        44.678577
+                  ]
+            },
+            {
+                  "name": "Tufts Cove",
+                  "text": "Egy kis öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.600725,
+                        44.679819
+                  ]
+            },
+            {
+                  "name": "Fairview Cove",
+                  "text": "Egy kis öböl a Halifax környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.634852,
+                        44.673141
+                  ]
+            },
+            {
+                  "name": "Beech Hill",
+                  "text": "Egy domb a Halifax környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -63.588558,
+                        44.705251
+                  ]
+            },
+            {
+                  "name": "Pine Hill",
+                  "text": "Egy domb a Halifax környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -63.583981,
+                        44.687843
+                  ]
+            },
+            {
+                  "name": "Geizer Hill",
+                  "text": "Egy domb a Halifax környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -63.665144,
+                        44.65125
+                  ]
+            },
+            {
+                  "name": "Cyril Smith Golden Acres Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.573234,
+                        44.691674
+                  ]
+            },
+            {
+                  "name": "Shubie Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.556814,
+                        44.717501
+                  ]
+            },
+            {
+                  "name": "Sullivan's Pond Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.563504,
+                        44.672864
+                  ]
+            },
+            {
+                  "name": "Leighton Dillman Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.572172,
+                        44.667325
+                  ]
+            },
+            {
+                  "name": "Sinnot Hill Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.574043,
+                        44.66716
+                  ]
+            },
+            {
+                  "name": "Dartmouth High School Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.573444,
+                        44.671551
+                  ]
+            },
+            {
+                  "name": "Mayfield Bank Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.566681,
+                        44.685622
+                  ]
+            },
+            {
+                  "name": "Birch Cove Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.561782,
+                        44.679703
+                  ]
+            },
+            {
+                  "name": "Silvers Hill Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.558075,
+                        44.676047
+                  ]
+            },
+            {
+                  "name": "Ira Settle Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.539453,
+                        44.685916
+                  ]
+            },
+            {
+                  "name": "Yetter Park",
+                  "text": "Egy park a Halifax környékén.",
+                  "category": "park",
+                  "coords": [
+                        -63.591618,
+                        44.676462
+                  ]
+            },
+            {
+                  "name": "Brule Street Park",
+                  "text": "A Brule Street Park egy park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.587505,
+                        44.681806
+                  ]
+            },
+            {
+                  "name": "Farrell Street Park",
+                  "text": "A Farrell Street Park egy park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.588458,
+                        44.678247
+                  ]
+            },
+            {
+                  "name": "Northbrook Park",
+                  "text": "A Northbrook Park egy park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.582211,
+                        44.675805
+                  ]
+            },
+            {
+                  "name": "Saunders Park",
+                  "text": "A Saunders Park egy park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.611115,
+                        44.646758
+                  ]
+            },
+            {
+                  "name": "Scott Manor House",
+                  "text": "A Scott Manor House egy múzeum Halifaxban.",
+                  "category": "museum",
+                  "coords": [
+                        -63.660136,
+                        44.729282
+                  ]
+            },
+            {
+                  "name": "Hermes Gallery",
+                  "text": "A Hermes Gallery egy galéria Halifaxban.",
+                  "category": "museum",
+                  "coords": [
+                        -63.593306,
+                        44.655616
+                  ]
+            },
+            {
+                  "name": "The Blue Building Gallery",
+                  "text": "A The Blue Building Gallery egy galéria Halifaxban.",
+                  "category": "museum",
+                  "coords": [
+                        -63.591058,
+                        44.654753
+                  ]
+            },
+            {
+                  "name": "Evergreen House",
+                  "text": "Az Evergreen House egy múzeum Halifaxban.",
+                  "category": "museum",
+                  "coords": [
+                        -63.560002,
+                        44.666635
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naval Museum of Halifax",
+                  "text": "Un muzeu dedicat istoriei navale a orașului Halifax, în zona Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.592772,
+                        44.659561
+                  ]
+            },
+            {
+                  "name": "Bayers Lake Mystery Walls",
+                  "text": "Ziduri de piatră enigmatice de origine necunoscută în zona Halifax.",
+                  "category": "historical",
+                  "coords": [
+                        -63.660204,
+                        44.642986
+                  ]
+            },
+            {
+                  "name": "Bella Rose Arts Centre",
+                  "text": "Un centru de arte scenice în zona Halifax.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.664212,
+                        44.656869
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "O biserică romano-catolică istorică în zona Halifax.",
+                  "category": "religious",
+                  "coords": [
+                        -63.582887,
+                        44.654242
+                  ]
+            },
+            {
+                  "name": "A. Murray MacKay Bridge",
+                  "text": "Unul dintre cele două poduri suspendate care leagă Halifax de Dartmouth în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.611428,
+                        44.678368
+                  ]
+            },
+            {
+                  "name": "Angus L. MacDonald Bridge",
+                  "text": "Celălalt pod suspendat care leagă Halifax de Dartmouth în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.584428,
+                        44.663892
+                  ]
+            },
+            {
+                  "name": "Dartmouth Common",
+                  "text": "Un mare parc urban în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.572939,
+                        44.670003
+                  ]
+            },
+            {
+                  "name": "Chocolate Lake Park",
+                  "text": "Un parc în jurul lacului Chocolate, un loc popular de înot în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.621104,
+                        44.637808
+                  ]
+            },
+            {
+                  "name": "Canadian Military Museum",
+                  "text": "Un muzeu axat pe istoria militară canadiană în zona Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.566836,
+                        44.665967
+                  ]
+            },
+            {
+                  "name": "Little 'Dutch' Church",
+                  "text": "O biserică istorică în zona Halifax.",
+                  "category": "religious",
+                  "coords": [
+                        -63.585564,
+                        44.655778
+                  ]
+            },
+            {
+                  "name": "Birch Cove",
+                  "text": "Un golf în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.656207,
+                        44.683229
+                  ]
+            },
+            {
+                  "name": "Bedford Basin",
+                  "text": "Un golf în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.639272,
+                        44.694251
+                  ]
+            },
+            {
+                  "name": "Navy Island Cove",
+                  "text": "Un golfuleț în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.607333,
+                        44.696209
+                  ]
+            },
+            {
+                  "name": "Wrights Cove",
+                  "text": "Un golfuleț în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.616068,
+                        44.699871
+                  ]
+            },
+            {
+                  "name": "Norris Cove",
+                  "text": "Un golfuleț în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.605217,
+                        44.678577
+                  ]
+            },
+            {
+                  "name": "Tufts Cove",
+                  "text": "Un golfuleț în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.600725,
+                        44.679819
+                  ]
+            },
+            {
+                  "name": "Fairview Cove",
+                  "text": "Un golfuleț în zona Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.634852,
+                        44.673141
+                  ]
+            },
+            {
+                  "name": "Beech Hill",
+                  "text": "Un deal în zona Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.588558,
+                        44.705251
+                  ]
+            },
+            {
+                  "name": "Pine Hill",
+                  "text": "Un deal în zona Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.583981,
+                        44.687843
+                  ]
+            },
+            {
+                  "name": "Geizer Hill",
+                  "text": "Un deal în zona Halifax.",
+                  "category": "natural",
+                  "coords": [
+                        -63.665144,
+                        44.65125
+                  ]
+            },
+            {
+                  "name": "Cyril Smith Golden Acres Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.573234,
+                        44.691674
+                  ]
+            },
+            {
+                  "name": "Shubie Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.556814,
+                        44.717501
+                  ]
+            },
+            {
+                  "name": "Sullivan's Pond Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.563504,
+                        44.672864
+                  ]
+            },
+            {
+                  "name": "Leighton Dillman Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.572172,
+                        44.667325
+                  ]
+            },
+            {
+                  "name": "Sinnot Hill Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.574043,
+                        44.66716
+                  ]
+            },
+            {
+                  "name": "Dartmouth High School Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.573444,
+                        44.671551
+                  ]
+            },
+            {
+                  "name": "Mayfield Bank Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.566681,
+                        44.685622
+                  ]
+            },
+            {
+                  "name": "Birch Cove Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.561782,
+                        44.679703
+                  ]
+            },
+            {
+                  "name": "Silvers Hill Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.558075,
+                        44.676047
+                  ]
+            },
+            {
+                  "name": "Ira Settle Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.539453,
+                        44.685916
+                  ]
+            },
+            {
+                  "name": "Yetter Park",
+                  "text": "Un parc în zona Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.591618,
+                        44.676462
+                  ]
+            },
+            {
+                  "name": "Brule Street Park",
+                  "text": "Parcul Brule Street este un parc din Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.587505,
+                        44.681806
+                  ]
+            },
+            {
+                  "name": "Farrell Street Park",
+                  "text": "Parcul Farrell Street este un parc din Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.588458,
+                        44.678247
+                  ]
+            },
+            {
+                  "name": "Northbrook Park",
+                  "text": "Parcul Northbrook este un parc din Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.582211,
+                        44.675805
+                  ]
+            },
+            {
+                  "name": "Saunders Park",
+                  "text": "Parcul Saunders este un parc din Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.611115,
+                        44.646758
+                  ]
+            },
+            {
+                  "name": "Scott Manor House",
+                  "text": "Scott Manor House este un muzeu din Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.660136,
+                        44.729282
+                  ]
+            },
+            {
+                  "name": "Hermes Gallery",
+                  "text": "Galeriile Hermes sunt o galerie din Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.593306,
+                        44.655616
+                  ]
+            },
+            {
+                  "name": "The Blue Building Gallery",
+                  "text": "The Blue Building Gallery este o galerie din Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.591058,
+                        44.654753
+                  ]
+            },
+            {
+                  "name": "Evergreen House",
+                  "text": "Evergreen House este un muzeu din Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.560002,
+                        44.666635
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naval Museum of Halifax",
+                  "text": "A museum dedicated to the naval history of Halifax, located in the Halifax area.",
+                  "category": "museum",
+                  "coords": [
+                        -63.592772,
+                        44.659561
+                  ]
+            },
+            {
+                  "name": "Bayers Lake Mystery Walls",
+                  "text": "Enigmatic stone walls of unknown origin in the Halifax area.",
+                  "category": "historical",
+                  "coords": [
+                        -63.660204,
+                        44.642986
+                  ]
+            },
+            {
+                  "name": "Bella Rose Arts Centre",
+                  "text": "A performing arts centre in the Halifax area.",
+                  "category": "cultural",
+                  "coords": [
+                        -63.664212,
+                        44.656869
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "A historic Roman Catholic church in the Halifax area.",
+                  "category": "religious",
+                  "coords": [
+                        -63.582887,
+                        44.654242
+                  ]
+            },
+            {
+                  "name": "A. Murray MacKay Bridge",
+                  "text": "One of two suspension bridges connecting Halifax and Dartmouth in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.611428,
+                        44.678368
+                  ]
+            },
+            {
+                  "name": "Angus L. MacDonald Bridge",
+                  "text": "The other suspension bridge connecting Halifax and Dartmouth in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.584428,
+                        44.663892
+                  ]
+            },
+            {
+                  "name": "Dartmouth Common",
+                  "text": "A large urban park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.572939,
+                        44.670003
+                  ]
+            },
+            {
+                  "name": "Chocolate Lake Park",
+                  "text": "A park around Chocolate Lake, a popular swimming spot in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.621104,
+                        44.637808
+                  ]
+            },
+            {
+                  "name": "Canadian Military Museum",
+                  "text": "A museum focusing on Canadian military history in the Halifax area.",
+                  "category": "museum",
+                  "coords": [
+                        -63.566836,
+                        44.665967
+                  ]
+            },
+            {
+                  "name": "Little 'Dutch' Church",
+                  "text": "A historic church in the Halifax area.",
+                  "category": "religious",
+                  "coords": [
+                        -63.585564,
+                        44.655778
+                  ]
+            },
+            {
+                  "name": "Birch Cove",
+                  "text": "A bay in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.656207,
+                        44.683229
+                  ]
+            },
+            {
+                  "name": "Bedford Basin",
+                  "text": "A bay in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.639272,
+                        44.694251
+                  ]
+            },
+            {
+                  "name": "Navy Island Cove",
+                  "text": "A cove in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.607333,
+                        44.696209
+                  ]
+            },
+            {
+                  "name": "Wrights Cove",
+                  "text": "A cove in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.616068,
+                        44.699871
+                  ]
+            },
+            {
+                  "name": "Norris Cove",
+                  "text": "A cove in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.605217,
+                        44.678577
+                  ]
+            },
+            {
+                  "name": "Tufts Cove",
+                  "text": "A cove in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.600725,
+                        44.679819
+                  ]
+            },
+            {
+                  "name": "Fairview Cove",
+                  "text": "A cove in the Halifax area.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.634852,
+                        44.673141
+                  ]
+            },
+            {
+                  "name": "Beech Hill",
+                  "text": "A hill in the Halifax area.",
+                  "category": "natural",
+                  "coords": [
+                        -63.588558,
+                        44.705251
+                  ]
+            },
+            {
+                  "name": "Pine Hill",
+                  "text": "A hill in the Halifax area.",
+                  "category": "natural",
+                  "coords": [
+                        -63.583981,
+                        44.687843
+                  ]
+            },
+            {
+                  "name": "Geizer Hill",
+                  "text": "A hill in the Halifax area.",
+                  "category": "natural",
+                  "coords": [
+                        -63.665144,
+                        44.65125
+                  ]
+            },
+            {
+                  "name": "Cyril Smith Golden Acres Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.573234,
+                        44.691674
+                  ]
+            },
+            {
+                  "name": "Shubie Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.556814,
+                        44.717501
+                  ]
+            },
+            {
+                  "name": "Sullivan's Pond Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.563504,
+                        44.672864
+                  ]
+            },
+            {
+                  "name": "Leighton Dillman Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.572172,
+                        44.667325
+                  ]
+            },
+            {
+                  "name": "Sinnot Hill Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.574043,
+                        44.66716
+                  ]
+            },
+            {
+                  "name": "Dartmouth High School Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.573444,
+                        44.671551
+                  ]
+            },
+            {
+                  "name": "Mayfield Bank Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.566681,
+                        44.685622
+                  ]
+            },
+            {
+                  "name": "Birch Cove Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.561782,
+                        44.679703
+                  ]
+            },
+            {
+                  "name": "Silvers Hill Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.558075,
+                        44.676047
+                  ]
+            },
+            {
+                  "name": "Ira Settle Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.539453,
+                        44.685916
+                  ]
+            },
+            {
+                  "name": "Yetter Park",
+                  "text": "A park in the Halifax area.",
+                  "category": "park",
+                  "coords": [
+                        -63.591618,
+                        44.676462
+                  ]
+            },
+            {
+                  "name": "Brule Street Park",
+                  "text": "Brule Street Park is a park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.587505,
+                        44.681806
+                  ]
+            },
+            {
+                  "name": "Farrell Street Park",
+                  "text": "Farrell Street Park is a park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.588458,
+                        44.678247
+                  ]
+            },
+            {
+                  "name": "Northbrook Park",
+                  "text": "Northbrook Park is a park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.582211,
+                        44.675805
+                  ]
+            },
+            {
+                  "name": "Saunders Park",
+                  "text": "Saunders Park is a park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.611115,
+                        44.646758
+                  ]
+            },
+            {
+                  "name": "Scott Manor House",
+                  "text": "Scott Manor House is a museum in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.660136,
+                        44.729282
+                  ]
+            },
+            {
+                  "name": "Hermes Gallery",
+                  "text": "Hermes Gallery is a gallery in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.593306,
+                        44.655616
+                  ]
+            },
+            {
+                  "name": "The Blue Building Gallery",
+                  "text": "The Blue Building Gallery is a gallery in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.591058,
+                        44.654753
+                  ]
+            },
+            {
+                  "name": "Evergreen House",
+                  "text": "Evergreen House is a museum in Halifax.",
+                  "category": "museum",
+                  "coords": [
+                        -63.560002,
+                        44.666635
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-NS",
     coords: [-63.585, 44.663],
@@ -862,7 +20482,1204 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "winnipeg-legislative-building-landmarks-v2",
+    id: "winnipeg-legislative-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Peacekeepers’ Cairn",
+                  "text": "Der Peacekeepers’ Cairn ist ein Denkmal zu Ehren von Friedenssoldaten in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.14951,
+                        49.888157
+                  ]
+            },
+            {
+                  "name": "Plug In Institute of Contemporary Art",
+                  "text": "Das Plug In Institute of Contemporary Art ist eine Galerie für zeitgenössische Kunst in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.151217,
+                        49.890439
+                  ]
+            },
+            {
+                  "name": "Gallery 1C03",
+                  "text": "Die Gallery 1C03 ist eine Galerie an der University of Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.153199,
+                        49.891913
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "The Rock ist ein Denkmal auf dem Manitoba Legislative Grounds.",
+                  "category": "historical",
+                  "coords": [
+                        -97.153145,
+                        49.890373
+                  ]
+            },
+            {
+                  "name": "Women’s Grove",
+                  "text": "Der Women’s Grove ist ein Gedenkhain, der den Frauen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -97.146023,
+                        49.885411
+                  ]
+            },
+            {
+                  "name": "Gas Station Arts Centre",
+                  "text": "Das Gas Station Arts Centre ist ein umgebautes Kunstzentrum in einer ehemaligen Tankstelle.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.145922,
+                        49.879638
+                  ]
+            },
+            {
+                  "name": "a little art boutique",
+                  "text": "a little art boutique ist eine kleine Kunstgalerie und ein Geschäft.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155751,
+                        49.870136
+                  ]
+            },
+            {
+                  "name": "Little Red Library",
+                  "text": "Die Little Red Library ist eine kleine rote Bibliotheksstruktur.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.152624,
+                        49.87319
+                  ]
+            },
+            {
+                  "name": "Black Hole Studio",
+                  "text": "Das Black Hole Studio ist ein Theater- und Proberaum.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131,
+                        49.811223
+                  ]
+            },
+            {
+                  "name": "John J. Conklin Theatre",
+                  "text": "Das John J. Conklin Theatre ist ein Theater an der University of Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131469,
+                        49.808047
+                  ]
+            },
+            {
+                  "name": "School of Art Gallery",
+                  "text": "Die School of Art Gallery ist die Hauptgalerie der School of Art.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130328,
+                        49.808665
+                  ]
+            },
+            {
+                  "name": "Sidestage",
+                  "text": "Sidestage ist ein kleines Theater in Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131787,
+                        49.862092
+                  ]
+            },
+            {
+                  "name": "West End Cultural Centre",
+                  "text": "Das West End Cultural Centre ist ein Kultur- und Musikzentrum.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.158507,
+                        49.892618
+                  ]
+            },
+            {
+                  "name": "Memorial Provincial Park",
+                  "text": "Der Memorial Provincial Park ist ein Park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.149144,
+                        49.886721
+                  ]
+            },
+            {
+                  "name": "Winnipeg Art Gallery",
+                  "text": "Die Winnipeg Art Gallery ist bekannt für ihre Sammlung von Inuit-Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -97.150528,
+                        49.889341
+                  ]
+            },
+            {
+                  "name": "Dalnavert Museum & Visitors’ Centre",
+                  "text": "Das Dalnavert Museum & Visitors’ Centre ist ein historisches viktorianisches Hausmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        -97.141837,
+                        49.885993
+                  ]
+            },
+            {
+                  "name": "Manitoba Legislative Grounds",
+                  "text": "Das Manitoba Legislative Grounds ist das Gelände um das Parlamentsgebäude von Manitoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.146626,
+                        49.884061
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Luke",
+                  "text": "Die Parish Church of Saint Luke ist eine anglikanische Kirche in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.147772,
+                        49.877167
+                  ]
+            },
+            {
+                  "name": "Nunavut Gallery",
+                  "text": "Die Nunavut Gallery zeigt Kunst aus Nunavut und der Inuit-Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -97.147987,
+                        49.872891
+                  ]
+            },
+            {
+                  "name": "Saint Ignatius Parish",
+                  "text": "Die Saint Ignatius Parish ist eine katholische Pfarrkirche.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161502,
+                        49.867396
+                  ]
+            },
+            {
+                  "name": "Congregation Shaare Zedek",
+                  "text": "Die Congregation Shaare Zedek ist eine Synagoge in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161968,
+                        49.877258
+                  ]
+            },
+            {
+                  "name": "Maryland Bridge",
+                  "text": "Die Maryland Bridge ist eine Brücke über den Assiniboine River.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.161876,
+                        49.878198
+                  ]
+            },
+            {
+                  "name": "Westminster United Church",
+                  "text": "Die Westminster United Church ist eine Kirche der United Church of Canada in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161719,
+                        49.882177
+                  ]
+            },
+            {
+                  "name": "Vimy Ridge Memorial Park",
+                  "text": "Der Vimy Ridge Memorial Park ist ein Park in Winnipeg, der an die Schlacht bei Vimy Ridge im Ersten Weltkrieg erinnert.",
+                  "category": "park",
+                  "coords": [
+                        -97.167234,
+                        49.885062
+                  ]
+            },
+            {
+                  "name": "Westview Park",
+                  "text": "Der Westview Park ist ein Park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.192444,
+                        49.903919
+                  ]
+            },
+            {
+                  "name": "Manitoba Electrical Museum",
+                  "text": "Das Manitoba Electrical Museum ist ein Museum in Winnipeg zur Geschichte der Elektrizität.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155129,
+                        49.855932
+                  ]
+            },
+            {
+                  "name": "Elm Park Bridge",
+                  "text": "Die Elm Park Bridge ist eine Brücke in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.141874,
+                        49.854145
+                  ]
+            },
+            {
+                  "name": "Saint Vital Park",
+                  "text": "Der Saint Vital Park ist ein Park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.141338,
+                        49.828856
+                  ]
+            },
+            {
+                  "name": "Kings Park",
+                  "text": "Der King's Park ist ein großer Park in Winnipeg entlang des Red River.",
+                  "category": "park",
+                  "coords": [
+                        -97.123043,
+                        49.797795
+                  ]
+            },
+            {
+                  "name": "Riel House National Historic Site",
+                  "text": "Die Riel House National Historic Site ist ein Park in Winnipeg, der das Zuhause des Métis-Führers Louis Riel bewahrt.",
+                  "category": "park",
+                  "coords": [
+                        -97.136377,
+                        49.819137
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Der Wildwood Park ist ein Park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.129224,
+                        49.846456
+                  ]
+            },
+            {
+                  "name": "St. Vital Bridge",
+                  "text": "Die St. Vital Bridge ist eine Brücke in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.126742,
+                        49.855672
+                  ]
+            },
+            {
+                  "name": "Dakota Park Wading Pool",
+                  "text": "Der Dakota Park Wading Pool ist ein Wasserpark in Winnipeg.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.101719,
+                        49.818503
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Peacekeepers’ Cairn",
+                  "text": "A Peacekeepers’ Cairn egy emlékmű a békefenntartók tiszteletére Winnipegben.",
+                  "category": "historical",
+                  "coords": [
+                        -97.14951,
+                        49.888157
+                  ]
+            },
+            {
+                  "name": "Plug In Institute of Contemporary Art",
+                  "text": "A Plug In Institute of Contemporary Art egy kortárs művészeti galéria Winnipegben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.151217,
+                        49.890439
+                  ]
+            },
+            {
+                  "name": "Gallery 1C03",
+                  "text": "A Gallery 1C03 egy galéria a Winnipeg Egyetemen.",
+                  "category": "museum",
+                  "coords": [
+                        -97.153199,
+                        49.891913
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "The Rock egy emlékmű a Manitoba Törvényhozási épületének területén.",
+                  "category": "historical",
+                  "coords": [
+                        -97.153145,
+                        49.890373
+                  ]
+            },
+            {
+                  "name": "Women’s Grove",
+                  "text": "A Women’s Grove egy emlékliget, amely a nők előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.146023,
+                        49.885411
+                  ]
+            },
+            {
+                  "name": "Gas Station Arts Centre",
+                  "text": "A Gas Station Arts Centre egy egykori benzinkútból átalakított művészeti központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.145922,
+                        49.879638
+                  ]
+            },
+            {
+                  "name": "a little art boutique",
+                  "text": "a little art boutique egy kis művészeti galéria és üzlet.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155751,
+                        49.870136
+                  ]
+            },
+            {
+                  "name": "Little Red Library",
+                  "text": "A Little Red Library egy kis piros könyvtárszerkezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.152624,
+                        49.87319
+                  ]
+            },
+            {
+                  "name": "Black Hole Studio",
+                  "text": "A Black Hole Studio egy színház- és próbaterem.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131,
+                        49.811223
+                  ]
+            },
+            {
+                  "name": "John J. Conklin Theatre",
+                  "text": "A John J. Conklin Theatre egy színház a Winnipeg Egyetemen.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131469,
+                        49.808047
+                  ]
+            },
+            {
+                  "name": "School of Art Gallery",
+                  "text": "A School of Art Gallery a Művészeti Iskola fő galériája.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130328,
+                        49.808665
+                  ]
+            },
+            {
+                  "name": "Sidestage",
+                  "text": "A Sidestage egy kis színház Winnipegben.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131787,
+                        49.862092
+                  ]
+            },
+            {
+                  "name": "West End Cultural Centre",
+                  "text": "A West End Cultural Centre egy kulturális és zenei központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.158507,
+                        49.892618
+                  ]
+            },
+            {
+                  "name": "Memorial Provincial Park",
+                  "text": "A Memorial Provincial Park egy park Winnipegben.",
+                  "category": "park",
+                  "coords": [
+                        -97.149144,
+                        49.886721
+                  ]
+            },
+            {
+                  "name": "Winnipeg Art Gallery",
+                  "text": "A Winnipeg Művészeti Galéria híres inuit művészeti gyűjteményéről.",
+                  "category": "museum",
+                  "coords": [
+                        -97.150528,
+                        49.889341
+                  ]
+            },
+            {
+                  "name": "Dalnavert Museum & Visitors’ Centre",
+                  "text": "A Dalnavert Museum & Visitors’ Centre egy történelmi viktoriánus házmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -97.141837,
+                        49.885993
+                  ]
+            },
+            {
+                  "name": "Manitoba Legislative Grounds",
+                  "text": "A Manitoba Legislative Grounds a Manitoba törvényhozási épületének környéke.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.146626,
+                        49.884061
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Luke",
+                  "text": "A Parish Church of Saint Luke egy anglikán templom Winnipegben.",
+                  "category": "religious",
+                  "coords": [
+                        -97.147772,
+                        49.877167
+                  ]
+            },
+            {
+                  "name": "Nunavut Gallery",
+                  "text": "A Nunavut Gallery Nunavut és inuit művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -97.147987,
+                        49.872891
+                  ]
+            },
+            {
+                  "name": "Saint Ignatius Parish",
+                  "text": "A Saint Ignatius Parish egy katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161502,
+                        49.867396
+                  ]
+            },
+            {
+                  "name": "Congregation Shaare Zedek",
+                  "text": "A Congregation Shaare Zedek egy zsinagóga Winnipegben.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161968,
+                        49.877258
+                  ]
+            },
+            {
+                  "name": "Maryland Bridge",
+                  "text": "A Maryland Bridge egy híd az Assiniboine folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.161876,
+                        49.878198
+                  ]
+            },
+            {
+                  "name": "Westminster United Church",
+                  "text": "A Westminster United Church egy egyesült templom Winnipegben.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161719,
+                        49.882177
+                  ]
+            },
+            {
+                  "name": "Vimy Ridge Memorial Park",
+                  "text": "A Vimy Ridge Memorial Park egy park Winnipegben, amely az első világháború vimy-i csatájára emlékeztet.",
+                  "category": "park",
+                  "coords": [
+                        -97.167234,
+                        49.885062
+                  ]
+            },
+            {
+                  "name": "Westview Park",
+                  "text": "A Westview Park egy park Winnipegben.",
+                  "category": "park",
+                  "coords": [
+                        -97.192444,
+                        49.903919
+                  ]
+            },
+            {
+                  "name": "Manitoba Electrical Museum",
+                  "text": "A Manitoba Electrical Museum egy múzeum Winnipegben, amely az elektromosság történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155129,
+                        49.855932
+                  ]
+            },
+            {
+                  "name": "Elm Park Bridge",
+                  "text": "Az Elm Park Bridge egy híd Winnipegben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.141874,
+                        49.854145
+                  ]
+            },
+            {
+                  "name": "Saint Vital Park",
+                  "text": "A Saint Vital Park egy park Winnipegben.",
+                  "category": "park",
+                  "coords": [
+                        -97.141338,
+                        49.828856
+                  ]
+            },
+            {
+                  "name": "Kings Park",
+                  "text": "A King's Park egy nagy park Winnipegben a Red River mentén.",
+                  "category": "park",
+                  "coords": [
+                        -97.123043,
+                        49.797795
+                  ]
+            },
+            {
+                  "name": "Riel House National Historic Site",
+                  "text": "A Riel House National Historic Site egy park Winnipegben, amely Louis Riel métis vezető otthonát őrzi.",
+                  "category": "park",
+                  "coords": [
+                        -97.136377,
+                        49.819137
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "A Wildwood Park egy park Winnipegben.",
+                  "category": "park",
+                  "coords": [
+                        -97.129224,
+                        49.846456
+                  ]
+            },
+            {
+                  "name": "St. Vital Bridge",
+                  "text": "A St. Vital Bridge egy híd Winnipegben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.126742,
+                        49.855672
+                  ]
+            },
+            {
+                  "name": "Dakota Park Wading Pool",
+                  "text": "A Dakota Park Wading Pool egy vízipark Winnipegben.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.101719,
+                        49.818503
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Peacekeepers’ Cairn",
+                  "text": "Peacekeepers’ Cairn este un monument în onoarea pacificatorilor din Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.14951,
+                        49.888157
+                  ]
+            },
+            {
+                  "name": "Plug In Institute of Contemporary Art",
+                  "text": "Plug In Institute of Contemporary Art este o galerie de artă contemporană din Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.151217,
+                        49.890439
+                  ]
+            },
+            {
+                  "name": "Gallery 1C03",
+                  "text": "Gallery 1C03 este o galerie la Universitatea din Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.153199,
+                        49.891913
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "The Rock este un monument pe terenurile legislative din Manitoba.",
+                  "category": "historical",
+                  "coords": [
+                        -97.153145,
+                        49.890373
+                  ]
+            },
+            {
+                  "name": "Women’s Grove",
+                  "text": "Women’s Grove este o pădure memorială dedicată femeilor.",
+                  "category": "historical",
+                  "coords": [
+                        -97.146023,
+                        49.885411
+                  ]
+            },
+            {
+                  "name": "Gas Station Arts Centre",
+                  "text": "Gas Station Arts Centre este un centru artistic transformat dintr-o benzinărie.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.145922,
+                        49.879638
+                  ]
+            },
+            {
+                  "name": "a little art boutique",
+                  "text": "a little art boutique este o mică galerie de artă și magazin.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155751,
+                        49.870136
+                  ]
+            },
+            {
+                  "name": "Little Red Library",
+                  "text": "Little Red Library este o mică structură de bibliotecă roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.152624,
+                        49.87319
+                  ]
+            },
+            {
+                  "name": "Black Hole Studio",
+                  "text": "Black Hole Studio este un spațiu de teatru și repetiții.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131,
+                        49.811223
+                  ]
+            },
+            {
+                  "name": "John J. Conklin Theatre",
+                  "text": "John J. Conklin Theatre este un teatru la Universitatea din Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131469,
+                        49.808047
+                  ]
+            },
+            {
+                  "name": "School of Art Gallery",
+                  "text": "School of Art Gallery este galeria principală a Școlii de Artă.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130328,
+                        49.808665
+                  ]
+            },
+            {
+                  "name": "Sidestage",
+                  "text": "Sidestage este un mic teatru în Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131787,
+                        49.862092
+                  ]
+            },
+            {
+                  "name": "West End Cultural Centre",
+                  "text": "West End Cultural Centre este un centru cultural și muzical.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.158507,
+                        49.892618
+                  ]
+            },
+            {
+                  "name": "Memorial Provincial Park",
+                  "text": "Memorial Provincial Park este un parc în Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.149144,
+                        49.886721
+                  ]
+            },
+            {
+                  "name": "Winnipeg Art Gallery",
+                  "text": "Galeria de Artă din Winnipeg este renumită pentru colecția sa de artă inuită.",
+                  "category": "museum",
+                  "coords": [
+                        -97.150528,
+                        49.889341
+                  ]
+            },
+            {
+                  "name": "Dalnavert Museum & Visitors’ Centre",
+                  "text": "Dalnavert Museum & Visitors’ Centre este un muzeu istoric într-o casă victoriană.",
+                  "category": "museum",
+                  "coords": [
+                        -97.141837,
+                        49.885993
+                  ]
+            },
+            {
+                  "name": "Manitoba Legislative Grounds",
+                  "text": "Manitoba Legislative Grounds este terenul din jurul clădirii legislative din Manitoba.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.146626,
+                        49.884061
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Luke",
+                  "text": "Parish Church of Saint Luke este o biserică anglicană din Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.147772,
+                        49.877167
+                  ]
+            },
+            {
+                  "name": "Nunavut Gallery",
+                  "text": "Nunavut Gallery prezintă artă din Nunavut și cultura inuită.",
+                  "category": "museum",
+                  "coords": [
+                        -97.147987,
+                        49.872891
+                  ]
+            },
+            {
+                  "name": "Saint Ignatius Parish",
+                  "text": "Saint Ignatius Parish este o biserică parohială catolică.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161502,
+                        49.867396
+                  ]
+            },
+            {
+                  "name": "Congregation Shaare Zedek",
+                  "text": "Congregation Shaare Zedek este o sinagogă din Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161968,
+                        49.877258
+                  ]
+            },
+            {
+                  "name": "Maryland Bridge",
+                  "text": "Maryland Bridge este un pod peste râul Assiniboine.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.161876,
+                        49.878198
+                  ]
+            },
+            {
+                  "name": "Westminster United Church",
+                  "text": "Westminster United Church este o biserică a Bisericii Unite din Canada în Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161719,
+                        49.882177
+                  ]
+            },
+            {
+                  "name": "Vimy Ridge Memorial Park",
+                  "text": "Parcul Memorial Vimy Ridge este un parc din Winnipeg, care comemorează Bătălia de la Vimy Ridge din Primul Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        -97.167234,
+                        49.885062
+                  ]
+            },
+            {
+                  "name": "Westview Park",
+                  "text": "Parcul Westview este un parc din Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.192444,
+                        49.903919
+                  ]
+            },
+            {
+                  "name": "Manitoba Electrical Museum",
+                  "text": "Muzeul de Electricitate Manitoba este un muzeu din Winnipeg despre istoria electricității.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155129,
+                        49.855932
+                  ]
+            },
+            {
+                  "name": "Elm Park Bridge",
+                  "text": "Podul Elm Park este un pod în Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.141874,
+                        49.854145
+                  ]
+            },
+            {
+                  "name": "Saint Vital Park",
+                  "text": "Parcul Saint Vital este un parc din Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.141338,
+                        49.828856
+                  ]
+            },
+            {
+                  "name": "Kings Park",
+                  "text": "Parcul King's este un parc mare din Winnipeg, de-a lungul râului Red.",
+                  "category": "park",
+                  "coords": [
+                        -97.123043,
+                        49.797795
+                  ]
+            },
+            {
+                  "name": "Riel House National Historic Site",
+                  "text": "Situl Istoric Național Riel House este un parc din Winnipeg care păstrează casa liderului métis Louis Riel.",
+                  "category": "park",
+                  "coords": [
+                        -97.136377,
+                        49.819137
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Parcul Wildwood este un parc din Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.129224,
+                        49.846456
+                  ]
+            },
+            {
+                  "name": "St. Vital Bridge",
+                  "text": "Podul St. Vital este un pod în Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.126742,
+                        49.855672
+                  ]
+            },
+            {
+                  "name": "Dakota Park Wading Pool",
+                  "text": "Piscina de ștrand Dakota Park este un parc acvatic în Winnipeg.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.101719,
+                        49.818503
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Peacekeepers’ Cairn",
+                  "text": "Peacekeepers’ Cairn is a monument honoring peacekeepers in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.14951,
+                        49.888157
+                  ]
+            },
+            {
+                  "name": "Plug In Institute of Contemporary Art",
+                  "text": "Plug In Institute of Contemporary Art is a contemporary art gallery in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.151217,
+                        49.890439
+                  ]
+            },
+            {
+                  "name": "Gallery 1C03",
+                  "text": "Gallery 1C03 is a gallery at the University of Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.153199,
+                        49.891913
+                  ]
+            },
+            {
+                  "name": "The Rock",
+                  "text": "The Rock is a monument on the Manitoba Legislative Grounds.",
+                  "category": "historical",
+                  "coords": [
+                        -97.153145,
+                        49.890373
+                  ]
+            },
+            {
+                  "name": "Women’s Grove",
+                  "text": "Women’s Grove is a memorial grove dedicated to women.",
+                  "category": "historical",
+                  "coords": [
+                        -97.146023,
+                        49.885411
+                  ]
+            },
+            {
+                  "name": "Gas Station Arts Centre",
+                  "text": "Gas Station Arts Centre is a converted gas station turned arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.145922,
+                        49.879638
+                  ]
+            },
+            {
+                  "name": "a little art boutique",
+                  "text": "a little art boutique is a small art gallery and boutique.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155751,
+                        49.870136
+                  ]
+            },
+            {
+                  "name": "Little Red Library",
+                  "text": "Little Red Library is a small red library structure.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.152624,
+                        49.87319
+                  ]
+            },
+            {
+                  "name": "Black Hole Studio",
+                  "text": "Black Hole Studio is a theatre and rehearsal space.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131,
+                        49.811223
+                  ]
+            },
+            {
+                  "name": "John J. Conklin Theatre",
+                  "text": "John J. Conklin Theatre is a theatre at the University of Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131469,
+                        49.808047
+                  ]
+            },
+            {
+                  "name": "School of Art Gallery",
+                  "text": "School of Art Gallery is the main gallery of the School of Art.",
+                  "category": "museum",
+                  "coords": [
+                        -97.130328,
+                        49.808665
+                  ]
+            },
+            {
+                  "name": "Sidestage",
+                  "text": "Sidestage is a small theatre venue in Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.131787,
+                        49.862092
+                  ]
+            },
+            {
+                  "name": "West End Cultural Centre",
+                  "text": "West End Cultural Centre is a cultural centre and music venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.158507,
+                        49.892618
+                  ]
+            },
+            {
+                  "name": "Memorial Provincial Park",
+                  "text": "Memorial Provincial Park is a park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.149144,
+                        49.886721
+                  ]
+            },
+            {
+                  "name": "Winnipeg Art Gallery",
+                  "text": "Winnipeg Art Gallery is notable for its collection of Inuit art.",
+                  "category": "museum",
+                  "coords": [
+                        -97.150528,
+                        49.889341
+                  ]
+            },
+            {
+                  "name": "Dalnavert Museum & Visitors’ Centre",
+                  "text": "Dalnavert Museum & Visitors’ Centre is a historic Victorian house museum.",
+                  "category": "museum",
+                  "coords": [
+                        -97.141837,
+                        49.885993
+                  ]
+            },
+            {
+                  "name": "Manitoba Legislative Grounds",
+                  "text": "Manitoba Legislative Grounds are the grounds surrounding the Manitoba Legislative Building.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.146626,
+                        49.884061
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Luke",
+                  "text": "Parish Church of Saint Luke is an Anglican church in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.147772,
+                        49.877167
+                  ]
+            },
+            {
+                  "name": "Nunavut Gallery",
+                  "text": "Nunavut Gallery showcases art from Nunavut and Inuit culture.",
+                  "category": "museum",
+                  "coords": [
+                        -97.147987,
+                        49.872891
+                  ]
+            },
+            {
+                  "name": "Saint Ignatius Parish",
+                  "text": "Saint Ignatius Parish is a Catholic parish church.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161502,
+                        49.867396
+                  ]
+            },
+            {
+                  "name": "Congregation Shaare Zedek",
+                  "text": "Congregation Shaare Zedek is a synagogue in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161968,
+                        49.877258
+                  ]
+            },
+            {
+                  "name": "Maryland Bridge",
+                  "text": "Maryland Bridge is a bridge over the Assiniboine River.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.161876,
+                        49.878198
+                  ]
+            },
+            {
+                  "name": "Westminster United Church",
+                  "text": "Westminster United Church is a United Church in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.161719,
+                        49.882177
+                  ]
+            },
+            {
+                  "name": "Vimy Ridge Memorial Park",
+                  "text": "Vimy Ridge Memorial Park is a park in Winnipeg named after the World War I Battle of Vimy Ridge.",
+                  "category": "park",
+                  "coords": [
+                        -97.167234,
+                        49.885062
+                  ]
+            },
+            {
+                  "name": "Westview Park",
+                  "text": "Westview Park is a park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.192444,
+                        49.903919
+                  ]
+            },
+            {
+                  "name": "Manitoba Electrical Museum",
+                  "text": "The Manitoba Electrical Museum is a museum in Winnipeg about the history of electricity.",
+                  "category": "museum",
+                  "coords": [
+                        -97.155129,
+                        49.855932
+                  ]
+            },
+            {
+                  "name": "Elm Park Bridge",
+                  "text": "Elm Park Bridge is a bridge in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.141874,
+                        49.854145
+                  ]
+            },
+            {
+                  "name": "Saint Vital Park",
+                  "text": "Saint Vital Park is a park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.141338,
+                        49.828856
+                  ]
+            },
+            {
+                  "name": "Kings Park",
+                  "text": "King's Park is a large park in Winnipeg along the Red River.",
+                  "category": "park",
+                  "coords": [
+                        -97.123043,
+                        49.797795
+                  ]
+            },
+            {
+                  "name": "Riel House National Historic Site",
+                  "text": "Riel House National Historic Site is a park in Winnipeg that preserves the home of Métis leader Louis Riel.",
+                  "category": "park",
+                  "coords": [
+                        -97.136377,
+                        49.819137
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Wildwood Park is a park in Winnipeg.",
+                  "category": "park",
+                  "coords": [
+                        -97.129224,
+                        49.846456
+                  ]
+            },
+            {
+                  "name": "St. Vital Bridge",
+                  "text": "St. Vital Bridge is a bridge in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.126742,
+                        49.855672
+                  ]
+            },
+            {
+                  "name": "Dakota Park Wading Pool",
+                  "text": "Dakota Park Wading Pool is a water park in Winnipeg.",
+                  "category": "recreational",
+                  "coords": [
+                        -97.101719,
+                        49.818503
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-MB",
     coords: [-97.1461, 49.8844],
@@ -898,7 +21715,1096 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "saskatchewan-legislative-building-landmarks-v2",
+    id: "saskatchewan-legislative-building-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Activate Regina",
+                  "text": "Activate Regina ist eine interaktive Attraktion in Regina mit verschiedenen Spielen und Herausforderungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.546714,
+                        50.444066
+                  ]
+            },
+            {
+                  "name": "Shumiatcher Theatre",
+                  "text": "Das Shumiatcher Theatre ist ein Veranstaltungsort für Aufführungen in Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.61691,
+                        50.425366
+                  ]
+            },
+            {
+                  "name": "Spruce Island Overlook",
+                  "text": "Der Spruce Island Overlook bietet einen malerischen Blick auf die Umgebung in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.612174,
+                        50.428382
+                  ]
+            },
+            {
+                  "name": "Giật dây xe bus",
+                  "text": "Giật dây xe bus ist eine ungewöhnliche Attraktion in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.621038,
+                        50.406611
+                  ]
+            },
+            {
+                  "name": "Francophone pavilion ",
+                  "text": "Der Francophone Pavilion ist eine kulturelle Attraktion, die das französisch-kanadische Erbe in Regina präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.602861,
+                        50.417978
+                  ]
+            },
+            {
+                  "name": "Hanbidge Hall",
+                  "text": "Die Hanbidge Hall ist ein Theater in Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.598055,
+                        50.42838
+                  ]
+            },
+            {
+                  "name": "Wascana Hill",
+                  "text": "Der Wascana Hill bietet einen Aussichtspunkt über das Wascana-Gebiet in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.585687,
+                        50.426789
+                  ]
+            },
+            {
+                  "name": "Regina View SD 4607",
+                  "text": "Regina View SD 4607 ist ein Denkmal in Regina.",
+                  "category": "historical",
+                  "coords": [
+                        -104.548715,
+                        50.397045
+                  ]
+            },
+            {
+                  "name": "Gocki Park Spray Pad",
+                  "text": "Der Gocki Park Spray Pad ist ein Wasserspielplatz in Regina.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.586152,
+                        50.442803
+                  ]
+            },
+            {
+                  "name": "Wascana Lake Waterfall",
+                  "text": "Der Wascana Lake Waterfall ist ein malerischer Wasserfall am Wascana Lake in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.606433,
+                        50.428956
+                  ]
+            },
+            {
+                  "name": "Willow Island Overlook",
+                  "text": "Der Willow Island Overlook ist eine Attraktion, die einen Blick auf Willow Island in Regina bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.607717,
+                        50.436649
+                  ]
+            },
+            {
+                  "name": "Legislative Landing",
+                  "text": "Das Legislative Landing ist ein Uferbereich nahe dem Saskatchewan Legislative Building in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.615152,
+                        50.435052
+                  ]
+            },
+            {
+                  "name": "Trafalgar Overlook",
+                  "text": "Der Trafalgar Overlook bietet einen malerischen Aussichtspunkt in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.608515,
+                        50.432492
+                  ]
+            },
+            {
+                  "name": "Statue of Queen Elizabeth II riding Burmese",
+                  "text": "Die Statue von Queen Elizabeth II. auf Burmese ist ein Denkmal in Regina, das die Königin auf ihrem Pferd zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615147,
+                        50.433665
+                  ]
+            },
+            {
+                  "name": "Saskatchewan War Memorial",
+                  "text": "Das Saskatchewan War Memorial ist ein Denkmal in Regina, das an die Kriegstoten der Provinz erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -104.617453,
+                        50.432968
+                  ]
+            },
+            {
+                  "name": "McKell Wascana Conservation Park",
+                  "text": "Der McKell Wascana Conservation Park ist ein geschütztes Naturgebiet in Regina am Wascana Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -104.535387,
+                        50.411437
+                  ]
+            },
+            {
+                  "name": "Wascana Lake",
+                  "text": "Der Wascana Lake ist ein beliebter urbaner See in Regina, der für Erholung genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.598226,
+                        50.429429
+                  ]
+            },
+            {
+                  "name": "Habitat Conservation Area",
+                  "text": "Das Habitat Conservation Area ist ein Wildtierlebensraum-Schutzgebiet in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.586714,
+                        50.424232
+                  ]
+            },
+            {
+                  "name": "Wascana Centre",
+                  "text": "Das Wascana Centre ist ein großer Park und Kulturbezirk in Regina rund um den Wascana Lake.",
+                  "category": "park",
+                  "coords": [
+                        -104.592551,
+                        50.424777
+                  ]
+            },
+            {
+                  "name": "University of Regina",
+                  "text": "Die University of Regina ist ein Parkbereich auf dem Campus der University of Regina in Regina.",
+                  "category": "park",
+                  "coords": [
+                        -104.588455,
+                        50.415777
+                  ]
+            },
+            {
+                  "name": "Regina Saskatchewan Temple",
+                  "text": "Der Regina Saskatchewan Temple ist ein heiliges Gebäude der Kirche Jesu Christi der Heiligen der Letzten Tage in Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.541678,
+                        50.420958
+                  ]
+            },
+            {
+                  "name": "Veterans Memorial",
+                  "text": "Das Veterans Memorial ist ein Denkmal in Regina zu Ehren von Militärveteranen.",
+                  "category": "historical",
+                  "coords": [
+                        -104.566159,
+                        50.422184
+                  ]
+            },
+            {
+                  "name": "Creekside Environmental Reserve",
+                  "text": "Das Creekside Environmental Reserve ist ein geschütztes Ufergebiet in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.532298,
+                        50.455759
+                  ]
+            },
+            {
+                  "name": "Mahmood Mosque",
+                  "text": "Die Mahmood Moschee ist ein muslimischer Gottesdienstort in Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.528189,
+                        50.450873
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Science Centre",
+                  "text": "Das Saskatchewan Science Centre ist ein Wissenschaftsmuseum in Regina mit interaktiven Exponaten und einem IMAX-Kino.",
+                  "category": "museum",
+                  "coords": [
+                        -104.594238,
+                        50.432871
+                  ]
+            },
+            {
+                  "name": "Darke Hall",
+                  "text": "Die Darke Hall ist ein historisches Theater in Regina für Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.612277,
+                        50.439895
+                  ]
+            },
+            {
+                  "name": "Royal Saskatchewan Museum",
+                  "text": "Das Royal Saskatchewan Museum ist ein Naturkundemuseum in Regina, das das Erbe der Provinz präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -104.616501,
+                        50.439839
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Legislative Building",
+                  "text": "Das Saskatchewan Legislative Building ist der Sitz der Provinzregierung in Regina, gelegen im Wascana Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615157,
+                        50.432473
+                  ]
+            },
+            {
+                  "name": "Albert Memorial Bridge",
+                  "text": "Die Albert Memorial Bridge ist eine Gedenkbrücke in Regina, die den Soldaten des Ersten Weltkriegs gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.618109,
+                        50.436167
+                  ]
+            },
+            {
+                  "name": "Kiwanis Waterfall",
+                  "text": "Der Kiwanis-Wasserfall ist eine Attraktion im Gebiet Saskatchewan Legislative Building Landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.628799,
+                        50.435446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Activate Regina",
+                  "text": "Az Activate Regina egy interaktív látványosság Reginában, különféle játékokkal és kihívásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.546714,
+                        50.444066
+                  ]
+            },
+            {
+                  "name": "Shumiatcher Theatre",
+                  "text": "A Shumiatcher Theatre egy előadó-művészeti helyszín Reginában.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.61691,
+                        50.425366
+                  ]
+            },
+            {
+                  "name": "Spruce Island Overlook",
+                  "text": "A Spruce Island Overlook festői kilátást nyújt a környező tájra Reginában.",
+                  "category": "natural",
+                  "coords": [
+                        -104.612174,
+                        50.428382
+                  ]
+            },
+            {
+                  "name": "Giật dây xe bus",
+                  "text": "A Giật dây xe bus egy szokatlan látványosság Reginában.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.621038,
+                        50.406611
+                  ]
+            },
+            {
+                  "name": "Francophone pavilion ",
+                  "text": "A Francophone pavilon egy kulturális látványosság, amely a francia-kanadai örökséget mutatja be Reginában.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.602861,
+                        50.417978
+                  ]
+            },
+            {
+                  "name": "Hanbidge Hall",
+                  "text": "A Hanbidge Hall egy színház Reginában.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.598055,
+                        50.42838
+                  ]
+            },
+            {
+                  "name": "Wascana Hill",
+                  "text": "A Wascana Hill kilátópontot biztosít a Wascana területre Reginában.",
+                  "category": "natural",
+                  "coords": [
+                        -104.585687,
+                        50.426789
+                  ]
+            },
+            {
+                  "name": "Regina View SD 4607",
+                  "text": "A Regina View SD 4607 egy emlékmű Reginában.",
+                  "category": "historical",
+                  "coords": [
+                        -104.548715,
+                        50.397045
+                  ]
+            },
+            {
+                  "name": "Gocki Park Spray Pad",
+                  "text": "A Gocki Park Spray Pad egy vízi játszótér Reginában.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.586152,
+                        50.442803
+                  ]
+            },
+            {
+                  "name": "Wascana Lake Waterfall",
+                  "text": "A Wascana Lake Waterfall egy festői vízesés a Wascana-tónál Reginában.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.606433,
+                        50.428956
+                  ]
+            },
+            {
+                  "name": "Willow Island Overlook",
+                  "text": "A Willow Island Overlook egy látványosság, amely kilátást nyújt a Willow Islandre Reginában.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.607717,
+                        50.436649
+                  ]
+            },
+            {
+                  "name": "Legislative Landing",
+                  "text": "A Legislative Landing egy vízparti terület a Saskatchewan Legislative Building közelében Reginában.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.615152,
+                        50.435052
+                  ]
+            },
+            {
+                  "name": "Trafalgar Overlook",
+                  "text": "A Trafalgar Overlook festői kilátópontot kínál Reginában.",
+                  "category": "natural",
+                  "coords": [
+                        -104.608515,
+                        50.432492
+                  ]
+            },
+            {
+                  "name": "Statue of Queen Elizabeth II riding Burmese",
+                  "text": "A II. Erzsébet királynőt Burmesen lovagló szobra egy emlékmű Reginában, amely a királynőt ábrázolja lován.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615147,
+                        50.433665
+                  ]
+            },
+            {
+                  "name": "Saskatchewan War Memorial",
+                  "text": "A Saskatchewan War Memorial egy emlékmű Reginában, amely a tartomány háborús halottainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -104.617453,
+                        50.432968
+                  ]
+            },
+            {
+                  "name": "McKell Wascana Conservation Park",
+                  "text": "A McKell Wascana Conservation Park egy védett természeti terület Reginában a Wascana-tó mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -104.535387,
+                        50.411437
+                  ]
+            },
+            {
+                  "name": "Wascana Lake",
+                  "text": "A Wascana-tó egy népszerű városi tó Reginában, amelyet szabadidős tevékenységekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.598226,
+                        50.429429
+                  ]
+            },
+            {
+                  "name": "Habitat Conservation Area",
+                  "text": "A Habitat Conservation Area egy vadvilág-élőhely-védelmi terület Reginában.",
+                  "category": "natural",
+                  "coords": [
+                        -104.586714,
+                        50.424232
+                  ]
+            },
+            {
+                  "name": "Wascana Centre",
+                  "text": "A Wascana Centre egy nagy park és kulturális negyed Reginában, a Wascana-tó körül.",
+                  "category": "park",
+                  "coords": [
+                        -104.592551,
+                        50.424777
+                  ]
+            },
+            {
+                  "name": "University of Regina",
+                  "text": "A University of Regina egy park terület a Reginai Egyetem campusán Reginában.",
+                  "category": "park",
+                  "coords": [
+                        -104.588455,
+                        50.415777
+                  ]
+            },
+            {
+                  "name": "Regina Saskatchewan Temple",
+                  "text": "A Regina Saskatchewan Temple az Utolsó Napi Szentek Jézus Krisztus Egyháza szent épülete Reginában.",
+                  "category": "religious",
+                  "coords": [
+                        -104.541678,
+                        50.420958
+                  ]
+            },
+            {
+                  "name": "Veterans Memorial",
+                  "text": "A Veterans Memorial egy emlékmű Reginában, amely a katonai veteránoknak tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -104.566159,
+                        50.422184
+                  ]
+            },
+            {
+                  "name": "Creekside Environmental Reserve",
+                  "text": "A Creekside Environmental Reserve egy védett patakparti terület Reginában.",
+                  "category": "natural",
+                  "coords": [
+                        -104.532298,
+                        50.455759
+                  ]
+            },
+            {
+                  "name": "Mahmood Mosque",
+                  "text": "A Mahmood mecset egy muszlim imahely Reginában.",
+                  "category": "religious",
+                  "coords": [
+                        -104.528189,
+                        50.450873
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Science Centre",
+                  "text": "A Saskatchewan Science Centre egy tudományos múzeum Reginában interaktív kiállításokkal és IMAX mozival.",
+                  "category": "museum",
+                  "coords": [
+                        -104.594238,
+                        50.432871
+                  ]
+            },
+            {
+                  "name": "Darke Hall",
+                  "text": "A Darke Hall egy történelmi színház Reginában előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.612277,
+                        50.439895
+                  ]
+            },
+            {
+                  "name": "Royal Saskatchewan Museum",
+                  "text": "A Royal Saskatchewan Museum egy természettudományi múzeum Reginában, amely a tartomány örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -104.616501,
+                        50.439839
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Legislative Building",
+                  "text": "A Saskatchewan Legislative Building a tartományi kormány székhelye Reginában, a Wascana Centre-ben található.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615157,
+                        50.432473
+                  ]
+            },
+            {
+                  "name": "Albert Memorial Bridge",
+                  "text": "Az Albert Memorial Bridge egy emlékhíd Reginában, amely az első világháború katonáinak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.618109,
+                        50.436167
+                  ]
+            },
+            {
+                  "name": "Kiwanis Waterfall",
+                  "text": "A Kiwanis-vízesés egy látványosság a Saskatchewan Legislative Building Landmarks területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.628799,
+                        50.435446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Activate Regina",
+                  "text": "Activate Regina este o atracție interactivă din Regina, cu diverse jocuri și provocări.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.546714,
+                        50.444066
+                  ]
+            },
+            {
+                  "name": "Shumiatcher Theatre",
+                  "text": "Shumiatcher Theatre este un loc de spectacole în Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.61691,
+                        50.425366
+                  ]
+            },
+            {
+                  "name": "Spruce Island Overlook",
+                  "text": "Spruce Island Overlook oferă o vedere pitorească asupra peisajului din jur în Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.612174,
+                        50.428382
+                  ]
+            },
+            {
+                  "name": "Giật dây xe bus",
+                  "text": "Giật dây xe bus este o atracție neobișnuită în Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.621038,
+                        50.406611
+                  ]
+            },
+            {
+                  "name": "Francophone pavilion ",
+                  "text": "Pavilionul francofon este o atracție culturală care prezintă moștenirea franco-canadiană din Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.602861,
+                        50.417978
+                  ]
+            },
+            {
+                  "name": "Hanbidge Hall",
+                  "text": "Hanbidge Hall este un teatru în Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.598055,
+                        50.42838
+                  ]
+            },
+            {
+                  "name": "Wascana Hill",
+                  "text": "Wascana Hill oferă un punct de belvedere asupra zonei Wascana din Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.585687,
+                        50.426789
+                  ]
+            },
+            {
+                  "name": "Regina View SD 4607",
+                  "text": "Regina View SD 4607 este un monument în Regina.",
+                  "category": "historical",
+                  "coords": [
+                        -104.548715,
+                        50.397045
+                  ]
+            },
+            {
+                  "name": "Gocki Park Spray Pad",
+                  "text": "Gocki Park Spray Pad este o zonă de joacă cu apă în Regina.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.586152,
+                        50.442803
+                  ]
+            },
+            {
+                  "name": "Wascana Lake Waterfall",
+                  "text": "Wascana Lake Waterfall este o cascadă pitorească pe lacul Wascana din Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.606433,
+                        50.428956
+                  ]
+            },
+            {
+                  "name": "Willow Island Overlook",
+                  "text": "Willow Island Overlook este o atracție care oferă o vedere asupra insulei Willow din Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.607717,
+                        50.436649
+                  ]
+            },
+            {
+                  "name": "Legislative Landing",
+                  "text": "Legislative Landing este o zonă de mal lângă clădirea legislativă din Saskatchewan din Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.615152,
+                        50.435052
+                  ]
+            },
+            {
+                  "name": "Trafalgar Overlook",
+                  "text": "Trafalgar Overlook oferă un punct de belvedere pitoresc în Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.608515,
+                        50.432492
+                  ]
+            },
+            {
+                  "name": "Statue of Queen Elizabeth II riding Burmese",
+                  "text": "Statuia Reginei Elisabeta a II-a călare pe Burmese este un monument în Regina care o înfățișează pe regină pe calul ei.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615147,
+                        50.433665
+                  ]
+            },
+            {
+                  "name": "Saskatchewan War Memorial",
+                  "text": "Saskatchewan War Memorial este un monument în Regina care onorează morții de război ai provinciei.",
+                  "category": "historical",
+                  "coords": [
+                        -104.617453,
+                        50.432968
+                  ]
+            },
+            {
+                  "name": "McKell Wascana Conservation Park",
+                  "text": "McKell Wascana Conservation Park este o arie naturală protejată în Regina, de-a lungul lacului Wascana.",
+                  "category": "natural",
+                  "coords": [
+                        -104.535387,
+                        50.411437
+                  ]
+            },
+            {
+                  "name": "Wascana Lake",
+                  "text": "Lacul Wascana este un lac urban popular în Regina, folosit pentru recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.598226,
+                        50.429429
+                  ]
+            },
+            {
+                  "name": "Habitat Conservation Area",
+                  "text": "Habitat Conservation Area este o rezervație de habitate pentru fauna sălbatică în Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.586714,
+                        50.424232
+                  ]
+            },
+            {
+                  "name": "Wascana Centre",
+                  "text": "Wascana Centre este un parc mare și un district cultural în Regina, în jurul lacului Wascana.",
+                  "category": "park",
+                  "coords": [
+                        -104.592551,
+                        50.424777
+                  ]
+            },
+            {
+                  "name": "University of Regina",
+                  "text": "University of Regina este o zonă de parc pe campusul Universității din Regina din Regina.",
+                  "category": "park",
+                  "coords": [
+                        -104.588455,
+                        50.415777
+                  ]
+            },
+            {
+                  "name": "Regina Saskatchewan Temple",
+                  "text": "Regina Saskatchewan Temple este o clădire sacră a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.541678,
+                        50.420958
+                  ]
+            },
+            {
+                  "name": "Veterans Memorial",
+                  "text": "Veterans Memorial este un monument în Regina care onorează veteranii militari.",
+                  "category": "historical",
+                  "coords": [
+                        -104.566159,
+                        50.422184
+                  ]
+            },
+            {
+                  "name": "Creekside Environmental Reserve",
+                  "text": "Creekside Environmental Reserve este o rezervație protejată de mal de pârâu în Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.532298,
+                        50.455759
+                  ]
+            },
+            {
+                  "name": "Mahmood Mosque",
+                  "text": "Mahmood Mosque este un loc de cult musulman în Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.528189,
+                        50.450873
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Science Centre",
+                  "text": "Saskatchewan Science Centre este un muzeu de știință în Regina, cu exponate interactive și un cinema IMAX.",
+                  "category": "museum",
+                  "coords": [
+                        -104.594238,
+                        50.432871
+                  ]
+            },
+            {
+                  "name": "Darke Hall",
+                  "text": "Darke Hall este un teatru istoric în Regina, folosit pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.612277,
+                        50.439895
+                  ]
+            },
+            {
+                  "name": "Royal Saskatchewan Museum",
+                  "text": "Royal Saskatchewan Museum este un muzeu de istorie naturală în Regina, care prezintă patrimoniul provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        -104.616501,
+                        50.439839
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Legislative Building",
+                  "text": "Saskatchewan Legislative Building este sediul guvernului provincial din Regina, situat în Wascana Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615157,
+                        50.432473
+                  ]
+            },
+            {
+                  "name": "Albert Memorial Bridge",
+                  "text": "Albert Memorial Bridge este un pod memorial în Regina, dedicat soldaților Primului Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.618109,
+                        50.436167
+                  ]
+            },
+            {
+                  "name": "Kiwanis Waterfall",
+                  "text": "Cascada Kiwanis este o atracție din zona Saskatchewan Legislative Building Landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.628799,
+                        50.435446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Activate Regina",
+                  "text": "Activate Regina is an interactive attraction in Regina featuring a variety of games and challenges.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.546714,
+                        50.444066
+                  ]
+            },
+            {
+                  "name": "Shumiatcher Theatre",
+                  "text": "Shumiatcher Theatre is a performance venue in Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.61691,
+                        50.425366
+                  ]
+            },
+            {
+                  "name": "Spruce Island Overlook",
+                  "text": "Spruce Island Overlook offers a scenic view of the surrounding landscape in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.612174,
+                        50.428382
+                  ]
+            },
+            {
+                  "name": "Giật dây xe bus",
+                  "text": "Giật dây xe bus is an unusual attraction in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.621038,
+                        50.406611
+                  ]
+            },
+            {
+                  "name": "Francophone pavilion ",
+                  "text": "Francophone pavilion is a cultural attraction showcasing French-Canadian heritage in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.602861,
+                        50.417978
+                  ]
+            },
+            {
+                  "name": "Hanbidge Hall",
+                  "text": "Hanbidge Hall is a theatre in Regina.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.598055,
+                        50.42838
+                  ]
+            },
+            {
+                  "name": "Wascana Hill",
+                  "text": "Wascana Hill provides a lookout point over the Wascana area in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.585687,
+                        50.426789
+                  ]
+            },
+            {
+                  "name": "Regina View SD 4607",
+                  "text": "Regina View SD 4607 is a monument in Regina.",
+                  "category": "historical",
+                  "coords": [
+                        -104.548715,
+                        50.397045
+                  ]
+            },
+            {
+                  "name": "Gocki Park Spray Pad",
+                  "text": "Gocki Park Spray Pad is a water play area in Regina.",
+                  "category": "recreational",
+                  "coords": [
+                        -104.586152,
+                        50.442803
+                  ]
+            },
+            {
+                  "name": "Wascana Lake Waterfall",
+                  "text": "Wascana Lake Waterfall is a scenic waterfall feature on Wascana Lake in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.606433,
+                        50.428956
+                  ]
+            },
+            {
+                  "name": "Willow Island Overlook",
+                  "text": "Willow Island Overlook is an attraction offering views of Willow Island in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.607717,
+                        50.436649
+                  ]
+            },
+            {
+                  "name": "Legislative Landing",
+                  "text": "Legislative Landing is a waterfront area near the Saskatchewan Legislative Building in Regina.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.615152,
+                        50.435052
+                  ]
+            },
+            {
+                  "name": "Trafalgar Overlook",
+                  "text": "Trafalgar Overlook provides a scenic viewpoint in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.608515,
+                        50.432492
+                  ]
+            },
+            {
+                  "name": "Statue of Queen Elizabeth II riding Burmese",
+                  "text": "Statue of Queen Elizabeth II riding Burmese is a monument in Regina depicting the queen on her horse.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615147,
+                        50.433665
+                  ]
+            },
+            {
+                  "name": "Saskatchewan War Memorial",
+                  "text": "Saskatchewan War Memorial is a monument in Regina honoring the province's war dead.",
+                  "category": "historical",
+                  "coords": [
+                        -104.617453,
+                        50.432968
+                  ]
+            },
+            {
+                  "name": "McKell Wascana Conservation Park",
+                  "text": "McKell Wascana Conservation Park is a protected natural area in Regina along Wascana Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -104.535387,
+                        50.411437
+                  ]
+            },
+            {
+                  "name": "Wascana Lake",
+                  "text": "Wascana Lake is a popular urban lake in Regina used for recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.598226,
+                        50.429429
+                  ]
+            },
+            {
+                  "name": "Habitat Conservation Area",
+                  "text": "Habitat Conservation Area is a wildlife habitat preserve in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.586714,
+                        50.424232
+                  ]
+            },
+            {
+                  "name": "Wascana Centre",
+                  "text": "Wascana Centre is a large park and cultural district in Regina surrounding Wascana Lake.",
+                  "category": "park",
+                  "coords": [
+                        -104.592551,
+                        50.424777
+                  ]
+            },
+            {
+                  "name": "University of Regina",
+                  "text": "University of Regina is a park area on the campus of the University of Regina in Regina.",
+                  "category": "park",
+                  "coords": [
+                        -104.588455,
+                        50.415777
+                  ]
+            },
+            {
+                  "name": "Regina Saskatchewan Temple",
+                  "text": "Regina Saskatchewan Temple is a sacred building of The Church of Jesus Christ of Latter-day Saints in Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.541678,
+                        50.420958
+                  ]
+            },
+            {
+                  "name": "Veterans Memorial",
+                  "text": "Veterans Memorial is a monument in Regina honoring military veterans.",
+                  "category": "historical",
+                  "coords": [
+                        -104.566159,
+                        50.422184
+                  ]
+            },
+            {
+                  "name": "Creekside Environmental Reserve",
+                  "text": "Creekside Environmental Reserve is a protected riparian area in Regina.",
+                  "category": "natural",
+                  "coords": [
+                        -104.532298,
+                        50.455759
+                  ]
+            },
+            {
+                  "name": "Mahmood Mosque",
+                  "text": "Mahmood Mosque is a Muslim place of worship in Regina.",
+                  "category": "religious",
+                  "coords": [
+                        -104.528189,
+                        50.450873
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Science Centre",
+                  "text": "Saskatchewan Science Centre is a science museum in Regina featuring interactive exhibits and an IMAX theatre.",
+                  "category": "museum",
+                  "coords": [
+                        -104.594238,
+                        50.432871
+                  ]
+            },
+            {
+                  "name": "Darke Hall",
+                  "text": "Darke Hall is a historic theatre in Regina used for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -104.612277,
+                        50.439895
+                  ]
+            },
+            {
+                  "name": "Royal Saskatchewan Museum",
+                  "text": "Royal Saskatchewan Museum is a natural history museum in Regina showcasing the province's heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -104.616501,
+                        50.439839
+                  ]
+            },
+            {
+                  "name": "Saskatchewan Legislative Building",
+                  "text": "Saskatchewan Legislative Building is the seat of the provincial government in Regina, located in Wascana Centre.",
+                  "category": "historical",
+                  "coords": [
+                        -104.615157,
+                        50.432473
+                  ]
+            },
+            {
+                  "name": "Albert Memorial Bridge",
+                  "text": "Albert Memorial Bridge is a memorial bridge in Regina dedicated to the soldiers of World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.618109,
+                        50.436167
+                  ]
+            },
+            {
+                  "name": "Kiwanis Waterfall",
+                  "text": "Kiwanis Waterfall is an attraction in the Saskatchewan Legislative Building Landmarks area.",
+                  "category": "landmark",
+                  "coords": [
+                        -104.628799,
+                        50.435446
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-SK",
     coords: [-104.605, 50.4344],
@@ -934,7 +22840,1384 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "edmonton-funicular-landmarks-v2",
+    id: "edmonton-funicular-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Varscona Theatre",
+                  "text": "Das Varscona Theatre ist ein historisches Theater im Stadtteil Old Strathcona von Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.496433,
+                        53.518782
+                  ]
+            },
+            {
+                  "name": "McDougall United Church",
+                  "text": "Die McDougall United Church ist eine historische Kirche im Stadtzentrum von Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.493169,
+                        53.539754
+                  ]
+            },
+            {
+                  "name": "Tawatinâ Bridge",
+                  "text": "Die Tawatinâ Bridge ist eine Brücke in Edmonton, die die LRT über den North Saskatchewan River führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.477126,
+                        53.540408
+                  ]
+            },
+            {
+                  "name": "Capilano Bridge",
+                  "text": "Die Capilano Bridge ist eine Fußgänger- und Fahrradbrücke im Flusstal von Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.438772,
+                        53.55577
+                  ]
+            },
+            {
+                  "name": "Dudley B. Menzies Bridge",
+                  "text": "Die Dudley B. Menzies Bridge ist eine LRT-Brücke in Edmonton, die den North Saskatchewan River überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.512749,
+                        53.529777
+                  ]
+            },
+            {
+                  "name": "Walterdale Bridge",
+                  "text": "Die Walterdale Bridge ist eine Brücke in Edmonton, die den North Saskatchewan River überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.501614,
+                        53.528365
+                  ]
+            },
+            {
+                  "name": "High Level Bridge",
+                  "text": "Die High Level Bridge ist eine Stahlfachwerkbrücke in Edmonton für Straßenverkehr und LRT.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.511402,
+                        53.529504
+                  ]
+            },
+            {
+                  "name": "James MacDonald Bridge",
+                  "text": "Die James MacDonald Bridge ist eine Fahrzeugbrücke in Edmonton über den North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.488424,
+                        53.535727
+                  ]
+            },
+            {
+                  "name": "Low Level Bridge",
+                  "text": "Die Low Level Bridge ist eine historische Brücke in Edmonton, eine der frühen Brücken über den North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.48671,
+                        53.537927
+                  ]
+            },
+            {
+                  "name": "Clover Bar Bridge",
+                  "text": "Die Clover Bar Bridge ist eine Brücke in Edmonton über den North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.372044,
+                        53.572092
+                  ]
+            },
+            {
+                  "name": "Beverly Bridge",
+                  "text": "Die Beverly Bridge ist eine Eisenbahnbrücke in Edmonton über den North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.373222,
+                        53.57097
+                  ]
+            },
+            {
+                  "name": "Dawson Bridge",
+                  "text": "Die Dawson Bridge ist eine Fahrzeugbrücke in Edmonton über den North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.467201,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Mill Woods Sport Park",
+                  "text": "Mill Woods Sport Park ist ein Park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.440211,
+                        53.455608
+                  ]
+            },
+            {
+                  "name": "Muttart Conservatory",
+                  "text": "Das Muttart Conservatory ist ein botanischer Garten in Edmonton, bekannt für seine drei pyramidenförmigen Gewächshäuser.",
+                  "category": "park",
+                  "coords": [
+                        -113.478315,
+                        53.535432
+                  ]
+            },
+            {
+                  "name": "Louise McKinney Riverfront Park",
+                  "text": "Louise McKinney Riverfront Park ist ein Flusspark entlang des North Saskatchewan River in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.481036,
+                        53.541197
+                  ]
+            },
+            {
+                  "name": "Strathcona Science Provincial Park",
+                  "text": "Strathcona Science Provincial Park ist ein Provinzpark in Edmonton mit Schwerpunkt auf naturwissenschaftlicher Bildung.",
+                  "category": "park",
+                  "coords": [
+                        -113.374468,
+                        53.559574
+                  ]
+            },
+            {
+                  "name": "Gold Bar Park",
+                  "text": "Gold Bar Park ist ein Park entlang des North Saskatchewan River in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.407865,
+                        53.556465
+                  ]
+            },
+            {
+                  "name": "Forest Heights Park",
+                  "text": "Forest Heights Park ist ein Park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.460329,
+                        53.54581
+                  ]
+            },
+            {
+                  "name": "Gallagher Park",
+                  "text": "Gallagher Park ist ein Park in Edmonton, der das Edmonton Folk Music Festival beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        -113.475637,
+                        53.53473
+                  ]
+            },
+            {
+                  "name": "Clover Bar Railway Bridge",
+                  "text": "Clover Bar Railway Bridge ist eine Eisenbahnbrücke über den North Saskatchewan River in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.371059,
+                        53.573099
+                  ]
+            },
+            {
+                  "name": "Knox Evangelical Free Church",
+                  "text": "Knox Evangelical Free Church ist ein Gotteshaus in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.496945,
+                        53.520239
+                  ]
+            },
+            {
+                  "name": "Mile Zero Dance",
+                  "text": "Mile Zero Dance ist ein Kunstzentrum in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487474,
+                        53.513971
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Parish",
+                  "text": "Our Lady Queen of Poland Parish ist eine polnisch-katholische Pfarrei in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.486646,
+                        53.519363
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican Church",
+                  "text": "Holy Trinity Anglican Church ist eine geschützte anglikanische Kirche in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.490618,
+                        53.519773
+                  ]
+            },
+            {
+                  "name": "Capilano Foot Bridge",
+                  "text": "Capilano Foot Bridge ist eine Fußgängerbrücke in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.419309,
+                        53.563175
+                  ]
+            },
+            {
+                  "name": "Kinsmen Park",
+                  "text": "Kinsmen Park ist ein Park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.511639,
+                        53.527316
+                  ]
+            },
+            {
+                  "name": "Modern World Artworks LTD",
+                  "text": "Modern World Artworks LTD ist eine Kunstgalerie in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470753,
+                        53.488381
+                  ]
+            },
+            {
+                  "name": "Calgary and Edmonton Railway Museum",
+                  "text": "Calgary and Edmonton Railway Museum ist ein Eisenbahnmuseum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.500162,
+                        53.521661
+                  ]
+            },
+            {
+                  "name": "Lowlands Project Space",
+                  "text": "Lowlands Project Space ist eine Galerie in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.438458,
+                        53.565046
+                  ]
+            },
+            {
+                  "name": "Edmonton Radial Railway Society",
+                  "text": "Edmonton Radial Railway Society ist ein Museum über die Straßenbahn in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.495979,
+                        53.520151
+                  ]
+            },
+            {
+                  "name": "John Walter Museum",
+                  "text": "John Walter Museum ist ein Museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.504904,
+                        53.527842
+                  ]
+            },
+            {
+                  "name": "Bennett Centre",
+                  "text": "Bennett Centre ist ein Museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470981,
+                        53.536716
+                  ]
+            },
+            {
+                  "name": "Kwakiutl Totem Pole",
+                  "text": "Kwakiutl Totem Pole ist ein Totempfahl-Denkmal in Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.507149,
+                        53.532256
+                  ]
+            },
+            {
+                  "name": "Police and Peace Officer Memorial",
+                  "text": "Police and Peace Officer Memorial ist eine Gedenkstätte in Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.504553,
+                        53.532465
+                  ]
+            },
+            {
+                  "name": "Firefly Theatre & Circus",
+                  "text": "Firefly Theatre & Circus ist ein Theater in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.452302,
+                        53.488695
+                  ]
+            },
+            {
+                  "name": "Union Hall",
+                  "text": "Union Hall ist ein Theater in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487575,
+                        53.49875
+                  ]
+            },
+            {
+                  "name": "Rapid Fire Theatre",
+                  "text": "Rapid Fire Theatre ist ein Theater in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.49908,
+                        53.518802
+                  ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "The Playhouse ist ein Theater in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.490197,
+                        53.515911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Varscona Theatre",
+                  "text": "A Varscona Theatre egy történelmi színház Edmonton Old Strathcona negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.496433,
+                        53.518782
+                  ]
+            },
+            {
+                  "name": "McDougall United Church",
+                  "text": "A McDougall United Church egy történelmi templom Edmonton belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        -113.493169,
+                        53.539754
+                  ]
+            },
+            {
+                  "name": "Tawatinâ Bridge",
+                  "text": "A Tawatinâ híd egy híd Edmontonban, amely az LRT-t szállítja a North Saskatchewan folyón át.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.477126,
+                        53.540408
+                  ]
+            },
+            {
+                  "name": "Capilano Bridge",
+                  "text": "A Capilano híd egy gyalogos- és kerékpáros híd Edmonton folyóvölgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.438772,
+                        53.55577
+                  ]
+            },
+            {
+                  "name": "Dudley B. Menzies Bridge",
+                  "text": "A Dudley B. Menzies híd egy LRT híd Edmontonban, amely a North Saskatchewan folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.512749,
+                        53.529777
+                  ]
+            },
+            {
+                  "name": "Walterdale Bridge",
+                  "text": "A Walterdale híd egy híd Edmontonban, amely a North Saskatchewan folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.501614,
+                        53.528365
+                  ]
+            },
+            {
+                  "name": "High Level Bridge",
+                  "text": "A High Level Bridge egy acél rácsos híd Edmontonban, közúti forgalommal és LRT-vel.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.511402,
+                        53.529504
+                  ]
+            },
+            {
+                  "name": "James MacDonald Bridge",
+                  "text": "A James MacDonald híd egy járműhíd Edmontonban a North Saskatchewan folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.488424,
+                        53.535727
+                  ]
+            },
+            {
+                  "name": "Low Level Bridge",
+                  "text": "A Low Level Bridge egy történelmi híd Edmontonban, az egyik korai híd a North Saskatchewan folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.48671,
+                        53.537927
+                  ]
+            },
+            {
+                  "name": "Clover Bar Bridge",
+                  "text": "A Clover Bar híd egy híd Edmontonban a North Saskatchewan folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.372044,
+                        53.572092
+                  ]
+            },
+            {
+                  "name": "Beverly Bridge",
+                  "text": "A Beverly híd egy vasúti híd Edmontonban a North Saskatchewan folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.373222,
+                        53.57097
+                  ]
+            },
+            {
+                  "name": "Dawson Bridge",
+                  "text": "A Dawson híd egy járműhíd Edmontonban a North Saskatchewan folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.467201,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Mill Woods Sport Park",
+                  "text": "A Mill Woods Sport Park egy park Edmontonban.",
+                  "category": "park",
+                  "coords": [
+                        -113.440211,
+                        53.455608
+                  ]
+            },
+            {
+                  "name": "Muttart Conservatory",
+                  "text": "A Muttart Conservatory egy botanikus kert Edmontonban, amely három piramis alakú üvegházáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -113.478315,
+                        53.535432
+                  ]
+            },
+            {
+                  "name": "Louise McKinney Riverfront Park",
+                  "text": "A Louise McKinney Riverfront Park egy folyóparti park Edmontonban, a North Saskatchewan folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        -113.481036,
+                        53.541197
+                  ]
+            },
+            {
+                  "name": "Strathcona Science Provincial Park",
+                  "text": "A Strathcona Science Provincial Park egy tartományi park Edmontonban, amely a természettudományos oktatásra összpontosít.",
+                  "category": "park",
+                  "coords": [
+                        -113.374468,
+                        53.559574
+                  ]
+            },
+            {
+                  "name": "Gold Bar Park",
+                  "text": "A Gold Bar Park egy park Edmontonban, a North Saskatchewan folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        -113.407865,
+                        53.556465
+                  ]
+            },
+            {
+                  "name": "Forest Heights Park",
+                  "text": "A Forest Heights Park egy park Edmontonban.",
+                  "category": "park",
+                  "coords": [
+                        -113.460329,
+                        53.54581
+                  ]
+            },
+            {
+                  "name": "Gallagher Park",
+                  "text": "A Gallagher Park egy park Edmontonban, amely az Edmonton Folk Music Festivalnak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        -113.475637,
+                        53.53473
+                  ]
+            },
+            {
+                  "name": "Clover Bar Railway Bridge",
+                  "text": "A Clover Bar Railway Bridge egy vasúti híd a North Saskatchewan folyó felett Edmontonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.371059,
+                        53.573099
+                  ]
+            },
+            {
+                  "name": "Knox Evangelical Free Church",
+                  "text": "A Knox Evangelical Free Church egy istentiszteleti hely Edmontonban.",
+                  "category": "religious",
+                  "coords": [
+                        -113.496945,
+                        53.520239
+                  ]
+            },
+            {
+                  "name": "Mile Zero Dance",
+                  "text": "A Mile Zero Dance egy művészeti központ Edmontonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487474,
+                        53.513971
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Parish",
+                  "text": "A Our Lady Queen of Poland Parish egy lengyel katolikus plébánia Edmontonban.",
+                  "category": "religious",
+                  "coords": [
+                        -113.486646,
+                        53.519363
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican Church",
+                  "text": "A Holy Trinity Anglican Church egy védett anglikán templom Edmontonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.490618,
+                        53.519773
+                  ]
+            },
+            {
+                  "name": "Capilano Foot Bridge",
+                  "text": "A Capilano Foot Bridge egy gyalogos híd Edmontonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.419309,
+                        53.563175
+                  ]
+            },
+            {
+                  "name": "Kinsmen Park",
+                  "text": "A Kinsmen Park egy park Edmontonban.",
+                  "category": "park",
+                  "coords": [
+                        -113.511639,
+                        53.527316
+                  ]
+            },
+            {
+                  "name": "Modern World Artworks LTD",
+                  "text": "A Modern World Artworks LTD egy művészeti galéria Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470753,
+                        53.488381
+                  ]
+            },
+            {
+                  "name": "Calgary and Edmonton Railway Museum",
+                  "text": "A Calgary and Edmonton Railway Museum egy vasúti múzeum Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.500162,
+                        53.521661
+                  ]
+            },
+            {
+                  "name": "Lowlands Project Space",
+                  "text": "A Lowlands Project Space egy galéria Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.438458,
+                        53.565046
+                  ]
+            },
+            {
+                  "name": "Edmonton Radial Railway Society",
+                  "text": "Az Edmonton Radial Railway Society egy múzeum az edmontoni villamosvonalról.",
+                  "category": "museum",
+                  "coords": [
+                        -113.495979,
+                        53.520151
+                  ]
+            },
+            {
+                  "name": "John Walter Museum",
+                  "text": "A John Walter Museum egy múzeum Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.504904,
+                        53.527842
+                  ]
+            },
+            {
+                  "name": "Bennett Centre",
+                  "text": "A Bennett Centre egy múzeum Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470981,
+                        53.536716
+                  ]
+            },
+            {
+                  "name": "Kwakiutl Totem Pole",
+                  "text": "A Kwakiutl Totem Pole egy totemoszlop emlékmű Edmontonban.",
+                  "category": "historical",
+                  "coords": [
+                        -113.507149,
+                        53.532256
+                  ]
+            },
+            {
+                  "name": "Police and Peace Officer Memorial",
+                  "text": "A Police and Peace Officer Memorial egy emlékhely Edmontonban.",
+                  "category": "historical",
+                  "coords": [
+                        -113.504553,
+                        53.532465
+                  ]
+            },
+            {
+                  "name": "Firefly Theatre & Circus",
+                  "text": "A Firefly Theatre & Circus egy színház Edmontonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.452302,
+                        53.488695
+                  ]
+            },
+            {
+                  "name": "Union Hall",
+                  "text": "A Union Hall egy színház Edmontonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487575,
+                        53.49875
+                  ]
+            },
+            {
+                  "name": "Rapid Fire Theatre",
+                  "text": "A Rapid Fire Theatre egy színház Edmontonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.49908,
+                        53.518802
+                  ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "A The Playhouse egy színház Edmontonban.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.490197,
+                        53.515911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Varscona Theatre",
+                  "text": "Teatrul Varscona este un teatru istoric în cartierul Old Strathcona din Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.496433,
+                        53.518782
+                  ]
+            },
+            {
+                  "name": "McDougall United Church",
+                  "text": "Biserica McDougall United este o biserică istorică situată în centrul Edmontonului.",
+                  "category": "religious",
+                  "coords": [
+                        -113.493169,
+                        53.539754
+                  ]
+            },
+            {
+                  "name": "Tawatinâ Bridge",
+                  "text": "Podul Tawatinâ este un pod din Edmonton care transportă LRT peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.477126,
+                        53.540408
+                  ]
+            },
+            {
+                  "name": "Capilano Bridge",
+                  "text": "Podul Capilano este un pod pentru pietoni și biciclete în valea râului din Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.438772,
+                        53.55577
+                  ]
+            },
+            {
+                  "name": "Dudley B. Menzies Bridge",
+                  "text": "Podul Dudley B. Menzies este un pod LRT în Edmonton, care traversează râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.512749,
+                        53.529777
+                  ]
+            },
+            {
+                  "name": "Walterdale Bridge",
+                  "text": "Podul Walterdale este un pod în Edmonton care traversează râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.501614,
+                        53.528365
+                  ]
+            },
+            {
+                  "name": "High Level Bridge",
+                  "text": "Podul High Level este un pod din oțel în Edmonton care transportă trafic rutier și LRT.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.511402,
+                        53.529504
+                  ]
+            },
+            {
+                  "name": "James MacDonald Bridge",
+                  "text": "Podul James MacDonald este un pod pentru vehicule în Edmonton peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.488424,
+                        53.535727
+                  ]
+            },
+            {
+                  "name": "Low Level Bridge",
+                  "text": "Podul Low Level este un pod istoric în Edmonton, unul dintre primele poduri peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.48671,
+                        53.537927
+                  ]
+            },
+            {
+                  "name": "Clover Bar Bridge",
+                  "text": "Podul Clover Bar este un pod în Edmonton peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.372044,
+                        53.572092
+                  ]
+            },
+            {
+                  "name": "Beverly Bridge",
+                  "text": "Podul Beverly este un pod feroviar în Edmonton peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.373222,
+                        53.57097
+                  ]
+            },
+            {
+                  "name": "Dawson Bridge",
+                  "text": "Podul Dawson este un pod pentru vehicule în Edmonton peste râul North Saskatchewan.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.467201,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Mill Woods Sport Park",
+                  "text": "Mill Woods Sport Park este un parc în Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.440211,
+                        53.455608
+                  ]
+            },
+            {
+                  "name": "Muttart Conservatory",
+                  "text": "Muttart Conservatory este o grădină botanică în Edmonton, cunoscută pentru cele trei sere piramidale.",
+                  "category": "park",
+                  "coords": [
+                        -113.478315,
+                        53.535432
+                  ]
+            },
+            {
+                  "name": "Louise McKinney Riverfront Park",
+                  "text": "Louise McKinney Riverfront Park este un parc de pe malul râului North Saskatchewan din Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.481036,
+                        53.541197
+                  ]
+            },
+            {
+                  "name": "Strathcona Science Provincial Park",
+                  "text": "Strathcona Science Provincial Park este un parc provincial în Edmonton, cu accent pe educația științifică.",
+                  "category": "park",
+                  "coords": [
+                        -113.374468,
+                        53.559574
+                  ]
+            },
+            {
+                  "name": "Gold Bar Park",
+                  "text": "Gold Bar Park este un parc de-a lungul râului North Saskatchewan din Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.407865,
+                        53.556465
+                  ]
+            },
+            {
+                  "name": "Forest Heights Park",
+                  "text": "Forest Heights Park este un parc în Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.460329,
+                        53.54581
+                  ]
+            },
+            {
+                  "name": "Gallagher Park",
+                  "text": "Gallagher Park este un parc în Edmonton care găzduiește Festivalul de Muzică Folk Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.475637,
+                        53.53473
+                  ]
+            },
+            {
+                  "name": "Clover Bar Railway Bridge",
+                  "text": "Clover Bar Railway Bridge este un pod feroviar peste râul North Saskatchewan din Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.371059,
+                        53.573099
+                  ]
+            },
+            {
+                  "name": "Knox Evangelical Free Church",
+                  "text": "Knox Evangelical Free Church este un loc de cult în Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.496945,
+                        53.520239
+                  ]
+            },
+            {
+                  "name": "Mile Zero Dance",
+                  "text": "Mile Zero Dance este un centru de arte în Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487474,
+                        53.513971
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Parish",
+                  "text": "Our Lady Queen of Poland Parish este o parohie catolică poloneză în Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.486646,
+                        53.519363
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican Church",
+                  "text": "Holy Trinity Anglican Church este o biserică anglicană protejată în Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.490618,
+                        53.519773
+                  ]
+            },
+            {
+                  "name": "Capilano Foot Bridge",
+                  "text": "Capilano Foot Bridge este un pod pentru pietoni în Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.419309,
+                        53.563175
+                  ]
+            },
+            {
+                  "name": "Kinsmen Park",
+                  "text": "Kinsmen Park este un parc în Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.511639,
+                        53.527316
+                  ]
+            },
+            {
+                  "name": "Modern World Artworks LTD",
+                  "text": "Modern World Artworks LTD este o galerie de artă în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470753,
+                        53.488381
+                  ]
+            },
+            {
+                  "name": "Calgary and Edmonton Railway Museum",
+                  "text": "Calgary and Edmonton Railway Museum este un muzeu feroviar în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.500162,
+                        53.521661
+                  ]
+            },
+            {
+                  "name": "Lowlands Project Space",
+                  "text": "Lowlands Project Space este o galerie în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.438458,
+                        53.565046
+                  ]
+            },
+            {
+                  "name": "Edmonton Radial Railway Society",
+                  "text": "Edmonton Radial Railway Society este un muzeu despre tramvaiul din Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.495979,
+                        53.520151
+                  ]
+            },
+            {
+                  "name": "John Walter Museum",
+                  "text": "John Walter Museum este un muzeu în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.504904,
+                        53.527842
+                  ]
+            },
+            {
+                  "name": "Bennett Centre",
+                  "text": "Bennett Centre este un muzeu în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470981,
+                        53.536716
+                  ]
+            },
+            {
+                  "name": "Kwakiutl Totem Pole",
+                  "text": "Kwakiutl Totem Pole este un monument de stâlp totemic în Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.507149,
+                        53.532256
+                  ]
+            },
+            {
+                  "name": "Police and Peace Officer Memorial",
+                  "text": "Police and Peace Officer Memorial este un memorial în Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.504553,
+                        53.532465
+                  ]
+            },
+            {
+                  "name": "Firefly Theatre & Circus",
+                  "text": "Firefly Theatre & Circus este un teatru în Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.452302,
+                        53.488695
+                  ]
+            },
+            {
+                  "name": "Union Hall",
+                  "text": "Union Hall este un teatru în Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487575,
+                        53.49875
+                  ]
+            },
+            {
+                  "name": "Rapid Fire Theatre",
+                  "text": "Rapid Fire Theatre este un teatru în Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.49908,
+                        53.518802
+                  ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "The Playhouse este un teatru în Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.490197,
+                        53.515911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Varscona Theatre",
+                  "text": "Varscona Theatre is a historic theatre in Edmonton's Old Strathcona neighbourhood.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.496433,
+                        53.518782
+                  ]
+            },
+            {
+                  "name": "McDougall United Church",
+                  "text": "McDougall United Church is a historic church located in downtown Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.493169,
+                        53.539754
+                  ]
+            },
+            {
+                  "name": "Tawatinâ Bridge",
+                  "text": "Tawatinâ Bridge is a bridge in Edmonton that carries the LRT across the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.477126,
+                        53.540408
+                  ]
+            },
+            {
+                  "name": "Capilano Bridge",
+                  "text": "Capilano Bridge is a pedestrian and bicycle bridge in Edmonton's river valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.438772,
+                        53.55577
+                  ]
+            },
+            {
+                  "name": "Dudley B. Menzies Bridge",
+                  "text": "Dudley B. Menzies Bridge is an LRT bridge in Edmonton, spanning the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.512749,
+                        53.529777
+                  ]
+            },
+            {
+                  "name": "Walterdale Bridge",
+                  "text": "Walterdale Bridge is a bridge in Edmonton crossing the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.501614,
+                        53.528365
+                  ]
+            },
+            {
+                  "name": "High Level Bridge",
+                  "text": "High Level Bridge is a steel truss bridge in Edmonton carrying road traffic and LRT.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.511402,
+                        53.529504
+                  ]
+            },
+            {
+                  "name": "James MacDonald Bridge",
+                  "text": "James MacDonald Bridge is a vehicular bridge in Edmonton over the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.488424,
+                        53.535727
+                  ]
+            },
+            {
+                  "name": "Low Level Bridge",
+                  "text": "Low Level Bridge is a historic bridge in Edmonton, one of the early bridges across the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.48671,
+                        53.537927
+                  ]
+            },
+            {
+                  "name": "Clover Bar Bridge",
+                  "text": "Clover Bar Bridge is a bridge in Edmonton crossing the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.372044,
+                        53.572092
+                  ]
+            },
+            {
+                  "name": "Beverly Bridge",
+                  "text": "Beverly Bridge is a railway bridge in Edmonton spanning the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.373222,
+                        53.57097
+                  ]
+            },
+            {
+                  "name": "Dawson Bridge",
+                  "text": "Dawson Bridge is a vehicular bridge in Edmonton crossing the North Saskatchewan River.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.467201,
+                        53.548735
+                  ]
+            },
+            {
+                  "name": "Mill Woods Sport Park",
+                  "text": "Mill Woods Sport Park is a park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.440211,
+                        53.455608
+                  ]
+            },
+            {
+                  "name": "Muttart Conservatory",
+                  "text": "The Muttart Conservatory is a botanical garden in Edmonton known for its three pyramidal glasshouses.",
+                  "category": "park",
+                  "coords": [
+                        -113.478315,
+                        53.535432
+                  ]
+            },
+            {
+                  "name": "Louise McKinney Riverfront Park",
+                  "text": "Louise McKinney Riverfront Park is a riverside park along the North Saskatchewan River in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.481036,
+                        53.541197
+                  ]
+            },
+            {
+                  "name": "Strathcona Science Provincial Park",
+                  "text": "Strathcona Science Provincial Park is a provincial park in Edmonton with a focus on science education.",
+                  "category": "park",
+                  "coords": [
+                        -113.374468,
+                        53.559574
+                  ]
+            },
+            {
+                  "name": "Gold Bar Park",
+                  "text": "Gold Bar Park is a park along the North Saskatchewan River in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.407865,
+                        53.556465
+                  ]
+            },
+            {
+                  "name": "Forest Heights Park",
+                  "text": "Forest Heights Park is a park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.460329,
+                        53.54581
+                  ]
+            },
+            {
+                  "name": "Gallagher Park",
+                  "text": "Gallagher Park is a park in Edmonton that hosts the Edmonton Folk Music Festival.",
+                  "category": "park",
+                  "coords": [
+                        -113.475637,
+                        53.53473
+                  ]
+            },
+            {
+                  "name": "Clover Bar Railway Bridge",
+                  "text": "Clover Bar Railway Bridge is a railway bridge over the North Saskatchewan River in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.371059,
+                        53.573099
+                  ]
+            },
+            {
+                  "name": "Knox Evangelical Free Church",
+                  "text": "Knox Evangelical Free Church is a place of worship in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.496945,
+                        53.520239
+                  ]
+            },
+            {
+                  "name": "Mile Zero Dance",
+                  "text": "Mile Zero Dance is an arts centre in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487474,
+                        53.513971
+                  ]
+            },
+            {
+                  "name": "Our Lady Queen of Poland Parish",
+                  "text": "Our Lady Queen of Poland Parish is a Polish Catholic parish in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.486646,
+                        53.519363
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Anglican Church",
+                  "text": "Holy Trinity Anglican Church is a protected Anglican church in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.490618,
+                        53.519773
+                  ]
+            },
+            {
+                  "name": "Capilano Foot Bridge",
+                  "text": "Capilano Foot Bridge is a footbridge in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.419309,
+                        53.563175
+                  ]
+            },
+            {
+                  "name": "Kinsmen Park",
+                  "text": "Kinsmen Park is a park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.511639,
+                        53.527316
+                  ]
+            },
+            {
+                  "name": "Modern World Artworks LTD",
+                  "text": "Modern World Artworks LTD is an art gallery in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470753,
+                        53.488381
+                  ]
+            },
+            {
+                  "name": "Calgary and Edmonton Railway Museum",
+                  "text": "Calgary and Edmonton Railway Museum is a railway museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.500162,
+                        53.521661
+                  ]
+            },
+            {
+                  "name": "Lowlands Project Space",
+                  "text": "Lowlands Project Space is a gallery in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.438458,
+                        53.565046
+                  ]
+            },
+            {
+                  "name": "Edmonton Radial Railway Society",
+                  "text": "Edmonton Radial Railway Society is a museum about the Edmonton radial railway.",
+                  "category": "museum",
+                  "coords": [
+                        -113.495979,
+                        53.520151
+                  ]
+            },
+            {
+                  "name": "John Walter Museum",
+                  "text": "John Walter Museum is a museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.504904,
+                        53.527842
+                  ]
+            },
+            {
+                  "name": "Bennett Centre",
+                  "text": "Bennett Centre is a museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.470981,
+                        53.536716
+                  ]
+            },
+            {
+                  "name": "Kwakiutl Totem Pole",
+                  "text": "Kwakiutl Totem Pole is a totem pole monument in Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.507149,
+                        53.532256
+                  ]
+            },
+            {
+                  "name": "Police and Peace Officer Memorial",
+                  "text": "Police and Peace Officer Memorial is a memorial in Edmonton.",
+                  "category": "historical",
+                  "coords": [
+                        -113.504553,
+                        53.532465
+                  ]
+            },
+            {
+                  "name": "Firefly Theatre & Circus",
+                  "text": "Firefly Theatre & Circus is a theatre in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.452302,
+                        53.488695
+                  ]
+            },
+            {
+                  "name": "Union Hall",
+                  "text": "Union Hall is a theatre in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.487575,
+                        53.49875
+                  ]
+            },
+            {
+                  "name": "Rapid Fire Theatre",
+                  "text": "Rapid Fire Theatre is a theatre in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.49908,
+                        53.518802
+                  ]
+            },
+            {
+                  "name": "The Playhouse",
+                  "text": "The Playhouse is a theatre in Edmonton.",
+                  "category": "cultural",
+                  "coords": [
+                        -113.490197,
+                        53.515911
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-AB",
     coords: [-113.486, 53.541],
@@ -970,7 +24253,1276 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "prince-edward-viaduct-toronto-landmarks-v2",
+    id: "prince-edward-viaduct-toronto-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Metropolitan Community Church of Toronto",
+                  "text": "Metropolitan Community Church of Toronto ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2, bekannt für seine LGBTQ+-inklusive Seelsorge.",
+                  "category": "religious",
+                  "coords": [
+                        -79.347725,
+                        43.667095
+                  ]
+            },
+            {
+                  "name": "Rosedale United Church",
+                  "text": "Rosedale United Church ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2, eine historische Kirche im Viertel Rosedale.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372276,
+                        43.68413
+                  ]
+            },
+            {
+                  "name": "The Danforth Music Hall",
+                  "text": "The Danforth Music Hall ist ein Theater in prince-edward-viaduct-toronto-landmarks-v2, ein historischer Veranstaltungsort an der Danforth Avenue.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.357023,
+                        43.676252
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Name",
+                  "text": "Church of the Holy Name ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2, eine katholische Kirche, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -79.345946,
+                        43.679131
+                  ]
+            },
+            {
+                  "name": "Beach Hebrew Institute",
+                  "text": "Beach Hebrew Institute ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2, eine historische Synagoge im Beach-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        -79.301478,
+                        43.669336
+                  ]
+            },
+            {
+                  "name": "Prince Edward Viaduct",
+                  "text": "Prince Edward Viaduct ist eine Brücke in prince-edward-viaduct-toronto-landmarks-v2, eine bedeutende Überführung über das Don Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.370007,
+                        43.672517
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Governor's Bridge ist eine Brücke in prince-edward-viaduct-toronto-landmarks-v2, eine kleine Brücke über den Don River.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.36899,
+                        43.689965
+                  ]
+            },
+            {
+                  "name": "Todmorden Mills",
+                  "text": "Todmorden Mills ist eine Attraktion in prince-edward-viaduct-toronto-landmarks-v2, eine historische Industriestätte mit erhaltenen Gebäuden.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.359863,
+                        43.685744
+                  ]
+            },
+            {
+                  "name": "Rosedale Park",
+                  "text": "Rosedale Park ist ein Park in prince-edward-viaduct-toronto-landmarks-v2, bekannt für seinen Baseball-Platz und Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        -79.378908,
+                        43.682774
+                  ]
+            },
+            {
+                  "name": "Withrow Park",
+                  "text": "Withrow Park ist ein Park in prince-edward-viaduct-toronto-landmarks-v2, ein beliebter Park mit einem Spielplatz und einem Bauernmarkt.",
+                  "category": "park",
+                  "coords": [
+                        -79.346942,
+                        43.674443
+                  ]
+            },
+            {
+                  "name": "Kempton Howard Park",
+                  "text": "Kempton Howard Park ist ein Park in prince-edward-viaduct-toronto-landmarks-v2, benannt nach einem Gemeinschaftsaktivisten.",
+                  "category": "park",
+                  "coords": [
+                        -79.340313,
+                        43.675854
+                  ]
+            },
+            {
+                  "name": "Riverdale Farm",
+                  "text": "Riverdale Farm ist ein Zoo in prince-edward-viaduct-toronto-landmarks-v2, ein historischer Bauernhof mit Haustieren und Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.360863,
+                        43.666917
+                  ]
+            },
+            {
+                  "name": "Riverdale Park East",
+                  "text": "Riverdale Park East ist ein Park in prince-edward-viaduct-toronto-landmarks-v2, der Panoramablicke auf die Skyline von Toronto bietet.",
+                  "category": "park",
+                  "coords": [
+                        -79.355736,
+                        43.670047
+                  ]
+            },
+            {
+                  "name": "Chapel of St. James-the-Less",
+                  "text": "Chapel of St. James-the-Less ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.369028,
+                        43.669586
+                  ]
+            },
+            {
+                  "name": "Trinity Evangelican Lutheran Church",
+                  "text": "Trinity Evangelican Lutheran Church ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376139,
+                        43.671818
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church",
+                  "text": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.327933,
+                        43.685437
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Roman Catholic Church",
+                  "text": "Corpus Christi Roman Catholic Church ist ein Gotteshaus in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.309678,
+                        43.668295
+                  ]
+            },
+            {
+                  "name": "Kew Gardens",
+                  "text": "Kew Gardens ist ein Park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.298316,
+                        43.66813
+                  ]
+            },
+            {
+                  "name": "Maple Leaf Forever Park",
+                  "text": "Maple Leaf Forever Park ist ein Park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.327859,
+                        43.663032
+                  ]
+            },
+            {
+                  "name": "Woodbine Park",
+                  "text": "Woodbine Park ist ein Park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.312751,
+                        43.664441
+                  ]
+            },
+            {
+                  "name": "Kew Beach",
+                  "text": "Kew Beach ist ein Strand in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.29775,
+                        43.665921
+                  ]
+            },
+            {
+                  "name": "Dianna Witte Gallery",
+                  "text": "Dianna Witte Gallery ist eine Galerie in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.343154,
+                        43.664237
+                  ]
+            },
+            {
+                  "name": "Old Don Jail",
+                  "text": "Old Don Jail ist ein Museum in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.354216,
+                        43.665933
+                  ]
+            },
+            {
+                  "name": "Holcim Gallery",
+                  "text": "Holcim Gallery ist eine Galerie in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.364188,
+                        43.684182
+                  ]
+            },
+            {
+                  "name": "Robert Mede Gallery",
+                  "text": "Robert Mede Gallery ist eine Galerie in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.314096,
+                        43.672882
+                  ]
+            },
+            {
+                  "name": "Melba Studios",
+                  "text": "Melba Studios ist eine Galerie in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.318236,
+                        43.666073
+                  ]
+            },
+            {
+                  "name": "Leslie Grove Gallery",
+                  "text": "Leslie Grove Gallery ist eine Galerie in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.333668,
+                        43.662676
+                  ]
+            },
+            {
+                  "name": "Millennium Sun Clock",
+                  "text": "Millennium Sun Clock ist ein Denkmal in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -79.315515,
+                        43.665396
+                  ]
+            },
+            {
+                  "name": "Crow's Theater",
+                  "text": "Das Crow's Theater ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.341431,
+                        43.665197
+                  ]
+            },
+            {
+                  "name": "Hugh's Room",
+                  "text": "Hugh's Room ist ein Theater und Musiklokal in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.352165,
+                        43.663872
+                  ]
+            },
+            {
+                  "name": "The Danforth Art Studio",
+                  "text": "Das Danforth Art Studio ist ein Kunstzentrum in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.354735,
+                        43.677156
+                  ]
+            },
+            {
+                  "name": "4CATS Art Studio",
+                  "text": "Das 4CATS Art Studio ist ein Kunststudio in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.37338,
+                        43.700516
+                  ]
+            },
+            {
+                  "name": "The Redwood",
+                  "text": "Das Redwood ist ein Theater in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.32721,
+                        43.67129
+                  ]
+            },
+            {
+                  "name": "Tchotchke House (Crazy Doll House)",
+                  "text": "Das Tchotchke House (Crazy Doll House) ist eine Attraktion mit einer Sammlung von Puppen und Kuriositäten in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.335147,
+                        43.663376
+                  ]
+            },
+            {
+                  "name": "Don Valley Brick Works",
+                  "text": "Die Don Valley Brick Works ist eine ehemalige Ziegelei und heute ein Park in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.365444,
+                        43.684561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Metropolitan Community Church of Toronto",
+                  "text": "A Metropolitan Community Church of Toronto egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén, ismert az LMBTQ+ befogadó lelkigondozásáról.",
+                  "category": "religious",
+                  "coords": [
+                        -79.347725,
+                        43.667095
+                  ]
+            },
+            {
+                  "name": "Rosedale United Church",
+                  "text": "A Rosedale United Church egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén, egy történelmi templom a Rosedale negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372276,
+                        43.68413
+                  ]
+            },
+            {
+                  "name": "The Danforth Music Hall",
+                  "text": "A The Danforth Music Hall egy színház a prince-edward-viaduct-toronto-landmarks-v2 területén, történelmi zenei helyszín a Danforth sugárúton.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.357023,
+                        43.676252
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Name",
+                  "text": "A Church of the Holy Name egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén, egy katolikus templom, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -79.345946,
+                        43.679131
+                  ]
+            },
+            {
+                  "name": "Beach Hebrew Institute",
+                  "text": "A Beach Hebrew Institute egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén, egy történelmi zsinagóga a Beach negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -79.301478,
+                        43.669336
+                  ]
+            },
+            {
+                  "name": "Prince Edward Viaduct",
+                  "text": "A Prince Edward Viaduct egy híd a prince-edward-viaduct-toronto-landmarks-v2 területén, egy jelentős felüljáró a Don-völgy felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.370007,
+                        43.672517
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "A Governor's Bridge egy híd a prince-edward-viaduct-toronto-landmarks-v2 területén, egy kis híd a Don folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.36899,
+                        43.689965
+                  ]
+            },
+            {
+                  "name": "Todmorden Mills",
+                  "text": "A Todmorden Mills egy látványosság a prince-edward-viaduct-toronto-landmarks-v2 területén, egy történelmi ipari helyszín megőrzött épületekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.359863,
+                        43.685744
+                  ]
+            },
+            {
+                  "name": "Rosedale Park",
+                  "text": "A Rosedale Park egy park a prince-edward-viaduct-toronto-landmarks-v2 területén, ismert baseballpályájáról és szabadidős létesítményeiről.",
+                  "category": "park",
+                  "coords": [
+                        -79.378908,
+                        43.682774
+                  ]
+            },
+            {
+                  "name": "Withrow Park",
+                  "text": "A Withrow Park egy park a prince-edward-viaduct-toronto-landmarks-v2 területén, népszerű park játszótérrel és termelői piaccal.",
+                  "category": "park",
+                  "coords": [
+                        -79.346942,
+                        43.674443
+                  ]
+            },
+            {
+                  "name": "Kempton Howard Park",
+                  "text": "A Kempton Howard Park egy park a prince-edward-viaduct-toronto-landmarks-v2 területén, egy közösségi aktivistáról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -79.340313,
+                        43.675854
+                  ]
+            },
+            {
+                  "name": "Riverdale Farm",
+                  "text": "A Riverdale Farm egy állatkert a prince-edward-viaduct-toronto-landmarks-v2 területén, egy történelmi gazdaság háziállatokkal és kertekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.360863,
+                        43.666917
+                  ]
+            },
+            {
+                  "name": "Riverdale Park East",
+                  "text": "A Riverdale Park East egy park a prince-edward-viaduct-toronto-landmarks-v2 területén, panorámás kilátással Toronto látképére.",
+                  "category": "park",
+                  "coords": [
+                        -79.355736,
+                        43.670047
+                  ]
+            },
+            {
+                  "name": "Chapel of St. James-the-Less",
+                  "text": "A Chapel of St. James-the-Less egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.369028,
+                        43.669586
+                  ]
+            },
+            {
+                  "name": "Trinity Evangelican Lutheran Church",
+                  "text": "A Trinity Evangelican Lutheran Church egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376139,
+                        43.671818
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church",
+                  "text": "A Holy Trinity Macedono-Bulgarian Eastern Orthodox Church egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.327933,
+                        43.685437
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Roman Catholic Church",
+                  "text": "A Corpus Christi Roman Catholic Church egy istentiszteleti hely a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "religious",
+                  "coords": [
+                        -79.309678,
+                        43.668295
+                  ]
+            },
+            {
+                  "name": "Kew Gardens",
+                  "text": "A Kew Gardens egy park a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.298316,
+                        43.66813
+                  ]
+            },
+            {
+                  "name": "Maple Leaf Forever Park",
+                  "text": "A Maple Leaf Forever Park egy park a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.327859,
+                        43.663032
+                  ]
+            },
+            {
+                  "name": "Woodbine Park",
+                  "text": "A Woodbine Park egy park a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "park",
+                  "coords": [
+                        -79.312751,
+                        43.664441
+                  ]
+            },
+            {
+                  "name": "Kew Beach",
+                  "text": "A Kew Beach egy strand a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.29775,
+                        43.665921
+                  ]
+            },
+            {
+                  "name": "Dianna Witte Gallery",
+                  "text": "A Dianna Witte Gallery egy galéria a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.343154,
+                        43.664237
+                  ]
+            },
+            {
+                  "name": "Old Don Jail",
+                  "text": "A Old Don Jail egy múzeum a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.354216,
+                        43.665933
+                  ]
+            },
+            {
+                  "name": "Holcim Gallery",
+                  "text": "A Holcim Gallery egy galéria a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.364188,
+                        43.684182
+                  ]
+            },
+            {
+                  "name": "Robert Mede Gallery",
+                  "text": "A Robert Mede Gallery egy galéria a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.314096,
+                        43.672882
+                  ]
+            },
+            {
+                  "name": "Melba Studios",
+                  "text": "A Melba Studios egy galéria a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.318236,
+                        43.666073
+                  ]
+            },
+            {
+                  "name": "Leslie Grove Gallery",
+                  "text": "A Leslie Grove Gallery egy galéria a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.333668,
+                        43.662676
+                  ]
+            },
+            {
+                  "name": "Millennium Sun Clock",
+                  "text": "A Millennium Sun Clock egy emlékmű a prince-edward-viaduct-toronto-landmarks-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -79.315515,
+                        43.665396
+                  ]
+            },
+            {
+                  "name": "Crow's Theater",
+                  "text": "A Crow's Theatre egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.341431,
+                        43.665197
+                  ]
+            },
+            {
+                  "name": "Hugh's Room",
+                  "text": "A Hugh's Room egy színház és koncerthelyszín Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.352165,
+                        43.663872
+                  ]
+            },
+            {
+                  "name": "The Danforth Art Studio",
+                  "text": "A Danforth Art Studio egy művészeti központ Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.354735,
+                        43.677156
+                  ]
+            },
+            {
+                  "name": "4CATS Art Studio",
+                  "text": "A 4CATS Art Studio egy művészeti stúdió Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.37338,
+                        43.700516
+                  ]
+            },
+            {
+                  "name": "The Redwood",
+                  "text": "A Redwood egy színház Torontóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.32721,
+                        43.67129
+                  ]
+            },
+            {
+                  "name": "Tchotchke House (Crazy Doll House)",
+                  "text": "A Tchotchke House (Crazy Doll House) egy látványosság, amely babák és furcsaságok gyűjteményét mutatja be Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.335147,
+                        43.663376
+                  ]
+            },
+            {
+                  "name": "Don Valley Brick Works",
+                  "text": "A Don Valley Brick Works egy egykori téglagyár, ma park Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.365444,
+                        43.684561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Metropolitan Community Church of Toronto",
+                  "text": "Metropolitan Community Church of Toronto este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2, cunoscut pentru slujirea incluzivă LGBTQ+.",
+                  "category": "religious",
+                  "coords": [
+                        -79.347725,
+                        43.667095
+                  ]
+            },
+            {
+                  "name": "Rosedale United Church",
+                  "text": "Rosedale United Church este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2, o biserică istorică în cartierul Rosedale.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372276,
+                        43.68413
+                  ]
+            },
+            {
+                  "name": "The Danforth Music Hall",
+                  "text": "The Danforth Music Hall este un teatru în prince-edward-viaduct-toronto-landmarks-v2, un loc istoric de muzică pe strada Danforth.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.357023,
+                        43.676252
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Name",
+                  "text": "Church of the Holy Name este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2, o biserică catolică cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        -79.345946,
+                        43.679131
+                  ]
+            },
+            {
+                  "name": "Beach Hebrew Institute",
+                  "text": "Beach Hebrew Institute este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2, o sinagogă istorică în cartierul Beach.",
+                  "category": "religious",
+                  "coords": [
+                        -79.301478,
+                        43.669336
+                  ]
+            },
+            {
+                  "name": "Prince Edward Viaduct",
+                  "text": "Prince Edward Viaduct este un pod în prince-edward-viaduct-toronto-landmarks-v2, un viaduct major care traversează valea Don.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.370007,
+                        43.672517
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Governor's Bridge este un pod în prince-edward-viaduct-toronto-landmarks-v2, un pod mic peste râul Don.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.36899,
+                        43.689965
+                  ]
+            },
+            {
+                  "name": "Todmorden Mills",
+                  "text": "Todmorden Mills este o atracție în prince-edward-viaduct-toronto-landmarks-v2, un sit industrial istoric cu clădiri conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.359863,
+                        43.685744
+                  ]
+            },
+            {
+                  "name": "Rosedale Park",
+                  "text": "Rosedale Park este un parc în prince-edward-viaduct-toronto-landmarks-v2, cunoscut pentru terenul de baseball și facilitățile recreative.",
+                  "category": "park",
+                  "coords": [
+                        -79.378908,
+                        43.682774
+                  ]
+            },
+            {
+                  "name": "Withrow Park",
+                  "text": "Withrow Park este un parc în prince-edward-viaduct-toronto-landmarks-v2, un parc popular cu loc de joacă și piață de producători.",
+                  "category": "park",
+                  "coords": [
+                        -79.346942,
+                        43.674443
+                  ]
+            },
+            {
+                  "name": "Kempton Howard Park",
+                  "text": "Kempton Howard Park este un parc în prince-edward-viaduct-toronto-landmarks-v2, numit după un activist comunitar.",
+                  "category": "park",
+                  "coords": [
+                        -79.340313,
+                        43.675854
+                  ]
+            },
+            {
+                  "name": "Riverdale Farm",
+                  "text": "Riverdale Farm este o grădină zoologică în prince-edward-viaduct-toronto-landmarks-v2, o fermă istorică cu animale domestice și grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.360863,
+                        43.666917
+                  ]
+            },
+            {
+                  "name": "Riverdale Park East",
+                  "text": "Riverdale Park East este un parc în prince-edward-viaduct-toronto-landmarks-v2, oferind vederi panoramice asupra orizontului Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.355736,
+                        43.670047
+                  ]
+            },
+            {
+                  "name": "Chapel of St. James-the-Less",
+                  "text": "Chapel of St. James-the-Less este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.369028,
+                        43.669586
+                  ]
+            },
+            {
+                  "name": "Trinity Evangelican Lutheran Church",
+                  "text": "Trinity Evangelican Lutheran Church este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376139,
+                        43.671818
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church",
+                  "text": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.327933,
+                        43.685437
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Roman Catholic Church",
+                  "text": "Corpus Christi Roman Catholic Church este un lăcaș de cult în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.309678,
+                        43.668295
+                  ]
+            },
+            {
+                  "name": "Kew Gardens",
+                  "text": "Kew Gardens este un parc în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.298316,
+                        43.66813
+                  ]
+            },
+            {
+                  "name": "Maple Leaf Forever Park",
+                  "text": "Maple Leaf Forever Park este un parc în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.327859,
+                        43.663032
+                  ]
+            },
+            {
+                  "name": "Woodbine Park",
+                  "text": "Woodbine Park este un parc în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.312751,
+                        43.664441
+                  ]
+            },
+            {
+                  "name": "Kew Beach",
+                  "text": "Kew Beach este o plajă în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.29775,
+                        43.665921
+                  ]
+            },
+            {
+                  "name": "Dianna Witte Gallery",
+                  "text": "Dianna Witte Gallery este o galerie în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.343154,
+                        43.664237
+                  ]
+            },
+            {
+                  "name": "Old Don Jail",
+                  "text": "Old Don Jail este un muzeu în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.354216,
+                        43.665933
+                  ]
+            },
+            {
+                  "name": "Holcim Gallery",
+                  "text": "Holcim Gallery este o galerie în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.364188,
+                        43.684182
+                  ]
+            },
+            {
+                  "name": "Robert Mede Gallery",
+                  "text": "Robert Mede Gallery este o galerie în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.314096,
+                        43.672882
+                  ]
+            },
+            {
+                  "name": "Melba Studios",
+                  "text": "Melba Studios este o galerie în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.318236,
+                        43.666073
+                  ]
+            },
+            {
+                  "name": "Leslie Grove Gallery",
+                  "text": "Leslie Grove Gallery este o galerie în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.333668,
+                        43.662676
+                  ]
+            },
+            {
+                  "name": "Millennium Sun Clock",
+                  "text": "Millennium Sun Clock este un monument în prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -79.315515,
+                        43.665396
+                  ]
+            },
+            {
+                  "name": "Crow's Theater",
+                  "text": "Crow's Theater este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.341431,
+                        43.665197
+                  ]
+            },
+            {
+                  "name": "Hugh's Room",
+                  "text": "Hugh's Room este un teatru și un loc de concerte în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.352165,
+                        43.663872
+                  ]
+            },
+            {
+                  "name": "The Danforth Art Studio",
+                  "text": "Danforth Art Studio este un centru de artă în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.354735,
+                        43.677156
+                  ]
+            },
+            {
+                  "name": "4CATS Art Studio",
+                  "text": "4CATS Art Studio este un studio de artă în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.37338,
+                        43.700516
+                  ]
+            },
+            {
+                  "name": "The Redwood",
+                  "text": "The Redwood este un teatru în Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.32721,
+                        43.67129
+                  ]
+            },
+            {
+                  "name": "Tchotchke House (Crazy Doll House)",
+                  "text": "Tchotchke House (Crazy Doll House) este o atracție cu o colecție de păpuși și curiozități în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.335147,
+                        43.663376
+                  ]
+            },
+            {
+                  "name": "Don Valley Brick Works",
+                  "text": "Don Valley Brick Works este o fostă fabrică de cărămidă transformată în parc în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.365444,
+                        43.684561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Metropolitan Community Church of Toronto",
+                  "text": "Metropolitan Community Church of Toronto is a place of worship in prince-edward-viaduct-toronto-landmarks-v2, known for its LGBTQ+ inclusive ministry.",
+                  "category": "religious",
+                  "coords": [
+                        -79.347725,
+                        43.667095
+                  ]
+            },
+            {
+                  "name": "Rosedale United Church",
+                  "text": "Rosedale United Church is a place of worship in prince-edward-viaduct-toronto-landmarks-v2, a historic church in the Rosedale neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -79.372276,
+                        43.68413
+                  ]
+            },
+            {
+                  "name": "The Danforth Music Hall",
+                  "text": "The Danforth Music Hall is a theatre in prince-edward-viaduct-toronto-landmarks-v2, a historic music venue on Danforth Avenue.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.357023,
+                        43.676252
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Name",
+                  "text": "Church of the Holy Name is a place of worship in prince-edward-viaduct-toronto-landmarks-v2, a Catholic church known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -79.345946,
+                        43.679131
+                  ]
+            },
+            {
+                  "name": "Beach Hebrew Institute",
+                  "text": "Beach Hebrew Institute is a place of worship in prince-edward-viaduct-toronto-landmarks-v2, a historic synagogue in the Beach district.",
+                  "category": "religious",
+                  "coords": [
+                        -79.301478,
+                        43.669336
+                  ]
+            },
+            {
+                  "name": "Prince Edward Viaduct",
+                  "text": "Prince Edward Viaduct is a bridge in prince-edward-viaduct-toronto-landmarks-v2, a major viaduct spanning the Don Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.370007,
+                        43.672517
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Governor's Bridge is a bridge in prince-edward-viaduct-toronto-landmarks-v2, a small bridge over the Don River.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.36899,
+                        43.689965
+                  ]
+            },
+            {
+                  "name": "Todmorden Mills",
+                  "text": "Todmorden Mills is an attraction in prince-edward-viaduct-toronto-landmarks-v2, a historic industrial site with preserved buildings.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.359863,
+                        43.685744
+                  ]
+            },
+            {
+                  "name": "Rosedale Park",
+                  "text": "Rosedale Park is a park in prince-edward-viaduct-toronto-landmarks-v2, known for its baseball diamond and recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        -79.378908,
+                        43.682774
+                  ]
+            },
+            {
+                  "name": "Withrow Park",
+                  "text": "Withrow Park is a park in prince-edward-viaduct-toronto-landmarks-v2, a popular park with a playground and farmers market.",
+                  "category": "park",
+                  "coords": [
+                        -79.346942,
+                        43.674443
+                  ]
+            },
+            {
+                  "name": "Kempton Howard Park",
+                  "text": "Kempton Howard Park is a park in prince-edward-viaduct-toronto-landmarks-v2, named after a community activist.",
+                  "category": "park",
+                  "coords": [
+                        -79.340313,
+                        43.675854
+                  ]
+            },
+            {
+                  "name": "Riverdale Farm",
+                  "text": "Riverdale Farm is a zoo in prince-edward-viaduct-toronto-landmarks-v2, a historic farm with domestic animals and gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.360863,
+                        43.666917
+                  ]
+            },
+            {
+                  "name": "Riverdale Park East",
+                  "text": "Riverdale Park East is a park in prince-edward-viaduct-toronto-landmarks-v2, offering panoramic views of the Toronto skyline.",
+                  "category": "park",
+                  "coords": [
+                        -79.355736,
+                        43.670047
+                  ]
+            },
+            {
+                  "name": "Chapel of St. James-the-Less",
+                  "text": "Chapel of St. James-the-Less is a place of worship in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.369028,
+                        43.669586
+                  ]
+            },
+            {
+                  "name": "Trinity Evangelican Lutheran Church",
+                  "text": "Trinity Evangelican Lutheran Church is a place of worship in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.376139,
+                        43.671818
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church",
+                  "text": "Holy Trinity Macedono-Bulgarian Eastern Orthodox Church is a place of worship in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.327933,
+                        43.685437
+                  ]
+            },
+            {
+                  "name": "Corpus Christi Roman Catholic Church",
+                  "text": "Corpus Christi Roman Catholic Church is a place of worship in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -79.309678,
+                        43.668295
+                  ]
+            },
+            {
+                  "name": "Kew Gardens",
+                  "text": "Kew Gardens is a park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.298316,
+                        43.66813
+                  ]
+            },
+            {
+                  "name": "Maple Leaf Forever Park",
+                  "text": "Maple Leaf Forever Park is a park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.327859,
+                        43.663032
+                  ]
+            },
+            {
+                  "name": "Woodbine Park",
+                  "text": "Woodbine Park is a park in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "park",
+                  "coords": [
+                        -79.312751,
+                        43.664441
+                  ]
+            },
+            {
+                  "name": "Kew Beach",
+                  "text": "Kew Beach is a beach in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.29775,
+                        43.665921
+                  ]
+            },
+            {
+                  "name": "Dianna Witte Gallery",
+                  "text": "Dianna Witte Gallery is a gallery in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.343154,
+                        43.664237
+                  ]
+            },
+            {
+                  "name": "Old Don Jail",
+                  "text": "Old Don Jail is a museum in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.354216,
+                        43.665933
+                  ]
+            },
+            {
+                  "name": "Holcim Gallery",
+                  "text": "Holcim Gallery is a gallery in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.364188,
+                        43.684182
+                  ]
+            },
+            {
+                  "name": "Robert Mede Gallery",
+                  "text": "Robert Mede Gallery is a gallery in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.314096,
+                        43.672882
+                  ]
+            },
+            {
+                  "name": "Melba Studios",
+                  "text": "Melba Studios is a gallery in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.318236,
+                        43.666073
+                  ]
+            },
+            {
+                  "name": "Leslie Grove Gallery",
+                  "text": "Leslie Grove Gallery is a gallery in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -79.333668,
+                        43.662676
+                  ]
+            },
+            {
+                  "name": "Millennium Sun Clock",
+                  "text": "Millennium Sun Clock is a monument in prince-edward-viaduct-toronto-landmarks-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -79.315515,
+                        43.665396
+                  ]
+            },
+            {
+                  "name": "Crow's Theater",
+                  "text": "Crow's Theater is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.341431,
+                        43.665197
+                  ]
+            },
+            {
+                  "name": "Hugh's Room",
+                  "text": "Hugh's Room is a theatre and live music venue in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.352165,
+                        43.663872
+                  ]
+            },
+            {
+                  "name": "The Danforth Art Studio",
+                  "text": "The Danforth Art Studio is an arts centre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.354735,
+                        43.677156
+                  ]
+            },
+            {
+                  "name": "4CATS Art Studio",
+                  "text": "4CATS Art Studio is an art studio in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.37338,
+                        43.700516
+                  ]
+            },
+            {
+                  "name": "The Redwood",
+                  "text": "The Redwood is a theatre in Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.32721,
+                        43.67129
+                  ]
+            },
+            {
+                  "name": "Tchotchke House (Crazy Doll House)",
+                  "text": "Tchotchke House (Crazy Doll House) is an attraction featuring a collection of dolls and curios in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.335147,
+                        43.663376
+                  ]
+            },
+            {
+                  "name": "Don Valley Brick Works",
+                  "text": "Don Valley Brick Works is a former brick quarry turned park in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.365444,
+                        43.684561
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-ON",
     coords: [-79.358, 43.676],
@@ -1006,7 +25558,412 @@ export const poiExtraCanadaLandmarksV2: POI[] = [
     },
   },
   {
-    id: "the-forks-winnipeg-landmarks-v2",
+    id: "the-forks-winnipeg-landmarks-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cartizan Studio",
+                  "text": "Ein Kunstzentrum in The Forks, Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.1295,
+                        49.887002
+                  ]
+            },
+            {
+                  "name": "Pierre Gaultier de Varennes et de la Vèrendrye",
+                  "text": "Ein Denkmal für den französischen Entdecker Pierre Gaultier de Varennes, sieur de La Vérendrye in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.128455,
+                        49.88649
+                  ]
+            },
+            {
+                  "name": "Belvédère Saint-Boniface",
+                  "text": "Ein Aussichtspunkt in Saint Boniface, Winnipeg.",
+                  "category": "natural",
+                  "coords": [
+                        -97.12432,
+                        49.887882
+                  ]
+            },
+            {
+                  "name": "Old Saint Boniface Cathedral",
+                  "text": "Die Ruinen der ursprünglichen Saint-Boniface-Kathedrale in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.12209,
+                        49.889322
+                  ]
+            },
+            {
+                  "name": "La Paroisse du Precieux-Sang",
+                  "text": "Eine römisch-katholische Kirche in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.11936,
+                        49.877546
+                  ]
+            },
+            {
+                  "name": "Saint Vital Historial Society and Museum",
+                  "text": "Eine örtliche historische Gesellschaft, die ein Museum in Saint Vital, Winnipeg betreibt.",
+                  "category": "museum",
+                  "coords": [
+                        -97.11161,
+                        49.86342
+                  ]
+            },
+            {
+                  "name": "Loch Gallery",
+                  "text": "Eine Kunstgalerie in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.115202,
+                        49.87269
+                  ]
+            },
+            {
+                  "name": "Norwood Bridge",
+                  "text": "Eine Brücke über den Red River in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.130225,
+                        49.882773
+                  ]
+            },
+            {
+                  "name": "Manitoba Theatre for Young People",
+                  "text": "Eine professionelle Theaterkompanie, die Stücke für Kinder und Jugendliche produziert.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.130824,
+                        49.888262
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Ein interaktives Kindermuseum in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.128288,
+                        49.887587
+                  ]
+            },
+            {
+                  "name": "Saint Boniface Museum",
+                  "text": "Ein Museum, das die Geschichte von Saint Boniface in Winnipeg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -97.123157,
+                        49.887807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cartizan Studio",
+                  "text": "Egy művészeti központ a The Forksban, Winnipegben.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.1295,
+                        49.887002
+                  ]
+            },
+            {
+                  "name": "Pierre Gaultier de Varennes et de la Vèrendrye",
+                  "text": "Egy emlékmű a francia felfedező Pierre Gaultier de Varennes, sieur de La Vérendrye tiszteletére Winnipegben.",
+                  "category": "historical",
+                  "coords": [
+                        -97.128455,
+                        49.88649
+                  ]
+            },
+            {
+                  "name": "Belvédère Saint-Boniface",
+                  "text": "Egy festői kilátópont Saint Boniface-ben, Winnipegben.",
+                  "category": "natural",
+                  "coords": [
+                        -97.12432,
+                        49.887882
+                  ]
+            },
+            {
+                  "name": "Old Saint Boniface Cathedral",
+                  "text": "Az eredeti Saint Boniface-székesegyház romjai Winnipegben.",
+                  "category": "historical",
+                  "coords": [
+                        -97.12209,
+                        49.889322
+                  ]
+            },
+            {
+                  "name": "La Paroisse du Precieux-Sang",
+                  "text": "Egy római katolikus templom Winnipegben.",
+                  "category": "religious",
+                  "coords": [
+                        -97.11936,
+                        49.877546
+                  ]
+            },
+            {
+                  "name": "Saint Vital Historial Society and Museum",
+                  "text": "Egy helyi történelmi társaság, amely múzeumot működtet Saint Vitalban, Winnipegben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.11161,
+                        49.86342
+                  ]
+            },
+            {
+                  "name": "Loch Gallery",
+                  "text": "Egy művészeti galéria Winnipegben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.115202,
+                        49.87269
+                  ]
+            },
+            {
+                  "name": "Norwood Bridge",
+                  "text": "Egy híd a Red River felett Winnipegben.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.130225,
+                        49.882773
+                  ]
+            },
+            {
+                  "name": "Manitoba Theatre for Young People",
+                  "text": "Egy professzionális színházi társaság, amely gyerekeknek és fiataloknak készít darabokat.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.130824,
+                        49.888262
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Egy interaktív gyerekmúzeum Winnipegben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.128288,
+                        49.887587
+                  ]
+            },
+            {
+                  "name": "Saint Boniface Museum",
+                  "text": "Egy múzeum, amely Saint Boniface történetét mutatja be Winnipegben.",
+                  "category": "museum",
+                  "coords": [
+                        -97.123157,
+                        49.887807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cartizan Studio",
+                  "text": "Un centru de artă în The Forks, Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.1295,
+                        49.887002
+                  ]
+            },
+            {
+                  "name": "Pierre Gaultier de Varennes et de la Vèrendrye",
+                  "text": "Un monument dedicat exploratorului francez Pierre Gaultier de Varennes, sieur de La Vérendrye în Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.128455,
+                        49.88649
+                  ]
+            },
+            {
+                  "name": "Belvédère Saint-Boniface",
+                  "text": "Un punct de belvedere în Saint Boniface, Winnipeg.",
+                  "category": "natural",
+                  "coords": [
+                        -97.12432,
+                        49.887882
+                  ]
+            },
+            {
+                  "name": "Old Saint Boniface Cathedral",
+                  "text": "Ruinele Catedralei originale Saint Boniface din Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.12209,
+                        49.889322
+                  ]
+            },
+            {
+                  "name": "La Paroisse du Precieux-Sang",
+                  "text": "O biserică romano-catolică în Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.11936,
+                        49.877546
+                  ]
+            },
+            {
+                  "name": "Saint Vital Historial Society and Museum",
+                  "text": "O societate istorică locală care operează un muzeu în Saint Vital, Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.11161,
+                        49.86342
+                  ]
+            },
+            {
+                  "name": "Loch Gallery",
+                  "text": "O galerie de artă în Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.115202,
+                        49.87269
+                  ]
+            },
+            {
+                  "name": "Norwood Bridge",
+                  "text": "Un pod care traversează Râul Roșu în Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.130225,
+                        49.882773
+                  ]
+            },
+            {
+                  "name": "Manitoba Theatre for Young People",
+                  "text": "O companie de teatru profesionistă care produce piese pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.130824,
+                        49.888262
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "Un muzeu interactiv pentru copii în Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.128288,
+                        49.887587
+                  ]
+            },
+            {
+                  "name": "Saint Boniface Museum",
+                  "text": "Un muzeu care prezintă istoria Saint Boniface în Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.123157,
+                        49.887807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cartizan Studio",
+                  "text": "An arts centre in The Forks, Winnipeg.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.1295,
+                        49.887002
+                  ]
+            },
+            {
+                  "name": "Pierre Gaultier de Varennes et de la Vèrendrye",
+                  "text": "A monument to French explorer Pierre Gaultier de Varennes, sieur de La Vérendrye in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.128455,
+                        49.88649
+                  ]
+            },
+            {
+                  "name": "Belvédère Saint-Boniface",
+                  "text": "A scenic viewpoint in Saint Boniface, Winnipeg.",
+                  "category": "natural",
+                  "coords": [
+                        -97.12432,
+                        49.887882
+                  ]
+            },
+            {
+                  "name": "Old Saint Boniface Cathedral",
+                  "text": "The ruins of the original Saint Boniface Cathedral in Winnipeg.",
+                  "category": "historical",
+                  "coords": [
+                        -97.12209,
+                        49.889322
+                  ]
+            },
+            {
+                  "name": "Precious Blood Roman Catholic Church",
+                  "text": "A Roman Catholic church in Winnipeg.",
+                  "category": "religious",
+                  "coords": [
+                        -97.11936,
+                        49.877546
+                  ]
+            },
+            {
+                  "name": "Saint Vital Historial Society and Museum",
+                  "text": "A local historical society operating a museum in Saint Vital, Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.11161,
+                        49.86342
+                  ]
+            },
+            {
+                  "name": "Loch Gallery",
+                  "text": "An art gallery in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.115202,
+                        49.87269
+                  ]
+            },
+            {
+                  "name": "Norwood Bridge",
+                  "text": "A bridge spanning the Red River in Winnipeg.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.130225,
+                        49.882773
+                  ]
+            },
+            {
+                  "name": "Manitoba Theatre for Young People",
+                  "text": "A professional theatre company producing plays for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.130824,
+                        49.888262
+                  ]
+            },
+            {
+                  "name": "Children's Museum",
+                  "text": "An interactive children's museum in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.128288,
+                        49.887587
+                  ]
+            },
+            {
+                  "name": "Saint Boniface Museum",
+                  "text": "A museum showcasing the history of Saint Boniface in Winnipeg.",
+                  "category": "museum",
+                  "coords": [
+                        -97.123157,
+                        49.887807
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-MB",
     coords: [-97.130, 49.888],

@@ -379,7 +379,268 @@ export const canadaCities: POI[] = [
     elevation: 51, length: 1203,
     coords: [-79.0849, 43.0896], type: 'landmark', parent: 'CA', image: "/poi-images/can_niagara.webp"},
   {
-    id: "can_cntower",    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower" },
+    id: "can_cntower", "sights": {
+      "de": [
+            {
+                  "name": "CN Tower Edge Walk",
+                  "text": "Der CN Tower Edge Walk ist ein Außenrundgang auf der Aussichtsplattform des CN Towers.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387115,
+                        43.642501
+                  ]
+            },
+            {
+                  "name": "TIFF Lightbox",
+                  "text": "Das TIFF Lightbox ist ein Theater- und Filmzentrum, das das Internationale Filmfestival von Toronto beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.390533,
+                        43.64672
+                  ]
+            },
+            {
+                  "name": "Rod Robbie Bridge",
+                  "text": "Die Rod-Robbie-Brücke ist eine Fußgängerbrücke, die nach dem Architekten Rod Robbie in Toronto benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38823,
+                        43.642947
+                  ]
+            },
+            {
+                  "name": "Simcoe Park",
+                  "text": "Der Simcoe Park ist ein kleiner Stadtpark in der Nähe des CN Towers in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.386887,
+                        43.644753
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Die St. Andrew's Church ist eine historische presbyterianische Kirche in der Innenstadt von Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.385547,
+                        43.64711
+                  ]
+            },
+            {
+                  "name": "Royal Alexandra Theatre",
+                  "text": "Das Royal Alexandra Theatre ist ein historisches Theater im Theatre District von Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.387615,
+                        43.647432
+                  ]
+            },
+            {
+                  "name": "Princess of Wales Theatre",
+                  "text": "Das Princess of Wales Theatre ist ein modernes Theater im Vergnügungsviertel von Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.389248,
+                        43.647059
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CN Tower Edge Walk",
+                  "text": "A CN Tower Edge Walk egy külső séta a CN Tower kilátószintjének szélén.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387115,
+                        43.642501
+                  ]
+            },
+            {
+                  "name": "TIFF Lightbox",
+                  "text": "A TIFF Lightbox egy színház- és filmközpont, amely a Torontói Nemzetközi Filmfesztiválnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.390533,
+                        43.64672
+                  ]
+            },
+            {
+                  "name": "Rod Robbie Bridge",
+                  "text": "A Rod Robbie-híd egy gyalogoshíd, amelyet Rod Robbie építészről neveztek el Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38823,
+                        43.642947
+                  ]
+            },
+            {
+                  "name": "Simcoe Park",
+                  "text": "A Simcoe Park egy kis városi park a CN Tower közelében Torontóban.",
+                  "category": "park",
+                  "coords": [
+                        -79.386887,
+                        43.644753
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "A St. Andrew's Church egy történelmi presbiteriánus templom Toronto belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        -79.385547,
+                        43.64711
+                  ]
+            },
+            {
+                  "name": "Royal Alexandra Theatre",
+                  "text": "A Royal Alexandra Theatre egy történelmi színház Toronto színházi negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.387615,
+                        43.647432
+                  ]
+            },
+            {
+                  "name": "Princess of Wales Theatre",
+                  "text": "A Princess of Wales Theatre egy modern színház Toronto szórakoztató negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.389248,
+                        43.647059
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CN Tower Edge Walk",
+                  "text": "CN Tower Edge Walk este o plimbare în aer liber pe marginea platformei de observație a turnului CN.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387115,
+                        43.642501
+                  ]
+            },
+            {
+                  "name": "TIFF Lightbox",
+                  "text": "TIFF Lightbox este un centru de teatru și film care găzduiește Festivalul Internațional de Film de la Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.390533,
+                        43.64672
+                  ]
+            },
+            {
+                  "name": "Rod Robbie Bridge",
+                  "text": "Podul Rod Robbie este un pod pietonal numit după arhitectul Rod Robbie din Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38823,
+                        43.642947
+                  ]
+            },
+            {
+                  "name": "Simcoe Park",
+                  "text": "Simcoe Park este un mic parc urban lângă CN Tower din Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.386887,
+                        43.644753
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Biserica St. Andrew's este o biserică presbiteriană istorică în centrul orașului Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.385547,
+                        43.64711
+                  ]
+            },
+            {
+                  "name": "Royal Alexandra Theatre",
+                  "text": "Royal Alexandra Theatre este un teatru istoric în districtul teatral din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.387615,
+                        43.647432
+                  ]
+            },
+            {
+                  "name": "Princess of Wales Theatre",
+                  "text": "Princess of Wales Theatre este un teatru modern în cartierul de divertisment din Toronto.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.389248,
+                        43.647059
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CN Tower Edge Walk",
+                  "text": "CN Tower Edge Walk is an outdoor walk on the edge of the CN Tower's main pod.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.387115,
+                        43.642501
+                  ]
+            },
+            {
+                  "name": "TIFF Lightbox",
+                  "text": "TIFF Lightbox is a theatre and film centre home to the Toronto International Film Festival.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.390533,
+                        43.64672
+                  ]
+            },
+            {
+                  "name": "Rod Robbie Bridge",
+                  "text": "Rod Robbie Bridge is a pedestrian bridge named after architect Rod Robbie in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38823,
+                        43.642947
+                  ]
+            },
+            {
+                  "name": "Simcoe Park",
+                  "text": "Simcoe Park is a small urban park near the CN Tower in Toronto.",
+                  "category": "park",
+                  "coords": [
+                        -79.386887,
+                        43.644753
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "St. Andrew's Church is a historic Presbyterian church in downtown Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.385547,
+                        43.64711
+                  ]
+            },
+            {
+                  "name": "Royal Alexandra Theatre",
+                  "text": "Royal Alexandra Theatre is a historic theatre in Toronto's Theatre District.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.387615,
+                        43.647432
+                  ]
+            },
+            {
+                  "name": "Princess of Wales Theatre",
+                  "text": "Princess of Wales Theatre is a modern theatre in Toronto's entertainment district.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.389248,
+                        43.647059
+                  ]
+            }
+      ]
+},    name: { de: "CN Tower", hu: "CN Tower", ro: "CN Tower", en: "CN Tower" },
     description: { de: "Iconic tower in Toronto", hu: "Ikonikus torony Torontóban", ro: "Turn iconic în Toronto", en: "Iconic tower in Toronto" , es: "Torre icónica en Toronto.", pt: "Torre icónica em Toronto.", fr: "Tour emblématique à Toronto."},
     coords: [-79.3871, 43.6426], type: 'landmark', parent: 'CA',
     descriptionAdvanced: {
@@ -418,7 +679,988 @@ export const canadaCities: POI[] = [
     area: 10878, historyYear: 1907, historyPeriod: "Modern Era",
     coords: [-117.7615, 52.8737], type: 'landmark', parent: 'CA', image: "/poi-images/can_jasper.webp"},
   {
-    id: "can_whistler",    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler" },
+    id: "can_whistler", "sights": {
+      "de": [
+            {
+                  "name": "Train wreck",
+                  "text": "Train wreck ist eine Attraktion in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.055522,
+                        50.08135
+                  ]
+            },
+            {
+                  "name": "Green Lake Lookout",
+                  "text": "Green Lake Lookout ist ein Aussichtspunkt mit Blick auf den Green Lake in Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.943995,
+                        50.151471
+                  ]
+            },
+            {
+                  "name": "Vallea Lumina",
+                  "text": "Vallea Lumina ist eine immersive Nachtattraktion in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.92214,
+                        50.171497
+                  ]
+            },
+            {
+                  "name": "Abandoned Campsite",
+                  "text": "Abandoned Campsite ist eine Attraktion in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.965371,
+                        50.110317
+                  ]
+            },
+            {
+                  "name": "Wedge rafting",
+                  "text": "Wedge rafting ist eine Wildwasser-Rafting-Attraktion in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.95462,
+                        50.113407
+                  ]
+            },
+            {
+                  "name": "Olympic Torch",
+                  "text": "Olympic Torch ist eine Attraktion in Whistler, die an die Olympischen Winterspiele 2010 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.955212,
+                        50.119042
+                  ]
+            },
+            {
+                  "name": "Theatre in the Park",
+                  "text": "Theatre in the Park ist ein Freilufttheater in Whistler.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.956648,
+                        50.117622
+                  ]
+            },
+            {
+                  "name": "The Plaza Galleries",
+                  "text": "The Plaza Galleries sind Kunstgalerien im Whistler Village.",
+                  "category": "museum",
+                  "coords": [
+                        -122.954738,
+                        50.11777
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain Paraglide Launch",
+                  "text": "Ein Aussichtspunkt auf dem Rainbow Mountain, der zum Paragliding genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -122.984501,
+                        50.145038
+                  ]
+            },
+            {
+                  "name": "Mount Sproatt",
+                  "text": "Ein Berggipfel in der Nähe von Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.028832,
+                        50.125623
+                  ]
+            },
+            {
+                  "name": "Rainbow Lodge historic cabins",
+                  "text": "Historische Blockhütten des ehemaligen Rainbow Lodge, einer bekannten Jagd- und Fischerei-Lodge.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.984645,
+                        50.119563
+                  ]
+            },
+            {
+                  "name": "Cheakamus River Suspension Bridge",
+                  "text": "Eine Hängebrücke über den Cheakamus River.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.032356,
+                        50.067113
+                  ]
+            },
+            {
+                  "name": "Whistler Mountain",
+                  "text": "Ein bedeutender Skiberg und Teil des Skigebiets Whistler Blackcomb.",
+                  "category": "natural",
+                  "coords": [
+                        -122.95695,
+                        50.05917
+                  ]
+            },
+            {
+                  "name": "Decker Mountain",
+                  "text": "Ein Berggipfel im Gebiet von Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.854925,
+                        50.069301
+                  ]
+            },
+            {
+                  "name": "Phalanx Mountain",
+                  "text": "Ein Berggipfel im Whistler-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -122.8575,
+                        50.09833
+                  ]
+            },
+            {
+                  "name": "The Spearhead",
+                  "text": "Ein Gipfel in der Spearhead Range bei Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.863921,
+                        50.086329
+                  ]
+            },
+            {
+                  "name": "Blackcomb Peak",
+                  "text": "Einer der beiden Hauptgipfel des Skigebiets Whistler Blackcomb.",
+                  "category": "natural",
+                  "coords": [
+                        -122.87083,
+                        50.08139
+                  ]
+            },
+            {
+                  "name": "Flute Summit",
+                  "text": "Ein Gipfel im Musical-Bumps-Gebiet von Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.925533,
+                        50.039917
+                  ]
+            },
+            {
+                  "name": "Oboe Summit",
+                  "text": "Ein Gipfel im Musical-Bumps-Gebiet von Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.90278,
+                        50.03528
+                  ]
+            },
+            {
+                  "name": "Piccolo Summit",
+                  "text": "Ein Gipfel im Musical-Bumps-Gebiet von Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.94083,
+                        50.04667
+                  ]
+            },
+            {
+                  "name": "Fitzsimmon Fan park",
+                  "text": "Ein Strandpark in Whistler mit einem fächerförmigen Uferbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.946809,
+                        50.146168
+                  ]
+            },
+            {
+                  "name": "Blackcomb Glacier Provincial Park",
+                  "text": "Ein Provinzpark, der den Blackcomb-Gletscher und die alpine Umgebung schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -122.872922,
+                        50.094268
+                  ]
+            },
+            {
+                  "name": "Showh Lakes-ancient Cedars Trail Recreation Site",
+                  "text": "Ein Erholungsgebiet mit alten Zedernbäumen und Seen bei Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.939951,
+                        50.200456
+                  ]
+            },
+            {
+                  "name": "Squamish Lil'wat Cultural Centre",
+                  "text": "Ein Museum, das die Kulturen der Squamish- und Lil'wat-First-Nations zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -122.947384,
+                        50.118745
+                  ]
+            },
+            {
+                  "name": "Audain Art Museum",
+                  "text": "Ein Kunstmuseum, das eine Sammlung britisch-kolumbianischer Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -122.952684,
+                        50.118239
+                  ]
+            },
+            {
+                  "name": "Lost Lake Beach",
+                  "text": "Ein beliebter Strand am Lost Lake in Whistler.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.935216,
+                        50.12695
+                  ]
+            },
+            {
+                  "name": "Whistler Interpretive Forest",
+                  "text": "Ein Waldgebiet mit Lehrpfaden in Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.022019,
+                        50.050591
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Train wreck",
+                  "text": "A Train wreck egy látványosság Whistlerben.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.055522,
+                        50.08135
+                  ]
+            },
+            {
+                  "name": "Green Lake Lookout",
+                  "text": "A Green Lake Lookout egy kilátóhely a Green Lake-re Whistlerben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.943995,
+                        50.151471
+                  ]
+            },
+            {
+                  "name": "Vallea Lumina",
+                  "text": "A Vallea Lumina egy magával ragadó éjszakai látványosság Whistlerben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.92214,
+                        50.171497
+                  ]
+            },
+            {
+                  "name": "Abandoned Campsite",
+                  "text": "A Abandoned Campsite egy látványosság Whistlerben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.965371,
+                        50.110317
+                  ]
+            },
+            {
+                  "name": "Wedge rafting",
+                  "text": "A Wedge rafting egy vadvízi evezős látványosság Whistlerben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.95462,
+                        50.113407
+                  ]
+            },
+            {
+                  "name": "Olympic Torch",
+                  "text": "Az Olympic Torch egy látványosság Whistlerben, amely a 2010-es téli olimpiára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.955212,
+                        50.119042
+                  ]
+            },
+            {
+                  "name": "Theatre in the Park",
+                  "text": "A Theatre in the Park egy szabadtéri színház Whistlerben.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.956648,
+                        50.117622
+                  ]
+            },
+            {
+                  "name": "The Plaza Galleries",
+                  "text": "A The Plaza Galleries művészeti galériák a Whistler Village-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -122.954738,
+                        50.11777
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain Paraglide Launch",
+                  "text": "Egy kilátóhely a Rainbow Mountainon, amelyet sárkányrepülésre használnak.",
+                  "category": "natural",
+                  "coords": [
+                        -122.984501,
+                        50.145038
+                  ]
+            },
+            {
+                  "name": "Mount Sproatt",
+                  "text": "Egy hegycsúcs Whistler közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -123.028832,
+                        50.125623
+                  ]
+            },
+            {
+                  "name": "Rainbow Lodge historic cabins",
+                  "text": "A történelmi Rainbow Lodge kunyhói, egy híres vadász- és horgászszállás.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.984645,
+                        50.119563
+                  ]
+            },
+            {
+                  "name": "Cheakamus River Suspension Bridge",
+                  "text": "Egy függőhíd a Cheakamus folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.032356,
+                        50.067113
+                  ]
+            },
+            {
+                  "name": "Whistler Mountain",
+                  "text": "Egy jelentős síhegy, a Whistler Blackcomb síterep része.",
+                  "category": "natural",
+                  "coords": [
+                        -122.95695,
+                        50.05917
+                  ]
+            },
+            {
+                  "name": "Decker Mountain",
+                  "text": "Egy hegycsúcs a whistleri térségben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.854925,
+                        50.069301
+                  ]
+            },
+            {
+                  "name": "Phalanx Mountain",
+                  "text": "Egy hegycsúcs Whistler térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -122.8575,
+                        50.09833
+                  ]
+            },
+            {
+                  "name": "The Spearhead",
+                  "text": "Egy csúcs a Whistler melletti Spearhead-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.863921,
+                        50.086329
+                  ]
+            },
+            {
+                  "name": "Blackcomb Peak",
+                  "text": "A Whistler Blackcomb síközpont egyik fő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.87083,
+                        50.08139
+                  ]
+            },
+            {
+                  "name": "Flute Summit",
+                  "text": "Egy csúcs a whistleri Musical Bumps területén.",
+                  "category": "natural",
+                  "coords": [
+                        -122.925533,
+                        50.039917
+                  ]
+            },
+            {
+                  "name": "Oboe Summit",
+                  "text": "Egy csúcs a whistleri Musical Bumps területén.",
+                  "category": "natural",
+                  "coords": [
+                        -122.90278,
+                        50.03528
+                  ]
+            },
+            {
+                  "name": "Piccolo Summit",
+                  "text": "Egy csúcs a whistleri Musical Bumps területén.",
+                  "category": "natural",
+                  "coords": [
+                        -122.94083,
+                        50.04667
+                  ]
+            },
+            {
+                  "name": "Fitzsimmon Fan park",
+                  "text": "Egy strandpark Whistlerben, legyező alakú partszakasszal.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.946809,
+                        50.146168
+                  ]
+            },
+            {
+                  "name": "Blackcomb Glacier Provincial Park",
+                  "text": "Egy tartományi park, amely védi a Blackcomb-gleccsert és az alpesi környezetet.",
+                  "category": "natural",
+                  "coords": [
+                        -122.872922,
+                        50.094268
+                  ]
+            },
+            {
+                  "name": "Showh Lakes-ancient Cedars Trail Recreation Site",
+                  "text": "Egy rekreációs terület ősi cédrusfákkal és tavakkal Whistler közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -122.939951,
+                        50.200456
+                  ]
+            },
+            {
+                  "name": "Squamish Lil'wat Cultural Centre",
+                  "text": "Egy múzeum, amely a Squamish és Lil'wat bennszülött népek kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -122.947384,
+                        50.118745
+                  ]
+            },
+            {
+                  "name": "Audain Art Museum",
+                  "text": "Egy művészeti múzeum, amely Brit Columbia művészeti gyűjteményét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -122.952684,
+                        50.118239
+                  ]
+            },
+            {
+                  "name": "Lost Lake Beach",
+                  "text": "Egy népszerű strand a Lost Lake-nél Whistlerben.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.935216,
+                        50.12695
+                  ]
+            },
+            {
+                  "name": "Whistler Interpretive Forest",
+                  "text": "Egy erdős terület tanösvényekkel Whistlerben.",
+                  "category": "natural",
+                  "coords": [
+                        -123.022019,
+                        50.050591
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Train wreck",
+                  "text": "Train wreck este o atracție în Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.055522,
+                        50.08135
+                  ]
+            },
+            {
+                  "name": "Green Lake Lookout",
+                  "text": "Green Lake Lookout este un punct de belvedere cu vedere la Green Lake în Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.943995,
+                        50.151471
+                  ]
+            },
+            {
+                  "name": "Vallea Lumina",
+                  "text": "Vallea Lumina este o atracție nocturnă imersivă în Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.92214,
+                        50.171497
+                  ]
+            },
+            {
+                  "name": "Abandoned Campsite",
+                  "text": "Abandoned Campsite este o atracție în Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.965371,
+                        50.110317
+                  ]
+            },
+            {
+                  "name": "Wedge rafting",
+                  "text": "Wedge rafting este o atracție de rafting pe ape repezi în Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.95462,
+                        50.113407
+                  ]
+            },
+            {
+                  "name": "Olympic Torch",
+                  "text": "Olympic Torch este o atracție în Whistler care comemorează Jocurile Olimpice de iarnă din 2010.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.955212,
+                        50.119042
+                  ]
+            },
+            {
+                  "name": "Theatre in the Park",
+                  "text": "Theatre in the Park este un teatru în aer liber în Whistler.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.956648,
+                        50.117622
+                  ]
+            },
+            {
+                  "name": "The Plaza Galleries",
+                  "text": "The Plaza Galleries sunt galerii de artă în Whistler Village.",
+                  "category": "museum",
+                  "coords": [
+                        -122.954738,
+                        50.11777
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain Paraglide Launch",
+                  "text": "Un punct de belvedere pe Muntele Curcubeu, folosit pentru parapantă.",
+                  "category": "natural",
+                  "coords": [
+                        -122.984501,
+                        50.145038
+                  ]
+            },
+            {
+                  "name": "Mount Sproatt",
+                  "text": "Un vârf de munte lângă Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.028832,
+                        50.125623
+                  ]
+            },
+            {
+                  "name": "Rainbow Lodge historic cabins",
+                  "text": "Cabane istorice ale fostului Rainbow Lodge, un cunoscut loc de vânătoare și pescuit.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.984645,
+                        50.119563
+                  ]
+            },
+            {
+                  "name": "Cheakamus River Suspension Bridge",
+                  "text": "Un pod suspendat peste râul Cheakamus.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.032356,
+                        50.067113
+                  ]
+            },
+            {
+                  "name": "Whistler Mountain",
+                  "text": "Un munte important pentru schi, parte a zonei de schi Whistler Blackcomb.",
+                  "category": "natural",
+                  "coords": [
+                        -122.95695,
+                        50.05917
+                  ]
+            },
+            {
+                  "name": "Decker Mountain",
+                  "text": "Un vârf de munte în zona Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.854925,
+                        50.069301
+                  ]
+            },
+            {
+                  "name": "Phalanx Mountain",
+                  "text": "Un vârf de munte în zona Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.8575,
+                        50.09833
+                  ]
+            },
+            {
+                  "name": "The Spearhead",
+                  "text": "Un vârf în lanțul Spearhead lângă Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.863921,
+                        50.086329
+                  ]
+            },
+            {
+                  "name": "Blackcomb Peak",
+                  "text": "Unul dintre cele două vârfuri principale ale stațiunii de schi Whistler Blackcomb.",
+                  "category": "natural",
+                  "coords": [
+                        -122.87083,
+                        50.08139
+                  ]
+            },
+            {
+                  "name": "Flute Summit",
+                  "text": "Un vârf în zona Musical Bumps din Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.925533,
+                        50.039917
+                  ]
+            },
+            {
+                  "name": "Oboe Summit",
+                  "text": "Un vârf în zona Musical Bumps din Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.90278,
+                        50.03528
+                  ]
+            },
+            {
+                  "name": "Piccolo Summit",
+                  "text": "Un vârf în zona Musical Bumps din Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.94083,
+                        50.04667
+                  ]
+            },
+            {
+                  "name": "Fitzsimmon Fan park",
+                  "text": "Un parc de plajă în Whistler, cu o zonă de mal în formă de evantai.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.946809,
+                        50.146168
+                  ]
+            },
+            {
+                  "name": "Blackcomb Glacier Provincial Park",
+                  "text": "Un parc provincial care protejează ghețarul Blackcomb și mediul alpin din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -122.872922,
+                        50.094268
+                  ]
+            },
+            {
+                  "name": "Showh Lakes-ancient Cedars Trail Recreation Site",
+                  "text": "Un loc de recreere cu cedri seculari și lacuri lângă Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.939951,
+                        50.200456
+                  ]
+            },
+            {
+                  "name": "Squamish Lil'wat Cultural Centre",
+                  "text": "Un muzeu care prezintă culturile națiunilor indigene Squamish și Lil'wat.",
+                  "category": "museum",
+                  "coords": [
+                        -122.947384,
+                        50.118745
+                  ]
+            },
+            {
+                  "name": "Audain Art Museum",
+                  "text": "Un muzeu de artă care găzduiește o colecție de artă din Columbia Britanică.",
+                  "category": "museum",
+                  "coords": [
+                        -122.952684,
+                        50.118239
+                  ]
+            },
+            {
+                  "name": "Lost Lake Beach",
+                  "text": "O plajă populară la Lost Lake în Whistler.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.935216,
+                        50.12695
+                  ]
+            },
+            {
+                  "name": "Whistler Interpretive Forest",
+                  "text": "O zonă forestieră cu trasee interpretative în Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.022019,
+                        50.050591
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Train wreck",
+                  "text": "Train wreck is an attraction in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.055522,
+                        50.08135
+                  ]
+            },
+            {
+                  "name": "Green Lake Lookout",
+                  "text": "Green Lake Lookout is a viewpoint overlooking Green Lake in Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.943995,
+                        50.151471
+                  ]
+            },
+            {
+                  "name": "Vallea Lumina",
+                  "text": "Vallea Lumina is an immersive night-time attraction in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.92214,
+                        50.171497
+                  ]
+            },
+            {
+                  "name": "Abandoned Campsite",
+                  "text": "Abandoned Campsite is an attraction in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.965371,
+                        50.110317
+                  ]
+            },
+            {
+                  "name": "Wedge rafting",
+                  "text": "Wedge rafting is a whitewater rafting attraction in Whistler.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.95462,
+                        50.113407
+                  ]
+            },
+            {
+                  "name": "Olympic Torch",
+                  "text": "Olympic Torch is an attraction in Whistler commemorating the 2010 Winter Olympics.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.955212,
+                        50.119042
+                  ]
+            },
+            {
+                  "name": "Theatre in the Park",
+                  "text": "Theatre in the Park is an outdoor theatre in Whistler.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.956648,
+                        50.117622
+                  ]
+            },
+            {
+                  "name": "The Plaza Galleries",
+                  "text": "The Plaza Galleries are art galleries in Whistler Village.",
+                  "category": "museum",
+                  "coords": [
+                        -122.954738,
+                        50.11777
+                  ]
+            },
+            {
+                  "name": "Rainbow Mountain Paraglide Launch",
+                  "text": "A viewpoint on Rainbow Mountain used for paragliding launches.",
+                  "category": "natural",
+                  "coords": [
+                        -122.984501,
+                        50.145038
+                  ]
+            },
+            {
+                  "name": "Mount Sproatt",
+                  "text": "A mountain peak near Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.028832,
+                        50.125623
+                  ]
+            },
+            {
+                  "name": "Rainbow Lodge historic cabins",
+                  "text": "Historic cabins of the former Rainbow Lodge, a well-known hunting and fishing lodge.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.984645,
+                        50.119563
+                  ]
+            },
+            {
+                  "name": "Cheakamus River Suspension Bridge",
+                  "text": "A suspension bridge over the Cheakamus River.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.032356,
+                        50.067113
+                  ]
+            },
+            {
+                  "name": "Whistler Mountain",
+                  "text": "A major ski mountain and part of the Whistler Blackcomb ski area.",
+                  "category": "natural",
+                  "coords": [
+                        -122.95695,
+                        50.05917
+                  ]
+            },
+            {
+                  "name": "Decker Mountain",
+                  "text": "A mountain peak in the Whistler area.",
+                  "category": "natural",
+                  "coords": [
+                        -122.854925,
+                        50.069301
+                  ]
+            },
+            {
+                  "name": "Phalanx Mountain",
+                  "text": "A mountain peak in the Whistler area.",
+                  "category": "natural",
+                  "coords": [
+                        -122.8575,
+                        50.09833
+                  ]
+            },
+            {
+                  "name": "The Spearhead",
+                  "text": "A peak in the Spearhead Range near Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.863921,
+                        50.086329
+                  ]
+            },
+            {
+                  "name": "Blackcomb Peak",
+                  "text": "One of the two main peaks of the Whistler Blackcomb ski resort.",
+                  "category": "natural",
+                  "coords": [
+                        -122.87083,
+                        50.08139
+                  ]
+            },
+            {
+                  "name": "Flute Summit",
+                  "text": "A summit in the Musical Bumps area of Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.925533,
+                        50.039917
+                  ]
+            },
+            {
+                  "name": "Oboe Summit",
+                  "text": "A summit in the Musical Bumps area of Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.90278,
+                        50.03528
+                  ]
+            },
+            {
+                  "name": "Piccolo Summit",
+                  "text": "A summit in the Musical Bumps area of Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.94083,
+                        50.04667
+                  ]
+            },
+            {
+                  "name": "Fitzsimmon Fan park",
+                  "text": "A beach park in Whistler with a fan-shaped shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.946809,
+                        50.146168
+                  ]
+            },
+            {
+                  "name": "Blackcomb Glacier Provincial Park",
+                  "text": "A provincial park protecting the Blackcomb Glacier and surrounding alpine environment.",
+                  "category": "natural",
+                  "coords": [
+                        -122.872922,
+                        50.094268
+                  ]
+            },
+            {
+                  "name": "Showh Lakes-ancient Cedars Trail Recreation Site",
+                  "text": "A recreation site featuring ancient cedar trees and lakes near Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -122.939951,
+                        50.200456
+                  ]
+            },
+            {
+                  "name": "Squamish Lil'wat Cultural Centre",
+                  "text": "A museum showcasing the cultures of the Squamish and Lil'wat First Nations.",
+                  "category": "museum",
+                  "coords": [
+                        -122.947384,
+                        50.118745
+                  ]
+            },
+            {
+                  "name": "Audain Art Museum",
+                  "text": "An art museum housing a collection of British Columbia art.",
+                  "category": "museum",
+                  "coords": [
+                        -122.952684,
+                        50.118239
+                  ]
+            },
+            {
+                  "name": "Lost Lake Beach",
+                  "text": "A popular beach at Lost Lake in Whistler.",
+                  "category": "recreational",
+                  "coords": [
+                        -122.935216,
+                        50.12695
+                  ]
+            },
+            {
+                  "name": "Whistler Interpretive Forest",
+                  "text": "A forested area with interpretive trails in Whistler.",
+                  "category": "natural",
+                  "coords": [
+                        -123.022019,
+                        50.050591
+                  ]
+            }
+      ]
+},    name: { de: "Whistler", hu: "Whistler", ro: "Whistler", en: "Whistler" },
     description: { de: "Whistler ist ein Weltklasse-Resort in British Columbia, eingebettet in die spektakulären Coast Mountains. Es ist weltweit berühmt für seine außergewöhnlichen Ski- und Snowboardmöglichkeiten sowie sein lebhaftes Alpendorf.", hu: "Whistler egy világszínvonalú üdülőváros Brit Kolumbiában, a látványos Parti-hegységben. Világszerte híres kiváló síelési és snowboardozási lehetőségeiről, valamint nyüzsgő alpesi falujáról.", ro: "Whistler este o stațiune de clasă mondială din Columbia Britanică, situată în spectaculoșii Munți de Coastă. Este renumită la nivel global pentru schi, snowboarding și satul său alpin plin de viață.", en: "Whistler is a world-class resort town in British Columbia, nestled in the spectacular Coast Mountains. It is globally famous for its exceptional skiing, snowboarding, and vibrant alpine village." , es: "Whistler es un complejo de clase mundial en la Columbia Británica, ubicado en las espectaculares Coast Mountains. Es famoso en todo el mundo por sus excepcionales opciones para el esquí y el snowboard, así como por su animada villa alpina.", pt: "Whistler é um resort de classe mundial na Colúmbia Britânica, situado nas espetaculares Coast Mountains. É mundialmente famoso pelas suas excecionais oportunidades de esqui e snowboard, bem como pela sua animada vila alpina.", fr: "Whistler est une station de classe mondiale en Colombie-Britannique, nichée dans les spectaculaires montagnes côtières. Elle est mondialement connue pour ses possibilités exceptionnelles de ski et de planche à neige ainsi que pour son village alpin animé."},
     coords: [-122.9574, 50.1163], type: 'landmark', parent: 'CA', image: "/poi-images/can_whistler.webp",
     descriptionAdvanced: {
@@ -564,7 +1806,448 @@ export const canadaCities: POI[] = [
     elevation: 5959,
     coords: [-140.4055, 60.5671], type: 'landmark', parent: 'CA', image: "/poi-images/can_logan.webp"},
   {
-    id: "ca-rideau-canal",
+    id: "ca-rideau-canal", "sights": {
+      "de": [
+            {
+                  "name": "Art + Galerie",
+                  "text": "Art + Galerie ist eine Kunstgalerie in Ottawa.",
+                  "category": "museum",
+                  "coords": [
+                        -75.694271,
+                        45.426795
+                  ]
+            },
+            {
+                  "name": "Ottawa Locks",
+                  "text": "Die Ottawa Locks sind ein Aussichtspunkt mit Blick auf die Ottawa-Schleusen am Rideau Canal.",
+                  "category": "natural",
+                  "coords": [
+                        -75.695205,
+                        45.424833
+                  ]
+            },
+            {
+                  "name": "The Haunted Walk of Ottawa",
+                  "text": "The Haunted Walk of Ottawa ist ein geführter Rundgang, der Ottawas Spukgeschichte erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.695896,
+                        45.423377
+                  ]
+            },
+            {
+                  "name": "Ottawa Art Gallery",
+                  "text": "Die Ottawa Art Gallery ist eine öffentliche Kunstgalerie in Ottawa, die zeitgenössische und historische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.688144,
+                        45.425454
+                  ]
+            },
+            {
+                  "name": "Parlamentshügel",
+                  "text": "Der Parliament Hill ist ein ikonischer Komplex gotischer Gebäude in Ottawa, Sitz des kanadischen Parlaments.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699027,
+                        45.424118
+                  ]
+            },
+            {
+                  "name": "Église Unie St-Marc",
+                  "text": "Die Église Unie St-Marc ist eine United Church in Ottawa mit einem historischen Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686126,
+                        45.426623
+                  ]
+            },
+            {
+                  "name": "Rideau Canal",
+                  "text": "Der Rideau-Kanal ist eine malerische Wasserstraße in Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697003,
+                        45.425793
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "St. Joseph's ist eine Kirche im Bereich des Rideau-Kanals in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.684865,
+                        45.425185
+                  ]
+            },
+            {
+                  "name": "St. Alban's Anglican Church (Ottawa)",
+                  "text": "St. Alban's Anglican Church ist eine historische anglikanische Kirche in Ottawa in der Nähe des Rideau-Kanals.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685182,
+                        45.427495
+                  ]
+            },
+            {
+                  "name": "St. Paul Lutheran",
+                  "text": "St. Paul Lutheran ist eine lutherische Kirche im Rideau-Kanal-Gebiet Ottawas.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683757,
+                        45.425945
+                  ]
+            },
+            {
+                  "name": "Laurier House",
+                  "text": "Das Laurier House war die Residenz von zwei kanadischen Premierministern.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677967,
+                        45.427741
+                  ]
+            },
+            {
+                  "name": "Strathcona Park",
+                  "text": "Der Strathcona Park ist ein Park entlang des Rideau-Kanals in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.671867,
+                        45.4269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Art + Galerie",
+                  "text": "Az Art + Galerie egy művészeti galéria Ottawában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.694271,
+                        45.426795
+                  ]
+            },
+            {
+                  "name": "Ottawa Locks",
+                  "text": "Az Ottawa Locks egy kilátópont, ahonnan az Ottawa zsilipek láthatók a Rideau-csatornán.",
+                  "category": "natural",
+                  "coords": [
+                        -75.695205,
+                        45.424833
+                  ]
+            },
+            {
+                  "name": "The Haunted Walk of Ottawa",
+                  "text": "A The Haunted Walk of Ottawa egy vezetett séta, amely Ottawa kísértetjárta történelmét tárja fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.695896,
+                        45.423377
+                  ]
+            },
+            {
+                  "name": "Ottawa Art Gallery",
+                  "text": "Az Ottawa Art Gallery egy nyilvános művészeti galéria Ottawában, amely kortárs és történelmi művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.688144,
+                        45.425454
+                  ]
+            },
+            {
+                  "name": "Parliament Hill",
+                  "text": "A Parliament Hill egy ikonikus gótikus épületegyüttes Ottawában, a kanadai parlament otthona.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699027,
+                        45.424118
+                  ]
+            },
+            {
+                  "name": "Église Unie St-Marc",
+                  "text": "Az Église Unie St-Marc egy egyesült templom Ottawában, történelmi épülettel.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686126,
+                        45.426623
+                  ]
+            },
+            {
+                  "name": "Rideau Canal",
+                  "text": "A Rideau-csatorna egy festői vízi út Ottawában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697003,
+                        45.425793
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "St. Joseph's egy templom Ottawa Rideau-csatorna környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -75.684865,
+                        45.425185
+                  ]
+            },
+            {
+                  "name": "St. Alban's Anglican Church (Ottawa)",
+                  "text": "St. Alban's Anglican Church egy történelmi anglikán templom Ottawa-ban, a Rideau-csatorna közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685182,
+                        45.427495
+                  ]
+            },
+            {
+                  "name": "St. Paul Lutheran",
+                  "text": "St. Paul Lutheran egy evangélikus templom Ottawa Rideau-csatorna környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683757,
+                        45.425945
+                  ]
+            },
+            {
+                  "name": "Laurier House",
+                  "text": "A Laurier House két kanadai miniszterelnök rezidenciája volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677967,
+                        45.427741
+                  ]
+            },
+            {
+                  "name": "Strathcona Park",
+                  "text": "A Strathcona Park egy park az Ottawa-i Rideau-csatorna mentén.",
+                  "category": "park",
+                  "coords": [
+                        -75.671867,
+                        45.4269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Art + Galerie",
+                  "text": "Art + Galerie este o galerie de artă din Ottawa.",
+                  "category": "museum",
+                  "coords": [
+                        -75.694271,
+                        45.426795
+                  ]
+            },
+            {
+                  "name": "Ottawa Locks",
+                  "text": "Ottawa Locks este un punct de belvedere cu vedere asupra ecluzelor Ottawa de pe Canalul Rideau.",
+                  "category": "natural",
+                  "coords": [
+                        -75.695205,
+                        45.424833
+                  ]
+            },
+            {
+                  "name": "The Haunted Walk of Ottawa",
+                  "text": "The Haunted Walk of Ottawa este un tur ghidat care explorează istoria bântuită a Ottawa-ului.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.695896,
+                        45.423377
+                  ]
+            },
+            {
+                  "name": "Ottawa Art Gallery",
+                  "text": "Ottawa Art Gallery este o galerie de artă publică din Ottawa care prezintă artă contemporană și istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -75.688144,
+                        45.425454
+                  ]
+            },
+            {
+                  "name": "Parliament Hill",
+                  "text": "Parliament Hill este un complex iconic de clădiri gotice din Ottawa, sediul Parlamentului Canadei.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699027,
+                        45.424118
+                  ]
+            },
+            {
+                  "name": "Église Unie St-Marc",
+                  "text": "Église Unie St-Marc este o biserică unită din Ottawa, cu o clădire istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686126,
+                        45.426623
+                  ]
+            },
+            {
+                  "name": "Rideau Canal",
+                  "text": "Canalul Rideau este o cale navigabilă pitorească în Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697003,
+                        45.425793
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "St. Joseph's este o biserică în zona Canalului Rideau din Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.684865,
+                        45.425185
+                  ]
+            },
+            {
+                  "name": "St. Alban's Anglican Church (Ottawa)",
+                  "text": "Biserica Anglicană St. Alban este o biserică anglicană istorică în Ottawa, lângă Canalul Rideau.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685182,
+                        45.427495
+                  ]
+            },
+            {
+                  "name": "St. Paul Lutheran",
+                  "text": "St. Paul Lutheran este o biserică luterană în zona Canalului Rideau din Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683757,
+                        45.425945
+                  ]
+            },
+            {
+                  "name": "Laurier House",
+                  "text": "Casa Laurier a fost reședința a doi prim-miniștri canadieni.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677967,
+                        45.427741
+                  ]
+            },
+            {
+                  "name": "Strathcona Park",
+                  "text": "Parcul Strathcona este un parc de-a lungul Canalului Rideau din Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.671867,
+                        45.4269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Art + Galerie",
+                  "text": "Art + Galerie is an art gallery in Ottawa.",
+                  "category": "museum",
+                  "coords": [
+                        -75.694271,
+                        45.426795
+                  ]
+            },
+            {
+                  "name": "Ottawa Locks",
+                  "text": "Ottawa Locks is a viewpoint overlooking the Ottawa Locks on the Rideau Canal.",
+                  "category": "natural",
+                  "coords": [
+                        -75.695205,
+                        45.424833
+                  ]
+            },
+            {
+                  "name": "The Haunted Walk of Ottawa",
+                  "text": "The Haunted Walk of Ottawa is a guided walking tour exploring Ottawa's haunted history.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.695896,
+                        45.423377
+                  ]
+            },
+            {
+                  "name": "Ottawa Art Gallery",
+                  "text": "Ottawa Art Gallery is a public art gallery in Ottawa showcasing contemporary and historical art.",
+                  "category": "museum",
+                  "coords": [
+                        -75.688144,
+                        45.425454
+                  ]
+            },
+            {
+                  "name": "Parliament Hill",
+                  "text": "Parliament Hill is an iconic complex of Gothic buildings in Ottawa, home to Canada's Parliament.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.699027,
+                        45.424118
+                  ]
+            },
+            {
+                  "name": "Église Unie St-Marc",
+                  "text": "Église Unie St-Marc is a United church in Ottawa with a historic building.",
+                  "category": "religious",
+                  "coords": [
+                        -75.686126,
+                        45.426623
+                  ]
+            },
+            {
+                  "name": "Rideau Canal",
+                  "text": "The Rideau Canal is a scenic waterway in Ottawa.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.697003,
+                        45.425793
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "St. Joseph's is a church in Ottawa's Rideau Canal area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.684865,
+                        45.425185
+                  ]
+            },
+            {
+                  "name": "St. Alban's Anglican Church (Ottawa)",
+                  "text": "St. Alban's Anglican Church is a historic Anglican church in Ottawa near the Rideau Canal.",
+                  "category": "religious",
+                  "coords": [
+                        -75.685182,
+                        45.427495
+                  ]
+            },
+            {
+                  "name": "St. Paul Lutheran",
+                  "text": "St. Paul Lutheran is a Lutheran church in Ottawa's Rideau Canal area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.683757,
+                        45.425945
+                  ]
+            },
+            {
+                  "name": "Laurier House",
+                  "text": "Laurier House was the residence of two Canadian prime ministers.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.677967,
+                        45.427741
+                  ]
+            },
+            {
+                  "name": "Strathcona Park",
+                  "text": "Strathcona Park is a park along the Rideau Canal in Ottawa.",
+                  "category": "park",
+                  "coords": [
+                        -75.671867,
+                        45.4269
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CA",
     coords: [-75.6980, 45.4244],
@@ -591,7 +2274,88 @@ export const canadaCities: POI[] = [
     facts: { de: ["UNESCO Weltkulturerbe", "Längste Eislaufbahn der Welt", "Ältester Kanal in NA", "Verbindet Ottawa und Kingston"], hu: ["UNESCO Világörökség", "A világ leghosszabb korcsolyapályája", "Észak-Amerika legrégebbi csatornája", "Ottawát és Kingstont köti össze"], ro: ["Patrimoniu Mondial UNESCO", "Cel mai lung patinoar din lume", "Cel mai vechi canal din NA", "Leagă Ottawa de Kingston"], en: ["UNESCO World Heritage Site", "World's longest skating rink", "Oldest operated canal in NA", "Connects Ottawa to Kingston"] , es: ["Patrimonio de la Humanidad UNESCO", "La pista de patinaje más larga del mundo", "Canal más antiguo de Norteamérica", "Conecta Ottawa y Kingston"], pt: ["Património Mundial da UNESCO", "A pista de patinagem mais longa do mundo", "Canal mais antigo da América do Norte", "Liga Otava e Kingston"], fr: ["Patrimoine mondial de l'UNESCO", "La plus longue patinoire au monde", "Plus ancien canal d'Amérique du Nord", "Relie Ottawa et Kingston"]},
     length: 202, historyYear: 1826, historyPeriod: "Victorian Era", image: "/poi-images/ca-rideau-canal.webp"},
   {
-    id: "ca-buffalo-jump",
+    id: "ca-buffalo-jump", "sights": {
+      "de": [
+            {
+                  "name": "Head-Smashed-In Buffalo Jump",
+                  "text": "Ein UNESCO-Weltkulturerbe, das von indigenen Völkern zur Büffeljagd genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653042,
+                        49.707542
+                  ]
+            },
+            {
+                  "name": "Head-Smashed-In Buffalo Jump World Heritage Site",
+                  "text": "Ein UNESCO-Weltkulturerbe-Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653693,
+                        49.718951
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Head-Smashed-In Buffalo Jump",
+                  "text": "Egy UNESCO világörökségi helyszín, amelyet az őslakosok bölényvadászatra használtak.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653042,
+                        49.707542
+                  ]
+            },
+            {
+                  "name": "Head-Smashed-In Buffalo Jump World Heritage Site",
+                  "text": "Egy UNESCO világörökségi természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653693,
+                        49.718951
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Head-Smashed-In Buffalo Jump",
+                  "text": "Un sit UNESCO utilizat de popoarele indigene pentru vânătoarea de bivoli.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653042,
+                        49.707542
+                  ]
+            },
+            {
+                  "name": "Head-Smashed-In Buffalo Jump World Heritage Site",
+                  "text": "O rezervație naturală din Patrimoniul Mondial UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653693,
+                        49.718951
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Head-Smashed-In Buffalo Jump",
+                  "text": "A UNESCO World Heritage Site used by indigenous peoples for buffalo hunting.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653042,
+                        49.707542
+                  ]
+            },
+            {
+                  "name": "Head-Smashed-In Buffalo Jump World Heritage Site",
+                  "text": "A UNESCO World Heritage Site nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -113.653693,
+                        49.718951
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CA",
     coords: [-113.6500, 49.7494],
@@ -618,7 +2382,592 @@ export const canadaCities: POI[] = [
     facts: { de: ["UNESCO Weltkulturerbe", "Über 6.000 Jahre genutzt", "Indigene Jagdtechnik", "Großes Informationszentrum"], hu: ["UNESCO Világörökség", "Több mint 6000 évig használták", "Őslakos vadászati technika", "Nagy látogatóközpont"], ro: ["Patrimoniu Mondial UNESCO", "Utilizat de peste 6.000 de ani", "Tehnică de vânătoare indigenă", "Centru de interpretare vast"], en: ["UNESCO World Heritage Site", "Used for over 6,000 years", "Ancient hunting technique", "Award-winning interpretive center"] , es: ["Patrimonio de la Humanidad por la UNESCO", "Utilizado durante más de 6.000 años", "Técnica de caza indígena", "Gran centro de información"], pt: ["Património Mundial da UNESCO", "Utilizado há mais de 6.000 anos", "Técnica de caça indígena", "Grande centro de informações"], fr: ["Patrimoine mondial de l'UNESCO", "Utilisé depuis plus de 6 000 ans", "Technique de chasse autochtone", "Grand centre d'interprétation"]},
     elevation: 1050, historyYear: -4000, historyPeriod: "Pre-Contact", image: "/poi-images/ca-buffalo-jump.webp"},
   {
-    id: "ca-plains-abraham",
+    id: "ca-plains-abraham", "sights": {
+      "de": [
+            {
+                  "name": "Musée des plaines d'Abraham",
+                  "text": "Ein Museum in ca-plains-abraham, das der Schlacht auf den Abraham-Ebenen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -71.212844,
+                        46.807027
+                  ]
+            },
+            {
+                  "name": "Maison des métiers d'Art",
+                  "text": "Ein Kunstzentrum in ca-plains-abraham, das Handwerk und Kunsthandwerk präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.224411,
+                        46.813362
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Capitale",
+                  "text": "Eine Aussichtsplattform in ca-plains-abraham mit Panoramablick über Quebec City.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217802,
+                        46.808042
+                  ]
+            },
+            {
+                  "name": "Le monument aux Acadiens",
+                  "text": "Ein Denkmal für die Akadier in der Abraham-Ebene.",
+                  "category": "historical",
+                  "coords": [
+                        -71.221195,
+                        46.807471
+                  ]
+            },
+            {
+                  "name": "Galerie d'art la Gazelle",
+                  "text": "Eine Kunstgalerie in der Abraham-Ebene.",
+                  "category": "museum",
+                  "coords": [
+                        -71.224779,
+                        46.808289
+                  ]
+            },
+            {
+                  "name": "Galerie des arts visuels",
+                  "text": "Ein Zentrum für bildende Kunst in der Abraham-Ebene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22682,
+                        46.812453
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Québec",
+                  "text": "Ein bedeutender Veranstaltungsort für darstellende Künste in Quebec City, in der Abraham-Ebene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.221733,
+                        46.806285
+                  ]
+            },
+            {
+                  "name": "Tour Martello 2",
+                  "text": "Einer der Martello-Türme in der Abraham-Ebene, Teil einer Reihe von Verteidigungstürmen, die von den Briten erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.219526,
+                        46.80375
+                  ]
+            },
+            {
+                  "name": "Tour Martello 1",
+                  "text": "Einer der Martello-Türme in der Abraham-Ebene, Teil einer Reihe von Verteidigungstürmen, die von den Briten erbaut wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217021,
+                        46.80167
+                  ]
+            },
+            {
+                  "name": "Parc des Champs-de-Bataille",
+                  "text": "Ein Park in der Abraham-Ebene.",
+                  "category": "park",
+                  "coords": [
+                        -71.220199,
+                        46.800789
+                  ]
+            },
+            {
+                  "name": "Jardin Jean-Paul-L'Allier",
+                  "text": "Ein Garten, benannt nach einem ehemaligen Bürgermeister von Quebec City, in der Abraham-Ebene.",
+                  "category": "park",
+                  "coords": [
+                        -71.222926,
+                        46.812851
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Eine Kirche in der Abraham-Ebene.",
+                  "category": "religious",
+                  "coords": [
+                        -71.222045,
+                        46.809469
+                  ]
+            },
+            {
+                  "name": "Tour Martello 4",
+                  "text": "Einer der Martello-Türme in der Abraham-Ebene.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.227327,
+                        46.8093
+                  ]
+            },
+            {
+                  "name": "La Bordée",
+                  "text": "Eine Theatergruppe in Quebec City, in der Abraham-Ebene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.225965,
+                        46.813578
+                  ]
+            },
+            {
+                  "name": "L'Impérial Bell",
+                  "text": "Ein Theater in der Abraham-Ebene.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.227744,
+                        46.813443
+                  ]
+            },
+            {
+                  "name": "Pont Lavigueur",
+                  "text": "Eine Brücke in der Abraham-Ebene.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.239367,
+                        46.821811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée des plaines d'Abraham",
+                  "text": "Múzeum a ca-plains-abraham-ben, amely az ábrahámi síkság csatájának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -71.212844,
+                        46.807027
+                  ]
+            },
+            {
+                  "name": "Maison des métiers d'Art",
+                  "text": "Művészeti központ a ca-plains-abraham-ben, kézműves és mesterségbeli munkákat bemutatva.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.224411,
+                        46.813362
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Capitale",
+                  "text": "Egy kilátó a ca-plains-abraham-ben, panorámás kilátással Quebec Cityre.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217802,
+                        46.808042
+                  ]
+            },
+            {
+                  "name": "Le monument aux Acadiens",
+                  "text": "Az akádoknak szentelt emlékmű az Abraham-síkságon.",
+                  "category": "historical",
+                  "coords": [
+                        -71.221195,
+                        46.807471
+                  ]
+            },
+            {
+                  "name": "Galerie d'art la Gazelle",
+                  "text": "Egy művészeti galéria az Abraham-síkságon.",
+                  "category": "museum",
+                  "coords": [
+                        -71.224779,
+                        46.808289
+                  ]
+            },
+            {
+                  "name": "Galerie des arts visuels",
+                  "text": "Képzőművészeti központ az Abraham-síkságon.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22682,
+                        46.812453
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Québec",
+                  "text": "Egy jelentős előadó-művészeti helyszín Quebec Cityben, az Abraham-síkságon.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.221733,
+                        46.806285
+                  ]
+            },
+            {
+                  "name": "Tour Martello 2",
+                  "text": "Az egyik Martello-torony az Abraham-síkságon, a britek által épített védőtornyok sorának része.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.219526,
+                        46.80375
+                  ]
+            },
+            {
+                  "name": "Tour Martello 1",
+                  "text": "Az egyik Martello-torony az Abraham-síkságon, a britek által épített védőtornyok sorának része.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217021,
+                        46.80167
+                  ]
+            },
+            {
+                  "name": "Parc des Champs-de-Bataille",
+                  "text": "Egy park az Abraham-síkságon.",
+                  "category": "park",
+                  "coords": [
+                        -71.220199,
+                        46.800789
+                  ]
+            },
+            {
+                  "name": "Jardin Jean-Paul-L'Allier",
+                  "text": "Egy kert, amely Quebec City egykori polgármesteréről kapta a nevét, az Abraham-síkságon.",
+                  "category": "park",
+                  "coords": [
+                        -71.222926,
+                        46.812851
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "Egy templom az Abraham-síkságon.",
+                  "category": "religious",
+                  "coords": [
+                        -71.222045,
+                        46.809469
+                  ]
+            },
+            {
+                  "name": "Tour Martello 4",
+                  "text": "Az egyik Martello-torony az Abraham-síkságon.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.227327,
+                        46.8093
+                  ]
+            },
+            {
+                  "name": "La Bordée",
+                  "text": "Egy színházi társaság Quebec Cityben, az Abraham-síkságon.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.225965,
+                        46.813578
+                  ]
+            },
+            {
+                  "name": "L'Impérial Bell",
+                  "text": "Egy színház az Abraham-síkságon.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.227744,
+                        46.813443
+                  ]
+            },
+            {
+                  "name": "Pont Lavigueur",
+                  "text": "Egy híd az Abraham-síkságon.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.239367,
+                        46.821811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée des plaines d'Abraham",
+                  "text": "Un muzeu în ca-plains-abraham dedicat Bătăliei de pe Câmpiile lui Abraham.",
+                  "category": "museum",
+                  "coords": [
+                        -71.212844,
+                        46.807027
+                  ]
+            },
+            {
+                  "name": "Maison des métiers d'Art",
+                  "text": "Un centru de arte în ca-plains-abraham care prezintă meșteșuguri și lucrări artizanale.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.224411,
+                        46.813362
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Capitale",
+                  "text": "O platformă de observație în ca-plains-abraham cu vedere panoramică asupra orașului Quebec.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217802,
+                        46.808042
+                  ]
+            },
+            {
+                  "name": "Le monument aux Acadiens",
+                  "text": "Un monument dedicat poporului acadian pe Câmpia lui Abraham.",
+                  "category": "historical",
+                  "coords": [
+                        -71.221195,
+                        46.807471
+                  ]
+            },
+            {
+                  "name": "Galerie d'art la Gazelle",
+                  "text": "O galerie de artă pe Câmpia lui Abraham.",
+                  "category": "museum",
+                  "coords": [
+                        -71.224779,
+                        46.808289
+                  ]
+            },
+            {
+                  "name": "Galerie des arts visuels",
+                  "text": "Un centru de arte vizuale pe Câmpia lui Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22682,
+                        46.812453
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Québec",
+                  "text": "Un important loc de spectacole în Quebec City, pe Câmpia lui Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.221733,
+                        46.806285
+                  ]
+            },
+            {
+                  "name": "Tour Martello 2",
+                  "text": "Unul dintre turnurile Martello de pe Câmpia lui Abraham, parte a unei serii de turnuri de apărare construite de britanici.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.219526,
+                        46.80375
+                  ]
+            },
+            {
+                  "name": "Tour Martello 1",
+                  "text": "Unul dintre turnurile Martello de pe Câmpia lui Abraham, parte a unei serii de turnuri de apărare construite de britanici.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217021,
+                        46.80167
+                  ]
+            },
+            {
+                  "name": "Parc des Champs-de-Bataille",
+                  "text": "Un parc pe Câmpia lui Abraham.",
+                  "category": "park",
+                  "coords": [
+                        -71.220199,
+                        46.800789
+                  ]
+            },
+            {
+                  "name": "Jardin Jean-Paul-L'Allier",
+                  "text": "O grădină numită după un fost primar al orașului Quebec City, pe Câmpia lui Abraham.",
+                  "category": "park",
+                  "coords": [
+                        -71.222926,
+                        46.812851
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "O biserică pe Câmpia lui Abraham.",
+                  "category": "religious",
+                  "coords": [
+                        -71.222045,
+                        46.809469
+                  ]
+            },
+            {
+                  "name": "Tour Martello 4",
+                  "text": "Unul dintre turnurile Martello de pe Câmpia lui Abraham.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.227327,
+                        46.8093
+                  ]
+            },
+            {
+                  "name": "La Bordée",
+                  "text": "O companie de teatru în Quebec City, pe Câmpia lui Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.225965,
+                        46.813578
+                  ]
+            },
+            {
+                  "name": "L'Impérial Bell",
+                  "text": "Un teatru pe Câmpia lui Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.227744,
+                        46.813443
+                  ]
+            },
+            {
+                  "name": "Pont Lavigueur",
+                  "text": "Un pod pe Câmpia lui Abraham.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.239367,
+                        46.821811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée des plaines d'Abraham",
+                  "text": "A museum in ca-plains-abraham dedicated to the Battle of the Plains of Abraham.",
+                  "category": "museum",
+                  "coords": [
+                        -71.212844,
+                        46.807027
+                  ]
+            },
+            {
+                  "name": "Maison des métiers d'Art",
+                  "text": "An arts centre in ca-plains-abraham showcasing crafts and artisan work.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.224411,
+                        46.813362
+                  ]
+            },
+            {
+                  "name": "Observatoire de la Capitale",
+                  "text": "An observation deck in ca-plains-abraham offering panoramic views of Quebec City.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217802,
+                        46.808042
+                  ]
+            },
+            {
+                  "name": "Le monument aux Acadiens",
+                  "text": "A monument dedicated to the Acadian people on the Plains of Abraham.",
+                  "category": "historical",
+                  "coords": [
+                        -71.221195,
+                        46.807471
+                  ]
+            },
+            {
+                  "name": "Galerie d'art la Gazelle",
+                  "text": "An art gallery on the Plains of Abraham.",
+                  "category": "museum",
+                  "coords": [
+                        -71.224779,
+                        46.808289
+                  ]
+            },
+            {
+                  "name": "Galerie des arts visuels",
+                  "text": "A visual arts centre on the Plains of Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.22682,
+                        46.812453
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Québec",
+                  "text": "A major performing arts venue in Quebec City, on the Plains of Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.221733,
+                        46.806285
+                  ]
+            },
+            {
+                  "name": "Martello Tower 2",
+                  "text": "One of the Martello towers on the Plains of Abraham, part of a series of defensive towers built by the British.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.219526,
+                        46.80375
+                  ]
+            },
+            {
+                  "name": "Martello Tower 1",
+                  "text": "One of the Martello towers on the Plains of Abraham, part of a series of defensive towers built by the British.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.217021,
+                        46.80167
+                  ]
+            },
+            {
+                  "name": "Battlefield Park",
+                  "text": "A park on the Plains of Abraham.",
+                  "category": "park",
+                  "coords": [
+                        -71.220199,
+                        46.800789
+                  ]
+            },
+            {
+                  "name": "Jardin Jean-Paul-L'Allier",
+                  "text": "A garden named after a former mayor of Quebec City, on the Plains of Abraham.",
+                  "category": "park",
+                  "coords": [
+                        -71.222926,
+                        46.812851
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Baptiste",
+                  "text": "A church on the Plains of Abraham.",
+                  "category": "religious",
+                  "coords": [
+                        -71.222045,
+                        46.809469
+                  ]
+            },
+            {
+                  "name": "Martello Tower 4",
+                  "text": "One of the Martello towers on the Plains of Abraham.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.227327,
+                        46.8093
+                  ]
+            },
+            {
+                  "name": "La Bordée",
+                  "text": "A theatre company in Quebec City, on the Plains of Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.225965,
+                        46.813578
+                  ]
+            },
+            {
+                  "name": "L'Impérial Bell",
+                  "text": "A theatre on the Plains of Abraham.",
+                  "category": "cultural",
+                  "coords": [
+                        -71.227744,
+                        46.813443
+                  ]
+            },
+            {
+                  "name": "Pont Lavigueur",
+                  "text": "A bridge on the Plains of Abraham.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.239367,
+                        46.821811
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "CA",
     coords: [-71.2214, 46.8027],
@@ -645,7 +2994,376 @@ export const canadaCities: POI[] = [
     facts: { de: ["Historisches Schlachtfeld", "Schlacht von 1759", "Beide Generäle fielen hier", "Heute ein großer Stadtpark"], hu: ["Történelmi csatatér", "Az 1759-es csata helyszíne", "Mindkét hadvezér itt esett el", "Ma nagy városi park"], ro: ["Câmp de bătălie istoric", "Bătălia din 1759", "Ambii generali au murit aici", "Astăzi un mare parc urban"], en: ["Historic battlefield", "Site of the 1759 battle", "Both generals died in the conflict", "Now a major urban park"] , es: ["Campo de batalla histórico", "Batalla de 1759", "Ambos generales cayeron aquí", "Hoy un gran parque urbano"], pt: ["Campo de batalha histórico", "Batalha de 1759", "Ambos os generais morreram aqui", "Atualmente um grande parque urbano"], fr: ["Champ de bataille historique", "Bataille de 1759", "Les deux généraux y sont tombés", "Aujourd'hui un grand parc urbain"]},
     historyYear: 1759, historyPeriod: "Seven Years' War", image: "/poi-images/ca-plains-abraham.webp"},
   {
-    id: "ca-peggys-cove",
+    id: "ca-peggys-cove", "sights": {
+      "de": [
+            {
+                  "name": "Reach Hill",
+                  "text": "Reach Hill ist ein Gipfel in Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.857608,
+                        44.500919
+                  ]
+            },
+            {
+                  "name": "Kiley Hill",
+                  "text": "Kiley Hill ist ein Gipfel in Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.834245,
+                        44.536568
+                  ]
+            },
+            {
+                  "name": "Myras Beach",
+                  "text": "Myras Beach ist ein Strand in Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.824395,
+                        44.502438
+                  ]
+            },
+            {
+                  "name": "Cherrys Beach",
+                  "text": "Cherrys Beach ist ein Strand in Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.006563,
+                        44.509081
+                  ]
+            },
+            {
+                  "name": "Fishermen’s Monument",
+                  "text": "Fishermen’s Monument ist ein Denkmal in Peggy's Cove.",
+                  "category": "historical",
+                  "coords": [
+                        -63.914309,
+                        44.493947
+                  ]
+            },
+            {
+                  "name": "Indian Harbour Light",
+                  "text": "Indian Harbour Light ist ein Leuchtturm in Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.945724,
+                        44.522009
+                  ]
+            },
+            {
+                  "name": "Peggys Point Lighthouse",
+                  "text": "Peggys Point Lighthouse ist ein berühmter Leuchtturm in Peggy's Cove, einer der meistfotografierten der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.918677,
+                        44.491821
+                  ]
+            },
+            {
+                  "name": "Blind Bay",
+                  "text": "Blind Bay ist eine Bucht in Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.833556,
+                        44.509693
+                  ]
+            },
+            {
+                  "name": "Northern Arm",
+                  "text": "Northern Arm ist eine Bucht in Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.86636,
+                        44.509009
+                  ]
+            },
+            {
+                  "name": "Dover Soi",
+                  "text": "Dover Soi ist eine Bucht in Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87028,
+                        44.498835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reach Hill",
+                  "text": "A Reach Hill egy csúcs Peggy's Cove-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -63.857608,
+                        44.500919
+                  ]
+            },
+            {
+                  "name": "Kiley Hill",
+                  "text": "A Kiley Hill egy csúcs Peggy's Cove-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -63.834245,
+                        44.536568
+                  ]
+            },
+            {
+                  "name": "Myras Beach",
+                  "text": "A Myras Beach egy strand Peggy's Cove-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.824395,
+                        44.502438
+                  ]
+            },
+            {
+                  "name": "Cherrys Beach",
+                  "text": "A Cherrys Beach egy strand Peggy's Cove-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.006563,
+                        44.509081
+                  ]
+            },
+            {
+                  "name": "Fishermen’s Monument",
+                  "text": "A Fishermen’s Monument egy emlékmű Peggy's Cove-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -63.914309,
+                        44.493947
+                  ]
+            },
+            {
+                  "name": "Indian Harbour Light",
+                  "text": "Az Indian Harbour Light egy világítótorony Peggy's Cove-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.945724,
+                        44.522009
+                  ]
+            },
+            {
+                  "name": "Peggys Point Lighthouse",
+                  "text": "A Peggys Point Lighthouse egy híres világítótorony Peggy's Cove-ban, a világ egyik legtöbbet fotózott világítótornya.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.918677,
+                        44.491821
+                  ]
+            },
+            {
+                  "name": "Blind Bay",
+                  "text": "A Blind Bay egy öböl Peggy's Cove-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.833556,
+                        44.509693
+                  ]
+            },
+            {
+                  "name": "Northern Arm",
+                  "text": "A Northern Arm egy öböl Peggy's Cove-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.86636,
+                        44.509009
+                  ]
+            },
+            {
+                  "name": "Dover Soi",
+                  "text": "A Dover Soi egy öböl Peggy's Cove-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87028,
+                        44.498835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reach Hill",
+                  "text": "Reach Hill este un vârf în Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.857608,
+                        44.500919
+                  ]
+            },
+            {
+                  "name": "Kiley Hill",
+                  "text": "Kiley Hill este un vârf în Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.834245,
+                        44.536568
+                  ]
+            },
+            {
+                  "name": "Myras Beach",
+                  "text": "Plaja Myras este o plajă în Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.824395,
+                        44.502438
+                  ]
+            },
+            {
+                  "name": "Cherrys Beach",
+                  "text": "Plaja Cherrys este o plajă în Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.006563,
+                        44.509081
+                  ]
+            },
+            {
+                  "name": "Fishermen’s Monument",
+                  "text": "Monumentul pescarilor este un monument în Peggy's Cove.",
+                  "category": "historical",
+                  "coords": [
+                        -63.914309,
+                        44.493947
+                  ]
+            },
+            {
+                  "name": "Indian Harbour Light",
+                  "text": "Farul Indian Harbour este un far în Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.945724,
+                        44.522009
+                  ]
+            },
+            {
+                  "name": "Peggys Point Lighthouse",
+                  "text": "Farul Peggys Point este un far celebru în Peggy's Cove, unul dintre cele mai fotografiate din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.918677,
+                        44.491821
+                  ]
+            },
+            {
+                  "name": "Blind Bay",
+                  "text": "Golful Blind este un golf în Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.833556,
+                        44.509693
+                  ]
+            },
+            {
+                  "name": "Northern Arm",
+                  "text": "Northern Arm este un golf în Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.86636,
+                        44.509009
+                  ]
+            },
+            {
+                  "name": "Dover Soi",
+                  "text": "Dover Soi este un golf în Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87028,
+                        44.498835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reach Hill",
+                  "text": "Reach Hill is a peak near Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.857608,
+                        44.500919
+                  ]
+            },
+            {
+                  "name": "Kiley Hill",
+                  "text": "Kiley Hill is a peak near Peggy's Cove.",
+                  "category": "natural",
+                  "coords": [
+                        -63.834245,
+                        44.536568
+                  ]
+            },
+            {
+                  "name": "Myras Beach",
+                  "text": "Myras Beach is a beach near Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.824395,
+                        44.502438
+                  ]
+            },
+            {
+                  "name": "Cherrys Beach",
+                  "text": "Cherrys Beach is a beach near Peggy's Cove.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.006563,
+                        44.509081
+                  ]
+            },
+            {
+                  "name": "Fishermen’s Monument",
+                  "text": "Fishermen’s Monument is a monument in Peggy's Cove.",
+                  "category": "historical",
+                  "coords": [
+                        -63.914309,
+                        44.493947
+                  ]
+            },
+            {
+                  "name": "Indian Harbour Light",
+                  "text": "Indian Harbour Light is a lighthouse near Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.945724,
+                        44.522009
+                  ]
+            },
+            {
+                  "name": "Peggys Point Lighthouse",
+                  "text": "Peggys Point Lighthouse is a famous lighthouse in Peggy's Cove, one of the most photographed in the world.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.918677,
+                        44.491821
+                  ]
+            },
+            {
+                  "name": "Blind Bay",
+                  "text": "Blind Bay is a bay near Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.833556,
+                        44.509693
+                  ]
+            },
+            {
+                  "name": "Northern Arm",
+                  "text": "Northern Arm is a bay near Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.86636,
+                        44.509009
+                  ]
+            },
+            {
+                  "name": "Dover Soi",
+                  "text": "Dover Soi is a bay near Peggy's Cove.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.87028,
+                        44.498835
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA",
     coords: [-63.9151, 44.4924],
@@ -672,7 +3390,1312 @@ export const canadaCities: POI[] = [
     facts: { de: ["Meistfotografierter Leuchtturm", "Auf Granitfelsen erbaut", "Aktives Navigationslicht", "Charmantes Fischerdorf"], hu: ["A legtöbbet fényképezett világítótorony", "Gránitsziklákra épült", "Aktív navigációs fény", "Bájos halászfalu"], ro: ["Cel mai fotografiat far", "Construit pe stânci de granit", "Lumină de navigație activă", "Sat de pescari fermecător"], en: ["Most photographed lighthouse", "Built on granite bedrock", "Active navigation aid", "Iconic fishing village setting"] , es: ["Faro más fotografiado", "Construido sobre rocas de granito", "Luz de navegación activa", "Encantador pueblo pesquero"], pt: ["Farol mais fotografado", "Construído sobre rochas de granito", "Luz de navegação ativa", "Charmosa aldeia piscatória"], fr: ["Phare le plus photographié", "Construit sur des rochers de granit", "Feu de navigation actif", "Charmant village de pêcheurs"]},
     elevation: 15, historyYear: 1915, historyPeriod: "Modern", image: "/poi-images/ca-peggys-cove.webp"},
   {
-    id: "ca-parliament-hill",
+    id: "ca-parliament-hill", "sights": {
+      "de": [
+            {
+                  "name": "Bank of Canada Museum",
+                  "text": "Ein Museum in Ottawa, das die Geschichte des kanadischen Geldes zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.702062,
+                        45.421506
+                  ]
+            },
+            {
+                  "name": "Kanadisches Kriegsmuseum",
+                  "text": "Das nationale Militärmuseum Kanadas in Ottawa, das die Kriegsgeschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -75.717114,
+                        45.417079
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "Eine der ältesten Kirchen in Ottawa, Sitz der Presbyterianischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704038,
+                        45.420501
+                  ]
+            },
+            {
+                  "name": "St. Peter's Evangelical Lutheran Church",
+                  "text": "Eine historische lutherische Kirche in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70726,
+                        45.418328
+                  ]
+            },
+            {
+                  "name": "Westminster Presbyterian Church",
+                  "text": "Eine historische presbyterianische Kirche im Zentrum Ottawas.",
+                  "category": "religious",
+                  "coords": [
+                        -75.755767,
+                        45.388684
+                  ]
+            },
+            {
+                  "name": "Pont Champlain Bridge",
+                  "text": "Eine Brücke in Ottawa, die über den Ottawa River nach Gatineau führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.759108,
+                        45.40914
+                  ]
+            },
+            {
+                  "name": "Pont du Portage",
+                  "text": "Eine wichtige Brücke in Ottawa, die die Verbindung nach Gatineau herstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.713594,
+                        45.422373
+                  ]
+            },
+            {
+                  "name": "Chaudière Falls",
+                  "text": "Chaudière Falls ist ein Aussichtspunkt im Bereich ca-parliament-hill, bekannt für seinen Wasserfall am Ottawa River.",
+                  "category": "natural",
+                  "coords": [
+                        -75.721474,
+                        45.41942
+                  ]
+            },
+            {
+                  "name": "Bate Island",
+                  "text": "Bate Island ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.756372,
+                        45.408818
+                  ]
+            },
+            {
+                  "name": "Heather Crowe Park",
+                  "text": "Heather Crowe Park ist ein Park im Bereich ca-parliament-hill, benannt nach der Anti-Raucher-Aktivistin Heather Crowe.",
+                  "category": "park",
+                  "coords": [
+                        -75.746984,
+                        45.39814
+                  ]
+            },
+            {
+                  "name": "McKellar Park",
+                  "text": "McKellar Park ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.76556,
+                        45.382997
+                  ]
+            },
+            {
+                  "name": "Maplelawn Historic Garden",
+                  "text": "Maplelawn Historic Garden ist ein Garten im Bereich ca-parliament-hill, der als National Historic Site ausgewiesen ist.",
+                  "category": "park",
+                  "coords": [
+                        -75.761353,
+                        45.38839
+                  ]
+            },
+            {
+                  "name": "Salle Jean-Despréz",
+                  "text": "Salle Jean-Despréz ist ein Theater im Bereich ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.711005,
+                        45.4276
+                  ]
+            },
+            {
+                  "name": "Irving Greenberg Theatre Centre",
+                  "text": "Irving Greenberg Theatre Centre ist ein Theater im Bereich ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.731878,
+                        45.400071
+                  ]
+            },
+            {
+                  "name": "Protection of the Holy Virgin Memorial Church",
+                  "text": "Protection of the Holy Virgin Memorial Church ist ein Gotteshaus im Bereich ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.727994,
+                        45.407042
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Île",
+                  "text": "Théâtre de l'Île ist ein Theater im Bereich ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.724699,
+                        45.425569
+                  ]
+            },
+            {
+                  "name": "Centre culturel Jacques-Auger",
+                  "text": "Centre culturel Jacques-Auger ist ein Kunstzentrum im Bereich ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.718506,
+                        45.426744
+                  ]
+            },
+            {
+                  "name": "St. George's Parish",
+                  "text": "St. George's Parish ist ein Gotteshaus im Bereich ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.739479,
+                        45.39626
+                  ]
+            },
+            {
+                  "name": "Canadian United Pentecostal Church",
+                  "text": "Canadian United Pentecostal Church ist ein Gotteshaus im Bereich ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.752318,
+                        45.393091
+                  ]
+            },
+            {
+                  "name": "Lazy Bay",
+                  "text": "Lazy Bay ist eine Bucht im Bereich ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.731131,
+                        45.411142
+                  ]
+            },
+            {
+                  "name": "Nepean Bay",
+                  "text": "Nepean Bay ist eine Bucht im Bereich ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.722158,
+                        45.413965
+                  ]
+            },
+            {
+                  "name": "Chief William Commanda Bridge",
+                  "text": "Chief William Commanda Bridge ist eine Brücke im Bereich ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.72592,
+                        45.412631
+                  ]
+            },
+            {
+                  "name": "Pont de la Chaudière",
+                  "text": "Chaudière Bridge ist eine Brücke im Bereich ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718435,
+                        45.421346
+                  ]
+            },
+            {
+                  "name": "Parc Allen",
+                  "text": "Parc Allen ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.785319,
+                        45.412339
+                  ]
+            },
+            {
+                  "name": "Parc Marcel-Chaput",
+                  "text": "Parc Marcel-Chaput ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.76238,
+                        45.420444
+                  ]
+            },
+            {
+                  "name": "Parc de Cherbourg",
+                  "text": "Parc Vanier ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.806004,
+                        45.386927
+                  ]
+            },
+            {
+                  "name": "Parc Lakeview",
+                  "text": "Parc Lakeview ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.800165,
+                        45.391569
+                  ]
+            },
+            {
+                  "name": "Parc des Trembles",
+                  "text": "Parc des Trembles ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.768217,
+                        45.427327
+                  ]
+            },
+            {
+                  "name": "Parc des Noisetiers",
+                  "text": "Parc des Noisetiers ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.761392,
+                        45.428337
+                  ]
+            },
+            {
+                  "name": "Parc Baker",
+                  "text": "Baker Park ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.73045,
+                        45.423187
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Dallaire",
+                  "text": "Parc Jean-Dallaire ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.727527,
+                        45.426555
+                  ]
+            },
+            {
+                  "name": "Parc des Chars-de-Combat",
+                  "text": "Parc des Chars-de-Combat ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.731913,
+                        45.42652
+                  ]
+            },
+            {
+                  "name": "Parc Saint-Jean-Bosco",
+                  "text": "Parc Saint-Jean-Bosco ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.732338,
+                        45.428219
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Thérèse",
+                  "text": "Parc Sainte-Thérèse ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.748593,
+                        45.423736
+                  ]
+            },
+            {
+                  "name": "Parc Pharand",
+                  "text": "Parc Pharand ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.739301,
+                        45.424491
+                  ]
+            },
+            {
+                  "name": "Parc Brébeuf",
+                  "text": "Parc Brébeuf ist ein Park im Bereich ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.744482,
+                        45.417816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bank of Canada Museum",
+                  "text": "Egy múzeum Ottawában, amely a kanadai pénz történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -75.702062,
+                        45.421506
+                  ]
+            },
+            {
+                  "name": "Canadian War Museum",
+                  "text": "Kanada nemzeti katonai múzeuma Ottawában, amely a hadtörténetet dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -75.717114,
+                        45.417079
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "Ottawa egyik legrégebbi temploma, a presbiteri gyülekezet székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704038,
+                        45.420501
+                  ]
+            },
+            {
+                  "name": "St. Peter's Evangelical Lutheran Church",
+                  "text": "Egy történelmi evangélikus templom Ottawában.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70726,
+                        45.418328
+                  ]
+            },
+            {
+                  "name": "Westminster Presbyterian Church",
+                  "text": "Egy történelmi presbiteri templom Ottawa központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -75.755767,
+                        45.388684
+                  ]
+            },
+            {
+                  "name": "Pont Champlain Bridge",
+                  "text": "Egy híd Ottawában, amely az Ottawa folyón át Gatineau-ba vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.759108,
+                        45.40914
+                  ]
+            },
+            {
+                  "name": "Pont du Portage",
+                  "text": "Egy fontos híd Ottawában, amely összeköti a várost Gatineau-val.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.713594,
+                        45.422373
+                  ]
+            },
+            {
+                  "name": "Chaudière Falls",
+                  "text": "Chaudière Falls egy kilátóhely a ca-parliament-hill területén, ismert a Ottawa folyó vízeséséről.",
+                  "category": "natural",
+                  "coords": [
+                        -75.721474,
+                        45.41942
+                  ]
+            },
+            {
+                  "name": "Bate Island",
+                  "text": "Bate Island egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.756372,
+                        45.408818
+                  ]
+            },
+            {
+                  "name": "Heather Crowe Park",
+                  "text": "Heather Crowe Park egy park a ca-parliament-hill területén, amely a dohányzásellenes aktivista Heather Crowe-ról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        -75.746984,
+                        45.39814
+                  ]
+            },
+            {
+                  "name": "McKellar Park",
+                  "text": "McKellar Park egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.76556,
+                        45.382997
+                  ]
+            },
+            {
+                  "name": "Maplelawn Historic Garden",
+                  "text": "Maplelawn Historic Garden egy kert a ca-parliament-hill területén, amely nemzeti történelmi helyszín.",
+                  "category": "park",
+                  "coords": [
+                        -75.761353,
+                        45.38839
+                  ]
+            },
+            {
+                  "name": "Salle Jean-Despréz",
+                  "text": "Salle Jean-Despréz egy színház a ca-parliament-hill területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.711005,
+                        45.4276
+                  ]
+            },
+            {
+                  "name": "Irving Greenberg Theatre Centre",
+                  "text": "Irving Greenberg Theatre Centre egy színház a ca-parliament-hill területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.731878,
+                        45.400071
+                  ]
+            },
+            {
+                  "name": "Protection of the Holy Virgin Memorial Church",
+                  "text": "Protection of the Holy Virgin Memorial Church egy istentiszteleti hely a ca-parliament-hill területén.",
+                  "category": "religious",
+                  "coords": [
+                        -75.727994,
+                        45.407042
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Île",
+                  "text": "Théâtre de l'Île egy színház a ca-parliament-hill területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.724699,
+                        45.425569
+                  ]
+            },
+            {
+                  "name": "Centre culturel Jacques-Auger",
+                  "text": "Centre culturel Jacques-Auger egy művészeti központ a ca-parliament-hill területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.718506,
+                        45.426744
+                  ]
+            },
+            {
+                  "name": "St. George's Parish",
+                  "text": "St. George's Parish egy istentiszteleti hely a ca-parliament-hill területén.",
+                  "category": "religious",
+                  "coords": [
+                        -75.739479,
+                        45.39626
+                  ]
+            },
+            {
+                  "name": "Canadian United Pentecostal Church",
+                  "text": "Canadian United Pentecostal Church egy istentiszteleti hely a ca-parliament-hill területén.",
+                  "category": "religious",
+                  "coords": [
+                        -75.752318,
+                        45.393091
+                  ]
+            },
+            {
+                  "name": "Lazy Bay",
+                  "text": "Lazy Bay egy öböl a ca-parliament-hill területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.731131,
+                        45.411142
+                  ]
+            },
+            {
+                  "name": "Nepean Bay",
+                  "text": "Nepean Bay egy öböl a ca-parliament-hill területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.722158,
+                        45.413965
+                  ]
+            },
+            {
+                  "name": "Chief William Commanda Bridge",
+                  "text": "Chief William Commanda Bridge egy híd a ca-parliament-hill területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.72592,
+                        45.412631
+                  ]
+            },
+            {
+                  "name": "Pont de la Chaudière",
+                  "text": "Chaudière Bridge egy híd a ca-parliament-hill területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718435,
+                        45.421346
+                  ]
+            },
+            {
+                  "name": "Parc Allen",
+                  "text": "Parc Allen egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.785319,
+                        45.412339
+                  ]
+            },
+            {
+                  "name": "Parc Marcel-Chaput",
+                  "text": "Parc Marcel-Chaput egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.76238,
+                        45.420444
+                  ]
+            },
+            {
+                  "name": "Parc de Cherbourg",
+                  "text": "Parc Vanier egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.806004,
+                        45.386927
+                  ]
+            },
+            {
+                  "name": "Parc Lakeview",
+                  "text": "Parc Lakeview egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.800165,
+                        45.391569
+                  ]
+            },
+            {
+                  "name": "Parc des Trembles",
+                  "text": "Parc des Trembles egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.768217,
+                        45.427327
+                  ]
+            },
+            {
+                  "name": "Parc des Noisetiers",
+                  "text": "Parc des Noisetiers egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.761392,
+                        45.428337
+                  ]
+            },
+            {
+                  "name": "Parc Baker",
+                  "text": "Baker Park egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.73045,
+                        45.423187
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Dallaire",
+                  "text": "Parc Jean-Dallaire egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.727527,
+                        45.426555
+                  ]
+            },
+            {
+                  "name": "Parc des Chars-de-Combat",
+                  "text": "Parc des Chars-de-Combat egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.731913,
+                        45.42652
+                  ]
+            },
+            {
+                  "name": "Parc Saint-Jean-Bosco",
+                  "text": "Parc Saint-Jean-Bosco egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.732338,
+                        45.428219
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Thérèse",
+                  "text": "Parc Sainte-Thérèse egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.748593,
+                        45.423736
+                  ]
+            },
+            {
+                  "name": "Parc Pharand",
+                  "text": "Parc Pharand egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.739301,
+                        45.424491
+                  ]
+            },
+            {
+                  "name": "Parc Brébeuf",
+                  "text": "Parc Brébeuf egy park a ca-parliament-hill területén.",
+                  "category": "park",
+                  "coords": [
+                        -75.744482,
+                        45.417816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bank of Canada Museum",
+                  "text": "Un muzeu în Ottawa care prezintă istoria banilor canadieni.",
+                  "category": "museum",
+                  "coords": [
+                        -75.702062,
+                        45.421506
+                  ]
+            },
+            {
+                  "name": "Canadian War Museum",
+                  "text": "Muzeul național de război al Canadei în Ottawa, care documentează istoria militară.",
+                  "category": "museum",
+                  "coords": [
+                        -75.717114,
+                        45.417079
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "Una dintre cele mai vechi biserici din Ottawa, sediul congregației prezbiteriene.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704038,
+                        45.420501
+                  ]
+            },
+            {
+                  "name": "St. Peter's Evangelical Lutheran Church",
+                  "text": "O biserică luterană istorică în Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70726,
+                        45.418328
+                  ]
+            },
+            {
+                  "name": "Westminster Presbyterian Church",
+                  "text": "O biserică prezbiteriană istorică în centrul Ottawei.",
+                  "category": "religious",
+                  "coords": [
+                        -75.755767,
+                        45.388684
+                  ]
+            },
+            {
+                  "name": "Pont Champlain Bridge",
+                  "text": "Un pod în Ottawa care traversează râul Ottawa spre Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.759108,
+                        45.40914
+                  ]
+            },
+            {
+                  "name": "Pont du Portage",
+                  "text": "Un pod important în Ottawa care leagă orașul de Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.713594,
+                        45.422373
+                  ]
+            },
+            {
+                  "name": "Chaudière Falls",
+                  "text": "Chaudière Falls este un punct de belvedere în zona ca-parliament-hill, cunoscut pentru cascadele sale pe râul Ottawa.",
+                  "category": "natural",
+                  "coords": [
+                        -75.721474,
+                        45.41942
+                  ]
+            },
+            {
+                  "name": "Bate Island",
+                  "text": "Bate Island este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.756372,
+                        45.408818
+                  ]
+            },
+            {
+                  "name": "Heather Crowe Park",
+                  "text": "Heather Crowe Park este un parc în zona ca-parliament-hill numit după activista anti-fumat Heather Crowe.",
+                  "category": "park",
+                  "coords": [
+                        -75.746984,
+                        45.39814
+                  ]
+            },
+            {
+                  "name": "McKellar Park",
+                  "text": "McKellar Park este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.76556,
+                        45.382997
+                  ]
+            },
+            {
+                  "name": "Maplelawn Historic Garden",
+                  "text": "Maplelawn Historic Garden este o grădină în zona ca-parliament-hill, desemnată sit istoric național.",
+                  "category": "park",
+                  "coords": [
+                        -75.761353,
+                        45.38839
+                  ]
+            },
+            {
+                  "name": "Salle Jean-Despréz",
+                  "text": "Salle Jean-Despréz este un teatru în zona ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.711005,
+                        45.4276
+                  ]
+            },
+            {
+                  "name": "Irving Greenberg Theatre Centre",
+                  "text": "Irving Greenberg Theatre Centre este un teatru în zona ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.731878,
+                        45.400071
+                  ]
+            },
+            {
+                  "name": "Protection of the Holy Virgin Memorial Church",
+                  "text": "Protection of the Holy Virgin Memorial Church este un loc de închinare în zona ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.727994,
+                        45.407042
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Île",
+                  "text": "Théâtre de l'Île este un teatru în zona ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.724699,
+                        45.425569
+                  ]
+            },
+            {
+                  "name": "Centre culturel Jacques-Auger",
+                  "text": "Centre culturel Jacques-Auger este un centru de artă în zona ca-parliament-hill.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.718506,
+                        45.426744
+                  ]
+            },
+            {
+                  "name": "St. George's Parish",
+                  "text": "St. George's Parish este un loc de închinare în zona ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.739479,
+                        45.39626
+                  ]
+            },
+            {
+                  "name": "Canadian United Pentecostal Church",
+                  "text": "Canadian United Pentecostal Church este un loc de închinare în zona ca-parliament-hill.",
+                  "category": "religious",
+                  "coords": [
+                        -75.752318,
+                        45.393091
+                  ]
+            },
+            {
+                  "name": "Lazy Bay",
+                  "text": "Lazy Bay este un golf în zona ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.731131,
+                        45.411142
+                  ]
+            },
+            {
+                  "name": "Nepean Bay",
+                  "text": "Nepean Bay este un golf în zona ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.722158,
+                        45.413965
+                  ]
+            },
+            {
+                  "name": "Chief William Commanda Bridge",
+                  "text": "Chief William Commanda Bridge este un pod în zona ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.72592,
+                        45.412631
+                  ]
+            },
+            {
+                  "name": "Pont de la Chaudière",
+                  "text": "Chaudière Bridge este un pod în zona ca-parliament-hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718435,
+                        45.421346
+                  ]
+            },
+            {
+                  "name": "Parc Allen",
+                  "text": "Parc Allen este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.785319,
+                        45.412339
+                  ]
+            },
+            {
+                  "name": "Parc Marcel-Chaput",
+                  "text": "Parc Marcel-Chaput este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.76238,
+                        45.420444
+                  ]
+            },
+            {
+                  "name": "Parc de Cherbourg",
+                  "text": "Parc Vanier este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.806004,
+                        45.386927
+                  ]
+            },
+            {
+                  "name": "Parc Lakeview",
+                  "text": "Parc Lakeview este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.800165,
+                        45.391569
+                  ]
+            },
+            {
+                  "name": "Parc des Trembles",
+                  "text": "Parc des Trembles este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.768217,
+                        45.427327
+                  ]
+            },
+            {
+                  "name": "Parc des Noisetiers",
+                  "text": "Parc des Noisetiers este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.761392,
+                        45.428337
+                  ]
+            },
+            {
+                  "name": "Parc Baker",
+                  "text": "Baker Park este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.73045,
+                        45.423187
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Dallaire",
+                  "text": "Parc Jean-Dallaire este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.727527,
+                        45.426555
+                  ]
+            },
+            {
+                  "name": "Parc des Chars-de-Combat",
+                  "text": "Parc des Chars-de-Combat este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.731913,
+                        45.42652
+                  ]
+            },
+            {
+                  "name": "Parc Saint-Jean-Bosco",
+                  "text": "Parc Saint-Jean-Bosco este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.732338,
+                        45.428219
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Thérèse",
+                  "text": "Parc Sainte-Thérèse este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.748593,
+                        45.423736
+                  ]
+            },
+            {
+                  "name": "Parc Pharand",
+                  "text": "Parc Pharand este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.739301,
+                        45.424491
+                  ]
+            },
+            {
+                  "name": "Parc Brébeuf",
+                  "text": "Parc Brébeuf este un parc în zona ca-parliament-hill.",
+                  "category": "park",
+                  "coords": [
+                        -75.744482,
+                        45.417816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bank of Canada Museum",
+                  "text": "A museum in Ottawa showcasing the history of Canadian currency.",
+                  "category": "museum",
+                  "coords": [
+                        -75.702062,
+                        45.421506
+                  ]
+            },
+            {
+                  "name": "Canadian War Museum",
+                  "text": "Canada's national war museum in Ottawa documenting military history.",
+                  "category": "museum",
+                  "coords": [
+                        -75.717114,
+                        45.417079
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Presbyterian Church",
+                  "text": "One of the oldest churches in Ottawa, home to the Presbyterian congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -75.704038,
+                        45.420501
+                  ]
+            },
+            {
+                  "name": "St. Peter's Evangelical Lutheran Church",
+                  "text": "A historic Lutheran church in Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.70726,
+                        45.418328
+                  ]
+            },
+            {
+                  "name": "Westminster Presbyterian Church",
+                  "text": "A historic Presbyterian church in downtown Ottawa.",
+                  "category": "religious",
+                  "coords": [
+                        -75.755767,
+                        45.388684
+                  ]
+            },
+            {
+                  "name": "Champlain Bridge",
+                  "text": "A bridge in Ottawa crossing the Ottawa River to Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.759108,
+                        45.40914
+                  ]
+            },
+            {
+                  "name": "Portage Bridge",
+                  "text": "A major bridge in Ottawa connecting to Gatineau.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.713594,
+                        45.422373
+                  ]
+            },
+            {
+                  "name": "Chaudière Falls",
+                  "text": "Chaudière Falls is a viewpoint in the ca-parliament-hill area, known for its waterfall on the Ottawa River.",
+                  "category": "natural",
+                  "coords": [
+                        -75.721474,
+                        45.41942
+                  ]
+            },
+            {
+                  "name": "Bate Island",
+                  "text": "Bate Island is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.756372,
+                        45.408818
+                  ]
+            },
+            {
+                  "name": "Heather Crowe Park",
+                  "text": "Heather Crowe Park is a park in the ca-parliament-hill area named after the anti-smoking activist Heather Crowe.",
+                  "category": "park",
+                  "coords": [
+                        -75.746984,
+                        45.39814
+                  ]
+            },
+            {
+                  "name": "McKellar Park",
+                  "text": "McKellar Park is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.76556,
+                        45.382997
+                  ]
+            },
+            {
+                  "name": "Maplelawn Historic Garden",
+                  "text": "Maplelawn Historic Garden is a garden in the ca-parliament-hill area, designated a National Historic Site.",
+                  "category": "park",
+                  "coords": [
+                        -75.761353,
+                        45.38839
+                  ]
+            },
+            {
+                  "name": "Salle Jean-Despréz",
+                  "text": "Salle Jean-Despréz is a theatre in the ca-parliament-hill area.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.711005,
+                        45.4276
+                  ]
+            },
+            {
+                  "name": "Irving Greenberg Theatre Centre",
+                  "text": "Irving Greenberg Theatre Centre is a theatre in the ca-parliament-hill area.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.731878,
+                        45.400071
+                  ]
+            },
+            {
+                  "name": "Protection of the Holy Virgin Memorial Church",
+                  "text": "Protection of the Holy Virgin Memorial Church is a place of worship in the ca-parliament-hill area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.727994,
+                        45.407042
+                  ]
+            },
+            {
+                  "name": "Théâtre de l'Île",
+                  "text": "Théâtre de l'Île is a theatre in the ca-parliament-hill area.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.724699,
+                        45.425569
+                  ]
+            },
+            {
+                  "name": "Centre culturel Jacques-Auger",
+                  "text": "Centre culturel Jacques-Auger is an arts centre in the ca-parliament-hill area.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.718506,
+                        45.426744
+                  ]
+            },
+            {
+                  "name": "St. George's Parish",
+                  "text": "St. George's Parish is a place of worship in the ca-parliament-hill area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.739479,
+                        45.39626
+                  ]
+            },
+            {
+                  "name": "Canadian United Pentecostal Church",
+                  "text": "Canadian United Pentecostal Church is a place of worship in the ca-parliament-hill area.",
+                  "category": "religious",
+                  "coords": [
+                        -75.752318,
+                        45.393091
+                  ]
+            },
+            {
+                  "name": "Lazy Bay",
+                  "text": "Lazy Bay is a bay in the ca-parliament-hill area.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.731131,
+                        45.411142
+                  ]
+            },
+            {
+                  "name": "Nepean Bay",
+                  "text": "Nepean Bay is a bay in the ca-parliament-hill area.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.722158,
+                        45.413965
+                  ]
+            },
+            {
+                  "name": "Chief William Commanda Bridge",
+                  "text": "Chief William Commanda Bridge is a bridge in the ca-parliament-hill area.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.72592,
+                        45.412631
+                  ]
+            },
+            {
+                  "name": "Chaudière Bridge",
+                  "text": "Chaudière Bridge is a bridge in the ca-parliament-hill area.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.718435,
+                        45.421346
+                  ]
+            },
+            {
+                  "name": "Parc Allen",
+                  "text": "Parc Allen is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.785319,
+                        45.412339
+                  ]
+            },
+            {
+                  "name": "Parc Marcel-Chaput",
+                  "text": "Parc Marcel-Chaput is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.76238,
+                        45.420444
+                  ]
+            },
+            {
+                  "name": "Parc Vanier",
+                  "text": "Parc Vanier is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.806004,
+                        45.386927
+                  ]
+            },
+            {
+                  "name": "Parc Lakeview",
+                  "text": "Parc Lakeview is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.800165,
+                        45.391569
+                  ]
+            },
+            {
+                  "name": "Parc des Trembles",
+                  "text": "Parc des Trembles is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.768217,
+                        45.427327
+                  ]
+            },
+            {
+                  "name": "Parc des Noisetiers",
+                  "text": "Parc des Noisetiers is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.761392,
+                        45.428337
+                  ]
+            },
+            {
+                  "name": "Baker Park",
+                  "text": "Baker Park is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.73045,
+                        45.423187
+                  ]
+            },
+            {
+                  "name": "Parc Jean-Dallaire",
+                  "text": "Parc Jean-Dallaire is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.727527,
+                        45.426555
+                  ]
+            },
+            {
+                  "name": "Parc des Chars-de-Combat",
+                  "text": "Parc des Chars-de-Combat is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.731913,
+                        45.42652
+                  ]
+            },
+            {
+                  "name": "Parc Saint-Jean-Bosco",
+                  "text": "Parc Saint-Jean-Bosco is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.732338,
+                        45.428219
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Thérèse",
+                  "text": "Parc Sainte-Thérèse is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.748593,
+                        45.423736
+                  ]
+            },
+            {
+                  "name": "Parc Pharand",
+                  "text": "Parc Pharand is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.739301,
+                        45.424491
+                  ]
+            },
+            {
+                  "name": "Parc Brébeuf",
+                  "text": "Parc Brébeuf is a park in the ca-parliament-hill area.",
+                  "category": "park",
+                  "coords": [
+                        -75.744482,
+                        45.417816
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA",
     coords: [-75.7009, 45.4236],
@@ -699,7 +4722,592 @@ export const canadaCities: POI[] = [
     facts: { de: ["Sitz der Bundesregierung", "Neugotische Architektur", "Peace Tower (Béke-torony)", "Changing of the Guard Zeremonie"], hu: ["A szövetségi kormány székhelye", "Neogótikus építészet", "Itt található a Béke-torony", "Őrségváltási ceremónia helyszíne"], ro: ["Sediul guvernului federal", "Arhitectură neogotică", "Turnul Păcii (Peace Tower)", "Ceremonia de schimbare a gărzii"], en: ["Seat of the federal government", "Gothic Revival architecture", "Home to the Peace Tower", "Changing of the Guard ceremony site"] , es: ["Sede del gobierno federal", "Arquitectura neogótica", "Torre de la Paz", "Ceremonia del Cambio de Guardia"], pt: ["Sede do governo federal", "Arquitetura neogótica", "Torre da Paz", "Cerimónia do Render da Guarda"], fr: ["Siège du gouvernement fédéral", "Architecture néogothique", "Tour de la Paix", "Cérémonie de la relève de la garde"]},
     elevation: 85, historyYear: 1859, historyPeriod: "Victorian Era", image: "/poi-images/ca-parliament-hill.webp"},
   {
-    id: "ca-hopewell-rocks",
+    id: "ca-hopewell-rocks", "sights": {
+      "de": [
+            {
+                  "name": "Fillmore Hill",
+                  "text": "Der Fillmore Hill ist ein Gipfel in der Nähe der Hopewell Rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -64.52624,
+                        45.850763
+                  ]
+            },
+            {
+                  "name": "Big Cove Lookout",
+                  "text": "Der Big Cove Lookout bietet einen Aussichtspunkt über das Gebiet der Hopewell Rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -64.574986,
+                        45.818325
+                  ]
+            },
+            {
+                  "name": "Baymount Outdoor Adventures",
+                  "text": "Baymount Outdoor Adventures bietet Outdoor-Aktivitäten in der Nähe der Hopewell Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.573663,
+                        45.823445
+                  ]
+            },
+            {
+                  "name": "Flower Pot Rocks",
+                  "text": "Die Flower Pot Rocks sind ikonische, durch Meereserosion geformte Felsformationen an den Hopewell Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.5723,
+                        45.822029
+                  ]
+            },
+            {
+                  "name": "Seawall Beach",
+                  "text": "Seawall Beach ist ein Strand in Hopewell Rocks, der zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.57155,
+                        45.827808
+                  ]
+            },
+            {
+                  "name": "hopewell rocks park",
+                  "text": "Hopewell Rocks Park ist eine Attraktion in Hopewell Rocks, die Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.575445,
+                        45.8229
+                  ]
+            },
+            {
+                  "name": "Hopewell Rocks",
+                  "text": "Hopewell Rocks ist eine Attraktion in Hopewell Rocks, die für ihre Felsformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.576505,
+                        45.817006
+                  ]
+            },
+            {
+                  "name": "Diamond Rock",
+                  "text": "Diamond Rock ist ein Aussichtspunkt in Hopewell Rocks mit einem Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -64.577487,
+                        45.815656
+                  ]
+            },
+            {
+                  "name": "Daniels Flats",
+                  "text": "Daniels Flats ist ein Aussichtspunkt in Hopewell Rocks mit einem malerischen Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        -64.578827,
+                        45.815986
+                  ]
+            },
+            {
+                  "name": "Shepody Mountain",
+                  "text": "Shepody Mountain ist ein Gipfel in Hopewell Rocks, der eine herausragende Erhebung darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -64.63963,
+                        45.799307
+                  ]
+            },
+            {
+                  "name": "Fort Folly Habitat Recovery",
+                  "text": "Fort Folly Habitat Recovery ist eine Attraktion in Hopewell Rocks, die sich dem Lebensraumschutz widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.49567,
+                        45.892353
+                  ]
+            },
+            {
+                  "name": "Keillor House",
+                  "text": "Keillor House ist ein Museum in Hopewell Rocks, das historische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -64.516483,
+                        45.900804
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach ist ein Strand in Hopewell Rocks, der zum Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.572725,
+                        45.825527
+                  ]
+            },
+            {
+                  "name": "Demoiselles Beach",
+                  "text": "Demoiselles Beach ist ein Strand in Hopewell Rocks, der für seinen Sand bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.582536,
+                        45.816104
+                  ]
+            },
+            {
+                  "name": "Wilson Brook Protected Natural Area",
+                  "text": "Wilson Brook Protected Natural Area ist ein Naturschutzgebiet in Hopewell Rocks, das die Natur bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -64.673759,
+                        45.859448
+                  ]
+            },
+            {
+                  "name": "Albert County Museum",
+                  "text": "Albert County Museum ist ein Museum in Hopewell Rocks, das die lokale Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -64.578153,
+                        45.848822
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fillmore Hill",
+                  "text": "A Fillmore Hill egy csúcs a Hopewell Rocks közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -64.52624,
+                        45.850763
+                  ]
+            },
+            {
+                  "name": "Big Cove Lookout",
+                  "text": "A Big Cove Lookout kilátópontot kínál a Hopewell Rocks területére.",
+                  "category": "natural",
+                  "coords": [
+                        -64.574986,
+                        45.818325
+                  ]
+            },
+            {
+                  "name": "Baymount Outdoor Adventures",
+                  "text": "A Baymount Outdoor Adventures szabadtéri tevékenységeket kínál a Hopewell Rocks közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.573663,
+                        45.823445
+                  ]
+            },
+            {
+                  "name": "Flower Pot Rocks",
+                  "text": "A Flower Pot Rocks ikonikus, tengeri erózió által formált sziklaképződmények a Hopewell Rocks-nál.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.5723,
+                        45.822029
+                  ]
+            },
+            {
+                  "name": "Seawall Beach",
+                  "text": "A Seawall Beach egy strand Hopewell Rocksban, amely úszásra és napozásra csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.57155,
+                        45.827808
+                  ]
+            },
+            {
+                  "name": "hopewell rocks park",
+                  "text": "A Hopewell Rocks Park egy látványosság Hopewell Rocksban, amely vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.575445,
+                        45.8229
+                  ]
+            },
+            {
+                  "name": "Hopewell Rocks",
+                  "text": "A Hopewell Rocks egy látványosság Hopewell Rocksban, amely sziklaformációiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.576505,
+                        45.817006
+                  ]
+            },
+            {
+                  "name": "Diamond Rock",
+                  "text": "A Diamond Rock egy kilátópont Hopewell Rocksban, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -64.577487,
+                        45.815656
+                  ]
+            },
+            {
+                  "name": "Daniels Flats",
+                  "text": "A Daniels Flats egy kilátópont Hopewell Rocksban, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -64.578827,
+                        45.815986
+                  ]
+            },
+            {
+                  "name": "Shepody Mountain",
+                  "text": "A Shepody Mountain egy csúcs Hopewell Rocksban, amely kiemelkedő magaslat.",
+                  "category": "natural",
+                  "coords": [
+                        -64.63963,
+                        45.799307
+                  ]
+            },
+            {
+                  "name": "Fort Folly Habitat Recovery",
+                  "text": "A Fort Folly Habitat Recovery egy látványosság Hopewell Rocksban, amely az élőhelyvédelemre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.49567,
+                        45.892353
+                  ]
+            },
+            {
+                  "name": "Keillor House",
+                  "text": "A Keillor House egy múzeum Hopewell Rocksban, amely történelmi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.516483,
+                        45.900804
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "A North Beach egy strand Hopewell Rocksban, amely fürdőzésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.572725,
+                        45.825527
+                  ]
+            },
+            {
+                  "name": "Demoiselles Beach",
+                  "text": "A Demoiselles Beach egy strand Hopewell Rocksban, amely homokjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.582536,
+                        45.816104
+                  ]
+            },
+            {
+                  "name": "Wilson Brook Protected Natural Area",
+                  "text": "A Wilson Brook Protected Natural Area egy természetvédelmi terület Hopewell Rocksban, amely megőrzi a természetet.",
+                  "category": "natural",
+                  "coords": [
+                        -64.673759,
+                        45.859448
+                  ]
+            },
+            {
+                  "name": "Albert County Museum",
+                  "text": "Az Albert County Museum egy múzeum Hopewell Rocksban, amely a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -64.578153,
+                        45.848822
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fillmore Hill",
+                  "text": "Fillmore Hill este un vârf lângă Stâncile Hopewell.",
+                  "category": "natural",
+                  "coords": [
+                        -64.52624,
+                        45.850763
+                  ]
+            },
+            {
+                  "name": "Big Cove Lookout",
+                  "text": "Priveliștea Big Cove oferă un punct de belvedere asupra zonei Stâncilor Hopewell.",
+                  "category": "natural",
+                  "coords": [
+                        -64.574986,
+                        45.818325
+                  ]
+            },
+            {
+                  "name": "Baymount Outdoor Adventures",
+                  "text": "Baymount Outdoor Adventures oferă activități în aer liber lângă Stâncile Hopewell.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.573663,
+                        45.823445
+                  ]
+            },
+            {
+                  "name": "Flower Pot Rocks",
+                  "text": "Stâncile Flower Pot sunt formațiuni stâncoase iconice modelate de eroziunea marină la Stâncile Hopewell.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.5723,
+                        45.822029
+                  ]
+            },
+            {
+                  "name": "Seawall Beach",
+                  "text": "Plaja Seawall Beach este o plajă din Hopewell Rocks, care invită la înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.57155,
+                        45.827808
+                  ]
+            },
+            {
+                  "name": "hopewell rocks park",
+                  "text": "Hopewell Rocks Park este o atracție din Hopewell Rocks, care atrage vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.575445,
+                        45.8229
+                  ]
+            },
+            {
+                  "name": "Hopewell Rocks",
+                  "text": "Hopewell Rocks este o atracție din Hopewell Rocks, cunoscută pentru formațiunile sale stâncoase.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.576505,
+                        45.817006
+                  ]
+            },
+            {
+                  "name": "Diamond Rock",
+                  "text": "Diamond Rock este un punct de belvedere din Hopewell Rocks, cu o vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -64.577487,
+                        45.815656
+                  ]
+            },
+            {
+                  "name": "Daniels Flats",
+                  "text": "Daniels Flats este un punct de belvedere din Hopewell Rocks, cu o priveliște pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        -64.578827,
+                        45.815986
+                  ]
+            },
+            {
+                  "name": "Shepody Mountain",
+                  "text": "Shepody Mountain este un vârf din Hopewell Rocks, reprezentând o înălțime proeminentă.",
+                  "category": "natural",
+                  "coords": [
+                        -64.63963,
+                        45.799307
+                  ]
+            },
+            {
+                  "name": "Fort Folly Habitat Recovery",
+                  "text": "Fort Folly Habitat Recovery este o atracție din Hopewell Rocks, dedicată protejării habitatelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.49567,
+                        45.892353
+                  ]
+            },
+            {
+                  "name": "Keillor House",
+                  "text": "Keillor House este un muzeu din Hopewell Rocks, care expune obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -64.516483,
+                        45.900804
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach este o plajă din Hopewell Rocks, care invită la scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.572725,
+                        45.825527
+                  ]
+            },
+            {
+                  "name": "Demoiselles Beach",
+                  "text": "Demoiselles Beach este o plajă din Hopewell Rocks, cunoscută pentru nisipul său.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.582536,
+                        45.816104
+                  ]
+            },
+            {
+                  "name": "Wilson Brook Protected Natural Area",
+                  "text": "Wilson Brook Protected Natural Area este o rezervație naturală din Hopewell Rocks, care protejează natura.",
+                  "category": "natural",
+                  "coords": [
+                        -64.673759,
+                        45.859448
+                  ]
+            },
+            {
+                  "name": "Albert County Museum",
+                  "text": "Albert County Museum este un muzeu din Hopewell Rocks, care ilustrează istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -64.578153,
+                        45.848822
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fillmore Hill",
+                  "text": "Fillmore Hill is a peak near the Hopewell Rocks.",
+                  "category": "natural",
+                  "coords": [
+                        -64.52624,
+                        45.850763
+                  ]
+            },
+            {
+                  "name": "Big Cove Lookout",
+                  "text": "Big Cove Lookout offers a viewpoint over the Hopewell Rocks area.",
+                  "category": "natural",
+                  "coords": [
+                        -64.574986,
+                        45.818325
+                  ]
+            },
+            {
+                  "name": "Baymount Outdoor Adventures",
+                  "text": "Baymount Outdoor Adventures offers outdoor activities near Hopewell Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.573663,
+                        45.823445
+                  ]
+            },
+            {
+                  "name": "Flower Pot Rocks",
+                  "text": "Flower Pot Rocks are iconic sea-eroded rock formations at Hopewell Rocks.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.5723,
+                        45.822029
+                  ]
+            },
+            {
+                  "name": "Seawall Beach",
+                  "text": "Seawall Beach is a beach in Hopewell Rocks, offering swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.57155,
+                        45.827808
+                  ]
+            },
+            {
+                  "name": "hopewell rocks park",
+                  "text": "Hopewell Rocks Park is an attraction in Hopewell Rocks that draws visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.575445,
+                        45.8229
+                  ]
+            },
+            {
+                  "name": "Hopewell Rocks",
+                  "text": "Hopewell Rocks is an attraction in Hopewell Rocks known for its rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.576505,
+                        45.817006
+                  ]
+            },
+            {
+                  "name": "Diamond Rock",
+                  "text": "Diamond Rock is a viewpoint in Hopewell Rocks offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -64.577487,
+                        45.815656
+                  ]
+            },
+            {
+                  "name": "Daniels Flats",
+                  "text": "Daniels Flats is a viewpoint in Hopewell Rocks with scenic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        -64.578827,
+                        45.815986
+                  ]
+            },
+            {
+                  "name": "Shepody Mountain",
+                  "text": "Shepody Mountain is a peak in Hopewell Rocks, a prominent elevation.",
+                  "category": "natural",
+                  "coords": [
+                        -64.63963,
+                        45.799307
+                  ]
+            },
+            {
+                  "name": "Fort Folly Habitat Recovery",
+                  "text": "Fort Folly Habitat Recovery is an attraction in Hopewell Rocks focused on habitat conservation.",
+                  "category": "landmark",
+                  "coords": [
+                        -64.49567,
+                        45.892353
+                  ]
+            },
+            {
+                  "name": "Keillor House",
+                  "text": "Keillor House is a museum in Hopewell Rocks displaying historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -64.516483,
+                        45.900804
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach is a beach in Hopewell Rocks, inviting for swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.572725,
+                        45.825527
+                  ]
+            },
+            {
+                  "name": "Demoiselles Beach",
+                  "text": "Demoiselles Beach is a beach in Hopewell Rocks known for its sand.",
+                  "category": "recreational",
+                  "coords": [
+                        -64.582536,
+                        45.816104
+                  ]
+            },
+            {
+                  "name": "Wilson Brook Protected Natural Area",
+                  "text": "Wilson Brook Protected Natural Area is a nature reserve in Hopewell Rocks, preserving the natural environment.",
+                  "category": "natural",
+                  "coords": [
+                        -64.673759,
+                        45.859448
+                  ]
+            },
+            {
+                  "name": "Albert County Museum",
+                  "text": "Albert County Museum is a museum in Hopewell Rocks showcasing local history.",
+                  "category": "museum",
+                  "coords": [
+                        -64.578153,
+                        45.848822
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA",
     coords: [-64.5746, 45.8236],
@@ -726,7 +5334,1276 @@ export const canadaCities: POI[] = [
     facts: { de: ["Form einer Blumenvase", "Höchster Tidenhub der Welt", "Gehen auf dem Meeresboden", "Erosionsphänomen"], hu: ["Virágcserép alakú sziklák", "A világ legnagyobb árapálya", "Séta a tengerfenéken", "Eróziós jelenség"], ro: ["Formă de ghiveci de flori", "Cea mai mare maree din lume", "Plimbare pe fundul mării", "Fenomen de eroziune"], en: ["Flowerpot-shaped rocks", "World's highest tidal range", "Walk on the ocean floor", "Erosional masterpiece"] , es: ["Forma de florero", "La marea más alta del mundo", "Caminar sobre el fondo marino", "Fenómeno de erosión"], pt: ["Forma de vaso de flores", "A maré mais alta do mundo", "Caminhar no fundo do mar", "Fenómeno de erosão"], fr: ["Forme de pot de fleurs", "Les marées les plus hautes du monde", "Marche sur le fond marin", "Phénomène d'érosion"]},
     elevation: 0, image: "/poi-images/ca-hopewell-rocks.webp"},
   {
-    id: "ca-butchart-gardens",
+    id: "ca-butchart-gardens", "sights": {
+      "de": [
+            {
+                  "name": "The Butchart Gardens",
+                  "text": "Berühmte botanische Gärten mit beeindruckenden saisonalen Blumenausstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.469435,
+                        48.564926
+                  ]
+            },
+            {
+                  "name": "Mount Work",
+                  "text": "Ein markanter Gipfel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.479945,
+                        48.530893
+                  ]
+            },
+            {
+                  "name": "Bamberton Provincial Park",
+                  "text": "Ein Provinzpark am Saanich Inlet mit Wander- und Schwimmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.527067,
+                        48.606033
+                  ]
+            },
+            {
+                  "name": "ȽÁU,WELṈEW̱/John Dean Park",
+                  "text": "Ein Provinzpark auf der Saanich-Halbinsel mit altem Douglasienwald.",
+                  "category": "natural",
+                  "coords": [
+                        -123.448194,
+                        48.614648
+                  ]
+            },
+            {
+                  "name": "Elk/Beaver Lake Regional Park",
+                  "text": "Ein Regionalpark mit zwei Seen, Wanderwegen und Wildtieren.",
+                  "category": "park",
+                  "coords": [
+                        -123.396118,
+                        48.522611
+                  ]
+            },
+            {
+                  "name": "Heritage Acres",
+                  "text": "Ein Museum, das das lokale Erbe bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.397367,
+                        48.581654
+                  ]
+            },
+            {
+                  "name": "Bazan Bay",
+                  "text": "Eine malerische Bucht auf der Saanich-Halbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.408428,
+                        48.628953
+                  ]
+            },
+            {
+                  "name": "Victoria Butterfly Gardens",
+                  "text": "Ein Innengarten mit Tausenden von freifliegenden Schmetterlingen.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.439123,
+                        48.564465
+                  ]
+            },
+            {
+                  "name": "Brentwood Bay",
+                  "text": "Eine kleine Bucht, die für Bootsfahrten und Aussichten beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.472805,
+                        48.575791
+                  ]
+            },
+            {
+                  "name": "Butchart Cove",
+                  "text": "Eine kleine Bucht in der Nähe der Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.470649,
+                        48.56836
+                  ]
+            },
+            {
+                  "name": "Thomson Cove",
+                  "text": "Eine Bucht in der Gegend der Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.478009,
+                        48.599494
+                  ]
+            },
+            {
+                  "name": "Ferguson Cove",
+                  "text": "Eine Bucht in der Gegend der Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.39193,
+                        48.600614
+                  ]
+            },
+            {
+                  "name": "Mount Jeffrey",
+                  "text": "Ein Gipfel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.555514,
+                        48.583428
+                  ]
+            },
+            {
+                  "name": "Holmes Peak",
+                  "text": "Ein Gipfel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.530244,
+                        48.516532
+                  ]
+            },
+            {
+                  "name": "Jocelyn Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.52982,
+                        48.537288
+                  ]
+            },
+            {
+                  "name": "Sheepshanks Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.557101,
+                        48.559841
+                  ]
+            },
+            {
+                  "name": "Lone Tree Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.513893,
+                        48.519074
+                  ]
+            },
+            {
+                  "name": "Observatory Hill",
+                  "text": "Ein Gipfel mit Panoramablick auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.418094,
+                        48.519835
+                  ]
+            },
+            {
+                  "name": "Cole Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.470971,
+                        48.550832
+                  ]
+            },
+            {
+                  "name": "Mount Newton",
+                  "text": "Ein Berg auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.443463,
+                        48.612953
+                  ]
+            },
+            {
+                  "name": "Bear Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.405568,
+                        48.546038
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill",
+                  "text": "Ein Hügel auf der Saanich-Halbinsel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.559555,
+                        48.501186
+                  ]
+            },
+            {
+                  "name": "Spectacle Lake Provincial Park",
+                  "text": "Ein Provinzpark um einen See herum.",
+                  "category": "natural",
+                  "coords": [
+                        -123.570242,
+                        48.578883
+                  ]
+            },
+            {
+                  "name": "Sayward Beach",
+                  "text": "Ein Strand auf der Saanich-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.365901,
+                        48.531645
+                  ]
+            },
+            {
+                  "name": "Cordova Bay Beach",
+                  "text": "Ein Strand auf der Saanich-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.366143,
+                        48.521569
+                  ]
+            },
+            {
+                  "name": "Eagle Beach",
+                  "text": "Ein Strand auf der Saanich-Halbinsel.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.387374,
+                        48.52598
+                  ]
+            },
+            {
+                  "name": "Main Hangar",
+                  "text": "Ein Museumshangar mit Flugzeugausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -123.420961,
+                        48.640546
+                  ]
+            },
+            {
+                  "name": "Central Saanich Fire Museum",
+                  "text": "Ein Museum, das der Feuerwehrgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -123.421442,
+                        48.595329
+                  ]
+            },
+            {
+                  "name": "Dean Cabin",
+                  "text": "Ruinen einer Hütte in den Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.448986,
+                        48.612446
+                  ]
+            },
+            {
+                  "name": "Thomson Cabin",
+                  "text": "Ruinen einer weiteren Hütte in den Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.445567,
+                        48.610417
+                  ]
+            },
+            {
+                  "name": "Malahat Skywalk",
+                  "text": "Eine Aussichtsplattform und Attraktion auf dem Malahat nahe den Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.526763,
+                        48.568881
+                  ]
+            },
+            {
+                  "name": "Squally Reach Viewpoint",
+                  "text": "Ein Aussichtspunkt in den Butchart Gardens mit Blick auf die Squally Reach.",
+                  "category": "natural",
+                  "coords": [
+                        -123.518008,
+                        48.545334
+                  ]
+            },
+            {
+                  "name": "Saanich Inlet Viewpoint",
+                  "text": "Ein Aussichtspunkt in den Butchart Gardens mit Blick auf den Saanich Inlet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.509227,
+                        48.550361
+                  ]
+            },
+            {
+                  "name": "Malahat Viewpoint",
+                  "text": "Ein bekannter Aussichtspunkt auf dem Malahat, in der Nähe der Butchart Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -123.519048,
+                        48.546653
+                  ]
+            },
+            {
+                  "name": "Bog Garden",
+                  "text": "Ein Aussichtspunkt in den Butchart Gardens, der einen Blick auf den Sumpfgarten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.469543,
+                        48.563143
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Butchart Gardens",
+                  "text": "Híres botanikus kertek lenyűgöző szezonális virágkiállításokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.469435,
+                        48.564926
+                  ]
+            },
+            {
+                  "name": "Mount Work",
+                  "text": "Egy jellegzetes csúcs a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.479945,
+                        48.530893
+                  ]
+            },
+            {
+                  "name": "Bamberton Provincial Park",
+                  "text": "Egy tartományi park a Saanich Inletnél túrázási és úszási lehetőségekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.527067,
+                        48.606033
+                  ]
+            },
+            {
+                  "name": "ȽÁU,WELṈEW̱/John Dean Park",
+                  "text": "Egy tartományi park a Saanich-félszigeten, idős Douglas-fenyőerdővel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.448194,
+                        48.614648
+                  ]
+            },
+            {
+                  "name": "Elk/Beaver Lake Regional Park",
+                  "text": "Egy regionális park két tóval, túraútvonalakkal és vadon élő állatokkal.",
+                  "category": "park",
+                  "coords": [
+                        -123.396118,
+                        48.522611
+                  ]
+            },
+            {
+                  "name": "Heritage Acres",
+                  "text": "Egy múzeum, amely a helyi örökséget őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -123.397367,
+                        48.581654
+                  ]
+            },
+            {
+                  "name": "Bazan Bay",
+                  "text": "Egy festői öböl a Saanich-félszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.408428,
+                        48.628953
+                  ]
+            },
+            {
+                  "name": "Victoria Butterfly Gardens",
+                  "text": "Egy beltéri kert több ezer szabadon repülő pillangóval.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.439123,
+                        48.564465
+                  ]
+            },
+            {
+                  "name": "Brentwood Bay",
+                  "text": "Egy kis öböl, amely népszerű csónakázásra és kilátásra.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.472805,
+                        48.575791
+                  ]
+            },
+            {
+                  "name": "Butchart Cove",
+                  "text": "Egy kis öböl a Butchart Gardens közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.470649,
+                        48.56836
+                  ]
+            },
+            {
+                  "name": "Thomson Cove",
+                  "text": "Egy öböl a Butchart Gardens környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.478009,
+                        48.599494
+                  ]
+            },
+            {
+                  "name": "Ferguson Cove",
+                  "text": "Egy öböl a Butchart Gardens környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.39193,
+                        48.600614
+                  ]
+            },
+            {
+                  "name": "Mount Jeffrey",
+                  "text": "Egy csúcs a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.555514,
+                        48.583428
+                  ]
+            },
+            {
+                  "name": "Holmes Peak",
+                  "text": "Egy csúcs a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.530244,
+                        48.516532
+                  ]
+            },
+            {
+                  "name": "Jocelyn Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.52982,
+                        48.537288
+                  ]
+            },
+            {
+                  "name": "Sheepshanks Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.557101,
+                        48.559841
+                  ]
+            },
+            {
+                  "name": "Lone Tree Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.513893,
+                        48.519074
+                  ]
+            },
+            {
+                  "name": "Observatory Hill",
+                  "text": "Egy csúcs panorámás kilátással a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.418094,
+                        48.519835
+                  ]
+            },
+            {
+                  "name": "Cole Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.470971,
+                        48.550832
+                  ]
+            },
+            {
+                  "name": "Mount Newton",
+                  "text": "Egy hegy a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.443463,
+                        48.612953
+                  ]
+            },
+            {
+                  "name": "Bear Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.405568,
+                        48.546038
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill",
+                  "text": "Egy domb a Saanich-félszigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -123.559555,
+                        48.501186
+                  ]
+            },
+            {
+                  "name": "Spectacle Lake Provincial Park",
+                  "text": "Egy tartományi park egy tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        -123.570242,
+                        48.578883
+                  ]
+            },
+            {
+                  "name": "Sayward Beach",
+                  "text": "Egy strand a Saanich-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.365901,
+                        48.531645
+                  ]
+            },
+            {
+                  "name": "Cordova Bay Beach",
+                  "text": "Egy strand a Saanich-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.366143,
+                        48.521569
+                  ]
+            },
+            {
+                  "name": "Eagle Beach",
+                  "text": "Egy strand a Saanich-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.387374,
+                        48.52598
+                  ]
+            },
+            {
+                  "name": "Main Hangar",
+                  "text": "Egy múzeumhangár repülőgép-kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -123.420961,
+                        48.640546
+                  ]
+            },
+            {
+                  "name": "Central Saanich Fire Museum",
+                  "text": "Egy múzeum, amely a tűzoltóság történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -123.421442,
+                        48.595329
+                  ]
+            },
+            {
+                  "name": "Dean Cabin",
+                  "text": "Egy kunyhó romjai a Butchart Gardens-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -123.448986,
+                        48.612446
+                  ]
+            },
+            {
+                  "name": "Thomson Cabin",
+                  "text": "Egy másik kunyhó romjai a Butchart Gardens-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -123.445567,
+                        48.610417
+                  ]
+            },
+            {
+                  "name": "Malahat Skywalk",
+                  "text": "Egy kilátó és látványosság a Malahat-on, a Butchart Gardens közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.526763,
+                        48.568881
+                  ]
+            },
+            {
+                  "name": "Squally Reach Viewpoint",
+                  "text": "Egy kilátópont a Butchart Gardens-ben, a Squally Reach-re néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.518008,
+                        48.545334
+                  ]
+            },
+            {
+                  "name": "Saanich Inlet Viewpoint",
+                  "text": "Egy kilátópont a Butchart Gardens-ben, a Saanich Inlet-re néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -123.509227,
+                        48.550361
+                  ]
+            },
+            {
+                  "name": "Malahat Viewpoint",
+                  "text": "Egy híres kilátópont a Malahat-on, a Butchart Gardens közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -123.519048,
+                        48.546653
+                  ]
+            },
+            {
+                  "name": "Bog Garden",
+                  "text": "Egy kilátópont a Butchart Gardens-ben, amely a mocsárkertre nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -123.469543,
+                        48.563143
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Butchart Gardens",
+                  "text": "Grădini botanice celebre cu expoziții impresionante de flori sezoniere.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.469435,
+                        48.564926
+                  ]
+            },
+            {
+                  "name": "Mount Work",
+                  "text": "Un vârf proeminent pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.479945,
+                        48.530893
+                  ]
+            },
+            {
+                  "name": "Bamberton Provincial Park",
+                  "text": "Un parc provincial pe Saanich Inlet, cu drumeții și înot.",
+                  "category": "natural",
+                  "coords": [
+                        -123.527067,
+                        48.606033
+                  ]
+            },
+            {
+                  "name": "ȽÁU,WELṈEW̱/John Dean Park",
+                  "text": "Un parc provincial pe Peninsula Saanich cu pădure bătrână de brad Douglas.",
+                  "category": "natural",
+                  "coords": [
+                        -123.448194,
+                        48.614648
+                  ]
+            },
+            {
+                  "name": "Elk/Beaver Lake Regional Park",
+                  "text": "Un parc regional cu două lacuri, trasee și animale sălbatice.",
+                  "category": "park",
+                  "coords": [
+                        -123.396118,
+                        48.522611
+                  ]
+            },
+            {
+                  "name": "Heritage Acres",
+                  "text": "Un muzeu care păstrează patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        -123.397367,
+                        48.581654
+                  ]
+            },
+            {
+                  "name": "Bazan Bay",
+                  "text": "Un golf pitoresc pe Peninsula Saanich.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.408428,
+                        48.628953
+                  ]
+            },
+            {
+                  "name": "Victoria Butterfly Gardens",
+                  "text": "O grădină interioară cu mii de fluturi zburând liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.439123,
+                        48.564465
+                  ]
+            },
+            {
+                  "name": "Brentwood Bay",
+                  "text": "Un golf mic popular pentru plimbări cu barca și priveliști.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.472805,
+                        48.575791
+                  ]
+            },
+            {
+                  "name": "Butchart Cove",
+                  "text": "Un mic golf lângă Grădinile Butchart.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.470649,
+                        48.56836
+                  ]
+            },
+            {
+                  "name": "Thomson Cove",
+                  "text": "Un golf în zona Grădinilor Butchart.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.478009,
+                        48.599494
+                  ]
+            },
+            {
+                  "name": "Ferguson Cove",
+                  "text": "Un golf în zona Grădinilor Butchart.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.39193,
+                        48.600614
+                  ]
+            },
+            {
+                  "name": "Mount Jeffrey",
+                  "text": "Un vârf pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.555514,
+                        48.583428
+                  ]
+            },
+            {
+                  "name": "Holmes Peak",
+                  "text": "Un vârf pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.530244,
+                        48.516532
+                  ]
+            },
+            {
+                  "name": "Jocelyn Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.52982,
+                        48.537288
+                  ]
+            },
+            {
+                  "name": "Sheepshanks Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.557101,
+                        48.559841
+                  ]
+            },
+            {
+                  "name": "Lone Tree Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.513893,
+                        48.519074
+                  ]
+            },
+            {
+                  "name": "Observatory Hill",
+                  "text": "Un vârf cu priveliști panoramice pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.418094,
+                        48.519835
+                  ]
+            },
+            {
+                  "name": "Cole Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.470971,
+                        48.550832
+                  ]
+            },
+            {
+                  "name": "Mount Newton",
+                  "text": "Un munte pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.443463,
+                        48.612953
+                  ]
+            },
+            {
+                  "name": "Bear Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.405568,
+                        48.546038
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill",
+                  "text": "Un deal pe Peninsula Saanich.",
+                  "category": "natural",
+                  "coords": [
+                        -123.559555,
+                        48.501186
+                  ]
+            },
+            {
+                  "name": "Spectacle Lake Provincial Park",
+                  "text": "Un parc provincial în jurul unui lac.",
+                  "category": "natural",
+                  "coords": [
+                        -123.570242,
+                        48.578883
+                  ]
+            },
+            {
+                  "name": "Sayward Beach",
+                  "text": "O plajă pe Peninsula Saanich.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.365901,
+                        48.531645
+                  ]
+            },
+            {
+                  "name": "Cordova Bay Beach",
+                  "text": "O plajă pe Peninsula Saanich.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.366143,
+                        48.521569
+                  ]
+            },
+            {
+                  "name": "Eagle Beach",
+                  "text": "O plajă pe Peninsula Saanich.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.387374,
+                        48.52598
+                  ]
+            },
+            {
+                  "name": "Main Hangar",
+                  "text": "Un hangar muzeu cu expoziții de aeronave.",
+                  "category": "museum",
+                  "coords": [
+                        -123.420961,
+                        48.640546
+                  ]
+            },
+            {
+                  "name": "Central Saanich Fire Museum",
+                  "text": "Un muzeu dedicat istoriei pompierilor.",
+                  "category": "museum",
+                  "coords": [
+                        -123.421442,
+                        48.595329
+                  ]
+            },
+            {
+                  "name": "Dean Cabin",
+                  "text": "Ruinele unei cabane în Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.448986,
+                        48.612446
+                  ]
+            },
+            {
+                  "name": "Thomson Cabin",
+                  "text": "Ruinele unei alte cabane în Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.445567,
+                        48.610417
+                  ]
+            },
+            {
+                  "name": "Malahat Skywalk",
+                  "text": "O platformă de observare și atracție pe Malahat, lângă Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.526763,
+                        48.568881
+                  ]
+            },
+            {
+                  "name": "Squally Reach Viewpoint",
+                  "text": "Un punct de belvedere în Butchart Gardens cu vedere spre Squally Reach.",
+                  "category": "natural",
+                  "coords": [
+                        -123.518008,
+                        48.545334
+                  ]
+            },
+            {
+                  "name": "Saanich Inlet Viewpoint",
+                  "text": "Un punct de belvedere în Butchart Gardens cu vedere spre Saanich Inlet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.509227,
+                        48.550361
+                  ]
+            },
+            {
+                  "name": "Malahat Viewpoint",
+                  "text": "Un cunoscut punct de belvedere pe Malahat, lângă Butchart Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -123.519048,
+                        48.546653
+                  ]
+            },
+            {
+                  "name": "Bog Garden",
+                  "text": "Un punct de belvedere în Butchart Gardens cu vedere spre grădina de mlaștină.",
+                  "category": "natural",
+                  "coords": [
+                        -123.469543,
+                        48.563143
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Butchart Gardens",
+                  "text": "Renowned botanical gardens with stunning seasonal flower displays.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.469435,
+                        48.564926
+                  ]
+            },
+            {
+                  "name": "Mount Work",
+                  "text": "A prominent peak on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.479945,
+                        48.530893
+                  ]
+            },
+            {
+                  "name": "Bamberton Provincial Park",
+                  "text": "A provincial park along the Saanich Inlet with hiking and swimming.",
+                  "category": "natural",
+                  "coords": [
+                        -123.527067,
+                        48.606033
+                  ]
+            },
+            {
+                  "name": "John Dean Park",
+                  "text": "A provincial park on the Saanich Peninsula featuring old-growth Douglas fir trees.",
+                  "category": "natural",
+                  "coords": [
+                        -123.448194,
+                        48.614648
+                  ]
+            },
+            {
+                  "name": "Elk/Beaver Lake Regional Park",
+                  "text": "A regional park with two lakes, trails, and wildlife.",
+                  "category": "park",
+                  "coords": [
+                        -123.396118,
+                        48.522611
+                  ]
+            },
+            {
+                  "name": "Heritage Acres",
+                  "text": "A museum preserving local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -123.397367,
+                        48.581654
+                  ]
+            },
+            {
+                  "name": "Bazan Bay",
+                  "text": "A scenic bay on the Saanich Peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.408428,
+                        48.628953
+                  ]
+            },
+            {
+                  "name": "Victoria Butterfly Gardens",
+                  "text": "An indoor garden with thousands of free-flying butterflies.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.439123,
+                        48.564465
+                  ]
+            },
+            {
+                  "name": "Brentwood Bay",
+                  "text": "A small bay popular for boating and views.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.472805,
+                        48.575791
+                  ]
+            },
+            {
+                  "name": "Butchart Cove",
+                  "text": "A small cove near Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.470649,
+                        48.56836
+                  ]
+            },
+            {
+                  "name": "Thomson Cove",
+                  "text": "A bay in the Butchart Gardens area.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.478009,
+                        48.599494
+                  ]
+            },
+            {
+                  "name": "Ferguson Cove",
+                  "text": "A bay in the Butchart Gardens area.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.39193,
+                        48.600614
+                  ]
+            },
+            {
+                  "name": "Mount Jeffrey",
+                  "text": "A peak on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.555514,
+                        48.583428
+                  ]
+            },
+            {
+                  "name": "Holmes Peak",
+                  "text": "A peak on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.530244,
+                        48.516532
+                  ]
+            },
+            {
+                  "name": "Jocelyn Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.52982,
+                        48.537288
+                  ]
+            },
+            {
+                  "name": "Sheepshanks Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.557101,
+                        48.559841
+                  ]
+            },
+            {
+                  "name": "Lone Tree Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.513893,
+                        48.519074
+                  ]
+            },
+            {
+                  "name": "Observatory Hill",
+                  "text": "A peak with panoramic views on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.418094,
+                        48.519835
+                  ]
+            },
+            {
+                  "name": "Cole Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.470971,
+                        48.550832
+                  ]
+            },
+            {
+                  "name": "Mount Newton",
+                  "text": "A mountain on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.443463,
+                        48.612953
+                  ]
+            },
+            {
+                  "name": "Bear Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.405568,
+                        48.546038
+                  ]
+            },
+            {
+                  "name": "Tunnel Hill",
+                  "text": "A hill on the Saanich Peninsula.",
+                  "category": "natural",
+                  "coords": [
+                        -123.559555,
+                        48.501186
+                  ]
+            },
+            {
+                  "name": "Spectacle Lake Provincial Park",
+                  "text": "A provincial park around a lake.",
+                  "category": "natural",
+                  "coords": [
+                        -123.570242,
+                        48.578883
+                  ]
+            },
+            {
+                  "name": "Sayward Beach",
+                  "text": "A beach on the Saanich Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.365901,
+                        48.531645
+                  ]
+            },
+            {
+                  "name": "Cordova Bay Beach",
+                  "text": "A beach on the Saanich Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.366143,
+                        48.521569
+                  ]
+            },
+            {
+                  "name": "Eagle Beach",
+                  "text": "A beach on the Saanich Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -123.387374,
+                        48.52598
+                  ]
+            },
+            {
+                  "name": "Main Hangar",
+                  "text": "A museum hangar housing aircraft exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -123.420961,
+                        48.640546
+                  ]
+            },
+            {
+                  "name": "Central Saanich Fire Museum",
+                  "text": "A museum dedicated to firefighting history.",
+                  "category": "museum",
+                  "coords": [
+                        -123.421442,
+                        48.595329
+                  ]
+            },
+            {
+                  "name": "Dean Cabin",
+                  "text": "Ruins of a cabin in Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.448986,
+                        48.612446
+                  ]
+            },
+            {
+                  "name": "Thomson Cabin",
+                  "text": "Ruins of another cabin in Butchart Gardens.",
+                  "category": "historical",
+                  "coords": [
+                        -123.445567,
+                        48.610417
+                  ]
+            },
+            {
+                  "name": "Malahat Skywalk",
+                  "text": "A viewpoint and attraction on the Malahat near Butchart Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -123.526763,
+                        48.568881
+                  ]
+            },
+            {
+                  "name": "Squally Reach Viewpoint",
+                  "text": "A viewpoint in Butchart Gardens overlooking Squally Reach.",
+                  "category": "natural",
+                  "coords": [
+                        -123.518008,
+                        48.545334
+                  ]
+            },
+            {
+                  "name": "Saanich Inlet Viewpoint",
+                  "text": "A viewpoint in Butchart Gardens overlooking Saanich Inlet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.509227,
+                        48.550361
+                  ]
+            },
+            {
+                  "name": "Malahat Viewpoint",
+                  "text": "A famous viewpoint on the Malahat, near Butchart Gardens.",
+                  "category": "natural",
+                  "coords": [
+                        -123.519048,
+                        48.546653
+                  ]
+            },
+            {
+                  "name": "Bog Garden",
+                  "text": "A viewpoint in Butchart Gardens overlooking the bog garden.",
+                  "category": "natural",
+                  "coords": [
+                        -123.469543,
+                        48.563143
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA",
     coords: [-123.4674, 48.5637],
@@ -753,7 +6630,1168 @@ export const canadaCities: POI[] = [
     facts: { de: ["Ehemaliger Kalksteinbruch", "Nationale historische Stätte", "Über 900 Pflanzenarten", "Ganzjährig geöffnet"], hu: ["Egykori mészkőbánya", "Nemzeti történelmi emlékhely", "Több mint 900 növényfaj", "Egész évben látogatható"], ro: ["Fostă carieră de calcar", "Sit istoric național", "Peste 900 de specii de plante", "Deschise tot anul"], en: ["Former limestone quarry", "National Historic Site of Canada", "Over 900 plant varieties", "Open in all four seasons"] , es: ["Antigua cantera de piedra caliza", "Sitio histórico nacional", "Más de 900 especies de plantas", "Abierto todo el año"], pt: ["Antiga pedreira de calcário", "Sítio histórico nacional", "Mais de 900 espécies de plantas", "Aberto todo o ano"], fr: ["Ancienne carrière de calcaire", "Lieu historique national", "Plus de 900 espèces de plantes", "Ouvert toute l'année"]},
     area: 0.22, historyYear: 1904, historyPeriod: "Modern", image: "/poi-images/ca-butchart-gardens.webp"},
   {
-    id: "ca-signal-hill",
+    id: "ca-signal-hill", "sights": {
+      "de": [
+            {
+                  "name": "Cabot Tower",
+                  "text": "Ein Museumsturm auf Signal Hill, der an die Landung von John Cabot im Jahr 1497 erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -52.682048,
+                        47.570102
+                  ]
+            },
+            {
+                  "name": "Masjid-an-Noor",
+                  "text": "Eine Moschee in Signal Hill.",
+                  "category": "religious",
+                  "coords": [
+                        -52.68936,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "Fort Amherst Lighthouse",
+                  "text": "Ein Leuchtturm in Signal Hill am Eingang zum Hafen von St. John's.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.680373,
+                        47.563344
+                  ]
+            },
+            {
+                  "name": "Caplin Cove",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675056,
+                        47.543194
+                  ]
+            },
+            {
+                  "name": "Bottle Cove",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.652026,
+                        47.529708
+                  ]
+            },
+            {
+                  "name": "True Blue Gulch",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.649587,
+                        47.531242
+                  ]
+            },
+            {
+                  "name": "Sailing Gulch",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646789,
+                        47.532482
+                  ]
+            },
+            {
+                  "name": "Bobbies Cove",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.65905,
+                        47.596671
+                  ]
+            },
+            {
+                  "name": "Boulders Cove",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.667047,
+                        47.586651
+                  ]
+            },
+            {
+                  "name": "The Circle",
+                  "text": "Eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.672165,
+                        47.580332
+                  ]
+            },
+            {
+                  "name": "Cuckolds Cove",
+                  "text": "Cuckolds Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674496,
+                        47.576025
+                  ]
+            },
+            {
+                  "name": "Hay Cove",
+                  "text": "Hay Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68418,
+                        47.567688
+                  ]
+            },
+            {
+                  "name": "Rolls Cove",
+                  "text": "Rolls Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.686017,
+                        47.567508
+                  ]
+            },
+            {
+                  "name": "Frederick Cove",
+                  "text": "Frederick Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.685623,
+                        47.564643
+                  ]
+            },
+            {
+                  "name": "South Bight",
+                  "text": "South Bight ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68142,
+                        47.564029
+                  ]
+            },
+            {
+                  "name": "Sleepy Cove",
+                  "text": "Sleepy Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674709,
+                        47.536999
+                  ]
+            },
+            {
+                  "name": "Peggys Bag",
+                  "text": "Peggys Bag ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.673453,
+                        47.534871
+                  ]
+            },
+            {
+                  "name": "Spanish Gulch",
+                  "text": "Spanish Gulch ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648193,
+                        47.531813
+                  ]
+            },
+            {
+                  "name": "Windy Cove",
+                  "text": "Windy Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675508,
+                        47.539034
+                  ]
+            },
+            {
+                  "name": "Kelby Cove",
+                  "text": "Kelby Cove ist eine Bucht in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.676972,
+                        47.541026
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Signal Hill ist ein Gipfel in St. John’s, bekannt als Ort, an dem Guglielmo Marconi 1901 das erste transatlantische Funksignal empfing.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680367,
+                        47.572131
+                  ]
+            },
+            {
+                  "name": "Signal Hill Park Interpretation Centre",
+                  "text": "Das Signal Hill Park Interpretation Centre ist ein Museum in Signal Hill, das Informationen zur Geschichte des Hügels bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -52.687103,
+                        47.570344
+                  ]
+            },
+            {
+                  "name": "Red Cliff Radar Station",
+                  "text": "Red Cliff Radar Station ist eine Ruine einer ehemaligen Radaranlage in Signal Hill.",
+                  "category": "historical",
+                  "coords": [
+                        -52.665505,
+                        47.641262
+                  ]
+            },
+            {
+                  "name": "Queen's Battery",
+                  "text": "Queen's Battery ist ein historisches Fort in Signal Hill.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.685904,
+                        47.568619
+                  ]
+            },
+            {
+                  "name": "Shawn's Big Red Truck",
+                  "text": "Shawn's Big Red Truck ist eine bekannte Attraktion in Form eines roten Lastwagens in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.725,
+                        47.647752
+                  ]
+            },
+            {
+                  "name": "Fogarty's Wetland",
+                  "text": "Fogarty's Wetland ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.74631,
+                        47.580898
+                  ]
+            },
+            {
+                  "name": "Torbay Point Viewpoint",
+                  "text": "Torbay Point Viewpoint ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669005,
+                        47.658054
+                  ]
+            },
+            {
+                  "name": "Gun Emplacement",
+                  "text": "Gun Emplacement ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.661373,
+                        47.646589
+                  ]
+            },
+            {
+                  "name": "Logy Bay Viewpoint",
+                  "text": "Logy Bay Viewpoint ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.66655,
+                        47.633503
+                  ]
+            },
+            {
+                  "name": "Fort Waldegrave",
+                  "text": "Fort Waldegrave ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690852,
+                        47.568914
+                  ]
+            },
+            {
+                  "name": "Harbour Vista Deck",
+                  "text": "Harbour Vista Deck ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690943,
+                        47.570732
+                  ]
+            },
+            {
+                  "name": "Mount Scio Lookout",
+                  "text": "Mount Scio Lookout ist ein Aussichtspunkt in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.752702,
+                        47.569558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cabot Tower",
+                  "text": "Egy múzeumtorony a Signal Hillen, John Cabot 1497-es partraszállásának emlékére.",
+                  "category": "museum",
+                  "coords": [
+                        -52.682048,
+                        47.570102
+                  ]
+            },
+            {
+                  "name": "Masjid-an-Noor",
+                  "text": "Egy mecset Signal Hillen.",
+                  "category": "religious",
+                  "coords": [
+                        -52.68936,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "Fort Amherst Lighthouse",
+                  "text": "Egy világítótorony Signal Hillen, a St. John's kikötő bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.680373,
+                        47.563344
+                  ]
+            },
+            {
+                  "name": "Caplin Cove",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675056,
+                        47.543194
+                  ]
+            },
+            {
+                  "name": "Bottle Cove",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.652026,
+                        47.529708
+                  ]
+            },
+            {
+                  "name": "True Blue Gulch",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.649587,
+                        47.531242
+                  ]
+            },
+            {
+                  "name": "Sailing Gulch",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646789,
+                        47.532482
+                  ]
+            },
+            {
+                  "name": "Bobbies Cove",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.65905,
+                        47.596671
+                  ]
+            },
+            {
+                  "name": "Boulders Cove",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.667047,
+                        47.586651
+                  ]
+            },
+            {
+                  "name": "The Circle",
+                  "text": "Egy öböl Signal Hillen.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.672165,
+                        47.580332
+                  ]
+            },
+            {
+                  "name": "Cuckolds Cove",
+                  "text": "A Cuckolds Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674496,
+                        47.576025
+                  ]
+            },
+            {
+                  "name": "Hay Cove",
+                  "text": "A Hay Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68418,
+                        47.567688
+                  ]
+            },
+            {
+                  "name": "Rolls Cove",
+                  "text": "A Rolls Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.686017,
+                        47.567508
+                  ]
+            },
+            {
+                  "name": "Frederick Cove",
+                  "text": "A Frederick Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.685623,
+                        47.564643
+                  ]
+            },
+            {
+                  "name": "South Bight",
+                  "text": "A South Bight egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68142,
+                        47.564029
+                  ]
+            },
+            {
+                  "name": "Sleepy Cove",
+                  "text": "A Sleepy Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674709,
+                        47.536999
+                  ]
+            },
+            {
+                  "name": "Peggys Bag",
+                  "text": "A Peggys Bag egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.673453,
+                        47.534871
+                  ]
+            },
+            {
+                  "name": "Spanish Gulch",
+                  "text": "A Spanish Gulch egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648193,
+                        47.531813
+                  ]
+            },
+            {
+                  "name": "Windy Cove",
+                  "text": "A Windy Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675508,
+                        47.539034
+                  ]
+            },
+            {
+                  "name": "Kelby Cove",
+                  "text": "A Kelby Cove egy öböl Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.676972,
+                        47.541026
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "A Signal Hill egy csúcs St. John’sban, ahol Guglielmo Marconi 1901-ben vette az első transzatlanti rádiójelet.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680367,
+                        47.572131
+                  ]
+            },
+            {
+                  "name": "Signal Hill Park Interpretation Centre",
+                  "text": "A Signal Hill Park Tájékoztató Központ egy múzeum Signal Hillben, amely a domb történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -52.687103,
+                        47.570344
+                  ]
+            },
+            {
+                  "name": "Red Cliff Radar Station",
+                  "text": "A Red Cliff Radar Station egy egykori radarállomás romja Signal Hillben.",
+                  "category": "historical",
+                  "coords": [
+                        -52.665505,
+                        47.641262
+                  ]
+            },
+            {
+                  "name": "Queen's Battery",
+                  "text": "A Queen's Battery egy történelmi erőd Signal Hillben.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.685904,
+                        47.568619
+                  ]
+            },
+            {
+                  "name": "Shawn's Big Red Truck",
+                  "text": "A Shawn's Big Red Truck egy híres piros teherautó-attrakció Signal Hillben.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.725,
+                        47.647752
+                  ]
+            },
+            {
+                  "name": "Fogarty's Wetland",
+                  "text": "A Fogarty's Wetland egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.74631,
+                        47.580898
+                  ]
+            },
+            {
+                  "name": "Torbay Point Viewpoint",
+                  "text": "A Torbay Point Viewpoint egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669005,
+                        47.658054
+                  ]
+            },
+            {
+                  "name": "Gun Emplacement",
+                  "text": "A Gun Emplacement egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.661373,
+                        47.646589
+                  ]
+            },
+            {
+                  "name": "Logy Bay Viewpoint",
+                  "text": "A Logy Bay Viewpoint egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.66655,
+                        47.633503
+                  ]
+            },
+            {
+                  "name": "Fort Waldegrave",
+                  "text": "A Fort Waldegrave egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690852,
+                        47.568914
+                  ]
+            },
+            {
+                  "name": "Harbour Vista Deck",
+                  "text": "A Harbour Vista Deck egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690943,
+                        47.570732
+                  ]
+            },
+            {
+                  "name": "Mount Scio Lookout",
+                  "text": "A Mount Scio Lookout egy kilátópont Signal Hillben.",
+                  "category": "natural",
+                  "coords": [
+                        -52.752702,
+                        47.569558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cabot Tower",
+                  "text": "Un turn muzeu pe Signal Hill, care comemorează debarcarea lui John Cabot în 1497.",
+                  "category": "museum",
+                  "coords": [
+                        -52.682048,
+                        47.570102
+                  ]
+            },
+            {
+                  "name": "Masjid-an-Noor",
+                  "text": "O moschee în Signal Hill.",
+                  "category": "religious",
+                  "coords": [
+                        -52.68936,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "Fort Amherst Lighthouse",
+                  "text": "Un far în Signal Hill la intrarea în portul St. John's.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.680373,
+                        47.563344
+                  ]
+            },
+            {
+                  "name": "Caplin Cove",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675056,
+                        47.543194
+                  ]
+            },
+            {
+                  "name": "Bottle Cove",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.652026,
+                        47.529708
+                  ]
+            },
+            {
+                  "name": "True Blue Gulch",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.649587,
+                        47.531242
+                  ]
+            },
+            {
+                  "name": "Sailing Gulch",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646789,
+                        47.532482
+                  ]
+            },
+            {
+                  "name": "Bobbies Cove",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.65905,
+                        47.596671
+                  ]
+            },
+            {
+                  "name": "Boulders Cove",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.667047,
+                        47.586651
+                  ]
+            },
+            {
+                  "name": "The Circle",
+                  "text": "Un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.672165,
+                        47.580332
+                  ]
+            },
+            {
+                  "name": "Cuckolds Cove",
+                  "text": "Cuckolds Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674496,
+                        47.576025
+                  ]
+            },
+            {
+                  "name": "Hay Cove",
+                  "text": "Hay Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68418,
+                        47.567688
+                  ]
+            },
+            {
+                  "name": "Rolls Cove",
+                  "text": "Rolls Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.686017,
+                        47.567508
+                  ]
+            },
+            {
+                  "name": "Frederick Cove",
+                  "text": "Frederick Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.685623,
+                        47.564643
+                  ]
+            },
+            {
+                  "name": "South Bight",
+                  "text": "South Bight este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68142,
+                        47.564029
+                  ]
+            },
+            {
+                  "name": "Sleepy Cove",
+                  "text": "Sleepy Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674709,
+                        47.536999
+                  ]
+            },
+            {
+                  "name": "Peggys Bag",
+                  "text": "Peggys Bag este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.673453,
+                        47.534871
+                  ]
+            },
+            {
+                  "name": "Spanish Gulch",
+                  "text": "Spanish Gulch este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648193,
+                        47.531813
+                  ]
+            },
+            {
+                  "name": "Windy Cove",
+                  "text": "Windy Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675508,
+                        47.539034
+                  ]
+            },
+            {
+                  "name": "Kelby Cove",
+                  "text": "Kelby Cove este un golf în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.676972,
+                        47.541026
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Signal Hill este un vârf în St. John’s, cunoscut ca locul unde Guglielmo Marconi a recepționat primul semnal radio transatlantic în 1901.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680367,
+                        47.572131
+                  ]
+            },
+            {
+                  "name": "Signal Hill Park Interpretation Centre",
+                  "text": "Centrul de Interpretare a Parcului Signal Hill este un muzeu în Signal Hill, care oferă informații despre istoria dealului.",
+                  "category": "museum",
+                  "coords": [
+                        -52.687103,
+                        47.570344
+                  ]
+            },
+            {
+                  "name": "Red Cliff Radar Station",
+                  "text": "Red Cliff Radar Station este o ruină a unei foste stații radar în Signal Hill.",
+                  "category": "historical",
+                  "coords": [
+                        -52.665505,
+                        47.641262
+                  ]
+            },
+            {
+                  "name": "Queen's Battery",
+                  "text": "Queen's Battery este un fort istoric în Signal Hill.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.685904,
+                        47.568619
+                  ]
+            },
+            {
+                  "name": "Shawn's Big Red Truck",
+                  "text": "Shawn's Big Red Truck este o atracție cunoscută sub forma unui camion roșu în Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.725,
+                        47.647752
+                  ]
+            },
+            {
+                  "name": "Fogarty's Wetland",
+                  "text": "Fogarty's Wetland este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.74631,
+                        47.580898
+                  ]
+            },
+            {
+                  "name": "Torbay Point Viewpoint",
+                  "text": "Torbay Point Viewpoint este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669005,
+                        47.658054
+                  ]
+            },
+            {
+                  "name": "Gun Emplacement",
+                  "text": "Gun Emplacement este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.661373,
+                        47.646589
+                  ]
+            },
+            {
+                  "name": "Logy Bay Viewpoint",
+                  "text": "Logy Bay Viewpoint este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.66655,
+                        47.633503
+                  ]
+            },
+            {
+                  "name": "Fort Waldegrave",
+                  "text": "Fort Waldegrave este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690852,
+                        47.568914
+                  ]
+            },
+            {
+                  "name": "Harbour Vista Deck",
+                  "text": "Harbour Vista Deck este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690943,
+                        47.570732
+                  ]
+            },
+            {
+                  "name": "Mount Scio Lookout",
+                  "text": "Mount Scio Lookout este un punct de belvedere în Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.752702,
+                        47.569558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cabot Tower",
+                  "text": "A museum tower on Signal Hill, commemorating John Cabot's landing in 1497.",
+                  "category": "museum",
+                  "coords": [
+                        -52.682048,
+                        47.570102
+                  ]
+            },
+            {
+                  "name": "Masjid-an-Noor",
+                  "text": "A mosque in Signal Hill.",
+                  "category": "religious",
+                  "coords": [
+                        -52.68936,
+                        47.60711
+                  ]
+            },
+            {
+                  "name": "Fort Amherst Lighthouse",
+                  "text": "A lighthouse in Signal Hill at the entrance to St. John's harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.680373,
+                        47.563344
+                  ]
+            },
+            {
+                  "name": "Caplin Cove",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675056,
+                        47.543194
+                  ]
+            },
+            {
+                  "name": "Bottle Cove",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.652026,
+                        47.529708
+                  ]
+            },
+            {
+                  "name": "True Blue Gulch",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.649587,
+                        47.531242
+                  ]
+            },
+            {
+                  "name": "Sailing Gulch",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.646789,
+                        47.532482
+                  ]
+            },
+            {
+                  "name": "Bobbies Cove",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.65905,
+                        47.596671
+                  ]
+            },
+            {
+                  "name": "Boulders Cove",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.667047,
+                        47.586651
+                  ]
+            },
+            {
+                  "name": "The Circle",
+                  "text": "A bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.672165,
+                        47.580332
+                  ]
+            },
+            {
+                  "name": "Cuckolds Cove",
+                  "text": "Cuckolds Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674496,
+                        47.576025
+                  ]
+            },
+            {
+                  "name": "Hay Cove",
+                  "text": "Hay Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68418,
+                        47.567688
+                  ]
+            },
+            {
+                  "name": "Rolls Cove",
+                  "text": "Rolls Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.686017,
+                        47.567508
+                  ]
+            },
+            {
+                  "name": "Frederick Cove",
+                  "text": "Frederick Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.685623,
+                        47.564643
+                  ]
+            },
+            {
+                  "name": "South Bight",
+                  "text": "South Bight is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.68142,
+                        47.564029
+                  ]
+            },
+            {
+                  "name": "Sleepy Cove",
+                  "text": "Sleepy Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.674709,
+                        47.536999
+                  ]
+            },
+            {
+                  "name": "Peggys Bag",
+                  "text": "Peggys Bag is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.673453,
+                        47.534871
+                  ]
+            },
+            {
+                  "name": "Spanish Gulch",
+                  "text": "Spanish Gulch is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.648193,
+                        47.531813
+                  ]
+            },
+            {
+                  "name": "Windy Cove",
+                  "text": "Windy Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.675508,
+                        47.539034
+                  ]
+            },
+            {
+                  "name": "Kelby Cove",
+                  "text": "Kelby Cove is a bay in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.676972,
+                        47.541026
+                  ]
+            },
+            {
+                  "name": "Signal Hill",
+                  "text": "Signal Hill is a peak in St. John’s, known as the site where Guglielmo Marconi received the first transatlantic wireless signal in 1901.",
+                  "category": "natural",
+                  "coords": [
+                        -52.680367,
+                        47.572131
+                  ]
+            },
+            {
+                  "name": "Signal Hill Park Interpretation Centre",
+                  "text": "Signal Hill Park Interpretation Centre is a museum in Signal Hill that provides information about the hill's history.",
+                  "category": "museum",
+                  "coords": [
+                        -52.687103,
+                        47.570344
+                  ]
+            },
+            {
+                  "name": "Red Cliff Radar Station",
+                  "text": "Red Cliff Radar Station is a ruin of a former radar station in Signal Hill.",
+                  "category": "historical",
+                  "coords": [
+                        -52.665505,
+                        47.641262
+                  ]
+            },
+            {
+                  "name": "Queen's Battery",
+                  "text": "Queen's Battery is a historic fort in Signal Hill.",
+                  "category": "fortress",
+                  "coords": [
+                        -52.685904,
+                        47.568619
+                  ]
+            },
+            {
+                  "name": "Shawn's Big Red Truck",
+                  "text": "Shawn's Big Red Truck is a notable red truck attraction in Signal Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        -52.725,
+                        47.647752
+                  ]
+            },
+            {
+                  "name": "Fogarty's Wetland",
+                  "text": "Fogarty's Wetland is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.74631,
+                        47.580898
+                  ]
+            },
+            {
+                  "name": "Torbay Point Viewpoint",
+                  "text": "Torbay Point Viewpoint is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.669005,
+                        47.658054
+                  ]
+            },
+            {
+                  "name": "Gun Emplacement",
+                  "text": "Gun Emplacement is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.661373,
+                        47.646589
+                  ]
+            },
+            {
+                  "name": "Logy Bay Viewpoint",
+                  "text": "Logy Bay Viewpoint is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.66655,
+                        47.633503
+                  ]
+            },
+            {
+                  "name": "Fort Waldegrave",
+                  "text": "Fort Waldegrave is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690852,
+                        47.568914
+                  ]
+            },
+            {
+                  "name": "Harbour Vista Deck",
+                  "text": "Harbour Vista Deck is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.690943,
+                        47.570732
+                  ]
+            },
+            {
+                  "name": "Mount Scio Lookout",
+                  "text": "Mount Scio Lookout is a viewpoint in Signal Hill.",
+                  "category": "natural",
+                  "coords": [
+                        -52.752702,
+                        47.569558
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA",
     coords: [-52.6800, 47.5694],
@@ -780,7 +7818,700 @@ export const canadaCities: POI[] = [
     facts: { de: ["Erstes Funksignal 1901", "Cabot Tower Wahrzeichen", "Strategische Militärlage", "Blick auf St. John's Hafen"], hu: ["Első rádiójel 1901-ben", "A Cabot-torony a jelképe", "Stratégiai katonai helyszín", "Kilátás St. John's kikötőjére"], ro: ["Primul semnal radio în 1901", "Turnul Cabot ca punct de reper", "Locație militară strategică", "Vedere spre portul St. John's"], en: ["First wireless signal in 1901", "Home to the Cabot Tower", "Strategic military defense site", "Panoramic views of the harbor"] , es: ["Primera señal de radio 1901", "Monumento Cabot Tower", "Posición militar estratégica", "Vista al puerto de St. John's"], pt: ["Primeiro sinal de rádio 1901", "Monumento Cabot Tower", "Posição militar estratégica", "Vista para o porto de St. John's"], fr: ["Premier signal radio en 1901", "Cabot Tower emblématique", "Position militaire stratégique", "Vue sur le port de St. John's"]},
     elevation: 167, historyYear: 1901, historyPeriod: "Modern", image: "/poi-images/ca-signal-hill.webp"},
   {
-    id: "ca-banff-grizzly",
+    id: "ca-banff-grizzly", "sights": {
+      "de": [
+            {
+                  "name": "Cascade Amphitheatre",
+                  "text": "Ein natürliches Amphitheater am Cascade Mountain in Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.584514,
+                        51.229877
+                  ]
+            },
+            {
+                  "name": "Cascade Mountain",
+                  "text": "Ein markanter Berg im Banff-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -115.562937,
+                        51.229004
+                  ]
+            },
+            {
+                  "name": "Mt Norquay Sightseeing Chairlift",
+                  "text": "Ein Sessellift mit Panoramablick auf Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.600136,
+                        51.201316
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake Viewpoint",
+                  "text": "Ein Aussichtspunkt auf die Vermilion Lakes in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.604829,
+                        51.181414
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake",
+                  "text": "Eine Reihe von Seen nahe Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.603248,
+                        51.182265
+                  ]
+            },
+            {
+                  "name": "Cory Pass",
+                  "text": "Ein Gebirgspass im Banff-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67724,
+                        51.204113
+                  ]
+            },
+            {
+                  "name": "Mount Louis",
+                  "text": "Ein Gipfel, bekannt für sein auffälliges Aussehen, in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.679569,
+                        51.215417
+                  ]
+            },
+            {
+                  "name": "Mount Brewster",
+                  "text": "Ein Gipfel im Banff-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.655197,
+                        51.246202
+                  ]
+            },
+            {
+                  "name": "The Finger",
+                  "text": "Eine Felsformation, die einem Finger ähnelt, in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.727801,
+                        51.220753
+                  ]
+            },
+            {
+                  "name": "Cockscomb Mountain",
+                  "text": "Ein Gipfel mit markanter Form in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.724351,
+                        51.237439
+                  ]
+            },
+            {
+                  "name": "Mount Cory",
+                  "text": "Mount Cory ist ein Gipfel in den kanadischen Rocky Mountains nahe Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.690516,
+                        51.200401
+                  ]
+            },
+            {
+                  "name": "Muleshoe",
+                  "text": "Muleshoe ist eine Attraktion im Banff-Grizzly-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.719334,
+                        51.179208
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Cave ist ein Monument im Banff-Grizzly-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -115.689919,
+                        51.18859
+                  ]
+            },
+            {
+                  "name": "Backswamp",
+                  "text": "Backswamp ist ein Aussichtspunkt im Banff-Grizzly-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.696277,
+                        51.168725
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain Cosmic Ray Station",
+                  "text": "Die Sulphur Mountain Cosmic Ray Station ist eine ehemalige kosmische Strahlungsforschungsstation auf dem Sulphur Mountain, heute eine historische Stätte.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.578558,
+                        51.147073
+                  ]
+            },
+            {
+                  "name": "Sanson Peak",
+                  "text": "Sanson Peak ist ein Gipfel in der Nähe von Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.583181,
+                        51.151771
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain",
+                  "text": "Der Sulphur Mountain ist ein Berg im Banff-Nationalpark mit einer Gondelbahn und heißen Quellen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.555028,
+                        51.123623
+                  ]
+            },
+            {
+                  "name": "Mount Norquay Green Spot",
+                  "text": "Mount Norquay Green Spot ist ein Aussichtspunkt am Mount Norquay.",
+                  "category": "natural",
+                  "coords": [
+                        -115.58705,
+                        51.196239
+                  ]
+            },
+            {
+                  "name": "Banff Upper Hot Springs",
+                  "text": "Die Banff Upper Hot Springs sind ein natürliches Thermalbad in Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.560613,
+                        51.150865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascade Amphitheatre",
+                  "text": "Egy természetes amfiteátrum a Cascade Mountain-en, Banffban.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.584514,
+                        51.229877
+                  ]
+            },
+            {
+                  "name": "Cascade Mountain",
+                  "text": "Egy jellegzetes hegy a Banff Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.562937,
+                        51.229004
+                  ]
+            },
+            {
+                  "name": "Mt Norquay Sightseeing Chairlift",
+                  "text": "Egy panorámás felvonó Banffra.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.600136,
+                        51.201316
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake Viewpoint",
+                  "text": "Egy kilátópont a Vermilion-tavakra Banffban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.604829,
+                        51.181414
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake",
+                  "text": "Tavak sorozata Banff közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.603248,
+                        51.182265
+                  ]
+            },
+            {
+                  "name": "Cory Pass",
+                  "text": "Egy hegyi hágó a Banff térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67724,
+                        51.204113
+                  ]
+            },
+            {
+                  "name": "Mount Louis",
+                  "text": "Egy csúcs, amely feltűnő megjelenéséről ismert Banffban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.679569,
+                        51.215417
+                  ]
+            },
+            {
+                  "name": "Mount Brewster",
+                  "text": "Egy csúcs a Banff térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.655197,
+                        51.246202
+                  ]
+            },
+            {
+                  "name": "The Finger",
+                  "text": "Egy ujjra emlékeztető sziklaformáció Banffban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.727801,
+                        51.220753
+                  ]
+            },
+            {
+                  "name": "Cockscomb Mountain",
+                  "text": "Egy jellegzetes alakú csúcs Banffban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.724351,
+                        51.237439
+                  ]
+            },
+            {
+                  "name": "Mount Cory",
+                  "text": "A Mount Cory egy csúcs a kanadai Sziklás-hegységben, Banff közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.690516,
+                        51.200401
+                  ]
+            },
+            {
+                  "name": "Muleshoe",
+                  "text": "A Muleshoe egy látványosság a Banff-Grizzly területen.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.719334,
+                        51.179208
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "A Cave egy emlékmű a Banff-Grizzly területen.",
+                  "category": "historical",
+                  "coords": [
+                        -115.689919,
+                        51.18859
+                  ]
+            },
+            {
+                  "name": "Backswamp",
+                  "text": "A Backswamp egy kilátópont a Banff-Grizzly területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.696277,
+                        51.168725
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain Cosmic Ray Station",
+                  "text": "A Sulphur Mountain Cosmic Ray Station egy egykori kozmikus sugárzás kutatóállomás a Sulphur Mountain tetején, ma történelmi helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.578558,
+                        51.147073
+                  ]
+            },
+            {
+                  "name": "Sanson Peak",
+                  "text": "A Sanson Peak egy csúcs Banff közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.583181,
+                        51.151771
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain",
+                  "text": "A Sulphur Mountain egy hegy a Banff Nemzeti Parkban, felvonóval és meleg forrásokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -115.555028,
+                        51.123623
+                  ]
+            },
+            {
+                  "name": "Mount Norquay Green Spot",
+                  "text": "A Mount Norquay Green Spot egy kilátópont a Mount Norquay-n.",
+                  "category": "natural",
+                  "coords": [
+                        -115.58705,
+                        51.196239
+                  ]
+            },
+            {
+                  "name": "Banff Upper Hot Springs",
+                  "text": "A Banff Upper Hot Springs természetes termálfürdő Banffban.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.560613,
+                        51.150865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascade Amphitheatre",
+                  "text": "Un amfiteatru natural pe Cascade Mountain în Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.584514,
+                        51.229877
+                  ]
+            },
+            {
+                  "name": "Cascade Mountain",
+                  "text": "Un munte proeminent în Parcul Național Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.562937,
+                        51.229004
+                  ]
+            },
+            {
+                  "name": "Mt Norquay Sightseeing Chairlift",
+                  "text": "Un telescaun cu vederi panoramice asupra orașului Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.600136,
+                        51.201316
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake Viewpoint",
+                  "text": "Un punct de belvedere asupra lacurilor Vermilion în Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.604829,
+                        51.181414
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake",
+                  "text": "O serie de lacuri lângă Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.603248,
+                        51.182265
+                  ]
+            },
+            {
+                  "name": "Cory Pass",
+                  "text": "O trecătoare montană în zona Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67724,
+                        51.204113
+                  ]
+            },
+            {
+                  "name": "Mount Louis",
+                  "text": "Un vârf cunoscut pentru aspectul său izbitor în Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.679569,
+                        51.215417
+                  ]
+            },
+            {
+                  "name": "Mount Brewster",
+                  "text": "Un vârf în zona Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.655197,
+                        51.246202
+                  ]
+            },
+            {
+                  "name": "The Finger",
+                  "text": "O formațiune stâncoasă asemănătoare unui deget în Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.727801,
+                        51.220753
+                  ]
+            },
+            {
+                  "name": "Cockscomb Mountain",
+                  "text": "Un vârf cu o formă distinctivă în Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.724351,
+                        51.237439
+                  ]
+            },
+            {
+                  "name": "Mount Cory",
+                  "text": "Mount Cory este un vârf în Munții Stâncoși canadieni, lângă Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.690516,
+                        51.200401
+                  ]
+            },
+            {
+                  "name": "Muleshoe",
+                  "text": "Muleshoe este o atracție în zona Banff-Grizzly.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.719334,
+                        51.179208
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Cave este un monument în zona Banff-Grizzly.",
+                  "category": "historical",
+                  "coords": [
+                        -115.689919,
+                        51.18859
+                  ]
+            },
+            {
+                  "name": "Backswamp",
+                  "text": "Backswamp este un punct de belvedere în zona Banff-Grizzly.",
+                  "category": "natural",
+                  "coords": [
+                        -115.696277,
+                        51.168725
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain Cosmic Ray Station",
+                  "text": "Stația de Raze Cosmice de pe Sulphur Mountain este o fostă stație de cercetare a razelor cosmice pe vârful Sulphur Mountain, acum un sit istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.578558,
+                        51.147073
+                  ]
+            },
+            {
+                  "name": "Sanson Peak",
+                  "text": "Sanson Peak este un vârf lângă Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.583181,
+                        51.151771
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain",
+                  "text": "Sulphur Mountain este un munte în Parcul Național Banff, cu o telecabină și izvoare termale.",
+                  "category": "natural",
+                  "coords": [
+                        -115.555028,
+                        51.123623
+                  ]
+            },
+            {
+                  "name": "Mount Norquay Green Spot",
+                  "text": "Mount Norquay Green Spot este un punct de belvedere pe Mount Norquay.",
+                  "category": "natural",
+                  "coords": [
+                        -115.58705,
+                        51.196239
+                  ]
+            },
+            {
+                  "name": "Banff Upper Hot Springs",
+                  "text": "Banff Upper Hot Springs este o baie termală naturală în Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.560613,
+                        51.150865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascade Amphitheatre",
+                  "text": "A natural amphitheatre on Cascade Mountain in Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.584514,
+                        51.229877
+                  ]
+            },
+            {
+                  "name": "Cascade Mountain",
+                  "text": "A prominent mountain in Banff National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -115.562937,
+                        51.229004
+                  ]
+            },
+            {
+                  "name": "Mt Norquay Sightseeing Chairlift",
+                  "text": "A chairlift offering panoramic views of Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.600136,
+                        51.201316
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake Viewpoint",
+                  "text": "A viewpoint of the Vermilion Lakes in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.604829,
+                        51.181414
+                  ]
+            },
+            {
+                  "name": "Vermilion Lake",
+                  "text": "A series of lakes near Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.603248,
+                        51.182265
+                  ]
+            },
+            {
+                  "name": "Cory Pass",
+                  "text": "A mountain pass in the Banff area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67724,
+                        51.204113
+                  ]
+            },
+            {
+                  "name": "Mount Louis",
+                  "text": "A peak known for its striking appearance in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.679569,
+                        51.215417
+                  ]
+            },
+            {
+                  "name": "Mount Brewster",
+                  "text": "A peak in the Banff area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.655197,
+                        51.246202
+                  ]
+            },
+            {
+                  "name": "The Finger",
+                  "text": "A rock formation resembling a finger in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.727801,
+                        51.220753
+                  ]
+            },
+            {
+                  "name": "Cockscomb Mountain",
+                  "text": "A peak with a distinctive shape in Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.724351,
+                        51.237439
+                  ]
+            },
+            {
+                  "name": "Mount Cory",
+                  "text": "Mount Cory is a peak in the Canadian Rockies near Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.690516,
+                        51.200401
+                  ]
+            },
+            {
+                  "name": "Muleshoe",
+                  "text": "Muleshoe is an attraction in the Banff-Grizzly area.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.719334,
+                        51.179208
+                  ]
+            },
+            {
+                  "name": "Cave",
+                  "text": "Cave is a monument in the Banff-Grizzly area.",
+                  "category": "historical",
+                  "coords": [
+                        -115.689919,
+                        51.18859
+                  ]
+            },
+            {
+                  "name": "Backswamp",
+                  "text": "Backswamp is a viewpoint in the Banff-Grizzly area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.696277,
+                        51.168725
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain Cosmic Ray Station",
+                  "text": "Sulphur Mountain Cosmic Ray Station is a former cosmic ray research station atop Sulphur Mountain, now a historic site.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.578558,
+                        51.147073
+                  ]
+            },
+            {
+                  "name": "Sanson Peak",
+                  "text": "Sanson Peak is a peak near Banff.",
+                  "category": "natural",
+                  "coords": [
+                        -115.583181,
+                        51.151771
+                  ]
+            },
+            {
+                  "name": "Sulphur Mountain",
+                  "text": "Sulphur Mountain is a mountain in Banff National Park with a gondola and hot springs.",
+                  "category": "natural",
+                  "coords": [
+                        -115.555028,
+                        51.123623
+                  ]
+            },
+            {
+                  "name": "Mount Norquay Green Spot",
+                  "text": "Mount Norquay Green Spot is a viewpoint on Mount Norquay.",
+                  "category": "natural",
+                  "coords": [
+                        -115.58705,
+                        51.196239
+                  ]
+            },
+            {
+                  "name": "Banff Upper Hot Springs",
+                  "text": "Banff Upper Hot Springs is a natural hot spring pool in Banff.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.560613,
+                        51.150865
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "CA",
     coords: [-115.6, 51.2],
@@ -859,7 +8590,160 @@ export const canadaCities: POI[] = [
     facts: { de: ["Größte Waldbison-Herde", "Größter Park Kanadas", "UNESCO Weltnaturerbe", "Abgelegene Wildnis"], hu: ["A legnagyobb erdei bölénycsorda", "Kanada legnagyobb parkja", "UNESCO Világörökség", "Távoli vadon"], ro: ["Cea mai mare cireadă de bizoni", "Cel mai mare parc din Canada", "Patrimoniu Mondial UNESCO", "Sălbăticie izolată"], en: ["Largest wood bison herd", "Canada's largest national park", "UNESCO World Heritage Site", "Remote and vast wilderness"] , es: ["Mayor manada de bisontes", "Parque más grande de Canadá", "Patrimonio de la UNESCO", "Naturaleza remota"], pt: ["Maior manada de bisontes", "Maior parque do Canadá", "Património da UNESCO", "Sertão remoto"], fr: ["Plus grand troupeau de bisons", "Plus grand parc du Canada", "Patrimoine de l'UNESCO", "Désert sauvage éloigné"]},
     area: 44807, historyYear: 1922, image: "/poi-images/ca-wood-buffalo-bison.webp"},
   {
-    id: "ca-quebec-maple",
+    id: "ca-quebec-maple", "sights": {
+      "de": [
+            {
+                  "name": "Parc de l'OTJ",
+                  "text": "Parc de l'OTJ ist ein Park in ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.598119,
+                        46.512572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Flavien",
+                  "text": "Église Saint-Flavien ist eine Kirche in ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.594213,
+                        46.513048
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agapit",
+                  "text": "Église Saint-Agapit ist eine Kirche in ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.437289,
+                        46.561117
+                  ]
+            },
+            {
+                  "name": "Terrain des loisirs",
+                  "text": "Terrain des loisirs ist ein Freizeitpark in ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.440021,
+                        46.56443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parc de l'OTJ",
+                  "text": "Parc de l'OTJ egy park ca-quebec-maple-ben.",
+                  "category": "park",
+                  "coords": [
+                        -71.598119,
+                        46.512572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Flavien",
+                  "text": "Église Saint-Flavien egy templom ca-quebec-maple-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -71.594213,
+                        46.513048
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agapit",
+                  "text": "Église Saint-Agapit egy templom ca-quebec-maple-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -71.437289,
+                        46.561117
+                  ]
+            },
+            {
+                  "name": "Terrain des loisirs",
+                  "text": "Terrain des loisirs egy szabadidőpark ca-quebec-maple-ben.",
+                  "category": "park",
+                  "coords": [
+                        -71.440021,
+                        46.56443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parc de l'OTJ",
+                  "text": "Parc de l'OTJ este un parc în ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.598119,
+                        46.512572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Flavien",
+                  "text": "Église Saint-Flavien este o biserică în ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.594213,
+                        46.513048
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agapit",
+                  "text": "Église Saint-Agapit este o biserică în ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.437289,
+                        46.561117
+                  ]
+            },
+            {
+                  "name": "Terrain des loisirs",
+                  "text": "Terrain des loisirs este un parc de agrement în ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.440021,
+                        46.56443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parc de l'OTJ",
+                  "text": "Parc de l'OTJ is a park in ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.598119,
+                        46.512572
+                  ]
+            },
+            {
+                  "name": "Église Saint-Flavien",
+                  "text": "Église Saint-Flavien is a church in ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.594213,
+                        46.513048
+                  ]
+            },
+            {
+                  "name": "Église Saint-Agapit",
+                  "text": "Église Saint-Agapit is a church in ca-quebec-maple.",
+                  "category": "religious",
+                  "coords": [
+                        -71.437289,
+                        46.561117
+                  ]
+            },
+            {
+                  "name": "Terrain des loisirs",
+                  "text": "Terrain des loisirs is a recreation park in ca-quebec-maple.",
+                  "category": "park",
+                  "coords": [
+                        -71.440021,
+                        46.56443
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CA",
     coords: [-71.5, 46.5],
@@ -914,7 +8798,1240 @@ export const canadaCities: POI[] = [
     image: "/poi-images/ca-saskatchewan-wheat.webp",
   },
   {
-    id: "ca-okanagan-wine",
+    id: "ca-okanagan-wine", "sights": {
+      "de": [
+            {
+                  "name": "Carrot Mountain Viewpoint",
+                  "text": "Der Carrot Mountain Viewpoint ist ein Aussichtspunkt auf dem Carrot Mountain mit Blick auf die Okanagan-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.620276,
+                        49.883612
+                  ]
+            },
+            {
+                  "name": "Splash BC Water Parks",
+                  "text": "Splash BC Water Parks ist ein Wasserpark in der Okanagan-Weinregion mit Wasserrutschen und Becken.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.499641,
+                        49.88533
+                  ]
+            },
+            {
+                  "name": "Kelowna Wine Tours",
+                  "text": "Kelowna Wine Tours ist ein Tourenservice in der Okanagan-Weinregion mit Weintouren.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.483884,
+                        49.867098
+                  ]
+            },
+            {
+                  "name": "Poplar point beach",
+                  "text": "Poplar point beach ist ein Strand in der Okanagan-Weinregion am See.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.492595,
+                        49.913937
+                  ]
+            },
+            {
+                  "name": "FINA Gallery",
+                  "text": "Die FINA Gallery ist eine Kunstgalerie in der Okanagan-Weinregion.",
+                  "category": "museum",
+                  "coords": [
+                        -119.398321,
+                        49.939351
+                  ]
+            },
+            {
+                  "name": "Arts Atrium",
+                  "text": "Das Arts Atrium ist ein Kunstraum in der Okanagan-Weinregion mit Galerien.",
+                  "category": "museum",
+                  "coords": [
+                        -119.397375,
+                        49.93913
+                  ]
+            },
+            {
+                  "name": "Engineering \"E\"",
+                  "text": "Das Engineering 'E' ist ein Denkmal in der Okanagan-Weinregion.",
+                  "category": "historical",
+                  "coords": [
+                        -119.395203,
+                        49.939028
+                  ]
+            },
+            {
+                  "name": "SUO Theatre",
+                  "text": "Das SUO Theatre ist ein Theater in der Okanagan-Weinregion.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.396694,
+                        49.941264
+                  ]
+            },
+            {
+                  "name": "Pine Trail Lookout",
+                  "text": "Der Pine Trail Lookout ist ein Aussichtspunkt entlang eines Kiefernwegs in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.398753,
+                        49.94722
+                  ]
+            },
+            {
+                  "name": "McCulloch Lookout",
+                  "text": "Der McCulloch Lookout ist ein Aussichtspunkt in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.418688,
+                        49.854738
+                  ]
+            },
+            {
+                  "name": "Okanagan Lavender Farm",
+                  "text": "Die Okanagan Lavender Farm ist ein Lavendelbauernhof in der Okanagan-Weinregion mit Führungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.448378,
+                        49.823365
+                  ]
+            },
+            {
+                  "name": "Okanagan Mission (Pandosy's Farm)",
+                  "text": "Die Okanagan Mission (Pandosy's Farm) ist ein historisches Missions- und Bauernmuseum in der Okanagan-Weinregion.",
+                  "category": "museum",
+                  "coords": [
+                        -119.467755,
+                        49.850029
+                  ]
+            },
+            {
+                  "name": "Observation Platform",
+                  "text": "Die Observation Platform ist eine Aussichtsplattform in der Okanagan-Weinregion mit Ausblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.462642,
+                        49.847673
+                  ]
+            },
+            {
+                  "name": "Mount Boucherie",
+                  "text": "Mount Boucherie ist ein erloschener Vulkan im Okanagan-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        -119.572946,
+                        49.855113
+                  ]
+            },
+            {
+                  "name": "Scandia Golf & Games",
+                  "text": "Scandia Golf & Games ist ein Themenpark in der Okanagan-Weinregion mit Minigolf und Spielen.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.405918,
+                        49.905697
+                  ]
+            },
+            {
+                  "name": "Bear Creek Provincial Park",
+                  "text": "Der Bear Creek Provincial Park bietet einen Wasserfall und Wanderwege.",
+                  "category": "natural",
+                  "coords": [
+                        -119.519788,
+                        49.929515
+                  ]
+            },
+            {
+                  "name": "Rose Valley Regional Park",
+                  "text": "Der Rose Valley Regional Park ist ein Regionalpark in der Okanagan-Weinregion mit Naturpfaden.",
+                  "category": "natural",
+                  "coords": [
+                        -119.559428,
+                        49.895153
+                  ]
+            },
+            {
+                  "name": "William R. Bennett Bridge",
+                  "text": "Die William R. Bennett Bridge ist eine schwimmende Brücke über den Okanagan Lake, die Kelowna und West Kelowna verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.511579,
+                        49.879464
+                  ]
+            },
+            {
+                  "name": "Ukrainian Orthodox Parish of Sts Peter & Paul",
+                  "text": "Die Ukrainian Orthodox Parish of Sts Peter & Paul ist eine ukrainisch-orthodoxe Kirche in der Okanagan-Weinregion.",
+                  "category": "religious",
+                  "coords": [
+                        -119.447686,
+                        49.878005
+                  ]
+            },
+            {
+                  "name": "Kelowna Art Gallery",
+                  "text": "Die Kelowna Art Gallery ist eine Kunstgalerie in Kelowna mit zeitgenössischen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -119.496154,
+                        49.891251
+                  ]
+            },
+            {
+                  "name": "Tugboat Bay Beach",
+                  "text": "Tugboat Bay Beach ist ein Strand in der Okanagan-Weinregion am See.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.499549,
+                        49.894347
+                  ]
+            },
+            {
+                  "name": "Island Stage",
+                  "text": "Die Island Stage ist eine Open-Air-Theaterbühne in der Okanagan-Weinregion.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.500043,
+                        49.892371
+                  ]
+            },
+            {
+                  "name": "Rotary Centre for the Arts",
+                  "text": "Das Rotary Centre for the Arts ist ein Kunstzentrum in der Okanagan-Weinregion mit kulturellen Programmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.494951,
+                        49.891345
+                  ]
+            },
+            {
+                  "name": "Kelowna Community Theatre",
+                  "text": "Das Kelowna Community Theatre ist eine Spielstätte für darstellende Künste in Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.496194,
+                        49.889423
+                  ]
+            },
+            {
+                  "name": "Kelowna Actors Studio",
+                  "text": "Das Kelowna Actors Studio ist ein Theaterstudio in Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.493051,
+                        49.88975
+                  ]
+            },
+            {
+                  "name": "Okanagan Heritage Museum",
+                  "text": "Das Okanagan Heritage Museum ist ein Museum in Kelowna, das das Erbe der Okanagan-Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -119.49441,
+                        49.887679
+                  ]
+            },
+            {
+                  "name": "Upper Canyon Open Space",
+                  "text": "Ein Naturschutzgebiet mit malerischen Canyon-Blicken in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.465077,
+                        49.924742
+                  ]
+            },
+            {
+                  "name": "Robert's Lake Regional Park",
+                  "text": "Ein regionaler Park an einem See in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.412526,
+                        49.935537
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ein Amphitheater für Aufführungen in der Okanagan-Weinregion.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.393538,
+                        49.939063
+                  ]
+            },
+            {
+                  "name": "Stephens Coyote Ridge Regional Park",
+                  "text": "Ein regionaler Park auf einem Bergrücken in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.436474,
+                        49.960374
+                  ]
+            },
+            {
+                  "name": "Thomson Creek",
+                  "text": "Ein Naturschutzgebiet entlang eines Baches in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.484946,
+                        49.833733
+                  ]
+            },
+            {
+                  "name": "Wilson Creek Linear Park",
+                  "text": "Ein linearer Park entlang eines Baches in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.480326,
+                        49.846959
+                  ]
+            },
+            {
+                  "name": "Bowen Creek Corridor",
+                  "text": "Ein Naturkorridor entlang eines Baches in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.557727,
+                        49.847719
+                  ]
+            },
+            {
+                  "name": "McDougall Creek",
+                  "text": "Ein Naturschutzgebiet entlang eines Baches in der Okanagan-Weinregion.",
+                  "category": "natural",
+                  "coords": [
+                        -119.590417,
+                        49.861226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrot Mountain Viewpoint",
+                  "text": "A Carrot Mountain Viewpoint egy kilátópont a Carrot Mountain-en, az Okanagan régióra nyíló kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -119.620276,
+                        49.883612
+                  ]
+            },
+            {
+                  "name": "Splash BC Water Parks",
+                  "text": "A Splash BC Water Parks egy vízipark az Okanagan borvidéken, csúszdákkal és medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.499641,
+                        49.88533
+                  ]
+            },
+            {
+                  "name": "Kelowna Wine Tours",
+                  "text": "A Kelowna Wine Tours egy túraszolgáltatás az Okanagan borvidéken, bortúrákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.483884,
+                        49.867098
+                  ]
+            },
+            {
+                  "name": "Poplar point beach",
+                  "text": "A Poplar point beach egy strand az Okanagan borvidéken, a tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.492595,
+                        49.913937
+                  ]
+            },
+            {
+                  "name": "FINA Gallery",
+                  "text": "A FINA Gallery egy művészeti galéria az Okanagan borvidéken.",
+                  "category": "museum",
+                  "coords": [
+                        -119.398321,
+                        49.939351
+                  ]
+            },
+            {
+                  "name": "Arts Atrium",
+                  "text": "Az Arts Atrium egy művészeti tér az Okanagan borvidéken, galériákkal.",
+                  "category": "museum",
+                  "coords": [
+                        -119.397375,
+                        49.93913
+                  ]
+            },
+            {
+                  "name": "Engineering \"E\"",
+                  "text": "Az Engineering 'E' egy emlékmű az Okanagan borvidéken.",
+                  "category": "historical",
+                  "coords": [
+                        -119.395203,
+                        49.939028
+                  ]
+            },
+            {
+                  "name": "SUO Theatre",
+                  "text": "A SUO Theatre egy színház az Okanagan borvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.396694,
+                        49.941264
+                  ]
+            },
+            {
+                  "name": "Pine Trail Lookout",
+                  "text": "A Pine Trail Lookout egy kilátópont egy fenyőösvény mentén az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.398753,
+                        49.94722
+                  ]
+            },
+            {
+                  "name": "McCulloch Lookout",
+                  "text": "A McCulloch Lookout egy kilátópont az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.418688,
+                        49.854738
+                  ]
+            },
+            {
+                  "name": "Okanagan Lavender Farm",
+                  "text": "Az Okanagan Lavender Farm egy levendulafarm az Okanagan borvidéken, vezetett túrákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.448378,
+                        49.823365
+                  ]
+            },
+            {
+                  "name": "Okanagan Mission (Pandosy's Farm)",
+                  "text": "Az Okanagan Mission (Pandosy's Farm) egy történelmi missziós és gazdasági múzeum az Okanagan borvidéken.",
+                  "category": "museum",
+                  "coords": [
+                        -119.467755,
+                        49.850029
+                  ]
+            },
+            {
+                  "name": "Observation Platform",
+                  "text": "Az Observation Platform egy kilátóplatform az Okanagan borvidéken, panorámával.",
+                  "category": "natural",
+                  "coords": [
+                        -119.462642,
+                        49.847673
+                  ]
+            },
+            {
+                  "name": "Mount Boucherie",
+                  "text": "A Mount Boucherie egy kialudt vulkán az Okanagan-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.572946,
+                        49.855113
+                  ]
+            },
+            {
+                  "name": "Scandia Golf & Games",
+                  "text": "A Scandia Golf & Games egy tematikus park az Okanagan borvidéken, minigolffal és játékokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.405918,
+                        49.905697
+                  ]
+            },
+            {
+                  "name": "Bear Creek Provincial Park",
+                  "text": "A Bear Creek Provincial Park egy vízeséssel és túraútvonalakkal rendelkezik.",
+                  "category": "natural",
+                  "coords": [
+                        -119.519788,
+                        49.929515
+                  ]
+            },
+            {
+                  "name": "Rose Valley Regional Park",
+                  "text": "A Rose Valley Regional Park egy regionális park az Okanagan borvidéken, természetes ösvényekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -119.559428,
+                        49.895153
+                  ]
+            },
+            {
+                  "name": "William R. Bennett Bridge",
+                  "text": "A William R. Bennett Bridge egy úszó híd az Okanagan-tavon, összekötve Kelowna-t és West Kelowna-t.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.511579,
+                        49.879464
+                  ]
+            },
+            {
+                  "name": "Ukrainian Orthodox Parish of Sts Peter & Paul",
+                  "text": "A Ukrainian Orthodox Parish of Sts Peter & Paul egy ukrán ortodox templom az Okanagan borvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        -119.447686,
+                        49.878005
+                  ]
+            },
+            {
+                  "name": "Kelowna Art Gallery",
+                  "text": "A Kelowna Art Gallery egy művészeti galéria Kelowna-ban, kortárs kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -119.496154,
+                        49.891251
+                  ]
+            },
+            {
+                  "name": "Tugboat Bay Beach",
+                  "text": "A Tugboat Bay Beach egy strand az Okanagan borvidéken, a tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.499549,
+                        49.894347
+                  ]
+            },
+            {
+                  "name": "Island Stage",
+                  "text": "Az Island Stage egy szabadtéri színpad az Okanagan borvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.500043,
+                        49.892371
+                  ]
+            },
+            {
+                  "name": "Rotary Centre for the Arts",
+                  "text": "A Rotary Centre for the Arts egy művészeti központ az Okanagan borvidéken, kulturális programokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.494951,
+                        49.891345
+                  ]
+            },
+            {
+                  "name": "Kelowna Community Theatre",
+                  "text": "A Kelowna Community Theatre egy előadóművészeti helyszín Kelowna-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.496194,
+                        49.889423
+                  ]
+            },
+            {
+                  "name": "Kelowna Actors Studio",
+                  "text": "A Kelowna Actors Studio egy színházi stúdió Kelowna-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.493051,
+                        49.88975
+                  ]
+            },
+            {
+                  "name": "Okanagan Heritage Museum",
+                  "text": "Az Okanagan Heritage Museum egy múzeum Kelowna-ban, amely az Okanagan régió örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -119.49441,
+                        49.887679
+                  ]
+            },
+            {
+                  "name": "Upper Canyon Open Space",
+                  "text": "Egy védett természeti terület festői kanyonkilátással az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.465077,
+                        49.924742
+                  ]
+            },
+            {
+                  "name": "Robert's Lake Regional Park",
+                  "text": "Egy regionális park egy tó mellett az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.412526,
+                        49.935537
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Egy amfiteátrum előadások számára az Okanagan borvidéken.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.393538,
+                        49.939063
+                  ]
+            },
+            {
+                  "name": "Stephens Coyote Ridge Regional Park",
+                  "text": "Egy regionális park egy hegygerincen az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.436474,
+                        49.960374
+                  ]
+            },
+            {
+                  "name": "Thomson Creek",
+                  "text": "Egy védett természeti terület egy patak mentén az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.484946,
+                        49.833733
+                  ]
+            },
+            {
+                  "name": "Wilson Creek Linear Park",
+                  "text": "Egy lineáris park egy patak mentén az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.480326,
+                        49.846959
+                  ]
+            },
+            {
+                  "name": "Bowen Creek Corridor",
+                  "text": "Egy természeti folyosó egy patak mentén az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.557727,
+                        49.847719
+                  ]
+            },
+            {
+                  "name": "McDougall Creek",
+                  "text": "Egy védett természeti terület egy patak mentén az Okanagan borvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        -119.590417,
+                        49.861226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrot Mountain Viewpoint",
+                  "text": "Carrot Mountain Viewpoint este un punct de belvedere pe Muntele Carrot, cu vedere spre regiunea Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.620276,
+                        49.883612
+                  ]
+            },
+            {
+                  "name": "Splash BC Water Parks",
+                  "text": "Splash BC Water Parks este un parc acvatic în regiunea viticolă Okanagan, cu tobogane și piscine.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.499641,
+                        49.88533
+                  ]
+            },
+            {
+                  "name": "Kelowna Wine Tours",
+                  "text": "Kelowna Wine Tours este un serviciu de tururi în regiunea viticolă Okanagan, cu tururi vinicole.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.483884,
+                        49.867098
+                  ]
+            },
+            {
+                  "name": "Poplar point beach",
+                  "text": "Poplar point beach este o plajă în regiunea viticolă Okanagan, pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.492595,
+                        49.913937
+                  ]
+            },
+            {
+                  "name": "FINA Gallery",
+                  "text": "FINA Gallery este o galerie de artă în regiunea viticolă Okanagan.",
+                  "category": "museum",
+                  "coords": [
+                        -119.398321,
+                        49.939351
+                  ]
+            },
+            {
+                  "name": "Arts Atrium",
+                  "text": "Arts Atrium este un spațiu artistic în regiunea viticolă Okanagan, cu galerii.",
+                  "category": "museum",
+                  "coords": [
+                        -119.397375,
+                        49.93913
+                  ]
+            },
+            {
+                  "name": "Engineering \"E\"",
+                  "text": "Engineering 'E' este un monument în regiunea viticolă Okanagan.",
+                  "category": "historical",
+                  "coords": [
+                        -119.395203,
+                        49.939028
+                  ]
+            },
+            {
+                  "name": "SUO Theatre",
+                  "text": "SUO Theatre este un teatru în regiunea viticolă Okanagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.396694,
+                        49.941264
+                  ]
+            },
+            {
+                  "name": "Pine Trail Lookout",
+                  "text": "Pine Trail Lookout este un punct de belvedere de-a lungul unui traseu de pini în regiunea viticolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.398753,
+                        49.94722
+                  ]
+            },
+            {
+                  "name": "McCulloch Lookout",
+                  "text": "McCulloch Lookout este un punct de belvedere în regiunea viticolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.418688,
+                        49.854738
+                  ]
+            },
+            {
+                  "name": "Okanagan Lavender Farm",
+                  "text": "Okanagan Lavender Farm este o fermă de lavandă în regiunea viticolă Okanagan, cu tururi ghidate.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.448378,
+                        49.823365
+                  ]
+            },
+            {
+                  "name": "Okanagan Mission (Pandosy's Farm)",
+                  "text": "Okanagan Mission (Pandosy's Farm) este un muzeu istoric de misiune și fermă în regiunea viticolă Okanagan.",
+                  "category": "museum",
+                  "coords": [
+                        -119.467755,
+                        49.850029
+                  ]
+            },
+            {
+                  "name": "Observation Platform",
+                  "text": "Observation Platform este o platformă de observație în regiunea viticolă Okanagan, cu vedere.",
+                  "category": "natural",
+                  "coords": [
+                        -119.462642,
+                        49.847673
+                  ]
+            },
+            {
+                  "name": "Mount Boucherie",
+                  "text": "Muntele Boucherie este un vulcan stins în Valea Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.572946,
+                        49.855113
+                  ]
+            },
+            {
+                  "name": "Scandia Golf & Games",
+                  "text": "Scandia Golf & Games este un parc tematic în regiunea viticolă Okanagan, cu mini-golf și jocuri.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.405918,
+                        49.905697
+                  ]
+            },
+            {
+                  "name": "Bear Creek Provincial Park",
+                  "text": "Parcul Provincial Bear Creek are o cascadă și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -119.519788,
+                        49.929515
+                  ]
+            },
+            {
+                  "name": "Rose Valley Regional Park",
+                  "text": "Rose Valley Regional Park este un parc regional în regiunea viticolă Okanagan, cu trasee naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -119.559428,
+                        49.895153
+                  ]
+            },
+            {
+                  "name": "William R. Bennett Bridge",
+                  "text": "Podul William R. Bennett este un pod plutitor peste Lacul Okanagan, legând Kelowna de West Kelowna.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.511579,
+                        49.879464
+                  ]
+            },
+            {
+                  "name": "Ukrainian Orthodox Parish of Sts Peter & Paul",
+                  "text": "Ukrainian Orthodox Parish of Sts Peter & Paul este o biserică ortodoxă ucraineană în regiunea viticolă Okanagan.",
+                  "category": "religious",
+                  "coords": [
+                        -119.447686,
+                        49.878005
+                  ]
+            },
+            {
+                  "name": "Kelowna Art Gallery",
+                  "text": "Kelowna Art Gallery este o galerie de artă în Kelowna, cu expoziții contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -119.496154,
+                        49.891251
+                  ]
+            },
+            {
+                  "name": "Tugboat Bay Beach",
+                  "text": "Tugboat Bay Beach este o plajă în regiunea viticolă Okanagan, pe malul lacului.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.499549,
+                        49.894347
+                  ]
+            },
+            {
+                  "name": "Island Stage",
+                  "text": "Island Stage este o scenă de teatru în aer liber în regiunea viticolă Okanagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.500043,
+                        49.892371
+                  ]
+            },
+            {
+                  "name": "Rotary Centre for the Arts",
+                  "text": "Rotary Centre for the Arts este un centru de artă în regiunea viticolă Okanagan, cu programe culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.494951,
+                        49.891345
+                  ]
+            },
+            {
+                  "name": "Kelowna Community Theatre",
+                  "text": "Kelowna Community Theatre este un loc de spectacole în Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.496194,
+                        49.889423
+                  ]
+            },
+            {
+                  "name": "Kelowna Actors Studio",
+                  "text": "Kelowna Actors Studio este un studio de teatru în Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.493051,
+                        49.88975
+                  ]
+            },
+            {
+                  "name": "Okanagan Heritage Museum",
+                  "text": "Okanagan Heritage Museum este un muzeu în Kelowna care prezintă patrimoniul regiunii Okanagan.",
+                  "category": "museum",
+                  "coords": [
+                        -119.49441,
+                        49.887679
+                  ]
+            },
+            {
+                  "name": "Upper Canyon Open Space",
+                  "text": "O rezervație naturală cu priveliști pitorești ale canionului în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.465077,
+                        49.924742
+                  ]
+            },
+            {
+                  "name": "Robert's Lake Regional Park",
+                  "text": "Un parc regional lângă un lac în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.412526,
+                        49.935537
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un amfiteatru pentru spectacole în Regiunea Vinicolă Okanagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.393538,
+                        49.939063
+                  ]
+            },
+            {
+                  "name": "Stephens Coyote Ridge Regional Park",
+                  "text": "Un parc regional pe o creastă în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.436474,
+                        49.960374
+                  ]
+            },
+            {
+                  "name": "Thomson Creek",
+                  "text": "O rezervație naturală de-a lungul unui pârâu în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.484946,
+                        49.833733
+                  ]
+            },
+            {
+                  "name": "Wilson Creek Linear Park",
+                  "text": "Un parc liniar de-a lungul unui pârâu în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.480326,
+                        49.846959
+                  ]
+            },
+            {
+                  "name": "Bowen Creek Corridor",
+                  "text": "Un coridor natural de-a lungul unui pârâu în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.557727,
+                        49.847719
+                  ]
+            },
+            {
+                  "name": "McDougall Creek",
+                  "text": "O rezervație naturală de-a lungul unui pârâu în Regiunea Vinicolă Okanagan.",
+                  "category": "natural",
+                  "coords": [
+                        -119.590417,
+                        49.861226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrot Mountain Viewpoint",
+                  "text": "Carrot Mountain Viewpoint is a viewpoint on Carrot Mountain offering views of the Okanagan region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.620276,
+                        49.883612
+                  ]
+            },
+            {
+                  "name": "Splash BC Water Parks",
+                  "text": "Splash BC Water Parks is a water park in the Okanagan wine region offering water slides and pools.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.499641,
+                        49.88533
+                  ]
+            },
+            {
+                  "name": "Kelowna Wine Tours",
+                  "text": "Kelowna Wine Tours is a tour service in the Okanagan wine region offering wine tours.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.483884,
+                        49.867098
+                  ]
+            },
+            {
+                  "name": "Poplar point beach",
+                  "text": "Poplar point beach is a beach in the Okanagan wine region along the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.492595,
+                        49.913937
+                  ]
+            },
+            {
+                  "name": "FINA Gallery",
+                  "text": "FINA Gallery is an art gallery in the Okanagan wine region.",
+                  "category": "museum",
+                  "coords": [
+                        -119.398321,
+                        49.939351
+                  ]
+            },
+            {
+                  "name": "Arts Atrium",
+                  "text": "Arts Atrium is an arts space in the Okanagan wine region featuring galleries.",
+                  "category": "museum",
+                  "coords": [
+                        -119.397375,
+                        49.93913
+                  ]
+            },
+            {
+                  "name": "Engineering \"E\"",
+                  "text": "Engineering \"E\" is a monument in the Okanagan wine region.",
+                  "category": "historical",
+                  "coords": [
+                        -119.395203,
+                        49.939028
+                  ]
+            },
+            {
+                  "name": "SUO Theatre",
+                  "text": "SUO Theatre is a theatre in the Okanagan wine region.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.396694,
+                        49.941264
+                  ]
+            },
+            {
+                  "name": "Pine Trail Lookout",
+                  "text": "Pine Trail Lookout is a lookout point along a pine trail in the Okanagan wine region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.398753,
+                        49.94722
+                  ]
+            },
+            {
+                  "name": "McCulloch Lookout",
+                  "text": "McCulloch Lookout is a lookout point in the Okanagan wine region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.418688,
+                        49.854738
+                  ]
+            },
+            {
+                  "name": "Okanagan Lavender Farm",
+                  "text": "Okanagan Lavender Farm is a lavender farm in the Okanagan wine region offering tours.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.448378,
+                        49.823365
+                  ]
+            },
+            {
+                  "name": "Okanagan Mission (Pandosy's Farm)",
+                  "text": "Okanagan Mission (Pandosy's Farm) is a historic mission and farm museum in the Okanagan wine region.",
+                  "category": "museum",
+                  "coords": [
+                        -119.467755,
+                        49.850029
+                  ]
+            },
+            {
+                  "name": "Observation Platform",
+                  "text": "Observation Platform is an observation platform in the Okanagan wine region providing views.",
+                  "category": "natural",
+                  "coords": [
+                        -119.462642,
+                        49.847673
+                  ]
+            },
+            {
+                  "name": "Mount Boucherie",
+                  "text": "Mount Boucherie is a dormant volcano in the Okanagan Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -119.572946,
+                        49.855113
+                  ]
+            },
+            {
+                  "name": "Scandia Golf & Games",
+                  "text": "Scandia Golf & Games is a theme park in the Okanagan wine region with mini golf and games.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.405918,
+                        49.905697
+                  ]
+            },
+            {
+                  "name": "Bear Creek Provincial Park",
+                  "text": "Bear Creek Provincial Park features a waterfall and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -119.519788,
+                        49.929515
+                  ]
+            },
+            {
+                  "name": "Rose Valley Regional Park",
+                  "text": "Rose Valley Regional Park is a regional park in the Okanagan wine region with nature trails.",
+                  "category": "natural",
+                  "coords": [
+                        -119.559428,
+                        49.895153
+                  ]
+            },
+            {
+                  "name": "William R. Bennett Bridge",
+                  "text": "William R. Bennett Bridge is a floating bridge across Okanagan Lake connecting Kelowna and West Kelowna.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.511579,
+                        49.879464
+                  ]
+            },
+            {
+                  "name": "Ukrainian Orthodox Parish of Sts Peter & Paul",
+                  "text": "Ukrainian Orthodox Parish of Sts Peter & Paul is a Ukrainian Orthodox church in the Okanagan wine region.",
+                  "category": "religious",
+                  "coords": [
+                        -119.447686,
+                        49.878005
+                  ]
+            },
+            {
+                  "name": "Kelowna Art Gallery",
+                  "text": "Kelowna Art Gallery is an art gallery in Kelowna featuring contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -119.496154,
+                        49.891251
+                  ]
+            },
+            {
+                  "name": "Tugboat Bay Beach",
+                  "text": "Tugboat Bay Beach is a beach in the Okanagan wine region on the lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -119.499549,
+                        49.894347
+                  ]
+            },
+            {
+                  "name": "Island Stage",
+                  "text": "Island Stage is an outdoor theatre stage in the Okanagan wine region.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.500043,
+                        49.892371
+                  ]
+            },
+            {
+                  "name": "Rotary Centre for the Arts",
+                  "text": "Rotary Centre for the Arts is an arts centre in the Okanagan wine region offering cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.494951,
+                        49.891345
+                  ]
+            },
+            {
+                  "name": "Kelowna Community Theatre",
+                  "text": "Kelowna Community Theatre is a performing arts venue in Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.496194,
+                        49.889423
+                  ]
+            },
+            {
+                  "name": "Kelowna Actors Studio",
+                  "text": "Kelowna Actors Studio is a theatre studio in Kelowna.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.493051,
+                        49.88975
+                  ]
+            },
+            {
+                  "name": "Okanagan Heritage Museum",
+                  "text": "Okanagan Heritage Museum is a museum in Kelowna showcasing the heritage of the Okanagan region.",
+                  "category": "museum",
+                  "coords": [
+                        -119.49441,
+                        49.887679
+                  ]
+            },
+            {
+                  "name": "Upper Canyon Open Space",
+                  "text": "A nature reserve with scenic canyon views in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.465077,
+                        49.924742
+                  ]
+            },
+            {
+                  "name": "Robert's Lake Regional Park",
+                  "text": "A regional park by a lake in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.412526,
+                        49.935537
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "An amphitheatre for performances in the Okanagan Wine Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -119.393538,
+                        49.939063
+                  ]
+            },
+            {
+                  "name": "Stephens Coyote Ridge Regional Park",
+                  "text": "A regional park on a ridge in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.436474,
+                        49.960374
+                  ]
+            },
+            {
+                  "name": "Thomson Creek",
+                  "text": "A nature reserve along a creek in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.484946,
+                        49.833733
+                  ]
+            },
+            {
+                  "name": "Wilson Creek Linear Park",
+                  "text": "A linear park along a creek in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.480326,
+                        49.846959
+                  ]
+            },
+            {
+                  "name": "Bowen Creek Corridor",
+                  "text": "A nature corridor along a creek in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.557727,
+                        49.847719
+                  ]
+            },
+            {
+                  "name": "McDougall Creek",
+                  "text": "A nature reserve along a creek in the Okanagan Wine Region.",
+                  "category": "natural",
+                  "coords": [
+                        -119.590417,
+                        49.861226
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "CA",
     coords: [-119.5, 49.9],
@@ -940,7 +10057,1060 @@ export const canadaCities: POI[] = [
     },
     facts: { de: ["Zweitgrößte Weinregion", "Kanadas Obstgarten", "Trockenes Mikroklima", "Wunderschöne Seelage"], hu: ["Második legnagyobb borvidék", "Kanada gyümölcsöskertje", "Száraz mikroklíma", "Gyönyörű tóparti fekvés"], ro: ["A doua regiune viticolă", "Livada Canadei", "Microclimat arid", "Cadru pitoresc lângă lac"], en: ["Second largest wine region", "Canada's fruit orchard hub", "Unique semi-arid microclimate", "Scenic lakeside setting"] , es: ["Segunda región vinícola más grande", "El huerto de Canadá", "Microclima seco", "Hermosa ubicación junto al lago"], pt: ["Segunda maior região vinícola", "O pomar do Canadá", "Microclima seco", "Bela localização à beira do lago"], fr: ["Deuxième région viticole en importance", "Le verger du Canada", "Microclimat sec", "Emplacement magnifique au bord du lac"]}, image: "/poi-images/ca-okanagan-wine.webp"},
   {
-    id: "ca-canadas-wonderland",
+    id: "ca-canadas-wonderland", "sights": {
+      "de": [
+            {
+                  "name": "Gibson House",
+                  "text": "Gibson House ist ein historisches Bauernhausmuseum aus dem 19. Jahrhundert in der Nähe von Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.414752,
+                        43.769671
+                  ]
+            },
+            {
+                  "name": "The Village at Black Creek",
+                  "text": "The Village at Black Creek ist ein lebendiges Geschichtsmuseum in North York (Toronto) in der Nähe von Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.519155,
+                        43.775055
+                  ]
+            },
+            {
+                  "name": "North York Civic Centre",
+                  "text": "Das North York Civic Centre ist das Rathaus des ehemaligen Bezirks North York in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.414652,
+                        43.767262
+                  ]
+            },
+            {
+                  "name": "Kingswood Music Theatre",
+                  "text": "Das Kingswood Music Theatre war ein Freiluftamphitheater in Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.539248,
+                        43.839408
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Mosque",
+                  "text": "Die Baitul Islam Moschee ist eine Moschee in Maple (Ontario) in der Nähe von Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.543,
+                        43.864842
+                  ]
+            },
+            {
+                  "name": "Toronto and Region Islamic Congregation",
+                  "text": "Die Toronto and Region Islamic Congregation ist eine Moschee in Thornhill (Ontario) in der Nähe von Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.51598,
+                        43.717965
+                  ]
+            },
+            {
+                  "name": "Meridian Arts Centre",
+                  "text": "Das Meridian Arts Centre ist ein Zentrum für darstellende Künste in North York (Toronto) nahe Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.414436,
+                        43.766051
+                  ]
+            },
+            {
+                  "name": "Beth Avraham Yoseph of Toronto",
+                  "text": "Beth Avraham Yoseph of Toronto ist eine Synagoge in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.44408,
+                        43.803651
+                  ]
+            },
+            {
+                  "name": "Wonder Mountain's Guardians",
+                  "text": "Wonder Mountain's Guardian ist eine Dark Ride-Attraktion im Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542451,
+                        43.842058
+                  ]
+            },
+            {
+                  "name": "Legoland Discovery Centre",
+                  "text": "Das Legoland Discovery Centre ist eine überdachte Lego-Attraktion im Vaughan Mills nahe Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.535428,
+                        43.825167
+                  ]
+            },
+            {
+                  "name": "Leviathan",
+                  "text": "Leviathan ist eine Stahlachterbahn in Canada's Wonderland und war einst die höchste in Kanada.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542382,
+                        43.844511
+                  ]
+            },
+            {
+                  "name": "Shockwave",
+                  "text": "Shockwave ist eine Stand-up-Achterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54315,
+                        43.843147
+                  ]
+            },
+            {
+                  "name": "Behemoth",
+                  "text": "Behemoth ist ein Stahl-Hypercoaster in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540653,
+                        43.838983
+                  ]
+            },
+            {
+                  "name": "Vortex",
+                  "text": "Vortex ist eine Stahlachterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54347,
+                        43.841929
+                  ]
+            },
+            {
+                  "name": "Mighty Canadian Minebuster",
+                  "text": "Der Mighty Canadian Minebuster ist eine Holzachterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.541921,
+                        43.839265
+                  ]
+            },
+            {
+                  "name": "Psyclone",
+                  "text": "Psyclone ist eine Stahlachterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540392,
+                        43.84006
+                  ]
+            },
+            {
+                  "name": "DareDeviler",
+                  "text": "DareDeviler ist eine sich drehende Thrill-Fahrt in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.539045,
+                        43.84123
+                  ]
+            },
+            {
+                  "name": "Dragon Fyre",
+                  "text": "Dragon Fyre ist eine Stahlachterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540647,
+                        43.8445
+                  ]
+            },
+            {
+                  "name": "Heintzman House",
+                  "text": "Das Heintzman House ist ein historisches Haus in Vaughan in der Nähe von Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.416309,
+                        43.823831
+                  ]
+            },
+            {
+                  "name": "Kortright Centre for Conservation",
+                  "text": "Das Kortright Centre for Conservation ist ein Umweltbildungszentrum in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.595936,
+                        43.828184
+                  ]
+            },
+            {
+                  "name": "Downsview Park",
+                  "text": "Downsview Park ist ein großer Stadtpark in North York (Toronto) in der Nähe von Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.48077,
+                        43.741383
+                  ]
+            },
+            {
+                  "name": "Pine Point Park",
+                  "text": "Pine Point Park ist ein Park in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.544066,
+                        43.716163
+                  ]
+            },
+            {
+                  "name": "Earl Bales Park",
+                  "text": "Earl Bales Park ist ein Park in North York (Toronto) in der Nähe von Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.427681,
+                        43.751438
+                  ]
+            },
+            {
+                  "name": "Herbert H. Carnegie Centennial Centre",
+                  "text": "Das Herbert H. Carnegie Centennial Centre ist ein Gemeindezentrum und Park in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.450141,
+                        43.773569
+                  ]
+            },
+            {
+                  "name": "Splash Works",
+                  "text": "Splash Works ist ein Wasserpark innerhalb von Canada's Wonderland.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54412,
+                        43.838989
+                  ]
+            },
+            {
+                  "name": "Spirit Manor",
+                  "text": "Spirit Manor ist ein interaktiver Spukhaus-Gang in Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.546178,
+                        43.841821
+                  ]
+            },
+            {
+                  "name": "Ghoster Coaster",
+                  "text": "Ghoster Coaster ist eine Familienachterbahn in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545765,
+                        43.843418
+                  ]
+            },
+            {
+                  "name": "Boo Blasters on Boo Hill",
+                  "text": "Boo Blasters on Boo Hill ist eine Dark-Ride-Attraktion in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.544239,
+                        43.844485
+                  ]
+            },
+            {
+                  "name": "WindSeeker",
+                  "text": "WindSeeker ist eine Turmschaukel in Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542478,
+                        43.840634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gibson House",
+                  "text": "A Gibson House egy 19. századi tanyamúzeum a Canada's Wonderland közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.414752,
+                        43.769671
+                  ]
+            },
+            {
+                  "name": "The Village at Black Creek",
+                  "text": "A Village at Black Creek egy élő történeti múzeum North Yorkban (Toronto) a Canada's Wonderland közelében.",
+                  "category": "museum",
+                  "coords": [
+                        -79.519155,
+                        43.775055
+                  ]
+            },
+            {
+                  "name": "North York Civic Centre",
+                  "text": "A North York Civic Centre a korábbi North York kerület városháza Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.414652,
+                        43.767262
+                  ]
+            },
+            {
+                  "name": "Kingswood Music Theatre",
+                  "text": "A Kingswood Music Theatre egy szabadtéri amfiteátrum volt a Canada's Wonderlandben.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.539248,
+                        43.839408
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Mosque",
+                  "text": "A Baitul Islam Mecset egy mecset Maple-ben (Ontario) a Canada's Wonderland közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.543,
+                        43.864842
+                  ]
+            },
+            {
+                  "name": "Toronto and Region Islamic Congregation",
+                  "text": "A Toronto and Region Islamic Congregation egy mecset Thornhillben (Ontario) a Canada's Wonderland közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -79.51598,
+                        43.717965
+                  ]
+            },
+            {
+                  "name": "Meridian Arts Centre",
+                  "text": "A Meridian Arts Centre egy előadóművészeti központ North Yorkban (Toronto) a Canada's Wonderland közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.414436,
+                        43.766051
+                  ]
+            },
+            {
+                  "name": "Beth Avraham Yoseph of Toronto",
+                  "text": "Beth Avraham Yoseph of Toronto egy zsinagóga Torontóban.",
+                  "category": "religious",
+                  "coords": [
+                        -79.44408,
+                        43.803651
+                  ]
+            },
+            {
+                  "name": "Wonder Mountain's Guardians",
+                  "text": "A Wonder Mountain's Guardian egy sötét hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542451,
+                        43.842058
+                  ]
+            },
+            {
+                  "name": "Legoland Discovery Centre",
+                  "text": "A Legoland Discovery Centre egy fedett Lego-attrakció a Vaughan Mills-ben a Canada's Wonderland közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.535428,
+                        43.825167
+                  ]
+            },
+            {
+                  "name": "Leviathan",
+                  "text": "A Leviathan egy acél hullámvasút a Canada's Wonderlandben, amely egykor Kanada legmagasabb hullámvasútja volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542382,
+                        43.844511
+                  ]
+            },
+            {
+                  "name": "Shockwave",
+                  "text": "A Shockwave egy álló hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54315,
+                        43.843147
+                  ]
+            },
+            {
+                  "name": "Behemoth",
+                  "text": "A Behemoth egy acél hypercoaster a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540653,
+                        43.838983
+                  ]
+            },
+            {
+                  "name": "Vortex",
+                  "text": "A Vortex egy acél hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54347,
+                        43.841929
+                  ]
+            },
+            {
+                  "name": "Mighty Canadian Minebuster",
+                  "text": "A Mighty Canadian Minebuster egy fa hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.541921,
+                        43.839265
+                  ]
+            },
+            {
+                  "name": "Psyclone",
+                  "text": "A Psyclone egy acél hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540392,
+                        43.84006
+                  ]
+            },
+            {
+                  "name": "DareDeviler",
+                  "text": "A DareDeviler egy pörgő izgalmas attrakció a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.539045,
+                        43.84123
+                  ]
+            },
+            {
+                  "name": "Dragon Fyre",
+                  "text": "A Dragon Fyre egy acél hullámvasút a Canada's Wonderlandben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540647,
+                        43.8445
+                  ]
+            },
+            {
+                  "name": "Heintzman House",
+                  "text": "A Heintzman House egy történelmi ház Vaughanban a Canada's Wonderland közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.416309,
+                        43.823831
+                  ]
+            },
+            {
+                  "name": "Kortright Centre for Conservation",
+                  "text": "A Kortright Centre for Conservation egy környezeti oktatási központ Vaughanban.",
+                  "category": "park",
+                  "coords": [
+                        -79.595936,
+                        43.828184
+                  ]
+            },
+            {
+                  "name": "Downsview Park",
+                  "text": "A Downsview Park egy nagy városi park North Yorkban (Toronto) a Canada's Wonderland közelében.",
+                  "category": "park",
+                  "coords": [
+                        -79.48077,
+                        43.741383
+                  ]
+            },
+            {
+                  "name": "Pine Point Park",
+                  "text": "A Pine Point Park egy park Vaughanban.",
+                  "category": "park",
+                  "coords": [
+                        -79.544066,
+                        43.716163
+                  ]
+            },
+            {
+                  "name": "Earl Bales Park",
+                  "text": "Az Earl Bales Park egy park North Yorkban (Toronto) a Canada's Wonderland közelében.",
+                  "category": "park",
+                  "coords": [
+                        -79.427681,
+                        43.751438
+                  ]
+            },
+            {
+                  "name": "Herbert H. Carnegie Centennial Centre",
+                  "text": "A Herbert H. Carnegie Centennial Centre egy közösségi központ és park Vaughanban.",
+                  "category": "park",
+                  "coords": [
+                        -79.450141,
+                        43.773569
+                  ]
+            },
+            {
+                  "name": "Splash Works",
+                  "text": "A Splash Works egy vízipark a Canada's Wonderland területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54412,
+                        43.838989
+                  ]
+            },
+            {
+                  "name": "Spirit Manor",
+                  "text": "A Spirit Manor egy interaktív kísértetjárta házas attrakció a Canada's Wonderlandben.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.546178,
+                        43.841821
+                  ]
+            },
+            {
+                  "name": "Ghoster Coaster",
+                  "text": "A Ghoster Coaster egy családi hullámvasút a Canada's Wonderland-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545765,
+                        43.843418
+                  ]
+            },
+            {
+                  "name": "Boo Blasters on Boo Hill",
+                  "text": "A Boo Blasters on Boo Hill egy sötét lovaglás a Canada's Wonderland-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.544239,
+                        43.844485
+                  ]
+            },
+            {
+                  "name": "WindSeeker",
+                  "text": "A WindSeeker egy toronyhinta a Canada's Wonderland-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542478,
+                        43.840634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gibson House",
+                  "text": "Gibson House este un muzeu al unei ferme istorice din secolul al XIX-lea, situat lângă Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.414752,
+                        43.769671
+                  ]
+            },
+            {
+                  "name": "The Village at Black Creek",
+                  "text": "The Village at Black Creek este un muzeu de istorie vie din North York (Toronto), lângă Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.519155,
+                        43.775055
+                  ]
+            },
+            {
+                  "name": "North York Civic Centre",
+                  "text": "North York Civic Centre este primăria fostului district North York din Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.414652,
+                        43.767262
+                  ]
+            },
+            {
+                  "name": "Kingswood Music Theatre",
+                  "text": "Kingswood Music Theatre a fost un amfiteatru în aer liber din Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.539248,
+                        43.839408
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Mosque",
+                  "text": "Moscheea Baitul Islam este o moschee din Maple, Ontario, lângă Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.543,
+                        43.864842
+                  ]
+            },
+            {
+                  "name": "Toronto and Region Islamic Congregation",
+                  "text": "Congregația Islamică din Toronto și Regiune este o moschee din Thornhill, Ontario, lângă Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.51598,
+                        43.717965
+                  ]
+            },
+            {
+                  "name": "Meridian Arts Centre",
+                  "text": "Centrul Artistic Meridian este un centru de arte spectacolului în North York, Toronto, lângă Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.414436,
+                        43.766051
+                  ]
+            },
+            {
+                  "name": "Beth Avraham Yoseph of Toronto",
+                  "text": "Beth Avraham Yoseph of Toronto este o sinagogă din Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.44408,
+                        43.803651
+                  ]
+            },
+            {
+                  "name": "Wonder Mountain's Guardians",
+                  "text": "Wonder Mountain's Guardian este o atracție de tip dark ride din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542451,
+                        43.842058
+                  ]
+            },
+            {
+                  "name": "Legoland Discovery Centre",
+                  "text": "Legoland Discovery Centre este o atracție interioară cu tematică Lego din Vaughan Mills, lângă Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.535428,
+                        43.825167
+                  ]
+            },
+            {
+                  "name": "Leviathan",
+                  "text": "Leviathan este un roller coaster din oțel din Canada's Wonderland, cândva cel mai înalt din Canada.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542382,
+                        43.844511
+                  ]
+            },
+            {
+                  "name": "Shockwave",
+                  "text": "Shockwave este un roller coaster în picioare din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54315,
+                        43.843147
+                  ]
+            },
+            {
+                  "name": "Behemoth",
+                  "text": "Behemoth este un hypercoaster din oțel din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540653,
+                        43.838983
+                  ]
+            },
+            {
+                  "name": "Vortex",
+                  "text": "Vortex este un roller coaster din oțel din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54347,
+                        43.841929
+                  ]
+            },
+            {
+                  "name": "Mighty Canadian Minebuster",
+                  "text": "Mighty Canadian Minebuster este un roller coaster din lemn din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.541921,
+                        43.839265
+                  ]
+            },
+            {
+                  "name": "Psyclone",
+                  "text": "Psyclone este un roller coaster din oțel din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540392,
+                        43.84006
+                  ]
+            },
+            {
+                  "name": "DareDeviler",
+                  "text": "DareDeviler este o atracție rotitoare de tip thrill din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.539045,
+                        43.84123
+                  ]
+            },
+            {
+                  "name": "Dragon Fyre",
+                  "text": "Dragon Fyre este un roller coaster din oțel din Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540647,
+                        43.8445
+                  ]
+            },
+            {
+                  "name": "Heintzman House",
+                  "text": "Heintzman House este o casă istorică din Vaughan, lângă Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.416309,
+                        43.823831
+                  ]
+            },
+            {
+                  "name": "Kortright Centre for Conservation",
+                  "text": "Centrul pentru Conservare Kortright este un centru de educație ecologică din Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.595936,
+                        43.828184
+                  ]
+            },
+            {
+                  "name": "Downsview Park",
+                  "text": "Parcul Downsview este un parc urban mare din North York, Toronto, lângă Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.48077,
+                        43.741383
+                  ]
+            },
+            {
+                  "name": "Pine Point Park",
+                  "text": "Parcul Pine Point este un parc din Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.544066,
+                        43.716163
+                  ]
+            },
+            {
+                  "name": "Earl Bales Park",
+                  "text": "Parcul Earl Bales este un parc din North York, Toronto, lângă Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.427681,
+                        43.751438
+                  ]
+            },
+            {
+                  "name": "Herbert H. Carnegie Centennial Centre",
+                  "text": "Centrul Centenar Herbert H. Carnegie este un centru comunitar și parc din Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.450141,
+                        43.773569
+                  ]
+            },
+            {
+                  "name": "Splash Works",
+                  "text": "Splash Works este un parc acvatic din interiorul Canada's Wonderland.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54412,
+                        43.838989
+                  ]
+            },
+            {
+                  "name": "Spirit Manor",
+                  "text": "Spirit Manor este o atracție de tip casă bântuită interactivă din Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.546178,
+                        43.841821
+                  ]
+            },
+            {
+                  "name": "Ghoster Coaster",
+                  "text": "Ghoster Coaster este un roller coaster de familie la Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545765,
+                        43.843418
+                  ]
+            },
+            {
+                  "name": "Boo Blasters on Boo Hill",
+                  "text": "Boo Blasters on Boo Hill este o călătorie întunecată la Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.544239,
+                        43.844485
+                  ]
+            },
+            {
+                  "name": "WindSeeker",
+                  "text": "WindSeeker este un leagăn cu turn la Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542478,
+                        43.840634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gibson House",
+                  "text": "Gibson House is a 19th-century farmhouse museum near Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.414752,
+                        43.769671
+                  ]
+            },
+            {
+                  "name": "The Village at Black Creek",
+                  "text": "The Village at Black Creek is a living history museum in North York, Toronto, near Canada's Wonderland.",
+                  "category": "museum",
+                  "coords": [
+                        -79.519155,
+                        43.775055
+                  ]
+            },
+            {
+                  "name": "North York Civic Centre",
+                  "text": "North York Civic Centre is the city hall for the former city of North York in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.414652,
+                        43.767262
+                  ]
+            },
+            {
+                  "name": "Kingswood Music Theatre",
+                  "text": "Kingswood Music Theatre was an outdoor amphitheatre at Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.539248,
+                        43.839408
+                  ]
+            },
+            {
+                  "name": "Baitul Islam Mosque",
+                  "text": "Baitul Islam Mosque is a mosque in Maple, Ontario, near Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.543,
+                        43.864842
+                  ]
+            },
+            {
+                  "name": "Toronto and Region Islamic Congregation",
+                  "text": "Toronto and Region Islamic Congregation is a mosque in Thornhill, Ontario, near Canada's Wonderland.",
+                  "category": "religious",
+                  "coords": [
+                        -79.51598,
+                        43.717965
+                  ]
+            },
+            {
+                  "name": "Meridian Arts Centre",
+                  "text": "Meridian Arts Centre is a performing arts centre in North York, Toronto, near Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.414436,
+                        43.766051
+                  ]
+            },
+            {
+                  "name": "Beth Avraham Yoseph of Toronto",
+                  "text": "Beth Avraham Yoseph of Toronto is a synagogue in Toronto.",
+                  "category": "religious",
+                  "coords": [
+                        -79.44408,
+                        43.803651
+                  ]
+            },
+            {
+                  "name": "Wonder Mountain's Guardians",
+                  "text": "Wonder Mountain's Guardian is a dark ride at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542451,
+                        43.842058
+                  ]
+            },
+            {
+                  "name": "Legoland Discovery Centre",
+                  "text": "Legoland Discovery Centre is an indoor Lego-themed attraction at Vaughan Mills near Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.535428,
+                        43.825167
+                  ]
+            },
+            {
+                  "name": "Leviathan",
+                  "text": "Leviathan is a steel roller coaster at Canada's Wonderland, once the tallest in Canada.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542382,
+                        43.844511
+                  ]
+            },
+            {
+                  "name": "Shockwave",
+                  "text": "Shockwave is a stand-up roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54315,
+                        43.843147
+                  ]
+            },
+            {
+                  "name": "Behemoth",
+                  "text": "Behemoth is a steel hypercoaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540653,
+                        43.838983
+                  ]
+            },
+            {
+                  "name": "Vortex",
+                  "text": "Vortex is a steel roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.54347,
+                        43.841929
+                  ]
+            },
+            {
+                  "name": "Mighty Canadian Minebuster",
+                  "text": "Mighty Canadian Minebuster is a wooden roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.541921,
+                        43.839265
+                  ]
+            },
+            {
+                  "name": "Psyclone",
+                  "text": "Psyclone is a steel roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540392,
+                        43.84006
+                  ]
+            },
+            {
+                  "name": "DareDeviler",
+                  "text": "DareDeviler is a spinning thrill ride at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.539045,
+                        43.84123
+                  ]
+            },
+            {
+                  "name": "Dragon Fyre",
+                  "text": "Dragon Fyre is a steel roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.540647,
+                        43.8445
+                  ]
+            },
+            {
+                  "name": "Heintzman House",
+                  "text": "Heintzman House is a historic house in Vaughan near Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.416309,
+                        43.823831
+                  ]
+            },
+            {
+                  "name": "Kortright Centre for Conservation",
+                  "text": "Kortright Centre for Conservation is an environmental education centre in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.595936,
+                        43.828184
+                  ]
+            },
+            {
+                  "name": "Downsview Park",
+                  "text": "Downsview Park is a large urban park in North York, Toronto, near Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.48077,
+                        43.741383
+                  ]
+            },
+            {
+                  "name": "Pine Point Park",
+                  "text": "Pine Point Park is a park in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.544066,
+                        43.716163
+                  ]
+            },
+            {
+                  "name": "Earl Bales Park",
+                  "text": "Earl Bales Park is a park in North York, Toronto, near Canada's Wonderland.",
+                  "category": "park",
+                  "coords": [
+                        -79.427681,
+                        43.751438
+                  ]
+            },
+            {
+                  "name": "Herbert H. Carnegie Centennial Centre",
+                  "text": "Herbert H. Carnegie Centennial Centre is a community centre and park in Vaughan.",
+                  "category": "park",
+                  "coords": [
+                        -79.450141,
+                        43.773569
+                  ]
+            },
+            {
+                  "name": "Splash Works",
+                  "text": "Splash Works is a water park within Canada's Wonderland.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54412,
+                        43.838989
+                  ]
+            },
+            {
+                  "name": "Spirit Manor",
+                  "text": "Spirit Manor is an interactive walk-through haunted attraction at Canada's Wonderland.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.546178,
+                        43.841821
+                  ]
+            },
+            {
+                  "name": "Ghoster Coaster",
+                  "text": "Ghoster Coaster is a family roller coaster at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545765,
+                        43.843418
+                  ]
+            },
+            {
+                  "name": "Boo Blasters on Boo Hill",
+                  "text": "Boo Blasters on Boo Hill is a dark ride at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.544239,
+                        43.844485
+                  ]
+            },
+            {
+                  "name": "WindSeeker",
+                  "text": "WindSeeker is a tower swing ride at Canada's Wonderland.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.542478,
+                        43.840634
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CA",
     coords: [-79.5, 43.8],
@@ -959,7 +11129,592 @@ export const canadaCities: POI[] = [
       en: ["The park officially opened its gates on May 23, 1981.", "It features 18 roller coasters, ranking it third in the world for most coasters.", "Leviathan is the tallest and fastest roller coaster in Canada at 93 meters high.", "The entire park property covers 330 acres (134 hectares) of land.", "Splash Works water park covers 20 acres and includes a large wave pool.", "The centerpiece Wonder Mountain stands 150 feet (46 meters) tall."],
     }, image: "/poi-images/ca-canadas-wonderland.webp"},
   {
-    id: "ca-west-edmonton-mall",
+    id: "ca-west-edmonton-mall", "sights": {
+      "de": [
+            {
+                  "name": "Mactaggart Sanctuary",
+                  "text": "Mactaggart Sanctuary ist ein Naturschutzgebiet im West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.54656,
+                        53.441428
+                  ]
+            },
+            {
+                  "name": "Animal crossing",
+                  "text": "Animal crossing ist eine Attraktion im West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.563095,
+                        53.428596
+                  ]
+            },
+            {
+                  "name": "Lansdowne Lookout",
+                  "text": "Lansdowne Lookout ist ein Aussichtspunkt im West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.554251,
+                        53.487325
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Park ist ein Naturschutzgebiet im West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.639462,
+                        53.499036
+                  ]
+            },
+            {
+                  "name": "Corkscrew",
+                  "text": "Corkscrew ist eine Attraktion im West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.625335,
+                        53.521655
+                  ]
+            },
+            {
+                  "name": "Sun Runner",
+                  "text": "Sun Runner ist eine Attraktion im West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.626834,
+                        53.521689
+                  ]
+            },
+            {
+                  "name": "Sea Life Caverns",
+                  "text": "Sea Life Caverns ist ein Aquarium im West Edmonton Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.626749,
+                        53.522652
+                  ]
+            },
+            {
+                  "name": "Beth Israel Synagogue",
+                  "text": "Beth Israel Synagogue ist eine konservative Synagoge in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.611948,
+                        53.504073
+                  ]
+            },
+            {
+                  "name": "Constable Travis Jordan EPS Memorial Bridge",
+                  "text": "Constable Travis Jordan EPS Memorial Bridge ist eine Gedenkbrücke in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.615611,
+                        53.459801
+                  ]
+            },
+            {
+                  "name": "Indigenous Peoples Experience",
+                  "text": "Indigenous Peoples Experience ist ein Museum in Edmonton, das die indigene Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -113.584529,
+                        53.499226
+                  ]
+            },
+            {
+                  "name": "Rutherford House",
+                  "text": "Rutherford House ist ein historisches Hausmuseum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.58077,
+                        53.501122
+                  ]
+            },
+            {
+                  "name": "Fort Edmonton Park",
+                  "text": "Fort Edmonton Park ist ein Freilichtmuseum, das die Geschichte Edmontons zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -113.579533,
+                        53.501635
+                  ]
+            },
+            {
+                  "name": "Edmonton Alberta Temple",
+                  "text": "Edmonton Alberta Temple ist ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.570443,
+                        53.489634
+                  ]
+            },
+            {
+                  "name": "Terwillegar Park",
+                  "text": "Terwillegar Park ist ein großer Flussuferpark in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.611306,
+                        53.478096
+                  ]
+            },
+            {
+                  "name": "Big Island Provincial Park",
+                  "text": "Big Island Provincial Park ist ein Naturschutzgebiet in der Nähe von Edmonton.",
+                  "category": "natural",
+                  "coords": [
+                        -113.644032,
+                        53.441515
+                  ]
+            },
+            {
+                  "name": "Edmonton Corn Maze",
+                  "text": "Edmonton Corn Maze ist ein saisonales Maislabyrinth in Edmonton.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.728389,
+                        53.453044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mactaggart Sanctuary",
+                  "text": "A Mactaggart Sanctuary egy természetvédelmi terület a West Edmonton Mallban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.54656,
+                        53.441428
+                  ]
+            },
+            {
+                  "name": "Animal crossing",
+                  "text": "Az Animal crossing egy attrakció a West Edmonton Mallban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.563095,
+                        53.428596
+                  ]
+            },
+            {
+                  "name": "Lansdowne Lookout",
+                  "text": "A Lansdowne Lookout egy kilátó a West Edmonton Mallban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.554251,
+                        53.487325
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "A Park egy természetvédelmi terület a West Edmonton Mallban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.639462,
+                        53.499036
+                  ]
+            },
+            {
+                  "name": "Corkscrew",
+                  "text": "A Corkscrew egy attrakció a West Edmonton Mallban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.625335,
+                        53.521655
+                  ]
+            },
+            {
+                  "name": "Sun Runner",
+                  "text": "A Sun Runner egy attrakció a West Edmonton Mallban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.626834,
+                        53.521689
+                  ]
+            },
+            {
+                  "name": "Sea Life Caverns",
+                  "text": "A Sea Life Caverns egy akvárium a West Edmonton Mallban.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.626749,
+                        53.522652
+                  ]
+            },
+            {
+                  "name": "Beth Israel Synagogue",
+                  "text": "A Beth Israel Synagogue egy konzervatív zsinagóga Edmontonban.",
+                  "category": "religious",
+                  "coords": [
+                        -113.611948,
+                        53.504073
+                  ]
+            },
+            {
+                  "name": "Constable Travis Jordan EPS Memorial Bridge",
+                  "text": "A Constable Travis Jordan EPS Memorial Bridge egy emlékhíd Edmontonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.615611,
+                        53.459801
+                  ]
+            },
+            {
+                  "name": "Indigenous Peoples Experience",
+                  "text": "Az Indigenous Peoples Experience egy múzeum Edmontonban, amely az őslakos kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -113.584529,
+                        53.499226
+                  ]
+            },
+            {
+                  "name": "Rutherford House",
+                  "text": "A Rutherford House egy történelmi házmúzeum Edmontonban.",
+                  "category": "museum",
+                  "coords": [
+                        -113.58077,
+                        53.501122
+                  ]
+            },
+            {
+                  "name": "Fort Edmonton Park",
+                  "text": "A Fort Edmonton Park egy szabadtéri múzeum, amely Edmonton történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -113.579533,
+                        53.501635
+                  ]
+            },
+            {
+                  "name": "Edmonton Alberta Temple",
+                  "text": "Az Edmonton Alberta Temple Az Utolsó Napi Szentek Jézus Krisztus Egyháza temploma Edmontonban.",
+                  "category": "religious",
+                  "coords": [
+                        -113.570443,
+                        53.489634
+                  ]
+            },
+            {
+                  "name": "Terwillegar Park",
+                  "text": "A Terwillegar Park egy nagy folyóparti park Edmontonban.",
+                  "category": "park",
+                  "coords": [
+                        -113.611306,
+                        53.478096
+                  ]
+            },
+            {
+                  "name": "Big Island Provincial Park",
+                  "text": "A Big Island Provincial Park egy természetvédelmi terület Edmonton közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -113.644032,
+                        53.441515
+                  ]
+            },
+            {
+                  "name": "Edmonton Corn Maze",
+                  "text": "Az Edmonton Corn Maze egy szezonális kukoricalabirintus Edmontonban.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.728389,
+                        53.453044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mactaggart Sanctuary",
+                  "text": "Mactaggart Sanctuary este o rezervație naturală în West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.54656,
+                        53.441428
+                  ]
+            },
+            {
+                  "name": "Animal crossing",
+                  "text": "Animal crossing este o atracție în West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.563095,
+                        53.428596
+                  ]
+            },
+            {
+                  "name": "Lansdowne Lookout",
+                  "text": "Lansdowne Lookout este un punct de belvedere în West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.554251,
+                        53.487325
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Park este o rezervație naturală în West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.639462,
+                        53.499036
+                  ]
+            },
+            {
+                  "name": "Corkscrew",
+                  "text": "Corkscrew este o atracție în West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.625335,
+                        53.521655
+                  ]
+            },
+            {
+                  "name": "Sun Runner",
+                  "text": "Sun Runner este o atracție în West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.626834,
+                        53.521689
+                  ]
+            },
+            {
+                  "name": "Sea Life Caverns",
+                  "text": "Sea Life Caverns este un acvariu în West Edmonton Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.626749,
+                        53.522652
+                  ]
+            },
+            {
+                  "name": "Beth Israel Synagogue",
+                  "text": "Beth Israel Synagogue este o sinagogă conservatoare din Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.611948,
+                        53.504073
+                  ]
+            },
+            {
+                  "name": "Constable Travis Jordan EPS Memorial Bridge",
+                  "text": "Constable Travis Jordan EPS Memorial Bridge este un pod memorial în Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.615611,
+                        53.459801
+                  ]
+            },
+            {
+                  "name": "Indigenous Peoples Experience",
+                  "text": "Indigenous Peoples Experience este un muzeu în Edmonton care prezintă cultura indigenă.",
+                  "category": "museum",
+                  "coords": [
+                        -113.584529,
+                        53.499226
+                  ]
+            },
+            {
+                  "name": "Rutherford House",
+                  "text": "Rutherford House este un muzeu de casă istorică în Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.58077,
+                        53.501122
+                  ]
+            },
+            {
+                  "name": "Fort Edmonton Park",
+                  "text": "Fort Edmonton Park este un muzeu în aer liber care ilustrează istoria Edmontonului.",
+                  "category": "museum",
+                  "coords": [
+                        -113.579533,
+                        53.501635
+                  ]
+            },
+            {
+                  "name": "Edmonton Alberta Temple",
+                  "text": "Edmonton Alberta Temple este un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.570443,
+                        53.489634
+                  ]
+            },
+            {
+                  "name": "Terwillegar Park",
+                  "text": "Terwillegar Park este un mare parc pe malul râului în Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.611306,
+                        53.478096
+                  ]
+            },
+            {
+                  "name": "Big Island Provincial Park",
+                  "text": "Big Island Provincial Park este o rezervație naturală lângă Edmonton.",
+                  "category": "natural",
+                  "coords": [
+                        -113.644032,
+                        53.441515
+                  ]
+            },
+            {
+                  "name": "Edmonton Corn Maze",
+                  "text": "Edmonton Corn Maze este un labirint de porumb sezonier în Edmonton.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.728389,
+                        53.453044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mactaggart Sanctuary",
+                  "text": "Mactaggart Sanctuary is a nature reserve at West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.54656,
+                        53.441428
+                  ]
+            },
+            {
+                  "name": "Animal crossing",
+                  "text": "Animal crossing is an attraction at West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.563095,
+                        53.428596
+                  ]
+            },
+            {
+                  "name": "Lansdowne Lookout",
+                  "text": "Lansdowne Lookout is a viewpoint at West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.554251,
+                        53.487325
+                  ]
+            },
+            {
+                  "name": "Park",
+                  "text": "Park is a nature reserve at West Edmonton Mall.",
+                  "category": "natural",
+                  "coords": [
+                        -113.639462,
+                        53.499036
+                  ]
+            },
+            {
+                  "name": "Corkscrew",
+                  "text": "Corkscrew is an attraction at West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.625335,
+                        53.521655
+                  ]
+            },
+            {
+                  "name": "Sun Runner",
+                  "text": "Sun Runner is an attraction at West Edmonton Mall.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.626834,
+                        53.521689
+                  ]
+            },
+            {
+                  "name": "Sea Life Caverns",
+                  "text": "Sea Life Caverns is an aquarium at West Edmonton Mall.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.626749,
+                        53.522652
+                  ]
+            },
+            {
+                  "name": "Beth Israel Synagogue",
+                  "text": "Beth Israel Synagogue is a Conservative synagogue in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.611948,
+                        53.504073
+                  ]
+            },
+            {
+                  "name": "Constable Travis Jordan EPS Memorial Bridge",
+                  "text": "Constable Travis Jordan EPS Memorial Bridge is a memorial bridge in Edmonton.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.615611,
+                        53.459801
+                  ]
+            },
+            {
+                  "name": "Indigenous Peoples Experience",
+                  "text": "Indigenous Peoples Experience is a museum in Edmonton that explores Indigenous cultures.",
+                  "category": "museum",
+                  "coords": [
+                        -113.584529,
+                        53.499226
+                  ]
+            },
+            {
+                  "name": "Rutherford House",
+                  "text": "Rutherford House is a historic house museum in Edmonton.",
+                  "category": "museum",
+                  "coords": [
+                        -113.58077,
+                        53.501122
+                  ]
+            },
+            {
+                  "name": "Fort Edmonton Park",
+                  "text": "Fort Edmonton Park is a living history museum depicting Edmonton's history.",
+                  "category": "museum",
+                  "coords": [
+                        -113.579533,
+                        53.501635
+                  ]
+            },
+            {
+                  "name": "Edmonton Alberta Temple",
+                  "text": "Edmonton Alberta Temple is a temple of The Church of Jesus Christ of Latter-day Saints in Edmonton.",
+                  "category": "religious",
+                  "coords": [
+                        -113.570443,
+                        53.489634
+                  ]
+            },
+            {
+                  "name": "Terwillegar Park",
+                  "text": "Terwillegar Park is a large river valley park in Edmonton.",
+                  "category": "park",
+                  "coords": [
+                        -113.611306,
+                        53.478096
+                  ]
+            },
+            {
+                  "name": "Big Island Provincial Park",
+                  "text": "Big Island Provincial Park is a nature reserve near Edmonton.",
+                  "category": "natural",
+                  "coords": [
+                        -113.644032,
+                        53.441515
+                  ]
+            },
+            {
+                  "name": "Edmonton Corn Maze",
+                  "text": "Edmonton Corn Maze is a seasonal corn maze attraction in Edmonton.",
+                  "category": "recreational",
+                  "coords": [
+                        -113.728389,
+                        53.453044
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "CA",
     coords: [-113.6, 53.5],
@@ -1022,7 +11777,196 @@ export const canadaCities: POI[] = [
       en: ["Vancouver is the third-largest film production center in North America after LA and NY.", "The industry generates more than $3 billion annually for the local economy.", "Over 60,000 people are directly or indirectly employed in the film sector.", "Mammoth Studios features soundstages covering approximately 23,000 square meters.", "British Columbia offers tax credits of up to 35% on qualified labor costs.", "The Vancouver International Film Festival was first established in 1982."],
     }, image: "/poi-images/ca-vancouver-film.webp"},
   {
-    id: "ca-toronto-finance",
+    id: "ca-toronto-finance", "sights": {
+      "de": [
+            {
+                  "name": "Old bus",
+                  "text": "Ein alter Bus, der als Attraktion in Toronto ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38458,
+                        43.612845
+                  ]
+            },
+            {
+                  "name": "Canada's First Gay Pride (1971)",
+                  "text": "Ruinen, die den Ort der ersten kanadischen Gay-Pride-Veranstaltung im Jahr 1971 in Toronto markieren.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391739,
+                        43.616744
+                  ]
+            },
+            {
+                  "name": "William Meany Maze",
+                  "text": "Das William Meany Maze ist ein Irrgarten in Toronto, benannt nach William Meany.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.374837,
+                        43.617773
+                  ]
+            },
+            {
+                  "name": "Manitou Beach",
+                  "text": "Manitou Beach ist ein Strand in Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.373993,
+                        43.615834
+                  ]
+            },
+            {
+                  "name": "Gibraltar Point Beach",
+                  "text": "Gibraltar Point Beach ist ein Strand am Gibraltar Point auf den Toronto Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.38353,
+                        43.612614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old bus",
+                  "text": "Egy régi busz, amely látványosságként van kiállítva Torontóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38458,
+                        43.612845
+                  ]
+            },
+            {
+                  "name": "Canada's First Gay Pride (1971)",
+                  "text": "Romok, amelyek a kanadai első meleg büszkeség esemény 1971-es helyszínét jelölik Torontóban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391739,
+                        43.616744
+                  ]
+            },
+            {
+                  "name": "William Meany Maze",
+                  "text": "A William Meany Maze egy labirintus Torontóban, amely William Meanyről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.374837,
+                        43.617773
+                  ]
+            },
+            {
+                  "name": "Manitou Beach",
+                  "text": "A Manitou Beach egy strand Torontóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.373993,
+                        43.615834
+                  ]
+            },
+            {
+                  "name": "Gibraltar Point Beach",
+                  "text": "A Gibraltar Point Beach egy strand a Gibraltar Pointon, a Toronto-szigeteken.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.38353,
+                        43.612614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old bus",
+                  "text": "Un autobuz vechi expus ca atracție în Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38458,
+                        43.612845
+                  ]
+            },
+            {
+                  "name": "Canada's First Gay Pride (1971)",
+                  "text": "Ruine care marchează locul primului eveniment gay pride din Canada în 1971, în Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391739,
+                        43.616744
+                  ]
+            },
+            {
+                  "name": "William Meany Maze",
+                  "text": "Labirintul William Meany este un labirint în Toronto, numit după William Meany.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.374837,
+                        43.617773
+                  ]
+            },
+            {
+                  "name": "Manitou Beach",
+                  "text": "Manitou Beach este o plajă în Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.373993,
+                        43.615834
+                  ]
+            },
+            {
+                  "name": "Gibraltar Point Beach",
+                  "text": "Gibraltar Point Beach este o plajă la Gibraltar Point pe insulele Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.38353,
+                        43.612614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old bus",
+                  "text": "An old bus displayed as an attraction in Toronto.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.38458,
+                        43.612845
+                  ]
+            },
+            {
+                  "name": "Canada's First Gay Pride (1971)",
+                  "text": "Ruins marking the location of Canada's first gay pride event in 1971 in Toronto.",
+                  "category": "historical",
+                  "coords": [
+                        -79.391739,
+                        43.616744
+                  ]
+            },
+            {
+                  "name": "William Meany Maze",
+                  "text": "William Meany Maze is a maze attraction in Toronto named after William Meany.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.374837,
+                        43.617773
+                  ]
+            },
+            {
+                  "name": "Manitou Beach",
+                  "text": "Manitou Beach is a beach in Toronto.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.373993,
+                        43.615834
+                  ]
+            },
+            {
+                  "name": "Gibraltar Point Beach",
+                  "text": "Gibraltar Point Beach is a beach at Gibraltar Point on Toronto Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.38353,
+                        43.612614
+                  ]
+            }
+      ]
+},
     type: "industry",
     parent: "CA",
     coords: [-79.4, 43.6],
@@ -1060,7 +12004,376 @@ export const canadaCities: POI[] = [
       en: ["The Port of Vancouver is the largest port in Canada by total land and water area.", "It handles between 140 and 150 million tonnes of cargo every year.", "The port operates a total of 27 specialized deep-sea marine terminals.", "Port operations support approximately 115,000 jobs across Canada.", "The Vancouver Fraser Port Authority was created through a merger in 2008.", "The Canada Place terminal welcomes over one million cruise passengers annually."],
     }, image: "/poi-images/ca-port-vancouver.webp"},
   {
-    id: "ca-port-halifax",
+    id: "ca-port-halifax", "sights": {
+      "de": [
+            {
+                  "name": "York Redoubt",
+                  "text": "York Redoubt ist eine historische Festung in Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.553976,
+                        44.596271
+                  ]
+            },
+            {
+                  "name": "Halifax Harbour",
+                  "text": "Der natürliche Hafen von Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.52249,
+                        44.582479
+                  ]
+            },
+            {
+                  "name": "Shaw Wilderness Park",
+                  "text": "Ein Wildnispark in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.589818,
+                        44.615175
+                  ]
+            },
+            {
+                  "name": "Long Pond Beach",
+                  "text": "Ein Strand in Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.575276,
+                        44.575883
+                  ]
+            },
+            {
+                  "name": "Sandwish Point Battery",
+                  "text": "Ruinen einer historischen Batterie in Halifax.",
+                  "category": "historical",
+                  "coords": [
+                        -63.550316,
+                        44.587828
+                  ]
+            },
+            {
+                  "name": "Purcells Cove",
+                  "text": "Eine Bucht in Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.570393,
+                        44.611292
+                  ]
+            },
+            {
+                  "name": "Connaught Battery Park",
+                  "text": "Der Connaught Battery Park ist ein historischer Küstenbatteriepark in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.561757,
+                        44.604371
+                  ]
+            },
+            {
+                  "name": "Cunard Beach",
+                  "text": "Ein Strand in Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.601621,
+                        44.620944
+                  ]
+            },
+            {
+                  "name": "Graves-Oakley Memorial Park",
+                  "text": "Ein Gedenkpark in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.628685,
+                        44.598734
+                  ]
+            },
+            {
+                  "name": "Long Lake Provincial Park",
+                  "text": "Ein Provinzpark in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.654139,
+                        44.600547
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "York Redoubt",
+                  "text": "A York Redoubt egy történelmi erődítmény Halifaxban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.553976,
+                        44.596271
+                  ]
+            },
+            {
+                  "name": "Halifax Harbour",
+                  "text": "Halifax természetes kikötője.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.52249,
+                        44.582479
+                  ]
+            },
+            {
+                  "name": "Shaw Wilderness Park",
+                  "text": "Egy vadon park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.589818,
+                        44.615175
+                  ]
+            },
+            {
+                  "name": "Long Pond Beach",
+                  "text": "Egy strand Halifaxban.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.575276,
+                        44.575883
+                  ]
+            },
+            {
+                  "name": "Sandwish Point Battery",
+                  "text": "Egy történelmi üteg romjai Halifaxban.",
+                  "category": "historical",
+                  "coords": [
+                        -63.550316,
+                        44.587828
+                  ]
+            },
+            {
+                  "name": "Purcells Cove",
+                  "text": "Egy öböl Halifaxban.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.570393,
+                        44.611292
+                  ]
+            },
+            {
+                  "name": "Connaught Battery Park",
+                  "text": "A Connaught Battery Park egy történelmi partvédelmi ütegpark Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.561757,
+                        44.604371
+                  ]
+            },
+            {
+                  "name": "Cunard Beach",
+                  "text": "Egy strand Halifaxban.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.601621,
+                        44.620944
+                  ]
+            },
+            {
+                  "name": "Graves-Oakley Memorial Park",
+                  "text": "Egy emlékpark Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.628685,
+                        44.598734
+                  ]
+            },
+            {
+                  "name": "Long Lake Provincial Park",
+                  "text": "Egy tartományi park Halifaxban.",
+                  "category": "park",
+                  "coords": [
+                        -63.654139,
+                        44.600547
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "York Redoubt",
+                  "text": "York Redoubt este o fortificație istorică în Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.553976,
+                        44.596271
+                  ]
+            },
+            {
+                  "name": "Halifax Harbour",
+                  "text": "Portul natural al Halifaxului.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.52249,
+                        44.582479
+                  ]
+            },
+            {
+                  "name": "Shaw Wilderness Park",
+                  "text": "Un parc sălbatic în Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.589818,
+                        44.615175
+                  ]
+            },
+            {
+                  "name": "Long Pond Beach",
+                  "text": "O plajă în Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.575276,
+                        44.575883
+                  ]
+            },
+            {
+                  "name": "Sandwish Point Battery",
+                  "text": "Ruinele unei baterii istorice în Halifax.",
+                  "category": "historical",
+                  "coords": [
+                        -63.550316,
+                        44.587828
+                  ]
+            },
+            {
+                  "name": "Purcells Cove",
+                  "text": "Un golf în Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.570393,
+                        44.611292
+                  ]
+            },
+            {
+                  "name": "Connaught Battery Park",
+                  "text": "Parcul Connaught Battery este un parc istoric de baterie de coastă în Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.561757,
+                        44.604371
+                  ]
+            },
+            {
+                  "name": "Cunard Beach",
+                  "text": "O plajă în Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.601621,
+                        44.620944
+                  ]
+            },
+            {
+                  "name": "Graves-Oakley Memorial Park",
+                  "text": "Un parc memorial în Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.628685,
+                        44.598734
+                  ]
+            },
+            {
+                  "name": "Long Lake Provincial Park",
+                  "text": "Un parc provincial în Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.654139,
+                        44.600547
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "York Redoubt",
+                  "text": "York Redoubt is a historic fortification in Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.553976,
+                        44.596271
+                  ]
+            },
+            {
+                  "name": "Halifax Harbour",
+                  "text": "The natural harbour of Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.52249,
+                        44.582479
+                  ]
+            },
+            {
+                  "name": "Shaw Wilderness Park",
+                  "text": "A wilderness park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.589818,
+                        44.615175
+                  ]
+            },
+            {
+                  "name": "Long Pond Beach",
+                  "text": "A beach in Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.575276,
+                        44.575883
+                  ]
+            },
+            {
+                  "name": "Sandwish Point Battery",
+                  "text": "Ruins of a historic battery in Halifax.",
+                  "category": "historical",
+                  "coords": [
+                        -63.550316,
+                        44.587828
+                  ]
+            },
+            {
+                  "name": "Purcells Cove",
+                  "text": "A cove in Halifax.",
+                  "category": "landmark",
+                  "coords": [
+                        -63.570393,
+                        44.611292
+                  ]
+            },
+            {
+                  "name": "Connaught Battery Park",
+                  "text": "Connaught Battery Park is a historic coastal battery park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.561757,
+                        44.604371
+                  ]
+            },
+            {
+                  "name": "Cunard Beach",
+                  "text": "A beach in Halifax.",
+                  "category": "recreational",
+                  "coords": [
+                        -63.601621,
+                        44.620944
+                  ]
+            },
+            {
+                  "name": "Graves-Oakley Memorial Park",
+                  "text": "A memorial park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.628685,
+                        44.598734
+                  ]
+            },
+            {
+                  "name": "Long Lake Provincial Park",
+                  "text": "A provincial park in Halifax.",
+                  "category": "park",
+                  "coords": [
+                        -63.654139,
+                        44.600547
+                  ]
+            }
+      ]
+},
     type: "port",
     parent: "CA",
     coords: [-63.6, 44.6],
@@ -1109,7 +12422,268 @@ export const canadaCities: POI[] = [
     facts: { de: ["Größte Insel Kanadas", "Fünftgrößte Insel der Welt", "Zentrum der Inuit-Kultur", "Auyuittuq-Nationalpark", "Heimat von Eisbären und Narwalen"], hu: ["Kanada legnagyobb szigete", "A világ 5. legnagyobb szigete", "Az inuit kultúra központja", "Auyuittuq Nemzeti Park", "Jegesmedvék és narválok élőhelye"], ro: ["Cea mai mare insulă din Canada", "A cincea insulă ca mărime din lume", "Centru al culturii inuite", "Parcul Național Auyuittuq", "Habitat pentru urși polari și narvali"], en: ["Canada's largest island", "Fifth largest island in the world", "Center of Inuit culture", "Home to Auyuittuq National Park", "Habitat for polar bears and narwhals"] , es: ["Isla más grande de Canadá", "Quinta isla más grande del mundo", "Centro de la cultura inuit", "Parque Nacional Auyuittuq", "Hogar de osos polares y narvales"], pt: ["Maior ilha do Canadá", "Quinta maior ilha do mundo", "Centro da cultura inuit", "Parque Nacional Auyuittuq", "Lar de ursos polares e narvais"], fr: ["Plus grande île du Canada", "Cinquième plus grande île au monde", "Centre de la culture inuit", "Parc national d'Auyuittuq", "Refuge pour les ours polaires et les narvals"]},
     area: 507451, elevation: 2147, image: "/poi-images/ca-baffin-island.webp"},
   {
-    id: "ca-vancouver-island",
+    id: "ca-vancouver-island", "sights": {
+      "de": [
+            {
+                  "name": "Mount Judson",
+                  "text": "Mount Judson ist ein Gipfel auf Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -125.920505,
+                        49.939718
+                  ]
+            },
+            {
+                  "name": "Horseshoe Mountain",
+                  "text": "Horseshoe Mountain ist ein Gipfel auf Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -125.957979,
+                        49.95607
+                  ]
+            },
+            {
+                  "name": "Tyee Mountain",
+                  "text": "Tyee Mountain ist ein Gipfel auf Vancouver Island. Er ist der höchste Gipfel der Beaufort Range.",
+                  "category": "natural",
+                  "coords": [
+                        -125.893659,
+                        49.979263
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Victoria Peak ist ein Gipfel auf Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.101067,
+                        50.054529
+                  ]
+            },
+            {
+                  "name": "Warden Peak",
+                  "text": "Warden Peak ist ein Gipfel auf Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.096031,
+                        50.062176
+                  ]
+            },
+            {
+                  "name": "Queen Peak",
+                  "text": "Queen Peak ist ein Gipfel auf Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.054261,
+                        50.048688
+                  ]
+            },
+            {
+                  "name": "Stewart Lake Recreation Site",
+                  "text": "Stewart Lake Recreation Site ist ein Campingplatz auf Vancouver Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.999956,
+                        50.054481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Judson",
+                  "text": "A Mount Judson egy csúcs Vancouver Islandon.",
+                  "category": "natural",
+                  "coords": [
+                        -125.920505,
+                        49.939718
+                  ]
+            },
+            {
+                  "name": "Horseshoe Mountain",
+                  "text": "A Horseshoe Mountain egy csúcs Vancouver Islandon.",
+                  "category": "natural",
+                  "coords": [
+                        -125.957979,
+                        49.95607
+                  ]
+            },
+            {
+                  "name": "Tyee Mountain",
+                  "text": "A Tyee Mountain egy csúcs Vancouver Islandon. Ez a Beaufort-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -125.893659,
+                        49.979263
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "A Victoria Peak egy csúcs Vancouver Islandon.",
+                  "category": "natural",
+                  "coords": [
+                        -126.101067,
+                        50.054529
+                  ]
+            },
+            {
+                  "name": "Warden Peak",
+                  "text": "A Warden Peak egy csúcs Vancouver Islandon.",
+                  "category": "natural",
+                  "coords": [
+                        -126.096031,
+                        50.062176
+                  ]
+            },
+            {
+                  "name": "Queen Peak",
+                  "text": "A Queen Peak egy csúcs Vancouver Islandon.",
+                  "category": "natural",
+                  "coords": [
+                        -126.054261,
+                        50.048688
+                  ]
+            },
+            {
+                  "name": "Stewart Lake Recreation Site",
+                  "text": "A Stewart Lake Recreation Site egy kempingterület Vancouver Islandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.999956,
+                        50.054481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Judson",
+                  "text": "Mount Judson este un vârf pe insula Vancouver.",
+                  "category": "natural",
+                  "coords": [
+                        -125.920505,
+                        49.939718
+                  ]
+            },
+            {
+                  "name": "Horseshoe Mountain",
+                  "text": "Horseshoe Mountain este un vârf pe insula Vancouver.",
+                  "category": "natural",
+                  "coords": [
+                        -125.957979,
+                        49.95607
+                  ]
+            },
+            {
+                  "name": "Tyee Mountain",
+                  "text": "Tyee Mountain este un vârf pe insula Vancouver. Este cel mai înalt vârf din lanțul Beaufort.",
+                  "category": "natural",
+                  "coords": [
+                        -125.893659,
+                        49.979263
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Victoria Peak este un vârf pe insula Vancouver.",
+                  "category": "natural",
+                  "coords": [
+                        -126.101067,
+                        50.054529
+                  ]
+            },
+            {
+                  "name": "Warden Peak",
+                  "text": "Warden Peak este un vârf pe insula Vancouver.",
+                  "category": "natural",
+                  "coords": [
+                        -126.096031,
+                        50.062176
+                  ]
+            },
+            {
+                  "name": "Queen Peak",
+                  "text": "Queen Peak este un vârf pe insula Vancouver.",
+                  "category": "natural",
+                  "coords": [
+                        -126.054261,
+                        50.048688
+                  ]
+            },
+            {
+                  "name": "Stewart Lake Recreation Site",
+                  "text": "Stewart Lake Recreation Site este o zonă de campare pe insula Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.999956,
+                        50.054481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Judson",
+                  "text": "Mount Judson is a peak on Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -125.920505,
+                        49.939718
+                  ]
+            },
+            {
+                  "name": "Horseshoe Mountain",
+                  "text": "Horseshoe Mountain is a peak on Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -125.957979,
+                        49.95607
+                  ]
+            },
+            {
+                  "name": "Tyee Mountain",
+                  "text": "Tyee Mountain is a peak on Vancouver Island. It is the highest peak of the Beaufort Range.",
+                  "category": "natural",
+                  "coords": [
+                        -125.893659,
+                        49.979263
+                  ]
+            },
+            {
+                  "name": "Victoria Peak",
+                  "text": "Victoria Peak is a peak on Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.101067,
+                        50.054529
+                  ]
+            },
+            {
+                  "name": "Warden Peak",
+                  "text": "Warden Peak is a peak on Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.096031,
+                        50.062176
+                  ]
+            },
+            {
+                  "name": "Queen Peak",
+                  "text": "Queen Peak is a peak on Vancouver Island.",
+                  "category": "natural",
+                  "coords": [
+                        -126.054261,
+                        50.048688
+                  ]
+            },
+            {
+                  "name": "Stewart Lake Recreation Site",
+                  "text": "Stewart Lake Recreation Site is a camping area on Vancouver Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.999956,
+                        50.054481
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA",
     coords: [-126.0, 50.0],

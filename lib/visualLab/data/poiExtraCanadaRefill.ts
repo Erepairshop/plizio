@@ -3,7 +3,1096 @@ import type { POI } from "./poi";
 
 export const poiExtraCanadaRefill: POI[] = [
 {
-    id: "thousand-islands-refill",
+    id: "thousand-islands-refill", "sights": {
+      "de": [
+            {
+                  "name": "Carnegie Bay",
+                  "text": "Carnegie Bay ist eine Bucht in den Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902732,
+                        44.348107
+                  ]
+            },
+            {
+                  "name": "Sunken Rock Light",
+                  "text": "Sunken Rock Light ist ein historischer Leuchtturm, der einen gefährlichen Felsen in den Thousand Islands markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.915375,
+                        44.345765
+                  ]
+            },
+            {
+                  "name": "Uncle Sam boat tours",
+                  "text": "Uncle Sam Bootstouren bieten Bootsfahrten in den Thousand Islands an.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.917512,
+                        44.338595
+                  ]
+            },
+            {
+                  "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
+                  "text": "Die Rockport Bootslinie bietet Kreuzfahrten in den Thousand Islands an.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.932694,
+                        44.378735
+                  ]
+            },
+            {
+                  "name": "1000 Islands Gananoque Boat Tour",
+                  "text": "Die Gananoque Bootstour bietet eine Bootsfahrt durch die Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.004966,
+                        44.36445
+                  ]
+            },
+            {
+                  "name": "Parc national des Îles-du-Saint-Laurent",
+                  "text": "Der Nationalpark der Inseln des Sankt-Lorenz-Stroms ist ein Naturschutzgebiet in den Thousand Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -76.003972,
+                        44.362343
+                  ]
+            },
+            {
+                  "name": "Eye Harbour",
+                  "text": "Eye Harbour ist ein Hafen in den Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.996845,
+                        44.348752
+                  ]
+            },
+            {
+                  "name": "Fiddlers Elbow",
+                  "text": "Fiddlers Elbow ist eine Bucht in den Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.995691,
+                        44.358286
+                  ]
+            },
+            {
+                  "name": "Potholes",
+                  "text": "Die Potholes sind eine natürliche Attraktion mit Felslöchern in den Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.043492,
+                        44.296905
+                  ]
+            },
+            {
+                  "name": "Landons Bay Lookout",
+                  "text": "Der Landons Bay Lookout in Thousand Islands bietet einen Aussichtspunkt über die Bucht und die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -76.067754,
+                        44.355052
+                  ]
+            },
+            {
+                  "name": "Halsteads Bay",
+                  "text": "Halsteads Bay ist eine Bucht in der Thousand-Islands-Region, die für ihre ruhigen Gewässer bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.080989,
+                        44.350713
+                  ]
+            },
+            {
+                  "name": "Landons Bay",
+                  "text": "Landons Bay ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.070044,
+                        44.358262
+                  ]
+            },
+            {
+                  "name": "Murphy's Beach",
+                  "text": "Murphy's Beach ist ein Strand in der Thousand-Islands-Region.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.094477,
+                        44.319131
+                  ]
+            },
+            {
+                  "name": "Cranberry Creek Wildlife Management Area",
+                  "text": "Das Cranberry Creek Wildlife Management Area ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.883627,
+                        44.33074
+                  ]
+            },
+            {
+                  "name": "Keewaydin State Park",
+                  "text": "Der Keewaydin State Park liegt in den Thousand Islands und ist ein beliebter Ort für Outdoor-Aktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        -75.928714,
+                        44.321317
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence Episcopal Church",
+                  "text": "Die Saint Lawrence Episcopal Church in den Thousand Islands ist ein historisches Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        -75.921157,
+                        44.336454
+                  ]
+            },
+            {
+                  "name": "Peristyle Archway",
+                  "text": "Der Peristyle Archway in den Thousand Islands ist ein dekorativer Bogen, der an antike Architektur erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.923441,
+                        44.343615
+                  ]
+            },
+            {
+                  "name": "Power House",
+                  "text": "Das Power House in den Thousand Islands ist ein historisches Gebäude, das früher der Energieerzeugung diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.920989,
+                        44.345292
+                  ]
+            },
+            {
+                  "name": "Boldt Castle",
+                  "text": "Boldt Castle auf Heart Island in den Thousand Islands ist ein berühmtes Schloss, das im frühen 20. Jahrhundert erbaut wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -75.922492,
+                        44.344522
+                  ]
+            },
+            {
+                  "name": "Mary Island State Park",
+                  "text": "Der Mary Island State Park in den Thousand Islands ist ein State Park, der aus mehreren Inseln besteht.",
+                  "category": "park",
+                  "coords": [
+                        -75.921456,
+                        44.36568
+                  ]
+            },
+            {
+                  "name": "1000 Islands Tower",
+                  "text": "Der 1000 Islands Tower bietet einen Panoramablick über die Region der Tausend Inseln.",
+                  "category": "tower",
+                  "coords": [
+                        -75.978812,
+                        44.352538
+                  ]
+            },
+            {
+                  "name": "Dewolf Point State Park",
+                  "text": "Der Dewolf Point State Park liegt in den Thousand Islands und ist ein State Park am St. Lawrence River.",
+                  "category": "park",
+                  "coords": [
+                        -75.98985,
+                        44.332625
+                  ]
+            },
+            {
+                  "name": "Collins Landing Wildlife Management Area",
+                  "text": "Das Collins Landing Wildlife Management Area ist ein Naturschutzgebiet in der Thousand-Islands-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975293,
+                        44.300961
+                  ]
+            },
+            {
+                  "name": "Rock Island Lighthouse State Park",
+                  "text": "Der Rock Island Lighthouse State Park in den Thousand Islands umfasst einen historischen Leuchtturm.",
+                  "category": "park",
+                  "coords": [
+                        -76.01671,
+                        44.280284
+                  ]
+            },
+            {
+                  "name": "Grass Point State Park",
+                  "text": "Der Grass Point State Park in den Thousand Islands ist ein State Park mit Picknick- und Erholungsmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        -75.995861,
+                        44.281829
+                  ]
+            },
+            {
+                  "name": "Thousand Islands Bridge",
+                  "text": "Die Thousand Islands Bridge verbindet die USA und Kanada über den St. Lawrence River.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.982691,
+                        44.302317
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "Das Butterfly House in den Thousand Islands ist ein Schmetterlingshaus mit exotischen Schmetterlingen.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.033465,
+                        44.305102
+                  ]
+            },
+            {
+                  "name": "Canoe-Picnic Point State Park",
+                  "text": "Der Canoe-Picnic Point State Park in den Thousand Islands ist ein State Park, der Kanu- und Picknickmöglichkeiten bietet.",
+                  "category": "park",
+                  "coords": [
+                        -76.074836,
+                        44.304317
+                  ]
+            },
+            {
+                  "name": "Wellesley Island State Park",
+                  "text": "Der Wellesley Island State Park in den Thousand Islands ist ein Naturschutzgebiet auf Wellesley Island.",
+                  "category": "natural",
+                  "coords": [
+                        -76.022514,
+                        44.31778
+                  ]
+            },
+            {
+                  "name": "Canoe Beach",
+                  "text": "Canoe Beach ist ein Strand in der Thousand-Islands-Region, der zum Kanufahren einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.097863,
+                        44.318332
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carnegie Bay",
+                  "text": "A Carnegie-öböl egy öböl a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902732,
+                        44.348107
+                  ]
+            },
+            {
+                  "name": "Sunken Rock Light",
+                  "text": "A Sunken Rock Light egy történelmi világítótorony, amely egy veszélyes sziklát jelez a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.915375,
+                        44.345765
+                  ]
+            },
+            {
+                  "name": "Uncle Sam boat tours",
+                  "text": "Uncle Sam hajótúrák hajókirándulásokat kínálnak a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.917512,
+                        44.338595
+                  ]
+            },
+            {
+                  "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
+                  "text": "A Rockport hajójárat hajókázásokat kínál a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.932694,
+                        44.378735
+                  ]
+            },
+            {
+                  "name": "1000 Islands Gananoque Boat Tour",
+                  "text": "A Gananoque hajótúra hajóutat kínál a Thousand Islands-en keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.004966,
+                        44.36445
+                  ]
+            },
+            {
+                  "name": "Parc national des Îles-du-Saint-Laurent",
+                  "text": "A Szent Lőrinc-szigetek Nemzeti Park egy természetvédelmi terület a Thousand Islands-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -76.003972,
+                        44.362343
+                  ]
+            },
+            {
+                  "name": "Eye Harbour",
+                  "text": "Az Eye Harbour egy kikötő a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.996845,
+                        44.348752
+                  ]
+            },
+            {
+                  "name": "Fiddlers Elbow",
+                  "text": "A Fiddlers Elbow egy öböl a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.995691,
+                        44.358286
+                  ]
+            },
+            {
+                  "name": "Potholes",
+                  "text": "A Potholes egy természetes látványosság kőlyukakkal a Thousand Islands-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.043492,
+                        44.296905
+                  ]
+            },
+            {
+                  "name": "Landons Bay Lookout",
+                  "text": "A Landons Bay Lookout a Thousand Islands területén egy kilátó, amely a bay és a környező természet látványát nyújtja.",
+                  "category": "natural",
+                  "coords": [
+                        -76.067754,
+                        44.355052
+                  ]
+            },
+            {
+                  "name": "Halsteads Bay",
+                  "text": "A Halsteads Bay egy öböl a Thousand Islands régióban, amely csendes vizeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.080989,
+                        44.350713
+                  ]
+            },
+            {
+                  "name": "Landons Bay",
+                  "text": "A Landons Bay egy természetvédelmi terület a Thousand Islands régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -76.070044,
+                        44.358262
+                  ]
+            },
+            {
+                  "name": "Murphy's Beach",
+                  "text": "A Murphy's Beach egy strand a Thousand Islands régióban.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.094477,
+                        44.319131
+                  ]
+            },
+            {
+                  "name": "Cranberry Creek Wildlife Management Area",
+                  "text": "A Cranberry Creek Wildlife Management Area egy természetvédelmi terület a Thousand Islands régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.883627,
+                        44.33074
+                  ]
+            },
+            {
+                  "name": "Keewaydin State Park",
+                  "text": "A Keewaydin State Park a Thousand Islands területén található, és népszerű a szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        -75.928714,
+                        44.321317
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence Episcopal Church",
+                  "text": "A Saint Lawrence Episcopal Church a Thousand Islands területén egy történelmi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -75.921157,
+                        44.336454
+                  ]
+            },
+            {
+                  "name": "Peristyle Archway",
+                  "text": "A Peristyle Archway a Thousand Islands területén egy díszes ív, amely az ókori építészetet idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.923441,
+                        44.343615
+                  ]
+            },
+            {
+                  "name": "Power House",
+                  "text": "A Power House a Thousand Islands területén egy történelmi épület, amely korábban energia előállítására szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.920989,
+                        44.345292
+                  ]
+            },
+            {
+                  "name": "Boldt Castle",
+                  "text": "A Boldt Castle a Heart Islanden, a Thousand Islands területén egy híres kastély, amely a 20. század elején épült.",
+                  "category": "museum",
+                  "coords": [
+                        -75.922492,
+                        44.344522
+                  ]
+            },
+            {
+                  "name": "Mary Island State Park",
+                  "text": "A Mary Island State Park a Thousand Islands területén egy állami park, amely több szigetből áll.",
+                  "category": "park",
+                  "coords": [
+                        -75.921456,
+                        44.36568
+                  ]
+            },
+            {
+                  "name": "1000 Islands Tower",
+                  "text": "A 1000 Islands Tower panorámakilátást nyújt a Thousand Islands régióra.",
+                  "category": "tower",
+                  "coords": [
+                        -75.978812,
+                        44.352538
+                  ]
+            },
+            {
+                  "name": "Dewolf Point State Park",
+                  "text": "A Dewolf Point State Park a Thousand Islands területén található egy állami park a Szent Lőrinc folyó partján.",
+                  "category": "park",
+                  "coords": [
+                        -75.98985,
+                        44.332625
+                  ]
+            },
+            {
+                  "name": "Collins Landing Wildlife Management Area",
+                  "text": "A Collins Landing Wildlife Management Area egy természetvédelmi terület a Thousand Islands régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975293,
+                        44.300961
+                  ]
+            },
+            {
+                  "name": "Rock Island Lighthouse State Park",
+                  "text": "A Rock Island Lighthouse State Park a Thousand Islands területén egy történelmi világítótornyot foglal magában.",
+                  "category": "park",
+                  "coords": [
+                        -76.01671,
+                        44.280284
+                  ]
+            },
+            {
+                  "name": "Grass Point State Park",
+                  "text": "A Grass Point State Park a Thousand Islands területén egy állami park piknikezési és szabadidős lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        -75.995861,
+                        44.281829
+                  ]
+            },
+            {
+                  "name": "Thousand Islands Bridge",
+                  "text": "A Thousand Islands híd összeköti az USA-t és Kanadát a Szent Lőrinc folyón keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.982691,
+                        44.302317
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "A Butterfly House a Thousand Islands területén egy pillangóház, ahol egzotikus pillangók láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.033465,
+                        44.305102
+                  ]
+            },
+            {
+                  "name": "Canoe-Picnic Point State Park",
+                  "text": "A Canoe-Picnic Point State Park a Thousand Islands területén egy állami park, amely kenuzási és piknikezési lehetőséget kínál.",
+                  "category": "park",
+                  "coords": [
+                        -76.074836,
+                        44.304317
+                  ]
+            },
+            {
+                  "name": "Wellesley Island State Park",
+                  "text": "A Wellesley Island State Park a Thousand Islands területén egy természetvédelmi terület Wellesley Islanden.",
+                  "category": "natural",
+                  "coords": [
+                        -76.022514,
+                        44.31778
+                  ]
+            },
+            {
+                  "name": "Canoe Beach",
+                  "text": "A Canoe Beach egy strand a Thousand Islands régióban, amely kenuzásra csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.097863,
+                        44.318332
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carnegie Bay",
+                  "text": "Golful Carnegie este un golf în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902732,
+                        44.348107
+                  ]
+            },
+            {
+                  "name": "Sunken Rock Light",
+                  "text": "Farul Sunken Rock este un far istoric care marchează o stâncă periculoasă în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.915375,
+                        44.345765
+                  ]
+            },
+            {
+                  "name": "Uncle Sam boat tours",
+                  "text": "Tururile cu barca Uncle Sam oferă plimbări cu barca în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.917512,
+                        44.338595
+                  ]
+            },
+            {
+                  "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
+                  "text": "Linia de bărci Rockport oferă croaziere în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.932694,
+                        44.378735
+                  ]
+            },
+            {
+                  "name": "1000 Islands Gananoque Boat Tour",
+                  "text": "Turul cu barca Gananoque oferă o plimbare cu barca prin Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.004966,
+                        44.36445
+                  ]
+            },
+            {
+                  "name": "Parc national des Îles-du-Saint-Laurent",
+                  "text": "Parcul Național al Insulelor Sfântul Laurențiu este o rezervație naturală în Insulele Thousand.",
+                  "category": "natural",
+                  "coords": [
+                        -76.003972,
+                        44.362343
+                  ]
+            },
+            {
+                  "name": "Eye Harbour",
+                  "text": "Portul Eye este un port în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.996845,
+                        44.348752
+                  ]
+            },
+            {
+                  "name": "Fiddlers Elbow",
+                  "text": "Fiddlers Elbow este un golf în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.995691,
+                        44.358286
+                  ]
+            },
+            {
+                  "name": "Potholes",
+                  "text": "Potholes sunt o atracție naturală cu găuri în stâncă în Insulele Thousand.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.043492,
+                        44.296905
+                  ]
+            },
+            {
+                  "name": "Landons Bay Lookout",
+                  "text": "Landons Bay Lookout din Thousand Islands este un punct de belvedere care oferă o vedere asupra golfului și a naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -76.067754,
+                        44.355052
+                  ]
+            },
+            {
+                  "name": "Halsteads Bay",
+                  "text": "Halsteads Bay este un golf din regiunea Thousand Islands, cunoscut pentru apele sale liniștite.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.080989,
+                        44.350713
+                  ]
+            },
+            {
+                  "name": "Landons Bay",
+                  "text": "Landons Bay este o rezervație naturală în regiunea Thousand Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -76.070044,
+                        44.358262
+                  ]
+            },
+            {
+                  "name": "Murphy's Beach",
+                  "text": "Murphy's Beach este o plajă în regiunea Thousand Islands.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.094477,
+                        44.319131
+                  ]
+            },
+            {
+                  "name": "Cranberry Creek Wildlife Management Area",
+                  "text": "Cranberry Creek Wildlife Management Area este o rezervație naturală în regiunea Thousand Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -75.883627,
+                        44.33074
+                  ]
+            },
+            {
+                  "name": "Keewaydin State Park",
+                  "text": "Parcul de stat Keewaydin se află în Thousand Islands și este un loc popular pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        -75.928714,
+                        44.321317
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence Episcopal Church",
+                  "text": "Biserica Episcopală Saint Lawrence din Thousand Islands este un lăcaș de cult istoric.",
+                  "category": "religious",
+                  "coords": [
+                        -75.921157,
+                        44.336454
+                  ]
+            },
+            {
+                  "name": "Peristyle Archway",
+                  "text": "Peristyle Archway din Thousand Islands este un arc decorativ care amintește de arhitectura antică.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.923441,
+                        44.343615
+                  ]
+            },
+            {
+                  "name": "Power House",
+                  "text": "Power House din Thousand Islands este o clădire istorică care anterior servea pentru producerea de energie.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.920989,
+                        44.345292
+                  ]
+            },
+            {
+                  "name": "Boldt Castle",
+                  "text": "Boldt Castle de pe Insula Heart din Thousand Islands este un castel celebru construit la începutul secolului al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -75.922492,
+                        44.344522
+                  ]
+            },
+            {
+                  "name": "Mary Island State Park",
+                  "text": "Parcul de stat Mary Island din Thousand Islands este un parc de stat format din mai multe insule.",
+                  "category": "park",
+                  "coords": [
+                        -75.921456,
+                        44.36568
+                  ]
+            },
+            {
+                  "name": "1000 Islands Tower",
+                  "text": "Turnul 1000 Islands oferă o vedere panoramică asupra regiunii Thousand Islands.",
+                  "category": "tower",
+                  "coords": [
+                        -75.978812,
+                        44.352538
+                  ]
+            },
+            {
+                  "name": "Dewolf Point State Park",
+                  "text": "Parcul de stat Dewolf Point se află în Thousand Islands, un parc de stat pe malul râului St. Lawrence.",
+                  "category": "park",
+                  "coords": [
+                        -75.98985,
+                        44.332625
+                  ]
+            },
+            {
+                  "name": "Collins Landing Wildlife Management Area",
+                  "text": "Collins Landing Wildlife Management Area este o rezervație naturală în regiunea Thousand Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975293,
+                        44.300961
+                  ]
+            },
+            {
+                  "name": "Rock Island Lighthouse State Park",
+                  "text": "Parcul de stat Rock Island Lighthouse din Thousand Islands include un far istoric.",
+                  "category": "park",
+                  "coords": [
+                        -76.01671,
+                        44.280284
+                  ]
+            },
+            {
+                  "name": "Grass Point State Park",
+                  "text": "Parcul de stat Grass Point din Thousand Islands este un parc de stat cu facilități de picnic și recreere.",
+                  "category": "park",
+                  "coords": [
+                        -75.995861,
+                        44.281829
+                  ]
+            },
+            {
+                  "name": "Thousand Islands Bridge",
+                  "text": "Podul Thousand Islands leagă SUA și Canada peste râul St. Lawrence.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.982691,
+                        44.302317
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "Butterfly House din Thousand Islands este o casă a fluturilor cu fluturi exotici.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.033465,
+                        44.305102
+                  ]
+            },
+            {
+                  "name": "Canoe-Picnic Point State Park",
+                  "text": "Parcul de stat Canoe-Picnic Point din Thousand Islands este un parc de stat care oferă posibilități de canoe și picnic.",
+                  "category": "park",
+                  "coords": [
+                        -76.074836,
+                        44.304317
+                  ]
+            },
+            {
+                  "name": "Wellesley Island State Park",
+                  "text": "Parcul de stat Wellesley Island din Thousand Islands este o rezervație naturală pe insula Wellesley.",
+                  "category": "natural",
+                  "coords": [
+                        -76.022514,
+                        44.31778
+                  ]
+            },
+            {
+                  "name": "Canoe Beach",
+                  "text": "Canoe Beach este o plajă în regiunea Thousand Islands, care invită la canoe.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.097863,
+                        44.318332
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carnegie Bay",
+                  "text": "Carnegie Bay is a bay in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.902732,
+                        44.348107
+                  ]
+            },
+            {
+                  "name": "Sunken Rock Light",
+                  "text": "Sunken Rock Light is a historic lighthouse marking a hazardous rock in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.915375,
+                        44.345765
+                  ]
+            },
+            {
+                  "name": "Uncle Sam boat tours",
+                  "text": "Uncle Sam boat tours offer boat rides in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.917512,
+                        44.338595
+                  ]
+            },
+            {
+                  "name": "1000 Islands Cruises Rockport: Rockport Boat Line",
+                  "text": "Rockport Boat Line offers cruises in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.932694,
+                        44.378735
+                  ]
+            },
+            {
+                  "name": "1000 Islands Gananoque Boat Tour",
+                  "text": "Gananoque Boat Tour offers a boat ride through the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.004966,
+                        44.36445
+                  ]
+            },
+            {
+                  "name": "Parc national des Îles-du-Saint-Laurent",
+                  "text": "Parc national des Îles-du-Saint-Laurent is a nature reserve in the Thousand Islands.",
+                  "category": "natural",
+                  "coords": [
+                        -76.003972,
+                        44.362343
+                  ]
+            },
+            {
+                  "name": "Eye Harbour",
+                  "text": "Eye Harbour is a harbour in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.996845,
+                        44.348752
+                  ]
+            },
+            {
+                  "name": "Fiddlers Elbow",
+                  "text": "Fiddlers Elbow is a bay in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.995691,
+                        44.358286
+                  ]
+            },
+            {
+                  "name": "Potholes",
+                  "text": "Potholes is a natural attraction with rock holes in the Thousand Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.043492,
+                        44.296905
+                  ]
+            },
+            {
+                  "name": "Landons Bay Lookout",
+                  "text": "Landons Bay Lookout in the Thousand Islands is a viewpoint overlooking the bay and surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        -76.067754,
+                        44.355052
+                  ]
+            },
+            {
+                  "name": "Halsteads Bay",
+                  "text": "Halsteads Bay is a bay in the Thousand Islands region known for its calm waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.080989,
+                        44.350713
+                  ]
+            },
+            {
+                  "name": "Landons Bay",
+                  "text": "Landons Bay is a nature reserve in the Thousand Islands region.",
+                  "category": "natural",
+                  "coords": [
+                        -76.070044,
+                        44.358262
+                  ]
+            },
+            {
+                  "name": "Murphy's Beach",
+                  "text": "Murphy's Beach is a beach in the Thousand Islands region.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.094477,
+                        44.319131
+                  ]
+            },
+            {
+                  "name": "Cranberry Creek Wildlife Management Area",
+                  "text": "Cranberry Creek Wildlife Management Area is a nature reserve in the Thousand Islands region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.883627,
+                        44.33074
+                  ]
+            },
+            {
+                  "name": "Keewaydin State Park",
+                  "text": "Keewaydin State Park is located in the Thousand Islands and is a popular spot for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        -75.928714,
+                        44.321317
+                  ]
+            },
+            {
+                  "name": "Saint Lawrence Episcopal Church",
+                  "text": "Saint Lawrence Episcopal Church in the Thousand Islands is a historic place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -75.921157,
+                        44.336454
+                  ]
+            },
+            {
+                  "name": "Peristyle Archway",
+                  "text": "The Peristyle Archway in the Thousand Islands is a decorative arch reminiscent of ancient architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.923441,
+                        44.343615
+                  ]
+            },
+            {
+                  "name": "Power House",
+                  "text": "The Power House in the Thousand Islands is a historic building that once provided power.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.920989,
+                        44.345292
+                  ]
+            },
+            {
+                  "name": "Boldt Castle",
+                  "text": "Boldt Castle on Heart Island in the Thousand Islands is a famous castle built in the early 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        -75.922492,
+                        44.344522
+                  ]
+            },
+            {
+                  "name": "Mary Island State Park",
+                  "text": "Mary Island State Park in the Thousand Islands is a state park comprising several islands.",
+                  "category": "park",
+                  "coords": [
+                        -75.921456,
+                        44.36568
+                  ]
+            },
+            {
+                  "name": "1000 Islands Tower",
+                  "text": "The 1000 Islands Tower offers panoramic views of the Thousand Islands region.",
+                  "category": "tower",
+                  "coords": [
+                        -75.978812,
+                        44.352538
+                  ]
+            },
+            {
+                  "name": "Dewolf Point State Park",
+                  "text": "Dewolf Point State Park is located in the Thousand Islands, a state park on the St. Lawrence River.",
+                  "category": "park",
+                  "coords": [
+                        -75.98985,
+                        44.332625
+                  ]
+            },
+            {
+                  "name": "Collins Landing Wildlife Management Area",
+                  "text": "Collins Landing Wildlife Management Area is a nature reserve in the Thousand Islands region.",
+                  "category": "natural",
+                  "coords": [
+                        -75.975293,
+                        44.300961
+                  ]
+            },
+            {
+                  "name": "Rock Island Lighthouse State Park",
+                  "text": "Rock Island Lighthouse State Park in the Thousand Islands includes a historic lighthouse.",
+                  "category": "park",
+                  "coords": [
+                        -76.01671,
+                        44.280284
+                  ]
+            },
+            {
+                  "name": "Grass Point State Park",
+                  "text": "Grass Point State Park in the Thousand Islands is a state park with picnic and recreation facilities.",
+                  "category": "park",
+                  "coords": [
+                        -75.995861,
+                        44.281829
+                  ]
+            },
+            {
+                  "name": "Thousand Islands Bridge",
+                  "text": "The Thousand Islands Bridge connects the USA and Canada across the St. Lawrence River.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.982691,
+                        44.302317
+                  ]
+            },
+            {
+                  "name": "Butterfly House",
+                  "text": "Butterfly House in the Thousand Islands is a butterfly house featuring exotic butterflies.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.033465,
+                        44.305102
+                  ]
+            },
+            {
+                  "name": "Canoe-Picnic Point State Park",
+                  "text": "Canoe-Picnic Point State Park in the Thousand Islands is a state park offering canoeing and picnicking.",
+                  "category": "park",
+                  "coords": [
+                        -76.074836,
+                        44.304317
+                  ]
+            },
+            {
+                  "name": "Wellesley Island State Park",
+                  "text": "Wellesley Island State Park in the Thousand Islands is a nature reserve on Wellesley Island.",
+                  "category": "natural",
+                  "coords": [
+                        -76.022514,
+                        44.31778
+                  ]
+            },
+            {
+                  "name": "Canoe Beach",
+                  "text": "Canoe Beach is a beach in the Thousand Islands region inviting canoeing.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.097863,
+                        44.318332
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-ON",
     coords: [-76.0, 44.3333],
@@ -46,7 +1135,1384 @@ export const poiExtraCanadaRefill: POI[] = [
     },
   },
   {
-    id: "montreal-botanical-garden-refill",
+    id: "montreal-botanical-garden-refill", "sights": {
+      "de": [
+            {
+                  "name": "Musée de l'imprimerie du Québec",
+                  "text": "Ein Museum, das die Geschichte des Druckens und der Typografie in Quebec zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.639979,
+                        45.551585
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre Claver",
+                  "text": "Eine dem heiligen Petrus Claver gewidmete katholische Kirche in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.576956,
+                        45.536895
+                  ]
+            },
+            {
+                  "name": "Saint-Arsène",
+                  "text": "Eine dem heiligen Arsenius gewidmete katholische Kirche in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.609323,
+                        45.54093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Berchmans",
+                  "text": "Eine dem heiligen Johannes Berchmans gewidmete katholische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591203,
+                        45.54185
+                  ]
+            },
+            {
+                  "name": "Pont Pie-IX",
+                  "text": "Eine Brücke über die Rivière des Prairies, die Montreal und Laval verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.646708,
+                        45.599076
+                  ]
+            },
+            {
+                  "name": "Caverne de Saint-Léonard",
+                  "text": "Eine natürliche Kalksteinhöhle im Stadtteil Saint-Léonard von Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -73.60795,
+                        45.588244
+                  ]
+            },
+            {
+                  "name": "Parc-nature du Ruisseau-De-Montigny",
+                  "text": "Ein Naturpark, der den Bach Ruisseau De Montigny und seine Umgebung bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -73.607177,
+                        45.626142
+                  ]
+            },
+            {
+                  "name": "Parc Maisonneuve",
+                  "text": "Ein großer Park in Montreal, Heimat des Olympiastadions und des Biodôme.",
+                  "category": "park",
+                  "coords": [
+                        -73.56184,
+                        45.564963
+                  ]
+            },
+            {
+                  "name": "Parc J. J. Gagnier",
+                  "text": "Ein nach dem Musiker J. J. Gagnier benannter Stadtteilpark.",
+                  "category": "park",
+                  "coords": [
+                        -73.649008,
+                        45.580267
+                  ]
+            },
+            {
+                  "name": "Parc-nature de l'Île-de-la-Visitation",
+                  "text": "Ein Naturpark auf der Île-de-la-Visitation mit Wanderwegen und historischen Gebäuden.",
+                  "category": "natural",
+                  "coords": [
+                        -73.659116,
+                        45.578873
+                  ]
+            },
+            {
+                  "name": "Insectarium de Montréal",
+                  "text": "Ein Museum mit einer großen Sammlung lebender und konservierter Insekten aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55804,
+                        45.561009
+                  ]
+            },
+            {
+                  "name": "La Salle Désilets",
+                  "text": "Ein Veranstaltungsort für Aufführungen im Stadtteil Ahuntsic von Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.606023,
+                        45.617884
+                  ]
+            },
+            {
+                  "name": "La TOHU",
+                  "text": "Ein Kulturzentrum, das der Zirkuskunst gewidmet ist, Heimat des ersten festen Spielorts des Cirque du Soleil.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.616107,
+                        45.558552
+                  ]
+            },
+            {
+                  "name": "Cathédrale orthodoxe ukrainienne Sainte-Sophie",
+                  "text": "Eine ukrainisch-orthodoxe Kathedrale, der heiligen Sophia gewidmet, in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.582557,
+                        45.554356
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Vianney",
+                  "text": "Eine dem heiligen Johannes Maria Vianney gewidmete katholische Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -73.577513,
+                        45.564532
+                  ]
+            },
+            {
+                  "name": "Sainte-Bernadette-Soubirous",
+                  "text": "Sainte-Bernadette-Soubirous ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590394,
+                        45.56025
+                  ]
+            },
+            {
+                  "name": "St. George Antiochian Orthodox",
+                  "text": "St. George Antiochian Orthodox ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.614212,
+                        45.539918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ambroise",
+                  "text": "Die Église Saint-Ambroise ist ein Gotteshaus im Botanischen Garten von Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.600912,
+                        45.539171
+                  ]
+            },
+            {
+                  "name": "Jardin alpin",
+                  "text": "Der Alpine Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.559967,
+                        45.55826
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Chine",
+                  "text": "Der Chinese Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.558782,
+                        45.55926
+                  ]
+            },
+            {
+                  "name": "Jardin des Premières-Nations",
+                  "text": "Der First Nations Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561239,
+                        45.559619
+                  ]
+            },
+            {
+                  "name": "Le Roseraie",
+                  "text": "Der Rose Garden ist eine Attraktion im Botanischen Garten von Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.557613,
+                        45.559797
+                  ]
+            },
+            {
+                  "name": "Parc George-Vernot",
+                  "text": "Der Parc George-Vernot ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.615231,
+                        45.568514
+                  ]
+            },
+            {
+                  "name": "Place Pierre-Falardeau",
+                  "text": "Die Place Pierre-Falardeau ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.575259,
+                        45.543047
+                  ]
+            },
+            {
+                  "name": "Parc du Pélican",
+                  "text": "Der Parc du Pélican ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.57418,
+                        45.544004
+                  ]
+            },
+            {
+                  "name": "Parc Micheline-Coulombe-Saint-Marcoux",
+                  "text": "Der Parc Micheline-Coulombe-Saint-Marcoux ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.56577,
+                        45.545013
+                  ]
+            },
+            {
+                  "name": "Parc des Ouvrières",
+                  "text": "Der Parc des Ouvrières ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.564404,
+                        45.547246
+                  ]
+            },
+            {
+                  "name": "Parc J.-Arthur-Champagne",
+                  "text": "Der Parc J.-Arthur-Champagne ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.561065,
+                        45.551995
+                  ]
+            },
+            {
+                  "name": "Parc André-Lavallée",
+                  "text": "Der Parc André-Lavallée ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.568389,
+                        45.552022
+                  ]
+            },
+            {
+                  "name": "Parc Beaubien",
+                  "text": "Der Parc Beaubien ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.590027,
+                        45.553576
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Bernadette",
+                  "text": "Der Parc Sainte-Bernadette ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.588051,
+                        45.561329
+                  ]
+            },
+            {
+                  "name": "Parc Étienne-Desmarteau",
+                  "text": "Der Parc Étienne-Desmarteau ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.580272,
+                        45.559199
+                  ]
+            },
+            {
+                  "name": "Parc de la Louisiane",
+                  "text": "Der Parc de la Louisiane ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.572306,
+                        45.568327
+                  ]
+            },
+            {
+                  "name": "Parc Ladauversière",
+                  "text": "Der Parc Ladauversière ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.583128,
+                        45.581514
+                  ]
+            },
+            {
+                  "name": "Parc Louis-Riel",
+                  "text": "Der Parc Louis-Riel ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.554535,
+                        45.581551
+                  ]
+            },
+            {
+                  "name": "Parc Cité-Jardin",
+                  "text": "Der Parc Cité-Jardin ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.561943,
+                        45.570977
+                  ]
+            },
+            {
+                  "name": "Parc Léon-Provancher",
+                  "text": "Der Parc Léon-Provancher ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.569386,
+                        45.559987
+                  ]
+            },
+            {
+                  "name": "Parc André-Laurendeau",
+                  "text": "Der Parc André-Laurendeau ist ein Park im Botanischen Garten von Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.570203,
+                        45.604449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de l'imprimerie du Québec",
+                  "text": "Múzeum, amely bemutatja a nyomtatás és tipográfia történetét Quebecben.",
+                  "category": "museum",
+                  "coords": [
+                        -73.639979,
+                        45.551585
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre Claver",
+                  "text": "Szent Péter Clavernek szentelt katolikus templom Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.576956,
+                        45.536895
+                  ]
+            },
+            {
+                  "name": "Saint-Arsène",
+                  "text": "Szent Arzénnek szentelt katolikus templom Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.609323,
+                        45.54093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Berchmans",
+                  "text": "Szent János Berchmans-nak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591203,
+                        45.54185
+                  ]
+            },
+            {
+                  "name": "Pont Pie-IX",
+                  "text": "Híd a Rivière des Prairies felett, amely Montrealt és Lavalt köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.646708,
+                        45.599076
+                  ]
+            },
+            {
+                  "name": "Caverne de Saint-Léonard",
+                  "text": "Természetes mészkőbarlang Montreal Saint-Léonard negyedében.",
+                  "category": "natural",
+                  "coords": [
+                        -73.60795,
+                        45.588244
+                  ]
+            },
+            {
+                  "name": "Parc-nature du Ruisseau-De-Montigny",
+                  "text": "Természetvédelmi park, amely megőrzi a Ruisseau De Montigny patakot és környékét.",
+                  "category": "natural",
+                  "coords": [
+                        -73.607177,
+                        45.626142
+                  ]
+            },
+            {
+                  "name": "Parc Maisonneuve",
+                  "text": "Nagy park Montrealban, az Olimpiai Stadion és a Biodôme otthona.",
+                  "category": "park",
+                  "coords": [
+                        -73.56184,
+                        45.564963
+                  ]
+            },
+            {
+                  "name": "Parc J. J. Gagnier",
+                  "text": "J. J. Gagnier zenészről elnevezett városrészi park.",
+                  "category": "park",
+                  "coords": [
+                        -73.649008,
+                        45.580267
+                  ]
+            },
+            {
+                  "name": "Parc-nature de l'Île-de-la-Visitation",
+                  "text": "Természetvédelmi park a Île-de-la-Visitation szigeten, túraösvényekkel és történelmi épületekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -73.659116,
+                        45.578873
+                  ]
+            },
+            {
+                  "name": "Insectarium de Montréal",
+                  "text": "Múzeum, amely nagy gyűjteményt mutat be élő és konzervált rovarokból a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55804,
+                        45.561009
+                  ]
+            },
+            {
+                  "name": "La Salle Désilets",
+                  "text": "Előadások helyszíne Montreal Ahuntsic negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.606023,
+                        45.617884
+                  ]
+            },
+            {
+                  "name": "La TOHU",
+                  "text": "A cirkuszi művészeteknek szentelt kulturális központ, a Cirque du Soleil első állandó helyszínének otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.616107,
+                        45.558552
+                  ]
+            },
+            {
+                  "name": "Cathédrale orthodoxe ukrainienne Sainte-Sophie",
+                  "text": "Szent Bölcsességnek szentelt ukrán ortodox székesegyház Montrealban.",
+                  "category": "religious",
+                  "coords": [
+                        -73.582557,
+                        45.554356
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Vianney",
+                  "text": "Szent János Mária Vianney-nek szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        -73.577513,
+                        45.564532
+                  ]
+            },
+            {
+                  "name": "Sainte-Bernadette-Soubirous",
+                  "text": "A Sainte-Bernadette-Soubirous egy istentiszteleti hely a montréali botanikus kertben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590394,
+                        45.56025
+                  ]
+            },
+            {
+                  "name": "St. George Antiochian Orthodox",
+                  "text": "A St. George Antiochian Orthodox egy istentiszteleti hely a montréali botanikus kertben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.614212,
+                        45.539918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ambroise",
+                  "text": "Az Église Saint-Ambroise egy istentiszteleti hely a montréali botanikus kertben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.600912,
+                        45.539171
+                  ]
+            },
+            {
+                  "name": "Jardin alpin",
+                  "text": "Az Alpine Garden egy látványosság a montréali botanikus kertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.559967,
+                        45.55826
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Chine",
+                  "text": "A Chinese Garden egy látványosság a montréali botanikus kertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.558782,
+                        45.55926
+                  ]
+            },
+            {
+                  "name": "Jardin des Premières-Nations",
+                  "text": "A First Nations Garden egy látványosság a montréali botanikus kertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561239,
+                        45.559619
+                  ]
+            },
+            {
+                  "name": "Le Roseraie",
+                  "text": "A Rose Garden egy látványosság a montréali botanikus kertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.557613,
+                        45.559797
+                  ]
+            },
+            {
+                  "name": "Parc George-Vernot",
+                  "text": "A Parc George-Vernot egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.615231,
+                        45.568514
+                  ]
+            },
+            {
+                  "name": "Place Pierre-Falardeau",
+                  "text": "A Place Pierre-Falardeau egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.575259,
+                        45.543047
+                  ]
+            },
+            {
+                  "name": "Parc du Pélican",
+                  "text": "A Parc du Pélican egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.57418,
+                        45.544004
+                  ]
+            },
+            {
+                  "name": "Parc Micheline-Coulombe-Saint-Marcoux",
+                  "text": "A Parc Micheline-Coulombe-Saint-Marcoux egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.56577,
+                        45.545013
+                  ]
+            },
+            {
+                  "name": "Parc des Ouvrières",
+                  "text": "A Parc des Ouvrières egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.564404,
+                        45.547246
+                  ]
+            },
+            {
+                  "name": "Parc J.-Arthur-Champagne",
+                  "text": "A Parc J.-Arthur-Champagne egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.561065,
+                        45.551995
+                  ]
+            },
+            {
+                  "name": "Parc André-Lavallée",
+                  "text": "A Parc André-Lavallée egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.568389,
+                        45.552022
+                  ]
+            },
+            {
+                  "name": "Parc Beaubien",
+                  "text": "A Parc Beaubien egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.590027,
+                        45.553576
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Bernadette",
+                  "text": "A Parc Sainte-Bernadette egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.588051,
+                        45.561329
+                  ]
+            },
+            {
+                  "name": "Parc Étienne-Desmarteau",
+                  "text": "A Parc Étienne-Desmarteau egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.580272,
+                        45.559199
+                  ]
+            },
+            {
+                  "name": "Parc de la Louisiane",
+                  "text": "A Parc de la Louisiane egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.572306,
+                        45.568327
+                  ]
+            },
+            {
+                  "name": "Parc Ladauversière",
+                  "text": "A Parc Ladauversière egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.583128,
+                        45.581514
+                  ]
+            },
+            {
+                  "name": "Parc Louis-Riel",
+                  "text": "A Parc Louis-Riel egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.554535,
+                        45.581551
+                  ]
+            },
+            {
+                  "name": "Parc Cité-Jardin",
+                  "text": "A Parc Cité-Jardin egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.561943,
+                        45.570977
+                  ]
+            },
+            {
+                  "name": "Parc Léon-Provancher",
+                  "text": "A Parc Léon-Provancher egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.569386,
+                        45.559987
+                  ]
+            },
+            {
+                  "name": "Parc André-Laurendeau",
+                  "text": "A Parc André-Laurendeau egy park a montréali botanikus kertben.",
+                  "category": "park",
+                  "coords": [
+                        -73.570203,
+                        45.604449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de l'imprimerie du Québec",
+                  "text": "Un muzeu care prezintă istoria tiparului și a tipografiei în Quebec.",
+                  "category": "museum",
+                  "coords": [
+                        -73.639979,
+                        45.551585
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre Claver",
+                  "text": "O biserică catolică dedicată Sfântului Petru Claver, situată în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.576956,
+                        45.536895
+                  ]
+            },
+            {
+                  "name": "Saint-Arsène",
+                  "text": "O biserică catolică dedicată Sfântului Arsenie, în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.609323,
+                        45.54093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Berchmans",
+                  "text": "O biserică catolică dedicată Sfântului Ioan Berchmans.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591203,
+                        45.54185
+                  ]
+            },
+            {
+                  "name": "Pont Pie-IX",
+                  "text": "Un pod peste Rivière des Prairies, care leagă Montrealul de Laval.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.646708,
+                        45.599076
+                  ]
+            },
+            {
+                  "name": "Caverne de Saint-Léonard",
+                  "text": "O peșteră naturală de calcar situată în cartierul Saint-Léonard din Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -73.60795,
+                        45.588244
+                  ]
+            },
+            {
+                  "name": "Parc-nature du Ruisseau-De-Montigny",
+                  "text": "Un parc natural care conservă pârâul Ruisseau De Montigny și împrejurimile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -73.607177,
+                        45.626142
+                  ]
+            },
+            {
+                  "name": "Parc Maisonneuve",
+                  "text": "Un parc mare din Montreal, gazdă a Stadionului Olimpic și a Biodôme-ului.",
+                  "category": "park",
+                  "coords": [
+                        -73.56184,
+                        45.564963
+                  ]
+            },
+            {
+                  "name": "Parc J. J. Gagnier",
+                  "text": "Un parc de cartier numit după muzicianul J. J. Gagnier.",
+                  "category": "park",
+                  "coords": [
+                        -73.649008,
+                        45.580267
+                  ]
+            },
+            {
+                  "name": "Parc-nature de l'Île-de-la-Visitation",
+                  "text": "Un parc natural pe Insula Vizitației, cu trasee și clădiri istorice.",
+                  "category": "natural",
+                  "coords": [
+                        -73.659116,
+                        45.578873
+                  ]
+            },
+            {
+                  "name": "Insectarium de Montréal",
+                  "text": "Un muzeu care deține o vastă colecție de insecte vii și conservate din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55804,
+                        45.561009
+                  ]
+            },
+            {
+                  "name": "La Salle Désilets",
+                  "text": "O locație de spectacole situată în cartierul Ahuntsic din Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.606023,
+                        45.617884
+                  ]
+            },
+            {
+                  "name": "La TOHU",
+                  "text": "Un centru cultural dedicat artelor circului, gazda primului sediu permanent al Cirque du Soleil.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.616107,
+                        45.558552
+                  ]
+            },
+            {
+                  "name": "Cathédrale orthodoxe ukrainienne Sainte-Sophie",
+                  "text": "O catedrală ortodoxă ucraineană dedicată Sfintei Sofia, situată în Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.582557,
+                        45.554356
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Vianney",
+                  "text": "O biserică catolică dedicată Sfântului Ioan Maria Vianney.",
+                  "category": "religious",
+                  "coords": [
+                        -73.577513,
+                        45.564532
+                  ]
+            },
+            {
+                  "name": "Sainte-Bernadette-Soubirous",
+                  "text": "Sainte-Bernadette-Soubirous este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590394,
+                        45.56025
+                  ]
+            },
+            {
+                  "name": "St. George Antiochian Orthodox",
+                  "text": "St. George Antiochian Orthodox este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.614212,
+                        45.539918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ambroise",
+                  "text": "Église Saint-Ambroise este un lăcaș de cult în Grădina Botanică din Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.600912,
+                        45.539171
+                  ]
+            },
+            {
+                  "name": "Jardin alpin",
+                  "text": "Alpine Garden este o atracție în Grădina Botanică din Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.559967,
+                        45.55826
+                  ]
+            },
+            {
+                  "name": "Le Jardin de Chine",
+                  "text": "Chinese Garden este o atracție în Grădina Botanică din Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.558782,
+                        45.55926
+                  ]
+            },
+            {
+                  "name": "Jardin des Premières-Nations",
+                  "text": "First Nations Garden este o atracție în Grădina Botanică din Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561239,
+                        45.559619
+                  ]
+            },
+            {
+                  "name": "Le Roseraie",
+                  "text": "Rose Garden este o atracție în Grădina Botanică din Montreal.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.557613,
+                        45.559797
+                  ]
+            },
+            {
+                  "name": "Parc George-Vernot",
+                  "text": "Parc George-Vernot este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.615231,
+                        45.568514
+                  ]
+            },
+            {
+                  "name": "Place Pierre-Falardeau",
+                  "text": "Place Pierre-Falardeau este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.575259,
+                        45.543047
+                  ]
+            },
+            {
+                  "name": "Parc du Pélican",
+                  "text": "Parc du Pélican este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.57418,
+                        45.544004
+                  ]
+            },
+            {
+                  "name": "Parc Micheline-Coulombe-Saint-Marcoux",
+                  "text": "Parc Micheline-Coulombe-Saint-Marcoux este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.56577,
+                        45.545013
+                  ]
+            },
+            {
+                  "name": "Parc des Ouvrières",
+                  "text": "Parc des Ouvrières este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.564404,
+                        45.547246
+                  ]
+            },
+            {
+                  "name": "Parc J.-Arthur-Champagne",
+                  "text": "Parc J.-Arthur-Champagne este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.561065,
+                        45.551995
+                  ]
+            },
+            {
+                  "name": "Parc André-Lavallée",
+                  "text": "Parc André-Lavallée este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.568389,
+                        45.552022
+                  ]
+            },
+            {
+                  "name": "Parc Beaubien",
+                  "text": "Parc Beaubien este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.590027,
+                        45.553576
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Bernadette",
+                  "text": "Parc Sainte-Bernadette este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.588051,
+                        45.561329
+                  ]
+            },
+            {
+                  "name": "Parc Étienne-Desmarteau",
+                  "text": "Parc Étienne-Desmarteau este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.580272,
+                        45.559199
+                  ]
+            },
+            {
+                  "name": "Parc de la Louisiane",
+                  "text": "Parc de la Louisiane este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.572306,
+                        45.568327
+                  ]
+            },
+            {
+                  "name": "Parc Ladauversière",
+                  "text": "Parc Ladauversière este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.583128,
+                        45.581514
+                  ]
+            },
+            {
+                  "name": "Parc Louis-Riel",
+                  "text": "Parc Louis-Riel este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.554535,
+                        45.581551
+                  ]
+            },
+            {
+                  "name": "Parc Cité-Jardin",
+                  "text": "Parc Cité-Jardin este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.561943,
+                        45.570977
+                  ]
+            },
+            {
+                  "name": "Parc Léon-Provancher",
+                  "text": "Parc Léon-Provancher este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.569386,
+                        45.559987
+                  ]
+            },
+            {
+                  "name": "Parc André-Laurendeau",
+                  "text": "Parc André-Laurendeau este un parc în Grădina Botanică din Montreal.",
+                  "category": "park",
+                  "coords": [
+                        -73.570203,
+                        45.604449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de l'imprimerie du Québec",
+                  "text": "A museum showcasing the history of printing and typography in Quebec.",
+                  "category": "museum",
+                  "coords": [
+                        -73.639979,
+                        45.551585
+                  ]
+            },
+            {
+                  "name": "Église Saint-Pierre Claver",
+                  "text": "A Catholic church dedicated to Saint Peter Claver, located in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.576956,
+                        45.536895
+                  ]
+            },
+            {
+                  "name": "Saint-Arsène",
+                  "text": "A Catholic church dedicated to Saint Arsène in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.609323,
+                        45.54093
+                  ]
+            },
+            {
+                  "name": "Église Saint-Jean-Berchmans",
+                  "text": "A Catholic church dedicated to Saint John Berchmans.",
+                  "category": "religious",
+                  "coords": [
+                        -73.591203,
+                        45.54185
+                  ]
+            },
+            {
+                  "name": "Pont Pie-IX",
+                  "text": "A bridge crossing the Rivière des Prairies, linking Montreal and Laval.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.646708,
+                        45.599076
+                  ]
+            },
+            {
+                  "name": "Caverne de Saint-Léonard",
+                  "text": "A natural limestone cave located in the Saint-Léonard district of Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -73.60795,
+                        45.588244
+                  ]
+            },
+            {
+                  "name": "Parc-nature du Ruisseau-De-Montigny",
+                  "text": "A nature park preserving the Ruisseau De Montigny stream and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -73.607177,
+                        45.626142
+                  ]
+            },
+            {
+                  "name": "Maisonneuve Park",
+                  "text": "A large park in Montreal, home to the Olympic Stadium and the Montreal Biodôme.",
+                  "category": "park",
+                  "coords": [
+                        -73.56184,
+                        45.564963
+                  ]
+            },
+            {
+                  "name": "Parc J. J. Gagnier",
+                  "text": "A neighborhood park named after musician J. J. Gagnier.",
+                  "category": "park",
+                  "coords": [
+                        -73.649008,
+                        45.580267
+                  ]
+            },
+            {
+                  "name": "Parc-nature de l'Île-de-la-Visitation",
+                  "text": "A nature park on Île-de-la-Visitation, featuring trails and heritage buildings.",
+                  "category": "natural",
+                  "coords": [
+                        -73.659116,
+                        45.578873
+                  ]
+            },
+            {
+                  "name": "Montreal Insectarium",
+                  "text": "A museum featuring a vast collection of live and preserved insects from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        -73.55804,
+                        45.561009
+                  ]
+            },
+            {
+                  "name": "La Salle Désilets",
+                  "text": "A performance venue located in the Ahuntsic district of Montreal.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.606023,
+                        45.617884
+                  ]
+            },
+            {
+                  "name": "TOHU",
+                  "text": "A cultural venue dedicated to circus arts, home to the Cirque du Soleil's first permanent venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.616107,
+                        45.558552
+                  ]
+            },
+            {
+                  "name": "Cathédrale orthodoxe ukrainienne Sainte-Sophie",
+                  "text": "A Ukrainian Orthodox cathedral dedicated to Saint Sophia, located in Montreal.",
+                  "category": "religious",
+                  "coords": [
+                        -73.582557,
+                        45.554356
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Vianney",
+                  "text": "A Catholic church dedicated to Saint John Vianney, the patron saint of parish priests.",
+                  "category": "religious",
+                  "coords": [
+                        -73.577513,
+                        45.564532
+                  ]
+            },
+            {
+                  "name": "Sainte-Bernadette-Soubirous",
+                  "text": "Sainte-Bernadette-Soubirous is a place of worship in Montreal's Botanical Garden.",
+                  "category": "religious",
+                  "coords": [
+                        -73.590394,
+                        45.56025
+                  ]
+            },
+            {
+                  "name": "St. George Antiochian Orthodox",
+                  "text": "St. George Antiochian Orthodox is a place of worship in Montreal's Botanical Garden.",
+                  "category": "religious",
+                  "coords": [
+                        -73.614212,
+                        45.539918
+                  ]
+            },
+            {
+                  "name": "Église Saint-Ambroise",
+                  "text": "Église Saint-Ambroise is a place of worship in Montreal's Botanical Garden.",
+                  "category": "religious",
+                  "coords": [
+                        -73.600912,
+                        45.539171
+                  ]
+            },
+            {
+                  "name": "Alpine Garden",
+                  "text": "Alpine Garden is an attraction in Montreal's Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.559967,
+                        45.55826
+                  ]
+            },
+            {
+                  "name": "Chinese Garden",
+                  "text": "Chinese Garden is an attraction in Montreal's Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.558782,
+                        45.55926
+                  ]
+            },
+            {
+                  "name": "First Nations Garden",
+                  "text": "First Nations Garden is an attraction in Montreal's Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.561239,
+                        45.559619
+                  ]
+            },
+            {
+                  "name": "Rose Garden",
+                  "text": "Rose Garden is an attraction in Montreal's Botanical Garden.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.557613,
+                        45.559797
+                  ]
+            },
+            {
+                  "name": "Parc George-Vernot",
+                  "text": "Parc George-Vernot is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.615231,
+                        45.568514
+                  ]
+            },
+            {
+                  "name": "Place Pierre-Falardeau",
+                  "text": "Place Pierre-Falardeau is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.575259,
+                        45.543047
+                  ]
+            },
+            {
+                  "name": "Parc du Pélican",
+                  "text": "Parc du Pélican is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.57418,
+                        45.544004
+                  ]
+            },
+            {
+                  "name": "Parc Micheline-Coulombe-Saint-Marcoux",
+                  "text": "Parc Micheline-Coulombe-Saint-Marcoux is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.56577,
+                        45.545013
+                  ]
+            },
+            {
+                  "name": "Parc des Ouvrières",
+                  "text": "Parc des Ouvrières is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.564404,
+                        45.547246
+                  ]
+            },
+            {
+                  "name": "Parc J.-Arthur-Champagne",
+                  "text": "Parc J.-Arthur-Champagne is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.561065,
+                        45.551995
+                  ]
+            },
+            {
+                  "name": "Parc André-Lavallée",
+                  "text": "Parc André-Lavallée is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.568389,
+                        45.552022
+                  ]
+            },
+            {
+                  "name": "Parc Beaubien",
+                  "text": "Parc Beaubien is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.590027,
+                        45.553576
+                  ]
+            },
+            {
+                  "name": "Parc Sainte-Bernadette",
+                  "text": "Parc Sainte-Bernadette is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.588051,
+                        45.561329
+                  ]
+            },
+            {
+                  "name": "Parc Étienne-Desmarteau",
+                  "text": "Parc Étienne-Desmarteau is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.580272,
+                        45.559199
+                  ]
+            },
+            {
+                  "name": "Parc de la Louisiane",
+                  "text": "Parc de la Louisiane is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.572306,
+                        45.568327
+                  ]
+            },
+            {
+                  "name": "Parc Ladauversière",
+                  "text": "Parc Ladauversière is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.583128,
+                        45.581514
+                  ]
+            },
+            {
+                  "name": "Parc Louis-Riel",
+                  "text": "Parc Louis-Riel is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.554535,
+                        45.581551
+                  ]
+            },
+            {
+                  "name": "Parc Cité-Jardin",
+                  "text": "Parc Cité-Jardin is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.561943,
+                        45.570977
+                  ]
+            },
+            {
+                  "name": "Parc Léon-Provancher",
+                  "text": "Parc Léon-Provancher is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.569386,
+                        45.559987
+                  ]
+            },
+            {
+                  "name": "Parc André-Laurendeau",
+                  "text": "Parc André-Laurendeau is a park in Montreal's Botanical Garden.",
+                  "category": "park",
+                  "coords": [
+                        -73.570203,
+                        45.604449
+                  ]
+            }
+      ]
+},
     type: "landmark",
     parent: "CA-QC",
     coords: [-73.555, 45.56],

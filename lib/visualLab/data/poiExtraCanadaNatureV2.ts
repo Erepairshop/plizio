@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraCanadaNatureV2: POI[] = [
   {
-    id: "mount-assiniboine-nature-v2",
+    id: "mount-assiniboine-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Mountain",
+                  "text": "Der Golden Mountain ist ein Berg im Height of the Rockies Provincial Park in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67034,
+                        50.998761
+                  ]
+            },
+            {
+                  "name": "Nub Peak",
+                  "text": "Nub Peak ist ein Gipfel im Mount-Assiniboine-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.657868,
+                        50.930687
+                  ]
+            },
+            {
+                  "name": "The Nublet",
+                  "text": "The Nublet ist ein kleinerer Gipfel in der Nähe des Nub Peak.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649715,
+                        50.921054
+                  ]
+            },
+            {
+                  "name": "Cave Mountain",
+                  "text": "Cave Mountain ist ein Gipfel, der nach seinen höhlenartigen Merkmalen benannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -115.5975,
+                        50.94
+                  ]
+            },
+            {
+                  "name": "Mount Strom",
+                  "text": "Mount Strom ist ein Berg im Mount-Assiniboine-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.6658,
+                        50.8819
+                  ]
+            },
+            {
+                  "name": "Indian Peak",
+                  "text": "Indian Peak ist ein Gipfel mit einem indigenen Namen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.750114,
+                        50.930017
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine Provincial Park",
+                  "text": "Der Mount Assiniboine Provincial Park ist ein Provinzpark in British Columbia, bekannt für den Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.760902,
+                        50.937431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Mountain",
+                  "text": "A Golden Mountain egy hegy a Brit-Kolumbiai Height of the Rockies tartományi parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67034,
+                        50.998761
+                  ]
+            },
+            {
+                  "name": "Nub Peak",
+                  "text": "A Nub Peak egy csúcs a Mount Assiniboine területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.657868,
+                        50.930687
+                  ]
+            },
+            {
+                  "name": "The Nublet",
+                  "text": "A The Nublet egy kisebb csúcs a Nub Peak közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649715,
+                        50.921054
+                  ]
+            },
+            {
+                  "name": "Cave Mountain",
+                  "text": "A Cave Mountain egy csúcs, melyet barlangszerű jellemzőiről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -115.5975,
+                        50.94
+                  ]
+            },
+            {
+                  "name": "Mount Strom",
+                  "text": "A Mount Strom egy hegy a Mount Assiniboine területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.6658,
+                        50.8819
+                  ]
+            },
+            {
+                  "name": "Indian Peak",
+                  "text": "Az Indian Peak egy csúcs őslakos névvel.",
+                  "category": "natural",
+                  "coords": [
+                        -115.750114,
+                        50.930017
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine Provincial Park",
+                  "text": "A Mount Assiniboine Provincial Park egy tartományi park Brit-Kolumbiában, híres a Mount Assiniboine-ról.",
+                  "category": "natural",
+                  "coords": [
+                        -115.760902,
+                        50.937431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Mountain",
+                  "text": "Golden Mountain este un munte în Parcul Provincial Height of the Rockies din Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67034,
+                        50.998761
+                  ]
+            },
+            {
+                  "name": "Nub Peak",
+                  "text": "Nub Peak este un vârf în zona Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.657868,
+                        50.930687
+                  ]
+            },
+            {
+                  "name": "The Nublet",
+                  "text": "The Nublet este un vârf mai mic lângă Nub Peak.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649715,
+                        50.921054
+                  ]
+            },
+            {
+                  "name": "Cave Mountain",
+                  "text": "Cave Mountain este un vârf numit după caracteristicile sale asemănătoare peșterilor.",
+                  "category": "natural",
+                  "coords": [
+                        -115.5975,
+                        50.94
+                  ]
+            },
+            {
+                  "name": "Mount Strom",
+                  "text": "Mount Strom este un munte în zona Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.6658,
+                        50.8819
+                  ]
+            },
+            {
+                  "name": "Indian Peak",
+                  "text": "Indian Peak este un vârf cu nume indigen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.750114,
+                        50.930017
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine Provincial Park",
+                  "text": "Parcul Provincial Mount Assiniboine este un parc provincial în Columbia Britanică, cunoscut pentru Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.760902,
+                        50.937431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Mountain",
+                  "text": "Golden Mountain is a mountain in British Columbia's Height of the Rockies Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -115.67034,
+                        50.998761
+                  ]
+            },
+            {
+                  "name": "Nub Peak",
+                  "text": "Nub Peak is a peak in the Mount Assiniboine area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.657868,
+                        50.930687
+                  ]
+            },
+            {
+                  "name": "The Nublet",
+                  "text": "The Nublet is a smaller peak near Nub Peak.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649715,
+                        50.921054
+                  ]
+            },
+            {
+                  "name": "Cave Mountain",
+                  "text": "Cave Mountain is a peak named for its cave-like features.",
+                  "category": "natural",
+                  "coords": [
+                        -115.5975,
+                        50.94
+                  ]
+            },
+            {
+                  "name": "Mount Strom",
+                  "text": "Mount Strom is a mountain in the Mount Assiniboine area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.6658,
+                        50.8819
+                  ]
+            },
+            {
+                  "name": "Indian Peak",
+                  "text": "Indian Peak is a peak with an indigenous name.",
+                  "category": "natural",
+                  "coords": [
+                        -115.750114,
+                        50.930017
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine Provincial Park",
+                  "text": "Mount Assiniboine Provincial Park is a provincial park in British Columbia known for Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.760902,
+                        50.937431
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-BC",
     coords: [-115.6506, 50.9225],
@@ -123,7 +384,124 @@ export const poiExtraCanadaNatureV2: POI[] = [
       fr: ["Lac le plus profond d'Amérique du Nord (614 m)", "Deuxième plus grand lac des Territoires du Nord-Ouest", "Yellowknife est située sur sa rive nord", "Réputé pour ses aurores boréales spectaculaires"],
     }, image: "/poi-images/great-slave-lake-nature-v2.webp"},
   {
-    id: "haida-gwaii-islands-nature-v2",
+    id: "haida-gwaii-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Newcombe Peak",
+                  "text": "Newcombe Peak ist ein Gipfel in Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -131.987781,
+                        53.02004
+                  ]
+            },
+            {
+                  "name": "Mosquito Lake Recreation Site",
+                  "text": "Mosquito Lake Recreation Site ist ein Campingplatz in Haida Gwaii.",
+                  "category": "landmark",
+                  "coords": [
+                        -132.070873,
+                        53.071482
+                  ]
+            },
+            {
+                  "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
+                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy ist ein Naturschutzgebiet in Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -132.06305,
+                        52.923421
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Newcombe Peak",
+                  "text": "A Newcombe Peak egy csúcs Haida Gwaii-n.",
+                  "category": "natural",
+                  "coords": [
+                        -131.987781,
+                        53.02004
+                  ]
+            },
+            {
+                  "name": "Mosquito Lake Recreation Site",
+                  "text": "A Mosquito Lake Recreation Site egy kemping Haida Gwaii-n.",
+                  "category": "landmark",
+                  "coords": [
+                        -132.070873,
+                        53.071482
+                  ]
+            },
+            {
+                  "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
+                  "text": "A Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy egy természetvédelmi terület Haida Gwaii-n.",
+                  "category": "natural",
+                  "coords": [
+                        -132.06305,
+                        52.923421
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Newcombe Peak",
+                  "text": "Newcombe Peak este un vârf în Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -131.987781,
+                        53.02004
+                  ]
+            },
+            {
+                  "name": "Mosquito Lake Recreation Site",
+                  "text": "Mosquito Lake Recreation Site este un loc de campare în Haida Gwaii.",
+                  "category": "landmark",
+                  "coords": [
+                        -132.070873,
+                        53.071482
+                  ]
+            },
+            {
+                  "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
+                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy este o rezervație naturală în Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -132.06305,
+                        52.923421
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Newcombe Peak",
+                  "text": "Newcombe Peak is a peak in Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -131.987781,
+                        53.02004
+                  ]
+            },
+            {
+                  "name": "Mosquito Lake Recreation Site",
+                  "text": "Mosquito Lake Recreation Site is a camp site in Haida Gwaii.",
+                  "category": "landmark",
+                  "coords": [
+                        -132.070873,
+                        53.071482
+                  ]
+            },
+            {
+                  "name": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy",
+                  "text": "Sɢ̱aay Taw Siiwaay K'adjuu Heritage Site/Conservancy is a nature reserve in Haida Gwaii.",
+                  "category": "natural",
+                  "coords": [
+                        -132.06305,
+                        52.923421
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-BC",
     coords: [-132.0, 53.0],
@@ -163,7 +541,556 @@ export const poiExtraCanadaNatureV2: POI[] = [
       fr: ["Souvent appelées les 'Galápagos du Nord'", "Terre de la culture autochtone Haïda", "Faune et flore uniques et endémiques", "Site du parc national Gwaii Haanas"],
     }, image: "/poi-images/haida-gwaii-islands-nature-v2.webp"},
   {
-    id: "pacific-rim-national-park-forest-nature-v2",
+    id: "pacific-rim-national-park-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Canso Bomber Crash Site",
+                  "text": "Die Absturzstelle eines Canso-Bombers im Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.821897,
+                        49.07862
+                  ]
+            },
+            {
+                  "name": "Old Radio Building",
+                  "text": "Eine Attraktion im Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.820123,
+                        49.084848
+                  ]
+            },
+            {
+                  "name": "Radar Hill",
+                  "text": "Ein Hügel im Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.841275,
+                        49.083945
+                  ]
+            },
+            {
+                  "name": "Vargas Cone",
+                  "text": "Ein Gipfel im Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.867184,
+                        49.092582
+                  ]
+            },
+            {
+                  "name": "Kwisitis Beach",
+                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.676193,
+                        49.009909
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Beach",
+                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.683526,
+                        49.02463
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.67605,
+                        49.006232
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.76077,
+                        49.067347
+                  ]
+            },
+            {
+                  "name": "Grice Bay",
+                  "text": "Eine Bucht im Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.745803,
+                        49.093975
+                  ]
+            },
+            {
+                  "name": "Schooner Cove",
+                  "text": "Eine Bucht im Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.803726,
+                        49.065553
+                  ]
+            },
+            {
+                  "name": "Schooner Cove Beach",
+                  "text": "Ein Strand im Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.801412,
+                        49.066785
+                  ]
+            },
+            {
+                  "name": "Pacific Rim National Park Reserve - Long Beach Unit",
+                  "text": "Ein Naturschutzgebiet im Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.736362,
+                        49.052988
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Bay",
+                  "text": "Wickaninnish Bay ist eine Bucht im Pacific-Rim-Nationalpark auf Vancouver Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.731687,
+                        49.044112
+                  ]
+            },
+            {
+                  "name": "Combers Beach",
+                  "text": "Combers Beach ist ein Sandstrand im Pacific-Rim-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.71439,
+                        49.046599
+                  ]
+            },
+            {
+                  "name": "Radar Beaches",
+                  "text": "Radar Beaches sind eine Reihe von Stränden im Pacific-Rim-Nationalpark.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.842063,
+                        49.073958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Canso Bomber Crash Site",
+                  "text": "Egy Canso bombázó roncsa a Pacific Rim Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.821897,
+                        49.07862
+                  ]
+            },
+            {
+                  "name": "Old Radio Building",
+                  "text": "Egy látványosság a Pacific Rim Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.820123,
+                        49.084848
+                  ]
+            },
+            {
+                  "name": "Radar Hill",
+                  "text": "Egy domb a Pacific Rim Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -125.841275,
+                        49.083945
+                  ]
+            },
+            {
+                  "name": "Vargas Cone",
+                  "text": "Egy csúcs a Pacific Rim Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -125.867184,
+                        49.092582
+                  ]
+            },
+            {
+                  "name": "Kwisitis Beach",
+                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.676193,
+                        49.009909
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Beach",
+                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.683526,
+                        49.02463
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.67605,
+                        49.006232
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.76077,
+                        49.067347
+                  ]
+            },
+            {
+                  "name": "Grice Bay",
+                  "text": "Egy öböl a Pacific Rim Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.745803,
+                        49.093975
+                  ]
+            },
+            {
+                  "name": "Schooner Cove",
+                  "text": "Egy öböl a Pacific Rim Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.803726,
+                        49.065553
+                  ]
+            },
+            {
+                  "name": "Schooner Cove Beach",
+                  "text": "Egy strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.801412,
+                        49.066785
+                  ]
+            },
+            {
+                  "name": "Pacific Rim National Park Reserve - Long Beach Unit",
+                  "text": "Egy természetvédelmi terület a Pacific Rim Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -125.736362,
+                        49.052988
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Bay",
+                  "text": "A Wickaninnish-öböl egy öböl a Pacific Rim Nemzeti Parkban, Vancouver-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.731687,
+                        49.044112
+                  ]
+            },
+            {
+                  "name": "Combers Beach",
+                  "text": "A Combers Beach egy homokos strand a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.71439,
+                        49.046599
+                  ]
+            },
+            {
+                  "name": "Radar Beaches",
+                  "text": "A Radar Beaches strandok sorozata a Pacific Rim Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.842063,
+                        49.073958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Canso Bomber Crash Site",
+                  "text": "Locul prăbușirii unui bombardier Canso în Parcul Național Pacific Rim.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.821897,
+                        49.07862
+                  ]
+            },
+            {
+                  "name": "Old Radio Building",
+                  "text": "O atracție în Parcul Național Pacific Rim.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.820123,
+                        49.084848
+                  ]
+            },
+            {
+                  "name": "Radar Hill",
+                  "text": "Un deal în Parcul Național Pacific Rim.",
+                  "category": "natural",
+                  "coords": [
+                        -125.841275,
+                        49.083945
+                  ]
+            },
+            {
+                  "name": "Vargas Cone",
+                  "text": "Un vârf în Parcul Național Pacific Rim.",
+                  "category": "natural",
+                  "coords": [
+                        -125.867184,
+                        49.092582
+                  ]
+            },
+            {
+                  "name": "Kwisitis Beach",
+                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.676193,
+                        49.009909
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Beach",
+                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.683526,
+                        49.02463
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.67605,
+                        49.006232
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.76077,
+                        49.067347
+                  ]
+            },
+            {
+                  "name": "Grice Bay",
+                  "text": "Un golf în Parcul Național Pacific Rim.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.745803,
+                        49.093975
+                  ]
+            },
+            {
+                  "name": "Schooner Cove",
+                  "text": "Un golf în Parcul Național Pacific Rim.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.803726,
+                        49.065553
+                  ]
+            },
+            {
+                  "name": "Schooner Cove Beach",
+                  "text": "O plajă în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.801412,
+                        49.066785
+                  ]
+            },
+            {
+                  "name": "Pacific Rim National Park Reserve - Long Beach Unit",
+                  "text": "O rezervație naturală în Parcul Național Pacific Rim.",
+                  "category": "natural",
+                  "coords": [
+                        -125.736362,
+                        49.052988
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Bay",
+                  "text": "Wickaninnish Bay este un golf situat în Parcul Național Pacific Rim, pe insula Vancouver.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.731687,
+                        49.044112
+                  ]
+            },
+            {
+                  "name": "Combers Beach",
+                  "text": "Combers Beach este o plajă cu nisip în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.71439,
+                        49.046599
+                  ]
+            },
+            {
+                  "name": "Radar Beaches",
+                  "text": "Radar Beaches sunt o serie de plaje în Parcul Național Pacific Rim.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.842063,
+                        49.073958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Canso Bomber Crash Site",
+                  "text": "The crash site of a Canso bomber in Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.821897,
+                        49.07862
+                  ]
+            },
+            {
+                  "name": "Old Radio Building",
+                  "text": "An attraction in Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.820123,
+                        49.084848
+                  ]
+            },
+            {
+                  "name": "Radar Hill",
+                  "text": "A hill in Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.841275,
+                        49.083945
+                  ]
+            },
+            {
+                  "name": "Vargas Cone",
+                  "text": "A peak in Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.867184,
+                        49.092582
+                  ]
+            },
+            {
+                  "name": "Kwisitis Beach",
+                  "text": "A beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.676193,
+                        49.009909
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Beach",
+                  "text": "A beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.683526,
+                        49.02463
+                  ]
+            },
+            {
+                  "name": "South Beach",
+                  "text": "A beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.67605,
+                        49.006232
+                  ]
+            },
+            {
+                  "name": "Long Beach",
+                  "text": "A beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.76077,
+                        49.067347
+                  ]
+            },
+            {
+                  "name": "Grice Bay",
+                  "text": "A bay in Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.745803,
+                        49.093975
+                  ]
+            },
+            {
+                  "name": "Schooner Cove",
+                  "text": "A bay in Pacific Rim National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.803726,
+                        49.065553
+                  ]
+            },
+            {
+                  "name": "Schooner Cove Beach",
+                  "text": "A beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.801412,
+                        49.066785
+                  ]
+            },
+            {
+                  "name": "Pacific Rim National Park Reserve - Long Beach Unit",
+                  "text": "A nature reserve in Pacific Rim National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -125.736362,
+                        49.052988
+                  ]
+            },
+            {
+                  "name": "Wickaninnish Bay",
+                  "text": "Wickaninnish Bay is a bay located in Pacific Rim National Park on Vancouver Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -125.731687,
+                        49.044112
+                  ]
+            },
+            {
+                  "name": "Combers Beach",
+                  "text": "Combers Beach is a sandy beach in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.71439,
+                        49.046599
+                  ]
+            },
+            {
+                  "name": "Radar Beaches",
+                  "text": "Radar Beaches are a series of beaches in Pacific Rim National Park.",
+                  "category": "recreational",
+                  "coords": [
+                        -125.842063,
+                        49.073958
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CA-BC",
     coords: [-125.7667, 49.0333],
@@ -251,7 +1178,1420 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-temple-nature-v2",
+    id: "mount-temple-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moraine Lake",
+                  "text": "Moraine Lake ist eine Attraktion im Mount-Temple-Gebiet, berühmt für seine türkisfarbene Farbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.185335,
+                        51.321629
+                  ]
+            },
+            {
+                  "name": "Mount Aberdeen",
+                  "text": "Mount Aberdeen ist ein Gipfel im Mount-Temple-Gebiet in der Bow Range.",
+                  "category": "natural",
+                  "coords": [
+                        -116.247833,
+                        51.380208
+                  ]
+            },
+            {
+                  "name": "Pope's Peak",
+                  "text": "Pope’s Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.295188,
+                        51.403391
+                  ]
+            },
+            {
+                  "name": "Collier Peak",
+                  "text": "Collier Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.303319,
+                        51.391032
+                  ]
+            },
+            {
+                  "name": "Mount Huber",
+                  "text": "Mount Huber ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.313073,
+                        51.369311
+                  ]
+            },
+            {
+                  "name": "Mount Victoria",
+                  "text": "Mount Victoria ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.307735,
+                        51.377486
+                  ]
+            },
+            {
+                  "name": "Mount Lefroy",
+                  "text": "Mount Lefroy ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.279963,
+                        51.361786
+                  ]
+            },
+            {
+                  "name": "Haddo Peak",
+                  "text": "Haddo Peak ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.237219,
+                        51.38331
+                  ]
+            },
+            {
+                  "name": "Fairview Mountain",
+                  "text": "Fairview Mountain ist ein Gipfel im Mount-Temple-Gebiet mit Blick auf den Lake Louise.",
+                  "category": "natural",
+                  "coords": [
+                        -116.224632,
+                        51.399437
+                  ]
+            },
+            {
+                  "name": "Mount St. Piran",
+                  "text": "Mount St. Piran ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.253373,
+                        51.421669
+                  ]
+            },
+            {
+                  "name": "Mount Niblock",
+                  "text": "Mount Niblock ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272033,
+                        51.417967
+                  ]
+            },
+            {
+                  "name": "Bident Mountain",
+                  "text": "Bident Mountain ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.140873,
+                        51.287264
+                  ]
+            },
+            {
+                  "name": "Quadra Mountain",
+                  "text": "Quadra Mountain ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.153389,
+                        51.286971
+                  ]
+            },
+            {
+                  "name": "Mount Bowlen",
+                  "text": "Mount Bowlen ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1894,
+                        51.3014
+                  ]
+            },
+            {
+                  "name": "Mount Tuzo",
+                  "text": "Mount Tuzo ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227948,
+                        51.301243
+                  ]
+            },
+            {
+                  "name": "Mount Allen",
+                  "text": "Mount Allen ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.220657,
+                        51.291675
+                  ]
+            },
+            {
+                  "name": "Mount Perren",
+                  "text": "Mount Perren ist ein Gipfel im Mount-Temple-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -116.208524,
+                        51.296111
+                  ]
+            },
+            {
+                  "name": "Deltaform Mountain",
+                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.244827,
+                        51.301344
+                  ]
+            },
+            {
+                  "name": "Neptuak Mountain",
+                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.258297,
+                        51.307574
+                  ]
+            },
+            {
+                  "name": "Eiffel Peak",
+                  "text": "Benannt nach dem Eiffelturm wegen seiner Form, nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.235904,
+                        51.332288
+                  ]
+            },
+            {
+                  "name": "Mount Temple",
+                  "text": "Der höchste Gipfel im Lake-Louise-Gebiet, im Mount-Temple-Gebiet gelegen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.206531,
+                        51.35109
+                  ]
+            },
+            {
+                  "name": "Yukness Mountain",
+                  "text": "Ein Gipfel nahe dem Mount Temple, sein Name stammt aus der Sprache der Stoney Nakoda.",
+                  "category": "natural",
+                  "coords": [
+                        -116.304936,
+                        51.344909
+                  ]
+            },
+            {
+                  "name": "Wenkchemna Peak",
+                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.27632,
+                        51.32792
+                  ]
+            },
+            {
+                  "name": "Watch Tower",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.319786,
+                        51.402016
+                  ]
+            },
+            {
+                  "name": "Sheol Mountain",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.222004,
+                        51.38442
+                  ]
+            },
+            {
+                  "name": "Saddle Mountain",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.209214,
+                        51.393319
+                  ]
+            },
+            {
+                  "name": "Little Temple",
+                  "text": "Ein kleinerer Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1867,
+                        51.36988
+                  ]
+            },
+            {
+                  "name": "Morant’s Curve",
+                  "text": "Ein Aussichtspunkt am Bow Valley Parkway nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.128019,
+                        51.399827
+                  ]
+            },
+            {
+                  "name": "The Big Beehive",
+                  "text": "Ein markanter Gipfel mit Blick auf den Lake Louise, nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.243479,
+                        51.414441
+                  ]
+            },
+            {
+                  "name": "Devil's Thumb",
+                  "text": "Ein auffälliger Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.252574,
+                        51.411204
+                  ]
+            },
+            {
+                  "name": "Mount Whyte",
+                  "text": "Ein Berg nahe dem Mount Temple in der Bow Range.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272135,
+                        51.408911
+                  ]
+            },
+            {
+                  "name": "Mount Babel",
+                  "text": "Ein Gipfel in der Bow Range nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.163726,
+                        51.306273
+                  ]
+            },
+            {
+                  "name": "Tonsa Peak",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.199643,
+                        51.297957
+                  ]
+            },
+            {
+                  "name": "Pinnacle Mountain",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227471,
+                        51.339072
+                  ]
+            },
+            {
+                  "name": "Ringrose Peak",
+                  "text": "Einer der Zehn Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.28921,
+                        51.341805
+                  ]
+            },
+            {
+                  "name": "Eagle Eyrie",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.286806,
+                        51.314046
+                  ]
+            },
+            {
+                  "name": "Mount Schaffer",
+                  "text": "Ein Gipfel nahe dem Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.339855,
+                        51.344279
+                  ]
+            },
+            {
+                  "name": "Sentinel Pass",
+                  "text": "Ein hochgelegener Gebirgspass mit malerischen Ausblicken nahe dem Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.221902,
+                        51.340549
+                  ]
+            },
+            {
+                  "name": "Minnestima Lakes",
+                  "text": "Eine Reihe von Seen nahe dem Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.219626,
+                        51.333687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moraine Lake",
+                  "text": "A Moraine Lake egy látványosság a Mount Temple területen, híres türkiz színéről.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.185335,
+                        51.321629
+                  ]
+            },
+            {
+                  "name": "Mount Aberdeen",
+                  "text": "A Mount Aberdeen egy csúcs a Mount Temple területen, a Bow Range-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -116.247833,
+                        51.380208
+                  ]
+            },
+            {
+                  "name": "Pope's Peak",
+                  "text": "A Pope’s Peak egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.295188,
+                        51.403391
+                  ]
+            },
+            {
+                  "name": "Collier Peak",
+                  "text": "A Collier Peak egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.303319,
+                        51.391032
+                  ]
+            },
+            {
+                  "name": "Mount Huber",
+                  "text": "A Mount Huber egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.313073,
+                        51.369311
+                  ]
+            },
+            {
+                  "name": "Mount Victoria",
+                  "text": "A Mount Victoria egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.307735,
+                        51.377486
+                  ]
+            },
+            {
+                  "name": "Mount Lefroy",
+                  "text": "A Mount Lefroy egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.279963,
+                        51.361786
+                  ]
+            },
+            {
+                  "name": "Haddo Peak",
+                  "text": "A Haddo Peak egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.237219,
+                        51.38331
+                  ]
+            },
+            {
+                  "name": "Fairview Mountain",
+                  "text": "A Fairview Mountain egy csúcs a Mount Temple területen, rálátással a Lake Louise-ra.",
+                  "category": "natural",
+                  "coords": [
+                        -116.224632,
+                        51.399437
+                  ]
+            },
+            {
+                  "name": "Mount St. Piran",
+                  "text": "A Mount St. Piran egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.253373,
+                        51.421669
+                  ]
+            },
+            {
+                  "name": "Mount Niblock",
+                  "text": "A Mount Niblock egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272033,
+                        51.417967
+                  ]
+            },
+            {
+                  "name": "Bident Mountain",
+                  "text": "A Bident Mountain egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.140873,
+                        51.287264
+                  ]
+            },
+            {
+                  "name": "Quadra Mountain",
+                  "text": "A Quadra Mountain egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.153389,
+                        51.286971
+                  ]
+            },
+            {
+                  "name": "Mount Bowlen",
+                  "text": "A Mount Bowlen egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1894,
+                        51.3014
+                  ]
+            },
+            {
+                  "name": "Mount Tuzo",
+                  "text": "A Mount Tuzo egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227948,
+                        51.301243
+                  ]
+            },
+            {
+                  "name": "Mount Allen",
+                  "text": "A Mount Allen egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.220657,
+                        51.291675
+                  ]
+            },
+            {
+                  "name": "Mount Perren",
+                  "text": "A Mount Perren egy csúcs a Mount Temple területen.",
+                  "category": "natural",
+                  "coords": [
+                        -116.208524,
+                        51.296111
+                  ]
+            },
+            {
+                  "name": "Deltaform Mountain",
+                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.244827,
+                        51.301344
+                  ]
+            },
+            {
+                  "name": "Neptuak Mountain",
+                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.258297,
+                        51.307574
+                  ]
+            },
+            {
+                  "name": "Eiffel Peak",
+                  "text": "Az Eiffel-toronyról kapta a nevét alakja miatt, a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.235904,
+                        51.332288
+                  ]
+            },
+            {
+                  "name": "Mount Temple",
+                  "text": "A Lake Louise térség legmagasabb csúcsa, a Mount Temple területén.",
+                  "category": "natural",
+                  "coords": [
+                        -116.206531,
+                        51.35109
+                  ]
+            },
+            {
+                  "name": "Yukness Mountain",
+                  "text": "Egy csúcs a Mount Temple közelében, neve a Stoney Nakoda nyelvből származik.",
+                  "category": "natural",
+                  "coords": [
+                        -116.304936,
+                        51.344909
+                  ]
+            },
+            {
+                  "name": "Wenkchemna Peak",
+                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.27632,
+                        51.32792
+                  ]
+            },
+            {
+                  "name": "Watch Tower",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.319786,
+                        51.402016
+                  ]
+            },
+            {
+                  "name": "Sheol Mountain",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.222004,
+                        51.38442
+                  ]
+            },
+            {
+                  "name": "Saddle Mountain",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.209214,
+                        51.393319
+                  ]
+            },
+            {
+                  "name": "Little Temple",
+                  "text": "Egy kisebb csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1867,
+                        51.36988
+                  ]
+            },
+            {
+                  "name": "Morant’s Curve",
+                  "text": "Egy kilátópont a Bow Valley Parkway mentén, a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.128019,
+                        51.399827
+                  ]
+            },
+            {
+                  "name": "The Big Beehive",
+                  "text": "Egy jellegzetes csúcs, amely a Lake Louise-ra tekint, a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.243479,
+                        51.414441
+                  ]
+            },
+            {
+                  "name": "Devil's Thumb",
+                  "text": "Egy jellegzetes csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.252574,
+                        51.411204
+                  ]
+            },
+            {
+                  "name": "Mount Whyte",
+                  "text": "Egy hegy a Mount Temple közelében a Bow-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272135,
+                        51.408911
+                  ]
+            },
+            {
+                  "name": "Mount Babel",
+                  "text": "Egy csúcs a Bow-hegységben, a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.163726,
+                        51.306273
+                  ]
+            },
+            {
+                  "name": "Tonsa Peak",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.199643,
+                        51.297957
+                  ]
+            },
+            {
+                  "name": "Pinnacle Mountain",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227471,
+                        51.339072
+                  ]
+            },
+            {
+                  "name": "Ringrose Peak",
+                  "text": "A Tíz Csúcs egyike a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.28921,
+                        51.341805
+                  ]
+            },
+            {
+                  "name": "Eagle Eyrie",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.286806,
+                        51.314046
+                  ]
+            },
+            {
+                  "name": "Mount Schaffer",
+                  "text": "Egy csúcs a Mount Temple közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -116.339855,
+                        51.344279
+                  ]
+            },
+            {
+                  "name": "Sentinel Pass",
+                  "text": "Egy magashegyi hágó festői kilátással, a Mount Temple közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.221902,
+                        51.340549
+                  ]
+            },
+            {
+                  "name": "Minnestima Lakes",
+                  "text": "Tavak sorozata a Mount Temple közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.219626,
+                        51.333687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moraine Lake",
+                  "text": "Lacul Moraine este o atracție în zona Mount Temple, renumit pentru culoarea sa turcoaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.185335,
+                        51.321629
+                  ]
+            },
+            {
+                  "name": "Mount Aberdeen",
+                  "text": "Mount Aberdeen este un vârf în zona Mount Temple, în lanțul Bow.",
+                  "category": "natural",
+                  "coords": [
+                        -116.247833,
+                        51.380208
+                  ]
+            },
+            {
+                  "name": "Pope's Peak",
+                  "text": "Pope's Peak este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.295188,
+                        51.403391
+                  ]
+            },
+            {
+                  "name": "Collier Peak",
+                  "text": "Collier Peak este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.303319,
+                        51.391032
+                  ]
+            },
+            {
+                  "name": "Mount Huber",
+                  "text": "Mount Huber este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.313073,
+                        51.369311
+                  ]
+            },
+            {
+                  "name": "Mount Victoria",
+                  "text": "Mount Victoria este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.307735,
+                        51.377486
+                  ]
+            },
+            {
+                  "name": "Mount Lefroy",
+                  "text": "Mount Lefroy este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.279963,
+                        51.361786
+                  ]
+            },
+            {
+                  "name": "Haddo Peak",
+                  "text": "Haddo Peak este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.237219,
+                        51.38331
+                  ]
+            },
+            {
+                  "name": "Fairview Mountain",
+                  "text": "Fairview Mountain este un vârf în zona Mount Temple, cu vedere spre Lacul Louise.",
+                  "category": "natural",
+                  "coords": [
+                        -116.224632,
+                        51.399437
+                  ]
+            },
+            {
+                  "name": "Mount St. Piran",
+                  "text": "Mount St. Piran este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.253373,
+                        51.421669
+                  ]
+            },
+            {
+                  "name": "Mount Niblock",
+                  "text": "Mount Niblock este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272033,
+                        51.417967
+                  ]
+            },
+            {
+                  "name": "Bident Mountain",
+                  "text": "Bident Mountain este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.140873,
+                        51.287264
+                  ]
+            },
+            {
+                  "name": "Quadra Mountain",
+                  "text": "Quadra Mountain este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.153389,
+                        51.286971
+                  ]
+            },
+            {
+                  "name": "Mount Bowlen",
+                  "text": "Mount Bowlen este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1894,
+                        51.3014
+                  ]
+            },
+            {
+                  "name": "Mount Tuzo",
+                  "text": "Mount Tuzo este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227948,
+                        51.301243
+                  ]
+            },
+            {
+                  "name": "Mount Allen",
+                  "text": "Mount Allen este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.220657,
+                        51.291675
+                  ]
+            },
+            {
+                  "name": "Mount Perren",
+                  "text": "Mount Perren este un vârf în zona Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.208524,
+                        51.296111
+                  ]
+            },
+            {
+                  "name": "Deltaform Mountain",
+                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.244827,
+                        51.301344
+                  ]
+            },
+            {
+                  "name": "Neptuak Mountain",
+                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.258297,
+                        51.307574
+                  ]
+            },
+            {
+                  "name": "Eiffel Peak",
+                  "text": "Numit după Turnul Eiffel datorită formei sale, lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.235904,
+                        51.332288
+                  ]
+            },
+            {
+                  "name": "Mount Temple",
+                  "text": "Cel mai înalt vârf din zona Lake Louise, situat în regiunea Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.206531,
+                        51.35109
+                  ]
+            },
+            {
+                  "name": "Yukness Mountain",
+                  "text": "Un vârf lângă Mount Temple, numele său provine din limba Stoney Nakoda.",
+                  "category": "natural",
+                  "coords": [
+                        -116.304936,
+                        51.344909
+                  ]
+            },
+            {
+                  "name": "Wenkchemna Peak",
+                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.27632,
+                        51.32792
+                  ]
+            },
+            {
+                  "name": "Watch Tower",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.319786,
+                        51.402016
+                  ]
+            },
+            {
+                  "name": "Sheol Mountain",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.222004,
+                        51.38442
+                  ]
+            },
+            {
+                  "name": "Saddle Mountain",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.209214,
+                        51.393319
+                  ]
+            },
+            {
+                  "name": "Little Temple",
+                  "text": "Un vârf mai mic lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1867,
+                        51.36988
+                  ]
+            },
+            {
+                  "name": "Morant’s Curve",
+                  "text": "Un punct de belvedere pe Bow Valley Parkway lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.128019,
+                        51.399827
+                  ]
+            },
+            {
+                  "name": "The Big Beehive",
+                  "text": "Un vârf proeminent care domină Lake Louise, lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.243479,
+                        51.414441
+                  ]
+            },
+            {
+                  "name": "Devil's Thumb",
+                  "text": "Un vârf distinctiv lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.252574,
+                        51.411204
+                  ]
+            },
+            {
+                  "name": "Mount Whyte",
+                  "text": "Un munte lângă Mount Temple în Masivul Bow.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272135,
+                        51.408911
+                  ]
+            },
+            {
+                  "name": "Mount Babel",
+                  "text": "Un vârf în Masivul Bow lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.163726,
+                        51.306273
+                  ]
+            },
+            {
+                  "name": "Tonsa Peak",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.199643,
+                        51.297957
+                  ]
+            },
+            {
+                  "name": "Pinnacle Mountain",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227471,
+                        51.339072
+                  ]
+            },
+            {
+                  "name": "Ringrose Peak",
+                  "text": "Unul dintre Cele Zece Vârfuri lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.28921,
+                        51.341805
+                  ]
+            },
+            {
+                  "name": "Eagle Eyrie",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.286806,
+                        51.314046
+                  ]
+            },
+            {
+                  "name": "Mount Schaffer",
+                  "text": "Un vârf lângă Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.339855,
+                        51.344279
+                  ]
+            },
+            {
+                  "name": "Sentinel Pass",
+                  "text": "O trecătoare montană înaltă cu priveliști pitorești lângă Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.221902,
+                        51.340549
+                  ]
+            },
+            {
+                  "name": "Minnestima Lakes",
+                  "text": "O serie de lacuri lângă Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.219626,
+                        51.333687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moraine Lake",
+                  "text": "Moraine Lake is an attraction in the Mount Temple area famous for its turquoise colour.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.185335,
+                        51.321629
+                  ]
+            },
+            {
+                  "name": "Mount Aberdeen",
+                  "text": "Mount Aberdeen is a peak in the Mount Temple area in the Bow Range.",
+                  "category": "natural",
+                  "coords": [
+                        -116.247833,
+                        51.380208
+                  ]
+            },
+            {
+                  "name": "Pope's Peak",
+                  "text": "Pope's Peak is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.295188,
+                        51.403391
+                  ]
+            },
+            {
+                  "name": "Collier Peak",
+                  "text": "Collier Peak is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.303319,
+                        51.391032
+                  ]
+            },
+            {
+                  "name": "Mount Huber",
+                  "text": "Mount Huber is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.313073,
+                        51.369311
+                  ]
+            },
+            {
+                  "name": "Mount Victoria",
+                  "text": "Mount Victoria is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.307735,
+                        51.377486
+                  ]
+            },
+            {
+                  "name": "Mount Lefroy",
+                  "text": "Mount Lefroy is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.279963,
+                        51.361786
+                  ]
+            },
+            {
+                  "name": "Haddo Peak",
+                  "text": "Haddo Peak is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.237219,
+                        51.38331
+                  ]
+            },
+            {
+                  "name": "Fairview Mountain",
+                  "text": "Fairview Mountain is a peak in the Mount Temple area overlooking Lake Louise.",
+                  "category": "natural",
+                  "coords": [
+                        -116.224632,
+                        51.399437
+                  ]
+            },
+            {
+                  "name": "Mount St. Piran",
+                  "text": "Mount St. Piran is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.253373,
+                        51.421669
+                  ]
+            },
+            {
+                  "name": "Mount Niblock",
+                  "text": "Mount Niblock is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272033,
+                        51.417967
+                  ]
+            },
+            {
+                  "name": "Bident Mountain",
+                  "text": "Bident Mountain is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.140873,
+                        51.287264
+                  ]
+            },
+            {
+                  "name": "Quadra Mountain",
+                  "text": "Quadra Mountain is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.153389,
+                        51.286971
+                  ]
+            },
+            {
+                  "name": "Mount Bowlen",
+                  "text": "Mount Bowlen is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1894,
+                        51.3014
+                  ]
+            },
+            {
+                  "name": "Mount Tuzo",
+                  "text": "Mount Tuzo is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227948,
+                        51.301243
+                  ]
+            },
+            {
+                  "name": "Mount Allen",
+                  "text": "Mount Allen is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.220657,
+                        51.291675
+                  ]
+            },
+            {
+                  "name": "Mount Perren",
+                  "text": "Mount Perren is a peak in the Mount Temple area.",
+                  "category": "natural",
+                  "coords": [
+                        -116.208524,
+                        51.296111
+                  ]
+            },
+            {
+                  "name": "Deltaform Mountain",
+                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.244827,
+                        51.301344
+                  ]
+            },
+            {
+                  "name": "Neptuak Mountain",
+                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.258297,
+                        51.307574
+                  ]
+            },
+            {
+                  "name": "Eiffel Peak",
+                  "text": "Named after the Eiffel Tower for its shape, near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.235904,
+                        51.332288
+                  ]
+            },
+            {
+                  "name": "Mount Temple",
+                  "text": "The highest peak in the Lake Louise area, located in the Mount Temple region.",
+                  "category": "natural",
+                  "coords": [
+                        -116.206531,
+                        51.35109
+                  ]
+            },
+            {
+                  "name": "Yukness Mountain",
+                  "text": "A peak near Mount Temple, its name comes from the Stoney Nakoda language.",
+                  "category": "natural",
+                  "coords": [
+                        -116.304936,
+                        51.344909
+                  ]
+            },
+            {
+                  "name": "Wenkchemna Peak",
+                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.27632,
+                        51.32792
+                  ]
+            },
+            {
+                  "name": "Watch Tower",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.319786,
+                        51.402016
+                  ]
+            },
+            {
+                  "name": "Sheol Mountain",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.222004,
+                        51.38442
+                  ]
+            },
+            {
+                  "name": "Saddle Mountain",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.209214,
+                        51.393319
+                  ]
+            },
+            {
+                  "name": "Little Temple",
+                  "text": "A smaller peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.1867,
+                        51.36988
+                  ]
+            },
+            {
+                  "name": "Morant’s Curve",
+                  "text": "A scenic viewpoint on the Bow Valley Parkway near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.128019,
+                        51.399827
+                  ]
+            },
+            {
+                  "name": "The Big Beehive",
+                  "text": "A prominent peak overlooking Lake Louise near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.243479,
+                        51.414441
+                  ]
+            },
+            {
+                  "name": "Devil's Thumb",
+                  "text": "A distinctive peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.252574,
+                        51.411204
+                  ]
+            },
+            {
+                  "name": "Mount Whyte",
+                  "text": "A mountain near Mount Temple in the Bow Range.",
+                  "category": "natural",
+                  "coords": [
+                        -116.272135,
+                        51.408911
+                  ]
+            },
+            {
+                  "name": "Mount Babel",
+                  "text": "A peak in the Bow Range near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.163726,
+                        51.306273
+                  ]
+            },
+            {
+                  "name": "Tonsa Peak",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.199643,
+                        51.297957
+                  ]
+            },
+            {
+                  "name": "Pinnacle Mountain",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.227471,
+                        51.339072
+                  ]
+            },
+            {
+                  "name": "Ringrose Peak",
+                  "text": "One of the Ten Peaks near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.28921,
+                        51.341805
+                  ]
+            },
+            {
+                  "name": "Eagle Eyrie",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.286806,
+                        51.314046
+                  ]
+            },
+            {
+                  "name": "Mount Schaffer",
+                  "text": "A peak near Mount Temple.",
+                  "category": "natural",
+                  "coords": [
+                        -116.339855,
+                        51.344279
+                  ]
+            },
+            {
+                  "name": "Sentinel Pass",
+                  "text": "A high mountain pass with scenic views near Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.221902,
+                        51.340549
+                  ]
+            },
+            {
+                  "name": "Minnestima Lakes",
+                  "text": "A series of lakes near Mount Temple.",
+                  "category": "landmark",
+                  "coords": [
+                        -116.219626,
+                        51.333687
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-AB",
     coords: [-116.215, 51.3486],
@@ -383,7 +2723,520 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "magdalen-islands-nature-v2",
+    id: "magdalen-islands-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare de l'Échouerie",
+                  "text": "Dieser Leuchtturm in Magdalen Islands Nature V2 markiert die Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.773528,
+                        47.390905
+                  ]
+            },
+            {
+                  "name": "Auditorium Rosaire-Vigneault",
+                  "text": "Dieses Theater in Magdalen Islands Nature V2 veranstaltet Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.916173,
+                        47.370634
+                  ]
+            },
+            {
+                  "name": "Arrimage",
+                  "text": "Dieses Kunstzentrum in Magdalen Islands Nature V2 fördert die Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.908677,
+                        47.371153
+                  ]
+            },
+            {
+                  "name": "Poste d'Observation",
+                  "text": "Dieser Aussichtspunkt in Magdalen Islands Nature V2 bietet malerische Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        -61.85825,
+                        47.37819
+                  ]
+            },
+            {
+                  "name": "Fin de route",
+                  "text": "Dieser Aussichtspunkt in Magdalen Islands Nature V2 markiert das Ende der Straße.",
+                  "category": "natural",
+                  "coords": [
+                        -61.909308,
+                        47.41512
+                  ]
+            },
+            {
+                  "name": "Écomusée de la Mi-Carême",
+                  "text": "Dieses Museum in Magdalen Islands Nature V2 zeigt lokale Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        -61.898782,
+                        47.403417
+                  ]
+            },
+            {
+                  "name": "Phare du Borgot",
+                  "text": "Dieser Leuchtturm ist ein Wahrzeichen auf den Magdalenen-Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.959317,
+                        47.384738
+                  ]
+            },
+            {
+                  "name": "Plage de la Dune du Nord",
+                  "text": "Dieser Strand in Magdalen Islands Nature V2 ist eine sandige Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.801057,
+                        47.465944
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "Dieser kleine Strand in Magdalen Islands Nature V2 ist ein Badeplatz.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.882562,
+                        47.345035
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle des pas perdus",
+                  "text": "Dieses Theater in Magdalen Islands Nature V2 zeigt Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.860777,
+                        47.380461
+                  ]
+            },
+            {
+                  "name": "Plage de la police",
+                  "text": "Dieser Strand in Magdalen Islands Nature V2 ist ein beliebter Ort.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.871206,
+                        47.366136
+                  ]
+            },
+            {
+                  "name": "Plage du Pédalo",
+                  "text": "Dieser Strand in Magdalen Islands Nature V2 ist für Tretboote bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.845935,
+                        47.396181
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Dieses Theater in Magdalen Islands Nature V2 veranstaltet Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.881646,
+                        47.34551
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "Dieser Strand in Magdalen Islands Nature V2 ist ein Küstenbereich.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.895294,
+                        47.419685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare de l'Échouerie",
+                  "text": "Ez a világítótorony a Magdalen Islands Nature V2-ben jelzi a partot.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.773528,
+                        47.390905
+                  ]
+            },
+            {
+                  "name": "Auditorium Rosaire-Vigneault",
+                  "text": "Ez a színház a Magdalen Islands Nature V2-ben előadásokat rendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.916173,
+                        47.370634
+                  ]
+            },
+            {
+                  "name": "Arrimage",
+                  "text": "Ez a művészeti központ a Magdalen Islands Nature V2-ben a kultúrát támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.908677,
+                        47.371153
+                  ]
+            },
+            {
+                  "name": "Poste d'Observation",
+                  "text": "Ez a kilátó a Magdalen Islands Nature V2-ben festői kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -61.85825,
+                        47.37819
+                  ]
+            },
+            {
+                  "name": "Fin de route",
+                  "text": "Ez a kilátó a Magdalen Islands Nature V2-ben az út végét jelzi.",
+                  "category": "natural",
+                  "coords": [
+                        -61.909308,
+                        47.41512
+                  ]
+            },
+            {
+                  "name": "Écomusée de la Mi-Carême",
+                  "text": "Ez a múzeum a Magdalen Islands Nature V2-ben helyi hagyományokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -61.898782,
+                        47.403417
+                  ]
+            },
+            {
+                  "name": "Phare du Borgot",
+                  "text": "Ez a világítótorony a Magdalen-szigetek egyik nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.959317,
+                        47.384738
+                  ]
+            },
+            {
+                  "name": "Plage de la Dune du Nord",
+                  "text": "Ez a strand a Magdalen Islands Nature V2-ben homokos part.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.801057,
+                        47.465944
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "Ez a kis strand a Magdalen Islands Nature V2-ben egy fürdőhely.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.882562,
+                        47.345035
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle des pas perdus",
+                  "text": "Ez a színház a Magdalen Islands Nature V2-ben előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.860777,
+                        47.380461
+                  ]
+            },
+            {
+                  "name": "Plage de la police",
+                  "text": "Ez a strand a Magdalen Islands Nature V2-ben népszerű hely.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.871206,
+                        47.366136
+                  ]
+            },
+            {
+                  "name": "Plage du Pédalo",
+                  "text": "Ez a strand a Magdalen Islands Nature V2-ben a vízibiciklikről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.845935,
+                        47.396181
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Ez a színház a Magdalen Islands Nature V2-ben előadásokat tart.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.881646,
+                        47.34551
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "Ez a strand a Magdalen Islands Nature V2-ben egy tengerparti terület.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.895294,
+                        47.419685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare de l'Échouerie",
+                  "text": "Acest far din Magdalen Islands Nature V2 marchează coasta.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.773528,
+                        47.390905
+                  ]
+            },
+            {
+                  "name": "Auditorium Rosaire-Vigneault",
+                  "text": "Acest teatru din Magdalen Islands Nature V2 găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.916173,
+                        47.370634
+                  ]
+            },
+            {
+                  "name": "Arrimage",
+                  "text": "Acest centru de artă din Magdalen Islands Nature V2 promovează cultura.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.908677,
+                        47.371153
+                  ]
+            },
+            {
+                  "name": "Poste d'Observation",
+                  "text": "Acest punct de observație din Magdalen Islands Nature V2 oferă vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -61.85825,
+                        47.37819
+                  ]
+            },
+            {
+                  "name": "Fin de route",
+                  "text": "Acest punct de observație din Magdalen Islands Nature V2 marchează sfârșitul drumului.",
+                  "category": "natural",
+                  "coords": [
+                        -61.909308,
+                        47.41512
+                  ]
+            },
+            {
+                  "name": "Écomusée de la Mi-Carême",
+                  "text": "Acest muzeu din Magdalen Islands Nature V2 prezintă tradiții locale.",
+                  "category": "museum",
+                  "coords": [
+                        -61.898782,
+                        47.403417
+                  ]
+            },
+            {
+                  "name": "Phare du Borgot",
+                  "text": "Acest far este un reper pe Insulele Magdalen.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.959317,
+                        47.384738
+                  ]
+            },
+            {
+                  "name": "Plage de la Dune du Nord",
+                  "text": "Această plajă din Magdalen Islands Nature V2 este o coastă nisipoasă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.801057,
+                        47.465944
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "Această plajă mică din Magdalen Islands Nature V2 este un loc de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.882562,
+                        47.345035
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle des pas perdus",
+                  "text": "Acest teatru din Magdalen Islands Nature V2 prezintă spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.860777,
+                        47.380461
+                  ]
+            },
+            {
+                  "name": "Plage de la police",
+                  "text": "Această plajă din Magdalen Islands Nature V2 este o locație populară.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.871206,
+                        47.366136
+                  ]
+            },
+            {
+                  "name": "Plage du Pédalo",
+                  "text": "Această plajă din Magdalen Islands Nature V2 este cunoscută pentru bărci cu pedale.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.845935,
+                        47.396181
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "Acest teatru din Magdalen Islands Nature V2 găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.881646,
+                        47.34551
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "Această plajă din Magdalen Islands Nature V2 este o zonă de coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.895294,
+                        47.419685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cap-Alright Lighthouse",
+                  "text": "This lighthouse in Magdalen Islands Nature V2 marks the coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.773528,
+                        47.390905
+                  ]
+            },
+            {
+                  "name": "Auditorium Rosaire-Vigneault",
+                  "text": "This theatre in Magdalen Islands Nature V2 hosts performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.916173,
+                        47.370634
+                  ]
+            },
+            {
+                  "name": "Arrimage",
+                  "text": "This arts centre in Magdalen Islands Nature V2 promotes culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.908677,
+                        47.371153
+                  ]
+            },
+            {
+                  "name": "Poste d'Observation",
+                  "text": "This viewpoint in Magdalen Islands Nature V2 offers scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -61.85825,
+                        47.37819
+                  ]
+            },
+            {
+                  "name": "Fin de route",
+                  "text": "This viewpoint in Magdalen Islands Nature V2 marks the end of the road.",
+                  "category": "natural",
+                  "coords": [
+                        -61.909308,
+                        47.41512
+                  ]
+            },
+            {
+                  "name": "Écomusée de la Mi-Carême",
+                  "text": "This museum in Magdalen Islands Nature V2 showcases local traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -61.898782,
+                        47.403417
+                  ]
+            },
+            {
+                  "name": "Phare du Borgot",
+                  "text": "This lighthouse is a landmark on the Magdalen Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.959317,
+                        47.384738
+                  ]
+            },
+            {
+                  "name": "Plage de la Dune du Nord",
+                  "text": "This beach in Magdalen Islands Nature V2 is a sandy shoreline.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.801057,
+                        47.465944
+                  ]
+            },
+            {
+                  "name": "Petite Plage",
+                  "text": "This small beach in Magdalen Islands Nature V2 is a swimming spot.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.882562,
+                        47.345035
+                  ]
+            },
+            {
+                  "name": "Salle de spectacle des pas perdus",
+                  "text": "This theatre in Magdalen Islands Nature V2 presents shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.860777,
+                        47.380461
+                  ]
+            },
+            {
+                  "name": "Plage de la police",
+                  "text": "This beach in Magdalen Islands Nature V2 is a popular location.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.871206,
+                        47.366136
+                  ]
+            },
+            {
+                  "name": "Plage du Pédalo",
+                  "text": "This beach in Magdalen Islands Nature V2 is known for pedal boats.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.845935,
+                        47.396181
+                  ]
+            },
+            {
+                  "name": "Salle de Spectacle",
+                  "text": "This theatre in Magdalen Islands Nature V2 hosts performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -61.881646,
+                        47.34551
+                  ]
+            },
+            {
+                  "name": "Plage de l'Hôpital",
+                  "text": "This beach in Magdalen Islands Nature V2 is a coastal area.",
+                  "category": "recreational",
+                  "coords": [
+                        -61.895294,
+                        47.419685
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-QC",
     coords: [-61.85, 47.3833],
@@ -515,7 +3368,160 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-waddington-nature-v2",
+    id: "mount-waddington-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Asperity Mountain",
+                  "text": "Asperity Mountain ist ein markanter Gipfel in der Mount-Waddington-Region von British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -125.221958,
+                        51.390449
+                  ]
+            },
+            {
+                  "name": "Mount Tiedemann",
+                  "text": "Mount Tiedemann ist ein Gipfel im Mount-Waddington-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -125.237187,
+                        51.393846
+                  ]
+            },
+            {
+                  "name": "Mount Waddington",
+                  "text": "Mount Waddington ist der höchste Berg in den Coast Mountains von British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -125.263529,
+                        51.373707
+                  ]
+            },
+            {
+                  "name": "Mount Munday",
+                  "text": "Mount Munday ist ein Gipfel in der Mount-Waddington-Region. Er ist der zweithöchste Gipfel der Waddington Range.",
+                  "category": "natural",
+                  "coords": [
+                        -125.215988,
+                        51.328604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Asperity Mountain",
+                  "text": "Az Asperity-hegy egy kiemelkedő csúcs a Mount Waddington régióban, Brit Columbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -125.221958,
+                        51.390449
+                  ]
+            },
+            {
+                  "name": "Mount Tiedemann",
+                  "text": "A Mount Tiedemann egy csúcs a Mount Waddington térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -125.237187,
+                        51.393846
+                  ]
+            },
+            {
+                  "name": "Mount Waddington",
+                  "text": "A Mount Waddington a legmagasabb hegy a Brit Columbia-i Coast Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -125.263529,
+                        51.373707
+                  ]
+            },
+            {
+                  "name": "Mount Munday",
+                  "text": "A Mount Munday egy csúcs a Mount Waddington régióban. Ez a Waddington-hegység második legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -125.215988,
+                        51.328604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Asperity Mountain",
+                  "text": "Asperity Mountain este un vârf proeminent în regiunea Mount Waddington din Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -125.221958,
+                        51.390449
+                  ]
+            },
+            {
+                  "name": "Mount Tiedemann",
+                  "text": "Mount Tiedemann este un vârf în zona Mount Waddington.",
+                  "category": "natural",
+                  "coords": [
+                        -125.237187,
+                        51.393846
+                  ]
+            },
+            {
+                  "name": "Mount Waddington",
+                  "text": "Mount Waddington este cel mai înalt munte din Munții Coast din Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -125.263529,
+                        51.373707
+                  ]
+            },
+            {
+                  "name": "Mount Munday",
+                  "text": "Mount Munday este un vârf în regiunea Mount Waddington. Este al doilea cel mai înalt vârf din lanțul Waddington.",
+                  "category": "natural",
+                  "coords": [
+                        -125.215988,
+                        51.328604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Asperity Mountain",
+                  "text": "Asperity Mountain is a prominent peak in the Mount Waddington region of British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -125.221958,
+                        51.390449
+                  ]
+            },
+            {
+                  "name": "Mount Tiedemann",
+                  "text": "Mount Tiedemann is a peak in the Mount Waddington area.",
+                  "category": "natural",
+                  "coords": [
+                        -125.237187,
+                        51.393846
+                  ]
+            },
+            {
+                  "name": "Mount Waddington",
+                  "text": "Mount Waddington is the highest mountain in the Coast Mountains of British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -125.263529,
+                        51.373707
+                  ]
+            },
+            {
+                  "name": "Mount Munday",
+                  "text": "Mount Munday is a peak in the Mount Waddington region. It is the second highest peak of the Waddington Range.",
+                  "category": "natural",
+                  "coords": [
+                        -125.215988,
+                        51.328604
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-BC",
     coords: [-125.263, 51.371],
@@ -559,7 +3565,124 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "churchill-river-saskatchewan-nature-v2",
+    id: "churchill-river-saskatchewan-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cape Merry",
+                  "text": "Ein Kap mit historischer Stätte an der Mündung des Churchill River.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.201361,
+                        58.785566
+                  ]
+            },
+            {
+                  "name": "Itsanitaq Museum",
+                  "text": "Ein Museum in Churchill, das Inuit-Kunst und -Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -94.166832,
+                        58.77048
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Fort National Historic Site",
+                  "text": "Eine steinerne Festung aus dem 18. Jahrhundert am Churchill River, erbaut von der Hudson’s Bay Company.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.21337,
+                        58.797251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cape Merry",
+                  "text": "Egy fok történelmi helyszínnel a Churchill folyó torkolatánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.201361,
+                        58.785566
+                  ]
+            },
+            {
+                  "name": "Itsanitaq Museum",
+                  "text": "Múzeum Churchillben, amely inuit művészetet és kultúrát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -94.166832,
+                        58.77048
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Fort National Historic Site",
+                  "text": "Egy 18. századi kőerőd a Churchill folyónál, a Hudson's Bay Company építette.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.21337,
+                        58.797251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cape Merry",
+                  "text": "Un cap cu sit istoric la gura râului Churchill.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.201361,
+                        58.785566
+                  ]
+            },
+            {
+                  "name": "Itsanitaq Museum",
+                  "text": "Un muzeu în Churchill care prezintă arta și cultura inuit.",
+                  "category": "museum",
+                  "coords": [
+                        -94.166832,
+                        58.77048
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Fort National Historic Site",
+                  "text": "O fortăreață de piatră din secolul al XVIII-lea pe râul Churchill, construită de Compania Hudson's Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.21337,
+                        58.797251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cape Merry",
+                  "text": "A cape with a historic site at the mouth of the Churchill River.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.201361,
+                        58.785566
+                  ]
+            },
+            {
+                  "name": "Itsanitaq Museum",
+                  "text": "A museum in Churchill showcasing Inuit art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -94.166832,
+                        58.77048
+                  ]
+            },
+            {
+                  "name": "Prince of Wales Fort National Historic Site",
+                  "text": "An 18th-century stone fort on the Churchill River, built by the Hudson's Bay Company.",
+                  "category": "landmark",
+                  "coords": [
+                        -94.21337,
+                        58.797251
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CA-SK",
     coords: [-94.1667, 58.7833],
@@ -647,7 +3770,52 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "prince-edward-island-nature-v2",
+    id: "prince-edward-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blooming Point Beach",
+                  "text": "Blooming Point Beach ist ein Strand auf der Prinz-Edward-Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.950037,
+                        46.422404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blooming Point Beach",
+                  "text": "A Blooming Point Beach egy strand a Prince Edward-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.950037,
+                        46.422404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blooming Point Beach",
+                  "text": "Plaja Blooming Point este o plajă pe Insula Prințului Eduard.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.950037,
+                        46.422404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blooming Point Beach",
+                  "text": "Blooming Point Beach is a beach on Prince Edward Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -62.950037,
+                        46.422404
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-PE",
     coords: [-63.0, 46.5],
@@ -691,7 +3859,520 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "carmanah-walbran-provincial-park-forest-nature-v2",
+    id: "carmanah-walbran-provincial-park-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carmanah Mountain",
+                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.710042,
+                        48.68219
+                  ]
+            },
+            {
+                  "name": "Monster Jam",
+                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.608153,
+                        48.641646
+                  ]
+            },
+            {
+                  "name": "Marble Canyon",
+                  "text": "Eine Schlucht im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.60729,
+                        48.639251
+                  ]
+            },
+            {
+                  "name": "Tolkien Giant",
+                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.601618,
+                        48.647247
+                  ]
+            },
+            {
+                  "name": "Walbran Falls",
+                  "text": "Ein Wasserfall im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.590197,
+                        48.655004
+                  ]
+            },
+            {
+                  "name": "Medicine Wheel",
+                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.596222,
+                        48.655014
+                  ]
+            },
+            {
+                  "name": "House Cone",
+                  "text": "Ein Gipfel im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.533545,
+                        48.653785
+                  ]
+            },
+            {
+                  "name": "Castle Grove",
+                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.584527,
+                        48.657621
+                  ]
+            },
+            {
+                  "name": "Castle Giant",
+                  "text": "Eine Attraktion im Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.582558,
+                        48.657889
+                  ]
+            },
+            {
+                  "name": "cell spot (rogers)",
+                  "text": "Ein Aussichtspunkt im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.502308,
+                        48.672219
+                  ]
+            },
+            {
+                  "name": "Mount Walbran",
+                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.508167,
+                        48.692034
+                  ]
+            },
+            {
+                  "name": "Mount Rosander",
+                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.691881,
+                        48.758392
+                  ]
+            },
+            {
+                  "name": "Smokehouse Mountain",
+                  "text": "Ein Berg im Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.681361,
+                        48.71984
+                  ]
+            },
+            {
+                  "name": "Carmanah Walbran Provincial Park",
+                  "text": "Der Park ist bekannt für seine alten Riesen-Sitka-Fichten.",
+                  "category": "natural",
+                  "coords": [
+                        -124.631373,
+                        48.653613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carmanah Mountain",
+                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.710042,
+                        48.68219
+                  ]
+            },
+            {
+                  "name": "Monster Jam",
+                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.608153,
+                        48.641646
+                  ]
+            },
+            {
+                  "name": "Marble Canyon",
+                  "text": "Egy kanyon a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.60729,
+                        48.639251
+                  ]
+            },
+            {
+                  "name": "Tolkien Giant",
+                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.601618,
+                        48.647247
+                  ]
+            },
+            {
+                  "name": "Walbran Falls",
+                  "text": "Egy vízesés a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.590197,
+                        48.655004
+                  ]
+            },
+            {
+                  "name": "Medicine Wheel",
+                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.596222,
+                        48.655014
+                  ]
+            },
+            {
+                  "name": "House Cone",
+                  "text": "Egy csúcs a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.533545,
+                        48.653785
+                  ]
+            },
+            {
+                  "name": "Castle Grove",
+                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.584527,
+                        48.657621
+                  ]
+            },
+            {
+                  "name": "Castle Giant",
+                  "text": "Egy látványosság a Carmanah Walbran Tartományi Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.582558,
+                        48.657889
+                  ]
+            },
+            {
+                  "name": "cell spot (rogers)",
+                  "text": "Egy kilátópont a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.502308,
+                        48.672219
+                  ]
+            },
+            {
+                  "name": "Mount Walbran",
+                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.508167,
+                        48.692034
+                  ]
+            },
+            {
+                  "name": "Mount Rosander",
+                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.691881,
+                        48.758392
+                  ]
+            },
+            {
+                  "name": "Smokehouse Mountain",
+                  "text": "Egy hegy a Carmanah Walbran Tartományi Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -124.681361,
+                        48.71984
+                  ]
+            },
+            {
+                  "name": "Carmanah Walbran Provincial Park",
+                  "text": "A park híres óriás Sitka-lucfenyőiről.",
+                  "category": "natural",
+                  "coords": [
+                        -124.631373,
+                        48.653613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carmanah Mountain",
+                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.710042,
+                        48.68219
+                  ]
+            },
+            {
+                  "name": "Monster Jam",
+                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.608153,
+                        48.641646
+                  ]
+            },
+            {
+                  "name": "Marble Canyon",
+                  "text": "Un canion în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.60729,
+                        48.639251
+                  ]
+            },
+            {
+                  "name": "Tolkien Giant",
+                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.601618,
+                        48.647247
+                  ]
+            },
+            {
+                  "name": "Walbran Falls",
+                  "text": "O cascadă în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.590197,
+                        48.655004
+                  ]
+            },
+            {
+                  "name": "Medicine Wheel",
+                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.596222,
+                        48.655014
+                  ]
+            },
+            {
+                  "name": "House Cone",
+                  "text": "Un vârf în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.533545,
+                        48.653785
+                  ]
+            },
+            {
+                  "name": "Castle Grove",
+                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.584527,
+                        48.657621
+                  ]
+            },
+            {
+                  "name": "Castle Giant",
+                  "text": "O atracție în Parcul Provincial Carmanah Walbran.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.582558,
+                        48.657889
+                  ]
+            },
+            {
+                  "name": "cell spot (rogers)",
+                  "text": "Un punct de belvedere în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.502308,
+                        48.672219
+                  ]
+            },
+            {
+                  "name": "Mount Walbran",
+                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.508167,
+                        48.692034
+                  ]
+            },
+            {
+                  "name": "Mount Rosander",
+                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.691881,
+                        48.758392
+                  ]
+            },
+            {
+                  "name": "Smokehouse Mountain",
+                  "text": "Un munte în Parcul Provincial Carmanah Walbran.",
+                  "category": "natural",
+                  "coords": [
+                        -124.681361,
+                        48.71984
+                  ]
+            },
+            {
+                  "name": "Carmanah Walbran Provincial Park",
+                  "text": "Parcul este cunoscut pentru brazii săi uriași Sitka.",
+                  "category": "natural",
+                  "coords": [
+                        -124.631373,
+                        48.653613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carmanah Mountain",
+                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.710042,
+                        48.68219
+                  ]
+            },
+            {
+                  "name": "Monster Jam",
+                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.608153,
+                        48.641646
+                  ]
+            },
+            {
+                  "name": "Marble Canyon",
+                  "text": "A canyon in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.60729,
+                        48.639251
+                  ]
+            },
+            {
+                  "name": "Tolkien Giant",
+                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.601618,
+                        48.647247
+                  ]
+            },
+            {
+                  "name": "Walbran Falls",
+                  "text": "A waterfall in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.590197,
+                        48.655004
+                  ]
+            },
+            {
+                  "name": "Medicine Wheel",
+                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.596222,
+                        48.655014
+                  ]
+            },
+            {
+                  "name": "House Cone",
+                  "text": "A peak in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.533545,
+                        48.653785
+                  ]
+            },
+            {
+                  "name": "Castle Grove",
+                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.584527,
+                        48.657621
+                  ]
+            },
+            {
+                  "name": "Castle Giant",
+                  "text": "An attraction in Carmanah Walbran Provincial Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -124.582558,
+                        48.657889
+                  ]
+            },
+            {
+                  "name": "cell spot (rogers)",
+                  "text": "A viewpoint in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.502308,
+                        48.672219
+                  ]
+            },
+            {
+                  "name": "Mount Walbran",
+                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.508167,
+                        48.692034
+                  ]
+            },
+            {
+                  "name": "Mount Rosander",
+                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.691881,
+                        48.758392
+                  ]
+            },
+            {
+                  "name": "Smokehouse Mountain",
+                  "text": "A mountain in Carmanah Walbran Provincial Park.",
+                  "category": "natural",
+                  "coords": [
+                        -124.681361,
+                        48.71984
+                  ]
+            },
+            {
+                  "name": "Carmanah Walbran Provincial Park",
+                  "text": "The park is known for its ancient giant Sitka spruce trees.",
+                  "category": "natural",
+                  "coords": [
+                        -124.631373,
+                        48.653613
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CA-BC",
     coords: [-124.6, 48.7],
@@ -735,7 +4416,556 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-assiniboine-park-forest-nature-v2",
+    id: "mount-assiniboine-park-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Allenby",
+                  "text": "Mount Allenby ist ein Gipfel im Mount-Assiniboine-Parkwald.",
+                  "category": "natural",
+                  "coords": [
+                        -115.533084,
+                        50.939915
+                  ]
+            },
+            {
+                  "name": "Cascade Rock",
+                  "text": "Cascade Rock ist ein felsiger Gipfel im Mount-Assiniboine-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.576882,
+                        50.918204
+                  ]
+            },
+            {
+                  "name": "Marvel Peak",
+                  "text": "Marvel Peak ist ein Gipfel in den kanadischen Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -115.551389,
+                        50.859722
+                  ]
+            },
+            {
+                  "name": "The Towers",
+                  "text": "The Towers sind eine Gruppe von Felstürmen in den Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -115.602039,
+                        50.886995
+                  ]
+            },
+            {
+                  "name": "Terrapin Mountain",
+                  "text": "Terrapin Mountain ist ein Berg in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.617309,
+                        50.880428
+                  ]
+            },
+            {
+                  "name": "Mount Magog",
+                  "text": "Mount Magog ist ein Berg in der Nähe des Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.635513,
+                        50.878421
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine",
+                  "text": "Der Mount Assiniboine ist der höchste Gipfel im Park und wird oft als 'Matterhorn der Rocky Mountains' bezeichnet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.651347,
+                        50.870019
+                  ]
+            },
+            {
+                  "name": "Lunette Peak",
+                  "text": "Lunette Peak ist ein Gipfel neben dem Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649269,
+                        50.865933
+                  ]
+            },
+            {
+                  "name": "Mount Sturdee",
+                  "text": "Mount Sturdee ist ein Gipfel im Mount-Assiniboine-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.664448,
+                        50.867804
+                  ]
+            },
+            {
+                  "name": "Eon Mountain",
+                  "text": "Eon Mountain ist ein Berg in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.625116,
+                        50.834875
+                  ]
+            },
+            {
+                  "name": "Aye Mountain",
+                  "text": "Aye Mountain ist ein Berg in den kanadischen Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -115.64308,
+                        50.840995
+                  ]
+            },
+            {
+                  "name": "Mount Gloria SE1",
+                  "text": "Mount Gloria SE1 ist ein Nebengipfel des Mount Gloria.",
+                  "category": "natural",
+                  "coords": [
+                        -115.607241,
+                        50.846085
+                  ]
+            },
+            {
+                  "name": "Aurora Mountain",
+                  "text": "Aurora Mountain ist ein Berg, dessen Name an das Polarlicht erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -115.543001,
+                        50.825259
+                  ]
+            },
+            {
+                  "name": "Mount Byng",
+                  "text": "Mount Byng ist ein Berg in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.526602,
+                        50.829275
+                  ]
+            },
+            {
+                  "name": "Cone Mountain",
+                  "text": "Cone Mountain ist ein kegelförmiger Berg in den Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -115.463369,
+                        50.890594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Allenby",
+                  "text": "A Mount Allenby egy csúcs a Mount Assiniboine Parkerdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -115.533084,
+                        50.939915
+                  ]
+            },
+            {
+                  "name": "Cascade Rock",
+                  "text": "A Cascade Rock egy sziklás csúcs a Mount Assiniboine területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.576882,
+                        50.918204
+                  ]
+            },
+            {
+                  "name": "Marvel Peak",
+                  "text": "A Marvel Peak egy csúcs a kanadai Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -115.551389,
+                        50.859722
+                  ]
+            },
+            {
+                  "name": "The Towers",
+                  "text": "A The Towers egy sziklatornyokból álló csoport a Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -115.602039,
+                        50.886995
+                  ]
+            },
+            {
+                  "name": "Terrapin Mountain",
+                  "text": "A Terrapin Mountain egy hegy Brit-Kolumbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -115.617309,
+                        50.880428
+                  ]
+            },
+            {
+                  "name": "Mount Magog",
+                  "text": "A Mount Magog egy hegy a Mount Assiniboine közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.635513,
+                        50.878421
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine",
+                  "text": "A Mount Assiniboine a park legmagasabb csúcsa, gyakran a 'Rocky Mountains Matterhornjaként' emlegetik.",
+                  "category": "natural",
+                  "coords": [
+                        -115.651347,
+                        50.870019
+                  ]
+            },
+            {
+                  "name": "Lunette Peak",
+                  "text": "A Lunette Peak egy csúcs a Mount Assiniboine mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649269,
+                        50.865933
+                  ]
+            },
+            {
+                  "name": "Mount Sturdee",
+                  "text": "A Mount Sturdee egy csúcs a Mount Assiniboine területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.664448,
+                        50.867804
+                  ]
+            },
+            {
+                  "name": "Eon Mountain",
+                  "text": "Az Eon Mountain egy hegy Brit-Kolumbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -115.625116,
+                        50.834875
+                  ]
+            },
+            {
+                  "name": "Aye Mountain",
+                  "text": "Az Aye Mountain egy hegy a kanadai Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -115.64308,
+                        50.840995
+                  ]
+            },
+            {
+                  "name": "Mount Gloria SE1",
+                  "text": "A Mount Gloria SE1 a Mount Gloria egyik alcsúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -115.607241,
+                        50.846085
+                  ]
+            },
+            {
+                  "name": "Aurora Mountain",
+                  "text": "Az Aurora Mountain egy hegy, melynek neve az északi fényre utal.",
+                  "category": "natural",
+                  "coords": [
+                        -115.543001,
+                        50.825259
+                  ]
+            },
+            {
+                  "name": "Mount Byng",
+                  "text": "A Mount Byng egy hegy Brit-Kolumbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -115.526602,
+                        50.829275
+                  ]
+            },
+            {
+                  "name": "Cone Mountain",
+                  "text": "A Cone Mountain egy kúp alakú hegy a Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -115.463369,
+                        50.890594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Allenby",
+                  "text": "Mount Allenby este un vârf în pădurea-parc Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.533084,
+                        50.939915
+                  ]
+            },
+            {
+                  "name": "Cascade Rock",
+                  "text": "Cascade Rock este un vârf stâncos în zona Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.576882,
+                        50.918204
+                  ]
+            },
+            {
+                  "name": "Marvel Peak",
+                  "text": "Marvel Peak este un vârf în Munții Stâncoși canadieni.",
+                  "category": "natural",
+                  "coords": [
+                        -115.551389,
+                        50.859722
+                  ]
+            },
+            {
+                  "name": "The Towers",
+                  "text": "The Towers sunt un grup de turnuri de stâncă în Munții Stâncoși.",
+                  "category": "natural",
+                  "coords": [
+                        -115.602039,
+                        50.886995
+                  ]
+            },
+            {
+                  "name": "Terrapin Mountain",
+                  "text": "Terrapin Mountain este un munte în Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -115.617309,
+                        50.880428
+                  ]
+            },
+            {
+                  "name": "Mount Magog",
+                  "text": "Mount Magog este un munte lângă Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.635513,
+                        50.878421
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine",
+                  "text": "Mount Assiniboine este cel mai înalt vârf din parc, adesea numit 'Matterhornul Munților Stâncoși'.",
+                  "category": "natural",
+                  "coords": [
+                        -115.651347,
+                        50.870019
+                  ]
+            },
+            {
+                  "name": "Lunette Peak",
+                  "text": "Lunette Peak este un vârf adiacent Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649269,
+                        50.865933
+                  ]
+            },
+            {
+                  "name": "Mount Sturdee",
+                  "text": "Mount Sturdee este un vârf în zona Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.664448,
+                        50.867804
+                  ]
+            },
+            {
+                  "name": "Eon Mountain",
+                  "text": "Eon Mountain este un munte în Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -115.625116,
+                        50.834875
+                  ]
+            },
+            {
+                  "name": "Aye Mountain",
+                  "text": "Aye Mountain este un munte în Munții Stâncoși canadieni.",
+                  "category": "natural",
+                  "coords": [
+                        -115.64308,
+                        50.840995
+                  ]
+            },
+            {
+                  "name": "Mount Gloria SE1",
+                  "text": "Mount Gloria SE1 este un subvârf al Mount Gloria.",
+                  "category": "natural",
+                  "coords": [
+                        -115.607241,
+                        50.846085
+                  ]
+            },
+            {
+                  "name": "Aurora Mountain",
+                  "text": "Aurora Mountain este un munte al cărui nume amintește de aurora boreală.",
+                  "category": "natural",
+                  "coords": [
+                        -115.543001,
+                        50.825259
+                  ]
+            },
+            {
+                  "name": "Mount Byng",
+                  "text": "Mount Byng este un munte în Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -115.526602,
+                        50.829275
+                  ]
+            },
+            {
+                  "name": "Cone Mountain",
+                  "text": "Cone Mountain este un munte în formă de con în Munții Stâncoși.",
+                  "category": "natural",
+                  "coords": [
+                        -115.463369,
+                        50.890594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Allenby",
+                  "text": "Mount Allenby is a peak in the Mount Assiniboine park forest.",
+                  "category": "natural",
+                  "coords": [
+                        -115.533084,
+                        50.939915
+                  ]
+            },
+            {
+                  "name": "Cascade Rock",
+                  "text": "Cascade Rock is a rocky peak in the Mount Assiniboine area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.576882,
+                        50.918204
+                  ]
+            },
+            {
+                  "name": "Marvel Peak",
+                  "text": "Marvel Peak is a peak in the Canadian Rockies.",
+                  "category": "natural",
+                  "coords": [
+                        -115.551389,
+                        50.859722
+                  ]
+            },
+            {
+                  "name": "The Towers",
+                  "text": "The Towers are a set of rock towers in the Canadian Rockies.",
+                  "category": "natural",
+                  "coords": [
+                        -115.602039,
+                        50.886995
+                  ]
+            },
+            {
+                  "name": "Terrapin Mountain",
+                  "text": "Terrapin Mountain is a mountain in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.617309,
+                        50.880428
+                  ]
+            },
+            {
+                  "name": "Mount Magog",
+                  "text": "Mount Magog is a mountain near Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.635513,
+                        50.878421
+                  ]
+            },
+            {
+                  "name": "Mount Assiniboine",
+                  "text": "Mount Assiniboine is the highest peak in the park, often called the 'Matterhorn of the Rockies'.",
+                  "category": "natural",
+                  "coords": [
+                        -115.651347,
+                        50.870019
+                  ]
+            },
+            {
+                  "name": "Lunette Peak",
+                  "text": "Lunette Peak is a peak adjacent to Mount Assiniboine.",
+                  "category": "natural",
+                  "coords": [
+                        -115.649269,
+                        50.865933
+                  ]
+            },
+            {
+                  "name": "Mount Sturdee",
+                  "text": "Mount Sturdee is a peak in the Mount Assiniboine area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.664448,
+                        50.867804
+                  ]
+            },
+            {
+                  "name": "Eon Mountain",
+                  "text": "Eon Mountain is a mountain in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.625116,
+                        50.834875
+                  ]
+            },
+            {
+                  "name": "Aye Mountain",
+                  "text": "Aye Mountain is a mountain in the Canadian Rockies.",
+                  "category": "natural",
+                  "coords": [
+                        -115.64308,
+                        50.840995
+                  ]
+            },
+            {
+                  "name": "Mount Gloria SE1",
+                  "text": "Mount Gloria SE1 is a subpeak of Mount Gloria.",
+                  "category": "natural",
+                  "coords": [
+                        -115.607241,
+                        50.846085
+                  ]
+            },
+            {
+                  "name": "Aurora Mountain",
+                  "text": "Aurora Mountain is a mountain with an aurora-related name.",
+                  "category": "natural",
+                  "coords": [
+                        -115.543001,
+                        50.825259
+                  ]
+            },
+            {
+                  "name": "Mount Byng",
+                  "text": "Mount Byng is a mountain in British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -115.526602,
+                        50.829275
+                  ]
+            },
+            {
+                  "name": "Cone Mountain",
+                  "text": "Cone Mountain is a cone-shaped mountain in the Rockies.",
+                  "category": "natural",
+                  "coords": [
+                        -115.463369,
+                        50.890594
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CA-BC",
     coords: [-115.6, 50.9],
@@ -779,7 +5009,52 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "gwaii-haanas-national-park-reserve-forest-nature-v2",
+    id: "gwaii-haanas-national-park-reserve-forest-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yatza Mountain",
+                  "text": "Yatza Mountain ist ein Berggipfel im Gwaii-Haanas-Nationalpark-Reservat.",
+                  "category": "natural",
+                  "coords": [
+                        -131.439903,
+                        52.344801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yatza Mountain",
+                  "text": "A Yatza-hegy egy hegycsúcs a Gwaii Haanas Nemzeti Park Rezervátumban.",
+                  "category": "natural",
+                  "coords": [
+                        -131.439903,
+                        52.344801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yatza Mountain",
+                  "text": "Yatza Mountain este un vârf montan în Rezervația Parcului Național Gwaii Haanas.",
+                  "category": "natural",
+                  "coords": [
+                        -131.439903,
+                        52.344801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yatza Mountain",
+                  "text": "Yatza Mountain is a mountain peak in Gwaii Haanas National Park Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -131.439903,
+                        52.344801
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "CA-BC",
     coords: [-131.5, 52.4],
@@ -823,7 +5098,52 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-columbia-nature-v2",
+    id: "mount-columbia-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Apex Mountain",
+                  "text": "Ein Gipfel, der Teil des Chaba-Eisfeldes ist, im Mount-Columbia-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -117.82099,
+                        52.214875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Apex Mountain",
+                  "text": "Egy csúcs, amely a Chaba-jégmező része, a Mount-Columbia területén.",
+                  "category": "natural",
+                  "coords": [
+                        -117.82099,
+                        52.214875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Apex Mountain",
+                  "text": "Un vârf care face parte din ghețarul Chaba în zona Mount Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -117.82099,
+                        52.214875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Apex Mountain",
+                  "text": "A peak that is part of the Chaba Icefield in the Mount Columbia area.",
+                  "category": "natural",
+                  "coords": [
+                        -117.82099,
+                        52.214875
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-AB",
     coords: [-117.884, 52.148],
@@ -955,7 +5275,88 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "cape-breton-island-nature-v2",
+    id: "cape-breton-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spotted Mountain",
+                  "text": "Der Spotted Mountain ist ein Gipfel auf Cape Breton Island.",
+                  "category": "natural",
+                  "coords": [
+                        -60.686238,
+                        46.297266
+                  ]
+            },
+            {
+                  "name": "North River Wilderness Area",
+                  "text": "Das North River Wilderness Area ist ein Naturschutzgebiet auf Cape Breton Island.",
+                  "category": "natural",
+                  "coords": [
+                        -60.688414,
+                        46.31306
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spotted Mountain",
+                  "text": "A Spotted Mountain egy csúcs Cape Breton-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -60.686238,
+                        46.297266
+                  ]
+            },
+            {
+                  "name": "North River Wilderness Area",
+                  "text": "A North River Wilderness Area egy természetvédelmi terület Cape Breton-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -60.688414,
+                        46.31306
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spotted Mountain",
+                  "text": "Spotted Mountain este un vârf pe Insula Cape Breton.",
+                  "category": "natural",
+                  "coords": [
+                        -60.686238,
+                        46.297266
+                  ]
+            },
+            {
+                  "name": "North River Wilderness Area",
+                  "text": "North River Wilderness Area este o rezervație naturală pe Insula Cape Breton.",
+                  "category": "natural",
+                  "coords": [
+                        -60.688414,
+                        46.31306
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spotted Mountain",
+                  "text": "Spotted Mountain is a peak on Cape Breton Island.",
+                  "category": "natural",
+                  "coords": [
+                        -60.686238,
+                        46.297266
+                  ]
+            },
+            {
+                  "name": "North River Wilderness Area",
+                  "text": "North River Wilderness Area is a nature reserve on Cape Breton Island.",
+                  "category": "natural",
+                  "coords": [
+                        -60.688414,
+                        46.31306
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-NS",
     coords: [-60.75, 46.25],
@@ -999,7 +5400,124 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "manitoulin-island-nature-v2",
+    id: "manitoulin-island-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dominion Bay",
+                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.416386,
+                        45.701786
+                  ]
+            },
+            {
+                  "name": "Melville Bay",
+                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.401701,
+                        45.700075
+                  ]
+            },
+            {
+                  "name": "Portage Bay",
+                  "text": "Eine Bucht auf der Manitoulin-Insel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.535287,
+                        45.751369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dominion Bay",
+                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.416386,
+                        45.701786
+                  ]
+            },
+            {
+                  "name": "Melville Bay",
+                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.401701,
+                        45.700075
+                  ]
+            },
+            {
+                  "name": "Portage Bay",
+                  "text": "Egy öböl a Manitoulin-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.535287,
+                        45.751369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dominion Bay",
+                  "text": "Un golf pe insula Manitoulin.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.416386,
+                        45.701786
+                  ]
+            },
+            {
+                  "name": "Melville Bay",
+                  "text": "Un golf pe insula Manitoulin.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.401701,
+                        45.700075
+                  ]
+            },
+            {
+                  "name": "Portage Bay",
+                  "text": "Un golf pe insula Manitoulin.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.535287,
+                        45.751369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dominion Bay",
+                  "text": "A bay on Manitoulin Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.416386,
+                        45.701786
+                  ]
+            },
+            {
+                  "name": "Melville Bay",
+                  "text": "A bay on Manitoulin Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.401701,
+                        45.700075
+                  ]
+            },
+            {
+                  "name": "Portage Bay",
+                  "text": "A bay on Manitoulin Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.535287,
+                        45.751369
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "CA-ON",
     coords: [-82.5, 45.75],
@@ -1043,7 +5561,196 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "yukon-river-nature-v2",
+    id: "yukon-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Miles Canyon Viewpoint",
+                  "text": "Miles Canyon Viewpoint ist ein Aussichtspunkt entlang des Yukon River.",
+                  "category": "natural",
+                  "coords": [
+                        -135.032053,
+                        60.666986
+                  ]
+            },
+            {
+                  "name": "Canyon City Heritage Site",
+                  "text": "Canyon City Heritage Site sind die Ruinen einer historischen Siedlung entlang des Yukon River.",
+                  "category": "historical",
+                  "coords": [
+                        -135.001673,
+                        60.658603
+                  ]
+            },
+            {
+                  "name": "Wigan",
+                  "text": "Wigan ist eine Attraktion entlang des Yukon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.0,
+                        60.65
+                  ]
+            },
+            {
+                  "name": "Paddlewheel",
+                  "text": "Paddlewheel ist eine Attraktion mit einem Schaufelrad entlang des Yukon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.052956,
+                        60.675384
+                  ]
+            },
+            {
+                  "name": "Fish Ladders",
+                  "text": "Fish Ladders ist ein Aussichtspunkt mit Blick auf Fischtreppen entlang des Yukon River.",
+                  "category": "natural",
+                  "coords": [
+                        -135.041198,
+                        60.697044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Miles Canyon Viewpoint",
+                  "text": "A Miles Canyon Viewpoint egy kilátó a Yukon folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -135.032053,
+                        60.666986
+                  ]
+            },
+            {
+                  "name": "Canyon City Heritage Site",
+                  "text": "A Canyon City Heritage Site egy történelmi település romjai a Yukon folyó mentén.",
+                  "category": "historical",
+                  "coords": [
+                        -135.001673,
+                        60.658603
+                  ]
+            },
+            {
+                  "name": "Wigan",
+                  "text": "A Wigan egy látványosság a Yukon folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.0,
+                        60.65
+                  ]
+            },
+            {
+                  "name": "Paddlewheel",
+                  "text": "A Paddlewheel egy látványosság egy lapátkerékkel a Yukon folyó mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.052956,
+                        60.675384
+                  ]
+            },
+            {
+                  "name": "Fish Ladders",
+                  "text": "A Fish Ladders egy kilátó, ahonnan halátjárók láthatók a Yukon folyó mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -135.041198,
+                        60.697044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Miles Canyon Viewpoint",
+                  "text": "Miles Canyon Viewpoint este un punct de belvedere de-a lungul râului Yukon.",
+                  "category": "natural",
+                  "coords": [
+                        -135.032053,
+                        60.666986
+                  ]
+            },
+            {
+                  "name": "Canyon City Heritage Site",
+                  "text": "Canyon City Heritage Site este o ruină a unei așezări istorice de-a lungul râului Yukon.",
+                  "category": "historical",
+                  "coords": [
+                        -135.001673,
+                        60.658603
+                  ]
+            },
+            {
+                  "name": "Wigan",
+                  "text": "Wigan este o atracție de-a lungul râului Yukon.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.0,
+                        60.65
+                  ]
+            },
+            {
+                  "name": "Paddlewheel",
+                  "text": "Paddlewheel este o atracție cu o roată cu zbaturi de-a lungul râului Yukon.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.052956,
+                        60.675384
+                  ]
+            },
+            {
+                  "name": "Fish Ladders",
+                  "text": "Fish Ladders este un punct de belvedere care oferă vedere la scări pentru pești de-a lungul râului Yukon.",
+                  "category": "natural",
+                  "coords": [
+                        -135.041198,
+                        60.697044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Miles Canyon Viewpoint",
+                  "text": "Miles Canyon Viewpoint is a viewpoint along the Yukon River.",
+                  "category": "natural",
+                  "coords": [
+                        -135.032053,
+                        60.666986
+                  ]
+            },
+            {
+                  "name": "Canyon City Heritage Site",
+                  "text": "Canyon City Heritage Site is a ruins of a historic settlement along the Yukon River.",
+                  "category": "historical",
+                  "coords": [
+                        -135.001673,
+                        60.658603
+                  ]
+            },
+            {
+                  "name": "Wigan",
+                  "text": "Wigan is an attraction along the Yukon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.0,
+                        60.65
+                  ]
+            },
+            {
+                  "name": "Paddlewheel",
+                  "text": "Paddlewheel is an attraction featuring a paddlewheel along the Yukon River.",
+                  "category": "landmark",
+                  "coords": [
+                        -135.052956,
+                        60.675384
+                  ]
+            },
+            {
+                  "name": "Fish Ladders",
+                  "text": "Fish Ladders is a viewpoint offering views of fish ladders along the Yukon River.",
+                  "category": "natural",
+                  "coords": [
+                        -135.041198,
+                        60.697044
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CA-YT",
     coords: [-135.0, 60.7],
@@ -1087,7 +5794,52 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "mount-foraker-nature-v2",
+    id: "mount-foraker-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Logan",
+                  "text": "Mount Logan ist ein Gipfel in der Mount-Foraker-Region, der höchste Berg Kanadas.",
+                  "category": "natural",
+                  "coords": [
+                        -140.405691,
+                        60.567846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Logan",
+                  "text": "A Mount Logan egy csúcs a Mount Foraker régióban, Kanada legmagasabb hegye.",
+                  "category": "natural",
+                  "coords": [
+                        -140.405691,
+                        60.567846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Logan",
+                  "text": "Mount Logan este un vârf în regiunea Mount Foraker, cel mai înalt munte din Canada.",
+                  "category": "natural",
+                  "coords": [
+                        -140.405691,
+                        60.567846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Logan",
+                  "text": "Mount Logan is a peak in the Mount Foraker region, the highest mountain in Canada.",
+                  "category": "natural",
+                  "coords": [
+                        -140.405691,
+                        60.567846
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-YT",
     coords: [-140.40, 60.56],
@@ -1131,7 +5883,1312 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "saint-john-river-nature-v2",
+    id: "saint-john-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lookout Point",
+                  "text": "Ein Aussichtspunkt entlang des Saint John River.",
+                  "category": "natural",
+                  "coords": [
+                        -66.04808,
+                        45.325792
+                  ]
+            },
+            {
+                  "name": "New Brunswick Museum",
+                  "text": "Ein Museum in der Region des Saint John River.",
+                  "category": "museum",
+                  "coords": [
+                        -66.082244,
+                        45.268966
+                  ]
+            },
+            {
+                  "name": "Trinity Cross",
+                  "text": "Eine Attraktion: Trinity Cross in der Region des Saint John River.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.060338,
+                        45.266867
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Das Anchor ist ein Denkmal in Saint John.",
+                  "category": "historical",
+                  "coords": [
+                        -66.062768,
+                        45.272769
+                  ]
+            },
+            {
+                  "name": "Cobalt Art Gallery",
+                  "text": "Die Cobalt Art Gallery ist eine Kunstgalerie in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.062054,
+                        45.27136
+                  ]
+            },
+            {
+                  "name": "Blink",
+                  "text": "Blink ist ein Kunstzentrum in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.059286,
+                        45.271672
+                  ]
+            },
+            {
+                  "name": "Peter Buckland Gallery",
+                  "text": "Die Peter Buckland Gallery ist ein Kunstzentrum in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.060742,
+                        45.270032
+                  ]
+            },
+            {
+                  "name": "Frank & Ella Hatheway Labour Exhibit",
+                  "text": "Die Frank & Ella Hatheway Labour Exhibit ist ein Museum in Saint John, das sich mit der Arbeitsgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056596,
+                        45.289488
+                  ]
+            },
+            {
+                  "name": "Phoenix Dinner Theatre",
+                  "text": "Das Phoenix Dinner Theatre ist ein Theater mit Abendessen in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.053995,
+                        45.278825
+                  ]
+            },
+            {
+                  "name": "Punch Lines Comedy Club",
+                  "text": "Der Punch Lines Comedy Club ist ein Comedy-Club in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.057734,
+                        45.274987
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Lookout",
+                  "text": "Der Reversing Falls Lookout ist ein Aussichtspunkt auf die Reversing Falls in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.085768,
+                        45.259614
+                  ]
+            },
+            {
+                  "name": "Tucker Park Beach",
+                  "text": "Der Tucker Park Beach ist ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.098785,
+                        45.311459
+                  ]
+            },
+            {
+                  "name": "Fisher Lake Beach",
+                  "text": "Der Fisher Lake Beach ist ein Strand am Fisher Lake in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.056223,
+                        45.296648
+                  ]
+            },
+            {
+                  "name": "Ragged Point Beach",
+                  "text": "Der Ragged Point Beach ist ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.126502,
+                        45.302332
+                  ]
+            },
+            {
+                  "name": "Sea Dog Cove Nature Preserve",
+                  "text": "Das Sea Dog Cove Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.097457,
+                        45.339462
+                  ]
+            },
+            {
+                  "name": "Turners Flats",
+                  "text": "Die Turners Flats sind ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.081139,
+                        45.321023
+                  ]
+            },
+            {
+                  "name": "Rockwood Park",
+                  "text": "Der Rockwood Park ist ein großer Stadtpark in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.05971,
+                        45.306171
+                  ]
+            },
+            {
+                  "name": "Harbour Bridge",
+                  "text": "Die Harbour Bridge ist eine Stahlbogenbrücke über den Saint John River in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.074499,
+                        45.269355
+                  ]
+            },
+            {
+                  "name": "Fort La Tour",
+                  "text": "Das Fort La Tour ist ein historisches Fort in Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.072286,
+                        45.272899
+                  ]
+            },
+            {
+                  "name": "Imperial Theatre",
+                  "text": "Das Imperial Theatre ist ein historisches Theater in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.05775,
+                        45.272686
+                  ]
+            },
+            {
+                  "name": "Kings Square",
+                  "text": "Der Kings Square ist ein Park im Herzen von Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.058038,
+                        45.273602
+                  ]
+            },
+            {
+                  "name": "Old No. 2 Engine House Museum",
+                  "text": "Das Old No. 2 Engine House Museum ist ein Museum in einem alten Feuerwehrhaus in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056786,
+                        45.273457
+                  ]
+            },
+            {
+                  "name": "Saint John Jewish Historical Museum",
+                  "text": "Das Saint John Jewish Historical Museum ist ein Museum zur jüdischen Geschichte in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.053677,
+                        45.273697
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Die Cathedral of the Immaculate Conception ist eine katholische Kathedrale in Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.0566,
+                        45.278291
+                  ]
+            },
+            {
+                  "name": "Loyalist Burial Ground",
+                  "text": "Der Loyalist Burial Ground ist ein historischer Friedhof und Park in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.056447,
+                        45.27457
+                  ]
+            },
+            {
+                  "name": "Stone Church",
+                  "text": "Die Stone Church ist eine Steinkirche in Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.061586,
+                        45.276171
+                  ]
+            },
+            {
+                  "name": "Loyalist House",
+                  "text": "Das Loyalist House ist ein Museum in einem historischen Haus der Loyalisten in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.0613,
+                        45.274517
+                  ]
+            },
+            {
+                  "name": "Fort Howe",
+                  "text": "Das Fort Howe ist ein historisches britisches Fort aus der Zeit der Amerikanischen Revolution in Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.071745,
+                        45.277052
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Railway Bridge",
+                  "text": "Die Reversing Falls Railway Bridge ist eine Eisenbahnbrücke über die Reversing Falls in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.08675,
+                        45.259915
+                  ]
+            },
+            {
+                  "name": "Crow Island",
+                  "text": "Die Crow Island ist eine Klippe in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.089335,
+                        45.264571
+                  ]
+            },
+            {
+                  "name": "Wolastoq Park",
+                  "text": "Der Wolastoq Park ist ein Park entlang des Wolastoq (Saint John River) in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.090007,
+                        45.256923
+                  ]
+            },
+            {
+                  "name": "Sand Cove",
+                  "text": "Der Sand Cove ist ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.124516,
+                        45.26903
+                  ]
+            },
+            {
+                  "name": "Boars Head Nature Preserve",
+                  "text": "Das Boars Head Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.124695,
+                        45.296568
+                  ]
+            },
+            {
+                  "name": "Boars Head Beach",
+                  "text": "Der Boars Head Beach ist ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.131197,
+                        45.29771
+                  ]
+            },
+            {
+                  "name": "Martinon Beach",
+                  "text": "Der Martinon Beach ist ein Strand in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.180124,
+                        45.291665
+                  ]
+            },
+            {
+                  "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
+                  "text": "Das Saints Rest Marsh-F. Gordon Carvell Nature Preserve ist ein Naturschutzgebiet in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.139438,
+                        45.225523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lookout Point",
+                  "text": "Egy kilátópont a Saint John River mentén.",
+                  "category": "natural",
+                  "coords": [
+                        -66.04808,
+                        45.325792
+                  ]
+            },
+            {
+                  "name": "New Brunswick Museum",
+                  "text": "Egy múzeum a Saint John River régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -66.082244,
+                        45.268966
+                  ]
+            },
+            {
+                  "name": "Trinity Cross",
+                  "text": "Egy látványosság: Trinity Cross a Saint John River régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.060338,
+                        45.266867
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Az Anchor egy emlékmű Saint Johnban.",
+                  "category": "historical",
+                  "coords": [
+                        -66.062768,
+                        45.272769
+                  ]
+            },
+            {
+                  "name": "Cobalt Art Gallery",
+                  "text": "A Cobalt Art Gallery egy művészeti galéria Saint Johnban.",
+                  "category": "museum",
+                  "coords": [
+                        -66.062054,
+                        45.27136
+                  ]
+            },
+            {
+                  "name": "Blink",
+                  "text": "A Blink egy művészeti központ Saint Johnban.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.059286,
+                        45.271672
+                  ]
+            },
+            {
+                  "name": "Peter Buckland Gallery",
+                  "text": "A Peter Buckland Gallery egy művészeti központ Saint Johnban.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.060742,
+                        45.270032
+                  ]
+            },
+            {
+                  "name": "Frank & Ella Hatheway Labour Exhibit",
+                  "text": "A Frank & Ella Hatheway Labour Exhibit egy múzeum Saint Johnban, amely a munka történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056596,
+                        45.289488
+                  ]
+            },
+            {
+                  "name": "Phoenix Dinner Theatre",
+                  "text": "A Phoenix Dinner Theatre egy színház Saint Johnban, ahol vacsorát is szolgálnak fel.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.053995,
+                        45.278825
+                  ]
+            },
+            {
+                  "name": "Punch Lines Comedy Club",
+                  "text": "A Punch Lines Comedy Club egy komédia klub Saint Johnban.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.057734,
+                        45.274987
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Lookout",
+                  "text": "A Reversing Falls Lookout egy kilátópont a Reversing Fallsre Saint Johnban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.085768,
+                        45.259614
+                  ]
+            },
+            {
+                  "name": "Tucker Park Beach",
+                  "text": "A Tucker Park Beach egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.098785,
+                        45.311459
+                  ]
+            },
+            {
+                  "name": "Fisher Lake Beach",
+                  "text": "A Fisher Lake Beach egy strand a Fisher Lake-nél Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.056223,
+                        45.296648
+                  ]
+            },
+            {
+                  "name": "Ragged Point Beach",
+                  "text": "A Ragged Point Beach egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.126502,
+                        45.302332
+                  ]
+            },
+            {
+                  "name": "Sea Dog Cove Nature Preserve",
+                  "text": "A Sea Dog Cove Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.097457,
+                        45.339462
+                  ]
+            },
+            {
+                  "name": "Turners Flats",
+                  "text": "A Turners Flats egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.081139,
+                        45.321023
+                  ]
+            },
+            {
+                  "name": "Rockwood Park",
+                  "text": "A Rockwood Park egy nagy városi park Saint Johnban.",
+                  "category": "park",
+                  "coords": [
+                        -66.05971,
+                        45.306171
+                  ]
+            },
+            {
+                  "name": "Harbour Bridge",
+                  "text": "A Harbour Bridge egy acél ívhíd a Saint John folyó felett Saint Johnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.074499,
+                        45.269355
+                  ]
+            },
+            {
+                  "name": "Fort La Tour",
+                  "text": "A Fort La Tour egy történelmi erőd Saint Johnban.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.072286,
+                        45.272899
+                  ]
+            },
+            {
+                  "name": "Imperial Theatre",
+                  "text": "Az Imperial Theatre egy történelmi színház Saint Johnban.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.05775,
+                        45.272686
+                  ]
+            },
+            {
+                  "name": "Kings Square",
+                  "text": "A Kings Square egy park Saint John szívében.",
+                  "category": "park",
+                  "coords": [
+                        -66.058038,
+                        45.273602
+                  ]
+            },
+            {
+                  "name": "Old No. 2 Engine House Museum",
+                  "text": "Az Old No. 2 Engine House Museum egy múzeum egy régi tűzoltóállomásban Saint Johnban.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056786,
+                        45.273457
+                  ]
+            },
+            {
+                  "name": "Saint John Jewish Historical Museum",
+                  "text": "A Saint John Jewish Historical Museum egy múzeum a zsidó történelemről Saint Johnban.",
+                  "category": "museum",
+                  "coords": [
+                        -66.053677,
+                        45.273697
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "A Cathedral of the Immaculate Conception egy katolikus székesegyház Saint Johnban.",
+                  "category": "religious",
+                  "coords": [
+                        -66.0566,
+                        45.278291
+                  ]
+            },
+            {
+                  "name": "Loyalist Burial Ground",
+                  "text": "A Loyalist Burial Ground egy történelmi temető és park Saint Johnban.",
+                  "category": "park",
+                  "coords": [
+                        -66.056447,
+                        45.27457
+                  ]
+            },
+            {
+                  "name": "Stone Church",
+                  "text": "A Stone Church egy kőtemplom Saint Johnban.",
+                  "category": "religious",
+                  "coords": [
+                        -66.061586,
+                        45.276171
+                  ]
+            },
+            {
+                  "name": "Loyalist House",
+                  "text": "A Loyalist House egy múzeum egy történelmi lojalista házban Saint Johnban.",
+                  "category": "museum",
+                  "coords": [
+                        -66.0613,
+                        45.274517
+                  ]
+            },
+            {
+                  "name": "Fort Howe",
+                  "text": "A Fort Howe egy történelmi brit erőd az amerikai forradalom idejéből Saint Johnban.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.071745,
+                        45.277052
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Railway Bridge",
+                  "text": "A Reversing Falls Railway Bridge egy vasúti híd a Reversing Falls felett Saint Johnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.08675,
+                        45.259915
+                  ]
+            },
+            {
+                  "name": "Crow Island",
+                  "text": "A Crow Island egy szikla Saint Johnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.089335,
+                        45.264571
+                  ]
+            },
+            {
+                  "name": "Wolastoq Park",
+                  "text": "A Wolastoq Park egy park a Wolastoq (Saint John folyó) mentén Saint Johnban.",
+                  "category": "park",
+                  "coords": [
+                        -66.090007,
+                        45.256923
+                  ]
+            },
+            {
+                  "name": "Sand Cove",
+                  "text": "A Sand Cove egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.124516,
+                        45.26903
+                  ]
+            },
+            {
+                  "name": "Boars Head Nature Preserve",
+                  "text": "A Boars Head Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.124695,
+                        45.296568
+                  ]
+            },
+            {
+                  "name": "Boars Head Beach",
+                  "text": "A Boars Head Beach egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.131197,
+                        45.29771
+                  ]
+            },
+            {
+                  "name": "Martinon Beach",
+                  "text": "A Martinon Beach egy strand Saint Johnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.180124,
+                        45.291665
+                  ]
+            },
+            {
+                  "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
+                  "text": "A Saints Rest Marsh-F. Gordon Carvell Nature Preserve egy természetvédelmi terület Saint Johnban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.139438,
+                        45.225523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lookout Point",
+                  "text": "Un punct de belvedere de-a lungul râului Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.04808,
+                        45.325792
+                  ]
+            },
+            {
+                  "name": "New Brunswick Museum",
+                  "text": "Un muzeu în regiunea râului Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.082244,
+                        45.268966
+                  ]
+            },
+            {
+                  "name": "Trinity Cross",
+                  "text": "O atracție: Trinity Cross în regiunea râului Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.060338,
+                        45.266867
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Anchor este un monument în Saint John.",
+                  "category": "historical",
+                  "coords": [
+                        -66.062768,
+                        45.272769
+                  ]
+            },
+            {
+                  "name": "Cobalt Art Gallery",
+                  "text": "Cobalt Art Gallery este o galerie de artă în Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.062054,
+                        45.27136
+                  ]
+            },
+            {
+                  "name": "Blink",
+                  "text": "Blink este un centru de artă în Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.059286,
+                        45.271672
+                  ]
+            },
+            {
+                  "name": "Peter Buckland Gallery",
+                  "text": "Peter Buckland Gallery este un centru de artă în Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.060742,
+                        45.270032
+                  ]
+            },
+            {
+                  "name": "Frank & Ella Hatheway Labour Exhibit",
+                  "text": "Frank & Ella Hatheway Labour Exhibit este un muzeu în Saint John dedicat istoriei muncii.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056596,
+                        45.289488
+                  ]
+            },
+            {
+                  "name": "Phoenix Dinner Theatre",
+                  "text": "Phoenix Dinner Theatre este un teatru cu cină în Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.053995,
+                        45.278825
+                  ]
+            },
+            {
+                  "name": "Punch Lines Comedy Club",
+                  "text": "Punch Lines Comedy Club este un club de comedie în Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.057734,
+                        45.274987
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Lookout",
+                  "text": "Reversing Falls Lookout este un punct de belvedere asupra Reversing Falls în Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.085768,
+                        45.259614
+                  ]
+            },
+            {
+                  "name": "Tucker Park Beach",
+                  "text": "Tucker Park Beach este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.098785,
+                        45.311459
+                  ]
+            },
+            {
+                  "name": "Fisher Lake Beach",
+                  "text": "Fisher Lake Beach este o plajă la Fisher Lake în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.056223,
+                        45.296648
+                  ]
+            },
+            {
+                  "name": "Ragged Point Beach",
+                  "text": "Ragged Point Beach este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.126502,
+                        45.302332
+                  ]
+            },
+            {
+                  "name": "Sea Dog Cove Nature Preserve",
+                  "text": "Sea Dog Cove Nature Preserve este o rezervație naturală în Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.097457,
+                        45.339462
+                  ]
+            },
+            {
+                  "name": "Turners Flats",
+                  "text": "Turners Flats este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.081139,
+                        45.321023
+                  ]
+            },
+            {
+                  "name": "Rockwood Park",
+                  "text": "Rockwood Park este un mare parc urban în Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.05971,
+                        45.306171
+                  ]
+            },
+            {
+                  "name": "Harbour Bridge",
+                  "text": "Harbour Bridge este un pod cu arc din oțel peste râul Saint John în Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.074499,
+                        45.269355
+                  ]
+            },
+            {
+                  "name": "Fort La Tour",
+                  "text": "Fort La Tour este un fort istoric în Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.072286,
+                        45.272899
+                  ]
+            },
+            {
+                  "name": "Imperial Theatre",
+                  "text": "Imperial Theatre este un teatru istoric în Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.05775,
+                        45.272686
+                  ]
+            },
+            {
+                  "name": "Kings Square",
+                  "text": "Kings Square este un parc în centrul orașului Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.058038,
+                        45.273602
+                  ]
+            },
+            {
+                  "name": "Old No. 2 Engine House Museum",
+                  "text": "Old No. 2 Engine House Museum este un muzeu într-o fostă casă de pompieri în Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056786,
+                        45.273457
+                  ]
+            },
+            {
+                  "name": "Saint John Jewish Historical Museum",
+                  "text": "Saint John Jewish Historical Museum este un muzeu al istoriei evreiești în Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.053677,
+                        45.273697
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Cathedral of the Immaculate Conception este o catedrală catolică în Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.0566,
+                        45.278291
+                  ]
+            },
+            {
+                  "name": "Loyalist Burial Ground",
+                  "text": "Loyalist Burial Ground este un cimitir istoric și parc în Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.056447,
+                        45.27457
+                  ]
+            },
+            {
+                  "name": "Stone Church",
+                  "text": "Stone Church este o biserică de piatră în Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.061586,
+                        45.276171
+                  ]
+            },
+            {
+                  "name": "Loyalist House",
+                  "text": "Loyalist House este un muzeu într-o casă istorică loialistă în Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.0613,
+                        45.274517
+                  ]
+            },
+            {
+                  "name": "Fort Howe",
+                  "text": "Fort Howe este un fort istoric britanic din perioada Revoluției Americane în Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.071745,
+                        45.277052
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Railway Bridge",
+                  "text": "Reversing Falls Railway Bridge este un pod de cale ferată peste Reversing Falls în Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.08675,
+                        45.259915
+                  ]
+            },
+            {
+                  "name": "Crow Island",
+                  "text": "Crow Island este o stâncă în Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.089335,
+                        45.264571
+                  ]
+            },
+            {
+                  "name": "Wolastoq Park",
+                  "text": "Wolastoq Park este un parc de-a lungul Wolastoq (râul Saint John) în Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.090007,
+                        45.256923
+                  ]
+            },
+            {
+                  "name": "Sand Cove",
+                  "text": "Sand Cove este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.124516,
+                        45.26903
+                  ]
+            },
+            {
+                  "name": "Boars Head Nature Preserve",
+                  "text": "Boars Head Nature Preserve este o rezervație naturală în Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.124695,
+                        45.296568
+                  ]
+            },
+            {
+                  "name": "Boars Head Beach",
+                  "text": "Boars Head Beach este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.131197,
+                        45.29771
+                  ]
+            },
+            {
+                  "name": "Martinon Beach",
+                  "text": "Martinon Beach este o plajă în Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.180124,
+                        45.291665
+                  ]
+            },
+            {
+                  "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
+                  "text": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve este o rezervație naturală în Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.139438,
+                        45.225523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lookout Point",
+                  "text": "A lookout point along the Saint John River.",
+                  "category": "natural",
+                  "coords": [
+                        -66.04808,
+                        45.325792
+                  ]
+            },
+            {
+                  "name": "New Brunswick Museum",
+                  "text": "A museum in the Saint John River region.",
+                  "category": "museum",
+                  "coords": [
+                        -66.082244,
+                        45.268966
+                  ]
+            },
+            {
+                  "name": "Trinity Cross",
+                  "text": "An attraction: Trinity Cross in the Saint John River region.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.060338,
+                        45.266867
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "Anchor is a monument in Saint John.",
+                  "category": "historical",
+                  "coords": [
+                        -66.062768,
+                        45.272769
+                  ]
+            },
+            {
+                  "name": "Cobalt Art Gallery",
+                  "text": "Cobalt Art Gallery is an art gallery in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.062054,
+                        45.27136
+                  ]
+            },
+            {
+                  "name": "Blink",
+                  "text": "Blink is an arts centre in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.059286,
+                        45.271672
+                  ]
+            },
+            {
+                  "name": "Peter Buckland Gallery",
+                  "text": "Peter Buckland Gallery is an arts centre in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.060742,
+                        45.270032
+                  ]
+            },
+            {
+                  "name": "Frank & Ella Hatheway Labour Exhibit",
+                  "text": "Frank & Ella Hatheway Labour Exhibit is a museum in Saint John focusing on labour history.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056596,
+                        45.289488
+                  ]
+            },
+            {
+                  "name": "Phoenix Dinner Theatre",
+                  "text": "Phoenix Dinner Theatre is a dinner theatre in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.053995,
+                        45.278825
+                  ]
+            },
+            {
+                  "name": "Punch Lines Comedy Club",
+                  "text": "Punch Lines Comedy Club is a comedy club in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.057734,
+                        45.274987
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Lookout",
+                  "text": "Reversing Falls Lookout is a viewpoint overlooking the Reversing Falls in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.085768,
+                        45.259614
+                  ]
+            },
+            {
+                  "name": "Tucker Park Beach",
+                  "text": "Tucker Park Beach is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.098785,
+                        45.311459
+                  ]
+            },
+            {
+                  "name": "Fisher Lake Beach",
+                  "text": "Fisher Lake Beach is a beach at Fisher Lake in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.056223,
+                        45.296648
+                  ]
+            },
+            {
+                  "name": "Ragged Point Beach",
+                  "text": "Ragged Point Beach is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.126502,
+                        45.302332
+                  ]
+            },
+            {
+                  "name": "Sea Dog Cove Nature Preserve",
+                  "text": "Sea Dog Cove Nature Preserve is a nature preserve in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.097457,
+                        45.339462
+                  ]
+            },
+            {
+                  "name": "Turners Flats",
+                  "text": "Turners Flats is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.081139,
+                        45.321023
+                  ]
+            },
+            {
+                  "name": "Rockwood Park",
+                  "text": "Rockwood Park is a large urban park in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.05971,
+                        45.306171
+                  ]
+            },
+            {
+                  "name": "Harbour Bridge",
+                  "text": "Harbour Bridge is a steel through arch bridge over the Saint John River in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.074499,
+                        45.269355
+                  ]
+            },
+            {
+                  "name": "Fort La Tour",
+                  "text": "Fort La Tour is a historic fort in Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.072286,
+                        45.272899
+                  ]
+            },
+            {
+                  "name": "Imperial Theatre",
+                  "text": "Imperial Theatre is a historic theatre in Saint John.",
+                  "category": "cultural",
+                  "coords": [
+                        -66.05775,
+                        45.272686
+                  ]
+            },
+            {
+                  "name": "Kings Square",
+                  "text": "Kings Square is a park in the heart of Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.058038,
+                        45.273602
+                  ]
+            },
+            {
+                  "name": "Old No. 2 Engine House Museum",
+                  "text": "Old No. 2 Engine House Museum is a museum in a former fire station in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.056786,
+                        45.273457
+                  ]
+            },
+            {
+                  "name": "Saint John Jewish Historical Museum",
+                  "text": "Saint John Jewish Historical Museum is a museum of Jewish history in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.053677,
+                        45.273697
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Cathedral of the Immaculate Conception is a Catholic cathedral in Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.0566,
+                        45.278291
+                  ]
+            },
+            {
+                  "name": "Loyalist Burial Ground",
+                  "text": "Loyalist Burial Ground is a historic burial ground and park in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.056447,
+                        45.27457
+                  ]
+            },
+            {
+                  "name": "Stone Church",
+                  "text": "Stone Church is a stone church in Saint John.",
+                  "category": "religious",
+                  "coords": [
+                        -66.061586,
+                        45.276171
+                  ]
+            },
+            {
+                  "name": "Loyalist House",
+                  "text": "Loyalist House is a museum in a historic Loyalist house in Saint John.",
+                  "category": "museum",
+                  "coords": [
+                        -66.0613,
+                        45.274517
+                  ]
+            },
+            {
+                  "name": "Fort Howe",
+                  "text": "Fort Howe is a historic British fort from the American Revolution in Saint John.",
+                  "category": "fortress",
+                  "coords": [
+                        -66.071745,
+                        45.277052
+                  ]
+            },
+            {
+                  "name": "Reversing Falls Railway Bridge",
+                  "text": "Reversing Falls Railway Bridge is a railway bridge spanning the Reversing Falls in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.08675,
+                        45.259915
+                  ]
+            },
+            {
+                  "name": "Crow Island",
+                  "text": "Crow Island is a cliff in Saint John.",
+                  "category": "landmark",
+                  "coords": [
+                        -66.089335,
+                        45.264571
+                  ]
+            },
+            {
+                  "name": "Wolastoq Park",
+                  "text": "Wolastoq Park is a park along the Wolastoq (Saint John River) in Saint John.",
+                  "category": "park",
+                  "coords": [
+                        -66.090007,
+                        45.256923
+                  ]
+            },
+            {
+                  "name": "Sand Cove",
+                  "text": "Sand Cove is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.124516,
+                        45.26903
+                  ]
+            },
+            {
+                  "name": "Boars Head Nature Preserve",
+                  "text": "Boars Head Nature Preserve is a nature preserve in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.124695,
+                        45.296568
+                  ]
+            },
+            {
+                  "name": "Boars Head Beach",
+                  "text": "Boars Head Beach is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.131197,
+                        45.29771
+                  ]
+            },
+            {
+                  "name": "Martinon Beach",
+                  "text": "Martinon Beach is a beach in Saint John.",
+                  "category": "recreational",
+                  "coords": [
+                        -66.180124,
+                        45.291665
+                  ]
+            },
+            {
+                  "name": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve",
+                  "text": "Saints Rest Marsh-F. Gordon Carvell Nature Preserve is a nature preserve in Saint John.",
+                  "category": "natural",
+                  "coords": [
+                        -66.139438,
+                        45.225523
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CA-NB",
     coords: [-66.06, 45.27],
@@ -1175,7 +7232,88 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "malgne-lake-nature-v2",
+    id: "malgne-lake-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Dalhousie",
+                  "text": "Der Mount Dalhousie ist ein Berg im Maligne Lake-Gebiet des Jasper-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9447,
+                        52.6117
+                  ]
+            },
+            {
+                  "name": "Saracen Head",
+                  "text": "Der Saracen Head ist ein Gipfel im Maligne Lake-Gebiet mit einer einem Kopf ähnelnden Form.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9314,
+                        52.6744
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Dalhousie",
+                  "text": "A Mount Dalhousie egy hegy a Maligne Lake területén a Jasper Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9447,
+                        52.6117
+                  ]
+            },
+            {
+                  "name": "Saracen Head",
+                  "text": "A Saracen Head egy csúcs a Maligne Lake területén, fej alakú formával.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9314,
+                        52.6744
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Dalhousie",
+                  "text": "Mount Dalhousie este un munte în zona Maligne Lake din Parcul Național Jasper.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9447,
+                        52.6117
+                  ]
+            },
+            {
+                  "name": "Saracen Head",
+                  "text": "Saracen Head este un vârf în zona Maligne Lake cu o formă care seamănă cu un cap.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9314,
+                        52.6744
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Dalhousie",
+                  "text": "Mount Dalhousie is a mountain in the Maligne Lake area of Jasper National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9447,
+                        52.6117
+                  ]
+            },
+            {
+                  "name": "Saracen Head",
+                  "text": "Saracen Head is a peak in the Maligne Lake area with a shape resembling a head.",
+                  "category": "natural",
+                  "coords": [
+                        -116.9314,
+                        52.6744
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "CA-AB",
     coords: [-116.95, 52.66],
@@ -1219,7 +7357,304 @@ export const poiExtraCanadaNatureV2: POI[] = [
     },
   },
   {
-    id: "bow-river-nature-v2",
+    id: "bow-river-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Como se Dice Collective",
+                  "text": "Das Como se Dice Collective ist ein Kunstkollektivzentrum in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062065,
+                        51.050497
+                  ]
+            },
+            {
+                  "name": "Wall of Names",
+                  "text": "Die Wall of Names ist ein Monument in Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.064667,
+                        51.05285
+                  ]
+            },
+            {
+                  "name": "ATB Main Stage",
+                  "text": "Die ATB Main Stage ist eine Theaterbühne in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.075362,
+                        51.054697
+                  ]
+            },
+            {
+                  "name": "iFLY Calgary",
+                  "text": "iFLY Calgary ist eine Indoor-Fallschirmsprung-Anlage in Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045272,
+                        51.108789
+                  ]
+            },
+            {
+                  "name": "Centre Street Church - Central Campus",
+                  "text": "Die Centre Street Church - Central Campus ist eine Kirche in Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.056163,
+                        51.087754
+                  ]
+            },
+            {
+                  "name": "Centre Street Bridge",
+                  "text": "Die Centre Street Bridge ist eine historische Brücke in Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.062553,
+                        51.052864
+                  ]
+            },
+            {
+                  "name": "Prince's Island Park",
+                  "text": "Der Prince's Island Park ist ein Inselpark im Bow River in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.07061,
+                        51.055259
+                  ]
+            },
+            {
+                  "name": "Knox United Church",
+                  "text": "Die Knox United Church ist eine United Church in Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.071083,
+                        51.048106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Como se Dice Collective",
+                  "text": "A Como se Dice Collective egy művészeti kollektív központ Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062065,
+                        51.050497
+                  ]
+            },
+            {
+                  "name": "Wall of Names",
+                  "text": "A Wall of Names egy emlékmű Calgaryban.",
+                  "category": "historical",
+                  "coords": [
+                        -114.064667,
+                        51.05285
+                  ]
+            },
+            {
+                  "name": "ATB Main Stage",
+                  "text": "Az ATB Main Stage egy színházi színpad Calgaryban.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.075362,
+                        51.054697
+                  ]
+            },
+            {
+                  "name": "iFLY Calgary",
+                  "text": "Az iFLY Calgary egy beltéri ejtőernyőzési létesítmény Calgaryban.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045272,
+                        51.108789
+                  ]
+            },
+            {
+                  "name": "Centre Street Church - Central Campus",
+                  "text": "A Centre Street Church - Central Campus egy templom Calgaryban.",
+                  "category": "religious",
+                  "coords": [
+                        -114.056163,
+                        51.087754
+                  ]
+            },
+            {
+                  "name": "Centre Street Bridge",
+                  "text": "A Centre Street híd egy történelmi híd Calgaryban.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.062553,
+                        51.052864
+                  ]
+            },
+            {
+                  "name": "Prince's Island Park",
+                  "text": "A Prince's Island Park egy szigetpark a Bow folyóban Calgaryban.",
+                  "category": "park",
+                  "coords": [
+                        -114.07061,
+                        51.055259
+                  ]
+            },
+            {
+                  "name": "Knox United Church",
+                  "text": "A Knox United Church egy egyesült egyház Calgaryban.",
+                  "category": "religious",
+                  "coords": [
+                        -114.071083,
+                        51.048106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Como se Dice Collective",
+                  "text": "Como se Dice Collective este un centru de artă colectiv în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062065,
+                        51.050497
+                  ]
+            },
+            {
+                  "name": "Wall of Names",
+                  "text": "Zidul Numelor este un monument în Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.064667,
+                        51.05285
+                  ]
+            },
+            {
+                  "name": "ATB Main Stage",
+                  "text": "Scena Principală ATB este o scenă de teatru în Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.075362,
+                        51.054697
+                  ]
+            },
+            {
+                  "name": "iFLY Calgary",
+                  "text": "iFLY Calgary este o facilitate de parașutism interior în Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045272,
+                        51.108789
+                  ]
+            },
+            {
+                  "name": "Centre Street Church - Central Campus",
+                  "text": "Biserica Centre Street - Campusul Central este o biserică în Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.056163,
+                        51.087754
+                  ]
+            },
+            {
+                  "name": "Centre Street Bridge",
+                  "text": "Podul Centre Street este un pod istoric în Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.062553,
+                        51.052864
+                  ]
+            },
+            {
+                  "name": "Prince's Island Park",
+                  "text": "Parcul Insula Prince este un parc pe insulă în râul Bow din Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.07061,
+                        51.055259
+                  ]
+            },
+            {
+                  "name": "Knox United Church",
+                  "text": "Biserica Unită Knox este o biserică unită în Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.071083,
+                        51.048106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Como se Dice Collective",
+                  "text": "Como se Dice Collective is an arts collective centre in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.062065,
+                        51.050497
+                  ]
+            },
+            {
+                  "name": "Wall of Names",
+                  "text": "Wall of Names is a monument in Calgary.",
+                  "category": "historical",
+                  "coords": [
+                        -114.064667,
+                        51.05285
+                  ]
+            },
+            {
+                  "name": "ATB Main Stage",
+                  "text": "ATB Main Stage is a theatre stage in Calgary.",
+                  "category": "cultural",
+                  "coords": [
+                        -114.075362,
+                        51.054697
+                  ]
+            },
+            {
+                  "name": "iFLY Calgary",
+                  "text": "iFLY Calgary is an indoor skydiving facility in Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.045272,
+                        51.108789
+                  ]
+            },
+            {
+                  "name": "Centre Street Church - Central Campus",
+                  "text": "Centre Street Church - Central Campus is a church in Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.056163,
+                        51.087754
+                  ]
+            },
+            {
+                  "name": "Centre Street Bridge",
+                  "text": "Centre Street Bridge is a historic bridge in Calgary.",
+                  "category": "landmark",
+                  "coords": [
+                        -114.062553,
+                        51.052864
+                  ]
+            },
+            {
+                  "name": "Prince's Island Park",
+                  "text": "Prince's Island Park is an island park in the Bow River in Calgary.",
+                  "category": "park",
+                  "coords": [
+                        -114.07061,
+                        51.055259
+                  ]
+            },
+            {
+                  "name": "Knox United Church",
+                  "text": "Knox United Church is a United Church in Calgary.",
+                  "category": "religious",
+                  "coords": [
+                        -114.071083,
+                        51.048106
+                  ]
+            }
+      ]
+},
     type: "river",
     parent: "CA-AB",
     coords: [-114.07, 51.05],

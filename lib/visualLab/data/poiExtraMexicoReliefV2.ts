@@ -50,7 +50,52 @@ export const poiExtraMexicoReliefV2: POI[] = [
     
      image: "/poi-images/sierra-madre-occidental-relief-v2.webp"},
   {
-    id: "sierra-madre-oriental-relief-v2",
+    id: "sierra-madre-oriental-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Natural Tres Pinos",
+                  "text": "Parque Natural Tres Pinos ist ein Naturpark in der Sierra Madre Oriental.",
+                  "category": "natural",
+                  "coords": [
+                        -99.917404,
+                        24.034101
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Natural Tres Pinos",
+                  "text": "Parque Natural Tres Pinos egy természeti park a Sierra Madre Orientalban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.917404,
+                        24.034101
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Natural Tres Pinos",
+                  "text": "Parque Natural Tres Pinos este un parc natural în Sierra Madre Oriental.",
+                  "category": "natural",
+                  "coords": [
+                        -99.917404,
+                        24.034101
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Natural Tres Pinos",
+                  "text": "Parque Natural Tres Pinos is a natural park in the Sierra Madre Oriental.",
+                  "category": "natural",
+                  "coords": [
+                        -99.917404,
+                        24.034101
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-NLE",
     coords: [-100.0, 24.0],
@@ -200,7 +245,160 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["La région doit son nom à l'ancien président mexicain Benito Juárez, né dans l'un des villages locaux.", "La communauté indigène gère une grande partie de la Sierra comme propriété communale, ce qui a permis une excellente protection de la forêt.", "Grâce aux différences d'altitude extrêmes, la chaîne de montagnes abrite plusieurs zones climatiques différentes sur un espace très réduit."],
     }, image: "/poi-images/sierra-de-juarez-relief-v2.webp"},
   {
-    id: "sierra-san-pedro-martir-relief-v2",
+    id: "sierra-san-pedro-martir-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Picacho del Diablo",
+                  "text": "Picacho del Diablo ist der höchste Berg in Baja California.",
+                  "category": "natural",
+                  "coords": [
+                        -115.375058,
+                        30.992683
+                  ]
+            },
+            {
+                  "name": "Mirador Picacho",
+                  "text": "Mirador Picacho ist ein Aussichtspunkt in der Sierra San Pedro Mártir.",
+                  "category": "natural",
+                  "coords": [
+                        -115.445392,
+                        31.027591
+                  ]
+            },
+            {
+                  "name": "Mirador al Altar",
+                  "text": "Mirador al Altar ist eine Attraktion in der Sierra San Pedro Mártir.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.447434,
+                        31.029424
+                  ]
+            },
+            {
+                  "name": "Museo del Parque San Pedro Mártir",
+                  "text": "Museo del Parque San Pedro Mártir ist ein Museum in der Sierra San Pedro Mártir.",
+                  "category": "museum",
+                  "coords": [
+                        -115.488729,
+                        31.017387
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Picacho del Diablo",
+                  "text": "Picacho del Diablo a legmagasabb csúcs Alsó-Kaliforniában.",
+                  "category": "natural",
+                  "coords": [
+                        -115.375058,
+                        30.992683
+                  ]
+            },
+            {
+                  "name": "Mirador Picacho",
+                  "text": "Mirador Picacho egy kilátópont a Sierra San Pedro Mártirban.",
+                  "category": "natural",
+                  "coords": [
+                        -115.445392,
+                        31.027591
+                  ]
+            },
+            {
+                  "name": "Mirador al Altar",
+                  "text": "Mirador al Altar egy látványosság a Sierra San Pedro Mártirban.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.447434,
+                        31.029424
+                  ]
+            },
+            {
+                  "name": "Museo del Parque San Pedro Mártir",
+                  "text": "Museo del Parque San Pedro Mártir egy múzeum a Sierra San Pedro Mártirban.",
+                  "category": "museum",
+                  "coords": [
+                        -115.488729,
+                        31.017387
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Picacho del Diablo",
+                  "text": "Picacho del Diablo este cel mai înalt vârf din Baja California.",
+                  "category": "natural",
+                  "coords": [
+                        -115.375058,
+                        30.992683
+                  ]
+            },
+            {
+                  "name": "Mirador Picacho",
+                  "text": "Mirador Picacho este un punct de belvedere în Sierra San Pedro Mártir.",
+                  "category": "natural",
+                  "coords": [
+                        -115.445392,
+                        31.027591
+                  ]
+            },
+            {
+                  "name": "Mirador al Altar",
+                  "text": "Mirador al Altar este o atracție în Sierra San Pedro Mártir.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.447434,
+                        31.029424
+                  ]
+            },
+            {
+                  "name": "Museo del Parque San Pedro Mártir",
+                  "text": "Museo del Parque San Pedro Mártir este un muzeu în Sierra San Pedro Mártir.",
+                  "category": "museum",
+                  "coords": [
+                        -115.488729,
+                        31.017387
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Picacho del Diablo",
+                  "text": "Picacho del Diablo is the highest peak in Baja California.",
+                  "category": "natural",
+                  "coords": [
+                        -115.375058,
+                        30.992683
+                  ]
+            },
+            {
+                  "name": "Mirador Picacho",
+                  "text": "Mirador Picacho is a viewpoint in the Sierra San Pedro Mártir.",
+                  "category": "natural",
+                  "coords": [
+                        -115.445392,
+                        31.027591
+                  ]
+            },
+            {
+                  "name": "Mirador al Altar",
+                  "text": "Mirador al Altar is an attraction in the Sierra San Pedro Mártir.",
+                  "category": "landmark",
+                  "coords": [
+                        -115.447434,
+                        31.029424
+                  ]
+            },
+            {
+                  "name": "Museo del Parque San Pedro Mártir",
+                  "text": "Museo del Parque San Pedro Mártir is a museum in the Sierra San Pedro Mártir.",
+                  "category": "museum",
+                  "coords": [
+                        -115.488729,
+                        31.017387
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-BCN",
     coords: [-115.4, 31.0],
@@ -235,7 +433,88 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["Depuis le Picacho del Diablo, point culminant de la Basse-Californie (3 096 mètres), on peut admirer simultanément l'océan Pacifique et le golfe de Californie.", "L'observatoire national situé dans le parc profite de nuits extrêmement claires et sombres pour des observations astronomiques de premier plan.", "Le massif a été une zone clé pour le programme réussi de réintroduction du Condor de Californie, une espèce en grand danger d'extinction."],
     }, image: "/poi-images/sierra-san-pedro-martir-relief-v2.webp"},
   {
-    id: "llanura-costera-del-golfo-relief-v2",
+    id: "llanura-costera-del-golfo-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Letras gigantes \"MARTINEZ DE LA TORRE\"",
+                  "text": "Letras gigantes \"MARTINEZ DE LA TORRE\" sind ein großes Buchstaben-Denkmal in der Llanura Costera del Golfo.",
+                  "category": "historical",
+                  "coords": [
+                        -97.053713,
+                        20.061032
+                  ]
+            },
+            {
+                  "name": "Teatro Bam",
+                  "text": "Teatro Bam ist ein Theater in der Llanura Costera del Golfo.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.045615,
+                        20.070614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Letras gigantes \"MARTINEZ DE LA TORRE\"",
+                  "text": "A \"MARTINEZ DE LA TORRE\" óriásbetűk egy nagy betűkből álló emlékmű a Llanura Costera del Golfóban.",
+                  "category": "historical",
+                  "coords": [
+                        -97.053713,
+                        20.061032
+                  ]
+            },
+            {
+                  "name": "Teatro Bam",
+                  "text": "A Teatro Bam egy színház a Llanura Costera del Golfóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.045615,
+                        20.070614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Letras gigantes \"MARTINEZ DE LA TORRE\"",
+                  "text": "Letrele gigante \"MARTINEZ DE LA TORRE\" sunt un monument de litere mari în Llanura Costera del Golfo.",
+                  "category": "historical",
+                  "coords": [
+                        -97.053713,
+                        20.061032
+                  ]
+            },
+            {
+                  "name": "Teatro Bam",
+                  "text": "Teatro Bam este un teatru în Llanura Costera del Golfo.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.045615,
+                        20.070614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Letras gigantes \"MARTINEZ DE LA TORRE\"",
+                  "text": "Giant letters \"MARTINEZ DE LA TORRE\" are a large letter monument in the Llanura Costera del Golfo.",
+                  "category": "historical",
+                  "coords": [
+                        -97.053713,
+                        20.061032
+                  ]
+            },
+            {
+                  "name": "Teatro Bam",
+                  "text": "Teatro Bam is a theatre in the Llanura Costera del Golfo.",
+                  "category": "cultural",
+                  "coords": [
+                        -97.045615,
+                        20.070614
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MX-VER",
     coords: [-97.0, 20.0],
@@ -385,7 +664,520 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["La Selva Lacandona abrite une part importante des ressources en eau douce du Mexique.", "Malgré un déboisement massif par le passé, la zone est aujourd'hui l'une des réserves naturelles les plus importantes du pays.", "Le petit groupe indigène des Lacandons, descendants directs des anciens Mayas, y vit encore aujourd'hui."],
     }, image: "/poi-images/selva-lacandona-relief-v2.webp"},
   {
-    id: "sierra-de-gijon-relief-v2",
+    id: "sierra-de-gijon-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Picacho",
+                  "text": "Ein malerischer Aussichtspunkt in der Sierra de Gijón Region.",
+                  "category": "natural",
+                  "coords": [
+                        -96.524322,
+                        17.044164
+                  ]
+            },
+            {
+                  "name": "Carpet factory",
+                  "text": "Eine Teppichfabrik als Attraktion in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.523087,
+                        17.01997
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario",
+                  "text": "Ein Gemeinschaftsmuseum in der Sierra de Gijón Region.",
+                  "category": "museum",
+                  "coords": [
+                        -96.5408,
+                        17.01632
+                  ]
+            },
+            {
+                  "name": "Fabrica de Tapetes - Familia Lana",
+                  "text": "Eine Teppichfabrik der Familie Lana in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.522186,
+                        17.007719
+                  ]
+            },
+            {
+                  "name": "Eco Centrum",
+                  "text": "Ein ökologisches Zentrum in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.527203,
+                        16.996289
+                  ]
+            },
+            {
+                  "name": "Fábrica de mezcal el rey de matatlán",
+                  "text": "Eine Mezcal-Fabrik namens 'El Rey de Matatlán' in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.526008,
+                        16.994312
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Yagul",
+                  "text": "Die archäologische Stätte Yagul, eine zapotekische Festungsruine in der Sierra de Gijón Region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.448618,
+                        16.957802
+                  ]
+            },
+            {
+                  "name": "Edificio U",
+                  "text": "Ruinen des Gebäudes U in der Sierra de Gijón Region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449679,
+                        16.959205
+                  ]
+            },
+            {
+                  "name": "Patio 4",
+                  "text": "Ruinen des Patio 4 in der Sierra de Gijón Region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449631,
+                        16.957727
+                  ]
+            },
+            {
+                  "name": "Taller De Arte El Camaleon",
+                  "text": "Ein Kunstworkshop namens 'El Camaleón' in der Sierra de Gijón Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.587062,
+                        17.015095
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Dainzú",
+                  "text": "Die archäologische Stätte Dainzú, bekannt für ihre Steinmetzarbeiten, in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.557113,
+                        17.003597
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Lambityeco",
+                  "text": "Die archäologische Stätte Lambityeco, bekannt für ihre Stuckmasken und Wandmalereien, in der Sierra de Gijón Region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.492118,
+                        16.971825
+                  ]
+            },
+            {
+                  "name": "Cruz Monumetal de la Misericordia.",
+                  "text": "Ein monumentales Kreuz der Barmherzigkeit in der Sierra de Gijón Region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.485977,
+                        16.967576
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yagul",
+                  "text": "Ein Naturdenkmal, das die Umgebung von Yagul in der Sierra de Gijón Region schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -96.448823,
+                        16.954378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Picacho",
+                  "text": "Festői kilátó a Sierra de Gijón régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -96.524322,
+                        17.044164
+                  ]
+            },
+            {
+                  "name": "Carpet factory",
+                  "text": "Szőnyeggyár látványosság a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.523087,
+                        17.01997
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario",
+                  "text": "Közösségi múzeum a Sierra de Gijón régióban.",
+                  "category": "museum",
+                  "coords": [
+                        -96.5408,
+                        17.01632
+                  ]
+            },
+            {
+                  "name": "Fabrica de Tapetes - Familia Lana",
+                  "text": "A Lana család által üzemeltetett szőnyeggyár a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.522186,
+                        17.007719
+                  ]
+            },
+            {
+                  "name": "Eco Centrum",
+                  "text": "Ökológiai központ a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.527203,
+                        16.996289
+                  ]
+            },
+            {
+                  "name": "Fábrica de mezcal el rey de matatlán",
+                  "text": "Mezcal gyár 'El Rey de Matatlán' néven a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.526008,
+                        16.994312
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Yagul",
+                  "text": "Yagul régészeti lelőhely, egy zapoték erődrom a Sierra de Gijón régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.448618,
+                        16.957802
+                  ]
+            },
+            {
+                  "name": "Edificio U",
+                  "text": "U épület romjai a Sierra de Gijón régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449679,
+                        16.959205
+                  ]
+            },
+            {
+                  "name": "Patio 4",
+                  "text": "A 4. udvar romjai a Sierra de Gijón régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449631,
+                        16.957727
+                  ]
+            },
+            {
+                  "name": "Taller De Arte El Camaleon",
+                  "text": "Művészeti műhely 'El Camaleón' néven a Sierra de Gijón régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.587062,
+                        17.015095
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Dainzú",
+                  "text": "Dainzú régészeti lelőhely, híres kőfaragásairól, a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.557113,
+                        17.003597
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Lambityeco",
+                  "text": "Lambityeco régészeti lelőhely, híres stukkómaszkjairól és falfestményeiről, a Sierra de Gijón régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.492118,
+                        16.971825
+                  ]
+            },
+            {
+                  "name": "Cruz Monumetal de la Misericordia.",
+                  "text": "Irgalmasság monumentális keresztje a Sierra de Gijón régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.485977,
+                        16.967576
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yagul",
+                  "text": "Természeti emlékmű, amely Yagul környékét védi a Sierra de Gijón régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -96.448823,
+                        16.954378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Picacho",
+                  "text": "Un punct de belvedere pitoresc în regiunea Sierra de Gijón.",
+                  "category": "natural",
+                  "coords": [
+                        -96.524322,
+                        17.044164
+                  ]
+            },
+            {
+                  "name": "Carpet factory",
+                  "text": "O fabrică de covoare ca atracție în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.523087,
+                        17.01997
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario",
+                  "text": "Un muzeu comunitar în regiunea Sierra de Gijón.",
+                  "category": "museum",
+                  "coords": [
+                        -96.5408,
+                        17.01632
+                  ]
+            },
+            {
+                  "name": "Fabrica de Tapetes - Familia Lana",
+                  "text": "O fabrică de covoare condusă de familia Lana în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.522186,
+                        17.007719
+                  ]
+            },
+            {
+                  "name": "Eco Centrum",
+                  "text": "Un centru ecologic în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.527203,
+                        16.996289
+                  ]
+            },
+            {
+                  "name": "Fábrica de mezcal el rey de matatlán",
+                  "text": "O fabrică de mezcal cunoscută sub numele de 'El Rey de Matatlán' în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.526008,
+                        16.994312
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Yagul",
+                  "text": "Situl arheologic Yagul, o ruină de fortăreață zapotecă în regiunea Sierra de Gijón.",
+                  "category": "historical",
+                  "coords": [
+                        -96.448618,
+                        16.957802
+                  ]
+            },
+            {
+                  "name": "Edificio U",
+                  "text": "Ruinele clădirii U în regiunea Sierra de Gijón.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449679,
+                        16.959205
+                  ]
+            },
+            {
+                  "name": "Patio 4",
+                  "text": "Ruinele curții 4 în regiunea Sierra de Gijón.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449631,
+                        16.957727
+                  ]
+            },
+            {
+                  "name": "Taller De Arte El Camaleon",
+                  "text": "Un atelier de artă numit 'El Camaleón' în regiunea Sierra de Gijón.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.587062,
+                        17.015095
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Dainzú",
+                  "text": "Situl arheologic Dainzú, cunoscut pentru sculpturile sale în piatră, în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.557113,
+                        17.003597
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Lambityeco",
+                  "text": "Situl arheologic Lambityeco, cunoscut pentru măștile sale din stuc și fresce, în regiunea Sierra de Gijón.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.492118,
+                        16.971825
+                  ]
+            },
+            {
+                  "name": "Cruz Monumetal de la Misericordia.",
+                  "text": "O cruce monumentală a milei în regiunea Sierra de Gijón.",
+                  "category": "historical",
+                  "coords": [
+                        -96.485977,
+                        16.967576
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yagul",
+                  "text": "Un monument natural care protejează zona din jurul Yagul în regiunea Sierra de Gijón.",
+                  "category": "natural",
+                  "coords": [
+                        -96.448823,
+                        16.954378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Picacho",
+                  "text": "A scenic viewpoint in the Sierra de Gijón region.",
+                  "category": "natural",
+                  "coords": [
+                        -96.524322,
+                        17.044164
+                  ]
+            },
+            {
+                  "name": "Carpet factory",
+                  "text": "A carpet factory attraction in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.523087,
+                        17.01997
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario",
+                  "text": "A community museum in the Sierra de Gijón region.",
+                  "category": "museum",
+                  "coords": [
+                        -96.5408,
+                        17.01632
+                  ]
+            },
+            {
+                  "name": "Fabrica de Tapetes - Familia Lana",
+                  "text": "A carpet factory run by the Lana family in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.522186,
+                        17.007719
+                  ]
+            },
+            {
+                  "name": "Eco Centrum",
+                  "text": "An ecological centre in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.527203,
+                        16.996289
+                  ]
+            },
+            {
+                  "name": "Fábrica de mezcal el rey de matatlán",
+                  "text": "A mezcal factory known as 'El Rey de Matatlán' in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.526008,
+                        16.994312
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Yagul",
+                  "text": "The Yagul archaeological site, a Zapotec fortress ruin in the Sierra de Gijón region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.448618,
+                        16.957802
+                  ]
+            },
+            {
+                  "name": "Edificio U",
+                  "text": "Ruins of Building U in the Sierra de Gijón region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449679,
+                        16.959205
+                  ]
+            },
+            {
+                  "name": "Patio 4",
+                  "text": "Ruins of Patio 4 in the Sierra de Gijón region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.449631,
+                        16.957727
+                  ]
+            },
+            {
+                  "name": "Taller De Arte El Camaleon",
+                  "text": "An art workshop called 'El Camaleón' in the Sierra de Gijón region.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.587062,
+                        17.015095
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Dainzú",
+                  "text": "The Dainzú archaeological site, known for its stone carvings, in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.557113,
+                        17.003597
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica de Lambityeco",
+                  "text": "The Lambityeco archaeological site, known for its stucco masks and murals, in the Sierra de Gijón region.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.492118,
+                        16.971825
+                  ]
+            },
+            {
+                  "name": "Cruz Monumetal de la Misericordia.",
+                  "text": "A monumental cross of mercy in the Sierra de Gijón region.",
+                  "category": "historical",
+                  "coords": [
+                        -96.485977,
+                        16.967576
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Yagul",
+                  "text": "A natural monument protecting the area around Yagul in the Sierra de Gijón region.",
+                  "category": "natural",
+                  "coords": [
+                        -96.448823,
+                        16.954378
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-OAX",
     coords: [-96.5, 17.0],
@@ -455,7 +1247,52 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["Il n'y a pratiquement aucune rivière de surface sur toute la péninsule, toute l'eau s'écoule sous terre.", "Le cratère de Chicxulub, au nord-ouest de la péninsule, est le lieu de l'impact de la météorite ayant causé l'extinction des dinosaures il y a 66 millions d'années.", "Sous le Yucatán se trouve le Sistema Sac Actun, le plus grand système de grottes sous-marines connu au monde."],
     }, image: "/poi-images/peninsula-de-yucatan-relief-v2.webp"},
   {
-    id: "sierra-de-la-giganta-relief-v2",
+    id: "sierra-de-la-giganta-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Beach Loreto Bay",
+                  "text": "Ein Strand in der Sierra de la Giganta.",
+                  "category": "recreational",
+                  "coords": [
+                        -111.348162,
+                        25.922072
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Beach Loreto Bay",
+                  "text": "Egy strand a Sierra de la Gigantában.",
+                  "category": "recreational",
+                  "coords": [
+                        -111.348162,
+                        25.922072
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Beach Loreto Bay",
+                  "text": "O plajă în Sierra de la Giganta.",
+                  "category": "recreational",
+                  "coords": [
+                        -111.348162,
+                        25.922072
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Beach Loreto Bay",
+                  "text": "A beach in the Sierra de la Giganta area.",
+                  "category": "recreational",
+                  "coords": [
+                        -111.348162,
+                        25.922072
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-BCS",
     coords: [-111.3, 26.0],
@@ -525,7 +1362,52 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["La région constitue le cœur de l'immense réseau du Canyon du Cuivre dans l'État de Chihuahua.", "Les Rarámuri ('ceux qui courent vite') sont réputés pour leur aptitude à parcourir plus de 100 kilomètres en terrain accidenté.", "Grâce à l'isolement de ses vallées, la culture Rarámuri a pu traverser la période coloniale en restant largement préservée."],
     }, image: "/poi-images/sierra-tarahumara-relief-v2.webp"},
   {
-    id: "sierra-madre-de-chiapas-relief-v2",
+    id: "sierra-madre-de-chiapas-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Cordón Pico El Loro-Paxtal",
+                  "text": "Das ökologische Schutzgebiet Cordón Pico El Loro-Paxtal liegt in der Sierra Madre de Chiapas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.492546,
+                        15.487232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Cordón Pico El Loro-Paxtal",
+                  "text": "A Cordón Pico El Loro-Paxtal ökológiai védett terület a Sierra Madre de Chiapasban található.",
+                  "category": "natural",
+                  "coords": [
+                        -92.492546,
+                        15.487232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Cordón Pico El Loro-Paxtal",
+                  "text": "Zona de conservare ecologică Cordón Pico El Loro-Paxtal se află în Sierra Madre de Chiapas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.492546,
+                        15.487232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Cordón Pico El Loro-Paxtal",
+                  "text": "The Cordón Pico El Loro-Paxtal ecological conservation area is in the Sierra Madre de Chiapas.",
+                  "category": "natural",
+                  "coords": [
+                        -92.492546,
+                        15.487232
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-CHP",
     coords: [-92.5, 15.5],
@@ -595,7 +1477,52 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["Le Tabasco est l'un des États les plus riches en eau et les plus pluvieux de tout le Mexique.", "La plaine est le centre historique de la culture olmèque, célèbre pour ses têtes colossales en pierre.", "La zone marécageuse est également le cœur de la production mexicaine de pétrole et de gaz naturel."],
     }, image: "/poi-images/llanura-de-tabasco-relief-v2.webp"},
   {
-    id: "sierra-de-arteaga-relief-v2",
+    id: "sierra-de-arteaga-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santuario El Taray",
+                  "text": "Santuario El Taray ist ein Naturschutzgebiet in der Sierra de Arteaga.",
+                  "category": "natural",
+                  "coords": [
+                        -100.48144,
+                        25.332774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santuario El Taray",
+                  "text": "Santuario El Taray egy természetvédelmi terület a Sierra de Arteagában.",
+                  "category": "natural",
+                  "coords": [
+                        -100.48144,
+                        25.332774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santuario El Taray",
+                  "text": "Santuario El Taray este o rezervație naturală în Sierra de Arteaga.",
+                  "category": "natural",
+                  "coords": [
+                        -100.48144,
+                        25.332774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santuario El Taray",
+                  "text": "Santuario El Taray is a nature reserve in the Sierra de Arteaga.",
+                  "category": "natural",
+                  "coords": [
+                        -100.48144,
+                        25.332774
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-COA",
     coords: [-100.5, 25.4],
@@ -666,7 +1593,520 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["L'accès à la ville principale, Real de Catorce, se fait exclusivement par le tunnel d'Ogarrio, long de près de 3 kilomètres.", "Les montagnes sont le centre spirituel (Wirikuta) de la culture indigène Huichol, qui considère la région comme l'origine de la création.", "En raison de son atmosphère surréaliste de ville fantôme, la région a servi de décor à de nombreux films de cinéma internationaux."],
     }, image: "/poi-images/sierra-de-catorce-relief-v2.webp"},
   {
-    id: "valle-de-mexico-relief-v2",
+    id: "valle-de-mexico-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Cultura Iztaccíhuatl",
+                  "text": "Die Casa de Cultura Iztaccíhuatl ist ein Kulturzentrum und Theater in der Region Valle de México, das künstlerische Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.13462,
+                        19.390289
+                  ]
+            },
+            {
+                  "name": "Gran Esfera",
+                  "text": "Gran Esfera ist eine Attraktion in der Region Valle de México, bekannt für ihre große kugelförmige Struktur.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.0836,
+                        19.415028
+                  ]
+            },
+            {
+                  "name": "Centro de Convivencia Carranza",
+                  "text": "Das Centro de Convivencia Carranza ist ein Tanz- und Theaterort in der Region Valle de México, der für Gemeinschaftsveranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084056,
+                        19.416747
+                  ]
+            },
+            {
+                  "name": "Poliforum Cultural Venustiano Carranza",
+                  "text": "Das Poliforum Cultural Venustiano Carranza ist ein Kunstzentrum in der Region Valle de México, das kulturelle Ausstellungen und Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.088095,
+                        19.419885
+                  ]
+            },
+            {
+                  "name": "Historia del transporte",
+                  "text": "Historia del transporte ist ein Museum in der Region Valle de México, das der Geschichte des Verkehrs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082733,
+                        19.415969
+                  ]
+            },
+            {
+                  "name": "Centro Social Agua Caliente",
+                  "text": "Das Centro Social Agua Caliente ist ein Kunstzentrum in der Region Valle de México, das soziale und kulturelle Dienstleistungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.071167,
+                        19.411101
+                  ]
+            },
+            {
+                  "name": "Ignacio Zaragoza",
+                  "text": "Ignacio Zaragoza ist ein Denkmal in der Region Valle de México zu Ehren des mexikanischen Generals Ignacio Zaragoza.",
+                  "category": "historical",
+                  "coords": [
+                        -99.080003,
+                        19.410463
+                  ]
+            },
+            {
+                  "name": "Carpas para dia de campo",
+                  "text": "Carpas para dia de campo ist ein Picknickplatz in der Region Valle de México, ausgestattet mit Zelten für Outdoor-Treffen.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.097866,
+                        19.411665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Las Jarillas",
+                  "text": "Die Casa de Cultura Las Jarillas ist ein Kunstzentrum in der Region Valle de México, das kulturelle Programme anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.109661,
+                        19.397389
+                  ]
+            },
+            {
+                  "name": "Circo Volador",
+                  "text": "Circo Volador ist ein Theater in der Region Valle de México, das für verschiedene Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.125586,
+                        19.406051
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Das Teatro Comunale ist ein Theater in der Region Valle de México, das Gemeinschafts- und Kulturveranstaltungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.108347,
+                        19.417892
+                  ]
+            },
+            {
+                  "name": "Diputados del Congreso Constituyente 1917",
+                  "text": "Diputados del Congreso Constituyente 1917 ist eine Attraktion in der Region Valle de México, die an die Abgeordneten des Verfassunggebenden Kongresses von 1917 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.112962,
+                        19.418653
+                  ]
+            },
+            {
+                  "name": "Piramide Colorida",
+                  "text": "Piramide Colorida ist eine bunte pyramidenförmige Attraktion in der Region Valle de México.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.092315,
+                        19.419707
+                  ]
+            },
+            {
+                  "name": "Metro",
+                  "text": "Metro ist ein Museum in der Region Valle de México, das der Geschichte der U-Bahn von Mexiko-Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082487,
+                        19.414484
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Cultura Iztaccíhuatl",
+                  "text": "A Casa de Cultura Iztaccíhuatl egy kulturális központ és színház a Valle de México régióban, amely művészeti eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.13462,
+                        19.390289
+                  ]
+            },
+            {
+                  "name": "Gran Esfera",
+                  "text": "A Gran Esfera egy látványosság a Valle de México régióban, amely nagy gömb alakú szerkezetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.0836,
+                        19.415028
+                  ]
+            },
+            {
+                  "name": "Centro de Convivencia Carranza",
+                  "text": "A Centro de Convivencia Carranza egy tánc- és színházi helyszín a Valle de México régióban, amelyet közösségi eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084056,
+                        19.416747
+                  ]
+            },
+            {
+                  "name": "Poliforum Cultural Venustiano Carranza",
+                  "text": "A Poliforum Cultural Venustiano Carranza egy művészeti központ a Valle de México régióban, amely kulturális kiállításoknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.088095,
+                        19.419885
+                  ]
+            },
+            {
+                  "name": "Historia del transporte",
+                  "text": "A Historia del transporte egy múzeum a Valle de México régióban, amely a közlekedés történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082733,
+                        19.415969
+                  ]
+            },
+            {
+                  "name": "Centro Social Agua Caliente",
+                  "text": "A Centro Social Agua Caliente egy művészeti központ a Valle de México régióban, amely szociális és kulturális szolgáltatásokat nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.071167,
+                        19.411101
+                  ]
+            },
+            {
+                  "name": "Ignacio Zaragoza",
+                  "text": "Ignacio Zaragoza egy emlékmű a Valle de México régióban, amely Ignacio Zaragoza mexikói tábornok tiszteletére készült.",
+                  "category": "historical",
+                  "coords": [
+                        -99.080003,
+                        19.410463
+                  ]
+            },
+            {
+                  "name": "Carpas para dia de campo",
+                  "text": "A Carpas para dia de campo egy piknikezőhely a Valle de México régióban, sátrakkal felszerelve kültéri összejövetelekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.097866,
+                        19.411665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Las Jarillas",
+                  "text": "A Casa de Cultura Las Jarillas egy művészeti központ a Valle de México régióban, amely kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.109661,
+                        19.397389
+                  ]
+            },
+            {
+                  "name": "Circo Volador",
+                  "text": "A Circo Volador egy színház a Valle de México régióban, amelyet különféle előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.125586,
+                        19.406051
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "A Teatro Comunale egy színház a Valle de México régióban, amely közösségi és kulturális eseményeket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.108347,
+                        19.417892
+                  ]
+            },
+            {
+                  "name": "Diputados del Congreso Constituyente 1917",
+                  "text": "A Diputados del Congreso Constituyente 1917 egy látványosság a Valle de México régióban, amely az 1917-es alkotmányozó kongresszus képviselőire emlékezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.112962,
+                        19.418653
+                  ]
+            },
+            {
+                  "name": "Piramide Colorida",
+                  "text": "A Piramide Colorida egy színes piramis alakú látványosság a Valle de México régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.092315,
+                        19.419707
+                  ]
+            },
+            {
+                  "name": "Metro",
+                  "text": "A Metro egy múzeum a Valle de México régióban, amely a mexikóvárosi metró történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082487,
+                        19.414484
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Cultura Iztaccíhuatl",
+                  "text": "Casa de Cultura Iztaccíhuatl este un centru cultural și teatru în regiunea Valle de México, oferind evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.13462,
+                        19.390289
+                  ]
+            },
+            {
+                  "name": "Gran Esfera",
+                  "text": "Gran Esfera este o atracție în regiunea Valle de México, cunoscută pentru structura sa sferică mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.0836,
+                        19.415028
+                  ]
+            },
+            {
+                  "name": "Centro de Convivencia Carranza",
+                  "text": "Centro de Convivencia Carranza este un loc de dans și teatru în regiunea Valle de México, folosit pentru evenimente comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084056,
+                        19.416747
+                  ]
+            },
+            {
+                  "name": "Poliforum Cultural Venustiano Carranza",
+                  "text": "Poliforum Cultural Venustiano Carranza este un centru de arte în regiunea Valle de México, găzduind expoziții și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.088095,
+                        19.419885
+                  ]
+            },
+            {
+                  "name": "Historia del transporte",
+                  "text": "Historia del transporte este un muzeu în regiunea Valle de México dedicat istoriei transporturilor.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082733,
+                        19.415969
+                  ]
+            },
+            {
+                  "name": "Centro Social Agua Caliente",
+                  "text": "Centro Social Agua Caliente este un centru de arte în regiunea Valle de México, oferind servicii sociale și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.071167,
+                        19.411101
+                  ]
+            },
+            {
+                  "name": "Ignacio Zaragoza",
+                  "text": "Ignacio Zaragoza este un monument în regiunea Valle de México care îl onorează pe generalul mexican Ignacio Zaragoza.",
+                  "category": "historical",
+                  "coords": [
+                        -99.080003,
+                        19.410463
+                  ]
+            },
+            {
+                  "name": "Carpas para dia de campo",
+                  "text": "Carpas para dia de campo este un loc de picnic în regiunea Valle de México, echipat cu corturi pentru întruniri în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.097866,
+                        19.411665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Las Jarillas",
+                  "text": "Casa de Cultura Las Jarillas este un centru de arte în regiunea Valle de México, oferind programe culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.109661,
+                        19.397389
+                  ]
+            },
+            {
+                  "name": "Circo Volador",
+                  "text": "Circo Volador este un teatru în regiunea Valle de México, folosit pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.125586,
+                        19.406051
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Teatro Comunale este un teatru în regiunea Valle de México, care prezintă evenimente comunitare și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.108347,
+                        19.417892
+                  ]
+            },
+            {
+                  "name": "Diputados del Congreso Constituyente 1917",
+                  "text": "Diputados del Congreso Constituyente 1917 este o atracție în regiunea Valle de México, care comemorează deputații Congresului Constituant din 1917.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.112962,
+                        19.418653
+                  ]
+            },
+            {
+                  "name": "Piramide Colorida",
+                  "text": "Piramide Colorida este o atracție colorată în formă de piramidă din regiunea Valle de México.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.092315,
+                        19.419707
+                  ]
+            },
+            {
+                  "name": "Metro",
+                  "text": "Metro este un muzeu în regiunea Valle de México dedicat istoriei metroului din Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082487,
+                        19.414484
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Cultura Iztaccíhuatl",
+                  "text": "Casa de Cultura Iztaccíhuatl is a cultural centre and theatre in the Valle de México region, offering artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.13462,
+                        19.390289
+                  ]
+            },
+            {
+                  "name": "Gran Esfera",
+                  "text": "Gran Esfera is an attraction in the Valle de México region, known for its large spherical structure.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.0836,
+                        19.415028
+                  ]
+            },
+            {
+                  "name": "Centro de Convivencia Carranza",
+                  "text": "Centro de Convivencia Carranza is a dance and theatre venue in the Valle de México region, used for community events.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084056,
+                        19.416747
+                  ]
+            },
+            {
+                  "name": "Poliforum Cultural Venustiano Carranza",
+                  "text": "Poliforum Cultural Venustiano Carranza is an arts centre in the Valle de México region, hosting cultural exhibitions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.088095,
+                        19.419885
+                  ]
+            },
+            {
+                  "name": "Historia del transporte",
+                  "text": "Historia del transporte is a museum in the Valle de México region dedicated to the history of transportation.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082733,
+                        19.415969
+                  ]
+            },
+            {
+                  "name": "Centro Social Agua Caliente",
+                  "text": "Centro Social Agua Caliente is an arts centre in the Valle de México region, providing social and cultural services.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.071167,
+                        19.411101
+                  ]
+            },
+            {
+                  "name": "Ignacio Zaragoza",
+                  "text": "Ignacio Zaragoza is a monument in the Valle de México region honoring the Mexican general Ignacio Zaragoza.",
+                  "category": "historical",
+                  "coords": [
+                        -99.080003,
+                        19.410463
+                  ]
+            },
+            {
+                  "name": "Carpas para dia de campo",
+                  "text": "Carpas para dia de campo is a picnic site in the Valle de México region, equipped with tents for outdoor gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.097866,
+                        19.411665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Las Jarillas",
+                  "text": "Casa de Cultura Las Jarillas is an arts centre in the Valle de México region, offering cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.109661,
+                        19.397389
+                  ]
+            },
+            {
+                  "name": "Circo Volador",
+                  "text": "Circo Volador is a theatre in the Valle de México region, used for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.125586,
+                        19.406051
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Teatro Comunale is a theatre in the Valle de México region, presenting community and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.108347,
+                        19.417892
+                  ]
+            },
+            {
+                  "name": "Diputados del Congreso Constituyente 1917",
+                  "text": "Diputados del Congreso Constituyente 1917 is an attraction in the Valle de México region, commemorating the deputies of the 1917 Constituent Congress.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.112962,
+                        19.418653
+                  ]
+            },
+            {
+                  "name": "Piramide Colorida",
+                  "text": "Piramide Colorida is a colorful pyramid-shaped attraction in the Valle de México region.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.092315,
+                        19.419707
+                  ]
+            },
+            {
+                  "name": "Metro",
+                  "text": "Metro is a museum in the Valle de México region, dedicated to the history of the Mexico City Metro system.",
+                  "category": "museum",
+                  "coords": [
+                        -99.082487,
+                        19.414484
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MX-MEX",
     coords: [-99.1, 19.4],
@@ -736,7 +2176,268 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["La chaîne de montagnes est connue pour ses variations de température extrêmes entre les journées d'été brûlantes et les nuits d'hiver glaciales.", "La région abrite la réserve de biosphère El Pinacate, célèbre pour ses cratères volcaniques impressionnants et ses coulées de lave figées.", "Historiquement, la Sierra était une zone d'exploitation minière d'or et de cuivre importante, mais difficile à contrôler en raison du relief."],
     }, image: "/poi-images/sierra-madre-de-sonora-relief-v2.webp"},
   {
-    id: "sierra-de-queretaro-relief-v2",
+    id: "sierra-de-queretaro-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Desvio al Punte de Dios",
+                  "text": "Eine Straße, die zur Attraktion Puente de Dios in der Sierra Gorda führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.581574,
+                        21.186524
+                  ]
+            },
+            {
+                  "name": "Miradorcido. Camino a Puente de Dios",
+                  "text": "Ein Aussichtspunkt auf dem Weg nach Puente de Dios in der Sierra Gorda.",
+                  "category": "natural",
+                  "coords": [
+                        -99.58678,
+                        21.192687
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Sierra Gorda",
+                  "text": "Ein UNESCO-Biosphärenreservat in der Sierra Gorda.",
+                  "category": "natural",
+                  "coords": [
+                        -99.49317,
+                        21.271824
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Real y Minas de las Escanelas",
+                  "text": "Ein Gemeinschaftsmuseum über das Bergbaugebiet Real de Minas in der Sierra Gorda.",
+                  "category": "museum",
+                  "coords": [
+                        -99.526854,
+                        21.12405
+                  ]
+            },
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Ein Wasserpark-Resort in der Sierra Gorda.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.475218,
+                        21.205811
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de la Sierra Gorda",
+                  "text": "Ein historisches Museum der Sierra Gorda.",
+                  "category": "museum",
+                  "coords": [
+                        -99.473728,
+                        21.217776
+                  ]
+            },
+            {
+                  "name": "Misión de Santiago de Jalpan",
+                  "text": "Eine historische Mission in der Sierra Gorda.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.473897,
+                        21.216807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Desvio al Punte de Dios",
+                  "text": "Egy út, amely a Puente de Dios attrakcióhoz vezet a Sierra Gordában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.581574,
+                        21.186524
+                  ]
+            },
+            {
+                  "name": "Miradorcido. Camino a Puente de Dios",
+                  "text": "Egy kilátópont a Puente de Dios felé vezető úton a Sierra Gordában.",
+                  "category": "natural",
+                  "coords": [
+                        -99.58678,
+                        21.192687
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Sierra Gorda",
+                  "text": "UNESCO bioszféra-rezervátum a Sierra Gordában.",
+                  "category": "natural",
+                  "coords": [
+                        -99.49317,
+                        21.271824
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Real y Minas de las Escanelas",
+                  "text": "Egy közösségi múzeum a Real de Minas bányavidékéről a Sierra Gordában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.526854,
+                        21.12405
+                  ]
+            },
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Egy vízipark-üdülőhely a Sierra Gordában.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.475218,
+                        21.205811
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de la Sierra Gorda",
+                  "text": "A Sierra Gorda régió történeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -99.473728,
+                        21.217776
+                  ]
+            },
+            {
+                  "name": "Misión de Santiago de Jalpan",
+                  "text": "Egy történelmi misszió a Sierra Gordában.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.473897,
+                        21.216807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Desvio al Punte de Dios",
+                  "text": "Un drum care duce la atracția Puente de Dios în Sierra Gorda.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.581574,
+                        21.186524
+                  ]
+            },
+            {
+                  "name": "Miradorcido. Camino a Puente de Dios",
+                  "text": "Un punct de belvedere pe drumul către Puente de Dios în Sierra Gorda.",
+                  "category": "natural",
+                  "coords": [
+                        -99.58678,
+                        21.192687
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Sierra Gorda",
+                  "text": "O rezervație a biosferei UNESCO în Sierra Gorda.",
+                  "category": "natural",
+                  "coords": [
+                        -99.49317,
+                        21.271824
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Real y Minas de las Escanelas",
+                  "text": "Un muzeu comunitar despre zona minieră Real de Minas în Sierra Gorda.",
+                  "category": "museum",
+                  "coords": [
+                        -99.526854,
+                        21.12405
+                  ]
+            },
+            {
+                  "name": "Mundo Acuático",
+                  "text": "Un parc acvatic stațiune în Sierra Gorda.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.475218,
+                        21.205811
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de la Sierra Gorda",
+                  "text": "Un muzeu istoric al regiunii Sierra Gorda.",
+                  "category": "museum",
+                  "coords": [
+                        -99.473728,
+                        21.217776
+                  ]
+            },
+            {
+                  "name": "Misión de Santiago de Jalpan",
+                  "text": "O misiune istorică în regiunea Sierra Gorda.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.473897,
+                        21.216807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Road to Puente de Dios",
+                  "text": "A road leading to the Puente de Dios attraction in the Sierra Gorda.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.581574,
+                        21.186524
+                  ]
+            },
+            {
+                  "name": "Miradorcido. Way to Puente de Dios",
+                  "text": "A viewpoint on the way to Puente de Dios in the Sierra Gorda.",
+                  "category": "natural",
+                  "coords": [
+                        -99.58678,
+                        21.192687
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Sierra Gorda",
+                  "text": "A UNESCO biosphere reserve in the Sierra Gorda region.",
+                  "category": "natural",
+                  "coords": [
+                        -99.49317,
+                        21.271824
+                  ]
+            },
+            {
+                  "name": "Museo Comunitario Real y Minas de las Escanelas",
+                  "text": "A community museum about the Real de Minas mining area in the Sierra Gorda.",
+                  "category": "museum",
+                  "coords": [
+                        -99.526854,
+                        21.12405
+                  ]
+            },
+            {
+                  "name": "Mundo Acuático",
+                  "text": "A water park resort in the Sierra Gorda.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.475218,
+                        21.205811
+                  ]
+            },
+            {
+                  "name": "Museo Histórico de la Sierra Gorda",
+                  "text": "A historical museum of the Sierra Gorda region.",
+                  "category": "museum",
+                  "coords": [
+                        -99.473728,
+                        21.217776
+                  ]
+            },
+            {
+                  "name": "Misión de Santiago de Jalpan",
+                  "text": "A historic mission in the Sierra Gorda region.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.473897,
+                        21.216807
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-QRO",
     coords: [-99.5, 21.2],
@@ -853,7 +2554,124 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["Les montagnes de la Sierra de Zacatecas furent historiquement l'une des sources d'argent les plus importantes de tout le Mexique.", "Le paysage rude est marqué par une végétation semi-aride comprenant de nombreuses espèces de cactus et d'agaves.", "La configuration topographique de la chaîne de montagnes a eu une influence décisive sur la fondation et le développement de la ville historique de Zacatecas."],
     }, image: "/poi-images/sierra-de-las-minas-mexico-relief-v2.webp"},
   {
-    id: "valle-de-tehuacan-relief-v2",
+    id: "valle-de-tehuacan-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Eine monumentale Flagge in Tehuacán, eine der monumentalen Flaggen Mexikos.",
+                  "category": "historical",
+                  "coords": [
+                        -97.427638,
+                        18.473747
+                  ]
+            },
+            {
+                  "name": "Museo de la evolución",
+                  "text": "Ein Museum über Evolution in Tehuacán.",
+                  "category": "museum",
+                  "coords": [
+                        -97.440199,
+                        18.477382
+                  ]
+            },
+            {
+                  "name": "Manantial San Lorenzo",
+                  "text": "Eine natürliche Quellattraktion in Tehuacán.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.436641,
+                        18.473738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Egy monumentális zászló Tehuacánban, Mexikó egyik monumentális zászlaja.",
+                  "category": "historical",
+                  "coords": [
+                        -97.427638,
+                        18.473747
+                  ]
+            },
+            {
+                  "name": "Museo de la evolución",
+                  "text": "Egy evolúciós múzeum Tehuacánban.",
+                  "category": "museum",
+                  "coords": [
+                        -97.440199,
+                        18.477382
+                  ]
+            },
+            {
+                  "name": "Manantial San Lorenzo",
+                  "text": "Egy természetes forrás látványosság Tehuacánban.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.436641,
+                        18.473738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Un steag monumental în Tehuacán, unul dintre steagurile monumentale ale Mexicului.",
+                  "category": "historical",
+                  "coords": [
+                        -97.427638,
+                        18.473747
+                  ]
+            },
+            {
+                  "name": "Museo de la evolución",
+                  "text": "Un muzeu despre evoluție în Tehuacán.",
+                  "category": "museum",
+                  "coords": [
+                        -97.440199,
+                        18.477382
+                  ]
+            },
+            {
+                  "name": "Manantial San Lorenzo",
+                  "text": "O atracție naturală cu izvor în Tehuacán.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.436641,
+                        18.473738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumental Flag",
+                  "text": "A monumental flag in Tehuacán, one of the monumental flags of Mexico.",
+                  "category": "historical",
+                  "coords": [
+                        -97.427638,
+                        18.473747
+                  ]
+            },
+            {
+                  "name": "Evolutions museum",
+                  "text": "A museum about evolution in Tehuacán.",
+                  "category": "museum",
+                  "coords": [
+                        -97.440199,
+                        18.477382
+                  ]
+            },
+            {
+                  "name": "Manantial San Lorenzo",
+                  "text": "A natural spring attraction in Tehuacán.",
+                  "category": "landmark",
+                  "coords": [
+                        -97.436641,
+                        18.473738
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "MX-PUE",
     coords: [-97.5, 18.5],
@@ -900,7 +2718,1312 @@ export const poiExtraMexicoReliefV2: POI[] = [
       fr: ["La vallée est célèbre pour ses forêts extrêmement denses de cactus colonnaires géants, parmi les plus impressionnantes au monde.", "Des découvertes archéologiques prouvent que le maïs a été domestiqué dans la vallée de Tehuacán il y a des milliers d'années.", "La zone est reconnue comme faisant partie de la réserve de biosphère UNESCO Tehuacán-Cuicatlán et protège de nombreuses espèces endémiques."],
     }, image: "/poi-images/valle-de-tehuacan-relief-v2.webp"},
   {
-    id: "sierra-de-guadalupe-relief-v2",
+    id: "sierra-de-guadalupe-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "Die Zona Arqueológica Santa Cecilia Acatitlan ist eine archäologische Stätte im Gebiet der Sierra de Guadalupe mit einer Pyramide.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173438,
+                        19.552584
+                  ]
+            },
+            {
+                  "name": "Museo Jurásica",
+                  "text": "Das Museo Jurásica in der Sierra de Guadalupe ist ein Museum, das sich mit Dinosauriern befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -99.053963,
+                        19.596002
+                  ]
+            },
+            {
+                  "name": "borrego",
+                  "text": "Borrego ist ein Schloss im Gebiet der Sierra de Guadalupe.",
+                  "category": "castle",
+                  "coords": [
+                        -99.030634,
+                        19.559981
+                  ]
+            },
+            {
+                  "name": "Museo del Mamut",
+                  "text": "Das Museo del Mamut in der Sierra de Guadalupe zeigt Ausstellungen zu Mammuts.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119747,
+                        19.683758
+                  ]
+            },
+            {
+                  "name": "Museo de Piroctecnia",
+                  "text": "Das Museo de Piroctecnia in der Sierra de Guadalupe ist ein Museum zur Pyrotechnik.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119573,
+                        19.682806
+                  ]
+            },
+            {
+                  "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
+                  "text": "Das Centro Ecoturístico y Educación Ambiental 'Sierra de Guadalupe' ist ein Zentrum für Ökotourismus und Umweltbildung.",
+                  "category": "museum",
+                  "coords": [
+                        -99.088866,
+                        19.610378
+                  ]
+            },
+            {
+                  "name": "Museo de Vestigios Arqueológicos",
+                  "text": "Das Museo de Vestigios Arqueológicos in der Sierra de Guadalupe zeigt archäologische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        -99.052883,
+                        19.597138
+                  ]
+            },
+            {
+                  "name": "Museo de historia natural",
+                  "text": "Das Museo de historia natural in der Sierra de Guadalupe ist ein naturhistorisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -99.036825,
+                        19.546899
+                  ]
+            },
+            {
+                  "name": "Casa de Morelos",
+                  "text": "Die Casa de Morelos in der Sierra de Guadalupe ist ein Museum im ehemaligen Wohnhaus von José María Morelos.",
+                  "category": "museum",
+                  "coords": [
+                        -99.035578,
+                        19.600403
+                  ]
+            },
+            {
+                  "name": "Monumento ABC",
+                  "text": "Das Monumento ABC in der Sierra de Guadalupe ist ein Denkmal mit der Aufschrift 'ABC'.",
+                  "category": "historical",
+                  "coords": [
+                        -99.017843,
+                        19.625253
+                  ]
+            },
+            {
+                  "name": "La Cuchara",
+                  "text": "La Cuchara ist ein monumentaler Löffel im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.023029,
+                        19.625355
+                  ]
+            },
+            {
+                  "name": "Bola Iluminada",
+                  "text": "Die Bola Iluminada ist eine beleuchtete Kugel als Monument in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.039432,
+                        19.622771
+                  ]
+            },
+            {
+                  "name": "Segunda Glorieta de Frambuesas",
+                  "text": "Die Segunda Glorieta de Frambuesas ist ein Kreisverkehr mit Himbeer-Motiv in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.038949,
+                        19.621769
+                  ]
+            },
+            {
+                  "name": "Kiosco de San Rafael",
+                  "text": "Der Kiosco de San Rafael ist ein Kiosk im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.123808,
+                        19.68541
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Das Monumento a Hidalgo in der Sierra de Guadalupe ist ein Denkmal zu Ehren von Miguel Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.128787,
+                        19.684818
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Die Bandera Monumental ist eine große Flagge im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.163288,
+                        19.622382
+                  ]
+            },
+            {
+                  "name": "Monumento a Morelos",
+                  "text": "Das Monumento a Morelos in der Sierra de Guadalupe ist ein Denkmal für José María Morelos.",
+                  "category": "historical",
+                  "coords": [
+                        -99.13242,
+                        19.562377
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Morelos",
+                  "text": "Das Monumento a José María Morelos in der Sierra de Guadalupe ist ein weiteres Denkmal für den Unabhängigkeitshelden.",
+                  "category": "historical",
+                  "coords": [
+                        -99.057477,
+                        19.597423
+                  ]
+            },
+            {
+                  "name": "Cueva de los Tecotines",
+                  "text": "Die Cueva de los Tecotines ist eine archäologische Höhle im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.062069,
+                        19.592974
+                  ]
+            },
+            {
+                  "name": "Piedra Equinoccial",
+                  "text": "Der Piedra Equinoccial ist ein archäologischer Stein, der mit Tagundnachtgleichen in Verbindung steht, in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.059747,
+                        19.593641
+                  ]
+            },
+            {
+                  "name": "Asta Bandera",
+                  "text": "Die Asta Bandera ist ein Fahnenmast im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.050702,
+                        19.568823
+                  ]
+            },
+            {
+                  "name": "Estatua de Juan Diego",
+                  "text": "Die Estatua de Juan Diego ist eine Statue des heiligen Juan Diego in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.046699,
+                        19.563105
+                  ]
+            },
+            {
+                  "name": "Escultura Las Américas",
+                  "text": "Die Escultura Las Américas ist eine Skulptur, die die Amerikas darstellt, in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.021884,
+                        19.586375
+                  ]
+            },
+            {
+                  "name": "Pirámide San Carlos",
+                  "text": "Die Pirámide San Carlos ist eine pyramidenförmige Monument im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04806,
+                        19.579
+                  ]
+            },
+            {
+                  "name": "Copuertas de Ecatepec",
+                  "text": "Copuertas de Ecatepec sind Ruinen im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.037305,
+                        19.601555
+                  ]
+            },
+            {
+                  "name": "La Trilogia",
+                  "text": "La Trilogia ist ein Monument, das eine Trilogie darstellt, in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.048647,
+                        19.599858
+                  ]
+            },
+            {
+                  "name": "Primera Glorieta de Frambuesas",
+                  "text": "Die Primera Glorieta de Frambuesas ist der erste Kreisverkehr mit Himbeer-Motiv in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04112,
+                        19.620744
+                  ]
+            },
+            {
+                  "name": "Albarradón de San Cristóbal",
+                  "text": "Der Albarradón de San Cristóbal ist ein Damm oder Wall im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.033467,
+                        19.604149
+                  ]
+            },
+            {
+                  "name": "El Vuelo de los Gansos",
+                  "text": "El Vuelo de los Gansos ist ein Monument, das fliegende Gänse darstellt, in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.026401,
+                        19.617362
+                  ]
+            },
+            {
+                  "name": "Estatua moderna",
+                  "text": "Die Estatua moderna ist eine moderne Statue im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.008967,
+                        19.598626
+                  ]
+            },
+            {
+                  "name": "Monumento a la Familia",
+                  "text": "Das Monumento a la Familia ist ein Denkmal für die Familie in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014599,
+                        19.603688
+                  ]
+            },
+            {
+                  "name": "Arcada",
+                  "text": "Die Arcada ist ein Bogenmonument im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.090334,
+                        19.66584
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Dieses Reloj ist ein weiteres Uhrenmonument im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089012,
+                        19.676171
+                  ]
+            },
+            {
+                  "name": "arbol forestal II",
+                  "text": "Arbol forestal II ist ein Baummerkmal im Gebiet der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.126829,
+                        19.566148
+                  ]
+            },
+            {
+                  "name": "Puente de Fierro",
+                  "text": "Die Puente de Fierro ist ein Denkmal in der Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.034753,
+                        19.601639
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Los Héroes Tecámac",
+                  "text": "Die Casa de la Cultura Los Héroes Tecámac ist ein Kulturzentrum in der Sierra de Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.024083,
+                        19.62424
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "A Santa Cecilia Acatitlan régészeti lelőhely a Sierra de Guadalupe területén, egy piramissal.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173438,
+                        19.552584
+                  ]
+            },
+            {
+                  "name": "Museo Jurásica",
+                  "text": "A Sierra de Guadalupe-i Museo Jurásica egy dinoszauruszokkal foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -99.053963,
+                        19.596002
+                  ]
+            },
+            {
+                  "name": "borrego",
+                  "text": "A Borrego egy kastély a Sierra de Guadalupe területén.",
+                  "category": "castle",
+                  "coords": [
+                        -99.030634,
+                        19.559981
+                  ]
+            },
+            {
+                  "name": "Museo del Mamut",
+                  "text": "A Sierra de Guadalupe-i Museo del Mamut mammutokkal kapcsolatos kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119747,
+                        19.683758
+                  ]
+            },
+            {
+                  "name": "Museo de Piroctecnia",
+                  "text": "A Sierra de Guadalupe-i Museo de Piroctecnia a pirotechnika múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119573,
+                        19.682806
+                  ]
+            },
+            {
+                  "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
+                  "text": "A 'Sierra de Guadalupe' Ökoturisztikai és Környezeti Nevelési Központ ökoturizmussal és környezeti neveléssel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -99.088866,
+                        19.610378
+                  ]
+            },
+            {
+                  "name": "Museo de Vestigios Arqueológicos",
+                  "text": "A Sierra de Guadalupe-i Museo de Vestigios Arqueológicos régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -99.052883,
+                        19.597138
+                  ]
+            },
+            {
+                  "name": "Museo de historia natural",
+                  "text": "A Sierra de Guadalupe-i Museo de historia natural természetrajzi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -99.036825,
+                        19.546899
+                  ]
+            },
+            {
+                  "name": "Casa de Morelos",
+                  "text": "A Sierra de Guadalupe-i Casa de Morelos egy múzeum José María Morelos egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        -99.035578,
+                        19.600403
+                  ]
+            },
+            {
+                  "name": "Monumento ABC",
+                  "text": "A Sierra de Guadalupe-i Monumento ABC egy 'ABC' feliratú emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -99.017843,
+                        19.625253
+                  ]
+            },
+            {
+                  "name": "La Cuchara",
+                  "text": "A La Cuchara egy monumentális kanál a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.023029,
+                        19.625355
+                  ]
+            },
+            {
+                  "name": "Bola Iluminada",
+                  "text": "A Bola Iluminada egy megvilágított gömb emlékmű a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.039432,
+                        19.622771
+                  ]
+            },
+            {
+                  "name": "Segunda Glorieta de Frambuesas",
+                  "text": "A Segunda Glorieta de Frambuesas egy málna tematikájú körforgalom a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.038949,
+                        19.621769
+                  ]
+            },
+            {
+                  "name": "Kiosco de San Rafael",
+                  "text": "A Kiosco de San Rafael egy kioszk a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.123808,
+                        19.68541
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "A Sierra de Guadalupe-i Monumento a Hidalgo egy Miguel Hidalgo tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -99.128787,
+                        19.684818
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "A Bandera Monumental egy nagy zászló a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.163288,
+                        19.622382
+                  ]
+            },
+            {
+                  "name": "Monumento a Morelos",
+                  "text": "A Sierra de Guadalupe-i Monumento a Morelos José María Morelos emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        -99.13242,
+                        19.562377
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Morelos",
+                  "text": "A Sierra de Guadalupe-i Monumento a José María Morelos egy újabb emlékmű a függetlenségi hősnek.",
+                  "category": "historical",
+                  "coords": [
+                        -99.057477,
+                        19.597423
+                  ]
+            },
+            {
+                  "name": "Cueva de los Tecotines",
+                  "text": "A Cueva de los Tecotines egy régészeti barlang a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.062069,
+                        19.592974
+                  ]
+            },
+            {
+                  "name": "Piedra Equinoccial",
+                  "text": "A Piedra Equinoccial egy régészeti kő, amely a napéjegyenlőségekhez kapcsolódik, a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.059747,
+                        19.593641
+                  ]
+            },
+            {
+                  "name": "Asta Bandera",
+                  "text": "Az Asta Bandera egy zászlórúd a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.050702,
+                        19.568823
+                  ]
+            },
+            {
+                  "name": "Estatua de Juan Diego",
+                  "text": "A Estatua de Juan Diego egy szobra Juan Diego szentnek a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.046699,
+                        19.563105
+                  ]
+            },
+            {
+                  "name": "Escultura Las Américas",
+                  "text": "Az Escultura Las Américas egy szobor, amely Amerikát ábrázolja, a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.021884,
+                        19.586375
+                  ]
+            },
+            {
+                  "name": "Pirámide San Carlos",
+                  "text": "A Pirámide San Carlos egy piramis alakú emlékmű a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04806,
+                        19.579
+                  ]
+            },
+            {
+                  "name": "Copuertas de Ecatepec",
+                  "text": "A Copuertas de Ecatepec romok a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.037305,
+                        19.601555
+                  ]
+            },
+            {
+                  "name": "La Trilogia",
+                  "text": "A La Trilogia egy trilógiát ábrázoló emlékmű a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.048647,
+                        19.599858
+                  ]
+            },
+            {
+                  "name": "Primera Glorieta de Frambuesas",
+                  "text": "A Primera Glorieta de Frambuesas az első málna tematikájú körforgalom a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04112,
+                        19.620744
+                  ]
+            },
+            {
+                  "name": "Albarradón de San Cristóbal",
+                  "text": "Az Albarradón de San Cristóbal egy gát vagy sánc a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.033467,
+                        19.604149
+                  ]
+            },
+            {
+                  "name": "El Vuelo de los Gansos",
+                  "text": "Az El Vuelo de los Gansos egy repülő libákat ábrázoló emlékmű a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.026401,
+                        19.617362
+                  ]
+            },
+            {
+                  "name": "Estatua moderna",
+                  "text": "Az Estatua moderna egy modern szobor a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.008967,
+                        19.598626
+                  ]
+            },
+            {
+                  "name": "Monumento a la Familia",
+                  "text": "A Monumento a la Familia a család emlékműve a Sierra de Guadalupe-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014599,
+                        19.603688
+                  ]
+            },
+            {
+                  "name": "Arcada",
+                  "text": "Az Arcada egy ív emlékmű a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.090334,
+                        19.66584
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Ez a Reloj egy másik óra emlékmű a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089012,
+                        19.676171
+                  ]
+            },
+            {
+                  "name": "arbol forestal II",
+                  "text": "Az Arbol forestal II egy fa emlékmű a Sierra de Guadalupe területén.",
+                  "category": "historical",
+                  "coords": [
+                        -99.126829,
+                        19.566148
+                  ]
+            },
+            {
+                  "name": "Puente de Fierro",
+                  "text": "A Puente de Fierro egy emlékmű a Sierra de Guadalupe-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.034753,
+                        19.601639
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Los Héroes Tecámac",
+                  "text": "A Casa de la Cultura Los Héroes Tecámac egy művészeti központ a Sierra de Guadalupe-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.024083,
+                        19.62424
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "Zona Arqueológica Santa Cecilia Acatitlan este un sit arheologic în zona Sierra de Guadalupe, cu o piramidă.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173438,
+                        19.552584
+                  ]
+            },
+            {
+                  "name": "Museo Jurásica",
+                  "text": "Muzeul Jurásica din Sierra de Guadalupe este un muzeu dedicat dinozaurilor.",
+                  "category": "museum",
+                  "coords": [
+                        -99.053963,
+                        19.596002
+                  ]
+            },
+            {
+                  "name": "borrego",
+                  "text": "Borrego este un castel în zona Sierra de Guadalupe.",
+                  "category": "castle",
+                  "coords": [
+                        -99.030634,
+                        19.559981
+                  ]
+            },
+            {
+                  "name": "Museo del Mamut",
+                  "text": "Muzeul Mamutului din Sierra de Guadalupe prezintă exponate legate de mamuți.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119747,
+                        19.683758
+                  ]
+            },
+            {
+                  "name": "Museo de Piroctecnia",
+                  "text": "Muzeul de Piroctecnie din Sierra de Guadalupe este un muzeu al pirotehnicii.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119573,
+                        19.682806
+                  ]
+            },
+            {
+                  "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
+                  "text": "Centrul Ecoturistic și de Educație Ecologică 'Sierra de Guadalupe' este dedicat ecoturismului și educației ecologice.",
+                  "category": "museum",
+                  "coords": [
+                        -99.088866,
+                        19.610378
+                  ]
+            },
+            {
+                  "name": "Museo de Vestigios Arqueológicos",
+                  "text": "Muzeul Vestigiilor Arheologice din Sierra de Guadalupe prezintă descoperiri arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        -99.052883,
+                        19.597138
+                  ]
+            },
+            {
+                  "name": "Museo de historia natural",
+                  "text": "Muzeul de Istorie Naturală din Sierra de Guadalupe este un muzeu de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        -99.036825,
+                        19.546899
+                  ]
+            },
+            {
+                  "name": "Casa de Morelos",
+                  "text": "Casa de Morelos din Sierra de Guadalupe este un muzeu în fosta casă a lui José María Morelos.",
+                  "category": "museum",
+                  "coords": [
+                        -99.035578,
+                        19.600403
+                  ]
+            },
+            {
+                  "name": "Monumento ABC",
+                  "text": "Monumentul ABC din Sierra de Guadalupe este un monument cu inscripția 'ABC'.",
+                  "category": "historical",
+                  "coords": [
+                        -99.017843,
+                        19.625253
+                  ]
+            },
+            {
+                  "name": "La Cuchara",
+                  "text": "La Cuchara este o lingură monumentală în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.023029,
+                        19.625355
+                  ]
+            },
+            {
+                  "name": "Bola Iluminada",
+                  "text": "Bola Iluminada este un monument sub formă de sferă iluminată în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.039432,
+                        19.622771
+                  ]
+            },
+            {
+                  "name": "Segunda Glorieta de Frambuesas",
+                  "text": "Segunda Glorieta de Frambuesas este un sens giratoriu cu tema zmeură în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.038949,
+                        19.621769
+                  ]
+            },
+            {
+                  "name": "Kiosco de San Rafael",
+                  "text": "Kiosco de San Rafael este un chioșc în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.123808,
+                        19.68541
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "Monumentul a Hidalgo din Sierra de Guadalupe este un monument în cinstea lui Miguel Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.128787,
+                        19.684818
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Bandera Monumental este un drapel de mari dimensiuni în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.163288,
+                        19.622382
+                  ]
+            },
+            {
+                  "name": "Monumento a Morelos",
+                  "text": "Monumentul a Morelos din Sierra de Guadalupe este un monument pentru José María Morelos.",
+                  "category": "historical",
+                  "coords": [
+                        -99.13242,
+                        19.562377
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Morelos",
+                  "text": "Monumentul a José María Morelos din Sierra de Guadalupe este un alt monument pentru eroul independenței.",
+                  "category": "historical",
+                  "coords": [
+                        -99.057477,
+                        19.597423
+                  ]
+            },
+            {
+                  "name": "Cueva de los Tecotines",
+                  "text": "Cueva de los Tecotines este o peșteră arheologică în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.062069,
+                        19.592974
+                  ]
+            },
+            {
+                  "name": "Piedra Equinoccial",
+                  "text": "Piedra Equinoccial este o piatră arheologică asociată cu echinocțiile în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.059747,
+                        19.593641
+                  ]
+            },
+            {
+                  "name": "Asta Bandera",
+                  "text": "Asta Bandera este un catarg pentru steag în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.050702,
+                        19.568823
+                  ]
+            },
+            {
+                  "name": "Estatua de Juan Diego",
+                  "text": "Estatua de Juan Diego este o statuie a sfântului Juan Diego în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.046699,
+                        19.563105
+                  ]
+            },
+            {
+                  "name": "Escultura Las Américas",
+                  "text": "Escultura Las Américas este o sculptură care reprezintă Americile în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.021884,
+                        19.586375
+                  ]
+            },
+            {
+                  "name": "Pirámide San Carlos",
+                  "text": "Pirámide San Carlos este un monument în formă de piramidă în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04806,
+                        19.579
+                  ]
+            },
+            {
+                  "name": "Copuertas de Ecatepec",
+                  "text": "Copuertas de Ecatepec sunt ruine în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.037305,
+                        19.601555
+                  ]
+            },
+            {
+                  "name": "La Trilogia",
+                  "text": "La Trilogia este un monument care reprezintă o trilogie în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.048647,
+                        19.599858
+                  ]
+            },
+            {
+                  "name": "Primera Glorieta de Frambuesas",
+                  "text": "Primera Glorieta de Frambuesas este primul sens giratoriu cu tema zmeură în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04112,
+                        19.620744
+                  ]
+            },
+            {
+                  "name": "Albarradón de San Cristóbal",
+                  "text": "Albarradón de San Cristóbal este un dig sau întăritură în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.033467,
+                        19.604149
+                  ]
+            },
+            {
+                  "name": "El Vuelo de los Gansos",
+                  "text": "El Vuelo de los Gansos este un monument care înfățișează gâște în zbor în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.026401,
+                        19.617362
+                  ]
+            },
+            {
+                  "name": "Estatua moderna",
+                  "text": "Estatua moderna este o statuie modernă în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.008967,
+                        19.598626
+                  ]
+            },
+            {
+                  "name": "Monumento a la Familia",
+                  "text": "Monumentul a la Familia este un monument dedicat familiei în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014599,
+                        19.603688
+                  ]
+            },
+            {
+                  "name": "Arcada",
+                  "text": "Arcada este un monument sub formă de arc în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.090334,
+                        19.66584
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "Acest Reloj este un alt monument ceas în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089012,
+                        19.676171
+                  ]
+            },
+            {
+                  "name": "arbol forestal II",
+                  "text": "Arbol forestal II este un monument sub formă de copac în zona Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.126829,
+                        19.566148
+                  ]
+            },
+            {
+                  "name": "Puente de Fierro",
+                  "text": "Puente de Fierro este un monument în Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.034753,
+                        19.601639
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Los Héroes Tecámac",
+                  "text": "Casa de la Cultura Los Héroes Tecámac este un centru de artă în Sierra de Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.024083,
+                        19.62424
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona Arqueológica Santa Cecilia Acatitlan",
+                  "text": "The Zona Arqueológica Santa Cecilia Acatitlan is an archaeological site in the Sierra de Guadalupe area with a pyramid.",
+                  "category": "historical",
+                  "coords": [
+                        -99.173438,
+                        19.552584
+                  ]
+            },
+            {
+                  "name": "Museo Jurásica",
+                  "text": "The Museo Jurásica in the Sierra de Guadalupe is a museum about dinosaurs.",
+                  "category": "museum",
+                  "coords": [
+                        -99.053963,
+                        19.596002
+                  ]
+            },
+            {
+                  "name": "borrego",
+                  "text": "Borrego is a castle in the Sierra de Guadalupe area.",
+                  "category": "castle",
+                  "coords": [
+                        -99.030634,
+                        19.559981
+                  ]
+            },
+            {
+                  "name": "Museo del Mamut",
+                  "text": "The Museo del Mamut in the Sierra de Guadalupe exhibits mammoth-related displays.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119747,
+                        19.683758
+                  ]
+            },
+            {
+                  "name": "Museo de Piroctecnia",
+                  "text": "The Museo de Piroctecnia in the Sierra de Guadalupe is a museum of pyrotechnics.",
+                  "category": "museum",
+                  "coords": [
+                        -99.119573,
+                        19.682806
+                  ]
+            },
+            {
+                  "name": "Centro Ecoturístico y Educación Ambiental \"Sierra de Guadalupe\"",
+                  "text": "The Centro Ecoturístico y Educación Ambiental 'Sierra de Guadalupe' is a center for ecotourism and environmental education.",
+                  "category": "museum",
+                  "coords": [
+                        -99.088866,
+                        19.610378
+                  ]
+            },
+            {
+                  "name": "Museo de Vestigios Arqueológicos",
+                  "text": "The Museo de Vestigios Arqueológicos in the Sierra de Guadalupe displays archaeological remains.",
+                  "category": "museum",
+                  "coords": [
+                        -99.052883,
+                        19.597138
+                  ]
+            },
+            {
+                  "name": "Museo de historia natural",
+                  "text": "The Museo de historia natural in the Sierra de Guadalupe is a natural history museum.",
+                  "category": "museum",
+                  "coords": [
+                        -99.036825,
+                        19.546899
+                  ]
+            },
+            {
+                  "name": "Casa de Morelos",
+                  "text": "The Casa de Morelos in the Sierra de Guadalupe is a museum in the former home of José María Morelos.",
+                  "category": "museum",
+                  "coords": [
+                        -99.035578,
+                        19.600403
+                  ]
+            },
+            {
+                  "name": "Monumento ABC",
+                  "text": "The Monumento ABC in the Sierra de Guadalupe is a monument featuring the letters 'ABC'.",
+                  "category": "historical",
+                  "coords": [
+                        -99.017843,
+                        19.625253
+                  ]
+            },
+            {
+                  "name": "La Cuchara",
+                  "text": "La Cuchara is a monumental spoon in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.023029,
+                        19.625355
+                  ]
+            },
+            {
+                  "name": "Bola Iluminada",
+                  "text": "Bola Iluminada is an illuminated globe monument in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.039432,
+                        19.622771
+                  ]
+            },
+            {
+                  "name": "Segunda Glorieta de Frambuesas",
+                  "text": "Segunda Glorieta de Frambuesas is a roundabout with a raspberry theme in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.038949,
+                        19.621769
+                  ]
+            },
+            {
+                  "name": "Kiosco de San Rafael",
+                  "text": "Kiosco de San Rafael is a kiosk in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.123808,
+                        19.68541
+                  ]
+            },
+            {
+                  "name": "Monumento a Hidalgo",
+                  "text": "The Monumento a Hidalgo in the Sierra de Guadalupe is a monument honoring Miguel Hidalgo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.128787,
+                        19.684818
+                  ]
+            },
+            {
+                  "name": "Bandera Monumental",
+                  "text": "Bandera Monumental is a large flag in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.163288,
+                        19.622382
+                  ]
+            },
+            {
+                  "name": "Monumento a Morelos",
+                  "text": "The Monumento a Morelos in the Sierra de Guadalupe is a monument to José María Morelos.",
+                  "category": "historical",
+                  "coords": [
+                        -99.13242,
+                        19.562377
+                  ]
+            },
+            {
+                  "name": "Monumento a José María Morelos",
+                  "text": "The Monumento a José María Morelos in the Sierra de Guadalupe is another monument to the independence hero.",
+                  "category": "historical",
+                  "coords": [
+                        -99.057477,
+                        19.597423
+                  ]
+            },
+            {
+                  "name": "Cueva de los Tecotines",
+                  "text": "Cueva de los Tecotines is an archaeological cave in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.062069,
+                        19.592974
+                  ]
+            },
+            {
+                  "name": "Piedra Equinoccial",
+                  "text": "Piedra Equinoccial is an archaeological stone associated with equinoxes in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.059747,
+                        19.593641
+                  ]
+            },
+            {
+                  "name": "Asta Bandera",
+                  "text": "Asta Bandera is a flagpole in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.050702,
+                        19.568823
+                  ]
+            },
+            {
+                  "name": "Estatua de Juan Diego",
+                  "text": "Estatua de Juan Diego is a statue of Saint Juan Diego in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.046699,
+                        19.563105
+                  ]
+            },
+            {
+                  "name": "Escultura Las Américas",
+                  "text": "Escultura Las Américas is a sculpture representing the Americas in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.021884,
+                        19.586375
+                  ]
+            },
+            {
+                  "name": "Pirámide San Carlos",
+                  "text": "Pirámide San Carlos is a pyramid-shaped monument in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04806,
+                        19.579
+                  ]
+            },
+            {
+                  "name": "Copuertas de Ecatepec",
+                  "text": "Copuertas de Ecatepec are ruins in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.037305,
+                        19.601555
+                  ]
+            },
+            {
+                  "name": "La Trilogia",
+                  "text": "La Trilogia is a monument representing a trilogy in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.048647,
+                        19.599858
+                  ]
+            },
+            {
+                  "name": "Primera Glorieta de Frambuesas",
+                  "text": "Primera Glorieta de Frambuesas is the first raspberry-themed roundabout in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.04112,
+                        19.620744
+                  ]
+            },
+            {
+                  "name": "Albarradón de San Cristóbal",
+                  "text": "Albarradón de San Cristóbal is a dam or embankment in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.033467,
+                        19.604149
+                  ]
+            },
+            {
+                  "name": "El Vuelo de los Gansos",
+                  "text": "El Vuelo de los Gansos is a monument depicting flying geese in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.026401,
+                        19.617362
+                  ]
+            },
+            {
+                  "name": "Estatua moderna",
+                  "text": "Estatua moderna is a modern statue in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.008967,
+                        19.598626
+                  ]
+            },
+            {
+                  "name": "Monumento a la Familia",
+                  "text": "Monumento a la Familia is a monument to the family in the Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014599,
+                        19.603688
+                  ]
+            },
+            {
+                  "name": "Arcada",
+                  "text": "Arcada is an arch monument in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.090334,
+                        19.66584
+                  ]
+            },
+            {
+                  "name": "Reloj",
+                  "text": "This Reloj is another clock monument in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089012,
+                        19.676171
+                  ]
+            },
+            {
+                  "name": "arbol forestal II",
+                  "text": "Arbol forestal II is a tree monument in the Sierra de Guadalupe area.",
+                  "category": "historical",
+                  "coords": [
+                        -99.126829,
+                        19.566148
+                  ]
+            },
+            {
+                  "name": "Puente de Fierro",
+                  "text": "Puente de Fierro is a monument in Sierra de Guadalupe.",
+                  "category": "historical",
+                  "coords": [
+                        -99.034753,
+                        19.601639
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Los Héroes Tecámac",
+                  "text": "Casa de la Cultura Los Héroes Tecámac is an arts centre in Sierra de Guadalupe.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.024083,
+                        19.62424
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "MX-MEX",
     coords: [-99.1, 19.6],

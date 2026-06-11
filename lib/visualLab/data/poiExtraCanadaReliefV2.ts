@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraCanadaReliefV2: POI[] = [
   {
-    id: "coast-mountains-relief-v2",
+    id: "coast-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Francois Lake Protected Area",
+                  "text": "Francois Lake Protected Area ist ein Schutzgebiet in den Coast Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -125.03993,
+                        53.986269
+                  ]
+            },
+            {
+                  "name": "Stellako River Wildlife Management Area",
+                  "text": "Stellako River Wildlife Management Area ist ein Wildtiermanagementgebiet entlang des Stellako River in den Coast Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -124.9687,
+                        54.029725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Francois Lake Protected Area",
+                  "text": "Francois Lake Protected Area egy védett terület a Coast Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -125.03993,
+                        53.986269
+                  ]
+            },
+            {
+                  "name": "Stellako River Wildlife Management Area",
+                  "text": "Stellako River Wildlife Management Area egy vadvédelmi terület a Stellako folyó mentén a Coast Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -124.9687,
+                        54.029725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Francois Lake Protected Area",
+                  "text": "Francois Lake Protected Area este o arie protejată în Munții Coast.",
+                  "category": "natural",
+                  "coords": [
+                        -125.03993,
+                        53.986269
+                  ]
+            },
+            {
+                  "name": "Stellako River Wildlife Management Area",
+                  "text": "Stellako River Wildlife Management Area este o zonă de gestionare a faunei sălbatice de-a lungul râului Stellako în Munții Coast.",
+                  "category": "natural",
+                  "coords": [
+                        -124.9687,
+                        54.029725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Francois Lake Protected Area",
+                  "text": "Francois Lake Protected Area is a protected area in the Coast Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -125.03993,
+                        53.986269
+                  ]
+            },
+            {
+                  "name": "Stellako River Wildlife Management Area",
+                  "text": "Stellako River Wildlife Management Area is a wildlife management area along the Stellako River in the Coast Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -124.9687,
+                        54.029725
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-BC",
     coords: [-125.0, 54.0],
@@ -46,7 +127,88 @@ export const poiExtraCanadaReliefV2: POI[] = [
       fr: ["Plus grande chaîne de montagnes de la Colombie-Britannique", "Abrite des glaciers massifs et des champs de glace", "Fiords profondément entaillés le long de la côte", "Le plus haut sommet est le mont Waddington"],
     }, image: "/poi-images/coast-mountains-relief-v2.webp"},
   {
-    id: "laurentian-mountains-relief-v2",
+    id: "laurentian-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baie du Lac Monette",
+                  "text": "Eine Bucht in laurentian-mountains-relief-v2 am Lac Monette.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.937091,
+                        46.997125
+                  ]
+            },
+            {
+                  "name": "Baie des Loups",
+                  "text": "Eine Bucht in laurentian-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.950374,
+                        46.992339
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baie du Lac Monette",
+                  "text": "Egy öböl a laurentian-mountains-relief-v2-ben, a Lac Monette-nél.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.937091,
+                        46.997125
+                  ]
+            },
+            {
+                  "name": "Baie des Loups",
+                  "text": "Egy öböl a laurentian-mountains-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.950374,
+                        46.992339
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baie du Lac Monette",
+                  "text": "Un golf în laurentian-mountains-relief-v2 pe Lacul Monette.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.937091,
+                        46.997125
+                  ]
+            },
+            {
+                  "name": "Baie des Loups",
+                  "text": "Un golf în laurentian-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.950374,
+                        46.992339
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baie du Lac Monette",
+                  "text": "A bay in laurentian-mountains-relief-v2 on Lake Monette.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.937091,
+                        46.997125
+                  ]
+            },
+            {
+                  "name": "Baie des Loups",
+                  "text": "A bay in laurentian-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.950374,
+                        46.992339
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-QC",
     coords: [-74.0, 47.0],
@@ -89,7 +251,160 @@ export const poiExtraCanadaReliefV2: POI[] = [
       fr: ["L'un des plus vieux massifs montagneux de la planète", "Station de ski renommée de Mont-Tremblant", "Célèbres pour les couleurs flamboyantes de l'été indien", "Font partie du Bouclier canadien précambrien"],
     }, image: "/poi-images/laurentian-mountains-relief-v2.webp"},
   {
-    id: "columbia-icefield-relief-v2",
+    id: "columbia-icefield-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Castelets",
+                  "text": "Die Castelets sind Gipfel im Columbia Icefield-Gebiet der kanadischen Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -117.132466,
+                        52.062671
+                  ]
+            },
+            {
+                  "name": "Watchman Peak",
+                  "text": "Der Watchman Peak ist ein Gipfel in den kanadischen Rocky Mountains mit Blick auf das Columbia Icefield.",
+                  "category": "natural",
+                  "coords": [
+                        -117.233439,
+                        52.041067
+                  ]
+            },
+            {
+                  "name": "Mount Saskatchewan",
+                  "text": "Der Mount Saskatchewan ist ein Berg im Columbia Icefield-Gebiet, benannt nach dem Saskatchewan River.",
+                  "category": "natural",
+                  "coords": [
+                        -117.091216,
+                        52.099486
+                  ]
+            },
+            {
+                  "name": "Big Bend Peak",
+                  "text": "Der Big Bend Peak ist ein Gipfel im Columbia Icefield-Gebiet mit einer charakteristischen großen Biegung.",
+                  "category": "natural",
+                  "coords": [
+                        -117.111663,
+                        52.148086
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Castelets",
+                  "text": "A Castelets csúcsok a Columbia Icefield területén a kanadai Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.132466,
+                        52.062671
+                  ]
+            },
+            {
+                  "name": "Watchman Peak",
+                  "text": "A Watchman Peak egy csúcs a kanadai Sziklás-hegységben, a Columbia Icefieldre néz.",
+                  "category": "natural",
+                  "coords": [
+                        -117.233439,
+                        52.041067
+                  ]
+            },
+            {
+                  "name": "Mount Saskatchewan",
+                  "text": "A Mount Saskatchewan egy hegy a Columbia Icefield területén, a Saskatchewan folyóról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -117.091216,
+                        52.099486
+                  ]
+            },
+            {
+                  "name": "Big Bend Peak",
+                  "text": "A Big Bend Peak egy csúcs a Columbia Icefield területén, jellegzetes nagy kanyar formával.",
+                  "category": "natural",
+                  "coords": [
+                        -117.111663,
+                        52.148086
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Castelets",
+                  "text": "Castelets sunt vârfuri în zona Columbia Icefield din Munții Stâncoși canadieni.",
+                  "category": "natural",
+                  "coords": [
+                        -117.132466,
+                        52.062671
+                  ]
+            },
+            {
+                  "name": "Watchman Peak",
+                  "text": "Watchman Peak este un vârf în Munții Stâncoși canadieni cu vedere asupra Columbia Icefield.",
+                  "category": "natural",
+                  "coords": [
+                        -117.233439,
+                        52.041067
+                  ]
+            },
+            {
+                  "name": "Mount Saskatchewan",
+                  "text": "Mount Saskatchewan este un munte în zona Columbia Icefield, numit după râul Saskatchewan.",
+                  "category": "natural",
+                  "coords": [
+                        -117.091216,
+                        52.099486
+                  ]
+            },
+            {
+                  "name": "Big Bend Peak",
+                  "text": "Big Bend Peak este un vârf în zona Columbia Icefield cu o formă distinctivă de cot mare.",
+                  "category": "natural",
+                  "coords": [
+                        -117.111663,
+                        52.148086
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Castelets",
+                  "text": "The Castelets are peaks in the Columbia Icefield area of the Canadian Rockies.",
+                  "category": "natural",
+                  "coords": [
+                        -117.132466,
+                        52.062671
+                  ]
+            },
+            {
+                  "name": "Watchman Peak",
+                  "text": "Watchman Peak is a summit in the Canadian Rockies overlooking the Columbia Icefield.",
+                  "category": "natural",
+                  "coords": [
+                        -117.233439,
+                        52.041067
+                  ]
+            },
+            {
+                  "name": "Mount Saskatchewan",
+                  "text": "Mount Saskatchewan is a mountain in the Columbia Icefield area, named after the Saskatchewan River.",
+                  "category": "natural",
+                  "coords": [
+                        -117.091216,
+                        52.099486
+                  ]
+            },
+            {
+                  "name": "Big Bend Peak",
+                  "text": "Big Bend Peak is a peak in the Columbia Icefield area with a distinctive big bend shape.",
+                  "category": "natural",
+                  "coords": [
+                        -117.111663,
+                        52.148086
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-AB",
     coords: [-117.2, 52.1],
@@ -175,7 +490,124 @@ export const poiExtraCanadaReliefV2: POI[] = [
       fr: ["Nature vierge dans le Nord du Canada", "Habitat crucial pour les mouflons et les caribous", "Bordent le Yukon et les Territoires du Nord-Ouest", "Presque aucun accès routier"],
     }, image: "/poi-images/mackenzie-mountains-relief-v2.webp"},
   {
-    id: "torngat-mountains-relief-v2",
+    id: "torngat-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Innuit Mountain",
+                  "text": "Der Innuit Mountain ist ein prominenter Gipfel in den Torngat Mountains von Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -64.11605,
+                        59.057158
+                  ]
+            },
+            {
+                  "name": "Idyutak Mountain",
+                  "text": "Ein Berg in den Torngat Mountains von Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.863128,
+                        59.018968
+                  ]
+            },
+            {
+                  "name": "Kutyautak Mountain",
+                  "text": "Ein weiterer Berg in den Torngat Mountains von Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.92953,
+                        59.049448
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Innuit Mountain",
+                  "text": "Az Innuit-hegy egy kiemelkedő csúcs a labradori Torngat-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -64.11605,
+                        59.057158
+                  ]
+            },
+            {
+                  "name": "Idyutak Mountain",
+                  "text": "Egy hegy a labradori Torngat-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -63.863128,
+                        59.018968
+                  ]
+            },
+            {
+                  "name": "Kutyautak Mountain",
+                  "text": "Egy másik hegy a labradori Torngat-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -63.92953,
+                        59.049448
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Innuit Mountain",
+                  "text": "Muntele Innuit este un vârf proeminent în Munții Torngat din Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -64.11605,
+                        59.057158
+                  ]
+            },
+            {
+                  "name": "Idyutak Mountain",
+                  "text": "Un munte în Munții Torngat din Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.863128,
+                        59.018968
+                  ]
+            },
+            {
+                  "name": "Kutyautak Mountain",
+                  "text": "Un alt munte în Munții Torngat din Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.92953,
+                        59.049448
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Innuit Mountain",
+                  "text": "Innuit Mountain is a prominent peak in the Torngat Mountains of Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -64.11605,
+                        59.057158
+                  ]
+            },
+            {
+                  "name": "Idyutak Mountain",
+                  "text": "A mountain in the Torngat Mountains of Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.863128,
+                        59.018968
+                  ]
+            },
+            {
+                  "name": "Kutyautak Mountain",
+                  "text": "Another mountain in the Torngat Mountains of Labrador.",
+                  "category": "natural",
+                  "coords": [
+                        -63.92953,
+                        59.049448
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-NL",
     coords: [-64.0, 59.0],
@@ -218,7 +650,772 @@ export const poiExtraCanadaReliefV2: POI[] = [
       fr: ["Le nom signifie « lieu des esprits » (inuktitut)", "Plus hauts sommets du Canada à l'est des Rocheuses", "Impressionnant paysage de fjords arctiques", "Fait partie du parc national des Monts-Torngat"],
     }, image: "/poi-images/torngat-mountains-relief-v2.webp"},
   {
-    id: "mont-tremblant-relief-v2",
+    id: "mont-tremblant-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre d'Accès à la Nature de l'UQAM",
+                  "text": "Ein Naturschutzgebiet in mont-tremblant-relief-v2, betrieben von der Universität Quebec in Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -74.43721,
+                        46.193082
+                  ]
+            },
+            {
+                  "name": "Parc National du Mont-Tremblant - Secteur de la Diable",
+                  "text": "Ein Naturschutzgebietssektor des Mont-Tremblant Nationalparks in mont-tremblant-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -74.507973,
+                        46.260518
+                  ]
+            },
+            {
+                  "name": "Vélo Mont-Tremblant",
+                  "text": "Eine Fahrradverleih- und Tourenattraktion in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.603129,
+                        46.175603
+                  ]
+            },
+            {
+                  "name": "Vue",
+                  "text": "Ein Aussichtspunkt in mont-tremblant-relief-v2 mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -74.593528,
+                        46.186071
+                  ]
+            },
+            {
+                  "name": "Ziptrek Écotours",
+                  "text": "Eine Seilrücken-Ökotour-Attraktion in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.584307,
+                        46.212642
+                  ]
+            },
+            {
+                  "name": "Mission Laser",
+                  "text": "Eine Lasertag-Attraktion in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.585451,
+                        46.21273
+                  ]
+            },
+            {
+                  "name": "Brind'O Aquaclub",
+                  "text": "Ein Wasserpark in mont-tremblant-relief-v2 mit Pools und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.585001,
+                        46.211735
+                  ]
+            },
+            {
+                  "name": "Cabriolet Mont-Tremblant",
+                  "text": "Eine Seilbahnattraktion in mont-tremblant-relief-v2 mit Bergblick.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58599,
+                        46.209873
+                  ]
+            },
+            {
+                  "name": "Belvédère des Chutes",
+                  "text": "Ein Aussichtspunkt in mont-tremblant-relief-v2 mit Blick auf Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        -74.60061,
+                        46.209838
+                  ]
+            },
+            {
+                  "name": "Tonga Lumina",
+                  "text": "Ein leuchtendes Denkmal in mont-tremblant-relief-v2 mit einem Nachtspaziergang.",
+                  "category": "historical",
+                  "coords": [
+                        -74.580715,
+                        46.217145
+                  ]
+            },
+            {
+                  "name": "Chaise longue géante",
+                  "text": "Eine riesige Liegestuhl-Attraktion in mont-tremblant-relief-v2 für Fotoaufnahmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.581844,
+                        46.214966
+                  ]
+            },
+            {
+                  "name": "Spectacle d'oiseaux de proie",
+                  "text": "Eine Greifvogelshow in mont-tremblant-relief-v2 mit Falknereivorführungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.55408,
+                        46.222276
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Bernard",
+                  "text": "Ein Naturschutzgebiet in mont-tremblant-relief-v2 mit Wegen und Wildtieren.",
+                  "category": "natural",
+                  "coords": [
+                        -74.567549,
+                        46.182465
+                  ]
+            },
+            {
+                  "name": "Belvédère Simone-Levert-David",
+                  "text": "Ein Aussichtspunkt in mont-tremblant-relief-v2, benannt nach einer Naturschützerin.",
+                  "category": "natural",
+                  "coords": [
+                        -74.474908,
+                        46.130489
+                  ]
+            },
+            {
+                  "name": "Sentier des cimes Laurentides",
+                  "text": "Eine Baumwipfelpfad-Attraktion in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.505097,
+                        46.113733
+                  ]
+            },
+            {
+                  "name": "Parc Plage",
+                  "text": "Ein Strandpark in mont-tremblant-relief-v2 mit Schwimmen und Sonnenbaden.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.58901,
+                        46.211564
+                  ]
+            },
+            {
+                  "name": "B&T - Beach & Tennis Club",
+                  "text": "Ein Strand- und Tennisclub in mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.595215,
+                        46.208427
+                  ]
+            },
+            {
+                  "name": "Plage du Pinoteau",
+                  "text": "Ein Strand in mont-tremblant-relief-v2 am Lake Pinoteau.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.597801,
+                        46.207972
+                  ]
+            },
+            {
+                  "name": "Plage Municipale",
+                  "text": "Ein öffentlicher Strand in mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.473659,
+                        46.127533
+                  ]
+            },
+            {
+                  "name": "Plage du Lac-Équerre",
+                  "text": "Ein Strand in mont-tremblant-relief-v2 am Lac-Équerre.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.486195,
+                        46.180001
+                  ]
+            },
+            {
+                  "name": "Parc Gérard Legault",
+                  "text": "Ein Park in mont-tremblant-relief-v2, benannt nach einer lokalen Persönlichkeit.",
+                  "category": "park",
+                  "coords": [
+                        -74.480841,
+                        46.114769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre d'Accès à la Nature de l'UQAM",
+                  "text": "Természetvédelmi terület a mont-tremblant-relief-v2-ben, a Montreali Quebec Egyetem által üzemeltetve.",
+                  "category": "natural",
+                  "coords": [
+                        -74.43721,
+                        46.193082
+                  ]
+            },
+            {
+                  "name": "Parc National du Mont-Tremblant - Secteur de la Diable",
+                  "text": "A Mont-Tremblant Nemzeti Park egy természetvédelmi szektora a mont-tremblant-relief-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.507973,
+                        46.260518
+                  ]
+            },
+            {
+                  "name": "Vélo Mont-Tremblant",
+                  "text": "Kerékpárkölcsönző és túraattrakció a mont-tremblant-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.603129,
+                        46.175603
+                  ]
+            },
+            {
+                  "name": "Vue",
+                  "text": "Kilátópont a mont-tremblant-relief-v2-ben, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -74.593528,
+                        46.186071
+                  ]
+            },
+            {
+                  "name": "Ziptrek Écotours",
+                  "text": "Cipzeles ökotúra-attrakció a mont-tremblant-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.584307,
+                        46.212642
+                  ]
+            },
+            {
+                  "name": "Mission Laser",
+                  "text": "Laser tag attrakció a mont-tremblant-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.585451,
+                        46.21273
+                  ]
+            },
+            {
+                  "name": "Brind'O Aquaclub",
+                  "text": "Vízipark a mont-tremblant-relief-v2-ben, medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.585001,
+                        46.211735
+                  ]
+            },
+            {
+                  "name": "Cabriolet Mont-Tremblant",
+                  "text": "Siklóvasút-attrakció a mont-tremblant-relief-v2-ben, hegyi kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58599,
+                        46.209873
+                  ]
+            },
+            {
+                  "name": "Belvédère des Chutes",
+                  "text": "Kilátópont a mont-tremblant-relief-v2-ben, vízesésekre néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -74.60061,
+                        46.209838
+                  ]
+            },
+            {
+                  "name": "Tonga Lumina",
+                  "text": "Egy világító emlékmű a mont-tremblant-relief-v2-ben, éjszakai sétával.",
+                  "category": "historical",
+                  "coords": [
+                        -74.580715,
+                        46.217145
+                  ]
+            },
+            {
+                  "name": "Chaise longue géante",
+                  "text": "Egy hatalmas nyugágy-attrakció a mont-tremblant-relief-v2-ben, fényképezési lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.581844,
+                        46.214966
+                  ]
+            },
+            {
+                  "name": "Spectacle d'oiseaux de proie",
+                  "text": "Ragadozómadár-bemutató a mont-tremblant-relief-v2-ben, solymász előadásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.55408,
+                        46.222276
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Bernard",
+                  "text": "Természetvédelmi terület a mont-tremblant-relief-v2-ben, ösvényekkel és vadvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        -74.567549,
+                        46.182465
+                  ]
+            },
+            {
+                  "name": "Belvédère Simone-Levert-David",
+                  "text": "Kilátópont a mont-tremblant-relief-v2-ben, egy természetvédőről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -74.474908,
+                        46.130489
+                  ]
+            },
+            {
+                  "name": "Sentier des cimes Laurentides",
+                  "text": "Fakoronasétány-attrakció a mont-tremblant-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.505097,
+                        46.113733
+                  ]
+            },
+            {
+                  "name": "Parc Plage",
+                  "text": "Strandpark a mont-tremblant-relief-v2-ben, úszással és napozással.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.58901,
+                        46.211564
+                  ]
+            },
+            {
+                  "name": "B&T - Beach & Tennis Club",
+                  "text": "Strand- és teniszklub a mont-tremblant-relief-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.595215,
+                        46.208427
+                  ]
+            },
+            {
+                  "name": "Plage du Pinoteau",
+                  "text": "Strand a mont-tremblant-relief-v2-ben, a Pinoteau-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.597801,
+                        46.207972
+                  ]
+            },
+            {
+                  "name": "Plage Municipale",
+                  "text": "Önkormányzati strand a mont-tremblant-relief-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.473659,
+                        46.127533
+                  ]
+            },
+            {
+                  "name": "Plage du Lac-Équerre",
+                  "text": "Strand a mont-tremblant-relief-v2-ben, a Lac-Équerre partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.486195,
+                        46.180001
+                  ]
+            },
+            {
+                  "name": "Parc Gérard Legault",
+                  "text": "Park a mont-tremblant-relief-v2-ben, egy helyi személyiségről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -74.480841,
+                        46.114769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre d'Accès à la Nature de l'UQAM",
+                  "text": "O rezervație naturală în mont-tremblant-relief-v2, operată de Universitatea Quebec din Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -74.43721,
+                        46.193082
+                  ]
+            },
+            {
+                  "name": "Parc National du Mont-Tremblant - Secteur de la Diable",
+                  "text": "Un sector de rezervație naturală a Parcului Național Mont-Tremblant în mont-tremblant-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -74.507973,
+                        46.260518
+                  ]
+            },
+            {
+                  "name": "Vélo Mont-Tremblant",
+                  "text": "O atracție de închiriere de biciclete și tururi în mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.603129,
+                        46.175603
+                  ]
+            },
+            {
+                  "name": "Vue",
+                  "text": "Un punct de belvedere în mont-tremblant-relief-v2 cu vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -74.593528,
+                        46.186071
+                  ]
+            },
+            {
+                  "name": "Ziptrek Écotours",
+                  "text": "O atracție de tiroliană ecoturism în mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.584307,
+                        46.212642
+                  ]
+            },
+            {
+                  "name": "Mission Laser",
+                  "text": "O atracție de laser tag în mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.585451,
+                        46.21273
+                  ]
+            },
+            {
+                  "name": "Brind'O Aquaclub",
+                  "text": "Un parc acvatic în mont-tremblant-relief-v2 cu piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.585001,
+                        46.211735
+                  ]
+            },
+            {
+                  "name": "Cabriolet Mont-Tremblant",
+                  "text": "O atracție de telecabină în mont-tremblant-relief-v2 cu vedere la munte.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58599,
+                        46.209873
+                  ]
+            },
+            {
+                  "name": "Belvédère des Chutes",
+                  "text": "Un punct de belvedere în mont-tremblant-relief-v2 cu vedere la cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -74.60061,
+                        46.209838
+                  ]
+            },
+            {
+                  "name": "Tonga Lumina",
+                  "text": "Un monument luminos în mont-tremblant-relief-v2 cu o plimbare de noapte.",
+                  "category": "historical",
+                  "coords": [
+                        -74.580715,
+                        46.217145
+                  ]
+            },
+            {
+                  "name": "Chaise longue géante",
+                  "text": "O atracție de șezlong gigant în mont-tremblant-relief-v2 pentru fotografii.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.581844,
+                        46.214966
+                  ]
+            },
+            {
+                  "name": "Spectacle d'oiseaux de proie",
+                  "text": "Un spectacol de păsări de pradă în mont-tremblant-relief-v2 cu demonstrații de șoimărie.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.55408,
+                        46.222276
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Bernard",
+                  "text": "O rezervație naturală în mont-tremblant-relief-v2 cu trasee și animale sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        -74.567549,
+                        46.182465
+                  ]
+            },
+            {
+                  "name": "Belvédère Simone-Levert-David",
+                  "text": "Un punct de belvedere în mont-tremblant-relief-v2 numit după un ecologist.",
+                  "category": "natural",
+                  "coords": [
+                        -74.474908,
+                        46.130489
+                  ]
+            },
+            {
+                  "name": "Sentier des cimes Laurentides",
+                  "text": "O atracție de promenadă pe coroanele copacilor în mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.505097,
+                        46.113733
+                  ]
+            },
+            {
+                  "name": "Parc Plage",
+                  "text": "Un parc de plajă în mont-tremblant-relief-v2 cu înot și plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.58901,
+                        46.211564
+                  ]
+            },
+            {
+                  "name": "B&T - Beach & Tennis Club",
+                  "text": "Un club de plajă și tenis în mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.595215,
+                        46.208427
+                  ]
+            },
+            {
+                  "name": "Plage du Pinoteau",
+                  "text": "O plajă în mont-tremblant-relief-v2 pe Lacul Pinoteau.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.597801,
+                        46.207972
+                  ]
+            },
+            {
+                  "name": "Plage Municipale",
+                  "text": "O plajă municipală în mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.473659,
+                        46.127533
+                  ]
+            },
+            {
+                  "name": "Plage du Lac-Équerre",
+                  "text": "O plajă în mont-tremblant-relief-v2 pe Lacul Équerre.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.486195,
+                        46.180001
+                  ]
+            },
+            {
+                  "name": "Parc Gérard Legault",
+                  "text": "Un parc în mont-tremblant-relief-v2 numit după o personalitate locală.",
+                  "category": "park",
+                  "coords": [
+                        -74.480841,
+                        46.114769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre d'Accès à la Nature de l'UQAM",
+                  "text": "A nature reserve in mont-tremblant-relief-v2 operated by the University of Quebec in Montreal.",
+                  "category": "natural",
+                  "coords": [
+                        -74.43721,
+                        46.193082
+                  ]
+            },
+            {
+                  "name": "Parc National du Mont-Tremblant - Secteur de la Diable",
+                  "text": "A nature reserve sector of Mont-Tremblant National Park in mont-tremblant-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -74.507973,
+                        46.260518
+                  ]
+            },
+            {
+                  "name": "Vélo Mont-Tremblant",
+                  "text": "A bicycle rental and tour attraction in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.603129,
+                        46.175603
+                  ]
+            },
+            {
+                  "name": "Vue",
+                  "text": "A viewpoint in mont-tremblant-relief-v2 offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -74.593528,
+                        46.186071
+                  ]
+            },
+            {
+                  "name": "Ziptrek Écotours",
+                  "text": "A zipline ecotour attraction in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.584307,
+                        46.212642
+                  ]
+            },
+            {
+                  "name": "Mission Laser",
+                  "text": "A laser tag attraction in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.585451,
+                        46.21273
+                  ]
+            },
+            {
+                  "name": "Brind'O Aquaclub",
+                  "text": "A water park in mont-tremblant-relief-v2 with pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.585001,
+                        46.211735
+                  ]
+            },
+            {
+                  "name": "Cabriolet Mont-Tremblant",
+                  "text": "A cable car attraction in mont-tremblant-relief-v2 offering mountain views.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.58599,
+                        46.209873
+                  ]
+            },
+            {
+                  "name": "Belvédère des Chutes",
+                  "text": "A viewpoint in mont-tremblant-relief-v2 overlooking waterfalls.",
+                  "category": "natural",
+                  "coords": [
+                        -74.60061,
+                        46.209838
+                  ]
+            },
+            {
+                  "name": "Tonga Lumina",
+                  "text": "A luminous monument in mont-tremblant-relief-v2 featuring a night walk.",
+                  "category": "historical",
+                  "coords": [
+                        -74.580715,
+                        46.217145
+                  ]
+            },
+            {
+                  "name": "Chaise longue géante",
+                  "text": "A giant lounge chair attraction in mont-tremblant-relief-v2 for photo opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.581844,
+                        46.214966
+                  ]
+            },
+            {
+                  "name": "Birds of Prey show",
+                  "text": "A bird of prey show in mont-tremblant-relief-v2 featuring falconry demonstrations.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.55408,
+                        46.222276
+                  ]
+            },
+            {
+                  "name": "Domaine Saint-Bernard",
+                  "text": "A nature reserve in mont-tremblant-relief-v2 with trails and wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        -74.567549,
+                        46.182465
+                  ]
+            },
+            {
+                  "name": "Belvédère Simone-Levert-David",
+                  "text": "A viewpoint in mont-tremblant-relief-v2 named after a conservationist.",
+                  "category": "natural",
+                  "coords": [
+                        -74.474908,
+                        46.130489
+                  ]
+            },
+            {
+                  "name": "Sentier des cimes Laurentides",
+                  "text": "A treetop walkway attraction in mont-tremblant-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.505097,
+                        46.113733
+                  ]
+            },
+            {
+                  "name": "Parc Plage",
+                  "text": "A beach park in mont-tremblant-relief-v2 with swimming and sunbathing.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.58901,
+                        46.211564
+                  ]
+            },
+            {
+                  "name": "B&T - Beach & Tennis Club",
+                  "text": "A beach and tennis club in mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.595215,
+                        46.208427
+                  ]
+            },
+            {
+                  "name": "Plage du Pinoteau",
+                  "text": "A beach in mont-tremblant-relief-v2 on Lake Pinoteau.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.597801,
+                        46.207972
+                  ]
+            },
+            {
+                  "name": "Plage Municipale",
+                  "text": "A municipal beach in mont-tremblant-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.473659,
+                        46.127533
+                  ]
+            },
+            {
+                  "name": "Plage du Lac-Équerre",
+                  "text": "A beach in mont-tremblant-relief-v2 on Lake Équerre.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.486195,
+                        46.180001
+                  ]
+            },
+            {
+                  "name": "Parc Gérard Legault",
+                  "text": "A park in mont-tremblant-relief-v2 named after a local figure.",
+                  "category": "park",
+                  "coords": [
+                        -74.480841,
+                        46.114769
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-QC",
     coords: [-74.5, 46.2],
@@ -306,7 +1503,592 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-garibaldi-relief-v2",
+    id: "mount-garibaldi-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Sharkfin",
+                  "text": "Ein Gipfel im Garibaldi-Gebiet, der wie eine Haifischflosse geformt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -122.989215,
+                        49.867238
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Ein abgerundeter Berggipfel im Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.024059,
+                        49.765061
+                  ]
+            },
+            {
+                  "name": "Columnar Peak",
+                  "text": "Ein Gipfel mit säulenförmigen Felsformationen im Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.006795,
+                        49.802466
+                  ]
+            },
+            {
+                  "name": "The Tent",
+                  "text": "Ein Gipfel im Garibaldi-Gebiet, der an ein Zelt erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -122.996428,
+                        49.851161
+                  ]
+            },
+            {
+                  "name": "Atwell Peak",
+                  "text": "Ein vulkanischer Gipfel im Garibaldi-Vulkangürtel.",
+                  "category": "natural",
+                  "coords": [
+                        -123.007778,
+                        49.84207
+                  ]
+            },
+            {
+                  "name": "The Missing Digits Viewpoint",
+                  "text": "Ein Aussichtspunkt im Mount-Garibaldi-Gebiet mit Blick auf die umliegende Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -123.133773,
+                        49.795402
+                  ]
+            },
+            {
+                  "name": "Daedalus Ridge",
+                  "text": "Daedalus Ridge ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.081154,
+                        49.768737
+                  ]
+            },
+            {
+                  "name": "David Reid Ski Bench",
+                  "text": "Die David Reid Ski Bench ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079625,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Icarus Ridge",
+                  "text": "Icarus Ridge ist ein Aussichtspunkt im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079848,
+                        49.772095
+                  ]
+            },
+            {
+                  "name": "Fawn Lake Viewpoint",
+                  "text": "Der Fawn Lake Viewpoint bietet einen Aussichtspunkt auf den Fawn Lake im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.108823,
+                        49.784832
+                  ]
+            },
+            {
+                  "name": "Skookum Creek-Mamquam River Put-in Recreation Site",
+                  "text": "Ein Naturschutzgebiet am Zusammenfluss von Skookum Creek und Mamquam River im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -122.99602,
+                        49.718206
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Interpretive Forest Trails",
+                  "text": "Lehrreiche Waldpfade im Brohm Lake Interpretive Forest im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.136258,
+                        49.812993
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Day Use Recreation Site",
+                  "text": "Ein Tagesnutzungsgebiet am Brohm Lake im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.130109,
+                        49.812974
+                  ]
+            },
+            {
+                  "name": "Cat Lake Recreation Site",
+                  "text": "Das Cat Lake Recreation Site ist ein Erholungsgebiet im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.109334,
+                        49.799013
+                  ]
+            },
+            {
+                  "name": "Alice Lake Provincial Park",
+                  "text": "Der Alice Lake Provincial Park ist ein Schutzgebiet in British Columbia mit einem See und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -123.117262,
+                        49.782063
+                  ]
+            },
+            {
+                  "name": "Raffuse Creek Recreation Reserve",
+                  "text": "Das Raffuse Creek Recreation Reserve ist ein Naturschutzgebiet im Mount-Garibaldi-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -123.046732,
+                        49.716807
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Sharkfin",
+                  "text": "Egy csúcs a Garibaldi térségében, amely cápaúszó alakú.",
+                  "category": "natural",
+                  "coords": [
+                        -122.989215,
+                        49.867238
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Egy lekerekített hegycsúcs a Garibaldi térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -123.024059,
+                        49.765061
+                  ]
+            },
+            {
+                  "name": "Columnar Peak",
+                  "text": "Egy csúcs oszlopos sziklaformációkkal a Garibaldi térségében.",
+                  "category": "natural",
+                  "coords": [
+                        -123.006795,
+                        49.802466
+                  ]
+            },
+            {
+                  "name": "The Tent",
+                  "text": "Egy csúcs a Garibaldi térségében, amely sátorra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -122.996428,
+                        49.851161
+                  ]
+            },
+            {
+                  "name": "Atwell Peak",
+                  "text": "Egy vulkáni csúcs a Garibaldi vulkáni övben.",
+                  "category": "natural",
+                  "coords": [
+                        -123.007778,
+                        49.84207
+                  ]
+            },
+            {
+                  "name": "The Missing Digits Viewpoint",
+                  "text": "Kilátópont a Mount Garibaldi régióban, amely a környező hegyi tájra nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        -123.133773,
+                        49.795402
+                  ]
+            },
+            {
+                  "name": "Daedalus Ridge",
+                  "text": "A Daedalus Ridge egy kilátópont a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.081154,
+                        49.768737
+                  ]
+            },
+            {
+                  "name": "David Reid Ski Bench",
+                  "text": "A David Reid Ski Bench egy kilátópont a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079625,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Icarus Ridge",
+                  "text": "Az Icarus Ridge egy kilátópont a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079848,
+                        49.772095
+                  ]
+            },
+            {
+                  "name": "Fawn Lake Viewpoint",
+                  "text": "A Fawn Lake Viewpoint kilátást nyújt a Fawn-tóra a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.108823,
+                        49.784832
+                  ]
+            },
+            {
+                  "name": "Skookum Creek-Mamquam River Put-in Recreation Site",
+                  "text": "Egy természetvédelmi terület a Skookum Creek és a Mamquam River összefolyásánál a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -122.99602,
+                        49.718206
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Interpretive Forest Trails",
+                  "text": "Tanösvények a Brohm Lake Interpretive Forestben a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.136258,
+                        49.812993
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Day Use Recreation Site",
+                  "text": "Nappali használatú rekreációs terület a Brohm-tónál a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.130109,
+                        49.812974
+                  ]
+            },
+            {
+                  "name": "Cat Lake Recreation Site",
+                  "text": "A Cat Lake Recreation Site egy pihenőhely a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.109334,
+                        49.799013
+                  ]
+            },
+            {
+                  "name": "Alice Lake Provincial Park",
+                  "text": "Az Alice Lake Provincial Park egy védett terület Brit Columbia-ban tóval és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -123.117262,
+                        49.782063
+                  ]
+            },
+            {
+                  "name": "Raffuse Creek Recreation Reserve",
+                  "text": "A Raffuse Creek Recreation Reserve egy természetvédelmi terület a Mount Garibaldi régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.046732,
+                        49.716807
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Sharkfin",
+                  "text": "Un vârf în zona Garibaldi, în formă de aripioară de rechin.",
+                  "category": "natural",
+                  "coords": [
+                        -122.989215,
+                        49.867238
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Un vârf de munte rotunjit în zona Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.024059,
+                        49.765061
+                  ]
+            },
+            {
+                  "name": "Columnar Peak",
+                  "text": "Un vârf cu formațiuni stâncoase columnare în zona Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.006795,
+                        49.802466
+                  ]
+            },
+            {
+                  "name": "The Tent",
+                  "text": "Un vârf în zona Garibaldi, care amintește de o cort.",
+                  "category": "natural",
+                  "coords": [
+                        -122.996428,
+                        49.851161
+                  ]
+            },
+            {
+                  "name": "Atwell Peak",
+                  "text": "Un vârf vulcanic în Centura Vulcanică Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.007778,
+                        49.84207
+                  ]
+            },
+            {
+                  "name": "The Missing Digits Viewpoint",
+                  "text": "Un punct de belvedere în zona Mount Garibaldi, cu vedere la peisajul montan din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -123.133773,
+                        49.795402
+                  ]
+            },
+            {
+                  "name": "Daedalus Ridge",
+                  "text": "Daedalus Ridge este un punct de belvedere în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.081154,
+                        49.768737
+                  ]
+            },
+            {
+                  "name": "David Reid Ski Bench",
+                  "text": "David Reid Ski Bench este un punct de belvedere în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079625,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Icarus Ridge",
+                  "text": "Icarus Ridge este un punct de belvedere în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079848,
+                        49.772095
+                  ]
+            },
+            {
+                  "name": "Fawn Lake Viewpoint",
+                  "text": "Fawn Lake Viewpoint oferă un punct de belvedere spre Lacul Fawn în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.108823,
+                        49.784832
+                  ]
+            },
+            {
+                  "name": "Skookum Creek-Mamquam River Put-in Recreation Site",
+                  "text": "O rezervație naturală la confluența pârâului Skookum cu râul Mamquam, în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -122.99602,
+                        49.718206
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Interpretive Forest Trails",
+                  "text": "Trasee forestiere educaționale în Pădurea Interpretivă Brohm Lake din zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.136258,
+                        49.812993
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Day Use Recreation Site",
+                  "text": "Un loc de agrement pentru utilizare zilnică la Lacul Brohm în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.130109,
+                        49.812974
+                  ]
+            },
+            {
+                  "name": "Cat Lake Recreation Site",
+                  "text": "Cat Lake Recreation Site este o zonă de agrement în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.109334,
+                        49.799013
+                  ]
+            },
+            {
+                  "name": "Alice Lake Provincial Park",
+                  "text": "Parcul Provincial Alice Lake este o arie protejată în Columbia Britanică, cu un lac și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -123.117262,
+                        49.782063
+                  ]
+            },
+            {
+                  "name": "Raffuse Creek Recreation Reserve",
+                  "text": "Rezervația de agrement Raffuse Creek este o rezervație naturală în zona Mount Garibaldi.",
+                  "category": "natural",
+                  "coords": [
+                        -123.046732,
+                        49.716807
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Sharkfin",
+                  "text": "A peak in the Garibaldi area shaped like a shark fin.",
+                  "category": "natural",
+                  "coords": [
+                        -122.989215,
+                        49.867238
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "A rounded mountain peak in the Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.024059,
+                        49.765061
+                  ]
+            },
+            {
+                  "name": "Columnar Peak",
+                  "text": "A peak with columnar rock formations in the Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.006795,
+                        49.802466
+                  ]
+            },
+            {
+                  "name": "The Tent",
+                  "text": "A peak in the Garibaldi area resembling a tent.",
+                  "category": "natural",
+                  "coords": [
+                        -122.996428,
+                        49.851161
+                  ]
+            },
+            {
+                  "name": "Atwell Peak",
+                  "text": "A volcanic peak in the Garibaldi Volcanic Belt.",
+                  "category": "natural",
+                  "coords": [
+                        -123.007778,
+                        49.84207
+                  ]
+            },
+            {
+                  "name": "The Missing Digits Viewpoint",
+                  "text": "A viewpoint in the Mount Garibaldi area offering views of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -123.133773,
+                        49.795402
+                  ]
+            },
+            {
+                  "name": "Daedalus Ridge",
+                  "text": "Daedalus Ridge is a viewpoint in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.081154,
+                        49.768737
+                  ]
+            },
+            {
+                  "name": "David Reid Ski Bench",
+                  "text": "The David Reid Ski Bench is a viewpoint in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079625,
+                        49.770581
+                  ]
+            },
+            {
+                  "name": "Icarus Ridge",
+                  "text": "Icarus Ridge is a viewpoint in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.079848,
+                        49.772095
+                  ]
+            },
+            {
+                  "name": "Fawn Lake Viewpoint",
+                  "text": "Fawn Lake Viewpoint offers a viewpoint overlooking Fawn Lake in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.108823,
+                        49.784832
+                  ]
+            },
+            {
+                  "name": "Skookum Creek-Mamquam River Put-in Recreation Site",
+                  "text": "A nature reserve at the confluence of Skookum Creek and Mamquam River in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -122.99602,
+                        49.718206
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Interpretive Forest Trails",
+                  "text": "Interpretive forest trails in the Brohm Lake Interpretive Forest in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.136258,
+                        49.812993
+                  ]
+            },
+            {
+                  "name": "Brohm Lake Day Use Recreation Site",
+                  "text": "A day-use recreation site at Brohm Lake in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.130109,
+                        49.812974
+                  ]
+            },
+            {
+                  "name": "Cat Lake Recreation Site",
+                  "text": "Cat Lake Recreation Site is a recreation area in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.109334,
+                        49.799013
+                  ]
+            },
+            {
+                  "name": "Alice Lake Provincial Park",
+                  "text": "Alice Lake Provincial Park is a protected area in British Columbia featuring a lake and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -123.117262,
+                        49.782063
+                  ]
+            },
+            {
+                  "name": "Raffuse Creek Recreation Reserve",
+                  "text": "Raffuse Creek Recreation Reserve is a nature reserve in the Mount Garibaldi area.",
+                  "category": "natural",
+                  "coords": [
+                        -123.046732,
+                        49.716807
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-BC",
     coords: [-123.0, 49.8],
@@ -350,7 +2132,124 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-thor-relief-v2",
+    id: "mount-thor-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thor Peak",
+                  "text": "Der Thor Peak ist Teil des Mount-Thor-Massivs auf Baffin Island, bekannt für seinen senkrechten Absturz.",
+                  "category": "natural",
+                  "coords": [
+                        -65.32031,
+                        66.53803
+                  ]
+            },
+            {
+                  "name": "Breidablik Peak",
+                  "text": "Der Breidablik Peak ist ein Berggipfel im Mount-Thor-Gebiet der Baffin-Insel.",
+                  "category": "natural",
+                  "coords": [
+                        -65.241981,
+                        66.573419
+                  ]
+            },
+            {
+                  "name": "Mount Odin",
+                  "text": "Der Mount Odin ist der höchste Gipfel der Baffin-Insel, gelegen im Mount-Thor-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -65.426512,
+                        66.546959
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thor Peak",
+                  "text": "A Thor Peak a Mount Thor masszívum része a Baffin-szigeten, híres függőleges zuhanásáról.",
+                  "category": "natural",
+                  "coords": [
+                        -65.32031,
+                        66.53803
+                  ]
+            },
+            {
+                  "name": "Breidablik Peak",
+                  "text": "A Breidablik Peak egy hegycsúcs a Mount Thor területén, a Baffin-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -65.241981,
+                        66.573419
+                  ]
+            },
+            {
+                  "name": "Mount Odin",
+                  "text": "A Mount Odin a Baffin-sziget legmagasabb csúcsa, a Mount Thor területén található.",
+                  "category": "natural",
+                  "coords": [
+                        -65.426512,
+                        66.546959
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thor Peak",
+                  "text": "Thor Peak face parte din masivul Mount Thor din Insula Baffin, cunoscut pentru căderea sa verticală.",
+                  "category": "natural",
+                  "coords": [
+                        -65.32031,
+                        66.53803
+                  ]
+            },
+            {
+                  "name": "Breidablik Peak",
+                  "text": "Breidablik Peak este un vârf montan în zona Mount Thor din Insula Baffin.",
+                  "category": "natural",
+                  "coords": [
+                        -65.241981,
+                        66.573419
+                  ]
+            },
+            {
+                  "name": "Mount Odin",
+                  "text": "Mount Odin este cel mai înalt vârf al Insulei Baffin, situat în zona Mount Thor.",
+                  "category": "natural",
+                  "coords": [
+                        -65.426512,
+                        66.546959
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Thor Peak",
+                  "text": "Thor Peak is part of the Mount Thor massif on Baffin Island, known for its sheer vertical drop.",
+                  "category": "natural",
+                  "coords": [
+                        -65.32031,
+                        66.53803
+                  ]
+            },
+            {
+                  "name": "Breidablik Peak",
+                  "text": "Breidablik Peak is a mountain peak in the Mount Thor area of Baffin Island.",
+                  "category": "natural",
+                  "coords": [
+                        -65.241981,
+                        66.573419
+                  ]
+            },
+            {
+                  "name": "Mount Odin",
+                  "text": "Mount Odin is the highest peak on Baffin Island, located in the Mount Thor area.",
+                  "category": "natural",
+                  "coords": [
+                        -65.426512,
+                        66.546959
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-NU",
     coords: [-65.3, 66.5],
@@ -394,7 +2293,520 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-rundle-relief-v2",
+    id: "mount-rundle-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Middle Sister",
+                  "text": "Ein Aussichtspunkt auf dem Middle Sister-Gipfel im Mount Rundle-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.340094,
+                        51.022928
+                  ]
+            },
+            {
+                  "name": "Three Sisters Pass",
+                  "text": "Ein Aussichtspunkt am Three Sisters Pass im Mount Rundle-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.364628,
+                        51.02229
+                  ]
+            },
+            {
+                  "name": "Grassi Knob",
+                  "text": "Ein Aussichtspunkt auf dem Grassi Knob im Mount Rundle-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.360111,
+                        51.048667
+                  ]
+            },
+            {
+                  "name": "Little Grassi Knob Viewpoint",
+                  "text": "Ein kleiner Aussichtspunkt am Little Grassi Knob im Mount Rundle-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -115.361333,
+                        51.05375
+                  ]
+            },
+            {
+                  "name": "Grotto Mountain",
+                  "text": "Grotto Mountain ist ein Gipfel in den kanadischen Rocky Mountains nahe Canmore, benannt nach seinen Höhlen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.267565,
+                        51.087915
+                  ]
+            },
+            {
+                  "name": "Mount Lady Macdonald",
+                  "text": "Mount Lady Macdonald ist ein Gipfel im Bow Valley nahe Canmore, benannt nach der Frau des ersten kanadischen Premierministers.",
+                  "category": "natural",
+                  "coords": [
+                        -115.317117,
+                        51.122167
+                  ]
+            },
+            {
+                  "name": "Rundle Forebay",
+                  "text": "Rundle Forebay ist ein Aussichtspunkt nahe Canmore mit Blick auf das Vorbecken und den Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.383158,
+                        51.087438
+                  ]
+            },
+            {
+                  "name": "Mount Charles Stewart",
+                  "text": "Mount Charles Stewart ist ein Gipfel in den kanadischen Rocky Mountains nahe Canmore, benannt nach einem ehemaligen Premierminister von Alberta.",
+                  "category": "natural",
+                  "coords": [
+                        -115.332778,
+                        51.155852
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Mountain",
+                  "text": "Princess Margaret Mountain ist ein Gipfel in den kanadischen Rocky Mountains nahe Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.368118,
+                        51.159897
+                  ]
+            },
+            {
+                  "name": "Mount Rundle",
+                  "text": "Mount Rundle ist ein markanter Gipfel im Bow Valley mit Blick über Banff und Canmore, bekannt für seine charakteristische Form.",
+                  "category": "natural",
+                  "coords": [
+                        -115.469193,
+                        51.124575
+                  ]
+            },
+            {
+                  "name": "Mine Meadow",
+                  "text": "Mine Meadow ist ein Aussichtspunkt im Gebiet von Canmore mit Blick auf alte Minen und Wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.410194,
+                        51.106703
+                  ]
+            },
+            {
+                  "name": "Mount Lawrence Grassi",
+                  "text": "Mount Lawrence Grassi ist ein Gipfel nahe Canmore, benannt nach einem italienisch-kanadischen Bergsteiger und Bergmann.",
+                  "category": "natural",
+                  "coords": [
+                        -115.390921,
+                        51.053803
+                  ]
+            },
+            {
+                  "name": "Canmore Nordic Centre Provincial Park",
+                  "text": "Der Canmore Nordic Centre Provincial Park ist ein Weltklasse-Zentrum für Skilanglauf und Mountainbiking, das bei den Olympischen Winterspielen 1988 genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -115.393397,
+                        51.097298
+                  ]
+            },
+            {
+                  "name": "Wildlife Corridor",
+                  "text": "Der Wildlife Corridor ist ein geschützter Korridor für die Tierwanderung im Bow Valley nahe Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.336372,
+                        51.108077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Middle Sister",
+                  "text": "Egy kilátóhely a Middle Sister csúcson a Mount Rundle területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.340094,
+                        51.022928
+                  ]
+            },
+            {
+                  "name": "Three Sisters Pass",
+                  "text": "Egy kilátóhely a Three Sisters-hágónál a Mount Rundle területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.364628,
+                        51.02229
+                  ]
+            },
+            {
+                  "name": "Grassi Knob",
+                  "text": "Egy kilátóhely a Grassi Knob-on a Mount Rundle területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.360111,
+                        51.048667
+                  ]
+            },
+            {
+                  "name": "Little Grassi Knob Viewpoint",
+                  "text": "Egy kis kilátóhely a Little Grassi Knob-nál a Mount Rundle területen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.361333,
+                        51.05375
+                  ]
+            },
+            {
+                  "name": "Grotto Mountain",
+                  "text": "A Grotto Mountain egy csúcs a kanadai Sziklás-hegységben, Canmore közelében, barlangjairól nevezték el.",
+                  "category": "natural",
+                  "coords": [
+                        -115.267565,
+                        51.087915
+                  ]
+            },
+            {
+                  "name": "Mount Lady Macdonald",
+                  "text": "A Mount Lady Macdonald egy csúcs a Bow Valley-ben, Canmore közelében, Kanada első miniszterelnökének feleségéről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.317117,
+                        51.122167
+                  ]
+            },
+            {
+                  "name": "Rundle Forebay",
+                  "text": "A Rundle Forebay egy kilátóhely Canmore közelében, ahonnan a előtározóra és a Mount Rundle-re nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -115.383158,
+                        51.087438
+                  ]
+            },
+            {
+                  "name": "Mount Charles Stewart",
+                  "text": "A Mount Charles Stewart egy csúcs a kanadai Sziklás-hegységben, Canmore közelében, Alberta egykori miniszterelnökéről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.332778,
+                        51.155852
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Mountain",
+                  "text": "A Princess Margaret Mountain egy csúcs a kanadai Sziklás-hegységben, Canmore közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.368118,
+                        51.159897
+                  ]
+            },
+            {
+                  "name": "Mount Rundle",
+                  "text": "A Mount Rundle egy jellegzetes csúcs a Bow Valley-ben, amely Banff és Canmore fölé magasodik, és formájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -115.469193,
+                        51.124575
+                  ]
+            },
+            {
+                  "name": "Mine Meadow",
+                  "text": "A Mine Meadow egy kilátóhely Canmore térségében, ahonnan régi bányákra és rétekre nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -115.410194,
+                        51.106703
+                  ]
+            },
+            {
+                  "name": "Mount Lawrence Grassi",
+                  "text": "A Mount Lawrence Grassi egy csúcs Canmore közelében, egy olasz-kanadai hegymászóról és bányászról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.390921,
+                        51.053803
+                  ]
+            },
+            {
+                  "name": "Canmore Nordic Centre Provincial Park",
+                  "text": "A Canmore Nordic Centre Provincial Park egy világszínvonalú sífutó- és hegyikerékpár-központ, amelyet az 1988-as téli olimpián használtak.",
+                  "category": "natural",
+                  "coords": [
+                        -115.393397,
+                        51.097298
+                  ]
+            },
+            {
+                  "name": "Wildlife Corridor",
+                  "text": "A Wildlife Corridor egy védett folyosó a vadállomány mozgásához a Bow Valley-ben, Canmore közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -115.336372,
+                        51.108077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Middle Sister",
+                  "text": "Un punct de belvedere pe vârful Middle Sister în zona Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.340094,
+                        51.022928
+                  ]
+            },
+            {
+                  "name": "Three Sisters Pass",
+                  "text": "Un punct de belvedere la Three Sisters Pass în zona Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.364628,
+                        51.02229
+                  ]
+            },
+            {
+                  "name": "Grassi Knob",
+                  "text": "Un punct de belvedere pe Grassi Knob în zona Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.360111,
+                        51.048667
+                  ]
+            },
+            {
+                  "name": "Little Grassi Knob Viewpoint",
+                  "text": "Un punct de belvedere mic la Little Grassi Knob în zona Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.361333,
+                        51.05375
+                  ]
+            },
+            {
+                  "name": "Grotto Mountain",
+                  "text": "Grotto Mountain este un vârf în Munții Stâncoși canadieni, lângă Canmore, numit după peșterile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -115.267565,
+                        51.087915
+                  ]
+            },
+            {
+                  "name": "Mount Lady Macdonald",
+                  "text": "Mount Lady Macdonald este un vârf în Bow Valley, lângă Canmore, numit după soția primului prim-ministru al Canadei.",
+                  "category": "natural",
+                  "coords": [
+                        -115.317117,
+                        51.122167
+                  ]
+            },
+            {
+                  "name": "Rundle Forebay",
+                  "text": "Rundle Forebay este un punct de belvedere lângă Canmore, cu vedere la lacul de acumulare și la Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.383158,
+                        51.087438
+                  ]
+            },
+            {
+                  "name": "Mount Charles Stewart",
+                  "text": "Mount Charles Stewart este un vârf în Munții Stâncoși canadieni, lângă Canmore, numit după un fost premier al Albertei.",
+                  "category": "natural",
+                  "coords": [
+                        -115.332778,
+                        51.155852
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Mountain",
+                  "text": "Princess Margaret Mountain este un vârf în Munții Stâncoși canadieni, lângă Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.368118,
+                        51.159897
+                  ]
+            },
+            {
+                  "name": "Mount Rundle",
+                  "text": "Mount Rundle este un vârf proeminent în Bow Valley, cu vedere spre Banff și Canmore, cunoscut pentru forma sa distinctivă.",
+                  "category": "natural",
+                  "coords": [
+                        -115.469193,
+                        51.124575
+                  ]
+            },
+            {
+                  "name": "Mine Meadow",
+                  "text": "Mine Meadow este un punct de belvedere în zona Canmore, cu vedere la foste mine și pajiști.",
+                  "category": "natural",
+                  "coords": [
+                        -115.410194,
+                        51.106703
+                  ]
+            },
+            {
+                  "name": "Mount Lawrence Grassi",
+                  "text": "Mount Lawrence Grassi este un vârf lângă Canmore, numit după un alpinist și miner italo-canadian.",
+                  "category": "natural",
+                  "coords": [
+                        -115.390921,
+                        51.053803
+                  ]
+            },
+            {
+                  "name": "Canmore Nordic Centre Provincial Park",
+                  "text": "Canmore Nordic Centre Provincial Park este un centru de clasă mondială pentru schi fond și mountain bike, folosit la Jocurile Olimpice de iarnă din 1988.",
+                  "category": "natural",
+                  "coords": [
+                        -115.393397,
+                        51.097298
+                  ]
+            },
+            {
+                  "name": "Wildlife Corridor",
+                  "text": "Wildlife Corridor este un coridor protejat pentru deplasarea faunei sălbatice în Bow Valley, lângă Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.336372,
+                        51.108077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Middle Sister",
+                  "text": "A viewpoint on Middle Sister peak in the Mount Rundle area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.340094,
+                        51.022928
+                  ]
+            },
+            {
+                  "name": "Three Sisters Pass",
+                  "text": "A viewpoint at Three Sisters Pass in the Mount Rundle area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.364628,
+                        51.02229
+                  ]
+            },
+            {
+                  "name": "Grassi Knob",
+                  "text": "A viewpoint on Grassi Knob in the Mount Rundle area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.360111,
+                        51.048667
+                  ]
+            },
+            {
+                  "name": "Little Grassi Knob Viewpoint",
+                  "text": "A small viewpoint at Little Grassi Knob in the Mount Rundle area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.361333,
+                        51.05375
+                  ]
+            },
+            {
+                  "name": "Grotto Mountain",
+                  "text": "Grotto Mountain is a peak in the Canadian Rockies near Canmore, named for its caves.",
+                  "category": "natural",
+                  "coords": [
+                        -115.267565,
+                        51.087915
+                  ]
+            },
+            {
+                  "name": "Mount Lady Macdonald",
+                  "text": "Mount Lady Macdonald is a peak in the Bow Valley near Canmore, named after the wife of Canada's first prime minister.",
+                  "category": "natural",
+                  "coords": [
+                        -115.317117,
+                        51.122167
+                  ]
+            },
+            {
+                  "name": "Rundle Forebay",
+                  "text": "Rundle Forebay is a viewpoint near Canmore overlooking the forebay and Mount Rundle.",
+                  "category": "natural",
+                  "coords": [
+                        -115.383158,
+                        51.087438
+                  ]
+            },
+            {
+                  "name": "Mount Charles Stewart",
+                  "text": "Mount Charles Stewart is a peak in the Canadian Rockies near Canmore, named after a former Alberta premier.",
+                  "category": "natural",
+                  "coords": [
+                        -115.332778,
+                        51.155852
+                  ]
+            },
+            {
+                  "name": "Princess Margaret Mountain",
+                  "text": "Princess Margaret Mountain is a peak in the Canadian Rockies near Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.368118,
+                        51.159897
+                  ]
+            },
+            {
+                  "name": "Mount Rundle",
+                  "text": "Mount Rundle is a prominent peak in the Bow Valley overlooking Banff and Canmore, known for its distinctive shape.",
+                  "category": "natural",
+                  "coords": [
+                        -115.469193,
+                        51.124575
+                  ]
+            },
+            {
+                  "name": "Mine Meadow",
+                  "text": "Mine Meadow is a viewpoint in the Canmore area offering views of old mining sites and meadows.",
+                  "category": "natural",
+                  "coords": [
+                        -115.410194,
+                        51.106703
+                  ]
+            },
+            {
+                  "name": "Mount Lawrence Grassi",
+                  "text": "Mount Lawrence Grassi is a peak near Canmore, named after an Italian-Canadian climber and miner.",
+                  "category": "natural",
+                  "coords": [
+                        -115.390921,
+                        51.053803
+                  ]
+            },
+            {
+                  "name": "Canmore Nordic Centre Provincial Park",
+                  "text": "Canmore Nordic Centre Provincial Park is a world-class cross-country skiing and mountain biking venue, used during the 1988 Winter Olympics.",
+                  "category": "natural",
+                  "coords": [
+                        -115.393397,
+                        51.097298
+                  ]
+            },
+            {
+                  "name": "Wildlife Corridor",
+                  "text": "Wildlife Corridor is a protected corridor for wildlife movement in the Bow Valley near Canmore.",
+                  "category": "natural",
+                  "coords": [
+                        -115.336372,
+                        51.108077
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-AB",
     coords: [-115.4, 51.1],
@@ -438,7 +2850,196 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "cascade-range-relief-v2",
+    id: "cascade-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jim Kelly Peak",
+                  "text": "Der Jim Kelly Peak ist ein prominenter Gipfel in der Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -121.040895,
+                        49.52772
+                  ]
+            },
+            {
+                  "name": "Coquihalla Mountain",
+                  "text": "Der Coquihalla Mountain ist ein prominenter Gipfel in der Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -121.060592,
+                        49.525345
+                  ]
+            },
+            {
+                  "name": "Tulameen Falls Recreation Site",
+                  "text": "Der Tulameen Falls Recreation Site ist ein Naturschutzgebiet in der Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -120.985852,
+                        49.457156
+                  ]
+            },
+            {
+                  "name": "Sutter Creek Recreation Site",
+                  "text": "Der Sutter Creek Recreation Site ist ein Campingplatz in der Cascade Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.012869,
+                        49.435028
+                  ]
+            },
+            {
+                  "name": "Vuich Falls Recreation Site",
+                  "text": "Der Vuich Falls Recreation Site ist ein Campingplatz in der Cascade Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.004783,
+                        49.4362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jim Kelly Peak",
+                  "text": "A Jim Kelly Peak egy kiemelkedő csúcs a Cascade hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -121.040895,
+                        49.52772
+                  ]
+            },
+            {
+                  "name": "Coquihalla Mountain",
+                  "text": "A Coquihalla Mountain egy kiemelkedő csúcs a Cascade hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -121.060592,
+                        49.525345
+                  ]
+            },
+            {
+                  "name": "Tulameen Falls Recreation Site",
+                  "text": "A Tulameen Falls Recreation Site egy természetvédelmi terület a Cascade hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.985852,
+                        49.457156
+                  ]
+            },
+            {
+                  "name": "Sutter Creek Recreation Site",
+                  "text": "A Sutter Creek Recreation Site egy kemping a Cascade hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.012869,
+                        49.435028
+                  ]
+            },
+            {
+                  "name": "Vuich Falls Recreation Site",
+                  "text": "A Vuich Falls Recreation Site egy kemping a Cascade hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.004783,
+                        49.4362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jim Kelly Peak",
+                  "text": "Jim Kelly Peak este un vârf proeminent în lanțul Cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -121.040895,
+                        49.52772
+                  ]
+            },
+            {
+                  "name": "Coquihalla Mountain",
+                  "text": "Coquihalla Mountain este un vârf proeminent în lanțul Cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -121.060592,
+                        49.525345
+                  ]
+            },
+            {
+                  "name": "Tulameen Falls Recreation Site",
+                  "text": "Tulameen Falls Recreation Site este o rezervație naturală în lanțul Cascade.",
+                  "category": "natural",
+                  "coords": [
+                        -120.985852,
+                        49.457156
+                  ]
+            },
+            {
+                  "name": "Sutter Creek Recreation Site",
+                  "text": "Sutter Creek Recreation Site este un loc de campare în lanțul Cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.012869,
+                        49.435028
+                  ]
+            },
+            {
+                  "name": "Vuich Falls Recreation Site",
+                  "text": "Vuich Falls Recreation Site este un loc de campare în lanțul Cascade.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.004783,
+                        49.4362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jim Kelly Peak",
+                  "text": "Jim Kelly Peak is a prominent peak in the Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -121.040895,
+                        49.52772
+                  ]
+            },
+            {
+                  "name": "Coquihalla Mountain",
+                  "text": "Coquihalla Mountain is a prominent peak in the Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -121.060592,
+                        49.525345
+                  ]
+            },
+            {
+                  "name": "Tulameen Falls Recreation Site",
+                  "text": "Tulameen Falls Recreation Site is a nature reserve in the Cascade Range.",
+                  "category": "natural",
+                  "coords": [
+                        -120.985852,
+                        49.457156
+                  ]
+            },
+            {
+                  "name": "Sutter Creek Recreation Site",
+                  "text": "Sutter Creek Recreation Site is a camp site in the Cascade Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.012869,
+                        49.435028
+                  ]
+            },
+            {
+                  "name": "Vuich Falls Recreation Site",
+                  "text": "Vuich Falls Recreation Site is a camp site in the Cascade Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.004783,
+                        49.4362
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-BC",
     coords: [-121.0, 49.5],
@@ -482,7 +3083,52 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "selkirk-mountains-relief-v2",
+    id: "selkirk-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lew Creek Ecological Reserve",
+                  "text": "Lew Creek Ecological Reserve ist ein ökologisches Reservat in den Selkirk Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442768,
+                        50.534487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lew Creek Ecological Reserve",
+                  "text": "Lew Creek Ecological Reserve egy ökológiai rezervátum a Selkirk Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442768,
+                        50.534487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lew Creek Ecological Reserve",
+                  "text": "Lew Creek Ecological Reserve este o rezervație ecologică în Munții Selkirk.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442768,
+                        50.534487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lew Creek Ecological Reserve",
+                  "text": "Lew Creek Ecological Reserve is an ecological reserve in the Selkirk Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442768,
+                        50.534487
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-BC",
     coords: [-117.5, 50.5],
@@ -570,7 +3216,52 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "alberta-badlands-relief-v2",
+    id: "alberta-badlands-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Michichi Dam Recreation Area",
+                  "text": "Ein Erholungsgebiet am Michichi-Damm in den Alberta Badlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.533963,
+                        51.582771
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Michichi Dam Recreation Area",
+                  "text": "Egy rekreációs terület a Michichi-gátnál az Alberta Badlandsben.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.533963,
+                        51.582771
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Michichi Dam Recreation Area",
+                  "text": "O zonă de agrement lângă barajul Michichi în Badlands-ul din Alberta.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.533963,
+                        51.582771
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Michichi Dam Recreation Area",
+                  "text": "A recreation area near Michichi Dam in the Alberta Badlands.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.533963,
+                        51.582771
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-AB",
     coords: [-112.5, 51.5],
@@ -658,7 +3349,160 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "monashee-mountains-relief-v2",
+    id: "monashee-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eagle Pass Mountain",
+                  "text": "Der Eagle Pass Mountain ist ein Gipfel in den Monashee Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -118.542472,
+                        51.065568
+                  ]
+            },
+            {
+                  "name": "The Enchanted Forest",
+                  "text": "Der Enchanted Forest ist eine Attraktion in den Monashee Mountains mit einem verwunschenen Wald.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.565541,
+                        50.972155
+                  ]
+            },
+            {
+                  "name": "SkyTrek Adventure Park",
+                  "text": "Der SkyTrek Adventure Park ist ein Abenteuerpark in den Monashee Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.566611,
+                        50.971234
+                  ]
+            },
+            {
+                  "name": "Victor Lake Provincial Park",
+                  "text": "Der Victor Lake Provincial Park ist ein Naturschutzgebiet in den Monashee Mountains und umgibt den Victor Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -118.402439,
+                        50.955899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eagle Pass Mountain",
+                  "text": "Az Eagle Pass Mountain egy csúcs a Monashee-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -118.542472,
+                        51.065568
+                  ]
+            },
+            {
+                  "name": "The Enchanted Forest",
+                  "text": "Az Enchanted Forest egy látványosság a Monashee-hegységben, egy varázslatos erdő.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.565541,
+                        50.972155
+                  ]
+            },
+            {
+                  "name": "SkyTrek Adventure Park",
+                  "text": "A SkyTrek Adventure Park egy kalandpark a Monashee-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.566611,
+                        50.971234
+                  ]
+            },
+            {
+                  "name": "Victor Lake Provincial Park",
+                  "text": "A Victor Lake Provincial Park természetvédelmi terület a Monashee-hegységben, a Victor Lake körül.",
+                  "category": "natural",
+                  "coords": [
+                        -118.402439,
+                        50.955899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eagle Pass Mountain",
+                  "text": "Eagle Pass Mountain este un vârf în Munții Monashee.",
+                  "category": "natural",
+                  "coords": [
+                        -118.542472,
+                        51.065568
+                  ]
+            },
+            {
+                  "name": "The Enchanted Forest",
+                  "text": "Pădurea Fermecată este o atracție în Munții Monashee cu o pădure fermecată.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.565541,
+                        50.972155
+                  ]
+            },
+            {
+                  "name": "SkyTrek Adventure Park",
+                  "text": "SkyTrek Adventure Park este un parc de aventură în Munții Monashee.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.566611,
+                        50.971234
+                  ]
+            },
+            {
+                  "name": "Victor Lake Provincial Park",
+                  "text": "Parcul Provincial Victor Lake este o rezervație naturală în Munții Monashee, în jurul Lacului Victor.",
+                  "category": "natural",
+                  "coords": [
+                        -118.402439,
+                        50.955899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eagle Pass Mountain",
+                  "text": "Eagle Pass Mountain is a peak in the Monashee Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -118.542472,
+                        51.065568
+                  ]
+            },
+            {
+                  "name": "The Enchanted Forest",
+                  "text": "The Enchanted Forest is an attraction in the Monashee Mountains featuring a magical forest.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.565541,
+                        50.972155
+                  ]
+            },
+            {
+                  "name": "SkyTrek Adventure Park",
+                  "text": "SkyTrek Adventure Park is an adventure park in the Monashee Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.566611,
+                        50.971234
+                  ]
+            },
+            {
+                  "name": "Victor Lake Provincial Park",
+                  "text": "Victor Lake Provincial Park is a nature reserve in the Monashee Mountains, surrounding Victor Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -118.402439,
+                        50.955899
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-BC",
     coords: [-118.5, 51.0],
@@ -702,7 +3546,304 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "cypress-hills-relief-v2",
+    id: "cypress-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hidden Conglomerate Cliffs",
+                  "text": "Die Hidden Conglomerate Cliffs sind ein Aussichtspunkt in den Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.96626,
+                        49.640341
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Provincial Park",
+                  "text": "Der Cypress Hills Provincial Park ist ein Naturschutzgebiet in den Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.911915,
+                        49.621543
+                  ]
+            },
+            {
+                  "name": "Conglomerate Cliffs",
+                  "text": "Die Conglomerate Cliffs sind ein Aussichtspunkt in den Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.846929,
+                        49.645868
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Massacre National Site",
+                  "text": "Die Cypress Hills Massacre National Site ist ein Denkmal in den Cypress Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -109.868916,
+                        49.550992
+                  ]
+            },
+            {
+                  "name": "Simons/Noble Cabin",
+                  "text": "Die Simons/Noble Cabin sind die Ruinen einer alten Hütte im Cypress Hills Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -109.995142,
+                        49.638378
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Interprovincial Park (West Block)",
+                  "text": "Der Cypress Hills Interprovincial Park (West Block) ist ein Naturschutzgebiet, das sich über die Grenze zwischen Alberta und Saskatchewan erstreckt.",
+                  "category": "natural",
+                  "coords": [
+                        -109.905414,
+                        49.62268
+                  ]
+            },
+            {
+                  "name": "Fort Walsh National Historic Site",
+                  "text": "Die Fort Walsh National Historic Site ist ein Fort in Cypress Hills, das ein wichtiger Außenposten der North-West Mounted Police war.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.875536,
+                        49.574183
+                  ]
+            },
+            {
+                  "name": "Fort Walsh",
+                  "text": "Fort Walsh ist ein Fort in Cypress Hills, das ein wichtiger Außenposten der North-West Mounted Police war.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.88138,
+                        49.572811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hidden Conglomerate Cliffs",
+                  "text": "A Hidden Conglomerate Cliffs egy kilátó a Cypress Hillsben.",
+                  "category": "natural",
+                  "coords": [
+                        -109.96626,
+                        49.640341
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Provincial Park",
+                  "text": "A Cypress Hills Provincial Park egy természetvédelmi terület a Cypress Hillsben.",
+                  "category": "natural",
+                  "coords": [
+                        -109.911915,
+                        49.621543
+                  ]
+            },
+            {
+                  "name": "Conglomerate Cliffs",
+                  "text": "A Conglomerate Cliffs egy kilátó a Cypress Hillsben.",
+                  "category": "natural",
+                  "coords": [
+                        -109.846929,
+                        49.645868
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Massacre National Site",
+                  "text": "A Cypress Hills Massacre National Site egy emlékmű a Cypress Hillsben.",
+                  "category": "historical",
+                  "coords": [
+                        -109.868916,
+                        49.550992
+                  ]
+            },
+            {
+                  "name": "Simons/Noble Cabin",
+                  "text": "A Simons/Noble Cabin egy régi kunyhó romjai a Cypress Hills területén.",
+                  "category": "historical",
+                  "coords": [
+                        -109.995142,
+                        49.638378
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Interprovincial Park (West Block)",
+                  "text": "A Cypress Hills Interprovincial Park (West Block) egy természetvédelmi terület, amely Alberta és Saskatchewan határán átnyúlik.",
+                  "category": "natural",
+                  "coords": [
+                        -109.905414,
+                        49.62268
+                  ]
+            },
+            {
+                  "name": "Fort Walsh National Historic Site",
+                  "text": "A Fort Walsh National Historic Site egy erőd Cypress Hills-ben, amely a North-West Mounted Police fontos állomása volt.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.875536,
+                        49.574183
+                  ]
+            },
+            {
+                  "name": "Fort Walsh",
+                  "text": "A Fort Walsh egy erőd Cypress Hills-ben, amely a North-West Mounted Police fontos állomása volt.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.88138,
+                        49.572811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hidden Conglomerate Cliffs",
+                  "text": "Hidden Conglomerate Cliffs este un punct de belvedere în Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.96626,
+                        49.640341
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Provincial Park",
+                  "text": "Cypress Hills Provincial Park este o rezervație naturală în Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.911915,
+                        49.621543
+                  ]
+            },
+            {
+                  "name": "Conglomerate Cliffs",
+                  "text": "Conglomerate Cliffs este un punct de belvedere în Cypress Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -109.846929,
+                        49.645868
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Massacre National Site",
+                  "text": "Cypress Hills Massacre National Site este un monument în Cypress Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -109.868916,
+                        49.550992
+                  ]
+            },
+            {
+                  "name": "Simons/Noble Cabin",
+                  "text": "Simons/Noble Cabin sunt ruinele unei vechi cabane în zona Cypress Hills.",
+                  "category": "historical",
+                  "coords": [
+                        -109.995142,
+                        49.638378
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Interprovincial Park (West Block)",
+                  "text": "Parcul Interprovincial Cypress Hills (West Block) este o rezervație naturală care se întinde peste granița dintre Alberta și Saskatchewan.",
+                  "category": "natural",
+                  "coords": [
+                        -109.905414,
+                        49.62268
+                  ]
+            },
+            {
+                  "name": "Fort Walsh National Historic Site",
+                  "text": "Fort Walsh National Historic Site este un fort în Cypress Hills, care a fost un post cheie al Poliției Montate din Nord-Vest.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.875536,
+                        49.574183
+                  ]
+            },
+            {
+                  "name": "Fort Walsh",
+                  "text": "Fort Walsh este un fort în Cypress Hills, care a fost un post cheie al Poliției Montate din Nord-Vest.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.88138,
+                        49.572811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hidden Conglomerate Cliffs",
+                  "text": "The Hidden Conglomerate Cliffs are a viewpoint in the Cypress Hills area.",
+                  "category": "natural",
+                  "coords": [
+                        -109.96626,
+                        49.640341
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Provincial Park",
+                  "text": "Cypress Hills Provincial Park is a nature reserve in the Cypress Hills area.",
+                  "category": "natural",
+                  "coords": [
+                        -109.911915,
+                        49.621543
+                  ]
+            },
+            {
+                  "name": "Conglomerate Cliffs",
+                  "text": "The Conglomerate Cliffs are a viewpoint in the Cypress Hills area.",
+                  "category": "natural",
+                  "coords": [
+                        -109.846929,
+                        49.645868
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Massacre National Site",
+                  "text": "The Cypress Hills Massacre National Site is a monument in the Cypress Hills area.",
+                  "category": "historical",
+                  "coords": [
+                        -109.868916,
+                        49.550992
+                  ]
+            },
+            {
+                  "name": "Simons/Noble Cabin",
+                  "text": "Simons/Noble Cabin is the ruins of an old cabin in the Cypress Hills area.",
+                  "category": "historical",
+                  "coords": [
+                        -109.995142,
+                        49.638378
+                  ]
+            },
+            {
+                  "name": "Cypress Hills Interprovincial Park (West Block)",
+                  "text": "Cypress Hills Interprovincial Park (West Block) is a nature reserve that straddles the Alberta-Saskatchewan border.",
+                  "category": "natural",
+                  "coords": [
+                        -109.905414,
+                        49.62268
+                  ]
+            },
+            {
+                  "name": "Fort Walsh National Historic Site",
+                  "text": "Fort Walsh National Historic Site is a fort in Cypress Hills that was a key post of the North-West Mounted Police.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.875536,
+                        49.574183
+                  ]
+            },
+            {
+                  "name": "Fort Walsh",
+                  "text": "Fort Walsh is a fort in Cypress Hills that was a key post of the North-West Mounted Police.",
+                  "category": "fortress",
+                  "coords": [
+                        -109.88138,
+                        49.572811
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-SK",
     coords: [-109.9, 49.6],
@@ -746,7 +3887,52 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "cariboo-mountains-relief-v2",
+    id: "cariboo-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Upper Raush Protected Area",
+                  "text": "Upper Raush Protected Area ist ein Schutzgebiet in den Cariboo Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -119.987043,
+                        52.958471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Upper Raush Protected Area",
+                  "text": "Upper Raush Protected Area egy védett terület a Cariboo Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.987043,
+                        52.958471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Upper Raush Protected Area",
+                  "text": "Upper Raush Protected Area este o arie protejată în Munții Cariboo.",
+                  "category": "natural",
+                  "coords": [
+                        -119.987043,
+                        52.958471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Upper Raush Protected Area",
+                  "text": "Upper Raush Protected Area is a protected area in the Cariboo Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -119.987043,
+                        52.958471
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-BC",
     coords: [-120.0, 53.0],
@@ -878,7 +4064,268 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "chic-choc-mountains-relief-v2",
+    id: "chic-choc-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mont Olivine",
+                  "text": "Ein Gipfel in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.114143,
+                        48.911892
+                  ]
+            },
+            {
+                  "name": "Chute du Diable",
+                  "text": "Ein Aussichtspunkt auf einen Wasserfall in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.115395,
+                        48.922645
+                  ]
+            },
+            {
+                  "name": "Mont Xalibu",
+                  "text": "Ein Berg in der Chic-Choc-Kette.",
+                  "category": "natural",
+                  "coords": [
+                        -66.01168,
+                        48.964121
+                  ]
+            },
+            {
+                  "name": "lac aux Américains",
+                  "text": "Ein See-Aussichtspunkt in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.026329,
+                        48.957189
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Ein Aussichtspunkt in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.018981,
+                        48.93917
+                  ]
+            },
+            {
+                  "name": "Mont Ernest-Laforce",
+                  "text": "Ein Berg-Aussichtspunkt in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.081419,
+                        48.918931
+                  ]
+            },
+            {
+                  "name": "Le Brulé",
+                  "text": "Ein Aussichtspunkt in den Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.050143,
+                        48.902154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mont Olivine",
+                  "text": "Egy csúcs a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.114143,
+                        48.911892
+                  ]
+            },
+            {
+                  "name": "Chute du Diable",
+                  "text": "Egy kilátópont egy vízesésre a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.115395,
+                        48.922645
+                  ]
+            },
+            {
+                  "name": "Mont Xalibu",
+                  "text": "Egy hegy a Chic-Choc láncban.",
+                  "category": "natural",
+                  "coords": [
+                        -66.01168,
+                        48.964121
+                  ]
+            },
+            {
+                  "name": "lac aux Américains",
+                  "text": "Egy tó-kilátópont a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.026329,
+                        48.957189
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Egy kilátópont a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.018981,
+                        48.93917
+                  ]
+            },
+            {
+                  "name": "Mont Ernest-Laforce",
+                  "text": "Egy hegyi kilátópont a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.081419,
+                        48.918931
+                  ]
+            },
+            {
+                  "name": "Le Brulé",
+                  "text": "Egy kilátópont a Chic-Choc-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -66.050143,
+                        48.902154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mont Olivine",
+                  "text": "Un vârf în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.114143,
+                        48.911892
+                  ]
+            },
+            {
+                  "name": "Chute du Diable",
+                  "text": "Un punct de vedere al unei cascade în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.115395,
+                        48.922645
+                  ]
+            },
+            {
+                  "name": "Mont Xalibu",
+                  "text": "Un munte în lanțul Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.01168,
+                        48.964121
+                  ]
+            },
+            {
+                  "name": "lac aux Américains",
+                  "text": "Un punct de vedere la un lac în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.026329,
+                        48.957189
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "Un punct de vedere în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.018981,
+                        48.93917
+                  ]
+            },
+            {
+                  "name": "Mont Ernest-Laforce",
+                  "text": "Un punct de vedere montan în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.081419,
+                        48.918931
+                  ]
+            },
+            {
+                  "name": "Le Brulé",
+                  "text": "Un punct de vedere în Munții Chic-Choc.",
+                  "category": "natural",
+                  "coords": [
+                        -66.050143,
+                        48.902154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mont Olivine",
+                  "text": "A peak in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.114143,
+                        48.911892
+                  ]
+            },
+            {
+                  "name": "Chute du Diable",
+                  "text": "A viewpoint of a waterfall in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.115395,
+                        48.922645
+                  ]
+            },
+            {
+                  "name": "Mont Xalibu",
+                  "text": "A mountain in the Chic-Choc range.",
+                  "category": "natural",
+                  "coords": [
+                        -66.01168,
+                        48.964121
+                  ]
+            },
+            {
+                  "name": "lac aux Américains",
+                  "text": "A lake viewpoint in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.026329,
+                        48.957189
+                  ]
+            },
+            {
+                  "name": "Point de vue",
+                  "text": "A viewpoint in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.018981,
+                        48.93917
+                  ]
+            },
+            {
+                  "name": "Mont Ernest-Laforce",
+                  "text": "A mountain viewpoint in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.081419,
+                        48.918931
+                  ]
+            },
+            {
+                  "name": "Le Brulé",
+                  "text": "A viewpoint in the Chic-Choc Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -66.050143,
+                        48.902154
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-QC",
     coords: [-66.0, 48.9],
@@ -922,7 +4369,520 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "mount-sir-donald-relief-v2",
+    id: "mount-sir-donald-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Perley Rock",
+                  "text": "Ein Gipfel im Mount-Sir-Donald-Gebiet mit malerischen Aussichten.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442071,
+                        51.248521
+                  ]
+            },
+            {
+                  "name": "Mount Sir Donald",
+                  "text": "Der Mount Sir Donald ist ein markanter Gipfel in den Selkirk Mountains von British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -117.431346,
+                        51.26325
+                  ]
+            },
+            {
+                  "name": "North Terminal Peak",
+                  "text": "Der North Terminal Peak ist ein Berg in den Selkirk Mountains nahe dem Rogers Pass.",
+                  "category": "natural",
+                  "coords": [
+                        -117.429135,
+                        51.257267
+                  ]
+            },
+            {
+                  "name": "Uto Peak",
+                  "text": "Der Uto Peak ist ein Berg in der Hermit Range der Selkirk Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -117.440633,
+                        51.272305
+                  ]
+            },
+            {
+                  "name": "The Hermit",
+                  "text": "Der Hermit ist ein Gipfel in der Hermit Range des Mount-Sir-Donald-Gebiets.",
+                  "category": "natural",
+                  "coords": [
+                        -117.508129,
+                        51.335913
+                  ]
+            },
+            {
+                  "name": "Mount Tupper",
+                  "text": "Der Mount Tupper ist ein Gipfel in den Selkirk Mountains, benannt nach Sir Charles Tupper.",
+                  "category": "natural",
+                  "coords": [
+                        -117.49855,
+                        51.335809
+                  ]
+            },
+            {
+                  "name": "Rogers Pass Artillery Monument",
+                  "text": "Ein Denkmal im Mount-Sir-Donald-Gebiet zur Erinnerung an die Rolle der Artillerie in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -117.515415,
+                        51.28989
+                  ]
+            },
+            {
+                  "name": "Mount Macdonald",
+                  "text": "Der Mount Macdonald ist der höchste Gipfel in den Selkirk Mountains von British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -117.471586,
+                        51.308351
+                  ]
+            },
+            {
+                  "name": "The Overlook",
+                  "text": "The Overlook ist ein Gipfel im Mount-Sir-Donald-Gebiet, der einen Panoramablick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -117.472331,
+                        51.267323
+                  ]
+            },
+            {
+                  "name": "Great Glacier House",
+                  "text": "Die Ruinen des Great Glacier House, eines historischen Gebäudes im Mount-Sir-Donald-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -117.493012,
+                        51.260906
+                  ]
+            },
+            {
+                  "name": "Red Chairs",
+                  "text": "Die Red Chairs sind eine beliebte Attraktion im Mount-Sir-Donald-Gebiet, bekannt für ihre malerische Lage.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.489855,
+                        51.25975
+                  ]
+            },
+            {
+                  "name": "Lookout Mountain",
+                  "text": "Der Lookout Mountain ist ein Gipfel im Mount-Sir-Donald-Gebiet mit Ausblicken auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -117.451538,
+                        51.232907
+                  ]
+            },
+            {
+                  "name": "Gletscher-Nationalpark",
+                  "text": "Der Glacier National Park ist ein Schutzgebiet in British Columbia, bekannt für seine Gletscher und alpinen Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -117.524453,
+                        51.268967
+                  ]
+            },
+            {
+                  "name": "Quartz Creek Snowmobile Area",
+                  "text": "Das Quartz Creek Snowmobile Area ist eine Schneemobilzone im Mount-Sir-Donald-Gebiet für Winterfreizeitaktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        -117.34281,
+                        51.375195
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Perley Rock",
+                  "text": "Egy csúcs a Mount Sir Donald környékén, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442071,
+                        51.248521
+                  ]
+            },
+            {
+                  "name": "Mount Sir Donald",
+                  "text": "A Mount Sir Donald egy kiemelkedő csúcs a Selkirk-hegységben Brit Kolumbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -117.431346,
+                        51.26325
+                  ]
+            },
+            {
+                  "name": "North Terminal Peak",
+                  "text": "A North Terminal Peak egy hegy a Selkirk-hegységben, a Rogers Pass közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -117.429135,
+                        51.257267
+                  ]
+            },
+            {
+                  "name": "Uto Peak",
+                  "text": "Az Uto Peak egy hegy a Hermit Range-ben, a Selkirk-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.440633,
+                        51.272305
+                  ]
+            },
+            {
+                  "name": "The Hermit",
+                  "text": "A Hermit egy csúcs a Hermit Range-ben, a Mount Sir Donald környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -117.508129,
+                        51.335913
+                  ]
+            },
+            {
+                  "name": "Mount Tupper",
+                  "text": "A Mount Tupper egy csúcs a Selkirk-hegységben, Sir Charles Tupperról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -117.49855,
+                        51.335809
+                  ]
+            },
+            {
+                  "name": "Rogers Pass Artillery Monument",
+                  "text": "Egy emlékmű a Mount Sir Donald környékén, amely a tüzérség szerepére emlékeztet a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        -117.515415,
+                        51.28989
+                  ]
+            },
+            {
+                  "name": "Mount Macdonald",
+                  "text": "A Mount Macdonald a legmagasabb csúcs a Selkirk-hegységben Brit Kolumbiában.",
+                  "category": "natural",
+                  "coords": [
+                        -117.471586,
+                        51.308351
+                  ]
+            },
+            {
+                  "name": "The Overlook",
+                  "text": "A The Overlook egy csúcs a Mount Sir Donald környékén, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -117.472331,
+                        51.267323
+                  ]
+            },
+            {
+                  "name": "Great Glacier House",
+                  "text": "A Great Glacier House romjai, egy történelmi épület a Mount Sir Donald környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -117.493012,
+                        51.260906
+                  ]
+            },
+            {
+                  "name": "Red Chairs",
+                  "text": "A Red Chairs népszerű látványosság a Mount Sir Donald környékén, festői elhelyezkedéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.489855,
+                        51.25975
+                  ]
+            },
+            {
+                  "name": "Lookout Mountain",
+                  "text": "A Lookout Mountain egy csúcs a Mount Sir Donald környékén, kilátással a környező területekre.",
+                  "category": "natural",
+                  "coords": [
+                        -117.451538,
+                        51.232907
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "A Glacier National Park egy védett terület Brit Kolumbiában, gleccsereiről és alpesi tájairól híres.",
+                  "category": "natural",
+                  "coords": [
+                        -117.524453,
+                        51.268967
+                  ]
+            },
+            {
+                  "name": "Quartz Creek Snowmobile Area",
+                  "text": "A Quartz Creek Snowmobile Area egy hómobil zóna a Mount Sir Donald régióban téli kikapcsolódáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        -117.34281,
+                        51.375195
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Perley Rock",
+                  "text": "Un vârf în zona Mount Sir Donald, oferind vederi pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442071,
+                        51.248521
+                  ]
+            },
+            {
+                  "name": "Mount Sir Donald",
+                  "text": "Mount Sir Donald este un vârf proeminent în Munții Selkirk din Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -117.431346,
+                        51.26325
+                  ]
+            },
+            {
+                  "name": "North Terminal Peak",
+                  "text": "North Terminal Peak este un munte în Munții Selkirk lângă Rogers Pass.",
+                  "category": "natural",
+                  "coords": [
+                        -117.429135,
+                        51.257267
+                  ]
+            },
+            {
+                  "name": "Uto Peak",
+                  "text": "Uto Peak este un munte în Hermit Range din Munții Selkirk.",
+                  "category": "natural",
+                  "coords": [
+                        -117.440633,
+                        51.272305
+                  ]
+            },
+            {
+                  "name": "The Hermit",
+                  "text": "The Hermit este un vârf în Hermit Range din zona Mount Sir Donald.",
+                  "category": "natural",
+                  "coords": [
+                        -117.508129,
+                        51.335913
+                  ]
+            },
+            {
+                  "name": "Mount Tupper",
+                  "text": "Mount Tupper este un vârf în Munții Selkirk, numit după Sir Charles Tupper.",
+                  "category": "natural",
+                  "coords": [
+                        -117.49855,
+                        51.335809
+                  ]
+            },
+            {
+                  "name": "Rogers Pass Artillery Monument",
+                  "text": "Un monument în zona Mount Sir Donald care comemorează rolul artileriei în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -117.515415,
+                        51.28989
+                  ]
+            },
+            {
+                  "name": "Mount Macdonald",
+                  "text": "Mount Macdonald este cel mai înalt vârf din Munții Selkirk din Columbia Britanică.",
+                  "category": "natural",
+                  "coords": [
+                        -117.471586,
+                        51.308351
+                  ]
+            },
+            {
+                  "name": "The Overlook",
+                  "text": "The Overlook este un vârf în zona Mount Sir Donald care oferă vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -117.472331,
+                        51.267323
+                  ]
+            },
+            {
+                  "name": "Great Glacier House",
+                  "text": "Ruinele Great Glacier House, o clădire istorică în zona Mount Sir Donald.",
+                  "category": "historical",
+                  "coords": [
+                        -117.493012,
+                        51.260906
+                  ]
+            },
+            {
+                  "name": "Red Chairs",
+                  "text": "Red Chairs sunt o atracție populară în zona Mount Sir Donald, cunoscute pentru locația lor pitorească.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.489855,
+                        51.25975
+                  ]
+            },
+            {
+                  "name": "Lookout Mountain",
+                  "text": "Lookout Mountain este un vârf în zona Mount Sir Donald care oferă vederi asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -117.451538,
+                        51.232907
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "Parcul Național Glacier este o arie protejată în Columbia Britanică, renumit pentru ghețarii și peisajele alpine.",
+                  "category": "natural",
+                  "coords": [
+                        -117.524453,
+                        51.268967
+                  ]
+            },
+            {
+                  "name": "Quartz Creek Snowmobile Area",
+                  "text": "Zona de snowmobile Quartz Creek este o zonă pentru snowmobile în regiunea Mount Sir Donald pentru recreere de iarnă.",
+                  "category": "natural",
+                  "coords": [
+                        -117.34281,
+                        51.375195
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Perley Rock",
+                  "text": "A peak in the Mount Sir Donald area, offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -117.442071,
+                        51.248521
+                  ]
+            },
+            {
+                  "name": "Mount Sir Donald",
+                  "text": "Mount Sir Donald is a prominent peak in the Selkirk Mountains of British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -117.431346,
+                        51.26325
+                  ]
+            },
+            {
+                  "name": "North Terminal Peak",
+                  "text": "North Terminal Peak is a mountain in the Selkirk Mountains near Rogers Pass.",
+                  "category": "natural",
+                  "coords": [
+                        -117.429135,
+                        51.257267
+                  ]
+            },
+            {
+                  "name": "Uto Peak",
+                  "text": "Uto Peak is a mountain in the Hermit Range of the Selkirk Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -117.440633,
+                        51.272305
+                  ]
+            },
+            {
+                  "name": "The Hermit",
+                  "text": "The Hermit is a peak in the Hermit Range of the Mount Sir Donald area.",
+                  "category": "natural",
+                  "coords": [
+                        -117.508129,
+                        51.335913
+                  ]
+            },
+            {
+                  "name": "Mount Tupper",
+                  "text": "Mount Tupper is a peak in the Selkirk Mountains, named after Sir Charles Tupper.",
+                  "category": "natural",
+                  "coords": [
+                        -117.49855,
+                        51.335809
+                  ]
+            },
+            {
+                  "name": "Rogers Pass Artillery Monument",
+                  "text": "A monument in the Mount Sir Donald area commemorating the role of artillery in the region.",
+                  "category": "historical",
+                  "coords": [
+                        -117.515415,
+                        51.28989
+                  ]
+            },
+            {
+                  "name": "Mount Macdonald",
+                  "text": "Mount Macdonald is the highest peak in the Selkirk Mountains of British Columbia.",
+                  "category": "natural",
+                  "coords": [
+                        -117.471586,
+                        51.308351
+                  ]
+            },
+            {
+                  "name": "The Overlook",
+                  "text": "The Overlook is a peak in the Mount Sir Donald area providing panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -117.472331,
+                        51.267323
+                  ]
+            },
+            {
+                  "name": "Great Glacier House",
+                  "text": "The ruins of Great Glacier House, a historic building in the Mount Sir Donald area.",
+                  "category": "historical",
+                  "coords": [
+                        -117.493012,
+                        51.260906
+                  ]
+            },
+            {
+                  "name": "Red Chairs",
+                  "text": "Red Chairs are a popular attraction in the Mount Sir Donald area, known for their scenic location.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.489855,
+                        51.25975
+                  ]
+            },
+            {
+                  "name": "Lookout Mountain",
+                  "text": "Lookout Mountain is a peak in the Mount Sir Donald area offering views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -117.451538,
+                        51.232907
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "Glacier National Park is a protected area in British Columbia renowned for its glaciers and alpine landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -117.524453,
+                        51.268967
+                  ]
+            },
+            {
+                  "name": "Quartz Creek Snowmobile Area",
+                  "text": "Quartz Creek Snowmobile Area is a snowmobile zone in the Mount Sir Donald region for winter recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -117.34281,
+                        51.375195
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-BC",
     coords: [-117.4, 51.3],
@@ -966,7 +4926,664 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "gros-morne-mountain-relief-v2",
+    id: "gros-morne-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Green Point Hill",
+                  "text": "Green Point Hill ist ein Gipfel im Gros-Morne-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.800686,
+                        49.676487
+                  ]
+            },
+            {
+                  "name": "Baker's Brook Fall",
+                  "text": "Baker's Brook Fall ist ein Wasserfall im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.898488,
+                        49.645948
+                  ]
+            },
+            {
+                  "name": "Photographer's Lookout",
+                  "text": "Photographer's Lookout ist ein beliebter Aussichtspunkt für Fotografen.",
+                  "category": "natural",
+                  "coords": [
+                        -57.882755,
+                        49.537465
+                  ]
+            },
+            {
+                  "name": "Gros Morne Wildlife Museum",
+                  "text": "Das Gros Morne Wildlife Museum zeigt die Tierwelt der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -57.917443,
+                        49.593432
+                  ]
+            },
+            {
+                  "name": "Berry Hill",
+                  "text": "Berry Hill ist ein Hügel mit einem Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -57.932303,
+                        49.623758
+                  ]
+            },
+            {
+                  "name": "Gros Morne",
+                  "text": "Gros Morne ist der höchste Gipfel im Gros-Morne-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -57.783879,
+                        49.594008
+                  ]
+            },
+            {
+                  "name": "Ten Mile Pond Lookout",
+                  "text": "Ten Mile Pond Lookout bietet einen Blick auf den Ten Mile Pond.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781099,
+                        49.600504
+                  ]
+            },
+            {
+                  "name": "Parc national du Gros-Morne",
+                  "text": "Der Parc national du Gros-Morne ist ein Naturschutzgebiet in Québec.",
+                  "category": "natural",
+                  "coords": [
+                        -57.748288,
+                        49.645804
+                  ]
+            },
+            {
+                  "name": "Bakeapple Pond Viewpoint",
+                  "text": "Bakeapple Pond Viewpoint ist ein Aussichtspunkt über den Bakeapple Pond.",
+                  "category": "natural",
+                  "coords": [
+                        -57.734344,
+                        49.600723
+                  ]
+            },
+            {
+                  "name": "Crow Cliff",
+                  "text": "Crow Cliff ist eine Klippe im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.798434,
+                        49.566468
+                  ]
+            },
+            {
+                  "name": "Outhouse",
+                  "text": "Outhouse ist ein Aussichtspunkt im Gros-Morne-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.815855,
+                        49.571472
+                  ]
+            },
+            {
+                  "name": "Lookout",
+                  "text": "Lookout ist ein Aussichtspunkt im Gros-Morne-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -57.82577,
+                        49.568632
+                  ]
+            },
+            {
+                  "name": "Hike Grose Morne Mountain",
+                  "text": "Die Wanderung auf den Gros Morne ist eine beliebte Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.831649,
+                        49.560747
+                  ]
+            },
+            {
+                  "name": "Gull Rocks",
+                  "text": "Gull Rocks sind Felsformationen im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.809279,
+                        49.510584
+                  ]
+            },
+            {
+                  "name": "Gros Morne National Park",
+                  "text": "Der Gros Morne Nationalpark ist ein UNESCO-Weltnaturerbe.",
+                  "category": "natural",
+                  "coords": [
+                        -57.739921,
+                        49.631126
+                  ]
+            },
+            {
+                  "name": "Eastern Arm",
+                  "text": "Eastern Arm ist eine Bucht im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.840665,
+                        49.542937
+                  ]
+            },
+            {
+                  "name": "Bailers Cove",
+                  "text": "Bailers Cove ist eine Bucht im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.830792,
+                        49.535251
+                  ]
+            },
+            {
+                  "name": "Bread and Butter Cove",
+                  "text": "Bread and Butter Cove ist eine Bucht im Gros-Morne-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.817614,
+                        49.51358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Green Point Hill",
+                  "text": "A Green Point Hill egy csúcs a Gros-Morne régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.800686,
+                        49.676487
+                  ]
+            },
+            {
+                  "name": "Baker's Brook Fall",
+                  "text": "A Baker's Brook Fall egy vízesés a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.898488,
+                        49.645948
+                  ]
+            },
+            {
+                  "name": "Photographer's Lookout",
+                  "text": "A Photographer's Lookout népszerű kilátóhely fotósok számára.",
+                  "category": "natural",
+                  "coords": [
+                        -57.882755,
+                        49.537465
+                  ]
+            },
+            {
+                  "name": "Gros Morne Wildlife Museum",
+                  "text": "A Gros Morne Wildlife Museum a régió vadon élő állatait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -57.917443,
+                        49.593432
+                  ]
+            },
+            {
+                  "name": "Berry Hill",
+                  "text": "A Berry Hill egy domb kilátóval.",
+                  "category": "natural",
+                  "coords": [
+                        -57.932303,
+                        49.623758
+                  ]
+            },
+            {
+                  "name": "Gros Morne",
+                  "text": "A Gros Morne a Gros-Morne Nemzeti Park legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -57.783879,
+                        49.594008
+                  ]
+            },
+            {
+                  "name": "Ten Mile Pond Lookout",
+                  "text": "A Ten Mile Pond Lookout kilátást nyújt a Ten Mile Pondra.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781099,
+                        49.600504
+                  ]
+            },
+            {
+                  "name": "Parc national du Gros-Morne",
+                  "text": "A Parc national du Gros-Morne egy természetvédelmi terület Québecben.",
+                  "category": "natural",
+                  "coords": [
+                        -57.748288,
+                        49.645804
+                  ]
+            },
+            {
+                  "name": "Bakeapple Pond Viewpoint",
+                  "text": "A Bakeapple Pond Viewpoint egy kilátóhely a Bakeapple Pond felett.",
+                  "category": "natural",
+                  "coords": [
+                        -57.734344,
+                        49.600723
+                  ]
+            },
+            {
+                  "name": "Crow Cliff",
+                  "text": "A Crow Cliff egy szikla a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.798434,
+                        49.566468
+                  ]
+            },
+            {
+                  "name": "Outhouse",
+                  "text": "Az Outhouse egy kilátóhely a Gros-Morne régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.815855,
+                        49.571472
+                  ]
+            },
+            {
+                  "name": "Lookout",
+                  "text": "A Lookout egy kilátóhely a Gros-Morne régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -57.82577,
+                        49.568632
+                  ]
+            },
+            {
+                  "name": "Hike Grose Morne Mountain",
+                  "text": "A Gros Morne megmászása népszerű túraútvonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.831649,
+                        49.560747
+                  ]
+            },
+            {
+                  "name": "Gull Rocks",
+                  "text": "A Gull Rocks sziklák a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.809279,
+                        49.510584
+                  ]
+            },
+            {
+                  "name": "Gros Morne National Park",
+                  "text": "A Gros Morne Nemzeti Park az UNESCO Világörökség része.",
+                  "category": "natural",
+                  "coords": [
+                        -57.739921,
+                        49.631126
+                  ]
+            },
+            {
+                  "name": "Eastern Arm",
+                  "text": "Az Eastern Arm egy öböl a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.840665,
+                        49.542937
+                  ]
+            },
+            {
+                  "name": "Bailers Cove",
+                  "text": "A Bailers Cove egy öböl a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.830792,
+                        49.535251
+                  ]
+            },
+            {
+                  "name": "Bread and Butter Cove",
+                  "text": "A Bread and Butter Cove egy öböl a Gros-Morne régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.817614,
+                        49.51358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Green Point Hill",
+                  "text": "Green Point Hill este un vârf în zona Gros-Morne.",
+                  "category": "natural",
+                  "coords": [
+                        -57.800686,
+                        49.676487
+                  ]
+            },
+            {
+                  "name": "Baker's Brook Fall",
+                  "text": "Baker's Brook Fall este o cascadă în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.898488,
+                        49.645948
+                  ]
+            },
+            {
+                  "name": "Photographer's Lookout",
+                  "text": "Photographer's Lookout este un punct de belvedere popular pentru fotografi.",
+                  "category": "natural",
+                  "coords": [
+                        -57.882755,
+                        49.537465
+                  ]
+            },
+            {
+                  "name": "Gros Morne Wildlife Museum",
+                  "text": "Muzeul Gros Morne Wildlife prezintă fauna sălbatică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -57.917443,
+                        49.593432
+                  ]
+            },
+            {
+                  "name": "Berry Hill",
+                  "text": "Berry Hill este un deal cu un punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -57.932303,
+                        49.623758
+                  ]
+            },
+            {
+                  "name": "Gros Morne",
+                  "text": "Gros Morne este cel mai înalt vârf din Parcul Național Gros-Morne.",
+                  "category": "natural",
+                  "coords": [
+                        -57.783879,
+                        49.594008
+                  ]
+            },
+            {
+                  "name": "Ten Mile Pond Lookout",
+                  "text": "Ten Mile Pond Lookout oferă o vedere asupra lacului Ten Mile Pond.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781099,
+                        49.600504
+                  ]
+            },
+            {
+                  "name": "Parc national du Gros-Morne",
+                  "text": "Parc national du Gros-Morne este o rezervație naturală în Québec.",
+                  "category": "natural",
+                  "coords": [
+                        -57.748288,
+                        49.645804
+                  ]
+            },
+            {
+                  "name": "Bakeapple Pond Viewpoint",
+                  "text": "Bakeapple Pond Viewpoint este un punct de belvedere deasupra iazului Bakeapple.",
+                  "category": "natural",
+                  "coords": [
+                        -57.734344,
+                        49.600723
+                  ]
+            },
+            {
+                  "name": "Crow Cliff",
+                  "text": "Crow Cliff este o stâncă în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.798434,
+                        49.566468
+                  ]
+            },
+            {
+                  "name": "Outhouse",
+                  "text": "Outhouse este un punct de belvedere în zona Gros-Morne.",
+                  "category": "natural",
+                  "coords": [
+                        -57.815855,
+                        49.571472
+                  ]
+            },
+            {
+                  "name": "Lookout",
+                  "text": "Lookout este un punct de belvedere în zona Gros-Morne.",
+                  "category": "natural",
+                  "coords": [
+                        -57.82577,
+                        49.568632
+                  ]
+            },
+            {
+                  "name": "Hike Grose Morne Mountain",
+                  "text": "Drumeția pe Gros Morne este o atracție populară.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.831649,
+                        49.560747
+                  ]
+            },
+            {
+                  "name": "Gull Rocks",
+                  "text": "Gull Rocks sunt formațiuni stâncoase în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.809279,
+                        49.510584
+                  ]
+            },
+            {
+                  "name": "Gros Morne National Park",
+                  "text": "Parcul Național Gros Morne este un sit al Patrimoniului Mondial UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        -57.739921,
+                        49.631126
+                  ]
+            },
+            {
+                  "name": "Eastern Arm",
+                  "text": "Eastern Arm este un golf în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.840665,
+                        49.542937
+                  ]
+            },
+            {
+                  "name": "Bailers Cove",
+                  "text": "Bailers Cove este un golf în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.830792,
+                        49.535251
+                  ]
+            },
+            {
+                  "name": "Bread and Butter Cove",
+                  "text": "Bread and Butter Cove este un golf în zona Gros-Morne.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.817614,
+                        49.51358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Green Point Hill",
+                  "text": "Green Point Hill is a peak in the Gros Morne area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.800686,
+                        49.676487
+                  ]
+            },
+            {
+                  "name": "Baker's Brook Fall",
+                  "text": "Baker's Brook Fall is a waterfall in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.898488,
+                        49.645948
+                  ]
+            },
+            {
+                  "name": "Photographer's Lookout",
+                  "text": "Photographer's Lookout is a popular viewpoint for photographers.",
+                  "category": "natural",
+                  "coords": [
+                        -57.882755,
+                        49.537465
+                  ]
+            },
+            {
+                  "name": "Gros Morne Wildlife Museum",
+                  "text": "Gros Morne Wildlife Museum exhibits local wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        -57.917443,
+                        49.593432
+                  ]
+            },
+            {
+                  "name": "Berry Hill",
+                  "text": "Berry Hill is a hill with a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -57.932303,
+                        49.623758
+                  ]
+            },
+            {
+                  "name": "Gros Morne",
+                  "text": "Gros Morne is the highest peak in Gros Morne National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -57.783879,
+                        49.594008
+                  ]
+            },
+            {
+                  "name": "Ten Mile Pond Lookout",
+                  "text": "Ten Mile Pond Lookout provides a view over Ten Mile Pond.",
+                  "category": "natural",
+                  "coords": [
+                        -57.781099,
+                        49.600504
+                  ]
+            },
+            {
+                  "name": "Parc national du Gros-Morne",
+                  "text": "Parc national du Gros-Morne is a nature reserve in Quebec.",
+                  "category": "natural",
+                  "coords": [
+                        -57.748288,
+                        49.645804
+                  ]
+            },
+            {
+                  "name": "Bakeapple Pond Viewpoint",
+                  "text": "Bakeapple Pond Viewpoint overlooks Bakeapple Pond.",
+                  "category": "natural",
+                  "coords": [
+                        -57.734344,
+                        49.600723
+                  ]
+            },
+            {
+                  "name": "Crow Cliff",
+                  "text": "Crow Cliff is a cliff formation in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.798434,
+                        49.566468
+                  ]
+            },
+            {
+                  "name": "Outhouse",
+                  "text": "Outhouse is a viewpoint in the Gros Morne area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.815855,
+                        49.571472
+                  ]
+            },
+            {
+                  "name": "Lookout",
+                  "text": "Lookout is a viewpoint in the Gros Morne area.",
+                  "category": "natural",
+                  "coords": [
+                        -57.82577,
+                        49.568632
+                  ]
+            },
+            {
+                  "name": "Hike Grose Morne Mountain",
+                  "text": "Hiking Gros Morne Mountain is a popular attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.831649,
+                        49.560747
+                  ]
+            },
+            {
+                  "name": "Gull Rocks",
+                  "text": "Gull Rocks are rock formations in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.809279,
+                        49.510584
+                  ]
+            },
+            {
+                  "name": "Gros Morne National Park",
+                  "text": "Gros Morne National Park is a UNESCO World Heritage site.",
+                  "category": "natural",
+                  "coords": [
+                        -57.739921,
+                        49.631126
+                  ]
+            },
+            {
+                  "name": "Eastern Arm",
+                  "text": "Eastern Arm is a bay in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.840665,
+                        49.542937
+                  ]
+            },
+            {
+                  "name": "Bailers Cove",
+                  "text": "Bailers Cove is a bay in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.830792,
+                        49.535251
+                  ]
+            },
+            {
+                  "name": "Bread and Butter Cove",
+                  "text": "Bread and Butter Cove is a bay in the Gros Morne area.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.817614,
+                        49.51358
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-NL",
     coords: [-57.8, 49.6],
@@ -1010,7 +5627,304 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "cascade-mountain-relief-v2",
+    id: "cascade-mountain-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Peechee",
+                  "text": "Mount Peechee ist ein Gipfel in der Cascade Mountain Range nahe Banff, benannt nach einem Wort der Stoney Nakoda.",
+                  "category": "natural",
+                  "coords": [
+                        -115.377025,
+                        51.210292
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "View point ist ein Aussichtspunkt im Gebiet des Cascade Mountain mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -115.498682,
+                        51.265762
+                  ]
+            },
+            {
+                  "name": "Mount Inglismaldie",
+                  "text": "Mount Inglismaldie ist ein Gipfel nahe Banff, benannt nach einem britischen Armeeoffizier.",
+                  "category": "natural",
+                  "coords": [
+                        -115.4217,
+                        51.2419
+                  ]
+            },
+            {
+                  "name": "Mount Girouard",
+                  "text": "Mount Girouard ist ein Gipfel nahe Banff, benannt nach einem kanadischen Politiker.",
+                  "category": "natural",
+                  "coords": [
+                        -115.402716,
+                        51.236593
+                  ]
+            },
+            {
+                  "name": "Banff Hoodoos Viewpoint",
+                  "text": "Der Banff Hoodoos Viewpoint ist ein Aussichtspunkt in Banff mit Blick auf die Hoodoos-Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -115.520055,
+                        51.188539
+                  ]
+            },
+            {
+                  "name": "Path to Hoodoos",
+                  "text": "Der Path to Hoodoos ist ein Weg zu den Banff Hoodoos mit malerischen Ausblicken.",
+                  "category": "natural",
+                  "coords": [
+                        -115.521039,
+                        51.188574
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Waterfall ist ein Aussichtspunkt mit Blick auf einen Wasserfall im Gebiet des Cascade Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -115.54329,
+                        51.213468
+                  ]
+            },
+            {
+                  "name": "Tunnel Mountain Amphitheater",
+                  "text": "Das Tunnel Mountain Amphitheater ist ein Freilichttheater auf dem Tunnel Mountain in Banff, das für Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -115.520447,
+                        51.193268
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Peechee",
+                  "text": "A Mount Peechee egy csúcs a Cascade-hegységben, Banff közelében, egy stoney nakoda szóról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.377025,
+                        51.210292
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "A View point egy kilátóhely a Cascade-hegység területén, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -115.498682,
+                        51.265762
+                  ]
+            },
+            {
+                  "name": "Mount Inglismaldie",
+                  "text": "A Mount Inglismaldie egy csúcs Banff közelében, egy brit katonatiszt után elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.4217,
+                        51.2419
+                  ]
+            },
+            {
+                  "name": "Mount Girouard",
+                  "text": "A Mount Girouard egy csúcs Banff közelében, egy kanadai politikusról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -115.402716,
+                        51.236593
+                  ]
+            },
+            {
+                  "name": "Banff Hoodoos Viewpoint",
+                  "text": "A Banff Hoodoos Viewpoint egy kilátóhely Banff-ban, ahonnan a hoodoos sziklaformációkra nyílik kilátás.",
+                  "category": "natural",
+                  "coords": [
+                        -115.520055,
+                        51.188539
+                  ]
+            },
+            {
+                  "name": "Path to Hoodoos",
+                  "text": "A Path to Hoodoos egy ösvény a Banff Hoodoos-hoz, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -115.521039,
+                        51.188574
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "A Waterfall egy kilátóhely, ahonnan egy vízesésre nyílik kilátás a Cascade-hegység területén.",
+                  "category": "natural",
+                  "coords": [
+                        -115.54329,
+                        51.213468
+                  ]
+            },
+            {
+                  "name": "Tunnel Mountain Amphitheater",
+                  "text": "A Tunnel Mountain Amphitheater egy szabadtéri színház a Tunnel Mountain-en Banff-ban, rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -115.520447,
+                        51.193268
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Peechee",
+                  "text": "Mount Peechee este un vârf în lanțul Cascade Mountain lângă Banff, numit după un cuvânt stoney nakoda.",
+                  "category": "natural",
+                  "coords": [
+                        -115.377025,
+                        51.210292
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "View point este un punct de belvedere în zona Cascade Mountain, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -115.498682,
+                        51.265762
+                  ]
+            },
+            {
+                  "name": "Mount Inglismaldie",
+                  "text": "Mount Inglismaldie este un vârf lângă Banff, numit după un ofițer britanic.",
+                  "category": "natural",
+                  "coords": [
+                        -115.4217,
+                        51.2419
+                  ]
+            },
+            {
+                  "name": "Mount Girouard",
+                  "text": "Mount Girouard este un vârf lângă Banff, numit după un politician canadian.",
+                  "category": "natural",
+                  "coords": [
+                        -115.402716,
+                        51.236593
+                  ]
+            },
+            {
+                  "name": "Banff Hoodoos Viewpoint",
+                  "text": "Banff Hoodoos Viewpoint este un punct de belvedere în Banff, cu vedere la formațiunile stâncoase hoodoos.",
+                  "category": "natural",
+                  "coords": [
+                        -115.520055,
+                        51.188539
+                  ]
+            },
+            {
+                  "name": "Path to Hoodoos",
+                  "text": "Path to Hoodoos este o potecă spre Hoodoos din Banff, cu priveliști pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -115.521039,
+                        51.188574
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Waterfall este un punct de belvedere cu vedere la o cascadă în zona Cascade Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -115.54329,
+                        51.213468
+                  ]
+            },
+            {
+                  "name": "Tunnel Mountain Amphitheater",
+                  "text": "Tunnel Mountain Amphitheater este un teatru în aer liber pe Tunnel Mountain în Banff, folosit pentru evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -115.520447,
+                        51.193268
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Peechee",
+                  "text": "Mount Peechee is a peak in the Cascade Mountain range near Banff, named after a Stoney Nakoda word.",
+                  "category": "natural",
+                  "coords": [
+                        -115.377025,
+                        51.210292
+                  ]
+            },
+            {
+                  "name": "View point",
+                  "text": "View point is a viewpoint in the Cascade Mountain area offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -115.498682,
+                        51.265762
+                  ]
+            },
+            {
+                  "name": "Mount Inglismaldie",
+                  "text": "Mount Inglismaldie is a peak near Banff, named after a British army officer.",
+                  "category": "natural",
+                  "coords": [
+                        -115.4217,
+                        51.2419
+                  ]
+            },
+            {
+                  "name": "Mount Girouard",
+                  "text": "Mount Girouard is a peak near Banff, named after a Canadian politician.",
+                  "category": "natural",
+                  "coords": [
+                        -115.402716,
+                        51.236593
+                  ]
+            },
+            {
+                  "name": "Banff Hoodoos Viewpoint",
+                  "text": "Banff Hoodoos Viewpoint is a viewpoint in Banff overlooking the hoodoos rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -115.520055,
+                        51.188539
+                  ]
+            },
+            {
+                  "name": "Path to Hoodoos",
+                  "text": "Path to Hoodoos is a trail leading to the Banff Hoodoos with scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -115.521039,
+                        51.188574
+                  ]
+            },
+            {
+                  "name": "Waterfall",
+                  "text": "Waterfall is a viewpoint of a waterfall in the Cascade Mountain area.",
+                  "category": "natural",
+                  "coords": [
+                        -115.54329,
+                        51.213468
+                  ]
+            },
+            {
+                  "name": "Tunnel Mountain Amphitheater",
+                  "text": "Tunnel Mountain Amphitheater is an outdoor theatre on Tunnel Mountain in Banff, used for events.",
+                  "category": "cultural",
+                  "coords": [
+                        -115.520447,
+                        51.193268
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "CA-AB",
     coords: [-115.5, 51.2],
@@ -1054,7 +5968,160 @@ export const poiExtraCanadaReliefV2: POI[] = [
     },
   },
   {
-    id: "notre-dame-mountains-relief-v2",
+    id: "notre-dame-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Graham Beach",
+                  "text": "Der Graham Beach ist ein Strand in notre-dame-mountains-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.607095,
+                        47.550282
+                  ]
+            },
+            {
+                  "name": "Théâtre Montcalm",
+                  "text": "Das Théâtre Montcalm ist ein Theater in notre-dame-mountains-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.391266,
+                        47.511168
+                  ]
+            },
+            {
+                  "name": "Feuille d'érable",
+                  "text": "Die Feuille d'érable ist eine Attraktion in notre-dame-mountains-relief-v2, die ein Ahornblatt darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391845,
+                        47.497844
+                  ]
+            },
+            {
+                  "name": "Gare de Saint-Quentin",
+                  "text": "Die Gare de Saint-Quentin ist ein Bahnhof in notre-dame-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391622,
+                        47.507412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Graham Beach",
+                  "text": "A Graham Beach egy strand notre-dame-mountains-relief-v2-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.607095,
+                        47.550282
+                  ]
+            },
+            {
+                  "name": "Théâtre Montcalm",
+                  "text": "A Théâtre Montcalm egy színház notre-dame-mountains-relief-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.391266,
+                        47.511168
+                  ]
+            },
+            {
+                  "name": "Feuille d'érable",
+                  "text": "A Feuille d'érable egy látványosság notre-dame-mountains-relief-v2-ben, amely egy juharlevelet ábrázol.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391845,
+                        47.497844
+                  ]
+            },
+            {
+                  "name": "Gare de Saint-Quentin",
+                  "text": "A Gare de Saint-Quentin egy vasútállomás notre-dame-mountains-relief-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391622,
+                        47.507412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Graham Beach",
+                  "text": "Plaja Graham este o plajă în notre-dame-mountains-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.607095,
+                        47.550282
+                  ]
+            },
+            {
+                  "name": "Théâtre Montcalm",
+                  "text": "Teatrul Montcalm este un teatru în notre-dame-mountains-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.391266,
+                        47.511168
+                  ]
+            },
+            {
+                  "name": "Feuille d'érable",
+                  "text": "Feuille d'érable este o atracție în notre-dame-mountains-relief-v2, reprezentând o frunză de arțar.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391845,
+                        47.497844
+                  ]
+            },
+            {
+                  "name": "Gare de Saint-Quentin",
+                  "text": "Gara Saint-Quentin este o gară în notre-dame-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391622,
+                        47.507412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Graham Beach",
+                  "text": "Graham Beach is a beach in notre-dame-mountains-relief-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -67.607095,
+                        47.550282
+                  ]
+            },
+            {
+                  "name": "Théâtre Montcalm",
+                  "text": "Théâtre Montcalm is a theatre in notre-dame-mountains-relief-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -67.391266,
+                        47.511168
+                  ]
+            },
+            {
+                  "name": "Feuille d'érable",
+                  "text": "Feuille d'érable is an attraction in notre-dame-mountains-relief-v2 depicting a maple leaf.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391845,
+                        47.497844
+                  ]
+            },
+            {
+                  "name": "Gare de Saint-Quentin",
+                  "text": "Gare de Saint-Quentin is a train station in notre-dame-mountains-relief-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -67.391622,
+                        47.507412
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "CA-QC",
     coords: [-67.5, 47.5],

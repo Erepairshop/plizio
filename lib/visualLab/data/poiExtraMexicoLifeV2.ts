@@ -3,7 +3,1240 @@ import type { POI } from "./poi";
 
 export const poiExtraMexicoLifeV2: POI[] = [
   {
-    id: "chapultepec-zoo-life-v2",
+    id: "chapultepec-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papalote•Museo del Niño",
+                  "text": "Das Papalote Museo del Niño ist ein Museum in Chapultepec Zoo Life v2, eines der größten Kindermuseen Lateinamerikas.",
+                  "category": "museum",
+                  "coords": [
+                        -99.19463,
+                        19.411946
+                  ]
+            },
+            {
+                  "name": "Casa Luis Barragán",
+                  "text": "Die Casa Luis Barragán ist ein Museum in Chapultepec Zoo Life v2, ein UNESCO-Weltkulturerbe als ehemaliges Wohnhaus des Architekten Luis Barragán.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192433,
+                        19.411114
+                  ]
+            },
+            {
+                  "name": "Casa del Lago UNAM",
+                  "text": "Die Casa del Lago UNAM ist ein Museum in Chapultepec Zoo Life v2, ein Kulturzentrum am See im Chapultepec-Park.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185836,
+                        19.42237
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Los Pinos",
+                  "text": "Der Complejo Cultural Los Pinos ist ein Museum in Chapultepec Zoo Life v2, die ehemalige Präsidentenresidenz, heute ein Kulturkomplex.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191481,
+                        19.415573
+                  ]
+            },
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "Das Auditorio Nacional ist ein Theater in Chapultepec Zoo Life v2, einer der größten Konzertsäle der Welt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19484,
+                        19.424806
+                  ]
+            },
+            {
+                  "name": "Cárcamo de Dolores",
+                  "text": "Der Cárcamo de Dolores ist eine Attraktion in Chapultepec Zoo Life v2, mit Wandmalereien von Diego Rivera.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.197989,
+                        19.412849
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mixcoac",
+                  "text": "Die Zona arqueológica de Mixcoac ist eine Attraktion in Chapultepec Zoo Life v2, eine archäologische Stätte einer vorspanischen Siedlung.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.189851,
+                        19.386303
+                  ]
+            },
+            {
+                  "name": "Polyforum Cultural Siqueiros",
+                  "text": "Das Polyforum Cultural Siqueiros ist eine Attraktion in Chapultepec Zoo Life v2, ein Kulturzentrum mit Wandmalereien von David Alfaro Siqueiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.17344,
+                        19.393316
+                  ]
+            },
+            {
+                  "name": "Parque Lira",
+                  "text": "Der Parque Lira ist ein Park in Chapultepec Zoo Life v2, ein öffentlicher Park in der Gegend.",
+                  "category": "park",
+                  "coords": [
+                        -99.189934,
+                        19.405958
+                  ]
+            },
+            {
+                  "name": "Aztlán Parque Urbano",
+                  "text": "Der Aztlán Parque Urbano ist ein Themenpark in Chapultepec Zoo Life v2, ein Vergnügungspark mit Fahrgeschäften und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.195634,
+                        19.416062
+                  ]
+            },
+            {
+                  "name": "Casa Presidencial Lázaro Cárdenas",
+                  "text": "Die Casa Presidencial Lázaro Cárdenas ist ein Museum in Chapultepec Zoo Life v2, das dem ehemaligen Präsidenten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191433,
+                        19.41383
+                  ]
+            },
+            {
+                  "name": "Zoológico de Chapultepec",
+                  "text": "Der Zoológico de Chapultepec ist ein Zoo in Chapultepec Zoo Life v2, der viele Tierarten beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.189527,
+                        19.422993
+                  ]
+            },
+            {
+                  "name": "LagoAlgo",
+                  "text": "Das LagoAlgo ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.199773,
+                        19.417143
+                  ]
+            },
+            {
+                  "name": "Galería Enrique Guerrero",
+                  "text": "Die Galería Enrique Guerrero ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185524,
+                        19.411015
+                  ]
+            },
+            {
+                  "name": "Patricia Conde Galería",
+                  "text": "Die Patricia Conde Galería ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185034,
+                        19.412771
+                  ]
+            },
+            {
+                  "name": "Parque Galería",
+                  "text": "Das Parque Galería ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183736,
+                        19.41564
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Mexicano GAM",
+                  "text": "Die Galería de Arte Mexicano GAM ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186982,
+                        19.413308
+                  ]
+            },
+            {
+                  "name": "Cencalli",
+                  "text": "Das Cencalli ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192028,
+                        19.417172
+                  ]
+            },
+            {
+                  "name": "Bernardini",
+                  "text": "Die Bernardini ist eine Galerie in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191611,
+                        19.429424
+                  ]
+            },
+            {
+                  "name": "Museo de la Policía Federal",
+                  "text": "Das Museo de la Policía Federal ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.218055,
+                        19.393062
+                  ]
+            },
+            {
+                  "name": "Espacio CDMX",
+                  "text": "Der Espacio CDMX ist eine Galerie in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.202804,
+                        19.41119
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cartografía",
+                  "text": "Das Museo Nacional de la Cartografía ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191798,
+                        19.404457
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural y Cultura Ambiental",
+                  "text": "Das Museo de Historia Natural y Cultura Ambiental ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.2015,
+                        19.409971
+                  ]
+            },
+            {
+                  "name": "Mapoteca Manuel Orozco y Berra",
+                  "text": "Die Mapoteca Manuel Orozco y Berra ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196764,
+                        19.404265
+                  ]
+            },
+            {
+                  "name": "Museo de Geofísica de la UNAM",
+                  "text": "Das Museo de Geofísica de la UNAM ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.195251,
+                        19.404514
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Ambiental",
+                  "text": "Das Centro de Cultura Ambiental ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.198258,
+                        19.410848
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Bola",
+                  "text": "Das Museo Casa de la Bola ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.188831,
+                        19.404728
+                  ]
+            },
+            {
+                  "name": "Casa Gilardi, Luis Barragán 1976",
+                  "text": "Die Casa Gilardi, Luis Barragán 1976 ist ein Museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186235,
+                        19.41424
+                  ]
+            },
+            {
+                  "name": "FUENTE",
+                  "text": "Die FUENTE ist ein Denkmal in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203921,
+                        19.387904
+                  ]
+            },
+            {
+                  "name": "Tomáš Garrigue Masaryk 1850-1937",
+                  "text": "Das Denkmal Tomáš Garrigue Masaryk 1850-1937 ist ein Denkmal in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.191177,
+                        19.431534
+                  ]
+            },
+            {
+                  "name": "Molino de Santo Domingo",
+                  "text": "Der Molino de Santo Domingo ist ein Denkmal in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.193917,
+                        19.402823
+                  ]
+            },
+            {
+                  "name": "Auditorio Adrián Gibert",
+                  "text": "Das Auditorio Adrián Gibert ist ein Theater in Chapultepec Zoo Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.181253,
+                        19.407138
+                  ]
+            },
+            {
+                  "name": "Teatro Hipódromo Condesa",
+                  "text": "Das Teatro Hipódromo Condesa ist ein Theater in Chapultepec, Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.18468,
+                        19.406563
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Bosque",
+                  "text": "Das Centro Cultural del Bosque ist ein Kunstzentrum in Chapultepec, Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195433,
+                        19.423727
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Papalote•Museo del Niño",
+                  "text": "A Papalote Museo del Niño egy múzeum a Chapultepec Zoo Life v2-ben, Latin-Amerika egyik legnagyobb gyermekmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -99.19463,
+                        19.411946
+                  ]
+            },
+            {
+                  "name": "Casa Luis Barragán",
+                  "text": "A Casa Luis Barragán egy múzeum a Chapultepec Zoo Life v2-ben, UNESCO világörökségi helyszín, Luis Barragán építész egykori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192433,
+                        19.411114
+                  ]
+            },
+            {
+                  "name": "Casa del Lago UNAM",
+                  "text": "A Casa del Lago UNAM egy múzeum a Chapultepec Zoo Life v2-ben, egy kulturális központ a Chapultecep Park tavánál.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185836,
+                        19.42237
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Los Pinos",
+                  "text": "A Complejo Cultural Los Pinos egy múzeum a Chapultepec Zoo Life v2-ben, egykori elnöki rezidencia, ma kulturális komplexum.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191481,
+                        19.415573
+                  ]
+            },
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "Az Auditorio Nacional egy színház a Chapultepec Zoo Life v2-ben, a világ egyik legnagyobb koncertterme.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19484,
+                        19.424806
+                  ]
+            },
+            {
+                  "name": "Cárcamo de Dolores",
+                  "text": "A Cárcamo de Dolores egy látványosság a Chapultepec Zoo Life v2-ben, Diego Rivera falfestményeivel.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.197989,
+                        19.412849
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mixcoac",
+                  "text": "A Zona arqueológica de Mixcoac egy látványosság a Chapultepec Zoo Life v2-ben, egy prehispán település régészeti lelőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.189851,
+                        19.386303
+                  ]
+            },
+            {
+                  "name": "Polyforum Cultural Siqueiros",
+                  "text": "A Polyforum Cultural Siqueiros egy látványosság a Chapultepec Zoo Life v2-ben, David Alfaro Siqueiros falfestményeivel rendelkező kulturális központ.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.17344,
+                        19.393316
+                  ]
+            },
+            {
+                  "name": "Parque Lira",
+                  "text": "A Parque Lira egy park a Chapultepec Zoo Life v2-ben, egy nyilvános park a környéken.",
+                  "category": "park",
+                  "coords": [
+                        -99.189934,
+                        19.405958
+                  ]
+            },
+            {
+                  "name": "Aztlán Parque Urbano",
+                  "text": "Az Aztlán Parque Urbano egy vidámpark a Chapultepec Zoo Life v2-ben, játékokkal és attrakciókkal rendelkező szórakoztató park.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.195634,
+                        19.416062
+                  ]
+            },
+            {
+                  "name": "Casa Presidencial Lázaro Cárdenas",
+                  "text": "A Casa Presidencial Lázaro Cárdenas egy múzeum a Chapultepec Zoo Life v2-ben, amely az egykori elnöknek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191433,
+                        19.41383
+                  ]
+            },
+            {
+                  "name": "Zoológico de Chapultepec",
+                  "text": "A Zoológico de Chapultepec egy állatkert a Chapultepec Zoo Life v2-ben, számos állatfaj otthona.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.189527,
+                        19.422993
+                  ]
+            },
+            {
+                  "name": "LagoAlgo",
+                  "text": "A LagoAlgo egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.199773,
+                        19.417143
+                  ]
+            },
+            {
+                  "name": "Galería Enrique Guerrero",
+                  "text": "A Galería Enrique Guerrero egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185524,
+                        19.411015
+                  ]
+            },
+            {
+                  "name": "Patricia Conde Galería",
+                  "text": "A Patricia Conde Galería egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185034,
+                        19.412771
+                  ]
+            },
+            {
+                  "name": "Parque Galería",
+                  "text": "A Parque Galería egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183736,
+                        19.41564
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Mexicano GAM",
+                  "text": "A Galería de Arte Mexicano GAM egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186982,
+                        19.413308
+                  ]
+            },
+            {
+                  "name": "Cencalli",
+                  "text": "A Cencalli egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192028,
+                        19.417172
+                  ]
+            },
+            {
+                  "name": "Bernardini",
+                  "text": "A Bernardini egy galéria a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191611,
+                        19.429424
+                  ]
+            },
+            {
+                  "name": "Museo de la Policía Federal",
+                  "text": "A Museo de la Policía Federal egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.218055,
+                        19.393062
+                  ]
+            },
+            {
+                  "name": "Espacio CDMX",
+                  "text": "Az Espacio CDMX egy galéria a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.202804,
+                        19.41119
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cartografía",
+                  "text": "A Museo Nacional de la Cartografía egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191798,
+                        19.404457
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural y Cultura Ambiental",
+                  "text": "A Museo de Historia Natural y Cultura Ambiental egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.2015,
+                        19.409971
+                  ]
+            },
+            {
+                  "name": "Mapoteca Manuel Orozco y Berra",
+                  "text": "A Mapoteca Manuel Orozco y Berra egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196764,
+                        19.404265
+                  ]
+            },
+            {
+                  "name": "Museo de Geofísica de la UNAM",
+                  "text": "A Museo de Geofísica de la UNAM egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.195251,
+                        19.404514
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Ambiental",
+                  "text": "A Centro de Cultura Ambiental egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.198258,
+                        19.410848
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Bola",
+                  "text": "A Museo Casa de la Bola egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.188831,
+                        19.404728
+                  ]
+            },
+            {
+                  "name": "Casa Gilardi, Luis Barragán 1976",
+                  "text": "A Casa Gilardi, Luis Barragán 1976 egy múzeum a Chapultepec Zoo Life v2-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186235,
+                        19.41424
+                  ]
+            },
+            {
+                  "name": "FUENTE",
+                  "text": "A FUENTE egy emlékmű a Chapultepec Zoo Life v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203921,
+                        19.387904
+                  ]
+            },
+            {
+                  "name": "Tomáš Garrigue Masaryk 1850-1937",
+                  "text": "A Tomáš Garrigue Masaryk 1850-1937 emlékmű egy emlékmű a Chapultepec Zoo Life v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.191177,
+                        19.431534
+                  ]
+            },
+            {
+                  "name": "Molino de Santo Domingo",
+                  "text": "A Molino de Santo Domingo egy emlékmű a Chapultepec Zoo Life v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.193917,
+                        19.402823
+                  ]
+            },
+            {
+                  "name": "Auditorio Adrián Gibert",
+                  "text": "Az Auditorio Adrián Gibert egy színház a Chapultepec Zoo Life v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.181253,
+                        19.407138
+                  ]
+            },
+            {
+                  "name": "Teatro Hipódromo Condesa",
+                  "text": "A Teatro Hipódromo Condesa egy színház a Chapultepecben, Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.18468,
+                        19.406563
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Bosque",
+                  "text": "A Centro Cultural del Bosque egy művészeti központ a Chapultepecben, Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195433,
+                        19.423727
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Papalote•Museo del Niño",
+                  "text": "Papalote Museo del Niño este un muzeu în Chapultepec Zoo Life v2, unul dintre cele mai mari muzee pentru copii din America Latină.",
+                  "category": "museum",
+                  "coords": [
+                        -99.19463,
+                        19.411946
+                  ]
+            },
+            {
+                  "name": "Casa Luis Barragán",
+                  "text": "Casa Luis Barragán este un muzeu în Chapultepec Zoo Life v2, un sit UNESCO ca fosta casă a arhitectului Luis Barragán.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192433,
+                        19.411114
+                  ]
+            },
+            {
+                  "name": "Casa del Lago UNAM",
+                  "text": "Casa del Lago UNAM este un muzeu în Chapultepec Zoo Life v2, un centru cultural pe lacul din Parcul Chapultepec.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185836,
+                        19.42237
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Los Pinos",
+                  "text": "Complejo Cultural Los Pinos este un muzeu în Chapultepec Zoo Life v2, fosta reședință prezidențială, acum un complex cultural.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191481,
+                        19.415573
+                  ]
+            },
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "Auditorio Nacional este un teatru în Chapultepec Zoo Life v2, una dintre cele mai mari săli de concerte din lume.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19484,
+                        19.424806
+                  ]
+            },
+            {
+                  "name": "Cárcamo de Dolores",
+                  "text": "Cárcamo de Dolores este o atracție în Chapultepec Zoo Life v2, cu picturi murale de Diego Rivera.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.197989,
+                        19.412849
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mixcoac",
+                  "text": "Zona arqueológica de Mixcoac este o atracție în Chapultepec Zoo Life v2, un sit arheologic al unei așezări prehispanice.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.189851,
+                        19.386303
+                  ]
+            },
+            {
+                  "name": "Polyforum Cultural Siqueiros",
+                  "text": "Polyforum Cultural Siqueiros este o atracție în Chapultepec Zoo Life v2, un centru cultural cu picturi murale de David Alfaro Siqueiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.17344,
+                        19.393316
+                  ]
+            },
+            {
+                  "name": "Parque Lira",
+                  "text": "Parque Lira este un parc în Chapultepec Zoo Life v2, un parc public în zonă.",
+                  "category": "park",
+                  "coords": [
+                        -99.189934,
+                        19.405958
+                  ]
+            },
+            {
+                  "name": "Aztlán Parque Urbano",
+                  "text": "Aztlán Parque Urbano este un parc tematic în Chapultepec Zoo Life v2, un parc de distracții cu atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.195634,
+                        19.416062
+                  ]
+            },
+            {
+                  "name": "Casa Presidencial Lázaro Cárdenas",
+                  "text": "Casa Presidencial Lázaro Cárdenas este un muzeu în Chapultepec Zoo Life v2, dedicat fostului președinte.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191433,
+                        19.41383
+                  ]
+            },
+            {
+                  "name": "Zoológico de Chapultepec",
+                  "text": "Zoológico de Chapultepec este o grădină zoologică în Chapultepec Zoo Life v2, găzduind multe specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.189527,
+                        19.422993
+                  ]
+            },
+            {
+                  "name": "LagoAlgo",
+                  "text": "LagoAlgo este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.199773,
+                        19.417143
+                  ]
+            },
+            {
+                  "name": "Galería Enrique Guerrero",
+                  "text": "Galería Enrique Guerrero este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185524,
+                        19.411015
+                  ]
+            },
+            {
+                  "name": "Patricia Conde Galería",
+                  "text": "Patricia Conde Galería este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185034,
+                        19.412771
+                  ]
+            },
+            {
+                  "name": "Parque Galería",
+                  "text": "Parque Galería este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183736,
+                        19.41564
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Mexicano GAM",
+                  "text": "Galería de Arte Mexicano GAM este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186982,
+                        19.413308
+                  ]
+            },
+            {
+                  "name": "Cencalli",
+                  "text": "Cencalli este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192028,
+                        19.417172
+                  ]
+            },
+            {
+                  "name": "Bernardini",
+                  "text": "Bernardini este o galerie în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191611,
+                        19.429424
+                  ]
+            },
+            {
+                  "name": "Museo de la Policía Federal",
+                  "text": "Museo de la Policía Federal este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.218055,
+                        19.393062
+                  ]
+            },
+            {
+                  "name": "Espacio CDMX",
+                  "text": "Espacio CDMX este o galerie în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.202804,
+                        19.41119
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cartografía",
+                  "text": "Museo Nacional de la Cartografía este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191798,
+                        19.404457
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural y Cultura Ambiental",
+                  "text": "Museo de Historia Natural y Cultura Ambiental este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.2015,
+                        19.409971
+                  ]
+            },
+            {
+                  "name": "Mapoteca Manuel Orozco y Berra",
+                  "text": "Mapoteca Manuel Orozco y Berra este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196764,
+                        19.404265
+                  ]
+            },
+            {
+                  "name": "Museo de Geofísica de la UNAM",
+                  "text": "Museo de Geofísica de la UNAM este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.195251,
+                        19.404514
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Ambiental",
+                  "text": "Centro de Cultura Ambiental este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.198258,
+                        19.410848
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Bola",
+                  "text": "Museo Casa de la Bola este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.188831,
+                        19.404728
+                  ]
+            },
+            {
+                  "name": "Casa Gilardi, Luis Barragán 1976",
+                  "text": "Casa Gilardi, Luis Barragán 1976 este un muzeu în Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186235,
+                        19.41424
+                  ]
+            },
+            {
+                  "name": "FUENTE",
+                  "text": "FUENTE este un monument în Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203921,
+                        19.387904
+                  ]
+            },
+            {
+                  "name": "Tomáš Garrigue Masaryk 1850-1937",
+                  "text": "Monumentul Tomáš Garrigue Masaryk 1850-1937 este un monument în Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.191177,
+                        19.431534
+                  ]
+            },
+            {
+                  "name": "Molino de Santo Domingo",
+                  "text": "Molino de Santo Domingo este un monument în Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.193917,
+                        19.402823
+                  ]
+            },
+            {
+                  "name": "Auditorio Adrián Gibert",
+                  "text": "Auditorio Adrián Gibert este un teatru în Chapultepec Zoo Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.181253,
+                        19.407138
+                  ]
+            },
+            {
+                  "name": "Teatro Hipódromo Condesa",
+                  "text": "Teatro Hipódromo Condesa este un teatru în Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.18468,
+                        19.406563
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Bosque",
+                  "text": "Centro Cultural del Bosque este un centru de artă în Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195433,
+                        19.423727
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papalote•Museo del Niño",
+                  "text": "The Papalote Museo del Niño is a museum in Chapultepec Zoo Life v2, one of the largest children's museums in Latin America.",
+                  "category": "museum",
+                  "coords": [
+                        -99.19463,
+                        19.411946
+                  ]
+            },
+            {
+                  "name": "Casa Luis Barragán",
+                  "text": "The Casa Luis Barragán is a museum in Chapultepec Zoo Life v2, a UNESCO World Heritage site as the former home of architect Luis Barragán.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192433,
+                        19.411114
+                  ]
+            },
+            {
+                  "name": "Casa del Lago UNAM",
+                  "text": "The Casa del Lago UNAM is a museum in Chapultepec Zoo Life v2, a cultural center on the lake in Chapultepec Park.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185836,
+                        19.42237
+                  ]
+            },
+            {
+                  "name": "Complejo Cultural Los Pinos",
+                  "text": "The Complejo Cultural Los Pinos is a museum in Chapultepec Zoo Life v2, the former presidential residence now a cultural complex.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191481,
+                        19.415573
+                  ]
+            },
+            {
+                  "name": "Auditorio Nacional",
+                  "text": "The Auditorio Nacional is a theatre in Chapultepec Zoo Life v2, one of the largest concert halls in the world.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19484,
+                        19.424806
+                  ]
+            },
+            {
+                  "name": "Cárcamo de Dolores",
+                  "text": "The Cárcamo de Dolores is an attraction in Chapultepec Zoo Life v2, featuring murals by Diego Rivera.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.197989,
+                        19.412849
+                  ]
+            },
+            {
+                  "name": "Zona arqueológica de Mixcoac",
+                  "text": "The Zona arqueológica de Mixcoac is an attraction in Chapultepec Zoo Life v2, an archaeological site of a pre-Hispanic settlement.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.189851,
+                        19.386303
+                  ]
+            },
+            {
+                  "name": "Polyforum Cultural Siqueiros",
+                  "text": "The Polyforum Cultural Siqueiros is an attraction in Chapultepec Zoo Life v2, a cultural center with murals by David Alfaro Siqueiros.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.17344,
+                        19.393316
+                  ]
+            },
+            {
+                  "name": "Parque Lira",
+                  "text": "The Parque Lira is a park in Chapultepec Zoo Life v2, a public park in the area.",
+                  "category": "park",
+                  "coords": [
+                        -99.189934,
+                        19.405958
+                  ]
+            },
+            {
+                  "name": "Aztlán Parque Urbano",
+                  "text": "The Aztlán Parque Urbano is a theme park in Chapultepec Zoo Life v2, an amusement park with rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.195634,
+                        19.416062
+                  ]
+            },
+            {
+                  "name": "Casa Presidencial Lázaro Cárdenas",
+                  "text": "The Casa Presidencial Lázaro Cárdenas is a museum in Chapultepec Zoo Life v2, dedicated to the former president.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191433,
+                        19.41383
+                  ]
+            },
+            {
+                  "name": "Zoológico de Chapultepec",
+                  "text": "The Zoológico de Chapultepec is a zoo in Chapultepec Zoo Life v2, housing many animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.189527,
+                        19.422993
+                  ]
+            },
+            {
+                  "name": "LagoAlgo",
+                  "text": "The LagoAlgo is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.199773,
+                        19.417143
+                  ]
+            },
+            {
+                  "name": "Galería Enrique Guerrero",
+                  "text": "The Galería Enrique Guerrero is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185524,
+                        19.411015
+                  ]
+            },
+            {
+                  "name": "Patricia Conde Galería",
+                  "text": "The Patricia Conde Galería is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.185034,
+                        19.412771
+                  ]
+            },
+            {
+                  "name": "Parque Galería",
+                  "text": "The Parque Galería is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.183736,
+                        19.41564
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Mexicano GAM",
+                  "text": "The Galería de Arte Mexicano GAM is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186982,
+                        19.413308
+                  ]
+            },
+            {
+                  "name": "Cencalli",
+                  "text": "The Cencalli is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.192028,
+                        19.417172
+                  ]
+            },
+            {
+                  "name": "Bernardini",
+                  "text": "The Bernardini is a gallery in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191611,
+                        19.429424
+                  ]
+            },
+            {
+                  "name": "Museo de la Policía Federal",
+                  "text": "The Museo de la Policía Federal is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.218055,
+                        19.393062
+                  ]
+            },
+            {
+                  "name": "Espacio CDMX",
+                  "text": "The Espacio CDMX is a gallery in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.202804,
+                        19.41119
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Cartografía",
+                  "text": "The Museo Nacional de la Cartografía is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.191798,
+                        19.404457
+                  ]
+            },
+            {
+                  "name": "Museo de Historia Natural y Cultura Ambiental",
+                  "text": "The Museo de Historia Natural y Cultura Ambiental is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.2015,
+                        19.409971
+                  ]
+            },
+            {
+                  "name": "Mapoteca Manuel Orozco y Berra",
+                  "text": "The Mapoteca Manuel Orozco y Berra is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196764,
+                        19.404265
+                  ]
+            },
+            {
+                  "name": "Museo de Geofísica de la UNAM",
+                  "text": "The Museo de Geofísica de la UNAM is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.195251,
+                        19.404514
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Ambiental",
+                  "text": "The Centro de Cultura Ambiental is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.198258,
+                        19.410848
+                  ]
+            },
+            {
+                  "name": "Museo Casa de la Bola",
+                  "text": "The Museo Casa de la Bola is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.188831,
+                        19.404728
+                  ]
+            },
+            {
+                  "name": "Casa Gilardi, Luis Barragán 1976",
+                  "text": "The Casa Gilardi, Luis Barragán 1976 is a museum in Chapultepec Zoo Life v2.",
+                  "category": "museum",
+                  "coords": [
+                        -99.186235,
+                        19.41424
+                  ]
+            },
+            {
+                  "name": "FUENTE",
+                  "text": "The FUENTE is a monument in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203921,
+                        19.387904
+                  ]
+            },
+            {
+                  "name": "Tomáš Garrigue Masaryk 1850-1937",
+                  "text": "The Tomáš Garrigue Masaryk 1850-1937 is a monument in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.191177,
+                        19.431534
+                  ]
+            },
+            {
+                  "name": "Molino de Santo Domingo",
+                  "text": "The Molino de Santo Domingo is a monument in Chapultepec Zoo Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -99.193917,
+                        19.402823
+                  ]
+            },
+            {
+                  "name": "Auditorio Adrián Gibert",
+                  "text": "The Auditorio Adrián Gibert is a theatre in Chapultepec Zoo Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.181253,
+                        19.407138
+                  ]
+            },
+            {
+                  "name": "Teatro Hipódromo Condesa",
+                  "text": "The Teatro Hipódromo Condesa is a theatre in Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.18468,
+                        19.406563
+                  ]
+            },
+            {
+                  "name": "Centro Cultural del Bosque",
+                  "text": "The Centro Cultural del Bosque is an arts centre in Chapultepec, Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.195433,
+                        19.423727
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.1867, 19.4165],
@@ -53,7 +1286,1096 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "san-juan-de-aragon-zoo-life-v2",
+    id: "san-juan-de-aragon-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Las Torres",
+                  "text": "Ein Denkmal im Stadtteil San Juan de Aragón von Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.045858,
+                        19.475183
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de México",
+                  "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage im Gebiet San Juan de Aragón von Mexiko-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -99.086824,
+                        19.465894
+                  ]
+            },
+            {
+                  "name": "Bosque de San Juan de Aragón",
+                  "text": "Ein großer Stadtpark im Gebiet San Juan de Aragón von Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.07338,
+                        19.460408
+                  ]
+            },
+            {
+                  "name": "Peñón de los baños",
+                  "text": "Ein kleiner Hügel im Gebiet San Juan de Aragón von Mexiko-Stadt mit prähispanischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        -99.082743,
+                        19.441046
+                  ]
+            },
+            {
+                  "name": "Alameda Oriente",
+                  "text": "Ein öffentlicher Park im Osten von Mexiko-Stadt, nahe San Juan de Aragón.",
+                  "category": "park",
+                  "coords": [
+                        -99.054209,
+                        19.435696
+                  ]
+            },
+            {
+                  "name": "Proyecto Ecológico Lago de Texcoco (PELT)",
+                  "text": "Ein ökologisches Parkprojekt um den Texcoco-See im Raum Mexiko-Stadt.",
+                  "category": "park",
+                  "coords": [
+                        -98.985819,
+                        19.481469
+                  ]
+            },
+            {
+                  "name": "Zoológico de San Juan de Aragón",
+                  "text": "Ein Zoo im Gebiet San Juan de Aragón von Mexiko-Stadt mit einer Vielzahl von Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.083555,
+                        19.461538
+                  ]
+            },
+            {
+                  "name": "Jardín de las Campanas",
+                  "text": "Eine Galerie im Gebiet San Juan de Aragón von Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.073597,
+                        19.463918
+                  ]
+            },
+            {
+                  "name": "C47 - El Mexicano",
+                  "text": "Ein Denkmal im Stadtteil San Juan de Aragón von Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074524,
+                        19.423332
+                  ]
+            },
+            {
+                  "name": "Torre 8",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088311,
+                        19.454203
+                  ]
+            },
+            {
+                  "name": "Torre VI",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088075,
+                        19.462116
+                  ]
+            },
+            {
+                  "name": "Torre XIII",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074216,
+                        19.451278
+                  ]
+            },
+            {
+                  "name": "Torre XVI",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06862,
+                        19.448543
+                  ]
+            },
+            {
+                  "name": "Torre XV",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06914,
+                        19.452551
+                  ]
+            },
+            {
+                  "name": "Torre XIV",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.07043,
+                        19.455723
+                  ]
+            },
+            {
+                  "name": "Torre V",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089388,
+                        19.458651
+                  ]
+            },
+            {
+                  "name": "Torre IV",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.091086,
+                        19.454194
+                  ]
+            },
+            {
+                  "name": "Torre VII",
+                  "text": "Ein Turmdenkmal in San Juan de Aragón, Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089759,
+                        19.450356
+                  ]
+            },
+            {
+                  "name": "Torre I",
+                  "text": "Ein Turm im Zoo von San Juan de Aragón.",
+                  "category": "historical",
+                  "coords": [
+                        -99.095812,
+                        19.456316
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Denkmal zu Ehren der mexikanischen Dichterin und Nonne Sor Juana Inés de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014712,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Kulturzentrum in San Juan de Aragón für Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Kunstzentrum in San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Kulturzentrum „El Castillito“ in San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Teatro José Vasconcelos",
+                  "text": "Theater benannt nach dem mexikanischen Schriftsteller und Politiker José Vasconcelos.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.046331,
+                        19.476404
+                  ]
+            },
+            {
+                  "name": "Baños Medicinales del Peñón",
+                  "text": "Medizinische Bäder in San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086881,
+                        19.438244
+                  ]
+            },
+            {
+                  "name": "Gallina de Guinea",
+                  "text": "Ein Perlhuhn als Attraktion im Zoo von San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086341,
+                        19.463408
+                  ]
+            },
+            {
+                  "name": "León Africano",
+                  "text": "Ein afrikanischer Löwe im Zoo von San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.085613,
+                        19.464345
+                  ]
+            },
+            {
+                  "name": "Elefante Asiático",
+                  "text": "Ein asiatischer Elefant im Zoo von San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084629,
+                        19.46364
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "Eine Attraktion im Zoo von San Juan de Aragón mit dem Namen „EL PULPO ACUATICO“.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Playa de Aves",
+                  "text": "Ein Aussichtspunkt auf die Vogelwelt im Zoo von San Juan de Aragón.",
+                  "category": "natural",
+                  "coords": [
+                        -99.070916,
+                        19.461213
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Las Torres",
+                  "text": "Emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.045858,
+                        19.475183
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de México",
+                  "text": "Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -99.086824,
+                        19.465894
+                  ]
+            },
+            {
+                  "name": "Bosque de San Juan de Aragón",
+                  "text": "Nagy városi park Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.07338,
+                        19.460408
+                  ]
+            },
+            {
+                  "name": "Peñón de los baños",
+                  "text": "Kicsi domb Mexikóváros San Juan de Aragón negyedében, prehispán jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -99.082743,
+                        19.441046
+                  ]
+            },
+            {
+                  "name": "Alameda Oriente",
+                  "text": "Közpark Mexikóváros keleti részén, San Juan de Aragón közelében.",
+                  "category": "park",
+                  "coords": [
+                        -99.054209,
+                        19.435696
+                  ]
+            },
+            {
+                  "name": "Proyecto Ecológico Lago de Texcoco (PELT)",
+                  "text": "Ökológiai parkprojekt a Texcoco-tó körül Mexikóváros térségében.",
+                  "category": "park",
+                  "coords": [
+                        -98.985819,
+                        19.481469
+                  ]
+            },
+            {
+                  "name": "Zoológico de San Juan de Aragón",
+                  "text": "Állatkert Mexikóváros San Juan de Aragón negyedében, sokféle állatfajjal.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.083555,
+                        19.461538
+                  ]
+            },
+            {
+                  "name": "Jardín de las Campanas",
+                  "text": "Galéria Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -99.073597,
+                        19.463918
+                  ]
+            },
+            {
+                  "name": "C47 - El Mexicano",
+                  "text": "Emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074524,
+                        19.423332
+                  ]
+            },
+            {
+                  "name": "Torre 8",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088311,
+                        19.454203
+                  ]
+            },
+            {
+                  "name": "Torre VI",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088075,
+                        19.462116
+                  ]
+            },
+            {
+                  "name": "Torre XIII",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074216,
+                        19.451278
+                  ]
+            },
+            {
+                  "name": "Torre XVI",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06862,
+                        19.448543
+                  ]
+            },
+            {
+                  "name": "Torre XV",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06914,
+                        19.452551
+                  ]
+            },
+            {
+                  "name": "Torre XIV",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.07043,
+                        19.455723
+                  ]
+            },
+            {
+                  "name": "Torre V",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089388,
+                        19.458651
+                  ]
+            },
+            {
+                  "name": "Torre IV",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.091086,
+                        19.454194
+                  ]
+            },
+            {
+                  "name": "Torre VII",
+                  "text": "Torony emlékmű Mexikóváros San Juan de Aragón negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089759,
+                        19.450356
+                  ]
+            },
+            {
+                  "name": "Torre I",
+                  "text": "Egy torony a San Juan de Aragón-i állatkertben.",
+                  "category": "historical",
+                  "coords": [
+                        -99.095812,
+                        19.456316
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "A mexikói költőnő és apáca, Sor Juana Inés de la Cruz tiszteletére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014712,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Kulturális központ San Juan de Aragónban előadások és események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Művészeti központ San Juan de Aragónban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "„El Castillito“ kulturális központ San Juan de Aragónban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Teatro José Vasconcelos",
+                  "text": "José Vasconcelos mexikói író és politikus nevét viselő színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.046331,
+                        19.476404
+                  ]
+            },
+            {
+                  "name": "Baños Medicinales del Peñón",
+                  "text": "Gyógyfürdők San Juan de Aragónban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086881,
+                        19.438244
+                  ]
+            },
+            {
+                  "name": "Gallina de Guinea",
+                  "text": "Egy gyöngytyúk látványosság a San Juan de Aragón-i állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086341,
+                        19.463408
+                  ]
+            },
+            {
+                  "name": "León Africano",
+                  "text": "Egy afrikai oroszlán a San Juan de Aragón-i állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.085613,
+                        19.464345
+                  ]
+            },
+            {
+                  "name": "Elefante Asiático",
+                  "text": "Egy ázsiai elefánt a San Juan de Aragón-i állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084629,
+                        19.46364
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "Egy látványosság a San Juan de Aragón-i állatkertben „EL PULPO ACUATICO” néven.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Playa de Aves",
+                  "text": "Egy kilátópont a madárvilágra a San Juan de Aragón-i állatkertben.",
+                  "category": "natural",
+                  "coords": [
+                        -99.070916,
+                        19.461213
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Las Torres",
+                  "text": "Un monument în districtul San Juan de Aragón din Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.045858,
+                        19.475183
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de México",
+                  "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă în zona San Juan de Aragón din Ciudad de México.",
+                  "category": "religious",
+                  "coords": [
+                        -99.086824,
+                        19.465894
+                  ]
+            },
+            {
+                  "name": "Bosque de San Juan de Aragón",
+                  "text": "Un parc urban mare în zona San Juan de Aragón din Ciudad de México.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.07338,
+                        19.460408
+                  ]
+            },
+            {
+                  "name": "Peñón de los baños",
+                  "text": "Un deal mic în zona San Juan de Aragón din Ciudad de México cu semnificație prehispanică.",
+                  "category": "natural",
+                  "coords": [
+                        -99.082743,
+                        19.441046
+                  ]
+            },
+            {
+                  "name": "Alameda Oriente",
+                  "text": "Un parc public în estul Ciudad de México, aproape de San Juan de Aragón.",
+                  "category": "park",
+                  "coords": [
+                        -99.054209,
+                        19.435696
+                  ]
+            },
+            {
+                  "name": "Proyecto Ecológico Lago de Texcoco (PELT)",
+                  "text": "Un proiect de parc ecologic în jurul lacului Texcoco în zona Ciudad de México.",
+                  "category": "park",
+                  "coords": [
+                        -98.985819,
+                        19.481469
+                  ]
+            },
+            {
+                  "name": "Zoológico de San Juan de Aragón",
+                  "text": "O grădină zoologică în zona San Juan de Aragón din Ciudad de México cu o varietate de specii animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.083555,
+                        19.461538
+                  ]
+            },
+            {
+                  "name": "Jardín de las Campanas",
+                  "text": "O galerie în zona San Juan de Aragón din Ciudad de México.",
+                  "category": "museum",
+                  "coords": [
+                        -99.073597,
+                        19.463918
+                  ]
+            },
+            {
+                  "name": "C47 - El Mexicano",
+                  "text": "Un monument în districtul San Juan de Aragón din Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074524,
+                        19.423332
+                  ]
+            },
+            {
+                  "name": "Torre 8",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088311,
+                        19.454203
+                  ]
+            },
+            {
+                  "name": "Torre VI",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088075,
+                        19.462116
+                  ]
+            },
+            {
+                  "name": "Torre XIII",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074216,
+                        19.451278
+                  ]
+            },
+            {
+                  "name": "Torre XVI",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06862,
+                        19.448543
+                  ]
+            },
+            {
+                  "name": "Torre XV",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06914,
+                        19.452551
+                  ]
+            },
+            {
+                  "name": "Torre XIV",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.07043,
+                        19.455723
+                  ]
+            },
+            {
+                  "name": "Torre V",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089388,
+                        19.458651
+                  ]
+            },
+            {
+                  "name": "Torre IV",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.091086,
+                        19.454194
+                  ]
+            },
+            {
+                  "name": "Torre VII",
+                  "text": "Un monument-turn în San Juan de Aragón, Ciudad de México.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089759,
+                        19.450356
+                  ]
+            },
+            {
+                  "name": "Torre I",
+                  "text": "Un turn în grădina zoologică din San Juan de Aragón.",
+                  "category": "historical",
+                  "coords": [
+                        -99.095812,
+                        19.456316
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Monument în onoarea poetei și călugăriței mexicane Sor Juana Inés de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014712,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Centru cultural în San Juan de Aragón pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Centru de artă în San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Centrul cultural „El Castillito” în San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Teatro José Vasconcelos",
+                  "text": "Teatru numit după scriitorul și politicianul mexican José Vasconcelos.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.046331,
+                        19.476404
+                  ]
+            },
+            {
+                  "name": "Baños Medicinales del Peñón",
+                  "text": "Băi medicinale în San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086881,
+                        19.438244
+                  ]
+            },
+            {
+                  "name": "Gallina de Guinea",
+                  "text": "O bibilică ca atracție în grădina zoologică din San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086341,
+                        19.463408
+                  ]
+            },
+            {
+                  "name": "León Africano",
+                  "text": "Un leu african în grădina zoologică din San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.085613,
+                        19.464345
+                  ]
+            },
+            {
+                  "name": "Elefante Asiático",
+                  "text": "Un elefant asiatic în grădina zoologică din San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084629,
+                        19.46364
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "O atracție în grădina zoologică din San Juan de Aragón numită „EL PULPO ACUATICO”.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Playa de Aves",
+                  "text": "Un punct de belvedere asupra păsărilor în grădina zoologică din San Juan de Aragón.",
+                  "category": "natural",
+                  "coords": [
+                        -99.070916,
+                        19.461213
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Las Torres",
+                  "text": "A monument in the San Juan de Aragón district of Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.045858,
+                        19.475183
+                  ]
+            },
+            {
+                  "name": "Mexico City Mexico Temple",
+                  "text": "A Latter-day Saint temple in the San Juan de Aragón area of Mexico City.",
+                  "category": "religious",
+                  "coords": [
+                        -99.086824,
+                        19.465894
+                  ]
+            },
+            {
+                  "name": "Bosque de San Juan de Aragón",
+                  "text": "A large urban park in the San Juan de Aragón area of Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.07338,
+                        19.460408
+                  ]
+            },
+            {
+                  "name": "Peñón de los baños",
+                  "text": "A small hill in the San Juan de Aragón area of Mexico City with pre-Hispanic significance.",
+                  "category": "natural",
+                  "coords": [
+                        -99.082743,
+                        19.441046
+                  ]
+            },
+            {
+                  "name": "Alameda Oriente",
+                  "text": "A public park in eastern Mexico City, near San Juan de Aragón.",
+                  "category": "park",
+                  "coords": [
+                        -99.054209,
+                        19.435696
+                  ]
+            },
+            {
+                  "name": "Proyecto Ecológico Lago de Texcoco (PELT)",
+                  "text": "An ecological park project around Lake Texcoco in the Mexico City area.",
+                  "category": "park",
+                  "coords": [
+                        -98.985819,
+                        19.481469
+                  ]
+            },
+            {
+                  "name": "Zoológico de San Juan de Aragón",
+                  "text": "A zoo in the San Juan de Aragón area of Mexico City housing a variety of animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.083555,
+                        19.461538
+                  ]
+            },
+            {
+                  "name": "Jardín de las Campanas",
+                  "text": "A gallery in the San Juan de Aragón area of Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.073597,
+                        19.463918
+                  ]
+            },
+            {
+                  "name": "C47 - El Mexicano",
+                  "text": "A monument in the San Juan de Aragón district of Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074524,
+                        19.423332
+                  ]
+            },
+            {
+                  "name": "Torre 8",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088311,
+                        19.454203
+                  ]
+            },
+            {
+                  "name": "Torre VI",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.088075,
+                        19.462116
+                  ]
+            },
+            {
+                  "name": "Torre XIII",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.074216,
+                        19.451278
+                  ]
+            },
+            {
+                  "name": "Torre XVI",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06862,
+                        19.448543
+                  ]
+            },
+            {
+                  "name": "Torre XV",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.06914,
+                        19.452551
+                  ]
+            },
+            {
+                  "name": "Torre XIV",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.07043,
+                        19.455723
+                  ]
+            },
+            {
+                  "name": "Torre V",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089388,
+                        19.458651
+                  ]
+            },
+            {
+                  "name": "Torre IV",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.091086,
+                        19.454194
+                  ]
+            },
+            {
+                  "name": "Torre VII",
+                  "text": "A tower monument in San Juan de Aragón, Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.089759,
+                        19.450356
+                  ]
+            },
+            {
+                  "name": "Torre I",
+                  "text": "A tower in the San Juan de Aragón zoo.",
+                  "category": "historical",
+                  "coords": [
+                        -99.095812,
+                        19.456316
+                  ]
+            },
+            {
+                  "name": "Sor Juana Ines de la Cruz",
+                  "text": "Monument honoring the Mexican poet and nun Sor Juana Inés de la Cruz.",
+                  "category": "historical",
+                  "coords": [
+                        -99.014712,
+                        19.405658
+                  ]
+            },
+            {
+                  "name": "Auditorio la Salle",
+                  "text": "Arts centre in San Juan de Aragón for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016317,
+                        19.422449
+                  ]
+            },
+            {
+                  "name": "Marbet",
+                  "text": "Arts centre in San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.016664,
+                        19.413906
+                  ]
+            },
+            {
+                  "name": "Centro Cultural \"El Castillito\"",
+                  "text": "Cultural centre „El Castillito” in San Juan de Aragón.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.009774,
+                        19.403373
+                  ]
+            },
+            {
+                  "name": "Teatro José Vasconcelos",
+                  "text": "Theatre named after Mexican writer and politician José Vasconcelos.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.046331,
+                        19.476404
+                  ]
+            },
+            {
+                  "name": "Baños Medicinales del Peñón",
+                  "text": "Medicinal baths in San Juan de Aragón.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086881,
+                        19.438244
+                  ]
+            },
+            {
+                  "name": "Gallina de Guinea",
+                  "text": "A guinea fowl as an attraction in the San Juan de Aragón zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.086341,
+                        19.463408
+                  ]
+            },
+            {
+                  "name": "León Africano",
+                  "text": "An African lion in the San Juan de Aragón zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.085613,
+                        19.464345
+                  ]
+            },
+            {
+                  "name": "Elefante Asiático",
+                  "text": "An Asian elephant in the San Juan de Aragón zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.084629,
+                        19.46364
+                  ]
+            },
+            {
+                  "name": "EL PULPO ACUATICO",
+                  "text": "An attraction in the San Juan de Aragón zoo called „EL PULPO ACUATICO”.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.034013,
+                        19.402114
+                  ]
+            },
+            {
+                  "name": "Playa de Aves",
+                  "text": "A viewpoint over the birdlife in the San Juan de Aragón zoo.",
+                  "category": "natural",
+                  "coords": [
+                        -99.070916,
+                        19.461213
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.0595, 19.4535],
@@ -103,7 +2425,1168 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "guadalajara-zoo-life-v2",
+    id: "guadalajara-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Selva Magica",
+                  "text": "Selva Mágica ist ein beliebter Vergnügungspark in Guadalajara mit Fahrgeschäften und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.311196,
+                        20.724322
+                  ]
+            },
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Auditorio Telmex ist eine moderne Veranstaltungsstätte für darstellende Künste in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381243,
+                        20.73336
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Constitución",
+                  "text": "Centro Cultural Constitución ist ein Kulturzentrum und Theater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.368066,
+                        20.727411
+                  ]
+            },
+            {
+                  "name": "Zoológico Guadalajara",
+                  "text": "Der Zoo von Guadalajara ist ein großer Zoo mit einer Vielzahl von Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.307654,
+                        20.728364
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Ambientales",
+                  "text": "Umweltwissenschaftliches Museum in Guadalajara mit Schwerpunkt auf Ökologie und Natur.",
+                  "category": "museum",
+                  "coords": [
+                        -103.381161,
+                        20.735241
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel -Escala-",
+                  "text": "Eine maßstabsgetreue Nachbildung des Eiffelturms in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.271686,
+                        20.694046
+                  ]
+            },
+            {
+                  "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
+                  "text": "Ruinen des ehemaligen Planetariums Severo Díaz Galindo in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309434,
+                        20.71886
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "Die archäologische Stätte El Grillo in Guadalajara, eine prähispanische Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Dieses Theater befindet sich in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Foro Ichitan Río Verde",
+                  "text": "Das Foro Ichitan Río Verde ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.289025,
+                        20.698589
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.73721
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736455
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Das Teatro Estudio Cavaret ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736814
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Das Auditorio Central ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Independencia",
+                  "text": "Das Anfiteatro Independencia ist ein Theater in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.310856,
+                        20.741421
+                  ]
+            },
+            {
+                  "name": "Centro Holístico Macuilli Tepec",
+                  "text": "Das Centro Holístico Macuilli Tepec ist eine ganzheitliche Einrichtung in Guadalajara Zoo Life.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.235632,
+                        20.693025
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cañon Escarpado",
+                  "text": "Der Mirador Del Cañon Escarpado ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.374984,
+                        20.75823
+                  ]
+            },
+            {
+                  "name": "Parque Mirador Dr. Atl",
+                  "text": "Der Parque Mirador Dr. Atl ist ein Aussichtspunkt, benannt nach dem mexikanischen Künstler Dr. Atl.",
+                  "category": "natural",
+                  "coords": [
+                        -103.344203,
+                        20.795063
+                  ]
+            },
+            {
+                  "name": "Mirador \"Las Cañadas\"",
+                  "text": "Der Mirador \"Las Cañadas\" ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.372884,
+                        20.766212
+                  ]
+            },
+            {
+                  "name": "El Riachelo",
+                  "text": "El Riachelo ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.371669,
+                        20.765382
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Eucaliptos",
+                  "text": "Der Mirador De Los Eucaliptos ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.379035,
+                        20.766707
+                  ]
+            },
+            {
+                  "name": "Mirador \"Lago El Centinela\"",
+                  "text": "Der Mirador \"Lago El Centinela\" ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.378634,
+                        20.765317
+                  ]
+            },
+            {
+                  "name": "Piedras Bola",
+                  "text": "Piedras Bola ist ein Aussichtspunkt mit großen runden Felsformationen in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.375593,
+                        20.766298
+                  ]
+            },
+            {
+                  "name": "Observatoire Du Roi Dakk",
+                  "text": "Das Observatoire Du Roi Dakk ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.376414,
+                        20.762115
+                  ]
+            },
+            {
+                  "name": "Pont De Rivière Profonde",
+                  "text": "Der Pont De Rivière Profonde ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.37803,
+                        20.763883
+                  ]
+            },
+            {
+                  "name": "Trône Du Roi Dakk",
+                  "text": "Der Trône Du Roi Dakk ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.393722,
+                        20.792451
+                  ]
+            },
+            {
+                  "name": "Mirador Del Ficus Insipida",
+                  "text": "Der Mirador Del Ficus Insipida ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.346266,
+                        20.817251
+                  ]
+            },
+            {
+                  "name": "Mirador Del Jabalí",
+                  "text": "Der Mirador Del Jabalí ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349135,
+                        20.820468
+                  ]
+            },
+            {
+                  "name": "Mirador Del Buitre",
+                  "text": "Der Mirador Del Buitre ist ein Aussichtspunkt in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349187,
+                        20.822644
+                  ]
+            },
+            {
+                  "name": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde",
+                  "text": "Das Área de Protección Estatal Barrancas de los Ríos Santiago y Verde ist ein Naturschutzgebiet mit tiefen Schluchten in Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.244946,
+                        20.713193
+                  ]
+            },
+            {
+                  "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
+                  "text": "Das Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente ist ein geschütztes Waldgebiet in Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.391785,
+                        20.79446
+                  ]
+            },
+            {
+                  "name": "Mundo Marino Guadalajara",
+                  "text": "Mundo Marino Guadalajara ist ein Aquarium in Guadalajara Zoo Life.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.310317,
+                        20.723397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Selva Magica",
+                  "text": "A Selva Mágica egy népszerű vidámpark Guadalajara-ban, hullámvasutakkal és attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.311196,
+                        20.724322
+                  ]
+            },
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Az Auditorio Telmex egy modern előadó-művészeti helyszín Guadalajara-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381243,
+                        20.73336
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Constitución",
+                  "text": "A Centro Cultural Constitución egy kulturális központ és színház Guadalajara-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.368066,
+                        20.727411
+                  ]
+            },
+            {
+                  "name": "Zoológico Guadalajara",
+                  "text": "A Guadalajarai Állatkert egy nagy állatkert, amely sokféle állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.307654,
+                        20.728364
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Ambientales",
+                  "text": "Környezettudományi Múzeum Guadalajara-ban, amely az ökológiára és a természetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -103.381161,
+                        20.735241
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel -Escala-",
+                  "text": "Az Eiffel-torony másolata Guadalajara-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.271686,
+                        20.694046
+                  ]
+            },
+            {
+                  "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
+                  "text": "A korábbi Severo Díaz Galindo planetárium romjai Guadalajara-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309434,
+                        20.71886
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "El Grillo régészeti lelőhely Guadalajara-ban, egy prehispán település.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Ez a színház a Guadalajara Zoo Life területén található.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Foro Ichitan Río Verde",
+                  "text": "A Foro Ichitan Río Verde egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.289025,
+                        20.698589
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Az Ágora Jenkins egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.73721
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "A Sala 2 egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736455
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "A Teatro Estudio Cavaret egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736814
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Az Auditorio Central egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Independencia",
+                  "text": "Az Anfiteatro Independencia egy színház a Guadalajara Zoo Life-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.310856,
+                        20.741421
+                  ]
+            },
+            {
+                  "name": "Centro Holístico Macuilli Tepec",
+                  "text": "A Centro Holístico Macuilli Tepec egy holisztikus központ a Guadalajara Zoo Life-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.235632,
+                        20.693025
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cañon Escarpado",
+                  "text": "A Mirador Del Cañon Escarpado egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.374984,
+                        20.75823
+                  ]
+            },
+            {
+                  "name": "Parque Mirador Dr. Atl",
+                  "text": "A Parque Mirador Dr. Atl egy kilátópont, amely a mexikói művész Dr. Atl nevét viseli.",
+                  "category": "natural",
+                  "coords": [
+                        -103.344203,
+                        20.795063
+                  ]
+            },
+            {
+                  "name": "Mirador \"Las Cañadas\"",
+                  "text": "A Mirador \"Las Cañadas\" egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.372884,
+                        20.766212
+                  ]
+            },
+            {
+                  "name": "El Riachelo",
+                  "text": "Az El Riachelo egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.371669,
+                        20.765382
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Eucaliptos",
+                  "text": "A Mirador De Los Eucaliptos egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.379035,
+                        20.766707
+                  ]
+            },
+            {
+                  "name": "Mirador \"Lago El Centinela\"",
+                  "text": "A Mirador \"Lago El Centinela\" egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.378634,
+                        20.765317
+                  ]
+            },
+            {
+                  "name": "Piedras Bola",
+                  "text": "A Piedras Bola egy kilátópont nagy kerek sziklaformációkkal a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.375593,
+                        20.766298
+                  ]
+            },
+            {
+                  "name": "Observatoire Du Roi Dakk",
+                  "text": "Az Observatoire Du Roi Dakk egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.376414,
+                        20.762115
+                  ]
+            },
+            {
+                  "name": "Pont De Rivière Profonde",
+                  "text": "A Pont De Rivière Profonde egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.37803,
+                        20.763883
+                  ]
+            },
+            {
+                  "name": "Trône Du Roi Dakk",
+                  "text": "A Trône Du Roi Dakk egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.393722,
+                        20.792451
+                  ]
+            },
+            {
+                  "name": "Mirador Del Ficus Insipida",
+                  "text": "A Mirador Del Ficus Insipida egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.346266,
+                        20.817251
+                  ]
+            },
+            {
+                  "name": "Mirador Del Jabalí",
+                  "text": "A Mirador Del Jabalí egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349135,
+                        20.820468
+                  ]
+            },
+            {
+                  "name": "Mirador Del Buitre",
+                  "text": "A Mirador Del Buitre egy kilátópont a Guadalajara Zoo Life-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349187,
+                        20.822644
+                  ]
+            },
+            {
+                  "name": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde",
+                  "text": "Az Área de Protección Estatal Barrancas de los Ríos Santiago y Verde egy természetvédelmi terület mély szurdokokkal Guadalajarában.",
+                  "category": "natural",
+                  "coords": [
+                        -103.244946,
+                        20.713193
+                  ]
+            },
+            {
+                  "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
+                  "text": "Az Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente egy védett erdőterület Guadalajarában.",
+                  "category": "natural",
+                  "coords": [
+                        -103.391785,
+                        20.79446
+                  ]
+            },
+            {
+                  "name": "Mundo Marino Guadalajara",
+                  "text": "A Mundo Marino Guadalajara egy akvárium a Guadalajara Zoo Life-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.310317,
+                        20.723397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Selva Magica",
+                  "text": "Selva Mágica este un parc de distracții popular în Guadalajara, cu curse și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.311196,
+                        20.724322
+                  ]
+            },
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Auditorio Telmex este un loc modern pentru artele spectacolului în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381243,
+                        20.73336
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Constitución",
+                  "text": "Centro Cultural Constitución este un centru cultural și teatru în Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.368066,
+                        20.727411
+                  ]
+            },
+            {
+                  "name": "Zoológico Guadalajara",
+                  "text": "Grădina Zoologică Guadalajara este o grădină zoologică mare cu o varietate de specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.307654,
+                        20.728364
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Ambientales",
+                  "text": "Muzeul de Științe ale Mediului din Guadalajara, concentrându-se pe ecologie și natură.",
+                  "category": "museum",
+                  "coords": [
+                        -103.381161,
+                        20.735241
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel -Escala-",
+                  "text": "O replică la scară a Turnului Eiffel în Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.271686,
+                        20.694046
+                  ]
+            },
+            {
+                  "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
+                  "text": "Ruinele fostului planetariu Severo Díaz Galindo din Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309434,
+                        20.71886
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "Situl arheologic El Grillo în Guadalajara, o așezare prehispanică.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "Acest teatru este situat în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Foro Ichitan Río Verde",
+                  "text": "Foro Ichitan Río Verde este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.289025,
+                        20.698589
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.73721
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736455
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Teatro Estudio Cavaret este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736814
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Auditorio Central este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Independencia",
+                  "text": "Anfiteatro Independencia este un teatru în Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.310856,
+                        20.741421
+                  ]
+            },
+            {
+                  "name": "Centro Holístico Macuilli Tepec",
+                  "text": "Centro Holístico Macuilli Tepec este un centru holistic în Guadalajara Zoo Life.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.235632,
+                        20.693025
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cañon Escarpado",
+                  "text": "Mirador Del Cañon Escarpado este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.374984,
+                        20.75823
+                  ]
+            },
+            {
+                  "name": "Parque Mirador Dr. Atl",
+                  "text": "Parque Mirador Dr. Atl este un punct de belvedere numit după artistul mexican Dr. Atl.",
+                  "category": "natural",
+                  "coords": [
+                        -103.344203,
+                        20.795063
+                  ]
+            },
+            {
+                  "name": "Mirador \"Las Cañadas\"",
+                  "text": "Mirador \"Las Cañadas\" este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.372884,
+                        20.766212
+                  ]
+            },
+            {
+                  "name": "El Riachelo",
+                  "text": "El Riachelo este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.371669,
+                        20.765382
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Eucaliptos",
+                  "text": "Mirador De Los Eucaliptos este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.379035,
+                        20.766707
+                  ]
+            },
+            {
+                  "name": "Mirador \"Lago El Centinela\"",
+                  "text": "Mirador \"Lago El Centinela\" este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.378634,
+                        20.765317
+                  ]
+            },
+            {
+                  "name": "Piedras Bola",
+                  "text": "Piedras Bola este un punct de belvedere cu formațiuni stâncoase rotunde mari în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.375593,
+                        20.766298
+                  ]
+            },
+            {
+                  "name": "Observatoire Du Roi Dakk",
+                  "text": "Observatoire Du Roi Dakk este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.376414,
+                        20.762115
+                  ]
+            },
+            {
+                  "name": "Pont De Rivière Profonde",
+                  "text": "Pont De Rivière Profonde este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.37803,
+                        20.763883
+                  ]
+            },
+            {
+                  "name": "Trône Du Roi Dakk",
+                  "text": "Trône Du Roi Dakk este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.393722,
+                        20.792451
+                  ]
+            },
+            {
+                  "name": "Mirador Del Ficus Insipida",
+                  "text": "Mirador Del Ficus Insipida este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.346266,
+                        20.817251
+                  ]
+            },
+            {
+                  "name": "Mirador Del Jabalí",
+                  "text": "Mirador Del Jabalí este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349135,
+                        20.820468
+                  ]
+            },
+            {
+                  "name": "Mirador Del Buitre",
+                  "text": "Mirador Del Buitre este un punct de belvedere în Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349187,
+                        20.822644
+                  ]
+            },
+            {
+                  "name": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde",
+                  "text": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde este o rezervație naturală cu canioane adânci în Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.244946,
+                        20.713193
+                  ]
+            },
+            {
+                  "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
+                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente este o zonă forestieră protejată în Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.391785,
+                        20.79446
+                  ]
+            },
+            {
+                  "name": "Mundo Marino Guadalajara",
+                  "text": "Mundo Marino Guadalajara este un acvariu în Guadalajara Zoo Life.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.310317,
+                        20.723397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Selva Magica",
+                  "text": "Selva Mágica is a popular amusement park in Guadalajara with rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.311196,
+                        20.724322
+                  ]
+            },
+            {
+                  "name": "Auditorio Telmex",
+                  "text": "Auditorio Telmex is a modern performing arts venue in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381243,
+                        20.73336
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Constitución",
+                  "text": "Centro Cultural Constitución is a cultural center and theater in Guadalajara.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.368066,
+                        20.727411
+                  ]
+            },
+            {
+                  "name": "Zoológico Guadalajara",
+                  "text": "Guadalajara Zoo is a major zoo housing diverse animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.307654,
+                        20.728364
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Ambientales",
+                  "text": "Environmental Sciences Museum in Guadalajara focusing on ecology and nature.",
+                  "category": "museum",
+                  "coords": [
+                        -103.381161,
+                        20.735241
+                  ]
+            },
+            {
+                  "name": "Torre Eiffel -Escala-",
+                  "text": "A scale replica of the Eiffel Tower in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.271686,
+                        20.694046
+                  ]
+            },
+            {
+                  "name": "Ruinas del Planetario del Municipio de Guadalajara Severo Díaz Galindo",
+                  "text": "Ruins of the former planetarium Severo Díaz Galindo in Guadalajara.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309434,
+                        20.71886
+                  ]
+            },
+            {
+                  "name": "El Grillo",
+                  "text": "El Grillo archaeological site in Guadalajara, a pre-Hispanic settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -103.369594,
+                        20.73354
+                  ]
+            },
+            {
+                  "name": "Calle 2",
+                  "text": "This theatre is located in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.376515,
+                        20.734986
+                  ]
+            },
+            {
+                  "name": "Foro Ichitan Río Verde",
+                  "text": "Foro Ichitan Río Verde is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.289025,
+                        20.698589
+                  ]
+            },
+            {
+                  "name": "Ágora Jenkins",
+                  "text": "Ágora Jenkins is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.381026,
+                        20.73721
+                  ]
+            },
+            {
+                  "name": "Sala 2",
+                  "text": "Sala 2 is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.382035,
+                        20.736455
+                  ]
+            },
+            {
+                  "name": "Teatro Estudio Cavaret",
+                  "text": "Teatro Estudio Cavaret is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.378299,
+                        20.736814
+                  ]
+            },
+            {
+                  "name": "Auditorio Central",
+                  "text": "Auditorio Central is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.380751,
+                        20.741605
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Independencia",
+                  "text": "Anfiteatro Independencia is a theatre in Guadalajara Zoo Life.",
+                  "category": "cultural",
+                  "coords": [
+                        -103.310856,
+                        20.741421
+                  ]
+            },
+            {
+                  "name": "Centro Holístico Macuilli Tepec",
+                  "text": "Centro Holístico Macuilli Tepec is a holistic centre in Guadalajara Zoo Life.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.235632,
+                        20.693025
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cañon Escarpado",
+                  "text": "Mirador Del Cañon Escarpado is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.374984,
+                        20.75823
+                  ]
+            },
+            {
+                  "name": "Parque Mirador Dr. Atl",
+                  "text": "Parque Mirador Dr. Atl is a viewpoint named after the Mexican artist Dr. Atl.",
+                  "category": "natural",
+                  "coords": [
+                        -103.344203,
+                        20.795063
+                  ]
+            },
+            {
+                  "name": "Mirador \"Las Cañadas\"",
+                  "text": "Mirador \"Las Cañadas\" is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.372884,
+                        20.766212
+                  ]
+            },
+            {
+                  "name": "El Riachelo",
+                  "text": "El Riachelo is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.371669,
+                        20.765382
+                  ]
+            },
+            {
+                  "name": "Mirador De Los Eucaliptos",
+                  "text": "Mirador De Los Eucaliptos is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.379035,
+                        20.766707
+                  ]
+            },
+            {
+                  "name": "Mirador \"Lago El Centinela\"",
+                  "text": "Mirador \"Lago El Centinela\" is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.378634,
+                        20.765317
+                  ]
+            },
+            {
+                  "name": "Piedras Bola",
+                  "text": "Piedras Bola is a viewpoint featuring large spherical rock formations in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.375593,
+                        20.766298
+                  ]
+            },
+            {
+                  "name": "Observatoire Du Roi Dakk",
+                  "text": "Observatoire Du Roi Dakk is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.376414,
+                        20.762115
+                  ]
+            },
+            {
+                  "name": "Pont De Rivière Profonde",
+                  "text": "Pont De Rivière Profonde is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.37803,
+                        20.763883
+                  ]
+            },
+            {
+                  "name": "Trône Du Roi Dakk",
+                  "text": "Trône Du Roi Dakk is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.393722,
+                        20.792451
+                  ]
+            },
+            {
+                  "name": "Mirador Del Ficus Insipida",
+                  "text": "Mirador Del Ficus Insipida is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.346266,
+                        20.817251
+                  ]
+            },
+            {
+                  "name": "Mirador Del Jabalí",
+                  "text": "Mirador Del Jabalí is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349135,
+                        20.820468
+                  ]
+            },
+            {
+                  "name": "Mirador Del Buitre",
+                  "text": "Mirador Del Buitre is a viewpoint in Guadalajara Zoo Life.",
+                  "category": "natural",
+                  "coords": [
+                        -103.349187,
+                        20.822644
+                  ]
+            },
+            {
+                  "name": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde",
+                  "text": "Área de Protección Estatal Barrancas de los Ríos Santiago y Verde is a nature reserve known for its deep canyons in Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.244946,
+                        20.713193
+                  ]
+            },
+            {
+                  "name": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente",
+                  "text": "Área de Protección Hidrológica Municipal Bosque el Nixticuil - San Estebán - el Diente is a protected forest area in Guadalajara.",
+                  "category": "natural",
+                  "coords": [
+                        -103.391785,
+                        20.79446
+                  ]
+            },
+            {
+                  "name": "Mundo Marino Guadalajara",
+                  "text": "Mundo Marino Guadalajara is an aquarium in Guadalajara Zoo Life.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.310317,
+                        20.723397
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MX-JAL",
     coords: [-103.315, 20.742],
@@ -153,7 +3636,988 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "acuario-inbursa-life-v2",
+    id: "acuario-inbursa-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Árbol de Gernika",
+                  "text": "Der Árbol de Gernika ist eine Nachbildung des symbolischen Baums des Baskenlandes in Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.201886,
+                        19.433359
+                  ]
+            },
+            {
+                  "name": "Petróleos Mexicanos",
+                  "text": "Das Petróleos Mexicanos ist ein Monument zu Ehren der staatlichen Ölgesellschaft in Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203107,
+                        19.427455
+                  ]
+            },
+            {
+                  "name": "Taller de Arquitectura",
+                  "text": "Der Taller de Arquitectura ist eine Attraktion in Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.235064,
+                        19.41508
+                  ]
+            },
+            {
+                  "name": "Centro Banamex",
+                  "text": "Das Centro Banamex ist ein Theater in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.224082,
+                        19.440158
+                  ]
+            },
+            {
+                  "name": "Omega Dance",
+                  "text": "Omega Dance ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.266997,
+                        19.447038
+                  ]
+            },
+            {
+                  "name": "Casa de Música",
+                  "text": "Die Casa de Música ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.26524,
+                        19.440625
+                  ]
+            },
+            {
+                  "name": "Hospital Del Niño Dios",
+                  "text": "Das Hospital Del Niño Dios ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.259483,
+                        19.450098
+                  ]
+            },
+            {
+                  "name": "Academia Real",
+                  "text": "Die Academia Real ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277186,
+                        19.46111
+                  ]
+            },
+            {
+                  "name": "Edy Forever Dance",
+                  "text": "Edy Forever Dance ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280228,
+                        19.458228
+                  ]
+            },
+            {
+                  "name": "Payasos Ejecutivos",
+                  "text": "Payasos Ejecutivos ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.285027,
+                        19.454644
+                  ]
+            },
+            {
+                  "name": "Academia Feel Infinity",
+                  "text": "Academia Feel Infinity ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.287505,
+                        19.459679
+                  ]
+            },
+            {
+                  "name": "Zariñana Academy",
+                  "text": "Zariñana Academy ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.282787,
+                        19.438732
+                  ]
+            },
+            {
+                  "name": "Reparacion De Niños Dios",
+                  "text": "Reparacion De Niños Dios ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.281642,
+                        19.446663
+                  ]
+            },
+            {
+                  "name": "Mundo Fantastico",
+                  "text": "Mundo Fantastico ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280914,
+                        19.447779
+                  ]
+            },
+            {
+                  "name": "Clases De Pintura De Cerámica",
+                  "text": "Clases De Pintura De Cerámica ist ein Kunstzentrum in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277998,
+                        19.444396
+                  ]
+            },
+            {
+                  "name": "Mirador de lluvia",
+                  "text": "Der Mirador de lluvia ist ein Aussichtspunkt in Mexiko-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -99.219715,
+                        19.400183
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Nelson Mandela",
+                  "text": "Das Centro Cultural Nelson Mandela ist ein Museum, benannt nach Nelson Mandela, in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196206,
+                        19.429576
+                  ]
+            },
+            {
+                  "name": "Galería Oscar Román",
+                  "text": "Die Galería Oscar Román ist eine Galerie in Mexiko-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -99.197566,
+                        19.427661
+                  ]
+            },
+            {
+                  "name": "Granja las Américas",
+                  "text": "Die Granja las Américas ist ein Themenpark in Mexiko-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.225416,
+                        19.435628
+                  ]
+            },
+            {
+                  "name": "Santa Muerte",
+                  "text": "Santa Muerte ist eine Attraktion, die mit der gleichnamigen Volksheiligen verbunden ist, in Mexiko-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.243481,
+                        19.45263
+                  ]
+            },
+            {
+                  "name": "Parque Duraznos",
+                  "text": "Der Parque Duraznos ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -99.240118,
+                        19.408899
+                  ]
+            },
+            {
+                  "name": "Bosque de las Lomas",
+                  "text": "Der Bosque de las Lomas ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -99.244548,
+                        19.403408
+                  ]
+            },
+            {
+                  "name": "Auditorio Cri Crí",
+                  "text": "Das Auditorio Cri Crí ist ein Theater, benannt nach der mexikanischen Kinderfigur, in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.220417,
+                        19.398046
+                  ]
+            },
+            {
+                  "name": "Glorieta Bosques",
+                  "text": "Die Glorieta Bosques ist ein Naturschutzgebiet in Mexiko-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -99.2333,
+                        19.40704
+                  ]
+            },
+            {
+                  "name": "Auditorio Alfonso Reyes",
+                  "text": "Das Auditorio Alfonso Reyes ist ein Theater, benannt nach dem mexikanischen Schriftsteller, in Mexiko-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.222232,
+                        19.397944
+                  ]
+            },
+            {
+                  "name": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano",
+                  "text": "Das Monumento Magno Conmemorativo del Centenario del Ejército Mexicano ist ein großes Monument zum hundertjährigen Bestehen der mexikanischen Armee in Mexiko-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -99.197247,
+                        19.42606
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "Das Teatro Angela Peralta ist ein Theater in Acuario Inbursa Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19446,
+                        19.429159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Árbol de Gernika",
+                  "text": "Az Árbol de Gernika a baszk függetlenség szimbolikus fájának másolata Mexikóvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.201886,
+                        19.433359
+                  ]
+            },
+            {
+                  "name": "Petróleos Mexicanos",
+                  "text": "A Petróleos Mexicanos egy emlékmű az állami olajtársaság tiszteletére Mexikóvárosban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203107,
+                        19.427455
+                  ]
+            },
+            {
+                  "name": "Taller de Arquitectura",
+                  "text": "A Taller de Arquitectura egy látványosság Mexikóvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.235064,
+                        19.41508
+                  ]
+            },
+            {
+                  "name": "Centro Banamex",
+                  "text": "A Centro Banamex egy színház Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.224082,
+                        19.440158
+                  ]
+            },
+            {
+                  "name": "Omega Dance",
+                  "text": "Az Omega Dance egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.266997,
+                        19.447038
+                  ]
+            },
+            {
+                  "name": "Casa de Música",
+                  "text": "A Casa de Música egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.26524,
+                        19.440625
+                  ]
+            },
+            {
+                  "name": "Hospital Del Niño Dios",
+                  "text": "A Hospital Del Niño Dios egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.259483,
+                        19.450098
+                  ]
+            },
+            {
+                  "name": "Academia Real",
+                  "text": "Az Academia Real egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277186,
+                        19.46111
+                  ]
+            },
+            {
+                  "name": "Edy Forever Dance",
+                  "text": "Edy Forever Dance egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280228,
+                        19.458228
+                  ]
+            },
+            {
+                  "name": "Payasos Ejecutivos",
+                  "text": "Payasos Ejecutivos egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.285027,
+                        19.454644
+                  ]
+            },
+            {
+                  "name": "Academia Feel Infinity",
+                  "text": "Academia Feel Infinity egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.287505,
+                        19.459679
+                  ]
+            },
+            {
+                  "name": "Zariñana Academy",
+                  "text": "Zariñana Academy egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.282787,
+                        19.438732
+                  ]
+            },
+            {
+                  "name": "Reparacion De Niños Dios",
+                  "text": "Reparacion De Niños Dios egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.281642,
+                        19.446663
+                  ]
+            },
+            {
+                  "name": "Mundo Fantastico",
+                  "text": "Mundo Fantastico egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280914,
+                        19.447779
+                  ]
+            },
+            {
+                  "name": "Clases De Pintura De Cerámica",
+                  "text": "Clases De Pintura De Cerámica egy művészeti központ Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277998,
+                        19.444396
+                  ]
+            },
+            {
+                  "name": "Mirador de lluvia",
+                  "text": "A Mirador de lluvia egy kilátó Mexikóvárosban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.219715,
+                        19.400183
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Nelson Mandela",
+                  "text": "A Centro Cultural Nelson Mandela egy múzeum, amelyet Nelson Mandeláról neveztek el Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196206,
+                        19.429576
+                  ]
+            },
+            {
+                  "name": "Galería Oscar Román",
+                  "text": "A Galería Oscar Román egy galéria Mexikóvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.197566,
+                        19.427661
+                  ]
+            },
+            {
+                  "name": "Granja las Américas",
+                  "text": "A Granja las Américas egy tematikus park Mexikóvárosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.225416,
+                        19.435628
+                  ]
+            },
+            {
+                  "name": "Santa Muerte",
+                  "text": "Santa Muerte egy látványosság, amely a névadó népi szenthez kapcsolódik Mexikóvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.243481,
+                        19.45263
+                  ]
+            },
+            {
+                  "name": "Parque Duraznos",
+                  "text": "A Parque Duraznos egy természetvédelmi terület Mexikóvárosban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.240118,
+                        19.408899
+                  ]
+            },
+            {
+                  "name": "Bosque de las Lomas",
+                  "text": "A Bosque de las Lomas egy természetvédelmi terület Mexikóvárosban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.244548,
+                        19.403408
+                  ]
+            },
+            {
+                  "name": "Auditorio Cri Crí",
+                  "text": "Az Auditorio Cri Crí egy színház, amelyet a mexikói gyermekfiguráról neveztek el Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.220417,
+                        19.398046
+                  ]
+            },
+            {
+                  "name": "Glorieta Bosques",
+                  "text": "A Glorieta Bosques egy természetvédelmi terület Mexikóvárosban.",
+                  "category": "natural",
+                  "coords": [
+                        -99.2333,
+                        19.40704
+                  ]
+            },
+            {
+                  "name": "Auditorio Alfonso Reyes",
+                  "text": "Az Auditorio Alfonso Reyes egy színház, amelyet a mexikói íróról neveztek el Mexikóvárosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.222232,
+                        19.397944
+                  ]
+            },
+            {
+                  "name": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano",
+                  "text": "A Monumento Magno Conmemorativo del Centenario del Ejército Mexicano egy nagy emlékmű a mexikói hadsereg centenáriumára Mexikóvárosban.",
+                  "category": "historical",
+                  "coords": [
+                        -99.197247,
+                        19.42606
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "A Teatro Angela Peralta egy színház az Acuario Inbursa Life v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19446,
+                        19.429159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Árbol de Gernika",
+                  "text": "Árbol de Gernika este o replică a copacului simbolic al Țării Bascilor din Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.201886,
+                        19.433359
+                  ]
+            },
+            {
+                  "name": "Petróleos Mexicanos",
+                  "text": "Petróleos Mexicanos este un monument în cinstea companiei petroliere de stat din Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203107,
+                        19.427455
+                  ]
+            },
+            {
+                  "name": "Taller de Arquitectura",
+                  "text": "Taller de Arquitectura este o atracție în Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.235064,
+                        19.41508
+                  ]
+            },
+            {
+                  "name": "Centro Banamex",
+                  "text": "Centro Banamex este un teatru în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.224082,
+                        19.440158
+                  ]
+            },
+            {
+                  "name": "Omega Dance",
+                  "text": "Omega Dance este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.266997,
+                        19.447038
+                  ]
+            },
+            {
+                  "name": "Casa de Música",
+                  "text": "Casa de Música este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.26524,
+                        19.440625
+                  ]
+            },
+            {
+                  "name": "Hospital Del Niño Dios",
+                  "text": "Hospital Del Niño Dios este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.259483,
+                        19.450098
+                  ]
+            },
+            {
+                  "name": "Academia Real",
+                  "text": "Academia Real este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277186,
+                        19.46111
+                  ]
+            },
+            {
+                  "name": "Edy Forever Dance",
+                  "text": "Edy Forever Dance este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280228,
+                        19.458228
+                  ]
+            },
+            {
+                  "name": "Payasos Ejecutivos",
+                  "text": "Payasos Ejecutivos este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.285027,
+                        19.454644
+                  ]
+            },
+            {
+                  "name": "Academia Feel Infinity",
+                  "text": "Academia Feel Infinity este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.287505,
+                        19.459679
+                  ]
+            },
+            {
+                  "name": "Zariñana Academy",
+                  "text": "Zariñana Academy este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.282787,
+                        19.438732
+                  ]
+            },
+            {
+                  "name": "Reparacion De Niños Dios",
+                  "text": "Reparacion De Niños Dios este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.281642,
+                        19.446663
+                  ]
+            },
+            {
+                  "name": "Mundo Fantastico",
+                  "text": "Mundo Fantastico este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280914,
+                        19.447779
+                  ]
+            },
+            {
+                  "name": "Clases De Pintura De Cerámica",
+                  "text": "Clases De Pintura De Cerámica este un centru de artă în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277998,
+                        19.444396
+                  ]
+            },
+            {
+                  "name": "Mirador de lluvia",
+                  "text": "Mirador de lluvia este un punct de belvedere în Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.219715,
+                        19.400183
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Nelson Mandela",
+                  "text": "Centro Cultural Nelson Mandela este un muzeu numit după Nelson Mandela în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196206,
+                        19.429576
+                  ]
+            },
+            {
+                  "name": "Galería Oscar Román",
+                  "text": "Galería Oscar Román este o galerie în Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.197566,
+                        19.427661
+                  ]
+            },
+            {
+                  "name": "Granja las Américas",
+                  "text": "Granja las Américas este un parc tematic în Mexico City.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.225416,
+                        19.435628
+                  ]
+            },
+            {
+                  "name": "Santa Muerte",
+                  "text": "Santa Muerte este o atracție asociată cu sfânta populară omonimă în Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.243481,
+                        19.45263
+                  ]
+            },
+            {
+                  "name": "Parque Duraznos",
+                  "text": "Parque Duraznos este o rezervație naturală în Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.240118,
+                        19.408899
+                  ]
+            },
+            {
+                  "name": "Bosque de las Lomas",
+                  "text": "Bosque de las Lomas este o rezervație naturală în Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.244548,
+                        19.403408
+                  ]
+            },
+            {
+                  "name": "Auditorio Cri Crí",
+                  "text": "Auditorio Cri Crí este un teatru numit după personajul pentru copii mexican în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.220417,
+                        19.398046
+                  ]
+            },
+            {
+                  "name": "Glorieta Bosques",
+                  "text": "Glorieta Bosques este o rezervație naturală în Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.2333,
+                        19.40704
+                  ]
+            },
+            {
+                  "name": "Auditorio Alfonso Reyes",
+                  "text": "Auditorio Alfonso Reyes este un teatru numit după scriitorul mexican în Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.222232,
+                        19.397944
+                  ]
+            },
+            {
+                  "name": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano",
+                  "text": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano este un monument mare pentru centenarul Armatei Mexicane în Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.197247,
+                        19.42606
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "Teatrul Angela Peralta este un teatru în Acuario Inbursa Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19446,
+                        19.429159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Árbol de Gernika",
+                  "text": "Árbol de Gernika is a replica of the symbolic tree of Basque freedom in Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.201886,
+                        19.433359
+                  ]
+            },
+            {
+                  "name": "Petróleos Mexicanos",
+                  "text": "Petróleos Mexicanos is a monument honoring the state oil company in Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.203107,
+                        19.427455
+                  ]
+            },
+            {
+                  "name": "Taller de Arquitectura",
+                  "text": "Taller de Arquitectura is an attraction in Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.235064,
+                        19.41508
+                  ]
+            },
+            {
+                  "name": "Centro Banamex",
+                  "text": "Centro Banamex is a theatre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.224082,
+                        19.440158
+                  ]
+            },
+            {
+                  "name": "Omega Dance",
+                  "text": "Omega Dance is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.266997,
+                        19.447038
+                  ]
+            },
+            {
+                  "name": "Casa de Música",
+                  "text": "Casa de Música is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.26524,
+                        19.440625
+                  ]
+            },
+            {
+                  "name": "Hospital Del Niño Dios",
+                  "text": "Hospital Del Niño Dios is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.259483,
+                        19.450098
+                  ]
+            },
+            {
+                  "name": "Academia Real",
+                  "text": "Academia Real is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277186,
+                        19.46111
+                  ]
+            },
+            {
+                  "name": "Edy Forever Dance",
+                  "text": "Edy Forever Dance is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280228,
+                        19.458228
+                  ]
+            },
+            {
+                  "name": "Payasos Ejecutivos",
+                  "text": "Payasos Ejecutivos is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.285027,
+                        19.454644
+                  ]
+            },
+            {
+                  "name": "Academia Feel Infinity",
+                  "text": "Academia Feel Infinity is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.287505,
+                        19.459679
+                  ]
+            },
+            {
+                  "name": "Zariñana Academy",
+                  "text": "Zariñana Academy is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.282787,
+                        19.438732
+                  ]
+            },
+            {
+                  "name": "Reparacion De Niños Dios",
+                  "text": "Reparacion De Niños Dios is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.281642,
+                        19.446663
+                  ]
+            },
+            {
+                  "name": "Mundo Fantastico",
+                  "text": "Mundo Fantastico is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.280914,
+                        19.447779
+                  ]
+            },
+            {
+                  "name": "Clases De Pintura De Cerámica",
+                  "text": "Clases De Pintura De Cerámica is an arts centre in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.277998,
+                        19.444396
+                  ]
+            },
+            {
+                  "name": "Mirador de lluvia",
+                  "text": "Mirador de lluvia is a viewpoint in Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.219715,
+                        19.400183
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Nelson Mandela",
+                  "text": "Centro Cultural Nelson Mandela is a museum named after Nelson Mandela in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.196206,
+                        19.429576
+                  ]
+            },
+            {
+                  "name": "Galería Oscar Román",
+                  "text": "Galería Oscar Román is a gallery in Mexico City.",
+                  "category": "museum",
+                  "coords": [
+                        -99.197566,
+                        19.427661
+                  ]
+            },
+            {
+                  "name": "Granja las Américas",
+                  "text": "Granja las Américas is a theme park in Mexico City.",
+                  "category": "recreational",
+                  "coords": [
+                        -99.225416,
+                        19.435628
+                  ]
+            },
+            {
+                  "name": "Santa Muerte",
+                  "text": "Santa Muerte is an attraction associated with the folk saint of the same name in Mexico City.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.243481,
+                        19.45263
+                  ]
+            },
+            {
+                  "name": "Parque Duraznos",
+                  "text": "Parque Duraznos is a nature reserve in Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.240118,
+                        19.408899
+                  ]
+            },
+            {
+                  "name": "Bosque de las Lomas",
+                  "text": "Bosque de las Lomas is a nature reserve in Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.244548,
+                        19.403408
+                  ]
+            },
+            {
+                  "name": "Auditorio Cri Crí",
+                  "text": "Auditorio Cri Crí is a theatre named after the Mexican children's character in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.220417,
+                        19.398046
+                  ]
+            },
+            {
+                  "name": "Glorieta Bosques",
+                  "text": "Glorieta Bosques is a nature reserve in Mexico City.",
+                  "category": "natural",
+                  "coords": [
+                        -99.2333,
+                        19.40704
+                  ]
+            },
+            {
+                  "name": "Auditorio Alfonso Reyes",
+                  "text": "Auditorio Alfonso Reyes is a theatre named after the Mexican writer in Mexico City.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.222232,
+                        19.397944
+                  ]
+            },
+            {
+                  "name": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano",
+                  "text": "Monumento Magno Conmemorativo del Centenario del Ejército Mexicano is a large monument for the centennial of the Mexican Army in Mexico City.",
+                  "category": "historical",
+                  "coords": [
+                        -99.197247,
+                        19.42606
+                  ]
+            },
+            {
+                  "name": "Teatro Angela Peralta",
+                  "text": "The Teatro Angela Peralta is a theatre in Acuario Inbursa Life v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.19446,
+                        19.429159
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.2088, 19.4326],
@@ -203,7 +4667,1024 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "xcaret-park-life-v2",
+    id: "xcaret-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mulchí",
+                  "text": "Maya-archäologische Stätte im Xcaret-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -87.123898,
+                        20.579263
+                  ]
+            },
+            {
+                  "name": "Xcaret",
+                  "text": "Öko-archäologischer Themenpark in der Riviera Maya.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.119388,
+                        20.580774
+                  ]
+            },
+            {
+                  "name": "XPLOR Park",
+                  "text": "Abenteuer-Themenpark im Xcaret-Gebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.122751,
+                        20.593327
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Kunstgalerie im Xcaret-Gebiet.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Museum, das Frida Kahlo im Xcaret-Gebiet gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Strandaquariumsmuseum im Xcaret-Gebiet.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "Monument eines Baumes mit 18 Metern Durchmesser im Xcaret-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Kunstzentrum im Xcaret-Gebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.63089
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Gemeinschaftstheater im Xcaret-Gebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.10547,
+                        20.655872
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Haus der Kultur Kunstzentrum im Xcaret-Gebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083521,
+                        20.651359
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Stadttheater von Solidaridad im Xcaret-Gebiet.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.08288,
+                        20.652628
+                  ]
+            },
+            {
+                  "name": "Rio Secreto",
+                  "text": "Untergrundfluss-Attraktion im Xcaret-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.13398,
+                        20.588231
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas ist ein Ort mit Hängematten im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa mamitas ist ein Strand im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "The Grand Sol de America Mariachi",
+                  "text": "The Grand Sol de America Mariachi bietet Mariachi-Musikdarbietungen im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.070552,
+                        20.629164
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "Das 3D Museum ist ein Museum mit dreidimensionalen Ausstellungen im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa bietet Fallschirmsprünge im Xcaret-Park-Gebiet an.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077991,
+                        20.622084
+                  ]
+            },
+            {
+                  "name": "Chaak Tun",
+                  "text": "Chaak Tun ist ein Cenote im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.12547,
+                        20.652126
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "Dog rescue center volunteering ist eine Freiwilligenaktivität in einem Hundeschutzzentrum im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Mayan village",
+                  "text": "Mayan village ist ein Nachbau eines traditionellen Maya-Dorfes im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121094,
+                        20.579685
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "settlers park ist ein Park im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "El gran Tlachco",
+                  "text": "El gran Tlachco ist eine Show über das antike Maya-Ballspiel im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119035,
+                        20.584006
+                  ]
+            },
+            {
+                  "name": "Flying Men",
+                  "text": "Flying Men ist eine Aufführung des Voladores-Rituals im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.117791,
+                        20.581419
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Juego de pelota ist ein Ballspielplatz im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.120855,
+                        20.580759
+                  ]
+            },
+            {
+                  "name": "Capilla de Guadalupe",
+                  "text": "Capilla de Guadalupe ist eine Kapelle, die Unserer Lieben Frau von Guadalupe gewidmet ist, im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.11982,
+                        20.582351
+                  ]
+            },
+            {
+                  "name": "Korolevskii grif",
+                  "text": "Korolevskii grif ist eine Attraktion im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.122026,
+                        20.579114
+                  ]
+            },
+            {
+                  "name": "Salida del Río Subterráneo",
+                  "text": "Salida del Río Subterráneo ist der Ausgang eines unterirdischen Flusses im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121349,
+                        20.577085
+                  ]
+            },
+            {
+                  "name": "Zona arqueologica",
+                  "text": "Zona arqueologica ist eine archäologische Zone im Xcaret-Park-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119435,
+                        20.579033
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mulchí",
+                  "text": "Maja régészeti lelőhely a Xcaret területén.",
+                  "category": "historical",
+                  "coords": [
+                        -87.123898,
+                        20.579263
+                  ]
+            },
+            {
+                  "name": "Xcaret",
+                  "text": "Öko-régészeti tematikus park a Riviera Mayán.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.119388,
+                        20.580774
+                  ]
+            },
+            {
+                  "name": "XPLOR Park",
+                  "text": "Kaland tematikus park a Xcaret területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.122751,
+                        20.593327
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Művészeti galéria a Xcaret területén.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Frida Kahlónak szentelt múzeum a Xcaret területén.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Strand akvárium múzeum a Xcaret területén.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "Egy 18 méter átmérőjű fa emlékműve a Xcaret területén.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Művészeti központ a Xcaret területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.63089
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Közösségi színház a Xcaret területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.10547,
+                        20.655872
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kultúra Háza művészeti központ a Xcaret területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083521,
+                        20.651359
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Solidaridad városi színháza a Xcaret területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.08288,
+                        20.652628
+                  ]
+            },
+            {
+                  "name": "Rio Secreto",
+                  "text": "Földalatti folyó látványosság a Xcaret területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.13398,
+                        20.588231
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "A La Casa De Las Hamacas egy hely függőágyakkal a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "A Playa mamitas egy strand a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "The Grand Sol de America Mariachi",
+                  "text": "A The Grand Sol de America Mariachi Mariachi zenei előadásokat kínál a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.070552,
+                        20.629164
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "A 3D Múzeum egy háromdimenziós kiállításokkal rendelkező múzeum a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "A Skydive Playa ejtőernyős ugrásokat kínál a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077991,
+                        20.622084
+                  ]
+            },
+            {
+                  "name": "Chaak Tun",
+                  "text": "Chaak Tun egy cenote a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.12547,
+                        20.652126
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "A Dog rescue center volunteering egy önkéntes tevékenység egy kutyamenhelyen a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Mayan village",
+                  "text": "A Mayan village egy hagyományos maja falu másolata a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121094,
+                        20.579685
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "A settlers park egy park a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "El gran Tlachco",
+                  "text": "El gran Tlachco egy show az ősi maja labdajátékról a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119035,
+                        20.584006
+                  ]
+            },
+            {
+                  "name": "Flying Men",
+                  "text": "A Flying Men a Voladores szertartás előadása a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.117791,
+                        20.581419
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "A Juego de pelota egy labdajátékpálya a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.120855,
+                        20.580759
+                  ]
+            },
+            {
+                  "name": "Capilla de Guadalupe",
+                  "text": "Capilla de Guadalupe egy kápolna, amely a Guadalupei Szűzanyának van szentelve, a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.11982,
+                        20.582351
+                  ]
+            },
+            {
+                  "name": "Korolevskii grif",
+                  "text": "A Korolevskii grif egy látványosság a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.122026,
+                        20.579114
+                  ]
+            },
+            {
+                  "name": "Salida del Río Subterráneo",
+                  "text": "A Salida del Río Subterráneo egy földalatti folyó kijárata a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121349,
+                        20.577085
+                  ]
+            },
+            {
+                  "name": "Zona arqueologica",
+                  "text": "A Zona arqueologica egy régészeti zóna a Xcaret park területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119435,
+                        20.579033
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mulchí",
+                  "text": "Sit arheologic maya în zona Xcaret.",
+                  "category": "historical",
+                  "coords": [
+                        -87.123898,
+                        20.579263
+                  ]
+            },
+            {
+                  "name": "Xcaret",
+                  "text": "Parcul tematic eco-arheologic pe Riviera Maya.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.119388,
+                        20.580774
+                  ]
+            },
+            {
+                  "name": "XPLOR Park",
+                  "text": "Parcul tematic de aventură în zona Xcaret.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.122751,
+                        20.593327
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Galerie de artă în zona Xcaret.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Muzeu dedicat Frida Kahlo în zona Xcaret.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "El Acuario de Playa",
+                  "text": "Muzeu acvariu de plajă în zona Xcaret.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "Alamo Sakahua",
+                  "text": "Monument al unui copac cu diametrul de 18 metri în zona Xcaret.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Centru de arte în zona Xcaret.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.63089
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Teatru comunitar în zona Xcaret.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.10547,
+                        20.655872
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa Culturii centru de arte în zona Xcaret.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083521,
+                        20.651359
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "Teatrul orașului Solidaridad în zona Xcaret.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.08288,
+                        20.652628
+                  ]
+            },
+            {
+                  "name": "Rio Secreto",
+                  "text": "Atracție de râu subteran în zona Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.13398,
+                        20.588231
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas este un loc cu hamace în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa mamitas este o plajă în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "The Grand Sol de America Mariachi",
+                  "text": "The Grand Sol de America Mariachi oferă spectacole de muzică mariachi în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.070552,
+                        20.629164
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "Muzeul 3D este un muzeu cu exponate tridimensionale în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa oferă parașutism în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077991,
+                        20.622084
+                  ]
+            },
+            {
+                  "name": "Chaak Tun",
+                  "text": "Chaak Tun este un cenote în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.12547,
+                        20.652126
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "Dog rescue center volunteering este o activitate de voluntariat la un centru de salvare a câinilor în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Mayan village",
+                  "text": "Mayan village este o replică a unui sat tradițional mayaș în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121094,
+                        20.579685
+                  ]
+            },
+            {
+                  "name": "parque fundadores",
+                  "text": "settlers park este un parc în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "El gran Tlachco",
+                  "text": "El gran Tlachco este un spectacol despre jocul de minge mayaș antic în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119035,
+                        20.584006
+                  ]
+            },
+            {
+                  "name": "Flying Men",
+                  "text": "Flying Men este o reprezentație a ritualului Voladores în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.117791,
+                        20.581419
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Juego de pelota este un teren de joc cu minge în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.120855,
+                        20.580759
+                  ]
+            },
+            {
+                  "name": "Capilla de Guadalupe",
+                  "text": "Capilla de Guadalupe este o capelă dedicată Maicii Domnului din Guadalupe, în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.11982,
+                        20.582351
+                  ]
+            },
+            {
+                  "name": "Korolevskii grif",
+                  "text": "Korolevskii grif este o atracție în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.122026,
+                        20.579114
+                  ]
+            },
+            {
+                  "name": "Salida del Río Subterráneo",
+                  "text": "Salida del Río Subterráneo este ieșirea unui râu subteran în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121349,
+                        20.577085
+                  ]
+            },
+            {
+                  "name": "Zona arqueologica",
+                  "text": "Zona arqueologica este o zonă arheologică în zona parcului Xcaret.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119435,
+                        20.579033
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mulchí",
+                  "text": "Mayan archaeological site in the Xcaret area.",
+                  "category": "historical",
+                  "coords": [
+                        -87.123898,
+                        20.579263
+                  ]
+            },
+            {
+                  "name": "Xcaret",
+                  "text": "Eco-archaeological theme park in the Riviera Maya.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.119388,
+                        20.580774
+                  ]
+            },
+            {
+                  "name": "XPLOR Park",
+                  "text": "Adventure theme park in the Xcaret area.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.122751,
+                        20.593327
+                  ]
+            },
+            {
+                  "name": "Residencia Art Project",
+                  "text": "Art gallery in the Xcaret area.",
+                  "category": "museum",
+                  "coords": [
+                        -87.06589,
+                        20.635217
+                  ]
+            },
+            {
+                  "name": "Frida Kahlo",
+                  "text": "Museum dedicated to Frida Kahlo in the Xcaret area.",
+                  "category": "museum",
+                  "coords": [
+                        -87.072757,
+                        20.625921
+                  ]
+            },
+            {
+                  "name": "Aquarium Beach",
+                  "text": "Beach aquarium museum in the Xcaret area.",
+                  "category": "museum",
+                  "coords": [
+                        -87.071468,
+                        20.628367
+                  ]
+            },
+            {
+                  "name": "tree of 18m diameter",
+                  "text": "Monument of a tree with an 18-meter diameter in the Xcaret area.",
+                  "category": "historical",
+                  "coords": [
+                        -87.064815,
+                        20.634554
+                  ]
+            },
+            {
+                  "name": "Playalingua",
+                  "text": "Arts centre in the Xcaret area.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.069882,
+                        20.63089
+                  ]
+            },
+            {
+                  "name": "Teatro Comunale",
+                  "text": "Community theatre in the Xcaret area.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.10547,
+                        20.655872
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "House of Culture arts centre in the Xcaret area.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.083521,
+                        20.651359
+                  ]
+            },
+            {
+                  "name": "Teatro De La Ciudad Solidaridad",
+                  "text": "City theatre of Solidaridad in the Xcaret area.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.08288,
+                        20.652628
+                  ]
+            },
+            {
+                  "name": "Rio Secreto",
+                  "text": "Underground river attraction in the Xcaret area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.13398,
+                        20.588231
+                  ]
+            },
+            {
+                  "name": "La Casa De Las Hamacas",
+                  "text": "La Casa De Las Hamacas is a place with hammocks in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.068071,
+                        20.641773
+                  ]
+            },
+            {
+                  "name": "Playa mamitas",
+                  "text": "Playa mamitas is a beach in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.064977,
+                        20.63074
+                  ]
+            },
+            {
+                  "name": "The Grand Sol de America Mariachi",
+                  "text": "The Grand Sol de America Mariachi offers mariachi music performances in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.070552,
+                        20.629164
+                  ]
+            },
+            {
+                  "name": "3D Museum",
+                  "text": "3D Museum is a museum with three-dimensional exhibits in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.073352,
+                        20.626961
+                  ]
+            },
+            {
+                  "name": "Skydive Playa",
+                  "text": "Skydive Playa offers skydiving experiences in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.077991,
+                        20.622084
+                  ]
+            },
+            {
+                  "name": "Chaak Tun",
+                  "text": "Chaak Tun is a cenote in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.12547,
+                        20.652126
+                  ]
+            },
+            {
+                  "name": "Dog rescue center volunteering",
+                  "text": "Dog rescue center volunteering is a volunteer activity at a dog rescue center in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.105852,
+                        20.633978
+                  ]
+            },
+            {
+                  "name": "Mayan village",
+                  "text": "Mayan village is a replica of a traditional Mayan village in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121094,
+                        20.579685
+                  ]
+            },
+            {
+                  "name": "settlers park",
+                  "text": "settlers park is a park in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.074981,
+                        20.622004
+                  ]
+            },
+            {
+                  "name": "El gran Tlachco",
+                  "text": "El gran Tlachco is a show about the ancient Mayan ball game in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119035,
+                        20.584006
+                  ]
+            },
+            {
+                  "name": "Flying Men",
+                  "text": "Flying Men is a performance of the Voladores ritual in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.117791,
+                        20.581419
+                  ]
+            },
+            {
+                  "name": "Juego de pelota",
+                  "text": "Juego de pelota is a ball court in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.120855,
+                        20.580759
+                  ]
+            },
+            {
+                  "name": "Capilla de Guadalupe",
+                  "text": "Capilla de Guadalupe is a chapel dedicated to Our Lady of Guadalupe in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.11982,
+                        20.582351
+                  ]
+            },
+            {
+                  "name": "Korolevskii grif",
+                  "text": "Korolevskii grif is an attraction in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.122026,
+                        20.579114
+                  ]
+            },
+            {
+                  "name": "Salida del Río Subterráneo",
+                  "text": "Salida del Río Subterráneo is the exit of an underground river in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.121349,
+                        20.577085
+                  ]
+            },
+            {
+                  "name": "Zona arqueologica",
+                  "text": "Zona arqueologica is an archaeological zone in the Xcaret park area.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.119435,
+                        20.579033
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "MX-ROO",
     coords: [-87.0713, 20.5818],
@@ -253,7 +5734,88 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "africam-safari-life-v2",
+    id: "africam-safari-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Africam Safari",
+                  "text": "Africam Safari ist ein großer Safaripark in Puebla, Mexiko.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.133038,
+                        18.936376
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Humedal de Valsequillo",
+                  "text": "Parque Estatal Humedal de Valsequillo ist ein staatlicher Feuchtgebietspark im Gebiet von Africam Safari.",
+                  "category": "natural",
+                  "coords": [
+                        -98.176392,
+                        18.921775
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Africam Safari",
+                  "text": "Az Africam Safari egy nagy szafari park Pueblában, Mexikóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.133038,
+                        18.936376
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Humedal de Valsequillo",
+                  "text": "A Parque Estatal Humedal de Valsequillo egy állami vizes élőhely park az Africam Safari területén.",
+                  "category": "natural",
+                  "coords": [
+                        -98.176392,
+                        18.921775
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Africam Safari",
+                  "text": "Africam Safari este un parc safari mare în Puebla, Mexic.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.133038,
+                        18.936376
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Humedal de Valsequillo",
+                  "text": "Parque Estatal Humedal de Valsequillo este un parc de zone umede de stat în zona Africam Safari.",
+                  "category": "natural",
+                  "coords": [
+                        -98.176392,
+                        18.921775
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Africam Safari",
+                  "text": "Africam Safari is a large safari park in Puebla, Mexico.",
+                  "category": "recreational",
+                  "coords": [
+                        -98.133038,
+                        18.936376
+                  ]
+            },
+            {
+                  "name": "Parque Estatal Humedal de Valsequillo",
+                  "text": "Parque Estatal Humedal de Valsequillo is a state park wetland in the Africam Safari area.",
+                  "category": "natural",
+                  "coords": [
+                        -98.176392,
+                        18.921775
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MX-PUE",
     coords: [-98.2195, 18.9012],
@@ -303,7 +5865,160 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "bioparque-estrella-life-v2",
+    id: "bioparque-estrella-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campo De Futbol San Pablo",
+                  "text": "Das Campo De Futbol San Pablo ist eine Fußballplatz-Attraktion im Bioparque Estrella.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.492189,
+                        19.965785
+                  ]
+            },
+            {
+                  "name": "La hoguera tattoo studio",
+                  "text": "Das La hoguera tattoo studio ist ein Tattoo-Studio und eine Galerie im Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.564698,
+                        19.973136
+                  ]
+            },
+            {
+                  "name": "Museo de Jilotepec",
+                  "text": "Das Museo de Jilotepec ist ein Museum im Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.533201,
+                        19.950825
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Die Casa de Cultura ist ein Kulturzentrum im Bioparque Estrella.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.532661,
+                        19.949748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campo De Futbol San Pablo",
+                  "text": "A Campo De Futbol San Pablo egy futballpálya-attrakció a Bioparque Estrella-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.492189,
+                        19.965785
+                  ]
+            },
+            {
+                  "name": "La hoguera tattoo studio",
+                  "text": "A La hoguera tattoo studio egy tetoválószalon és galéria a Bioparque Estrella-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.564698,
+                        19.973136
+                  ]
+            },
+            {
+                  "name": "Museo de Jilotepec",
+                  "text": "A Museo de Jilotepec egy múzeum a Bioparque Estrella-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -99.533201,
+                        19.950825
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "A Casa de Cultura egy művészeti központ a Bioparque Estrella-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.532661,
+                        19.949748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campo De Futbol San Pablo",
+                  "text": "Campo De Futbol San Pablo este o atracție de teren de fotbal în Bioparque Estrella.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.492189,
+                        19.965785
+                  ]
+            },
+            {
+                  "name": "La hoguera tattoo studio",
+                  "text": "La hoguera tattoo studio este un studio de tatuaje și galerie în Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.564698,
+                        19.973136
+                  ]
+            },
+            {
+                  "name": "Museo de Jilotepec",
+                  "text": "Museo de Jilotepec este un muzeu în Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.533201,
+                        19.950825
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Casa de Cultura este un centru de artă în Bioparque Estrella.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.532661,
+                        19.949748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campo De Futbol San Pablo",
+                  "text": "Campo De Futbol San Pablo is a football field attraction in Bioparque Estrella.",
+                  "category": "landmark",
+                  "coords": [
+                        -99.492189,
+                        19.965785
+                  ]
+            },
+            {
+                  "name": "La hoguera tattoo studio",
+                  "text": "La hoguera tattoo studio is a tattoo studio and gallery in Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.564698,
+                        19.973136
+                  ]
+            },
+            {
+                  "name": "Museo de Jilotepec",
+                  "text": "Museo de Jilotepec is a museum in Bioparque Estrella.",
+                  "category": "museum",
+                  "coords": [
+                        -99.533201,
+                        19.950825
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Casa de Cultura is an arts centre in Bioparque Estrella.",
+                  "category": "cultural",
+                  "coords": [
+                        -99.532661,
+                        19.949748
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MX-MEX",
     coords: [-99.5305, 19.9213],
@@ -353,7 +6068,160 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "monarch-butterfly-reserve-life-v2",
+    id: "monarch-butterfly-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mariposas Monarca",
+                  "text": "Eine Attraktion im Schutzgebiet der Monarchfalter.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.294558,
+                        19.672218
+                  ]
+            },
+            {
+                  "name": "Santuario de la Mariposa Monarca Chincua",
+                  "text": "Ein Heiligtum für Monarchfalter in Mexiko, Teil des UNESCO-Biosphärenreservats.",
+                  "category": "natural",
+                  "coords": [
+                        -100.278939,
+                        19.669893
+                  ]
+            },
+            {
+                  "name": "Monarch butterfly reserve",
+                  "text": "Ein Reservat für Monarchfalter, bekannt für die jährliche Migration.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.267171,
+                        19.588473
+                  ]
+            },
+            {
+                  "name": "Zona Núcleo",
+                  "text": "Die Kernzone des Biosphärenreservats der Monarchfalter.",
+                  "category": "natural",
+                  "coords": [
+                        -100.257081,
+                        19.552982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mariposas Monarca",
+                  "text": "Egy látványosság a monarch lepkék rezervátumában.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.294558,
+                        19.672218
+                  ]
+            },
+            {
+                  "name": "Santuario de la Mariposa Monarca Chincua",
+                  "text": "Egy monarch lepkék szentélye Mexikóban, az UNESCO bioszféra-rezervátum része.",
+                  "category": "natural",
+                  "coords": [
+                        -100.278939,
+                        19.669893
+                  ]
+            },
+            {
+                  "name": "Monarch butterfly reserve",
+                  "text": "Egy monarch lepkék rezervátuma, híres az éves vándorlásról.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.267171,
+                        19.588473
+                  ]
+            },
+            {
+                  "name": "Zona Núcleo",
+                  "text": "A monarch lepkék bioszféra-rezervátumának magterülete.",
+                  "category": "natural",
+                  "coords": [
+                        -100.257081,
+                        19.552982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mariposas Monarca",
+                  "text": "O atracție în rezervația fluturilor monarh.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.294558,
+                        19.672218
+                  ]
+            },
+            {
+                  "name": "Santuario de la Mariposa Monarca Chincua",
+                  "text": "Un sanctuar pentru fluturii monarh din Mexic, parte a Rezervației Biosferei UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        -100.278939,
+                        19.669893
+                  ]
+            },
+            {
+                  "name": "Monarch butterfly reserve",
+                  "text": "O rezervație pentru fluturii monarh, cunoscută pentru migrația anuală.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.267171,
+                        19.588473
+                  ]
+            },
+            {
+                  "name": "Zona Núcleo",
+                  "text": "Zona nucleu a Rezervației Biosferei Fluturilor Monarh.",
+                  "category": "natural",
+                  "coords": [
+                        -100.257081,
+                        19.552982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Butterflies",
+                  "text": "An attraction in the Monarch Butterfly Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -100.294558,
+                        19.672218
+                  ]
+            },
+            {
+                  "name": "Santuario de la Mariposa Monarca Chincua",
+                  "text": "A sanctuary for Monarch butterflies in Mexico, part of the UNESCO Biosphere Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -100.278939,
+                        19.669893
+                  ]
+            },
+            {
+                  "name": "Monarch butterfly reserve",
+                  "text": "A Monarch butterfly reserve, known for the annual migration.",
+                  "category": "recreational",
+                  "coords": [
+                        -100.267171,
+                        19.588473
+                  ]
+            },
+            {
+                  "name": "Zona Núcleo",
+                  "text": "The core zone of the Monarch Butterfly Biosphere Reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -100.257081,
+                        19.552982
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MX-MIC",
     coords: [-100.25, 19.6],
@@ -403,7 +6271,52 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "sian-kaan-life-v2",
+    id: "sian-kaan-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biosfera de Sian Kaan",
+                  "text": "Biosphärenreservat von Sian Ka'an.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.604288,
+                        19.475378
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biosfera de Sian Kaan",
+                  "text": "Sian Ka'an bioszféra-rezervátum.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.604288,
+                        19.475378
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biosfera de Sian Kaan",
+                  "text": "Rezervația biosferei Sian Ka'an.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.604288,
+                        19.475378
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biosfera de Sian Kaan",
+                  "text": "Biosphere reserve of Sian Ka'an.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.604288,
+                        19.475378
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MX-ROO",
     coords: [-87.65, 19.42],
@@ -453,7 +6366,88 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "calakmul-reserve-life-v2",
+    id: "calakmul-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona arqueológica de Balamkú",
+                  "text": "Die archäologische Zone Balamkú im Calakmul-Reservat ist berühmt für ihren gut erhaltenen Stuckfries.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.945061,
+                        18.557415
+                  ]
+            },
+            {
+                  "name": "Casa de los cuatro reyes",
+                  "text": "Casa de los cuatro reyes sind Ruinen im Calakmul-Reservat.",
+                  "category": "historical",
+                  "coords": [
+                        -89.945331,
+                        18.560205
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona arqueológica de Balamkú",
+                  "text": "A Balamkú régészeti övezet a Calakmul-rezervátumban híres jól megőrzött stukkófrízéről.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.945061,
+                        18.557415
+                  ]
+            },
+            {
+                  "name": "Casa de los cuatro reyes",
+                  "text": "A Casa de los cuatro reyes romok a Calakmul-rezervátumban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.945331,
+                        18.560205
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona arqueológica de Balamkú",
+                  "text": "Zona arheologică Balamkú din Rezervația Calakmul este renumită pentru friza sa de stuc bine conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.945061,
+                        18.557415
+                  ]
+            },
+            {
+                  "name": "Casa de los cuatro reyes",
+                  "text": "Casa de los cuatro reyes sunt ruine în Rezervația Calakmul.",
+                  "category": "historical",
+                  "coords": [
+                        -89.945331,
+                        18.560205
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona arqueológica de Balamkú",
+                  "text": "The Balamkú archaeological zone in the Calakmul Reserve is famous for its well-preserved stucco frieze.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.945061,
+                        18.557415
+                  ]
+            },
+            {
+                  "name": "Casa de los cuatro reyes",
+                  "text": "Casa de los cuatro reyes are ruins in the Calakmul Reserve.",
+                  "category": "historical",
+                  "coords": [
+                        -89.945331,
+                        18.560205
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MX-CAM",
     coords: [-89.95, 18.62],
@@ -503,7 +6497,52 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "lacandon-jungle-life-v2",
+    id: "lacandon-jungle-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de la Biosfera Montes Azules",
+                  "text": "Das Biosphärenreservat Montes Azules ist ein Schutzgebiet im Lacandon-Dschungel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.138813,
+                        16.471932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de la Biosfera Montes Azules",
+                  "text": "A Montes Azules Bioszféra Rezervátum egy védett terület a Lacandon-őserdőben.",
+                  "category": "natural",
+                  "coords": [
+                        -91.138813,
+                        16.471932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de la Biosfera Montes Azules",
+                  "text": "Rezervația Biosferei Montes Azules este o arie protejată în Pădurea Lacandon.",
+                  "category": "natural",
+                  "coords": [
+                        -91.138813,
+                        16.471932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de la Biosfera Montes Azules",
+                  "text": "Montes Azules Biosphere Reserve is a protected area in the Lacandon Jungle.",
+                  "category": "natural",
+                  "coords": [
+                        -91.138813,
+                        16.471932
+                  ]
+            }
+      ]
+},
     type: "forest",
     parent: "MX-CHP",
     coords: [-91.15, 16.55],
@@ -603,7 +6642,268 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "celestun-flamingo-reserve-life-v2",
+    id: "celestun-flamingo-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "14 000 flamencos - noches (ruta a la derecha)",
+                  "text": "Ein Ort, um abends Flamingos in Celestún zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.374217,
+                        20.892555
+                  ]
+            },
+            {
+                  "name": "Celeste Vida",
+                  "text": "Ein Badeort in Celestún.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.394357,
+                        20.871815
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Celestún",
+                  "text": "Ein Biosphärenreservat in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.38339,
+                        20.857625
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturistico Jaltun",
+                  "text": "Ein Ökotourismus-Park in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.385848,
+                        20.857892
+                  ]
+            },
+            {
+                  "name": "Flamencos - mañana",
+                  "text": "Morgendliche Flamingobeobachtung in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.403441,
+                        20.836101
+                  ]
+            },
+            {
+                  "name": "Hacienda Real de Salinas",
+                  "text": "Ruinen einer historischen Hacienda in Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.400835,
+                        20.820996
+                  ]
+            },
+            {
+                  "name": "Ruinas",
+                  "text": "Ruinen in Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.405582,
+                        20.836368
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "14 000 flamencos - noches (ruta a la derecha)",
+                  "text": "Flamingó megfigyelőhely Celestúnban este.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.374217,
+                        20.892555
+                  ]
+            },
+            {
+                  "name": "Celeste Vida",
+                  "text": "Tengerparti üdülőhely Celestúnban.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.394357,
+                        20.871815
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Celestún",
+                  "text": "Bioszféra-rezervátum Celestúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.38339,
+                        20.857625
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturistico Jaltun",
+                  "text": "Ökoturisztikai park Celestúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.385848,
+                        20.857892
+                  ]
+            },
+            {
+                  "name": "Flamencos - mañana",
+                  "text": "Reggeli flamingó megfigyelés Celestúnban.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.403441,
+                        20.836101
+                  ]
+            },
+            {
+                  "name": "Hacienda Real de Salinas",
+                  "text": "Történelmi hacienda romjai Celestúnban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.400835,
+                        20.820996
+                  ]
+            },
+            {
+                  "name": "Ruinas",
+                  "text": "Romok Celestúnban.",
+                  "category": "historical",
+                  "coords": [
+                        -90.405582,
+                        20.836368
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "14 000 flamencos - noches (ruta a la derecha)",
+                  "text": "Un loc pentru a observa flamingo seara în Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.374217,
+                        20.892555
+                  ]
+            },
+            {
+                  "name": "Celeste Vida",
+                  "text": "O stațiune de plajă în Celestún.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.394357,
+                        20.871815
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Celestún",
+                  "text": "O rezervație a biosferei în Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.38339,
+                        20.857625
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturistico Jaltun",
+                  "text": "Un parc ecoturistic în Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.385848,
+                        20.857892
+                  ]
+            },
+            {
+                  "name": "Flamencos - mañana",
+                  "text": "Observarea flamingo dimineața în Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.403441,
+                        20.836101
+                  ]
+            },
+            {
+                  "name": "Hacienda Real de Salinas",
+                  "text": "Ruinele unei hacienda istorice în Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.400835,
+                        20.820996
+                  ]
+            },
+            {
+                  "name": "Ruinas",
+                  "text": "Ruine în Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.405582,
+                        20.836368
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "14 000 flamingos - evening (take the road at your right)",
+                  "text": "A spot to observe flamingos in the evening in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.374217,
+                        20.892555
+                  ]
+            },
+            {
+                  "name": "Celeste Vida",
+                  "text": "A beach resort in Celestún.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.394357,
+                        20.871815
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biósfera Celestún",
+                  "text": "A biosphere reserve in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.38339,
+                        20.857625
+                  ]
+            },
+            {
+                  "name": "Parque Ecoturistico Jaltun",
+                  "text": "An ecotourism park in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.385848,
+                        20.857892
+                  ]
+            },
+            {
+                  "name": "Flamingos - morning",
+                  "text": "Morning flamingo watching in Celestún.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.403441,
+                        20.836101
+                  ]
+            },
+            {
+                  "name": "Hacienda Real de Salinas",
+                  "text": "Ruins of a historic hacienda in Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.400835,
+                        20.820996
+                  ]
+            },
+            {
+                  "name": "Ruinas",
+                  "text": "Ruins in Celestún.",
+                  "category": "historical",
+                  "coords": [
+                        -90.405582,
+                        20.836368
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MX-YUC",
     coords: [-90.39, 20.86],
@@ -653,7 +6953,484 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "la-ventanilla-turtle-reserve-life-v2",
+    id: "la-ventanilla-turtle-reserve-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Camarón",
+                  "text": "Der Strand Camarón im Gebiet von La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.525803,
+                        15.662727
+                  ]
+            },
+            {
+                  "name": "Letras gigantes Zipolite",
+                  "text": "Riesenbuchstaben, die Zipolite buchstabieren, ein Fotospot im Gebiet von La Ventanilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.511691,
+                        15.66214
+                  ]
+            },
+            {
+                  "name": "Zapotengo beach",
+                  "text": "Der Strand Zapotengo im Gebiet von La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.40539,
+                        15.692642
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Petra Valle",
+                  "text": "Das Kulturhaus Petra Valle ist ein Theater im Gebiet von La Ventanilla.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.465384,
+                        15.746578
+                  ]
+            },
+            {
+                  "name": "Playa Estacahuite",
+                  "text": "Der Strand Estacahuite im Gebiet von La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.482102,
+                        15.668763
+                  ]
+            },
+            {
+                  "name": "Rancho Los Mangos",
+                  "text": "Rancho Los Mangos ist ein Campingplatz im Gebiet von La Ventanilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.520484,
+                        15.665498
+                  ]
+            },
+            {
+                  "name": "Playa Shambhala",
+                  "text": "Der Strand Shambhala im Gebiet von La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.522944,
+                        15.663189
+                  ]
+            },
+            {
+                  "name": "Playa Zipolite",
+                  "text": "Playa Zipolite ist eine Attraktion in der La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.515942,
+                        15.66256
+                  ]
+            },
+            {
+                  "name": "Playa del amor",
+                  "text": "Playa del amor ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.509372,
+                        15.660052
+                  ]
+            },
+            {
+                  "name": "Playa Panteon",
+                  "text": "Playa Panteon ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.495612,
+                        15.664923
+                  ]
+            },
+            {
+                  "name": "Faro de Puerto Ângel",
+                  "text": "Faro de Puerto Ángel ist ein Leuchtturm in der La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.500222,
+                        15.658436
+                  ]
+            },
+            {
+                  "name": "La Boquilla",
+                  "text": "La Boquilla ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.465128,
+                        15.683337
+                  ]
+            },
+            {
+                  "name": "playa Cabanas abandonadas",
+                  "text": "Playa Cabanas abandonadas ist ein Strand in der La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.390553,
+                        15.689066
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Camarón",
+                  "text": "Camarón strand a La Ventanilla körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.525803,
+                        15.662727
+                  ]
+            },
+            {
+                  "name": "Letras gigantes Zipolite",
+                  "text": "Óriásbetűk, amelyek Zipolitét írják ki, egy fotópont a La Ventanilla körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.511691,
+                        15.66214
+                  ]
+            },
+            {
+                  "name": "Zapotengo beach",
+                  "text": "Zapotengo strand a La Ventanilla körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.40539,
+                        15.692642
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Petra Valle",
+                  "text": "Petra Valle Kulturális Ház egy színház a La Ventanilla körzetben.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.465384,
+                        15.746578
+                  ]
+            },
+            {
+                  "name": "Playa Estacahuite",
+                  "text": "Estacahuite strand a La Ventanilla körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.482102,
+                        15.668763
+                  ]
+            },
+            {
+                  "name": "Rancho Los Mangos",
+                  "text": "Rancho Los Mangos egy kemping a La Ventanilla körzetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.520484,
+                        15.665498
+                  ]
+            },
+            {
+                  "name": "Playa Shambhala",
+                  "text": "Shambhala strand a La Ventanilla körzetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.522944,
+                        15.663189
+                  ]
+            },
+            {
+                  "name": "Playa Zipolite",
+                  "text": "Playa Zipolite egy látványosság a La Ventanilla Turtle Reserve-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.515942,
+                        15.66256
+                  ]
+            },
+            {
+                  "name": "Playa del amor",
+                  "text": "Playa del amor egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.509372,
+                        15.660052
+                  ]
+            },
+            {
+                  "name": "Playa Panteon",
+                  "text": "Playa Panteon egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.495612,
+                        15.664923
+                  ]
+            },
+            {
+                  "name": "Faro de Puerto Ângel",
+                  "text": "Faro de Puerto Ángel egy világítótorony a La Ventanilla Turtle Reserve-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.500222,
+                        15.658436
+                  ]
+            },
+            {
+                  "name": "La Boquilla",
+                  "text": "La Boquilla egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.465128,
+                        15.683337
+                  ]
+            },
+            {
+                  "name": "playa Cabanas abandonadas",
+                  "text": "Playa Cabanas abandonadas egy strand a La Ventanilla Turtle Reserve-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.390553,
+                        15.689066
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Camarón",
+                  "text": "Plaja Camarón în zona La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.525803,
+                        15.662727
+                  ]
+            },
+            {
+                  "name": "Letras gigantes Zipolite",
+                  "text": "Litere uriașe care scriu Zipolite, un loc de fotografiat în zona La Ventanilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.511691,
+                        15.66214
+                  ]
+            },
+            {
+                  "name": "Zapotengo beach",
+                  "text": "Plaja Zapotengo în zona La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.40539,
+                        15.692642
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Petra Valle",
+                  "text": "Casa de Cultură Petra Valle este un teatru în zona La Ventanilla.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.465384,
+                        15.746578
+                  ]
+            },
+            {
+                  "name": "Playa Estacahuite",
+                  "text": "Plaja Estacahuite în zona La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.482102,
+                        15.668763
+                  ]
+            },
+            {
+                  "name": "Rancho Los Mangos",
+                  "text": "Rancho Los Mangos este un camping în zona La Ventanilla.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.520484,
+                        15.665498
+                  ]
+            },
+            {
+                  "name": "Playa Shambhala",
+                  "text": "Plaja Shambhala în zona La Ventanilla.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.522944,
+                        15.663189
+                  ]
+            },
+            {
+                  "name": "Playa Zipolite",
+                  "text": "Playa Zipolite este o atracție în La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.515942,
+                        15.66256
+                  ]
+            },
+            {
+                  "name": "Playa del amor",
+                  "text": "Playa del amor este o plajă în La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.509372,
+                        15.660052
+                  ]
+            },
+            {
+                  "name": "Playa Panteon",
+                  "text": "Playa Panteon este o plajă în La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.495612,
+                        15.664923
+                  ]
+            },
+            {
+                  "name": "Faro de Puerto Ângel",
+                  "text": "Faro de Puerto Ángel este un far în La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.500222,
+                        15.658436
+                  ]
+            },
+            {
+                  "name": "La Boquilla",
+                  "text": "La Boquilla este o plajă în La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.465128,
+                        15.683337
+                  ]
+            },
+            {
+                  "name": "playa Cabanas abandonadas",
+                  "text": "Playa Cabanas abandonadas este o plajă în La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.390553,
+                        15.689066
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Camarón",
+                  "text": "Camarón beach in the La Ventanilla area.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.525803,
+                        15.662727
+                  ]
+            },
+            {
+                  "name": "Letras gigantes Zipolite",
+                  "text": "Giant letters spelling Zipolite, a photo spot in the La Ventanilla area.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.511691,
+                        15.66214
+                  ]
+            },
+            {
+                  "name": "Zapotengo beach",
+                  "text": "Zapotengo beach in the La Ventanilla area.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.40539,
+                        15.692642
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Petra Valle",
+                  "text": "Petra Valle Cultural House is a theatre in the La Ventanilla area.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.465384,
+                        15.746578
+                  ]
+            },
+            {
+                  "name": "Playa Estacahuite",
+                  "text": "Estacahuite beach in the La Ventanilla area.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.482102,
+                        15.668763
+                  ]
+            },
+            {
+                  "name": "Rancho Los Mangos",
+                  "text": "Rancho Los Mangos is a camp site in the La Ventanilla area.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.520484,
+                        15.665498
+                  ]
+            },
+            {
+                  "name": "Playa Shambhala",
+                  "text": "Shambhala beach in the La Ventanilla area.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.522944,
+                        15.663189
+                  ]
+            },
+            {
+                  "name": "Playa Zipolite",
+                  "text": "Playa Zipolite is an attraction in the La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.515942,
+                        15.66256
+                  ]
+            },
+            {
+                  "name": "Playa del amor",
+                  "text": "Playa del amor is a beach in the La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.509372,
+                        15.660052
+                  ]
+            },
+            {
+                  "name": "Playa Panteon",
+                  "text": "Playa Panteon is a beach in the La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.495612,
+                        15.664923
+                  ]
+            },
+            {
+                  "name": "Faro de Puerto Ângel",
+                  "text": "Faro de Puerto Ángel is a lighthouse in the La Ventanilla Turtle Reserve.",
+                  "category": "landmark",
+                  "coords": [
+                        -96.500222,
+                        15.658436
+                  ]
+            },
+            {
+                  "name": "La Boquilla",
+                  "text": "La Boquilla is a beach in the La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.465128,
+                        15.683337
+                  ]
+            },
+            {
+                  "name": "playa Cabanas abandonadas",
+                  "text": "Playa Cabanas abandonadas is a beach in the La Ventanilla Turtle Reserve.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.390553,
+                        15.689066
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "MX-OAX",
     coords: [-96.47, 15.67],
@@ -803,7 +7580,304 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "isla-holbox-life-v2",
+    id: "isla-holbox-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta Mosquito",
+                  "text": "Punta Mosquito ist ein Aussichtspunkt auf der Isla Holbox mit malerischem Blick.",
+                  "category": "natural",
+                  "coords": [
+                        -87.326734,
+                        21.558309
+                  ]
+            },
+            {
+                  "name": "Crossing point.",
+                  "text": "Ein Übergangspunkt auf der Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.344825,
+                        21.54082
+                  ]
+            },
+            {
+                  "name": "Playa mosquito",
+                  "text": "Playa Mosquito ist ein Strand auf der Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.355819,
+                        21.545631
+                  ]
+            },
+            {
+                  "name": "Punta Mosquito",
+                  "text": "Mosquito Point ist ein Aussichtspunkt oder Strand auf der Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.353117,
+                        21.543074
+                  ]
+            },
+            {
+                  "name": "Bonita Playa",
+                  "text": "Bonita Playa ist ein Aussichtspunkt auf der Isla Holbox mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -87.360938,
+                        21.536906
+                  ]
+            },
+            {
+                  "name": "Refugio Animal",
+                  "text": "Das Tierheim auf Isla Holbox bietet Schutz für Tiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.382115,
+                        21.521826
+                  ]
+            },
+            {
+                  "name": "Punta Cocos",
+                  "text": "Punta Cocos ist ein bekanntes Ausflugsziel auf Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.392467,
+                        21.50826
+                  ]
+            },
+            {
+                  "name": "Tortugas",
+                  "text": "Der Aussichtspunkt Tortugas auf Isla Holbox bietet Blick auf Schildkröten.",
+                  "category": "natural",
+                  "coords": [
+                        -87.396523,
+                        21.510625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta Mosquito",
+                  "text": "A Punta Mosquito egy kilátó Isla Holboxon, festői kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -87.326734,
+                        21.558309
+                  ]
+            },
+            {
+                  "name": "Crossing point.",
+                  "text": "Egy átkelőhely Isla Holboxon.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.344825,
+                        21.54082
+                  ]
+            },
+            {
+                  "name": "Playa mosquito",
+                  "text": "A Playa Mosquito egy strand Isla Holboxon.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.355819,
+                        21.545631
+                  ]
+            },
+            {
+                  "name": "Punta Mosquito",
+                  "text": "A Mosquito Point egy kilátó vagy strand Isla Holboxon.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.353117,
+                        21.543074
+                  ]
+            },
+            {
+                  "name": "Bonita Playa",
+                  "text": "A Bonita Playa egy kilátó Isla Holboxon, gyönyörű kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -87.360938,
+                        21.536906
+                  ]
+            },
+            {
+                  "name": "Refugio Animal",
+                  "text": "Az állatmenhely Isla Holbox szigetén állatok védelmét szolgálja.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.382115,
+                        21.521826
+                  ]
+            },
+            {
+                  "name": "Punta Cocos",
+                  "text": "Punta Cocos egy népszerű látványosság Isla Holboxon.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.392467,
+                        21.50826
+                  ]
+            },
+            {
+                  "name": "Tortugas",
+                  "text": "A Tortugas kilátópont Isla Holboxon teknősök megfigyelésére alkalmas.",
+                  "category": "natural",
+                  "coords": [
+                        -87.396523,
+                        21.510625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta Mosquito",
+                  "text": "Punta Mosquito este un punct de belvedere pe Isla Holbox, cu priveliști pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -87.326734,
+                        21.558309
+                  ]
+            },
+            {
+                  "name": "Crossing point.",
+                  "text": "Un punct de trecere pe Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.344825,
+                        21.54082
+                  ]
+            },
+            {
+                  "name": "Playa mosquito",
+                  "text": "Playa Mosquito este o plajă pe Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.355819,
+                        21.545631
+                  ]
+            },
+            {
+                  "name": "Punta Mosquito",
+                  "text": "Mosquito Point este un punct de belvedere sau o plajă pe Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.353117,
+                        21.543074
+                  ]
+            },
+            {
+                  "name": "Bonita Playa",
+                  "text": "Bonita Playa este un punct de belvedere pe Isla Holbox, cu o vedere frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        -87.360938,
+                        21.536906
+                  ]
+            },
+            {
+                  "name": "Refugio Animal",
+                  "text": "Adăpostul pentru animale de pe insula Isla Holbox oferă protecție animalelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.382115,
+                        21.521826
+                  ]
+            },
+            {
+                  "name": "Punta Cocos",
+                  "text": "Punta Cocos este o atracție populară pe insula Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.392467,
+                        21.50826
+                  ]
+            },
+            {
+                  "name": "Tortugas",
+                  "text": "Punctul de belvedere Tortugas de pe Isla Holbox oferă vedere la țestoase.",
+                  "category": "natural",
+                  "coords": [
+                        -87.396523,
+                        21.510625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta Mosquito",
+                  "text": "Punta Mosquito is a viewpoint on Isla Holbox offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        -87.326734,
+                        21.558309
+                  ]
+            },
+            {
+                  "name": "Crossing point.",
+                  "text": "A crossing point on Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.344825,
+                        21.54082
+                  ]
+            },
+            {
+                  "name": "Playa mosquito",
+                  "text": "Playa Mosquito is a beach on Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.355819,
+                        21.545631
+                  ]
+            },
+            {
+                  "name": "Mosquito Point",
+                  "text": "Mosquito Point is a viewpoint or beach on Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.353117,
+                        21.543074
+                  ]
+            },
+            {
+                  "name": "Bonita Playa",
+                  "text": "Bonita Playa is a viewpoint on Isla Holbox with a beautiful view.",
+                  "category": "natural",
+                  "coords": [
+                        -87.360938,
+                        21.536906
+                  ]
+            },
+            {
+                  "name": "Animal Refuge",
+                  "text": "Animal refuge on Isla Holbox providing shelter for animals.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.382115,
+                        21.521826
+                  ]
+            },
+            {
+                  "name": "Punta Cocos",
+                  "text": "Punta Cocos is a popular attraction on Isla Holbox.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.392467,
+                        21.50826
+                  ]
+            },
+            {
+                  "name": "Tortugas",
+                  "text": "Tortugas viewpoint on Isla Holbox, where turtles can be seen.",
+                  "category": "natural",
+                  "coords": [
+                        -87.396523,
+                        21.510625
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-ROO",
     coords: [-87.38, 21.52],
@@ -853,7 +7927,988 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "isla-mujeres-life-v2",
+    id: "isla-mujeres-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gran Puerto",
+                  "text": "Gran Puerto ist ein großer Hafen in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.807071,
+                        21.183749
+                  ]
+            },
+            {
+                  "name": "Playa Tiburón",
+                  "text": "Playa Tiburón ist eine Attraktion in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.733482,
+                        21.223499
+                  ]
+            },
+            {
+                  "name": "Escalera Arcoiris",
+                  "text": "Die Rainbow Steps sind bunte Stufen in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.727079,
+                        21.226262
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Das Monumento a los Maestros ist ein Denkmal für Lehrer in Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.728074,
+                        21.228084
+                  ]
+            },
+            {
+                  "name": "Marina Puerto Isla Mujeres - Villa Vera",
+                  "text": "Marina Puerto Isla Mujeres – Villa Vera ist ein Jachthafen in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.736879,
+                        21.235227
+                  ]
+            },
+            {
+                  "name": "Varadero Puerto Isla Mujeres",
+                  "text": "Shipyard Puerto Isla Mujeres ist eine Werft in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.738175,
+                        21.237181
+                  ]
+            },
+            {
+                  "name": "Dolphin Discovery",
+                  "text": "Dolphin Discovery bietet Delfinbegegnungen in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741671,
+                        21.234624
+                  ]
+            },
+            {
+                  "name": "Museo historico fotografico",
+                  "text": "Das Museo historico fotografico ist ein historisches Fotomuseum in Isla Mujeres.",
+                  "category": "museum",
+                  "coords": [
+                        -86.745628,
+                        21.256697
+                  ]
+            },
+            {
+                  "name": "Esduma La Perla Hotel Isla Mujeres",
+                  "text": "Esduma La Perla Hotel Isla Mujeres ist ein Strandabschnitt in Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746425,
+                        21.258594
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Centro ist ein Aussichtspunkt in Isla Mujeres.",
+                  "category": "natural",
+                  "coords": [
+                        -86.751237,
+                        21.256847
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "North Beach ist ein beliebter Strand in Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750993,
+                        21.260648
+                  ]
+            },
+            {
+                  "name": "Playa Media Luna",
+                  "text": "Ein halbmondförmiger Strand auf Isla Mujeres, bekannt für sein ruhiges Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.747267,
+                        21.259619
+                  ]
+            },
+            {
+                  "name": "Benito Juárez Garcia",
+                  "text": "Ein Denkmal auf Isla Mujeres zu Ehren des mexikanischen Präsidenten Benito Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -86.743042,
+                        21.251764
+                  ]
+            },
+            {
+                  "name": "Monumento Tiburon Ballena",
+                  "text": "Eine Skulptur auf Isla Mujeres, die die Walhaie feiert, die in den umliegenden Gewässern vorkommen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741594,
+                        21.247379
+                  ]
+            },
+            {
+                  "name": "Temple of Ixchel",
+                  "text": "Maya-Ruinen auf Isla Mujeres, die der Fruchtbarkeitsgöttin Ixchel gewidmet sind.",
+                  "category": "historical",
+                  "coords": [
+                        -86.710859,
+                        21.202012
+                  ]
+            },
+            {
+                  "name": "Iguana",
+                  "text": "Ein beliebter Ort auf Isla Mujeres, um Leguane zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.713077,
+                        21.204085
+                  ]
+            },
+            {
+                  "name": "Parque Garrafón",
+                  "text": "Ein Naturpark auf Isla Mujeres mit Schnorchelmöglichkeiten und Klippenspringen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.714469,
+                        21.204064
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Ein beliebtes Schnorchelgebiet auf Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.717591,
+                        21.205636
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Sistema Lagunar Chacmochuch",
+                  "text": "Ein geschütztes ökologisches Reservat auf Isla Mujeres mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -86.826245,
+                        21.231106
+                  ]
+            },
+            {
+                  "name": "Garrafón de Castilla Beach Park",
+                  "text": "Ein Strandclub auf Isla Mujeres mit Wasseraktivitäten und Gastronomie.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.718579,
+                        21.206489
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Laguna Manatí",
+                  "text": "Ein Naturschutzgebiet auf Isla Mujeres, das das Ökosystem der Manatí-Lagune schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -86.813411,
+                        21.191492
+                  ]
+            },
+            {
+                  "name": "Playa El Niño",
+                  "text": "Ein Strand auf Isla Mujeres, bekannt für seine sanften Wellen.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.805971,
+                        21.193286
+                  ]
+            },
+            {
+                  "name": "El Meco",
+                  "text": "Eine Maya-archäologische Stätte an der Nordküste von Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.803929,
+                        21.211486
+                  ]
+            },
+            {
+                  "name": "Tern Sanctuary",
+                  "text": "Ein Schutzgebiet auf Isla Mujeres für Seeschwalbenpopulationen.",
+                  "category": "natural",
+                  "coords": [
+                        -86.748693,
+                        21.264138
+                  ]
+            },
+            {
+                  "name": "Green Demon Beach Club",
+                  "text": "Ein Strandclub auf Isla Mujeres mit Annehmlichkeiten und Unterhaltung.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750178,
+                        21.261778
+                  ]
+            },
+            {
+                  "name": "Parque de los Sueños",
+                  "text": "Ein Strandpark auf Isla Mujeres, ideal zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.721596,
+                        21.210372
+                  ]
+            },
+            {
+                  "name": "MUSA Cancun Underwater Museum of Art",
+                  "text": "Ein Unterwasser-Museum in der Nähe von Isla Mujeres mit Hunderten von versunkenen Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        -86.725435,
+                        21.200921
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gran Puerto",
+                  "text": "Gran Puerto egy nagy kikötő Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.807071,
+                        21.183749
+                  ]
+            },
+            {
+                  "name": "Playa Tiburón",
+                  "text": "Playa Tiburón egy attrakció Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.733482,
+                        21.223499
+                  ]
+            },
+            {
+                  "name": "Escalera Arcoiris",
+                  "text": "A Rainbow Steps színes lépcsők Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.727079,
+                        21.226262
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "A Monumento a los Maestros a tanárok emlékműve Isla Mujeresen.",
+                  "category": "historical",
+                  "coords": [
+                        -86.728074,
+                        21.228084
+                  ]
+            },
+            {
+                  "name": "Marina Puerto Isla Mujeres - Villa Vera",
+                  "text": "Marina Puerto Isla Mujeres – Villa Vera egy kikötő Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.736879,
+                        21.235227
+                  ]
+            },
+            {
+                  "name": "Varadero Puerto Isla Mujeres",
+                  "text": "Shipyard Puerto Isla Mujeres egy hajógyár Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.738175,
+                        21.237181
+                  ]
+            },
+            {
+                  "name": "Dolphin Discovery",
+                  "text": "Dolphin Discovery delfintalálkozásokat kínál Isla Mujeresen.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741671,
+                        21.234624
+                  ]
+            },
+            {
+                  "name": "Museo historico fotografico",
+                  "text": "A Museo historico fotografico egy történelmi fotómúzeum Isla Mujeresen.",
+                  "category": "museum",
+                  "coords": [
+                        -86.745628,
+                        21.256697
+                  ]
+            },
+            {
+                  "name": "Esduma La Perla Hotel Isla Mujeres",
+                  "text": "Esduma La Perla Hotel Isla Mujeres egy strandrész Isla Mujeresen.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746425,
+                        21.258594
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Centro egy kilátópont Isla Mujeresen.",
+                  "category": "natural",
+                  "coords": [
+                        -86.751237,
+                        21.256847
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "North Beach egy népszerű strand Isla Mujeresen.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750993,
+                        21.260648
+                  ]
+            },
+            {
+                  "name": "Playa Media Luna",
+                  "text": "Egy félhold alakú strand Isla Mujeres szigetén, nyugodt vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.747267,
+                        21.259619
+                  ]
+            },
+            {
+                  "name": "Benito Juárez Garcia",
+                  "text": "Egy szobor Isla Mujeres szigetén, amely Benito Juárez mexikói elnököt tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        -86.743042,
+                        21.251764
+                  ]
+            },
+            {
+                  "name": "Monumento Tiburon Ballena",
+                  "text": "Egy szobor Isla Mujeres szigetén, amely a környező vizekben élő cetcápákat ünnepli.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741594,
+                        21.247379
+                  ]
+            },
+            {
+                  "name": "Temple of Ixchel",
+                  "text": "Maja romok Isla Mujeres szigetén, a termékenység istennőjének, Ixchelnek szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        -86.710859,
+                        21.202012
+                  ]
+            },
+            {
+                  "name": "Iguana",
+                  "text": "Egy népszerű hely Isla Mujeres szigetén, ahol leguánokat lehet látni.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.713077,
+                        21.204085
+                  ]
+            },
+            {
+                  "name": "Parque Garrafón",
+                  "text": "Egy természeti park Isla Mujeres szigetén, sznorkelezési lehetőségekkel és szikláról ugrálással.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.714469,
+                        21.204064
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Egy népszerű sznorkelezőhely Isla Mujeres szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.717591,
+                        21.205636
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Sistema Lagunar Chacmochuch",
+                  "text": "Egy védett ökológiai rezervátum Isla Mujeres szigetén, változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        -86.826245,
+                        21.231106
+                  ]
+            },
+            {
+                  "name": "Garrafón de Castilla Beach Park",
+                  "text": "Egy strandklub Isla Mujeres szigetén, vízi tevékenységekkel és étkezési lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.718579,
+                        21.206489
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Laguna Manatí",
+                  "text": "Egy természetvédelmi terület Isla Mujeres szigetén, amely a Manatí-lagúna ökoszisztémáját védi.",
+                  "category": "natural",
+                  "coords": [
+                        -86.813411,
+                        21.191492
+                  ]
+            },
+            {
+                  "name": "Playa El Niño",
+                  "text": "Egy strand Isla Mujeres szigetén, gyengéd hullámairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.805971,
+                        21.193286
+                  ]
+            },
+            {
+                  "name": "El Meco",
+                  "text": "Egy maja régészeti lelőhely Isla Mujeres északi partján.",
+                  "category": "historical",
+                  "coords": [
+                        -86.803929,
+                        21.211486
+                  ]
+            },
+            {
+                  "name": "Tern Sanctuary",
+                  "text": "Egy szentély Isla Mujeres szigetén a csér madárpopulációk védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -86.748693,
+                        21.264138
+                  ]
+            },
+            {
+                  "name": "Green Demon Beach Club",
+                  "text": "Egy strandklub Isla Mujeres szigetén, szolgáltatásokkal és szórakozással.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750178,
+                        21.261778
+                  ]
+            },
+            {
+                  "name": "Parque de los Sueños",
+                  "text": "Egy strandpark Isla Mujeres szigetén, pihenésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.721596,
+                        21.210372
+                  ]
+            },
+            {
+                  "name": "MUSA Cancun Underwater Museum of Art",
+                  "text": "Egy víz alatti múzeum Isla Mujeres közelében, több száz elsüllyedt szoborral.",
+                  "category": "museum",
+                  "coords": [
+                        -86.725435,
+                        21.200921
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gran Puerto",
+                  "text": "Gran Puerto este un port mare în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.807071,
+                        21.183749
+                  ]
+            },
+            {
+                  "name": "Playa Tiburón",
+                  "text": "Playa Tiburón este o atracție în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.733482,
+                        21.223499
+                  ]
+            },
+            {
+                  "name": "Escalera Arcoiris",
+                  "text": "Rainbow Steps sunt trepte colorate în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.727079,
+                        21.226262
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Monumento a los Maestros este un monument al profesorilor din Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.728074,
+                        21.228084
+                  ]
+            },
+            {
+                  "name": "Marina Puerto Isla Mujeres - Villa Vera",
+                  "text": "Marina Puerto Isla Mujeres – Villa Vera este o marină în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.736879,
+                        21.235227
+                  ]
+            },
+            {
+                  "name": "Varadero Puerto Isla Mujeres",
+                  "text": "Shipyard Puerto Isla Mujeres este un șantier naval în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.738175,
+                        21.237181
+                  ]
+            },
+            {
+                  "name": "Dolphin Discovery",
+                  "text": "Dolphin Discovery oferă întâlniri cu delfinii în Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741671,
+                        21.234624
+                  ]
+            },
+            {
+                  "name": "Museo historico fotografico",
+                  "text": "Museo historico fotografico este un muzeu istoric de fotografie în Isla Mujeres.",
+                  "category": "museum",
+                  "coords": [
+                        -86.745628,
+                        21.256697
+                  ]
+            },
+            {
+                  "name": "Esduma La Perla Hotel Isla Mujeres",
+                  "text": "Esduma La Perla Hotel Isla Mujeres este o porțiune de plajă în Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746425,
+                        21.258594
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "Playa Centro este un punct de belvedere în Isla Mujeres.",
+                  "category": "natural",
+                  "coords": [
+                        -86.751237,
+                        21.256847
+                  ]
+            },
+            {
+                  "name": "Playa Norte",
+                  "text": "North Beach este o plajă populară în Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750993,
+                        21.260648
+                  ]
+            },
+            {
+                  "name": "Playa Media Luna",
+                  "text": "O plajă în formă de semilună pe Insula Isla Mujeres, cunoscută pentru apele sale calme.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.747267,
+                        21.259619
+                  ]
+            },
+            {
+                  "name": "Benito Juárez Garcia",
+                  "text": "Un monument pe Insula Isla Mujeres în onoarea președintelui mexican Benito Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -86.743042,
+                        21.251764
+                  ]
+            },
+            {
+                  "name": "Monumento Tiburon Ballena",
+                  "text": "O sculptură pe Insula Isla Mujeres care celebrează rechinii-balenă din apele din jur.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741594,
+                        21.247379
+                  ]
+            },
+            {
+                  "name": "Temple of Ixchel",
+                  "text": "Ruine mayașe pe Insula Isla Mujeres dedicate zeiței fertilității Ixchel.",
+                  "category": "historical",
+                  "coords": [
+                        -86.710859,
+                        21.202012
+                  ]
+            },
+            {
+                  "name": "Iguana",
+                  "text": "Un loc popular pe Insula Isla Mujeres pentru a vedea iguane.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.713077,
+                        21.204085
+                  ]
+            },
+            {
+                  "name": "Parque Garrafón",
+                  "text": "Un parc natural pe Insula Isla Mujeres cu snorkeling și sărituri de pe stânci.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.714469,
+                        21.204064
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "O zonă populară de snorkeling pe Insula Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.717591,
+                        21.205636
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Sistema Lagunar Chacmochuch",
+                  "text": "O rezervație ecologică protejată pe Insula Isla Mujeres, cu floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -86.826245,
+                        21.231106
+                  ]
+            },
+            {
+                  "name": "Garrafón de Castilla Beach Park",
+                  "text": "Un club de plajă pe Insula Isla Mujeres, cu activități acvatice și restaurante.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.718579,
+                        21.206489
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Laguna Manatí",
+                  "text": "O rezervație naturală pe Insula Isla Mujeres care protejează ecosistemul lagunei Manatí.",
+                  "category": "natural",
+                  "coords": [
+                        -86.813411,
+                        21.191492
+                  ]
+            },
+            {
+                  "name": "Playa El Niño",
+                  "text": "O plajă pe Insula Isla Mujeres, cunoscută pentru valurile sale blânde.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.805971,
+                        21.193286
+                  ]
+            },
+            {
+                  "name": "El Meco",
+                  "text": "Un sit arheologic mayaș pe coasta de nord a Insulei Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.803929,
+                        21.211486
+                  ]
+            },
+            {
+                  "name": "Tern Sanctuary",
+                  "text": "Un sanctuar pe Insula Isla Mujeres pentru protejarea populațiilor de păsări tern.",
+                  "category": "natural",
+                  "coords": [
+                        -86.748693,
+                        21.264138
+                  ]
+            },
+            {
+                  "name": "Green Demon Beach Club",
+                  "text": "Un club de plajă pe Insula Isla Mujeres cu facilități și divertisment.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750178,
+                        21.261778
+                  ]
+            },
+            {
+                  "name": "Parque de los Sueños",
+                  "text": "Un parc de plajă pe Insula Isla Mujeres, ideal pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.721596,
+                        21.210372
+                  ]
+            },
+            {
+                  "name": "MUSA Cancun Underwater Museum of Art",
+                  "text": "Un muzeu subacvatic lângă Insula Isla Mujeres, cu sute de sculpturi scufundate.",
+                  "category": "museum",
+                  "coords": [
+                        -86.725435,
+                        21.200921
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gran Puerto",
+                  "text": "Gran Puerto is a large port in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.807071,
+                        21.183749
+                  ]
+            },
+            {
+                  "name": "Playa Tiburón",
+                  "text": "Playa Tiburón is an attraction in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.733482,
+                        21.223499
+                  ]
+            },
+            {
+                  "name": "Rainbow Steps",
+                  "text": "The Rainbow Steps are colorful steps in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.727079,
+                        21.226262
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Monumento a los Maestros is a monument to teachers in Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.728074,
+                        21.228084
+                  ]
+            },
+            {
+                  "name": "Marina Puerto Isla Mujeres - Villa Vera",
+                  "text": "Marina Puerto Isla Mujeres – Villa Vera is a marina in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.736879,
+                        21.235227
+                  ]
+            },
+            {
+                  "name": "Shipyard Puerto Isla Mujeres",
+                  "text": "Shipyard Puerto Isla Mujeres is a shipyard in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.738175,
+                        21.237181
+                  ]
+            },
+            {
+                  "name": "Dolphin Discovery",
+                  "text": "Dolphin Discovery offers dolphin encounters in Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741671,
+                        21.234624
+                  ]
+            },
+            {
+                  "name": "Museo historico fotografico",
+                  "text": "Museo historico fotografico is a historical photography museum in Isla Mujeres.",
+                  "category": "museum",
+                  "coords": [
+                        -86.745628,
+                        21.256697
+                  ]
+            },
+            {
+                  "name": "Esduma La Perla Hotel Isla Mujeres",
+                  "text": "Esduma La Perla Hotel Isla Mujeres is a beach section in Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.746425,
+                        21.258594
+                  ]
+            },
+            {
+                  "name": "Playa Centro",
+                  "text": "Playa Centro is a viewpoint in Isla Mujeres.",
+                  "category": "natural",
+                  "coords": [
+                        -86.751237,
+                        21.256847
+                  ]
+            },
+            {
+                  "name": "North Beach",
+                  "text": "North Beach is a popular beach in Isla Mujeres.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750993,
+                        21.260648
+                  ]
+            },
+            {
+                  "name": "Playa Media Luna",
+                  "text": "A crescent-shaped beach on Isla Mujeres known for its calm waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.747267,
+                        21.259619
+                  ]
+            },
+            {
+                  "name": "Benito Juárez Garcia",
+                  "text": "A monument on Isla Mujeres honoring the Mexican president Benito Juárez.",
+                  "category": "historical",
+                  "coords": [
+                        -86.743042,
+                        21.251764
+                  ]
+            },
+            {
+                  "name": "Whale Shark Monument",
+                  "text": "A sculpture on Isla Mujeres celebrating the whale sharks that frequent the surrounding waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.741594,
+                        21.247379
+                  ]
+            },
+            {
+                  "name": "Temple of Ixchel",
+                  "text": "Mayan ruins on Isla Mujeres dedicated to the goddess of fertility Ixchel.",
+                  "category": "historical",
+                  "coords": [
+                        -86.710859,
+                        21.202012
+                  ]
+            },
+            {
+                  "name": "Iguana",
+                  "text": "A popular spot on Isla Mujeres to see iguanas.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.713077,
+                        21.204085
+                  ]
+            },
+            {
+                  "name": "Parque Garrafón",
+                  "text": "A natural park on Isla Mujeres with snorkeling and cliff jumping.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.714469,
+                        21.204064
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "A popular snorkeling area on Isla Mujeres.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.717591,
+                        21.205636
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Sistema Lagunar Chacmochuch",
+                  "text": "A protected ecological reserve on Isla Mujeres with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -86.826245,
+                        21.231106
+                  ]
+            },
+            {
+                  "name": "Garrafón de Castilla Beach Park",
+                  "text": "A beach club on Isla Mujeres offering water activities and dining.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.718579,
+                        21.206489
+                  ]
+            },
+            {
+                  "name": "Zona Sujeta a Conservación Ecológica Refugio Estatal de Flora y Fauna Laguna Manatí",
+                  "text": "A nature reserve on Isla Mujeres protecting the Manatí lagoon ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -86.813411,
+                        21.191492
+                  ]
+            },
+            {
+                  "name": "Playa El Niño",
+                  "text": "A beach on Isla Mujeres known for its gentle waves.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.805971,
+                        21.193286
+                  ]
+            },
+            {
+                  "name": "El Meco",
+                  "text": "A Mayan archaeological site on the northern coast of Isla Mujeres.",
+                  "category": "historical",
+                  "coords": [
+                        -86.803929,
+                        21.211486
+                  ]
+            },
+            {
+                  "name": "Tern Sanctuary",
+                  "text": "A sanctuary on Isla Mujeres protecting tern bird populations.",
+                  "category": "natural",
+                  "coords": [
+                        -86.748693,
+                        21.264138
+                  ]
+            },
+            {
+                  "name": "Green Demon Beach Club",
+                  "text": "A beach club on Isla Mujeres with amenities and entertainment.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.750178,
+                        21.261778
+                  ]
+            },
+            {
+                  "name": "Parque de los Sueños",
+                  "text": "A beach park on Isla Mujeres ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.721596,
+                        21.210372
+                  ]
+            },
+            {
+                  "name": "MUSA Cancun Underwater Museum of Art",
+                  "text": "An underwater museum near Isla Mujeres with hundreds of submerged sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        -86.725435,
+                        21.200921
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-ROO",
     coords: [-86.73, 21.23],
@@ -903,7 +8958,484 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "janitzio-island-life-v2",
+    id: "janitzio-island-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cementerio",
+                  "text": "Ein Friedhof auf der Insel Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.696852,
+                        19.555959
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos Pavón",
+                  "text": "Eine große Statue von José María Morelos, einem prominenten mexikanischen Unabhängigkeitsführer, auf der Insel Janitzio.",
+                  "category": "historical",
+                  "coords": [
+                        -101.651943,
+                        19.574242
+                  ]
+            },
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "Ein Museum für Volkskunst und -industrie auf der Insel Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "Ein Veranstaltungsort namens Salon Robal auf der Insel Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "Ein Interpretationszentrum zur Route Don Vasco auf der Insel Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Ihuatzio",
+                  "text": "Eine prähispanische Purépecha-archäologische Stätte nahe der Insel Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.621159,
+                        19.577989
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "Ein geschütztes Naturgebiet am Cerro del Estribo Grande nahe Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642995,
+                        19.510939
+                  ]
+            },
+            {
+                  "name": "Humedales del lago de Pátzcuaro",
+                  "text": "Die Feuchtgebiete des Pátzcuaro-Sees nahe Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.675191,
+                        19.560234
+                  ]
+            },
+            {
+                  "name": "Casa de los once patios",
+                  "text": "Eine Galerie im Haus der elf Innenhöfe auf der Insel Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.60816,
+                        19.511793
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "Eine Basilika, die der Jungfrau der Gesundheit geweiht ist, auf der Insel Janitzio.",
+                  "category": "religious",
+                  "coords": [
+                        -101.606012,
+                        19.514999
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "Ein nach Kaiser Caltzontzin benanntes Theater auf der Insel Janitzio.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608569,
+                        19.516864
+                  ]
+            },
+            {
+                  "name": "Posada de Don Vasco",
+                  "text": "Ein Hotel namens Don Vasco Inn auf der Insel Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.611855,
+                        19.532
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "Ein Umweltrestaurierungsgebiet am Estribito del Cerro Colorado nahe Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.609022,
+                        19.53796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cementerio",
+                  "text": "Egy temető Janitzio szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.696852,
+                        19.555959
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos Pavón",
+                  "text": "José María Morelos, a mexikói függetlenségi harcos nagy szobra Janitzio szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -101.651943,
+                        19.574242
+                  ]
+            },
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "Népi művészetek és iparok múzeuma Janitzio szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "Egy Salon Robal nevű helyszín Janitzio szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "Egy interpretációs központ a Don Vasco útvonalról Janitzio szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Ihuatzio",
+                  "text": "Egy prehispanikus Purépecha régészeti lelőhely Janitzio szigete közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.621159,
+                        19.577989
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "Egy védett természeti terület a Cerro del Estribo Grandén Janitzio közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642995,
+                        19.510939
+                  ]
+            },
+            {
+                  "name": "Humedales del lago de Pátzcuaro",
+                  "text": "A Pátzcuaro-tó vizes élőhelyei Janitzio közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -101.675191,
+                        19.560234
+                  ]
+            },
+            {
+                  "name": "Casa de los once patios",
+                  "text": "Egy galéria a Tizenegy Udvar Házában Janitzio szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        -101.60816,
+                        19.511793
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "Egy bazilika, amelyet az Egészség Szűzanyjának szenteltek, Janitzio szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        -101.606012,
+                        19.514999
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "Egy Caltzontzin császárról elnevezett színház Janitzio szigetén.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608569,
+                        19.516864
+                  ]
+            },
+            {
+                  "name": "Posada de Don Vasco",
+                  "text": "Egy Don Vasco fogadó nevű szálloda Janitzio szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.611855,
+                        19.532
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "Egy környezeti helyreállítási terület az Estribito del Cerro Colorado-n Janitzio közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -101.609022,
+                        19.53796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cementerio",
+                  "text": "Un cimitir pe insula Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.696852,
+                        19.555959
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos Pavón",
+                  "text": "O statuie mare a lui José María Morelos, un important lider al independenței mexicane, pe insula Janitzio.",
+                  "category": "historical",
+                  "coords": [
+                        -101.651943,
+                        19.574242
+                  ]
+            },
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "Un muzeu al artelor și industriilor populare pe insula Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "Un local numit Salon Robal pe insula Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "Un centru de interpretare a Rutei Don Vasco pe insula Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Ihuatzio",
+                  "text": "Un sit arheologic prehispanic Purépecha lângă insula Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.621159,
+                        19.577989
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "O arie naturală protejată pe Cerro del Estribo Grande lângă Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642995,
+                        19.510939
+                  ]
+            },
+            {
+                  "name": "Humedales del lago de Pátzcuaro",
+                  "text": "Zona umedă a lacului Pátzcuaro lângă Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.675191,
+                        19.560234
+                  ]
+            },
+            {
+                  "name": "Casa de los once patios",
+                  "text": "O galerie în Casa celor unsprezece curți pe insula Janitzio.",
+                  "category": "museum",
+                  "coords": [
+                        -101.60816,
+                        19.511793
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "O bazilică dedicată Maicii Domnului a Sănătății pe insula Janitzio.",
+                  "category": "religious",
+                  "coords": [
+                        -101.606012,
+                        19.514999
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "Un teatru numit după Împăratul Caltzontzin pe insula Janitzio.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608569,
+                        19.516864
+                  ]
+            },
+            {
+                  "name": "Posada de Don Vasco",
+                  "text": "Un hotel numit Hanul Don Vasco pe insula Janitzio.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.611855,
+                        19.532
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "O zonă de restaurare ecologică pe Estribito del Cerro Colorado lângă Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.609022,
+                        19.53796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cementery",
+                  "text": "A cemetery on Janitzio Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.696852,
+                        19.555959
+                  ]
+            },
+            {
+                  "name": "Monumento José María Morelos Pavón",
+                  "text": "A large statue of José María Morelos, a prominent Mexican independence leader, on Janitzio Island.",
+                  "category": "historical",
+                  "coords": [
+                        -101.651943,
+                        19.574242
+                  ]
+            },
+            {
+                  "name": "Museo de las Artes e Industrias Populares",
+                  "text": "A museum of popular arts and industries on Janitzio Island.",
+                  "category": "museum",
+                  "coords": [
+                        -101.606954,
+                        19.51369
+                  ]
+            },
+            {
+                  "name": "salon Robal",
+                  "text": "A venue called Salon Robal on Janitzio Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.604346,
+                        19.522178
+                  ]
+            },
+            {
+                  "name": "Centro de Interpretación Ruta Don Vasco",
+                  "text": "An interpretation center about the Don Vasco Route on Janitzio Island.",
+                  "category": "museum",
+                  "coords": [
+                        -101.615643,
+                        19.536345
+                  ]
+            },
+            {
+                  "name": "Zona Arqueológica Ihuatzio",
+                  "text": "A pre-Hispanic Purépecha archaeological site near Janitzio Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.621159,
+                        19.577989
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Cerro del Estribo Grande",
+                  "text": "A protected natural area on Cerro del Estribo Grande near Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.642995,
+                        19.510939
+                  ]
+            },
+            {
+                  "name": "Humedales del lago de Pátzcuaro",
+                  "text": "The wetlands of Lake Pátzcuaro near Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.675191,
+                        19.560234
+                  ]
+            },
+            {
+                  "name": "Casa de los once patios",
+                  "text": "A gallery in the House of the Eleven Patios on Janitzio Island.",
+                  "category": "museum",
+                  "coords": [
+                        -101.60816,
+                        19.511793
+                  ]
+            },
+            {
+                  "name": "Basilica de Nuestra Señora de la Salud",
+                  "text": "A basilica dedicated to Our Lady of Health on Janitzio Island.",
+                  "category": "religious",
+                  "coords": [
+                        -101.606012,
+                        19.514999
+                  ]
+            },
+            {
+                  "name": "Teatro Emperador Caltzontzin",
+                  "text": "A theatre named after Emperor Caltzontzin on Janitzio Island.",
+                  "category": "cultural",
+                  "coords": [
+                        -101.608569,
+                        19.516864
+                  ]
+            },
+            {
+                  "name": "Posada de Don Vasco",
+                  "text": "A hotel called Don Vasco Inn on Janitzio Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -101.611855,
+                        19.532
+                  ]
+            },
+            {
+                  "name": "Zona de Restauración Ambiental Estribito del Cerro Colorado",
+                  "text": "An environmental restoration area on Estribito del Cerro Colorado near Janitzio.",
+                  "category": "natural",
+                  "coords": [
+                        -101.609022,
+                        19.53796
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-MIC",
     coords: [-101.69, 19.55],
@@ -953,7 +9485,412 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "isla-espiritu-santo-life-v2",
+    id: "isla-espiritu-santo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Corralito",
+                  "text": "Ein Strand auf Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.371542,
+                        24.446339
+                  ]
+            },
+            {
+                  "name": "Stacked Rocks",
+                  "text": "Aufgestapelte Felsformationen auf Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.305808,
+                        24.504619
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Ein natürlicher Bogen auf Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.335185,
+                        24.523529
+                  ]
+            },
+            {
+                  "name": "Baja Expeditions Eco Camp",
+                  "text": "Ein Öko-Camp-Strand auf Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.387393,
+                        24.516098
+                  ]
+            },
+            {
+                  "name": "The Mask",
+                  "text": "Die Maske ist eine Attraktion auf der Insel Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.389759,
+                        24.499141
+                  ]
+            },
+            {
+                  "name": "Isla Gallina",
+                  "text": "Isla Gallina ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.383988,
+                        24.457093
+                  ]
+            },
+            {
+                  "name": "Parque nacional marina del Archipiélago de Espíritu Santo",
+                  "text": "Der Nationale Meerespark des Archipiélago de Espíritu Santo ist ein Naturschutzgebiet im Espíritu Santo-Archipel.",
+                  "category": "natural",
+                  "coords": [
+                        -110.348894,
+                        24.50785
+                  ]
+            },
+            {
+                  "name": "Isla Gallo",
+                  "text": "Isla Gallo ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.385426,
+                        24.466064
+                  ]
+            },
+            {
+                  "name": "Isla Ballena",
+                  "text": "Isla Ballena ist ein Naturschutzgebiet auf der Insel Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.403527,
+                        24.483031
+                  ]
+            },
+            {
+                  "name": "Quieta",
+                  "text": "Quieta ist ein Strand auf der Insel Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.401355,
+                        24.565971
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Islas del Golfo de California",
+                  "text": "Das Área de Protección de Flora y Fauna Islas del Golfo de California ist ein Naturschutzgebiet, das Inseln im Golf von Kalifornien umfasst, einschließlich der Insel Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.414302,
+                        24.571648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Corralito",
+                  "text": "Egy strand Isla Espíritu Santón.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.371542,
+                        24.446339
+                  ]
+            },
+            {
+                  "name": "Stacked Rocks",
+                  "text": "Egymásra rakott sziklák Isla Espíritu Santón.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.305808,
+                        24.504619
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Egy természetes ív Isla Espíritu Santón.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.335185,
+                        24.523529
+                  ]
+            },
+            {
+                  "name": "Baja Expeditions Eco Camp",
+                  "text": "Egy öko-tábor strand Isla Espíritu Santón.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.387393,
+                        24.516098
+                  ]
+            },
+            {
+                  "name": "The Mask",
+                  "text": "A Maszk egy látványosság az Espíritu Santo-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.389759,
+                        24.499141
+                  ]
+            },
+            {
+                  "name": "Isla Gallina",
+                  "text": "Isla Gallina egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -110.383988,
+                        24.457093
+                  ]
+            },
+            {
+                  "name": "Parque nacional marina del Archipiélago de Espíritu Santo",
+                  "text": "Az Archipiélago de Espíritu Santo tengeri nemzeti parkja természetvédelmi terület az Espíritu Santo-szigetvilágban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.348894,
+                        24.50785
+                  ]
+            },
+            {
+                  "name": "Isla Gallo",
+                  "text": "Isla Gallo egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -110.385426,
+                        24.466064
+                  ]
+            },
+            {
+                  "name": "Isla Ballena",
+                  "text": "Isla Ballena egy természetvédelmi terület az Espíritu Santo-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        -110.403527,
+                        24.483031
+                  ]
+            },
+            {
+                  "name": "Quieta",
+                  "text": "Quieta egy strand az Espíritu Santo-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.401355,
+                        24.565971
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Islas del Golfo de California",
+                  "text": "Az Área de Protección de Flora y Fauna Islas del Golfo de California egy természetvédelmi terület, amely a Kaliforniai-öböl szigeteit foglalja magában, beleértve az Espíritu Santo-szigetet is.",
+                  "category": "natural",
+                  "coords": [
+                        -110.414302,
+                        24.571648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Corralito",
+                  "text": "O plajă pe Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.371542,
+                        24.446339
+                  ]
+            },
+            {
+                  "name": "Stacked Rocks",
+                  "text": "Formațiuni de stânci stivuite pe Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.305808,
+                        24.504619
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "Un arc natural pe Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.335185,
+                        24.523529
+                  ]
+            },
+            {
+                  "name": "Baja Expeditions Eco Camp",
+                  "text": "O plajă de eco-camp pe Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.387393,
+                        24.516098
+                  ]
+            },
+            {
+                  "name": "The Mask",
+                  "text": "Masca este o atracție pe insula Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.389759,
+                        24.499141
+                  ]
+            },
+            {
+                  "name": "Isla Gallina",
+                  "text": "Isla Gallina este o rezervație naturală pe insula Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.383988,
+                        24.457093
+                  ]
+            },
+            {
+                  "name": "Parque nacional marina del Archipiélago de Espíritu Santo",
+                  "text": "Parcul național marin al Arhipelagului Espíritu Santo este o rezervație naturală în arhipelagul Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.348894,
+                        24.50785
+                  ]
+            },
+            {
+                  "name": "Isla Gallo",
+                  "text": "Isla Gallo este o rezervație naturală pe insula Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.385426,
+                        24.466064
+                  ]
+            },
+            {
+                  "name": "Isla Ballena",
+                  "text": "Isla Ballena este o rezervație naturală pe insula Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.403527,
+                        24.483031
+                  ]
+            },
+            {
+                  "name": "Quieta",
+                  "text": "Quieta este o plajă pe insula Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.401355,
+                        24.565971
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Islas del Golfo de California",
+                  "text": "Área de Protección de Flora y Fauna Islas del Golfo de California este o rezervație naturală care cuprinde insulele din Golful Californiei, inclusiv insula Espíritu Santo.",
+                  "category": "natural",
+                  "coords": [
+                        -110.414302,
+                        24.571648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Corralito",
+                  "text": "A beach on Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.371542,
+                        24.446339
+                  ]
+            },
+            {
+                  "name": "Stacked Rocks",
+                  "text": "Stacked rock formations on Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.305808,
+                        24.504619
+                  ]
+            },
+            {
+                  "name": "Arch",
+                  "text": "A natural arch on Isla Espíritu Santo.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.335185,
+                        24.523529
+                  ]
+            },
+            {
+                  "name": "Baja Expeditions Eco Camp",
+                  "text": "An eco camp beach on Isla Espíritu Santo.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.387393,
+                        24.516098
+                  ]
+            },
+            {
+                  "name": "The Mask",
+                  "text": "The Mask is an attraction on Espíritu Santo Island.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.389759,
+                        24.499141
+                  ]
+            },
+            {
+                  "name": "Isla Gallina",
+                  "text": "Isla Gallina is a nature reserve on Espíritu Santo Island.",
+                  "category": "natural",
+                  "coords": [
+                        -110.383988,
+                        24.457093
+                  ]
+            },
+            {
+                  "name": "Parque nacional marina del Archipiélago de Espíritu Santo",
+                  "text": "The national marine park of the Archipiélago de Espíritu Santo is a nature reserve in the Espíritu Santo Archipelago.",
+                  "category": "natural",
+                  "coords": [
+                        -110.348894,
+                        24.50785
+                  ]
+            },
+            {
+                  "name": "Isla Gallo",
+                  "text": "Isla Gallo is a nature reserve on Espíritu Santo Island.",
+                  "category": "natural",
+                  "coords": [
+                        -110.385426,
+                        24.466064
+                  ]
+            },
+            {
+                  "name": "Isla Ballena",
+                  "text": "Isla Ballena is a nature reserve on Espíritu Santo Island.",
+                  "category": "natural",
+                  "coords": [
+                        -110.403527,
+                        24.483031
+                  ]
+            },
+            {
+                  "name": "Quieta",
+                  "text": "Quieta is a beach on Espíritu Santo Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.401355,
+                        24.565971
+                  ]
+            },
+            {
+                  "name": "Área de Protección de Flora y Fauna Islas del Golfo de California",
+                  "text": "Área de Protección de Flora y Fauna Islas del Golfo de California is a nature reserve encompassing islands in the Gulf of California, including Espíritu Santo Island.",
+                  "category": "natural",
+                  "coords": [
+                        -110.414302,
+                        24.571648
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-BCS",
     coords: [-110.34, 24.52],
@@ -1053,7 +9990,124 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "marietas-islands-life-v2",
+    id: "marietas-islands-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa del amor",
+                  "text": "Liebesstrand, eine Attraktion auf den Marietas-Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.566719,
+                        20.703981
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Schnorchelmöglichkeit auf den Marietas-Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.577358,
+                        20.696632
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Versteckter Strand auf den Marietas-Inseln, bekannt für seinen geheimen Zugang durch eine Höhle.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.564958,
+                        20.704162
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa del amor",
+                  "text": "A szerelem strandja, látványosság a Marietas-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.566719,
+                        20.703981
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Búvárkodás a Marietas-szigeteken.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.577358,
+                        20.696632
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Rejtett strand a Marietas-szigeteken, amely egy barlangon keresztüli titkos bejáratáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.564958,
+                        20.704162
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa del amor",
+                  "text": "Plaja Iubirii, o atracție pe insulele Marietas.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.566719,
+                        20.703981
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Actvitate de snorkelling pe insulele Marietas.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.577358,
+                        20.696632
+                  ]
+            },
+            {
+                  "name": "Playa Escondida",
+                  "text": "Plajă ascunsă pe insulele Marietas, cunoscută pentru accesul secret printr-o peșteră.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.564958,
+                        20.704162
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa del amor",
+                  "text": "Love Beach, an attraction on the Marietas Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.566719,
+                        20.703981
+                  ]
+            },
+            {
+                  "name": "Snorkelling",
+                  "text": "Snorkelling activity on the Marietas Islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -105.577358,
+                        20.696632
+                  ]
+            },
+            {
+                  "name": "Hidden Beach",
+                  "text": "Hidden Beach on the Marietas Islands, famous for its secret entrance through a cave.",
+                  "category": "recreational",
+                  "coords": [
+                        -105.564958,
+                        20.704162
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-NAY",
     coords: [-105.57, 20.7],
@@ -1103,7 +10157,88 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "contoy-island-life-v2",
+    id: "contoy-island-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Contoy Lighthouse",
+                  "text": "Ein historischer Leuchtturm auf Contoy Island, der Schiffe in der Karibik leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.802702,
+                        21.528928
+                  ]
+            },
+            {
+                  "name": "Isla Contoy",
+                  "text": "Ein geschütztes Insel-Naturschutzgebiet, bekannt für sein Vogelschutzgebiet und unberührte Strände.",
+                  "category": "natural",
+                  "coords": [
+                        -86.794721,
+                        21.494437
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Contoy Lighthouse",
+                  "text": "Egy történelmi világítótorony Contoy szigetén, amely hajókat irányít a Karib-térségben.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.802702,
+                        21.528928
+                  ]
+            },
+            {
+                  "name": "Isla Contoy",
+                  "text": "Egy védett szigeti természetvédelmi terület, amely madárrezervátumáról és érintetlen strandjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -86.794721,
+                        21.494437
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Contoy Lighthouse",
+                  "text": "Un far istoric pe Insula Contoy, care ghidează navele în Caraibe.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.802702,
+                        21.528928
+                  ]
+            },
+            {
+                  "name": "Isla Contoy",
+                  "text": "O rezervație naturală insulară protejată, cunoscută pentru sanctuarul de păsări și plajele nealterate.",
+                  "category": "natural",
+                  "coords": [
+                        -86.794721,
+                        21.494437
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Contoy Lighthouse",
+                  "text": "A historic lighthouse on Contoy Island guiding ships in the Caribbean.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.802702,
+                        21.528928
+                  ]
+            },
+            {
+                  "name": "Isla Contoy",
+                  "text": "A protected island nature reserve known for its bird sanctuary and pristine beaches.",
+                  "category": "natural",
+                  "coords": [
+                        -86.794721,
+                        21.494437
+                  ]
+            }
+      ]
+},
     type: "island",
     parent: "MX-ROO",
     coords: [-86.78, 21.49],
@@ -1153,7 +10288,88 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "tequila-agave-fields-life-v2",
+    id: "tequila-agave-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Campo Agavero Turístico",
+                  "text": "Touristisches Agavenfeld in der Agavenregion.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.819371,
+                        20.878666
+                  ]
+            },
+            {
+                  "name": "Chacuaco",
+                  "text": "Ein Denkmal, das mit der Agavenproduktion verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -103.833031,
+                        20.881973
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Campo Agavero Turístico",
+                  "text": "Turisztikai agávémező az agávé régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.819371,
+                        20.878666
+                  ]
+            },
+            {
+                  "name": "Chacuaco",
+                  "text": "Az agávétermeléshez kapcsolódó emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -103.833031,
+                        20.881973
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Campo Agavero Turístico",
+                  "text": "Câmp turistic de agave în regiunea agavelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.819371,
+                        20.878666
+                  ]
+            },
+            {
+                  "name": "Chacuaco",
+                  "text": "Un monument legat de producția de agave.",
+                  "category": "historical",
+                  "coords": [
+                        -103.833031,
+                        20.881973
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Campo Agavero Turístico",
+                  "text": "A tourist agave field in the agave-growing region.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.819371,
+                        20.878666
+                  ]
+            },
+            {
+                  "name": "Chacuaco",
+                  "text": "A monument related to agave production.",
+                  "category": "historical",
+                  "coords": [
+                        -103.833031,
+                        20.881973
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MX-JAL",
     coords: [-103.83, 20.88],
@@ -1353,7 +10569,340 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "oaxaca-mezcal-agave-life-v2",
+    id: "oaxaca-mezcal-agave-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balneario El Cerrito",
+                  "text": "Balneario El Cerrito ist ein Wasserpark in oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.759869,
+                        16.960822
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica",
+                  "text": "Zona Arqueologica ist eine archäologische Stätte in oaxaca-mezcal-agave-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -96.749651,
+                        16.952654
+                  ]
+            },
+            {
+                  "name": "Taller de artes plásticas \"Manos a la obra\"",
+                  "text": "Taller de artes plásticas \"Manos a la obra\" ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.745617,
+                        16.954074
+                  ]
+            },
+            {
+                  "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
+                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli ist ein Museum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.710646,
+                        16.963536
+                  ]
+            },
+            {
+                  "name": "Servicio De Banda Musical La Tremenda Aventurera",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.7102,
+                        17.012366
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Santa María Coyotepec",
+                  "text": "Museo de Arte de Santa María Coyotepec ist ein Museum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.706546,
+                        16.966797
+                  ]
+            },
+            {
+                  "name": "Fuerza Verde Grupo Musical",
+                  "text": "Fuerza Verde Grupo Musical ist ein Kunstzentrum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.741513,
+                        17.007247
+                  ]
+            },
+            {
+                  "name": "Balneario La Gloria",
+                  "text": "Balneario La Gloria ist ein Wasserpark in oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.778928,
+                        16.985627
+                  ]
+            },
+            {
+                  "name": "tatro 600 años (el queso)",
+                  "text": "tatro 600 años (el queso) ist ein Theater in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.750263,
+                        16.95147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balneario El Cerrito",
+                  "text": "Balneario El Cerrito egy vízipark oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.759869,
+                        16.960822
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica",
+                  "text": "Zona Arqueologica egy régészeti lelőhely oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -96.749651,
+                        16.952654
+                  ]
+            },
+            {
+                  "name": "Taller de artes plásticas \"Manos a la obra\"",
+                  "text": "Taller de artes plásticas \"Manos a la obra\" egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.745617,
+                        16.954074
+                  ]
+            },
+            {
+                  "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
+                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli egy múzeum oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -96.710646,
+                        16.963536
+                  ]
+            },
+            {
+                  "name": "Servicio De Banda Musical La Tremenda Aventurera",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.7102,
+                        17.012366
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Santa María Coyotepec",
+                  "text": "Museo de Arte de Santa María Coyotepec egy múzeum oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -96.706546,
+                        16.966797
+                  ]
+            },
+            {
+                  "name": "Fuerza Verde Grupo Musical",
+                  "text": "Fuerza Verde Grupo Musical egy művészeti központ oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.741513,
+                        17.007247
+                  ]
+            },
+            {
+                  "name": "Balneario La Gloria",
+                  "text": "Balneario La Gloria egy vízipark oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.778928,
+                        16.985627
+                  ]
+            },
+            {
+                  "name": "tatro 600 años (el queso)",
+                  "text": "tatro 600 años (el queso) egy színház oaxaca-mezcal-agave-life-v2-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.750263,
+                        16.95147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balneario El Cerrito",
+                  "text": "Balneario El Cerrito este un parc acvatic în oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.759869,
+                        16.960822
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica",
+                  "text": "Zona Arqueologica este un sit arheologic în oaxaca-mezcal-agave-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -96.749651,
+                        16.952654
+                  ]
+            },
+            {
+                  "name": "Taller de artes plásticas \"Manos a la obra\"",
+                  "text": "Taller de artes plásticas \"Manos a la obra\" este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.745617,
+                        16.954074
+                  ]
+            },
+            {
+                  "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
+                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli este un muzeu în oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.710646,
+                        16.963536
+                  ]
+            },
+            {
+                  "name": "Servicio De Banda Musical La Tremenda Aventurera",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.7102,
+                        17.012366
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Santa María Coyotepec",
+                  "text": "Museo de Arte de Santa María Coyotepec este un muzeu în oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.706546,
+                        16.966797
+                  ]
+            },
+            {
+                  "name": "Fuerza Verde Grupo Musical",
+                  "text": "Fuerza Verde Grupo Musical este un centru de artă în oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.741513,
+                        17.007247
+                  ]
+            },
+            {
+                  "name": "Balneario La Gloria",
+                  "text": "Balneario La Gloria este un parc acvatic în oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.778928,
+                        16.985627
+                  ]
+            },
+            {
+                  "name": "tatro 600 años (el queso)",
+                  "text": "tatro 600 años (el queso) este un teatru în oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.750263,
+                        16.95147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balneario El Cerrito",
+                  "text": "Balneario El Cerrito is a water park in oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.759869,
+                        16.960822
+                  ]
+            },
+            {
+                  "name": "Zona Arqueologica",
+                  "text": "Zona Arqueologica is an archaeological site in oaxaca-mezcal-agave-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -96.749651,
+                        16.952654
+                  ]
+            },
+            {
+                  "name": "Taller de artes plásticas \"Manos a la obra\"",
+                  "text": "Taller de artes plásticas \"Manos a la obra\" is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.745617,
+                        16.954074
+                  ]
+            },
+            {
+                  "name": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli",
+                  "text": "Centro de Difusión de la Grana Cochinilla Fina Tlapanochestli is a museum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.710646,
+                        16.963536
+                  ]
+            },
+            {
+                  "name": "Servicio De Banda Musical La Tremenda Aventurera",
+                  "text": "Servicio De Banda Musical La Tremenda Aventurera is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.7102,
+                        17.012366
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Santa María Coyotepec",
+                  "text": "Museo de Arte de Santa María Coyotepec is a museum in oaxaca-mezcal-agave-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -96.706546,
+                        16.966797
+                  ]
+            },
+            {
+                  "name": "Fuerza Verde Grupo Musical",
+                  "text": "Fuerza Verde Grupo Musical is an arts centre in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.741513,
+                        17.007247
+                  ]
+            },
+            {
+                  "name": "Balneario La Gloria",
+                  "text": "Balneario La Gloria is a water park in oaxaca-mezcal-agave-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -96.778928,
+                        16.985627
+                  ]
+            },
+            {
+                  "name": "tatro 600 años (el queso)",
+                  "text": "tatro 600 años (el queso) is a theatre in oaxaca-mezcal-agave-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -96.750263,
+                        16.95147
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MX-OAX",
     coords: [-96.72, 16.97],
@@ -1403,7 +10952,664 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "michoacan-avocado-orchards-life-v2",
+    id: "michoacan-avocado-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Ein Denkmal für General Lázaro Cárdenas in Michoacán.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "La Huátapera",
+                  "text": "Ein Museum namens La Huátapera in Michoacán.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "Die Pérgola Municipal ist ein monumentaler Pergola-Bau in der Region michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "Das Smaller house in the world ist ein Museum in einem Haus, das als eines der kleinsten der Welt gilt, in michoacan-avocado-orchards-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Das Foro Cultural La Morada ist ein Theater und Kulturzentrum in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Das Monumento a La Bandera ist ein Denkmal zu Ehren der Flagge in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Das Mural de los Orígenes de Uruapan ist ein Wandgemälde, das die Ursprünge von Uruapan darstellt, in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Die Mansión del Cupatitzio ist ein Hotel und Herrenhaus, benannt nach dem Fluss Cupatitzio, in michoacan-avocado-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            },
+            {
+                  "name": "La Tzararacua",
+                  "text": "La Tzararacua ist ein Naturschutzgebiet mit einem bekannten Wasserfall in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.073256,
+                        19.352721
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Das Monumento al Padre Ochoa ist ein Denkmal zu Ehren von Pater Ochoa in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066382,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Der Taller Escuela de Artes Plásticas y Artesanías MAPECO ist ein Kunstzentrum und eine Werkstattschule für Bildende Kunst und Handwerk in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046986,
+                        19.408919
+                  ]
+            },
+            {
+                  "name": "Acceso Caltzontzin",
+                  "text": "Das Acceso Caltzontzin ist ein Denkmal, das den Zugang zu Caltzontzin markiert, in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.010434,
+                        19.424152
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Paraíso",
+                  "text": "Das Balneario Villa Paraíso ist ein Wasserpark und Spa-Resort in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.018294,
+                        19.418761
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Das Centro de Espectáculos 'La Macarena' ist ein Theater und Unterhaltungszentrum in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042796,
+                        19.416149
+                  ]
+            },
+            {
+                  "name": "Parque de Animales San Miguelito",
+                  "text": "Der Parque de Animales San Miguelito ist ein kleiner Zoo und Tierpark in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.124672,
+                        19.416619
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Der Parque Nacional Barranca del Cupatitzio ist ein Nationalpark und Naturschutzgebiet, das die Schlucht des Cupatitzio-Flusses umfasst, in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.104795,
+                        19.429228
+                  ]
+            },
+            {
+                  "name": "Zona de Protección Ambiental El Zapién",
+                  "text": "Die Zona de Protección Ambiental El Zapién ist ein Umweltschutzgebiet in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.100784,
+                        19.445452
+                  ]
+            },
+            {
+                  "name": "Balneario Juntas del Cupatitzio",
+                  "text": "Das Balneario Juntas del Cupatitzio ist ein Wasserpark am Zusammenfluss des Cupatitzio-Flusses in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.061513,
+                        19.387956
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Egy emlékmű Lázaro Cárdenas tábornoknak Michoacánban.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "La Huátapera",
+                  "text": "Egy La Huátapera nevű múzeum Michoacánban.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "A Pérgola Municipal egy emlékműként szolgáló pergola a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "A Smaller house in the world egy múzeum, amely a világ egyik legkisebb házának tartott épületben található a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "A Foro Cultural La Morada egy színház és kulturális központ a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "A Monumento a La Bandera egy emlékmű a zászló tiszteletére a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "A Mural de los Orígenes de Uruapan egy falfestmény, amely Uruapan eredetét ábrázolja a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "A Mansión del Cupatitzio egy szálloda és kúria, amely a Cupatitzio folyóról kapta a nevét, a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            },
+            {
+                  "name": "La Tzararacua",
+                  "text": "La Tzararacua egy természetvédelmi terület egy híres vízeséssel a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        -102.073256,
+                        19.352721
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "A Monumento al Padre Ochoa egy emlékmű Ochoa atya tiszteletére a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066382,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "A Taller Escuela de Artes Plásticas y Artesanías MAPECO egy művészeti központ és műhelyiskola képzőművészet és kézművesség számára a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046986,
+                        19.408919
+                  ]
+            },
+            {
+                  "name": "Acceso Caltzontzin",
+                  "text": "Az Acceso Caltzontzin egy emlékmű, amely a Caltzontzinba való bejáratot jelzi a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "historical",
+                  "coords": [
+                        -102.010434,
+                        19.424152
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Paraíso",
+                  "text": "A Balneario Villa Paraíso egy vízipark és gyógyfürdő üdülőhely a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.018294,
+                        19.418761
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "A Centro de Espectáculos 'La Macarena' egy színház és szórakoztató központ a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042796,
+                        19.416149
+                  ]
+            },
+            {
+                  "name": "Parque de Animales San Miguelito",
+                  "text": "A Parque de Animales San Miguelito egy kis állatkert és állatpark a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.124672,
+                        19.416619
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "A Parque Nacional Barranca del Cupatitzio egy nemzeti park és természetvédelmi terület, amely magában foglalja a Cupatitzio folyó szurdokát, a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        -102.104795,
+                        19.429228
+                  ]
+            },
+            {
+                  "name": "Zona de Protección Ambiental El Zapién",
+                  "text": "A Zona de Protección Ambiental El Zapién egy környezetvédelmi övezet a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "natural",
+                  "coords": [
+                        -102.100784,
+                        19.445452
+                  ]
+            },
+            {
+                  "name": "Balneario Juntas del Cupatitzio",
+                  "text": "A Balneario Juntas del Cupatitzio egy vízipark a Cupatitzio folyó összefolyásánál a michoacan-avocado-orchards-life-v2 területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.061513,
+                        19.387956
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "Un monument în cinstea generalului Lázaro Cárdenas în Michoacán.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "La Huátapera",
+                  "text": "Un muzeu numit La Huátapera în Michoacán.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "Pérgola Municipal este un monument sub formă de pergolă în zona michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Casa mas chiquita del mundo",
+                  "text": "Smaller house in the world este un muzeu găzduit într-o casă despre care se spune că este una dintre cele mai mici din lume, în michoacan-avocado-orchards-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Foro Cultural La Morada este un teatru și un centru cultural în michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Monumento a La Bandera este un monument dedicat drapelului în michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Mural de los Orígenes de Uruapan este un mural monument care înfățișează originile orașului Uruapan, în michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Mansión del Cupatitzio este un hotel tip conac, numit după râul Cupatitzio, în michoacan-avocado-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            },
+            {
+                  "name": "La Tzararacua",
+                  "text": "La Tzararacua este o rezervație naturală cu o cascadă renumită în michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.073256,
+                        19.352721
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Monumento al Padre Ochoa este un monument în onoarea părintelui Ochoa în michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066382,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Taller Escuela de Artes Plásticas y Artesanías MAPECO este un centru de artă și o școală-atelier pentru arte plastice și meșteșuguri în michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046986,
+                        19.408919
+                  ]
+            },
+            {
+                  "name": "Acceso Caltzontzin",
+                  "text": "Acceso Caltzontzin este un monument care marchează accesul către Caltzontzin, în michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.010434,
+                        19.424152
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Paraíso",
+                  "text": "Balneario Villa Paraíso este un parc acvatic și o stațiune spa în michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.018294,
+                        19.418761
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Centro de Espectáculos 'La Macarena' este un teatru și un centru de divertisment în michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042796,
+                        19.416149
+                  ]
+            },
+            {
+                  "name": "Parque de Animales San Miguelito",
+                  "text": "Parque de Animales San Miguelito este o grădină zoologică mică și un parc animalier în michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.124672,
+                        19.416619
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Parque Nacional Barranca del Cupatitzio este un parc național și rezervație naturală care cuprinde canionul râului Cupatitzio, în michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.104795,
+                        19.429228
+                  ]
+            },
+            {
+                  "name": "Zona de Protección Ambiental El Zapién",
+                  "text": "Zona de Protección Ambiental El Zapién este o zonă de protecție a mediului în michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.100784,
+                        19.445452
+                  ]
+            },
+            {
+                  "name": "Balneario Juntas del Cupatitzio",
+                  "text": "Balneario Juntas del Cupatitzio este un parc acvatic situat la confluența râului Cupatitzio, în michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.061513,
+                        19.387956
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gral. Lázaro Cárdenas",
+                  "text": "A monument to General Lázaro Cárdenas in Michoacán.",
+                  "category": "historical",
+                  "coords": [
+                        -102.050652,
+                        19.417989
+                  ]
+            },
+            {
+                  "name": "La Huátapera",
+                  "text": "A museum called La Huátapera in Michoacán.",
+                  "category": "museum",
+                  "coords": [
+                        -102.062108,
+                        19.421055
+                  ]
+            },
+            {
+                  "name": "Pérgola Municipal",
+                  "text": "The Pérgola Municipal is a municipal pergola serving as a monument in the michoacan-avocado-orchards-life-v2 area.",
+                  "category": "historical",
+                  "coords": [
+                        -102.063304,
+                        19.421018
+                  ]
+            },
+            {
+                  "name": "Smaller house in the world",
+                  "text": "The Smaller house in the world is a museum housed in what is claimed to be one of the smallest houses, located in michoacan-avocado-orchards-life-v2.",
+                  "category": "museum",
+                  "coords": [
+                        -102.066048,
+                        19.425471
+                  ]
+            },
+            {
+                  "name": "Foro Cultural La Morada",
+                  "text": "Foro Cultural La Morada is a theatre and cultural venue in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.06654,
+                        19.423036
+                  ]
+            },
+            {
+                  "name": "Monumento a La Bandera",
+                  "text": "Monumento a La Bandera is a monument dedicated to the flag in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.06391,
+                        19.42228
+                  ]
+            },
+            {
+                  "name": "Mural de los Orígenes de Uruapan",
+                  "text": "Mural de los Orígenes de Uruapan is a monument mural depicting the origins of Uruapan, in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.074792,
+                        19.433321
+                  ]
+            },
+            {
+                  "name": "Mansión del Cupatitzio",
+                  "text": "Mansión del Cupatitzio is a hotel mansion named after the Cupatitzio River in michoacan-avocado-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -102.074191,
+                        19.429717
+                  ]
+            },
+            {
+                  "name": "La Tzararacua",
+                  "text": "La Tzararacua is a nature reserve featuring a famous waterfall in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.073256,
+                        19.352721
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Ochoa",
+                  "text": "Monumento al Padre Ochoa is a monument honoring Father Ochoa in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.066382,
+                        19.405226
+                  ]
+            },
+            {
+                  "name": "Taller Escuela de Artes Plásticas y Artesanías MAPECO",
+                  "text": "Taller Escuela de Artes Plásticas y Artesanías MAPECO is an arts centre and workshop school for plastic arts and crafts in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.046986,
+                        19.408919
+                  ]
+            },
+            {
+                  "name": "Acceso Caltzontzin",
+                  "text": "Acceso Caltzontzin is a monument marking the access to Caltzontzin in michoacan-avocado-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -102.010434,
+                        19.424152
+                  ]
+            },
+            {
+                  "name": "Balneario Villa Paraíso",
+                  "text": "Balneario Villa Paraíso is a water park and spa resort in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.018294,
+                        19.418761
+                  ]
+            },
+            {
+                  "name": "Centro de Espectáculos 'La Macarena'",
+                  "text": "Centro de Espectáculos 'La Macarena' is a theatre and entertainment centre in michoacan-avocado-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -102.042796,
+                        19.416149
+                  ]
+            },
+            {
+                  "name": "Parque de Animales San Miguelito",
+                  "text": "Parque de Animales San Miguelito is a small zoo and animal park in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.124672,
+                        19.416619
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Barranca del Cupatitzio",
+                  "text": "Parque Nacional Barranca del Cupatitzio is a national park and nature reserve encompassing the Cupatitzio River canyon in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.104795,
+                        19.429228
+                  ]
+            },
+            {
+                  "name": "Zona de Protección Ambiental El Zapién",
+                  "text": "Zona de Protección Ambiental El Zapién is an environmental protection zone in michoacan-avocado-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -102.100784,
+                        19.445452
+                  ]
+            },
+            {
+                  "name": "Balneario Juntas del Cupatitzio",
+                  "text": "Balneario Juntas del Cupatitzio is a water park located at the confluence of the Cupatitzio River in michoacan-avocado-orchards-life-v2.",
+                  "category": "recreational",
+                  "coords": [
+                        -102.061513,
+                        19.387956
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MX-MIC",
     coords: [-102.05, 19.41],
@@ -1453,7 +11659,376 @@ export const poiExtraMexicoLifeV2: POI[] = [
     }
   },
   {
-    id: "sinaloa-mango-orchards-life-v2",
+    id: "sinaloa-mango-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "CUM Los Mochis",
+                  "text": "Eine Attraktion in Los Mochis, Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.028632,
+                        25.746627
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Ein Schloss in Sinaloa.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Ein interaktives Museum in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Ein Eingang in Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001832,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Ein Aussichtspunkt in Sinaloa.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Ein Museum (Kulturhaus) in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.80447
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Ein Museum des Fuerte-Tals in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999588,
+                        25.790209
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruinen der Casa Grande in Sinaloa.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Ein botanischer Garten in Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.005038,
+                        25.789143
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Ein Theater in Sinaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.000382,
+                        25.788697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "CUM Los Mochis",
+                  "text": "Egy látványosság Los Mochisban, Sinaloában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.028632,
+                        25.746627
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Egy kastély Sinaloában.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Egy interaktív múzeum Sinaloában.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "Egy bejárat Sinaloában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001832,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Egy kilátó Sinaloában.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Egy múzeum (kultúrház) Sinaloában.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.80447
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "A Fuerte-völgy múzeuma Sinaloában.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999588,
+                        25.790209
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "A Casa Grande romjai Sinaloában.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "Egy botanikus kert Sinaloában.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.005038,
+                        25.789143
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Egy színház Sinaloában.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.000382,
+                        25.788697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "CUM Los Mochis",
+                  "text": "O atracție în Los Mochis, Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.028632,
+                        25.746627
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "Un castel în Sinaloa.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "Un muzeu interactiv în Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "O intrare în Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001832,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "Un punct de belvedere în Sinaloa.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "Un muzeu (casă de cultură) în Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.80447
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "Un muzeu al Văii Fuerte din Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999588,
+                        25.790209
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruinele Casei Grande din Sinaloa.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "O grădină botanică în Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.005038,
+                        25.789143
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "Un teatru în Sinaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.000382,
+                        25.788697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "CUM Los Mochis",
+                  "text": "An attraction in Los Mochis, Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.028632,
+                        25.746627
+                  ]
+            },
+            {
+                  "name": "Parroquia de Nuestra Señora del Rosario",
+                  "text": "A castle in Sinaloa.",
+                  "category": "castle",
+                  "coords": [
+                        -108.994859,
+                        25.7683
+                  ]
+            },
+            {
+                  "name": "Trapiche Museo Interactivo",
+                  "text": "An interactive museum in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999103,
+                        25.788559
+                  ]
+            },
+            {
+                  "name": "Entrada",
+                  "text": "An entrance in Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.001832,
+                        25.788583
+                  ]
+            },
+            {
+                  "name": "La Pergola",
+                  "text": "A viewpoint in Sinaloa.",
+                  "category": "natural",
+                  "coords": [
+                        -108.972815,
+                        25.805474
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura Conrado Espinoza",
+                  "text": "A museum (cultural house) in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.972525,
+                        25.80447
+                  ]
+            },
+            {
+                  "name": "Museo Del Valle del Fuerte",
+                  "text": "A museum of the Fuerte Valley in Sinaloa.",
+                  "category": "museum",
+                  "coords": [
+                        -108.999588,
+                        25.790209
+                  ]
+            },
+            {
+                  "name": "Ruinas de la Casa Grande",
+                  "text": "Ruins of the Casa Grande in Sinaloa.",
+                  "category": "historical",
+                  "coords": [
+                        -109.003358,
+                        25.789639
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico Benjamin Francis Johnston (Parque Sinaloa)",
+                  "text": "A botanical garden in Sinaloa.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.005038,
+                        25.789143
+                  ]
+            },
+            {
+                  "name": "Teatro Ingenio",
+                  "text": "A theatre in Sinaloa.",
+                  "category": "cultural",
+                  "coords": [
+                        -109.000382,
+                        25.788697
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "MX-SIN",
     coords: [-108.98, 25.79],

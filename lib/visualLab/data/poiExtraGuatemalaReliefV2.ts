@@ -262,7 +262,124 @@ export const poiExtraGuatemalaReliefV2: POI[] = [
     
      image: "/poi-images/altiplano-guatemalteco-relief-v2.webp"},
   {
-    id: "volcan-tacana-relief-v2",
+    id: "volcan-tacana-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador",
+                  "text": "Dieser Mirador ist ein Aussichtspunkt am Vulkan Tacaná.",
+                  "category": "natural",
+                  "coords": [
+                        -92.105535,
+                        15.124461
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biosfera Volcán Tacaná",
+                  "text": "Die Reserva de la Biosfera Volcán Tacaná schützt die Natur rund um den Vulkan.",
+                  "category": "natural",
+                  "coords": [
+                        -92.133649,
+                        15.115285
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Sibinal",
+                  "text": "Der Parque Regional Municipal Sibinal ist ein Naturreservat in der Region Tacaná.",
+                  "category": "natural",
+                  "coords": [
+                        -92.103765,
+                        15.136713
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador",
+                  "text": "Ez a Mirador egy kilátópont a Tacaná vulkánon.",
+                  "category": "natural",
+                  "coords": [
+                        -92.105535,
+                        15.124461
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biosfera Volcán Tacaná",
+                  "text": "A Reserva de la Biosfera Volcán Tacaná védi a természetet a vulkán körül.",
+                  "category": "natural",
+                  "coords": [
+                        -92.133649,
+                        15.115285
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Sibinal",
+                  "text": "A Parque Regional Municipal Sibinal egy természetvédelmi terület a Tacaná régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -92.103765,
+                        15.136713
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador",
+                  "text": "Acest mirador este un punct de belvedere pe vulcanul Tacaná.",
+                  "category": "natural",
+                  "coords": [
+                        -92.105535,
+                        15.124461
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biosfera Volcán Tacaná",
+                  "text": "Rezervația Biosferei Volcán Tacaná protejează natura din jurul vulcanului.",
+                  "category": "natural",
+                  "coords": [
+                        -92.133649,
+                        15.115285
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Sibinal",
+                  "text": "Parcul Regional Municipal Sibinal este o rezervație naturală în regiunea Tacaná.",
+                  "category": "natural",
+                  "coords": [
+                        -92.103765,
+                        15.136713
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador",
+                  "text": "This mirador is a viewpoint on the Tacaná volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -92.105535,
+                        15.124461
+                  ]
+            },
+            {
+                  "name": "Reserva de la Biosfera Volcán Tacaná",
+                  "text": "The Reserva de la Biosfera Volcán Tacaná protects the nature around the volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -92.133649,
+                        15.115285
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Sibinal",
+                  "text": "Parque Regional Municipal Sibinal is a nature reserve in the Tacaná region.",
+                  "category": "natural",
+                  "coords": [
+                        -92.103765,
+                        15.136713
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "GT-SM",
     coords: [-92.10, 15.13],

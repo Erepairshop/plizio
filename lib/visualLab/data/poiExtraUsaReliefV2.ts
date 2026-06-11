@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraUsaReliefV2: POI[] = [
   {
-    id: "rocky-mountains-relief-v2",
+    id: "rocky-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Jackson",
+                  "text": "Der Mount Jackson ist ein Gipfel in den Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -106.536698,
+                        39.485264
+                  ]
+            },
+            {
+                  "name": "Mount of the Holy Cross",
+                  "text": "Der Mount of the Holy Cross ist ein Gipfel in den Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -106.481777,
+                        39.466822
+                  ]
+            },
+            {
+                  "name": "Holy Cross Wilderness",
+                  "text": "Die Holy Cross Wilderness ist ein Wildnisgebiet in Colorado, benannt nach dem Mount of the Holy Cross.",
+                  "category": "natural",
+                  "coords": [
+                        -106.510578,
+                        39.442888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Jackson",
+                  "text": "A Mount Jackson egy csúcs a Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -106.536698,
+                        39.485264
+                  ]
+            },
+            {
+                  "name": "Mount of the Holy Cross",
+                  "text": "A Mount of the Holy Cross egy csúcs a Sziklás-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -106.481777,
+                        39.466822
+                  ]
+            },
+            {
+                  "name": "Holy Cross Wilderness",
+                  "text": "A Holy Cross Wilderness egy vadon Coloradóban, amely a Mount of the Holy Crossról kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -106.510578,
+                        39.442888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Jackson",
+                  "text": "Vârful Mount Jackson este un vârf în Munții Stâncoși.",
+                  "category": "natural",
+                  "coords": [
+                        -106.536698,
+                        39.485264
+                  ]
+            },
+            {
+                  "name": "Mount of the Holy Cross",
+                  "text": "Vârful Mount of the Holy Cross este un vârf în Munții Stâncoși.",
+                  "category": "natural",
+                  "coords": [
+                        -106.481777,
+                        39.466822
+                  ]
+            },
+            {
+                  "name": "Holy Cross Wilderness",
+                  "text": "Sălbăticia Holy Cross este o zonă sălbatică din Colorado numită după muntele Mount of the Holy Cross.",
+                  "category": "natural",
+                  "coords": [
+                        -106.510578,
+                        39.442888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Jackson",
+                  "text": "Mount Jackson is a peak in the Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -106.536698,
+                        39.485264
+                  ]
+            },
+            {
+                  "name": "Mount of the Holy Cross",
+                  "text": "Mount of the Holy Cross is a peak in the Rocky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -106.481777,
+                        39.466822
+                  ]
+            },
+            {
+                  "name": "Holy Cross Wilderness",
+                  "text": "Holy Cross Wilderness is a wilderness area in Colorado named after Mount of the Holy Cross.",
+                  "category": "natural",
+                  "coords": [
+                        -106.510578,
+                        39.442888
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-CO",
     coords: [-106.5, 39.5],
@@ -38,7 +155,448 @@ export const poiExtraUsaReliefV2: POI[] = [
       fr: ["S'étendent sur plus de 4 800 km.", "Le sommet le plus élevé est le Mount Elbert.", "Ligne de partage des eaux majeure de l'Amérique du Nord.", "Connues pour leurs parcs nationaux spectaculaires.", "Géologiquement une chaîne de montagnes jeune.", "Abritent de nombreux glaciers."],
     }, image: "/poi-images/rocky-mountains-relief-v2.webp"},
   {
-    id: "appalachian-mountains-relief-v2",
+    id: "appalachian-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spanish Oak Mountain",
+                  "text": "Ein Berggipfel in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.939837,
+                        36.068182
+                  ]
+            },
+            {
+                  "name": "Little Yellow Mountain",
+                  "text": "Ein Berggipfel in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -82.068731,
+                        36.065399
+                  ]
+            },
+            {
+                  "name": "Humpback Mountain",
+                  "text": "Ein Berggipfel in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.961779,
+                        35.944571
+                  ]
+            },
+            {
+                  "name": "Doe Hill Mountain",
+                  "text": "Ein Berggipfel in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.973447,
+                        35.971238
+                  ]
+            },
+            {
+                  "name": "North Toe River Valley (MP 318.4)",
+                  "text": "Ein Aussichtspunkt entlang des North Toe River Valley in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.960342,
+                        35.95709
+                  ]
+            },
+            {
+                  "name": "Anvil Arts Studio",
+                  "text": "Ein Kunststudio in den Appalachen.",
+                  "category": "museum",
+                  "coords": [
+                        -81.957927,
+                        35.968786
+                  ]
+            },
+            {
+                  "name": "Linville Falls",
+                  "text": "Die Linville Falls ist ein 150 Fuß hoher Wasserfall in den Appalachen.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.926913,
+                        35.949718
+                  ]
+            },
+            {
+                  "name": "Chimney View",
+                  "text": "Ein Aussichtspunkt namens Chimney View in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.925386,
+                        35.949256
+                  ]
+            },
+            {
+                  "name": "Erwin's View Outlook",
+                  "text": "Ein Aussichtspunkt namens Erwin's View in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.923077,
+                        35.949135
+                  ]
+            },
+            {
+                  "name": "Camp Creek Overlook (MP 315.6)",
+                  "text": "Ein Aussichtspunkt am Camp Creek in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.922969,
+                        35.980283
+                  ]
+            },
+            {
+                  "name": "Chestoa View Overlook",
+                  "text": "Ein Aussichtspunkt am Chestoa View in den Appalachen.",
+                  "category": "natural",
+                  "coords": [
+                        -81.953294,
+                        35.926727
+                  ]
+            },
+            {
+                  "name": "Crossnore Fine Arts Gallery",
+                  "text": "Eine Kunstgalerie in den Appalachen.",
+                  "category": "museum",
+                  "coords": [
+                        -81.930402,
+                        36.023867
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spanish Oak Mountain",
+                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.939837,
+                        36.068182
+                  ]
+            },
+            {
+                  "name": "Little Yellow Mountain",
+                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -82.068731,
+                        36.065399
+                  ]
+            },
+            {
+                  "name": "Humpback Mountain",
+                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.961779,
+                        35.944571
+                  ]
+            },
+            {
+                  "name": "Doe Hill Mountain",
+                  "text": "Egy hegycsúcs az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.973447,
+                        35.971238
+                  ]
+            },
+            {
+                  "name": "North Toe River Valley (MP 318.4)",
+                  "text": "Egy kilátó a North Toe River Valley mentén az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.960342,
+                        35.95709
+                  ]
+            },
+            {
+                  "name": "Anvil Arts Studio",
+                  "text": "Egy művészeti stúdió az Appalache-hegységben.",
+                  "category": "museum",
+                  "coords": [
+                        -81.957927,
+                        35.968786
+                  ]
+            },
+            {
+                  "name": "Linville Falls",
+                  "text": "A Linville Falls egy 150 láb magas vízesés az Appalache-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.926913,
+                        35.949718
+                  ]
+            },
+            {
+                  "name": "Chimney View",
+                  "text": "Egy Chimney View nevű kilátó az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.925386,
+                        35.949256
+                  ]
+            },
+            {
+                  "name": "Erwin's View Outlook",
+                  "text": "Egy Erwin's View nevű kilátó az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.923077,
+                        35.949135
+                  ]
+            },
+            {
+                  "name": "Camp Creek Overlook (MP 315.6)",
+                  "text": "Egy kilátó a Camp Creek-nél az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.922969,
+                        35.980283
+                  ]
+            },
+            {
+                  "name": "Chestoa View Overlook",
+                  "text": "Egy kilátó a Chestoa View-nál az Appalache-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -81.953294,
+                        35.926727
+                  ]
+            },
+            {
+                  "name": "Crossnore Fine Arts Gallery",
+                  "text": "Egy művészeti galéria az Appalache-hegységben.",
+                  "category": "museum",
+                  "coords": [
+                        -81.930402,
+                        36.023867
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spanish Oak Mountain",
+                  "text": "Un vârf de munte în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.939837,
+                        36.068182
+                  ]
+            },
+            {
+                  "name": "Little Yellow Mountain",
+                  "text": "Un vârf de munte în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -82.068731,
+                        36.065399
+                  ]
+            },
+            {
+                  "name": "Humpback Mountain",
+                  "text": "Un vârf de munte în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.961779,
+                        35.944571
+                  ]
+            },
+            {
+                  "name": "Doe Hill Mountain",
+                  "text": "Un vârf de munte în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.973447,
+                        35.971238
+                  ]
+            },
+            {
+                  "name": "North Toe River Valley (MP 318.4)",
+                  "text": "Un punct de belvedere de-a lungul văii râului North Toe în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.960342,
+                        35.95709
+                  ]
+            },
+            {
+                  "name": "Anvil Arts Studio",
+                  "text": "Un studio de artă în Munții Apalași.",
+                  "category": "museum",
+                  "coords": [
+                        -81.957927,
+                        35.968786
+                  ]
+            },
+            {
+                  "name": "Linville Falls",
+                  "text": "Linville Falls este o cascadă de 150 de picioare în Munții Apalași.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.926913,
+                        35.949718
+                  ]
+            },
+            {
+                  "name": "Chimney View",
+                  "text": "Un punct de belvedere numit Chimney View în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.925386,
+                        35.949256
+                  ]
+            },
+            {
+                  "name": "Erwin's View Outlook",
+                  "text": "Un punct de belvedere numit Erwin's View în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.923077,
+                        35.949135
+                  ]
+            },
+            {
+                  "name": "Camp Creek Overlook (MP 315.6)",
+                  "text": "Un punct de belvedere la Camp Creek în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.922969,
+                        35.980283
+                  ]
+            },
+            {
+                  "name": "Chestoa View Overlook",
+                  "text": "Un punct de belvedere la Chestoa View în Munții Apalași.",
+                  "category": "natural",
+                  "coords": [
+                        -81.953294,
+                        35.926727
+                  ]
+            },
+            {
+                  "name": "Crossnore Fine Arts Gallery",
+                  "text": "O galerie de artă în Munții Apalași.",
+                  "category": "museum",
+                  "coords": [
+                        -81.930402,
+                        36.023867
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Spanish Oak Mountain",
+                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.939837,
+                        36.068182
+                  ]
+            },
+            {
+                  "name": "Little Yellow Mountain",
+                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -82.068731,
+                        36.065399
+                  ]
+            },
+            {
+                  "name": "Humpback Mountain",
+                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.961779,
+                        35.944571
+                  ]
+            },
+            {
+                  "name": "Doe Hill Mountain",
+                  "text": "A mountain peak in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.973447,
+                        35.971238
+                  ]
+            },
+            {
+                  "name": "North Toe River Valley (MP 318.4)",
+                  "text": "A viewpoint along the North Toe River Valley in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.960342,
+                        35.95709
+                  ]
+            },
+            {
+                  "name": "Anvil Arts Studio",
+                  "text": "An art studio in the Appalachian Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        -81.957927,
+                        35.968786
+                  ]
+            },
+            {
+                  "name": "Linville Falls",
+                  "text": "Linville Falls is a 150-foot waterfall in the Appalachian Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.926913,
+                        35.949718
+                  ]
+            },
+            {
+                  "name": "Chimney View",
+                  "text": "A viewpoint called Chimney View in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.925386,
+                        35.949256
+                  ]
+            },
+            {
+                  "name": "Erwin's View Outlook",
+                  "text": "A viewpoint named Erwin's View in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.923077,
+                        35.949135
+                  ]
+            },
+            {
+                  "name": "Camp Creek Overlook (MP 315.6)",
+                  "text": "An overlook at Camp Creek in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.922969,
+                        35.980283
+                  ]
+            },
+            {
+                  "name": "Chestoa View Overlook",
+                  "text": "An overlook at Chestoa View in the Appalachian Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -81.953294,
+                        35.926727
+                  ]
+            },
+            {
+                  "name": "Crossnore Fine Arts Gallery",
+                  "text": "An art gallery in the Appalachian Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        -81.930402,
+                        36.023867
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-NC",
     coords: [-82.0, 36.0],
@@ -73,7 +631,448 @@ export const poiExtraUsaReliefV2: POI[] = [
       fr: ["L'une des chaînes de montagnes les plus anciennes de la Terre.", "S'étendent du Canada jusqu'à l'Alabama.", "Connues pour leurs denses forêts de feuillus.", "Importants gisements de charbon.", "Accessibles via l'Appalachian Trail.", "Les collines douces et les vallées dominent."],
     }, image: "/poi-images/appalachian-mountains-relief-v2.webp"},
   {
-    id: "sierra-nevada-usa-relief-v2",
+    id: "sierra-nevada-usa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grizzly Giant",
+                  "text": "Der Grizzly Giant ist ein riesiger Mammutbaum im Mariposa Grove im Yosemite-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.600724,
+                        37.503546
+                  ]
+            },
+            {
+                  "name": "Bachelor and Three Graces",
+                  "text": "Der Aussichtspunkt Bachelor and Three Graces bietet einen Panoramablick auf die Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.604511,
+                        37.503917
+                  ]
+            },
+            {
+                  "name": "Fallen Monarch",
+                  "text": "Der Aussichtspunkt Fallen Monarch zeigt einen umgestürzten Mammutbaum im Mariposa Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -119.608961,
+                        37.502688
+                  ]
+            },
+            {
+                  "name": "Wawona Point",
+                  "text": "Der Wawona Point ist ein Gipfel in der Sierra Nevada mit Aussicht auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -119.600702,
+                        37.518706
+                  ]
+            },
+            {
+                  "name": "Mount Raymond",
+                  "text": "Der Mount Raymond ist ein Berggipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.547552,
+                        37.5086
+                  ]
+            },
+            {
+                  "name": "White Chief Mountain",
+                  "text": "Der White Chief Mountain ist ein Gipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.534214,
+                        37.488547
+                  ]
+            },
+            {
+                  "name": "Fresno Dome",
+                  "text": "Der Fresno Dome ist eine markante Felsformation und ein Aussichtspunkt in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.536029,
+                        37.454201
+                  ]
+            },
+            {
+                  "name": "Speckerman Mountain",
+                  "text": "Der Speckerman Mountain ist ein Berggipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.579592,
+                        37.453273
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.489548,
+                        37.481452
+                  ]
+            },
+            {
+                  "name": "Quartz Mountain",
+                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.447919,
+                        37.518549
+                  ]
+            },
+            {
+                  "name": "Redtop",
+                  "text": "Ein Gipfel in der Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.402918,
+                        37.546049
+                  ]
+            },
+            {
+                  "name": "Mariposa Grove Museum",
+                  "text": "Ein Museum im Mariposa Grove der Riesenmammutbäume im Yosemite-Nationalpark.",
+                  "category": "museum",
+                  "coords": [
+                        -119.598978,
+                        37.513584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grizzly Giant",
+                  "text": "A Grizzly Giant egy hatalmas mamutfenyő a Mariposa Grove-ban, a Yosemite Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.600724,
+                        37.503546
+                  ]
+            },
+            {
+                  "name": "Bachelor and Three Graces",
+                  "text": "A Bachelor and Three Graces kilátó panorámás kilátást nyújt a Sierra Nevada hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -119.604511,
+                        37.503917
+                  ]
+            },
+            {
+                  "name": "Fallen Monarch",
+                  "text": "A Fallen Monarch kilátó egy kidőlt mamutfenyőt mutat a Mariposa Grove-ban.",
+                  "category": "natural",
+                  "coords": [
+                        -119.608961,
+                        37.502688
+                  ]
+            },
+            {
+                  "name": "Wawona Point",
+                  "text": "A Wawona Point egy csúcs a Sierra Nevada hegységben, kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -119.600702,
+                        37.518706
+                  ]
+            },
+            {
+                  "name": "Mount Raymond",
+                  "text": "A Mount Raymond egy hegycsúcs a Sierra Nevada hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.547552,
+                        37.5086
+                  ]
+            },
+            {
+                  "name": "White Chief Mountain",
+                  "text": "A White Chief Mountain egy csúcs a Sierra Nevada hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.534214,
+                        37.488547
+                  ]
+            },
+            {
+                  "name": "Fresno Dome",
+                  "text": "A Fresno Dome egy jellegzetes sziklaformáció és kilátópont a Sierra Nevada hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.536029,
+                        37.454201
+                  ]
+            },
+            {
+                  "name": "Speckerman Mountain",
+                  "text": "A Speckerman Mountain egy hegycsúcs a Sierra Nevada hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -119.579592,
+                        37.453273
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "category": "natural",
+                  "coords": [
+                        -119.489548,
+                        37.481452
+                  ]
+            },
+            {
+                  "name": "Quartz Mountain",
+                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "category": "natural",
+                  "coords": [
+                        -119.447919,
+                        37.518549
+                  ]
+            },
+            {
+                  "name": "Redtop",
+                  "text": "Egy csúcs a Sierra Nevadában.",
+                  "category": "natural",
+                  "coords": [
+                        -119.402918,
+                        37.546049
+                  ]
+            },
+            {
+                  "name": "Mariposa Grove Museum",
+                  "text": "Egy múzeum a Mariposa Grove óriás mamutfenyőiben, a Yosemite Nemzeti Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -119.598978,
+                        37.513584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grizzly Giant",
+                  "text": "Grizzly Giant este un sequoia uriaș în Mariposa Grove din Parcul Național Yosemite.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.600724,
+                        37.503546
+                  ]
+            },
+            {
+                  "name": "Bachelor and Three Graces",
+                  "text": "Punctul de belvedere Bachelor and Three Graces oferă o vedere panoramică asupra munților Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.604511,
+                        37.503917
+                  ]
+            },
+            {
+                  "name": "Fallen Monarch",
+                  "text": "Punctul de belvedere Fallen Monarch prezintă un sequoia prăbușit în Mariposa Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -119.608961,
+                        37.502688
+                  ]
+            },
+            {
+                  "name": "Wawona Point",
+                  "text": "Vârful Wawona Point este un vârf în Sierra Nevada, cu vedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -119.600702,
+                        37.518706
+                  ]
+            },
+            {
+                  "name": "Mount Raymond",
+                  "text": "Mount Raymond este un vârf muntos în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.547552,
+                        37.5086
+                  ]
+            },
+            {
+                  "name": "White Chief Mountain",
+                  "text": "Muntele White Chief este un vârf în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.534214,
+                        37.488547
+                  ]
+            },
+            {
+                  "name": "Fresno Dome",
+                  "text": "Fresno Dome este o formațiune stâncoasă distinctivă și un punct de belvedere în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.536029,
+                        37.454201
+                  ]
+            },
+            {
+                  "name": "Speckerman Mountain",
+                  "text": "Speckerman Mountain este un vârf muntos în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.579592,
+                        37.453273
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Un vârf în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.489548,
+                        37.481452
+                  ]
+            },
+            {
+                  "name": "Quartz Mountain",
+                  "text": "Un vârf în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.447919,
+                        37.518549
+                  ]
+            },
+            {
+                  "name": "Redtop",
+                  "text": "Un vârf în Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.402918,
+                        37.546049
+                  ]
+            },
+            {
+                  "name": "Mariposa Grove Museum",
+                  "text": "Un muzeu în Mariposa Grove de sequoia uriașă din Parcul Național Yosemite.",
+                  "category": "museum",
+                  "coords": [
+                        -119.598978,
+                        37.513584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grizzly Giant",
+                  "text": "The Grizzly Giant is a giant sequoia tree in Mariposa Grove in Yosemite National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -119.600724,
+                        37.503546
+                  ]
+            },
+            {
+                  "name": "Bachelor and Three Graces",
+                  "text": "The Bachelor and Three Graces viewpoint offers panoramic views of the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.604511,
+                        37.503917
+                  ]
+            },
+            {
+                  "name": "Fallen Monarch",
+                  "text": "The Fallen Monarch viewpoint features a fallen giant sequoia tree in Mariposa Grove.",
+                  "category": "natural",
+                  "coords": [
+                        -119.608961,
+                        37.502688
+                  ]
+            },
+            {
+                  "name": "Wawona Point",
+                  "text": "Wawona Point is a peak in the Sierra Nevada with views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -119.600702,
+                        37.518706
+                  ]
+            },
+            {
+                  "name": "Mount Raymond",
+                  "text": "Mount Raymond is a mountain peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.547552,
+                        37.5086
+                  ]
+            },
+            {
+                  "name": "White Chief Mountain",
+                  "text": "White Chief Mountain is a peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.534214,
+                        37.488547
+                  ]
+            },
+            {
+                  "name": "Fresno Dome",
+                  "text": "Fresno Dome is a distinctive rock formation and viewpoint in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.536029,
+                        37.454201
+                  ]
+            },
+            {
+                  "name": "Speckerman Mountain",
+                  "text": "Speckerman Mountain is a mountain peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.579592,
+                        37.453273
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "A peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.489548,
+                        37.481452
+                  ]
+            },
+            {
+                  "name": "Quartz Mountain",
+                  "text": "A peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.447919,
+                        37.518549
+                  ]
+            },
+            {
+                  "name": "Redtop",
+                  "text": "A peak in the Sierra Nevada.",
+                  "category": "natural",
+                  "coords": [
+                        -119.402918,
+                        37.546049
+                  ]
+            },
+            {
+                  "name": "Mariposa Grove Museum",
+                  "text": "A museum in the Mariposa Grove of giant sequoias in Yosemite National Park.",
+                  "category": "museum",
+                  "coords": [
+                        -119.598978,
+                        37.513584
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-CA",
     coords: [-119.5, 37.5],
@@ -139,7 +1138,52 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       en: ["Part of the Pacific Ring of Fire.", "Home to Mount St. Helens and Mount Rainier.", "High volcanic activity.", "Heavy rainfall due to orographic lift.", "Large forested areas.", "Major hydroelectric power generation."]
     }, image: "/poi-images/cascade-range-relief-v2.webp"},
   {
-    id: "basin-and-range-relief-v2",
+    id: "basin-and-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Collins Hotel",
+                  "text": "Das Collins Hotel ist eine verfallene Ruine eines historischen Hotels in der Wüste von Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -115.935159,
+                        39.025553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Collins Hotel",
+                  "text": "A Collins Hotel egy elhagyatott rom, egy történelmi szálloda a nevadai sivatagban.",
+                  "category": "historical",
+                  "coords": [
+                        -115.935159,
+                        39.025553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Collins Hotel",
+                  "text": "Collins Hotel este o ruină abandonată a unui hotel istoric în deșertul din Nevada.",
+                  "category": "historical",
+                  "coords": [
+                        -115.935159,
+                        39.025553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Collins Hotel",
+                  "text": "Collins Hotel is a derelict ruin of a historic hotel in the Nevada desert.",
+                  "category": "historical",
+                  "coords": [
+                        -115.935159,
+                        39.025553
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "US-NV",
     coords: [-116.0, 39.0],
@@ -209,7 +1253,160 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Région géologiquement complexe.", "Nombreuses grottes de calcaire.", "Forêts denses de chênes et d'hickory.", "Populaire pour les activités de plein air.", "Nombreux ruisseaux clairs.", "Densité de population plus faible."],
     }, image: "/poi-images/ozark-plateau-relief-v2.webp"},
   {
-    id: "cascades-volcanic-relief-v2",
+    id: "cascades-volcanic-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Olallie Mountain",
+                  "text": "Ein Gipfel in der Cascades Volcanic Relief Region, beliebt zum Wandern.",
+                  "category": "natural",
+                  "coords": [
+                        -122.068375,
+                        44.028731
+                  ]
+            },
+            {
+                  "name": "Rebel Rock",
+                  "text": "Ein Felsgipfel in der Cascades Volcanic Relief Region, bekannt zum Klettern.",
+                  "category": "natural",
+                  "coords": [
+                        -122.109206,
+                        43.985398
+                  ]
+            },
+            {
+                  "name": "Pyramid Mountain",
+                  "text": "Ein Berg in der Cascades Volcanic Relief Region, auffällig durch seine Form.",
+                  "category": "natural",
+                  "coords": [
+                        -122.111429,
+                        44.004843
+                  ]
+            },
+            {
+                  "name": "Three Sisters Wilderness",
+                  "text": "Ein ausgewiesenes Wildnisgebiet in der Cascade Range, das drei Vulkangipfel schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -121.900386,
+                        44.041443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Olallie Mountain",
+                  "text": "Egy csúcs a Cascades Volcanic Relief régióban, népszerű túrázásra.",
+                  "category": "natural",
+                  "coords": [
+                        -122.068375,
+                        44.028731
+                  ]
+            },
+            {
+                  "name": "Rebel Rock",
+                  "text": "Egy sziklacsúcs a Cascades Volcanic Relief régióban, mászásra ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -122.109206,
+                        43.985398
+                  ]
+            },
+            {
+                  "name": "Pyramid Mountain",
+                  "text": "Egy hegy a Cascades Volcanic Relief régióban, alakjáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        -122.111429,
+                        44.004843
+                  ]
+            },
+            {
+                  "name": "Three Sisters Wilderness",
+                  "text": "Egy kijelölt vadon terület a Cascade hegységben, három vulkáni csúcs védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -121.900386,
+                        44.041443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Olallie Mountain",
+                  "text": "Un vârf în regiunea Cascades Volcanic Relief, popular pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -122.068375,
+                        44.028731
+                  ]
+            },
+            {
+                  "name": "Rebel Rock",
+                  "text": "Un vârf de stâncă în regiunea Cascades Volcanic Relief, cunoscut pentru alpinism.",
+                  "category": "natural",
+                  "coords": [
+                        -122.109206,
+                        43.985398
+                  ]
+            },
+            {
+                  "name": "Pyramid Mountain",
+                  "text": "Un munte în regiunea Cascades Volcanic Relief, remarcabil prin formă.",
+                  "category": "natural",
+                  "coords": [
+                        -122.111429,
+                        44.004843
+                  ]
+            },
+            {
+                  "name": "Three Sisters Wilderness",
+                  "text": "O zonă sălbatică desemnată în lanțul Cascade, care protejează trei vârfuri vulcanice.",
+                  "category": "natural",
+                  "coords": [
+                        -121.900386,
+                        44.041443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Olallie Mountain",
+                  "text": "A peak in the Cascades Volcanic Relief region, popular for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -122.068375,
+                        44.028731
+                  ]
+            },
+            {
+                  "name": "Rebel Rock",
+                  "text": "A rock peak in the Cascades Volcanic Relief region, known for climbing.",
+                  "category": "natural",
+                  "coords": [
+                        -122.109206,
+                        43.985398
+                  ]
+            },
+            {
+                  "name": "Pyramid Mountain",
+                  "text": "A mountain in the Cascades Volcanic Relief region, notable for its shape.",
+                  "category": "natural",
+                  "coords": [
+                        -122.111429,
+                        44.004843
+                  ]
+            },
+            {
+                  "name": "Three Sisters Wilderness",
+                  "text": "A designated wilderness area in the Cascade Range, protecting three volcanic peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -121.900386,
+                        44.041443
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-OR",
     coords: [-122.0, 44.0],
@@ -244,7 +1441,448 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Inclut le mont Hood.", "Activité géothermique.", "Formes coniques impressionnantes.", "Souvent recouverts de neige.", "Région d'étude géologique unique.", "Haute importance pour l'écosystème."],
     }, image: "/poi-images/cascades-volcanic-relief-v2.webp"},
   {
-    id: "blueridge-mountains-relief-v2",
+    id: "blueridge-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galts Mill Mountain",
+                  "text": "Galts Mill Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.041411,
+                        37.442921
+                  ]
+            },
+            {
+                  "name": "Turner Mountain",
+                  "text": "Turner Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -78.990299,
+                        37.453477
+                  ]
+            },
+            {
+                  "name": "Chestnut Mountain",
+                  "text": "Chestnut Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.001965,
+                        37.431255
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Round Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.006966,
+                        37.469032
+                  ]
+            },
+            {
+                  "name": "Larkin Mountain",
+                  "text": "Larkin Mountain ist ein Gipfel in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -78.952243,
+                        37.536254
+                  ]
+            },
+            {
+                  "name": "Train Station and Caboose",
+                  "text": "Das Museum 'Train Station and Caboose' in der Blue-Ridge-Region zeigt historische Eisenbahnausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        -79.086374,
+                        37.556153
+                  ]
+            },
+            {
+                  "name": "Sweet Briar Museum",
+                  "text": "Das Sweet Briar Museum ist ein Museum in der Gegend der Blue Ridge Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        -79.081764,
+                        37.557585
+                  ]
+            },
+            {
+                  "name": "Izaak Walton Park",
+                  "text": "Der Izaak Walton Park ist ein Park in den Blue Ridge Mountains mit Freizeitmöglichkeiten im Freien.",
+                  "category": "park",
+                  "coords": [
+                        -79.081413,
+                        37.505697
+                  ]
+            },
+            {
+                  "name": "Amherst Wayside",
+                  "text": "Der Amherst Wayside ist ein Rastplatz in den Blue Ridge Mountains.",
+                  "category": "park",
+                  "coords": [
+                        -78.960558,
+                        37.5635
+                  ]
+            },
+            {
+                  "name": "Carry Nature Sanctuary",
+                  "text": "Das Carry Nature Sanctuary ist ein Naturschutzgebiet in den Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.075711,
+                        37.554815
+                  ]
+            },
+            {
+                  "name": "Babcock Fine Arts Center",
+                  "text": "Das Babcock Fine Arts Center ist ein Kunstzentrum in der Blue-Ridge-Region.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.084568,
+                        37.55565
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Das Amphitheater ist ein Freilichttheater in den Blue Ridge Mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.085,
+                        37.518671
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galts Mill Mountain",
+                  "text": "A Galts Mill Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -79.041411,
+                        37.442921
+                  ]
+            },
+            {
+                  "name": "Turner Mountain",
+                  "text": "A Turner Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -78.990299,
+                        37.453477
+                  ]
+            },
+            {
+                  "name": "Chestnut Mountain",
+                  "text": "A Chestnut Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -79.001965,
+                        37.431255
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "A Round Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -79.006966,
+                        37.469032
+                  ]
+            },
+            {
+                  "name": "Larkin Mountain",
+                  "text": "A Larkin Mountain egy csúcs a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -78.952243,
+                        37.536254
+                  ]
+            },
+            {
+                  "name": "Train Station and Caboose",
+                  "text": "A 'Train Station and Caboose' múzeum a Blue Ridge régióban történelmi vasúti felszereléseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.086374,
+                        37.556153
+                  ]
+            },
+            {
+                  "name": "Sweet Briar Museum",
+                  "text": "A Sweet Briar Museum egy múzeum a Blue Ridge-hegység területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.081764,
+                        37.557585
+                  ]
+            },
+            {
+                  "name": "Izaak Walton Park",
+                  "text": "Az Izaak Walton Park egy park a Blue Ridge-hegységben, szabadtéri kikapcsolódási lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        -79.081413,
+                        37.505697
+                  ]
+            },
+            {
+                  "name": "Amherst Wayside",
+                  "text": "Az Amherst Wayside egy útmenti pihenőhely a Blue Ridge-hegységben.",
+                  "category": "park",
+                  "coords": [
+                        -78.960558,
+                        37.5635
+                  ]
+            },
+            {
+                  "name": "Carry Nature Sanctuary",
+                  "text": "A Carry Nature Sanctuary egy természetvédelmi terület a Blue Ridge-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -79.075711,
+                        37.554815
+                  ]
+            },
+            {
+                  "name": "Babcock Fine Arts Center",
+                  "text": "A Babcock Fine Arts Center egy művészeti központ a Blue Ridge régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.084568,
+                        37.55565
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Az Amphitheater egy szabadtéri színház a Blue Ridge-hegységben.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.085,
+                        37.518671
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galts Mill Mountain",
+                  "text": "Galts Mill Mountain este un vârf în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -79.041411,
+                        37.442921
+                  ]
+            },
+            {
+                  "name": "Turner Mountain",
+                  "text": "Turner Mountain este un vârf în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -78.990299,
+                        37.453477
+                  ]
+            },
+            {
+                  "name": "Chestnut Mountain",
+                  "text": "Chestnut Mountain este un vârf în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -79.001965,
+                        37.431255
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Round Mountain este un vârf în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -79.006966,
+                        37.469032
+                  ]
+            },
+            {
+                  "name": "Larkin Mountain",
+                  "text": "Larkin Mountain este un vârf în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -78.952243,
+                        37.536254
+                  ]
+            },
+            {
+                  "name": "Train Station and Caboose",
+                  "text": "Muzeul 'Train Station and Caboose' din regiunea Blue Ridge expune echipamente feroviare istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -79.086374,
+                        37.556153
+                  ]
+            },
+            {
+                  "name": "Sweet Briar Museum",
+                  "text": "Muzeul Sweet Briar este un muzeu în zona Munților Blue Ridge.",
+                  "category": "museum",
+                  "coords": [
+                        -79.081764,
+                        37.557585
+                  ]
+            },
+            {
+                  "name": "Izaak Walton Park",
+                  "text": "Parcul Izaak Walton este un parc în Munții Blue Ridge, oferind activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -79.081413,
+                        37.505697
+                  ]
+            },
+            {
+                  "name": "Amherst Wayside",
+                  "text": "Amherst Wayside este un loc de odihnă rutier în Munții Blue Ridge.",
+                  "category": "park",
+                  "coords": [
+                        -78.960558,
+                        37.5635
+                  ]
+            },
+            {
+                  "name": "Carry Nature Sanctuary",
+                  "text": "Carry Nature Sanctuary este o rezervație naturală în Munții Blue Ridge.",
+                  "category": "natural",
+                  "coords": [
+                        -79.075711,
+                        37.554815
+                  ]
+            },
+            {
+                  "name": "Babcock Fine Arts Center",
+                  "text": "Centrul de Arte Frumoase Babcock este un centru de artă în regiunea Blue Ridge.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.084568,
+                        37.55565
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Amfiteatrul este un teatru în aer liber în Munții Blue Ridge.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.085,
+                        37.518671
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galts Mill Mountain",
+                  "text": "Galts Mill Mountain is a peak in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.041411,
+                        37.442921
+                  ]
+            },
+            {
+                  "name": "Turner Mountain",
+                  "text": "Turner Mountain is a peak in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -78.990299,
+                        37.453477
+                  ]
+            },
+            {
+                  "name": "Chestnut Mountain",
+                  "text": "Chestnut Mountain is a peak in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.001965,
+                        37.431255
+                  ]
+            },
+            {
+                  "name": "Round Mountain",
+                  "text": "Round Mountain is a peak in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.006966,
+                        37.469032
+                  ]
+            },
+            {
+                  "name": "Larkin Mountain",
+                  "text": "Larkin Mountain is a peak in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -78.952243,
+                        37.536254
+                  ]
+            },
+            {
+                  "name": "Train Station and Caboose",
+                  "text": "The Train Station and Caboose museum in the Blue Ridge region displays historic railway equipment.",
+                  "category": "museum",
+                  "coords": [
+                        -79.086374,
+                        37.556153
+                  ]
+            },
+            {
+                  "name": "Sweet Briar Museum",
+                  "text": "Sweet Briar Museum is a museum in the Blue Ridge Mountains area.",
+                  "category": "museum",
+                  "coords": [
+                        -79.081764,
+                        37.557585
+                  ]
+            },
+            {
+                  "name": "Izaak Walton Park",
+                  "text": "Izaak Walton Park is a park in the Blue Ridge Mountains offering outdoor recreation.",
+                  "category": "park",
+                  "coords": [
+                        -79.081413,
+                        37.505697
+                  ]
+            },
+            {
+                  "name": "Amherst Wayside",
+                  "text": "Amherst Wayside is a roadside park in the Blue Ridge Mountains.",
+                  "category": "park",
+                  "coords": [
+                        -78.960558,
+                        37.5635
+                  ]
+            },
+            {
+                  "name": "Carry Nature Sanctuary",
+                  "text": "Carry Nature Sanctuary is a nature reserve in the Blue Ridge Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -79.075711,
+                        37.554815
+                  ]
+            },
+            {
+                  "name": "Babcock Fine Arts Center",
+                  "text": "Babcock Fine Arts Center is an arts centre in the Blue Ridge region.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.084568,
+                        37.55565
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "The Amphitheater is an outdoor theatre in the Blue Ridge Mountains.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.085,
+                        37.518671
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-VA",
     coords: [-79.0, 37.5],
@@ -279,7 +1917,1168 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Connu pour sa teinte bleuâtre.", "La Blue Ridge Parkway passe par ici.", "Forêts mixtes denses.", "Région de randonnée populaire.", "Crêtes montagneuses douces.", "Richesse de la flore et de la faune."],
     }, image: "/poi-images/blueridge-mountains-relief-v2.webp"},
   {
-    id: "white-mountains-usa-relief-v2",
+    id: "white-mountains-usa-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Noon Peak",
+                  "text": "Ein Gipfel in den White Mountains von New Hampshire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.501511,
+                        43.920286
+                  ]
+            },
+            {
+                  "name": "Mount Huntington",
+                  "text": "Mount Huntington ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.491188,
+                        44.050346
+                  ]
+            },
+            {
+                  "name": "Greens Cliff",
+                  "text": "Greens Cliff ist eine Klippe in den White Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.402297,
+                        44.033402
+                  ]
+            },
+            {
+                  "name": "Mount Kancamagus",
+                  "text": "Mount Kancamagus ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479016,
+                        44.011149
+                  ]
+            },
+            {
+                  "name": "East Peak",
+                  "text": "East Peak ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520585,
+                        44.006105
+                  ]
+            },
+            {
+                  "name": "Pemigewasset Overlook",
+                  "text": "Pemigewasset Overlook ist ein Aussichtspunkt in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495523,
+                        44.026471
+                  ]
+            },
+            {
+                  "name": "Scar Ridge East Peak",
+                  "text": "Scar Ridge East Peak ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.565114,
+                        44.019203
+                  ]
+            },
+            {
+                  "name": "Peggy's Perch",
+                  "text": "Peggy's Perch ist ein Aussichtspunkt in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546922,
+                        44.006635
+                  ]
+            },
+            {
+                  "name": "Mount Osceola",
+                  "text": "Mount Osceola ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.53597,
+                        44.00159
+                  ]
+            },
+            {
+                  "name": "Scar Ridge",
+                  "text": "Scar Ridge ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.594414,
+                        44.029049
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586349,
+                        43.959928
+                  ]
+            },
+            {
+                  "name": "Mount Tecumseh",
+                  "text": "Mount Tecumseh ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556594,
+                        43.966548
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Green Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.560798,
+                        43.950261
+                  ]
+            },
+            {
+                  "name": "Fisher Mountain",
+                  "text": "Fisher Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586527,
+                        43.935847
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Black Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.604971,
+                        44.048339
+                  ]
+            },
+            {
+                  "name": "Mount Hitchcock",
+                  "text": "Mount Hitchcock ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.539245,
+                        44.074511
+                  ]
+            },
+            {
+                  "name": "South Hancock",
+                  "text": "South Hancock ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486945,
+                        44.073271
+                  ]
+            },
+            {
+                  "name": "Mount Hancock",
+                  "text": "Mount Hancock ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.493202,
+                        44.083453
+                  ]
+            },
+            {
+                  "name": "Jennings Peak",
+                  "text": "Jennings Peak ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510738,
+                        43.911119
+                  ]
+            },
+            {
+                  "name": "The Scaur",
+                  "text": "The Scaur ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495937,
+                        43.980881
+                  ]
+            },
+            {
+                  "name": "Flume Peak",
+                  "text": "Flume Peak ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479712,
+                        43.98616
+                  ]
+            },
+            {
+                  "name": "Waterville Flume viewpoint",
+                  "text": "Waterville Flume viewpoint ist ein Aussichtspunkt in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476867,
+                        43.981548
+                  ]
+            },
+            {
+                  "name": "Middle Tripyramid",
+                  "text": "Middle Tripyramid ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440074,
+                        43.96457
+                  ]
+            },
+            {
+                  "name": "South Tripyramid",
+                  "text": "South Tripyramid ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.441359,
+                        43.960306
+                  ]
+            },
+            {
+                  "name": "The Fool Killer",
+                  "text": "The Fool Killer ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.428623,
+                        43.976408
+                  ]
+            },
+            {
+                  "name": "North Tripyramid",
+                  "text": "North Tripyramid ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.442779,
+                        43.973161
+                  ]
+            },
+            {
+                  "name": "Scaur Peak",
+                  "text": "Scaur Peak ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.450084,
+                        43.985151
+                  ]
+            },
+            {
+                  "name": "Sugar Hill Scenic Vista",
+                  "text": "Sugar Hill Scenic Vista ist ein Aussichtspunkt in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.427672,
+                        44.009624
+                  ]
+            },
+            {
+                  "name": "Hix Mountain",
+                  "text": "Hix Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618357,
+                        43.983465
+                  ]
+            },
+            {
+                  "name": "Hogback Mountain",
+                  "text": "Hogback Mountain ist ein Gipfel in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.578593,
+                        43.938858
+                  ]
+            },
+            {
+                  "name": "Curious George Cottage",
+                  "text": "Curious George Cottage ist ein Museum in den White Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        -71.501591,
+                        43.946314
+                  ]
+            },
+            {
+                  "name": "Greeley Ponds Scenic Area",
+                  "text": "Greeley Ponds Scenic Area ist ein Naturschutzgebiet in den White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.504392,
+                        44.009136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Noon Peak",
+                  "text": "Egy csúcs a New Hampshire-i White Mountainsban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.501511,
+                        43.920286
+                  ]
+            },
+            {
+                  "name": "Mount Huntington",
+                  "text": "Mount Huntington egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.491188,
+                        44.050346
+                  ]
+            },
+            {
+                  "name": "Greens Cliff",
+                  "text": "Greens Cliff egy szikla a White Mountains-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.402297,
+                        44.033402
+                  ]
+            },
+            {
+                  "name": "Mount Kancamagus",
+                  "text": "Mount Kancamagus egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479016,
+                        44.011149
+                  ]
+            },
+            {
+                  "name": "East Peak",
+                  "text": "East Peak egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520585,
+                        44.006105
+                  ]
+            },
+            {
+                  "name": "Pemigewasset Overlook",
+                  "text": "Pemigewasset Overlook egy kilátópont a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495523,
+                        44.026471
+                  ]
+            },
+            {
+                  "name": "Scar Ridge East Peak",
+                  "text": "Scar Ridge East Peak egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.565114,
+                        44.019203
+                  ]
+            },
+            {
+                  "name": "Peggy's Perch",
+                  "text": "Peggy's Perch egy kilátópont a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546922,
+                        44.006635
+                  ]
+            },
+            {
+                  "name": "Mount Osceola",
+                  "text": "Mount Osceola egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.53597,
+                        44.00159
+                  ]
+            },
+            {
+                  "name": "Scar Ridge",
+                  "text": "Scar Ridge egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.594414,
+                        44.029049
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586349,
+                        43.959928
+                  ]
+            },
+            {
+                  "name": "Mount Tecumseh",
+                  "text": "Mount Tecumseh egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556594,
+                        43.966548
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Green Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.560798,
+                        43.950261
+                  ]
+            },
+            {
+                  "name": "Fisher Mountain",
+                  "text": "Fisher Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586527,
+                        43.935847
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Black Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.604971,
+                        44.048339
+                  ]
+            },
+            {
+                  "name": "Mount Hitchcock",
+                  "text": "Mount Hitchcock egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.539245,
+                        44.074511
+                  ]
+            },
+            {
+                  "name": "South Hancock",
+                  "text": "South Hancock egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486945,
+                        44.073271
+                  ]
+            },
+            {
+                  "name": "Mount Hancock",
+                  "text": "Mount Hancock egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.493202,
+                        44.083453
+                  ]
+            },
+            {
+                  "name": "Jennings Peak",
+                  "text": "Jennings Peak egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510738,
+                        43.911119
+                  ]
+            },
+            {
+                  "name": "The Scaur",
+                  "text": "The Scaur egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495937,
+                        43.980881
+                  ]
+            },
+            {
+                  "name": "Flume Peak",
+                  "text": "Flume Peak egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479712,
+                        43.98616
+                  ]
+            },
+            {
+                  "name": "Waterville Flume viewpoint",
+                  "text": "Waterville Flume viewpoint egy kilátópont a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476867,
+                        43.981548
+                  ]
+            },
+            {
+                  "name": "Middle Tripyramid",
+                  "text": "Middle Tripyramid egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440074,
+                        43.96457
+                  ]
+            },
+            {
+                  "name": "South Tripyramid",
+                  "text": "South Tripyramid egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.441359,
+                        43.960306
+                  ]
+            },
+            {
+                  "name": "The Fool Killer",
+                  "text": "The Fool Killer egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.428623,
+                        43.976408
+                  ]
+            },
+            {
+                  "name": "North Tripyramid",
+                  "text": "North Tripyramid egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.442779,
+                        43.973161
+                  ]
+            },
+            {
+                  "name": "Scaur Peak",
+                  "text": "Scaur Peak egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.450084,
+                        43.985151
+                  ]
+            },
+            {
+                  "name": "Sugar Hill Scenic Vista",
+                  "text": "Sugar Hill Scenic Vista egy kilátópont a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.427672,
+                        44.009624
+                  ]
+            },
+            {
+                  "name": "Hix Mountain",
+                  "text": "Hix Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618357,
+                        43.983465
+                  ]
+            },
+            {
+                  "name": "Hogback Mountain",
+                  "text": "Hogback Mountain egy csúcs a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.578593,
+                        43.938858
+                  ]
+            },
+            {
+                  "name": "Curious George Cottage",
+                  "text": "Curious George Cottage egy múzeum a White Mountains-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -71.501591,
+                        43.946314
+                  ]
+            },
+            {
+                  "name": "Greeley Ponds Scenic Area",
+                  "text": "Greeley Ponds Scenic Area egy természetvédelmi terület a White Mountains-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -71.504392,
+                        44.009136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Noon Peak",
+                  "text": "Un vârf în Munții Albi din New Hampshire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.501511,
+                        43.920286
+                  ]
+            },
+            {
+                  "name": "Mount Huntington",
+                  "text": "Mount Huntington este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.491188,
+                        44.050346
+                  ]
+            },
+            {
+                  "name": "Greens Cliff",
+                  "text": "Greens Cliff este o stâncă în Munții Albi.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.402297,
+                        44.033402
+                  ]
+            },
+            {
+                  "name": "Mount Kancamagus",
+                  "text": "Mount Kancamagus este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479016,
+                        44.011149
+                  ]
+            },
+            {
+                  "name": "East Peak",
+                  "text": "East Peak este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520585,
+                        44.006105
+                  ]
+            },
+            {
+                  "name": "Pemigewasset Overlook",
+                  "text": "Pemigewasset Overlook este un punct de belvedere în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495523,
+                        44.026471
+                  ]
+            },
+            {
+                  "name": "Scar Ridge East Peak",
+                  "text": "Scar Ridge East Peak este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.565114,
+                        44.019203
+                  ]
+            },
+            {
+                  "name": "Peggy's Perch",
+                  "text": "Peggy's Perch este un punct de belvedere în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546922,
+                        44.006635
+                  ]
+            },
+            {
+                  "name": "Mount Osceola",
+                  "text": "Mount Osceola este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.53597,
+                        44.00159
+                  ]
+            },
+            {
+                  "name": "Scar Ridge",
+                  "text": "Scar Ridge este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.594414,
+                        44.029049
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586349,
+                        43.959928
+                  ]
+            },
+            {
+                  "name": "Mount Tecumseh",
+                  "text": "Mount Tecumseh este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556594,
+                        43.966548
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Green Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.560798,
+                        43.950261
+                  ]
+            },
+            {
+                  "name": "Fisher Mountain",
+                  "text": "Fisher Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586527,
+                        43.935847
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Black Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.604971,
+                        44.048339
+                  ]
+            },
+            {
+                  "name": "Mount Hitchcock",
+                  "text": "Mount Hitchcock este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.539245,
+                        44.074511
+                  ]
+            },
+            {
+                  "name": "South Hancock",
+                  "text": "South Hancock este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486945,
+                        44.073271
+                  ]
+            },
+            {
+                  "name": "Mount Hancock",
+                  "text": "Mount Hancock este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.493202,
+                        44.083453
+                  ]
+            },
+            {
+                  "name": "Jennings Peak",
+                  "text": "Jennings Peak este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510738,
+                        43.911119
+                  ]
+            },
+            {
+                  "name": "The Scaur",
+                  "text": "The Scaur este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495937,
+                        43.980881
+                  ]
+            },
+            {
+                  "name": "Flume Peak",
+                  "text": "Flume Peak este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479712,
+                        43.98616
+                  ]
+            },
+            {
+                  "name": "Waterville Flume viewpoint",
+                  "text": "Waterville Flume viewpoint este un punct de belvedere în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476867,
+                        43.981548
+                  ]
+            },
+            {
+                  "name": "Middle Tripyramid",
+                  "text": "Middle Tripyramid este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440074,
+                        43.96457
+                  ]
+            },
+            {
+                  "name": "South Tripyramid",
+                  "text": "South Tripyramid este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.441359,
+                        43.960306
+                  ]
+            },
+            {
+                  "name": "The Fool Killer",
+                  "text": "The Fool Killer este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.428623,
+                        43.976408
+                  ]
+            },
+            {
+                  "name": "North Tripyramid",
+                  "text": "North Tripyramid este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.442779,
+                        43.973161
+                  ]
+            },
+            {
+                  "name": "Scaur Peak",
+                  "text": "Scaur Peak este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.450084,
+                        43.985151
+                  ]
+            },
+            {
+                  "name": "Sugar Hill Scenic Vista",
+                  "text": "Sugar Hill Scenic Vista este un punct de belvedere în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.427672,
+                        44.009624
+                  ]
+            },
+            {
+                  "name": "Hix Mountain",
+                  "text": "Hix Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618357,
+                        43.983465
+                  ]
+            },
+            {
+                  "name": "Hogback Mountain",
+                  "text": "Hogback Mountain este un vârf în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.578593,
+                        43.938858
+                  ]
+            },
+            {
+                  "name": "Curious George Cottage",
+                  "text": "Curious George Cottage este un muzeu în Munții Albi.",
+                  "category": "museum",
+                  "coords": [
+                        -71.501591,
+                        43.946314
+                  ]
+            },
+            {
+                  "name": "Greeley Ponds Scenic Area",
+                  "text": "Greeley Ponds Scenic Area este o rezervație naturală în Munții Albi.",
+                  "category": "natural",
+                  "coords": [
+                        -71.504392,
+                        44.009136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Noon Peak",
+                  "text": "A peak in the White Mountains of New Hampshire.",
+                  "category": "natural",
+                  "coords": [
+                        -71.501511,
+                        43.920286
+                  ]
+            },
+            {
+                  "name": "Mount Huntington",
+                  "text": "Mount Huntington is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.491188,
+                        44.050346
+                  ]
+            },
+            {
+                  "name": "Greens Cliff",
+                  "text": "Greens Cliff is a cliff in the White Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.402297,
+                        44.033402
+                  ]
+            },
+            {
+                  "name": "Mount Kancamagus",
+                  "text": "Mount Kancamagus is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479016,
+                        44.011149
+                  ]
+            },
+            {
+                  "name": "East Peak",
+                  "text": "East Peak is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.520585,
+                        44.006105
+                  ]
+            },
+            {
+                  "name": "Pemigewasset Overlook",
+                  "text": "Pemigewasset Overlook is a viewpoint in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495523,
+                        44.026471
+                  ]
+            },
+            {
+                  "name": "Scar Ridge East Peak",
+                  "text": "Scar Ridge East Peak is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.565114,
+                        44.019203
+                  ]
+            },
+            {
+                  "name": "Peggy's Perch",
+                  "text": "Peggy's Perch is a viewpoint in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.546922,
+                        44.006635
+                  ]
+            },
+            {
+                  "name": "Mount Osceola",
+                  "text": "Mount Osceola is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.53597,
+                        44.00159
+                  ]
+            },
+            {
+                  "name": "Scar Ridge",
+                  "text": "Scar Ridge is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.594414,
+                        44.029049
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586349,
+                        43.959928
+                  ]
+            },
+            {
+                  "name": "Mount Tecumseh",
+                  "text": "Mount Tecumseh is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.556594,
+                        43.966548
+                  ]
+            },
+            {
+                  "name": "Green Mountain",
+                  "text": "Green Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.560798,
+                        43.950261
+                  ]
+            },
+            {
+                  "name": "Fisher Mountain",
+                  "text": "Fisher Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.586527,
+                        43.935847
+                  ]
+            },
+            {
+                  "name": "Black Mountain",
+                  "text": "Black Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.604971,
+                        44.048339
+                  ]
+            },
+            {
+                  "name": "Mount Hitchcock",
+                  "text": "Mount Hitchcock is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.539245,
+                        44.074511
+                  ]
+            },
+            {
+                  "name": "South Hancock",
+                  "text": "South Hancock is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.486945,
+                        44.073271
+                  ]
+            },
+            {
+                  "name": "Mount Hancock",
+                  "text": "Mount Hancock is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.493202,
+                        44.083453
+                  ]
+            },
+            {
+                  "name": "Jennings Peak",
+                  "text": "Jennings Peak is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.510738,
+                        43.911119
+                  ]
+            },
+            {
+                  "name": "The Scaur",
+                  "text": "The Scaur is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.495937,
+                        43.980881
+                  ]
+            },
+            {
+                  "name": "Flume Peak",
+                  "text": "Flume Peak is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.479712,
+                        43.98616
+                  ]
+            },
+            {
+                  "name": "Waterville Flume viewpoint",
+                  "text": "Waterville Flume viewpoint is a viewpoint in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.476867,
+                        43.981548
+                  ]
+            },
+            {
+                  "name": "Middle Tripyramid",
+                  "text": "Middle Tripyramid is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.440074,
+                        43.96457
+                  ]
+            },
+            {
+                  "name": "South Tripyramid",
+                  "text": "South Tripyramid is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.441359,
+                        43.960306
+                  ]
+            },
+            {
+                  "name": "The Fool Killer",
+                  "text": "The Fool Killer is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.428623,
+                        43.976408
+                  ]
+            },
+            {
+                  "name": "North Tripyramid",
+                  "text": "North Tripyramid is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.442779,
+                        43.973161
+                  ]
+            },
+            {
+                  "name": "Scaur Peak",
+                  "text": "Scaur Peak is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.450084,
+                        43.985151
+                  ]
+            },
+            {
+                  "name": "Sugar Hill Scenic Vista",
+                  "text": "Sugar Hill Scenic Vista is a viewpoint in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.427672,
+                        44.009624
+                  ]
+            },
+            {
+                  "name": "Hix Mountain",
+                  "text": "Hix Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.618357,
+                        43.983465
+                  ]
+            },
+            {
+                  "name": "Hogback Mountain",
+                  "text": "Hogback Mountain is a peak in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.578593,
+                        43.938858
+                  ]
+            },
+            {
+                  "name": "Curious George Cottage",
+                  "text": "Curious George Cottage is a museum in the White Mountains.",
+                  "category": "museum",
+                  "coords": [
+                        -71.501591,
+                        43.946314
+                  ]
+            },
+            {
+                  "name": "Greeley Ponds Scenic Area",
+                  "text": "Greeley Ponds Scenic Area is a nature reserve in the White Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -71.504392,
+                        44.009136
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-NH",
     coords: [-71.5, 44.0],
@@ -314,7 +3113,844 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Le Mount Washington est le sommet le plus élevé.", "Célèbres pour leurs extrêmes météorologiques.", "Populaires auprès des randonneurs.", "Forêts denses dans les basses altitudes.", "Couleurs automnales spectaculaires.", "Font partie des Appalaches."],
     }, image: "/poi-images/white-mountains-usa-relief-v2.webp"},
   {
-    id: "adirondack-mountains-relief-v2",
+    id: "adirondack-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pine Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.028754,
+                        43.948395
+                  ]
+            },
+            {
+                  "name": "Rist Mountain",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.987366,
+                        44.027559
+                  ]
+            },
+            {
+                  "name": "North River Mountains",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.009589,
+                        44.017838
+                  ]
+            },
+            {
+                  "name": "Guideboard Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.064869,
+                        44.014228
+                  ]
+            },
+            {
+                  "name": "Howard Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.061535,
+                        43.976173
+                  ]
+            },
+            {
+                  "name": "Roosevelt Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.038754,
+                        43.938951
+                  ]
+            },
+            {
+                  "name": "Hedgehog Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.089037,
+                        43.990618
+                  ]
+            },
+            {
+                  "name": "Spruce Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.122927,
+                        43.993396
+                  ]
+            },
+            {
+                  "name": "Lower Duck Hole",
+                  "text": "Eine Bucht in den Adirondack Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119868,
+                        44.001828
+                  ]
+            },
+            {
+                  "name": "Mount Andrew",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.093483,
+                        44.056448
+                  ]
+            },
+            {
+                  "name": "Sanford Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.045425,
+                        44.052836
+                  ]
+            },
+            {
+                  "name": "Echo Mountain",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.065625,
+                        44.064892
+                  ]
+            },
+            {
+                  "name": "Mount Adams",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.025573,
+                        44.086951
+                  ]
+            },
+            {
+                  "name": "Popple Hill",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.022647,
+                        44.07589
+                  ]
+            },
+            {
+                  "name": "Cheney Cobble",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.964865,
+                        44.044502
+                  ]
+            },
+            {
+                  "name": "Moose Mountain",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.92153,
+                        44.044224
+                  ]
+            },
+            {
+                  "name": "Allen Lookout East",
+                  "text": "Ein Aussichtspunkt in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939708,
+                        44.070749
+                  ]
+            },
+            {
+                  "name": "Boreas Mountain",
+                  "text": "Ein Gipfel in den Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.880694,
+                        44.003114
+                  ]
+            },
+            {
+                  "name": "Wolf Pond Mountain",
+                  "text": "Ein Berggipfel in den Adirondacks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.878193,
+                        43.989225
+                  ]
+            },
+            {
+                  "name": "State Admin Area",
+                  "text": "Ein Naturschutzgebiet innerhalb des Adirondack Parks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.941646,
+                        43.999286
+                  ]
+            },
+            {
+                  "name": "Boreas Ponds Primitive Area",
+                  "text": "Ein primitives Gebiet in den Adirondacks, bekannt für seine Teiche und Wildnis.",
+                  "category": "natural",
+                  "coords": [
+                        -73.933872,
+                        44.008414
+                  ]
+            },
+            {
+                  "name": "Macintyre Primitive Area",
+                  "text": "Ein primitives Gebiet in den Adirondacks.",
+                  "category": "natural",
+                  "coords": [
+                        -74.03833,
+                        44.043037
+                  ]
+            },
+            {
+                  "name": "McIntyre Blast Furnace",
+                  "text": "Ein historischer Hochofen aus der Eisenbergbauzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.056255,
+                        44.078858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pine Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.028754,
+                        43.948395
+                  ]
+            },
+            {
+                  "name": "Rist Mountain",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.987366,
+                        44.027559
+                  ]
+            },
+            {
+                  "name": "North River Mountains",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.009589,
+                        44.017838
+                  ]
+            },
+            {
+                  "name": "Guideboard Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.064869,
+                        44.014228
+                  ]
+            },
+            {
+                  "name": "Howard Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.061535,
+                        43.976173
+                  ]
+            },
+            {
+                  "name": "Roosevelt Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.038754,
+                        43.938951
+                  ]
+            },
+            {
+                  "name": "Hedgehog Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.089037,
+                        43.990618
+                  ]
+            },
+            {
+                  "name": "Spruce Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.122927,
+                        43.993396
+                  ]
+            },
+            {
+                  "name": "Lower Duck Hole",
+                  "text": "Egy öböl az Adirondack-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119868,
+                        44.001828
+                  ]
+            },
+            {
+                  "name": "Mount Andrew",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.093483,
+                        44.056448
+                  ]
+            },
+            {
+                  "name": "Sanford Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.045425,
+                        44.052836
+                  ]
+            },
+            {
+                  "name": "Echo Mountain",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.065625,
+                        44.064892
+                  ]
+            },
+            {
+                  "name": "Mount Adams",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.025573,
+                        44.086951
+                  ]
+            },
+            {
+                  "name": "Popple Hill",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.022647,
+                        44.07589
+                  ]
+            },
+            {
+                  "name": "Cheney Cobble",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.964865,
+                        44.044502
+                  ]
+            },
+            {
+                  "name": "Moose Mountain",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.92153,
+                        44.044224
+                  ]
+            },
+            {
+                  "name": "Allen Lookout East",
+                  "text": "Egy kilátó az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939708,
+                        44.070749
+                  ]
+            },
+            {
+                  "name": "Boreas Mountain",
+                  "text": "Egy csúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.880694,
+                        44.003114
+                  ]
+            },
+            {
+                  "name": "Wolf Pond Mountain",
+                  "text": "Egy hegycsúcs az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.878193,
+                        43.989225
+                  ]
+            },
+            {
+                  "name": "State Admin Area",
+                  "text": "Természetvédelmi terület az Adirondack Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -73.941646,
+                        43.999286
+                  ]
+            },
+            {
+                  "name": "Boreas Ponds Primitive Area",
+                  "text": "Egy vadon élő terület az Adirondack-hegységben, tavairól és vadonjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -73.933872,
+                        44.008414
+                  ]
+            },
+            {
+                  "name": "Macintyre Primitive Area",
+                  "text": "Egy vadon élő terület az Adirondack-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -74.03833,
+                        44.043037
+                  ]
+            },
+            {
+                  "name": "McIntyre Blast Furnace",
+                  "text": "Egy történelmi nagyolvasztó a vasbányászat korából.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.056255,
+                        44.078858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pine Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.028754,
+                        43.948395
+                  ]
+            },
+            {
+                  "name": "Rist Mountain",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.987366,
+                        44.027559
+                  ]
+            },
+            {
+                  "name": "North River Mountains",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.009589,
+                        44.017838
+                  ]
+            },
+            {
+                  "name": "Guideboard Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.064869,
+                        44.014228
+                  ]
+            },
+            {
+                  "name": "Howard Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.061535,
+                        43.976173
+                  ]
+            },
+            {
+                  "name": "Roosevelt Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.038754,
+                        43.938951
+                  ]
+            },
+            {
+                  "name": "Hedgehog Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.089037,
+                        43.990618
+                  ]
+            },
+            {
+                  "name": "Spruce Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.122927,
+                        43.993396
+                  ]
+            },
+            {
+                  "name": "Lower Duck Hole",
+                  "text": "Un golf în Munții Adirondack.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119868,
+                        44.001828
+                  ]
+            },
+            {
+                  "name": "Mount Andrew",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.093483,
+                        44.056448
+                  ]
+            },
+            {
+                  "name": "Sanford Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.045425,
+                        44.052836
+                  ]
+            },
+            {
+                  "name": "Echo Mountain",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.065625,
+                        44.064892
+                  ]
+            },
+            {
+                  "name": "Mount Adams",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.025573,
+                        44.086951
+                  ]
+            },
+            {
+                  "name": "Popple Hill",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.022647,
+                        44.07589
+                  ]
+            },
+            {
+                  "name": "Cheney Cobble",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.964865,
+                        44.044502
+                  ]
+            },
+            {
+                  "name": "Moose Mountain",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.92153,
+                        44.044224
+                  ]
+            },
+            {
+                  "name": "Allen Lookout East",
+                  "text": "Un punct de belvedere în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939708,
+                        44.070749
+                  ]
+            },
+            {
+                  "name": "Boreas Mountain",
+                  "text": "Un vârf în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.880694,
+                        44.003114
+                  ]
+            },
+            {
+                  "name": "Wolf Pond Mountain",
+                  "text": "Un vârf de munte în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.878193,
+                        43.989225
+                  ]
+            },
+            {
+                  "name": "State Admin Area",
+                  "text": "O rezervație naturală în Parcul Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -73.941646,
+                        43.999286
+                  ]
+            },
+            {
+                  "name": "Boreas Ponds Primitive Area",
+                  "text": "O zonă primitivă în Munții Adirondack, cunoscută pentru iazurile și sălbăticia sa.",
+                  "category": "natural",
+                  "coords": [
+                        -73.933872,
+                        44.008414
+                  ]
+            },
+            {
+                  "name": "Macintyre Primitive Area",
+                  "text": "O zonă primitivă în Munții Adirondack.",
+                  "category": "natural",
+                  "coords": [
+                        -74.03833,
+                        44.043037
+                  ]
+            },
+            {
+                  "name": "McIntyre Blast Furnace",
+                  "text": "Un furnal istoric din epoca mineritului de fier.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.056255,
+                        44.078858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pine Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.028754,
+                        43.948395
+                  ]
+            },
+            {
+                  "name": "Rist Mountain",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.987366,
+                        44.027559
+                  ]
+            },
+            {
+                  "name": "North River Mountains",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.009589,
+                        44.017838
+                  ]
+            },
+            {
+                  "name": "Guideboard Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.064869,
+                        44.014228
+                  ]
+            },
+            {
+                  "name": "Howard Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.061535,
+                        43.976173
+                  ]
+            },
+            {
+                  "name": "Roosevelt Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.038754,
+                        43.938951
+                  ]
+            },
+            {
+                  "name": "Hedgehog Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.089037,
+                        43.990618
+                  ]
+            },
+            {
+                  "name": "Spruce Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.122927,
+                        43.993396
+                  ]
+            },
+            {
+                  "name": "Lower Duck Hole",
+                  "text": "A bay in the Adirondack Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.119868,
+                        44.001828
+                  ]
+            },
+            {
+                  "name": "Mount Andrew",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.093483,
+                        44.056448
+                  ]
+            },
+            {
+                  "name": "Sanford Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.045425,
+                        44.052836
+                  ]
+            },
+            {
+                  "name": "Echo Mountain",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.065625,
+                        44.064892
+                  ]
+            },
+            {
+                  "name": "Mount Adams",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.025573,
+                        44.086951
+                  ]
+            },
+            {
+                  "name": "Popple Hill",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -74.022647,
+                        44.07589
+                  ]
+            },
+            {
+                  "name": "Cheney Cobble",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.964865,
+                        44.044502
+                  ]
+            },
+            {
+                  "name": "Moose Mountain",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.92153,
+                        44.044224
+                  ]
+            },
+            {
+                  "name": "Allen Lookout East",
+                  "text": "A viewpoint in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939708,
+                        44.070749
+                  ]
+            },
+            {
+                  "name": "Boreas Mountain",
+                  "text": "A peak in the Adirondack Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -73.880694,
+                        44.003114
+                  ]
+            },
+            {
+                  "name": "Wolf Pond Mountain",
+                  "text": "A mountain peak in the Adirondacks.",
+                  "category": "natural",
+                  "coords": [
+                        -73.878193,
+                        43.989225
+                  ]
+            },
+            {
+                  "name": "State Admin Area",
+                  "text": "A nature reserve within the Adirondack Park.",
+                  "category": "natural",
+                  "coords": [
+                        -73.941646,
+                        43.999286
+                  ]
+            },
+            {
+                  "name": "Boreas Ponds Primitive Area",
+                  "text": "A primitive area in the Adirondacks known for its ponds and wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -73.933872,
+                        44.008414
+                  ]
+            },
+            {
+                  "name": "Macintyre Primitive Area",
+                  "text": "A primitive area in the Adirondacks.",
+                  "category": "natural",
+                  "coords": [
+                        -74.03833,
+                        44.043037
+                  ]
+            },
+            {
+                  "name": "McIntyre Blast Furnace",
+                  "text": "A historic blast furnace from the iron mining era.",
+                  "category": "landmark",
+                  "coords": [
+                        -74.056255,
+                        44.078858
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-NY",
     coords: [-74.0, 44.0],
@@ -349,7 +3985,196 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Ne font pas partie des Appalaches.", "D'innombrables lacs et forêts.", "Grande zone naturelle protégée.", "Populaire pour les randonnées en canoë.", "Hautes montagnes de granit.", "Destination populaire en été comme en hiver."],
     }, image: "/poi-images/adirondack-mountains-relief-v2.webp"},
   {
-    id: "big-bend-relief-v2",
+    id: "big-bend-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Animal Highways",
+                  "text": "Aussichtspunkt mit Blick auf Tierwanderwege im Big-Bend-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -103.258434,
+                        29.332456
+                  ]
+            },
+            {
+                  "name": "LM Peak",
+                  "text": "Aussichtspunkt am LM Peak im Big-Bend-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -103.266704,
+                        29.267106
+                  ]
+            },
+            {
+                  "name": "Chisos Mountains Tree Zone",
+                  "text": "Aussichtspunkt in der Baumzone des Chisos-Gebirges.",
+                  "category": "natural",
+                  "coords": [
+                        -103.281592,
+                        29.282108
+                  ]
+            },
+            {
+                  "name": "Lost Mine Peak",
+                  "text": "Ein Gipfel in der Big Bend Region.",
+                  "category": "natural",
+                  "coords": [
+                        -103.25823,
+                        29.275756
+                  ]
+            },
+            {
+                  "name": "Big Bend National Park",
+                  "text": "Der Big-Bend-Nationalpark ist ein Schutzgebiet in Texas, bekannt für seine vielfältige Geologie und den Rio Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -103.229511,
+                        29.29251
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Animal Highways",
+                  "text": "Kilátó, ahol állatok vándorlási útvonalait figyelhetjük meg a Big Bendben.",
+                  "category": "natural",
+                  "coords": [
+                        -103.258434,
+                        29.332456
+                  ]
+            },
+            {
+                  "name": "LM Peak",
+                  "text": "Kilátó az LM Peak-en a Big Bend régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.266704,
+                        29.267106
+                  ]
+            },
+            {
+                  "name": "Chisos Mountains Tree Zone",
+                  "text": "Kilátó a Chisos-hegység faövezetében.",
+                  "category": "natural",
+                  "coords": [
+                        -103.281592,
+                        29.282108
+                  ]
+            },
+            {
+                  "name": "Lost Mine Peak",
+                  "text": "Egy csúcs a Big Bend régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -103.25823,
+                        29.275756
+                  ]
+            },
+            {
+                  "name": "Big Bend National Park",
+                  "text": "A Big Bend Nemzeti Park egy védett terület Texasban, híres változatos geológiájáról és a Rio Grande folyóról.",
+                  "category": "natural",
+                  "coords": [
+                        -103.229511,
+                        29.29251
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Animal Highways",
+                  "text": "Punct de belvedere spre rutele de migrație ale animalelor în Big Bend.",
+                  "category": "natural",
+                  "coords": [
+                        -103.258434,
+                        29.332456
+                  ]
+            },
+            {
+                  "name": "LM Peak",
+                  "text": "Punct de belvedere pe vârful LM în zona Big Bend.",
+                  "category": "natural",
+                  "coords": [
+                        -103.266704,
+                        29.267106
+                  ]
+            },
+            {
+                  "name": "Chisos Mountains Tree Zone",
+                  "text": "Punct de belvedere în zona arborilor din Munții Chisos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.281592,
+                        29.282108
+                  ]
+            },
+            {
+                  "name": "Lost Mine Peak",
+                  "text": "Un vârf în regiunea Big Bend.",
+                  "category": "natural",
+                  "coords": [
+                        -103.25823,
+                        29.275756
+                  ]
+            },
+            {
+                  "name": "Big Bend National Park",
+                  "text": "Parcul Național Big Bend este o arie protejată în Texas, cunoscută pentru geologia sa diversă și râul Rio Grande.",
+                  "category": "natural",
+                  "coords": [
+                        -103.229511,
+                        29.29251
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Animal Highways",
+                  "text": "Viewpoint overlooking animal migration routes in Big Bend.",
+                  "category": "natural",
+                  "coords": [
+                        -103.258434,
+                        29.332456
+                  ]
+            },
+            {
+                  "name": "LM Peak",
+                  "text": "Viewpoint at LM Peak in the Big Bend region.",
+                  "category": "natural",
+                  "coords": [
+                        -103.266704,
+                        29.267106
+                  ]
+            },
+            {
+                  "name": "Chisos Mountains Tree Zone",
+                  "text": "Viewpoint in the tree zone of the Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.281592,
+                        29.282108
+                  ]
+            },
+            {
+                  "name": "Lost Mine Peak",
+                  "text": "A peak in the Big Bend region.",
+                  "category": "natural",
+                  "coords": [
+                        -103.25823,
+                        29.275756
+                  ]
+            },
+            {
+                  "name": "Big Bend National Park",
+                  "text": "Big Bend National Park is a protected area in Texas known for its diverse geology and the Rio Grande River.",
+                  "category": "natural",
+                  "coords": [
+                        -103.229511,
+                        29.29251
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "US-TX",
     coords: [-103.2, 29.3],
@@ -384,7 +4209,268 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Fait partie de l'écosystème du désert de Chihuahua.", "Canyons spectaculaires.", "Conditions extrêmement arides.", "Formations rocheuses géologiquement diverses.", "Habitat important pour les espèces du désert.", "Très peu peuplé."],
     }, image: "/poi-images/big-bend-relief-v2.webp"},
   {
-    id: "black-hills-relief-v2",
+    id: "black-hills-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boulder Hill",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf die Black Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -103.398734,
+                        43.961903
+                  ]
+            },
+            {
+                  "name": "1880 Train (Hill City)",
+                  "text": "Ein historischer Dampfzug, der Fahrten durch die Black Hills anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.573178,
+                        43.932487
+                  ]
+            },
+            {
+                  "name": "Thunderhead Falls",
+                  "text": "Ein Wasserfall in den Black Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.413247,
+                        44.05764
+                  ]
+            },
+            {
+                  "name": "Black Hills Institute",
+                  "text": "Ein renommiertes Forschungsinstitut und Museum für Naturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -103.575612,
+                        43.933315
+                  ]
+            },
+            {
+                  "name": "Civilian Conservation Corps Museum",
+                  "text": "Ein Museum, das die Arbeit des Civilian Conservation Corps in den Black Hills hervorhebt.",
+                  "category": "museum",
+                  "coords": [
+                        -103.56131,
+                        43.938395
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake South",
+                  "text": "Ein Strandabschnitt am südlichen Ufer des Sheridan Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.481001,
+                        43.968985
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake North",
+                  "text": "Ein Strandabschnitt am nördlichen Ufer des Sheridan Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.476323,
+                        43.980502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boulder Hill",
+                  "text": "Egy kilátóhely, panorámás kilátással a Black Hillsre.",
+                  "category": "natural",
+                  "coords": [
+                        -103.398734,
+                        43.961903
+                  ]
+            },
+            {
+                  "name": "1880 Train (Hill City)",
+                  "text": "Egy történelmi gőzös, amely kirándulásokat kínál a Black Hillsen keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.573178,
+                        43.932487
+                  ]
+            },
+            {
+                  "name": "Thunderhead Falls",
+                  "text": "Egy vízesés a Black Hillsben.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.413247,
+                        44.05764
+                  ]
+            },
+            {
+                  "name": "Black Hills Institute",
+                  "text": "Egy neves kutatóintézet és természetrajzi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -103.575612,
+                        43.933315
+                  ]
+            },
+            {
+                  "name": "Civilian Conservation Corps Museum",
+                  "text": "Egy múzeum, amely a Civilian Conservation Corps munkáját emeli ki a Black Hillsben.",
+                  "category": "museum",
+                  "coords": [
+                        -103.56131,
+                        43.938395
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake South",
+                  "text": "Egy strand a Sheridan-tó déli partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.481001,
+                        43.968985
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake North",
+                  "text": "Egy strand a Sheridan-tó északi partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.476323,
+                        43.980502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boulder Hill",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra Black Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -103.398734,
+                        43.961903
+                  ]
+            },
+            {
+                  "name": "1880 Train (Hill City)",
+                  "text": "Un tren cu aburi istoric care oferă curse prin Black Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.573178,
+                        43.932487
+                  ]
+            },
+            {
+                  "name": "Thunderhead Falls",
+                  "text": "O cascadă în Black Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.413247,
+                        44.05764
+                  ]
+            },
+            {
+                  "name": "Black Hills Institute",
+                  "text": "Un renumit institut de cercetare și muzeu de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        -103.575612,
+                        43.933315
+                  ]
+            },
+            {
+                  "name": "Civilian Conservation Corps Museum",
+                  "text": "Un muzeu care evidențiază activitatea Corpului de Conservare Civilă din Black Hills.",
+                  "category": "museum",
+                  "coords": [
+                        -103.56131,
+                        43.938395
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake South",
+                  "text": "O plajă pe malul sudic al lacului Sheridan.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.481001,
+                        43.968985
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake North",
+                  "text": "O plajă pe malul nordic al lacului Sheridan.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.476323,
+                        43.980502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boulder Hill",
+                  "text": "A scenic viewpoint offering panoramic views of the Black Hills.",
+                  "category": "natural",
+                  "coords": [
+                        -103.398734,
+                        43.961903
+                  ]
+            },
+            {
+                  "name": "1880 Train (Hill City)",
+                  "text": "A historic steam train offering rides through the Black Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.573178,
+                        43.932487
+                  ]
+            },
+            {
+                  "name": "Thunderhead Falls",
+                  "text": "A waterfall attraction in the Black Hills.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.413247,
+                        44.05764
+                  ]
+            },
+            {
+                  "name": "Black Hills Institute",
+                  "text": "A renowned research institute and museum of natural history.",
+                  "category": "museum",
+                  "coords": [
+                        -103.575612,
+                        43.933315
+                  ]
+            },
+            {
+                  "name": "Civilian Conservation Corps Museum",
+                  "text": "A museum highlighting the work of the Civilian Conservation Corps in the Black Hills.",
+                  "category": "museum",
+                  "coords": [
+                        -103.56131,
+                        43.938395
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake South",
+                  "text": "A beach area on the southern shore of Sheridan Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.481001,
+                        43.968985
+                  ]
+            },
+            {
+                  "name": "Sheridan Lake North",
+                  "text": "A beach area on the northern shore of Sheridan Lake.",
+                  "category": "recreational",
+                  "coords": [
+                        -103.476323,
+                        43.980502
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-SD",
     coords: [-103.5, 44.0],
@@ -419,7 +4505,268 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Abrite le mont Rushmore.", "Formations géologiquement plus anciennes.", "Forêts de pins denses.", "Terre sacrée pour les peuples autochtones.", "Nombreux animaux sauvages.", "Le point culminant est le Black Elk Peak."],
     }, image: "/poi-images/black-hills-relief-v2.webp"},
   {
-    id: "colorado-plateau-relief-v2",
+    id: "colorado-plateau-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bobby's Hole Dugway",
+                  "text": "Bobby's Hole Dugway ist eine Attraktion im Colorado-Plateau-Relief-Gebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.937569,
+                        38.042392
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Top)",
+                  "text": "Eine Attraktion auf dem Gipfel eines Hügels im Colorado-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.94866,
+                        38.037302
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Bottom)",
+                  "text": "Eine Attraktion am Fuß eines Hügels im Colorado-Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.950934,
+                        38.037682
+                  ]
+            },
+            {
+                  "name": "Imperial Canyon Overlook",
+                  "text": "Ein Aussichtspunkt über den Imperial Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -110.023689,
+                        38.036577
+                  ]
+            },
+            {
+                  "name": "Gypsum Canyon Overlook",
+                  "text": "Ein Aussichtspunkt über den Gypsum Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -110.044399,
+                        38.008005
+                  ]
+            },
+            {
+                  "name": "Farmhouse Ruin",
+                  "text": "Ruinen eines Bauernhauses im Colorado-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -109.917882,
+                        38.009572
+                  ]
+            },
+            {
+                  "name": "Tower Ruin",
+                  "text": "Ruinen eines Turms im Colorado-Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -109.898385,
+                        38.004233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bobby's Hole Dugway",
+                  "text": "A Bobby's Hole Dugway egy attrakció a Colorado-fennsík relief területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.937569,
+                        38.042392
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Top)",
+                  "text": "Egy dombtetőn található látványosság a Colorado-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.94866,
+                        38.037302
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Bottom)",
+                  "text": "Egy domb alján található látványosság a Colorado-fennsíkon.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.950934,
+                        38.037682
+                  ]
+            },
+            {
+                  "name": "Imperial Canyon Overlook",
+                  "text": "Kilátó az Imperial-kanyon felett.",
+                  "category": "natural",
+                  "coords": [
+                        -110.023689,
+                        38.036577
+                  ]
+            },
+            {
+                  "name": "Gypsum Canyon Overlook",
+                  "text": "Kilátó a Gypsum-kanyon felett.",
+                  "category": "natural",
+                  "coords": [
+                        -110.044399,
+                        38.008005
+                  ]
+            },
+            {
+                  "name": "Farmhouse Ruin",
+                  "text": "Egy tanya romjai a Colorado-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        -109.917882,
+                        38.009572
+                  ]
+            },
+            {
+                  "name": "Tower Ruin",
+                  "text": "Egy torony romjai a Colorado-fennsíkon.",
+                  "category": "historical",
+                  "coords": [
+                        -109.898385,
+                        38.004233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bobby's Hole Dugway",
+                  "text": "Bobby's Hole Dugway este o atracție în zona reliefului Platoului Colorado.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.937569,
+                        38.042392
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Top)",
+                  "text": "O atracție pe vârful unui deal pe Podișul Colorado.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.94866,
+                        38.037302
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Bottom)",
+                  "text": "O atracție la baza unui deal pe Podișul Colorado.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.950934,
+                        38.037682
+                  ]
+            },
+            {
+                  "name": "Imperial Canyon Overlook",
+                  "text": "Un punct de belvedere deasupra canionului Imperial.",
+                  "category": "natural",
+                  "coords": [
+                        -110.023689,
+                        38.036577
+                  ]
+            },
+            {
+                  "name": "Gypsum Canyon Overlook",
+                  "text": "Un punct de belvedere deasupra canionului Gypsum.",
+                  "category": "natural",
+                  "coords": [
+                        -110.044399,
+                        38.008005
+                  ]
+            },
+            {
+                  "name": "Farmhouse Ruin",
+                  "text": "Ruinele unei ferme pe Podișul Colorado.",
+                  "category": "historical",
+                  "coords": [
+                        -109.917882,
+                        38.009572
+                  ]
+            },
+            {
+                  "name": "Tower Ruin",
+                  "text": "Ruinele unui turn pe Podișul Colorado.",
+                  "category": "historical",
+                  "coords": [
+                        -109.898385,
+                        38.004233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bobby's Hole Dugway",
+                  "text": "Bobby's Hole Dugway is an attraction in the Colorado Plateau relief area.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.937569,
+                        38.042392
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Top)",
+                  "text": "An attraction at the top of a hill on the Colorado Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.94866,
+                        38.037302
+                  ]
+            },
+            {
+                  "name": "Impossible Hill (Bottom)",
+                  "text": "An attraction at the bottom of a hill on the Colorado Plateau.",
+                  "category": "landmark",
+                  "coords": [
+                        -109.950934,
+                        38.037682
+                  ]
+            },
+            {
+                  "name": "Imperial Canyon Overlook",
+                  "text": "A viewpoint overlooking Imperial Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -110.023689,
+                        38.036577
+                  ]
+            },
+            {
+                  "name": "Gypsum Canyon Overlook",
+                  "text": "A viewpoint overlooking Gypsum Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -110.044399,
+                        38.008005
+                  ]
+            },
+            {
+                  "name": "Farmhouse Ruin",
+                  "text": "Ruins of a farmhouse on the Colorado Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -109.917882,
+                        38.009572
+                  ]
+            },
+            {
+                  "name": "Tower Ruin",
+                  "text": "Ruins of a tower on the Colorado Plateau.",
+                  "category": "historical",
+                  "coords": [
+                        -109.898385,
+                        38.004233
+                  ]
+            }
+      ]
+},
     type: "relief",
     parent: "US-UT",
     coords: [-110.0, 38.0],
@@ -520,7 +4867,304 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       en: ["Important habitat for desert species.", "Very rugged.", "Unique biodiversity.", "Important for water supply.", "Volcanic rocks.", "Dry slopes."]
     }, image: "/poi-images/sierra-madre-occidental-relief-v2.webp"},
   {
-    id: "chisos-mountains-relief-v2",
+    id: "chisos-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Big Bend NP",
+                  "text": "Big-Bend-Nationalpark in den Chisos Mountains, ein geschütztes Gebiet in Texas.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.217323,
+                        29.147653
+                  ]
+            },
+            {
+                  "name": "South Rim Viewpoint",
+                  "text": "Aussichtspunkt auf den Südrand des Chisos-Beckens.",
+                  "category": "natural",
+                  "coords": [
+                        -103.302843,
+                        29.226024
+                  ]
+            },
+            {
+                  "name": "Emory Peak",
+                  "text": "Emory Peak ist der höchste Gipfel der Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.3051,
+                        29.2459
+                  ]
+            },
+            {
+                  "name": "Homer Wilson Ranch Overlook",
+                  "text": "Aussichtspunkt auf die historische Homer Wilson Ranch.",
+                  "category": "natural",
+                  "coords": [
+                        -103.369061,
+                        29.2164
+                  ]
+            },
+            {
+                  "name": "Sotol Vista Overlook",
+                  "text": "Aussichtspunkt mit Blick auf die Sotol-Vista-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -103.377373,
+                        29.214732
+                  ]
+            },
+            {
+                  "name": "The Window Viewpoint",
+                  "text": "Aussichtspunkt auf die bekannte 'Window'-Felsformation in den Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.33074,
+                        29.280707
+                  ]
+            },
+            {
+                  "name": "Casa Grande Peak",
+                  "text": "Ein markanter Gipfel in den Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.288117,
+                        29.268067
+                  ]
+            },
+            {
+                  "name": "Dominguez Spring Ruins",
+                  "text": "Ruinen im Chisos-Gebirge.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309591,
+                        29.131007
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Big Bend NP",
+                  "text": "Big Bend Nemzeti Park a Chisos-hegységben, egy védett terület Texasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.217323,
+                        29.147653
+                  ]
+            },
+            {
+                  "name": "South Rim Viewpoint",
+                  "text": "Kilátópont a Chisos-medence déli peremén.",
+                  "category": "natural",
+                  "coords": [
+                        -103.302843,
+                        29.226024
+                  ]
+            },
+            {
+                  "name": "Emory Peak",
+                  "text": "Az Emory Peak a Chisos-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -103.3051,
+                        29.2459
+                  ]
+            },
+            {
+                  "name": "Homer Wilson Ranch Overlook",
+                  "text": "Kilátópont a történelmi Homer Wilson Ranchra.",
+                  "category": "natural",
+                  "coords": [
+                        -103.369061,
+                        29.2164
+                  ]
+            },
+            {
+                  "name": "Sotol Vista Overlook",
+                  "text": "Kilátópont a Sotol Vista tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -103.377373,
+                        29.214732
+                  ]
+            },
+            {
+                  "name": "The Window Viewpoint",
+                  "text": "Kilátópont a híres 'Ablak' sziklaformációra a Chisos-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -103.33074,
+                        29.280707
+                  ]
+            },
+            {
+                  "name": "Casa Grande Peak",
+                  "text": "Jellegzetes csúcs a Chisos-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -103.288117,
+                        29.268067
+                  ]
+            },
+            {
+                  "name": "Dominguez Spring Ruins",
+                  "text": "Romok a Chisos-hegységben.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309591,
+                        29.131007
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Big Bend NP",
+                  "text": "Parcul Național Big Bend în Munții Chisos, o arie protejată din Texas.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.217323,
+                        29.147653
+                  ]
+            },
+            {
+                  "name": "South Rim Viewpoint",
+                  "text": "Punct de belvedere pe marginea sudică a bazinului Chisos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.302843,
+                        29.226024
+                  ]
+            },
+            {
+                  "name": "Emory Peak",
+                  "text": "Emory Peak este cel mai înalt vârf al Munților Chisos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.3051,
+                        29.2459
+                  ]
+            },
+            {
+                  "name": "Homer Wilson Ranch Overlook",
+                  "text": "Punct de belvedere asupra fermei istorice Homer Wilson.",
+                  "category": "natural",
+                  "coords": [
+                        -103.369061,
+                        29.2164
+                  ]
+            },
+            {
+                  "name": "Sotol Vista Overlook",
+                  "text": "Punct de belvedere cu vedere spre peisajul Sotol Vista.",
+                  "category": "natural",
+                  "coords": [
+                        -103.377373,
+                        29.214732
+                  ]
+            },
+            {
+                  "name": "The Window Viewpoint",
+                  "text": "Punct de belvedere spre cunoscuta formațiune stâncoasă 'Fereastra' din Munții Chisos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.33074,
+                        29.280707
+                  ]
+            },
+            {
+                  "name": "Casa Grande Peak",
+                  "text": "Un vârf proeminent în Munții Chisos.",
+                  "category": "natural",
+                  "coords": [
+                        -103.288117,
+                        29.268067
+                  ]
+            },
+            {
+                  "name": "Dominguez Spring Ruins",
+                  "text": "Ruine în Munții Chisos.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309591,
+                        29.131007
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Big Bend NP",
+                  "text": "Big Bend National Park in the Chisos Mountains, a protected area in Texas.",
+                  "category": "landmark",
+                  "coords": [
+                        -103.217323,
+                        29.147653
+                  ]
+            },
+            {
+                  "name": "South Rim Viewpoint",
+                  "text": "Viewpoint overlooking the south rim of the Chisos Basin.",
+                  "category": "natural",
+                  "coords": [
+                        -103.302843,
+                        29.226024
+                  ]
+            },
+            {
+                  "name": "Emory Peak",
+                  "text": "Emory Peak is the highest peak in the Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.3051,
+                        29.2459
+                  ]
+            },
+            {
+                  "name": "Homer Wilson Ranch Overlook",
+                  "text": "Overlook providing views of the historic Homer Wilson Ranch.",
+                  "category": "natural",
+                  "coords": [
+                        -103.369061,
+                        29.2164
+                  ]
+            },
+            {
+                  "name": "Sotol Vista Overlook",
+                  "text": "Viewpoint overlooking the Sotol Vista landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -103.377373,
+                        29.214732
+                  ]
+            },
+            {
+                  "name": "The Window Viewpoint",
+                  "text": "Viewpoint facing the iconic Window rock formation in the Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.33074,
+                        29.280707
+                  ]
+            },
+            {
+                  "name": "Casa Grande Peak",
+                  "text": "A prominent peak in the Chisos Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -103.288117,
+                        29.268067
+                  ]
+            },
+            {
+                  "name": "Dominguez Spring Ruins",
+                  "text": "Ruins in the Chisos Mountains.",
+                  "category": "historical",
+                  "coords": [
+                        -103.309591,
+                        29.131007
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-TX",
     coords: [-103.3, 29.2],
@@ -555,7 +5199,340 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Formations volcaniques.", "Île céleste dans le désert.", "Nettement plus frais que les environs.", "Habitat de l'ours noir.", "Sentiers de randonnée spectaculaires.", "Flore unique."],
     }, image: "/poi-images/chisos-mountains-relief-v2.webp"},
   {
-    id: "wasatch-range-relief-v2",
+    id: "wasatch-range-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deer Creek Overlook",
+                  "text": "Ein Aussichtspunkt in der Wasatch Range mit Blick auf den Deer Creek Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        -111.562018,
+                        40.449264
+                  ]
+            },
+            {
+                  "name": "Daughters of Utah Pioneers Museum",
+                  "text": "Ein Museum in der Wasatch Range, das Artefakte der Pioniergeschichte Utahs zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -111.413865,
+                        40.505271
+                  ]
+            },
+            {
+                  "name": "Timpanogos Valley Theater",
+                  "text": "Ein Theater im Timpanogos Valley, das Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.414844,
+                        40.508702
+                  ]
+            },
+            {
+                  "name": "Deer Creek State Park",
+                  "text": "Ein staatlicher Park in der Wasatch Range um den Deer Creek Reservoir mit Erholungsmöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        -111.497968,
+                        40.433668
+                  ]
+            },
+            {
+                  "name": "Homestead Crater",
+                  "text": "Eine natürliche heiße Quelle in einem Vulkankrater im Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.485022,
+                        40.523905
+                  ]
+            },
+            {
+                  "name": "High Valley Arts",
+                  "text": "Ein Veranstaltungsort für darstellende Künste im Heber Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.464874,
+                        40.508629
+                  ]
+            },
+            {
+                  "name": "Legacy Bridge",
+                  "text": "Eine Brücke über den Provo River in der Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.449835,
+                        40.507253
+                  ]
+            },
+            {
+                  "name": "CAF Heber Valley Museum",
+                  "text": "Ein Museum der Commemorative Air Force im Heber Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -111.429111,
+                        40.479377
+                  ]
+            },
+            {
+                  "name": "Wasatch Mountain State Park",
+                  "text": "Ein staatlicher Park in den Wasatch Mountains mit Golf- und Wandermöglichkeiten.",
+                  "category": "natural",
+                  "coords": [
+                        -111.509712,
+                        40.531588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deer Creek Overlook",
+                  "text": "Egy kilátó a Wasatch-hegységben a Deer Creek-víztározóra.",
+                  "category": "natural",
+                  "coords": [
+                        -111.562018,
+                        40.449264
+                  ]
+            },
+            {
+                  "name": "Daughters of Utah Pioneers Museum",
+                  "text": "Egy múzeum a Wasatch-hegységben, amely Utah úttörő történelmének tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -111.413865,
+                        40.505271
+                  ]
+            },
+            {
+                  "name": "Timpanogos Valley Theater",
+                  "text": "Színház a Timpanogos-völgyben, előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.414844,
+                        40.508702
+                  ]
+            },
+            {
+                  "name": "Deer Creek State Park",
+                  "text": "Állami park a Wasatch-hegységben a Deer Creek-víztározó körül, kikapcsolódási lehetőségekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -111.497968,
+                        40.433668
+                  ]
+            },
+            {
+                  "name": "Homestead Crater",
+                  "text": "Természetes meleg forrás egy vulkáni kráterben a Wasatch-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.485022,
+                        40.523905
+                  ]
+            },
+            {
+                  "name": "High Valley Arts",
+                  "text": "Előadó-művészeti helyszín a Heber-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.464874,
+                        40.508629
+                  ]
+            },
+            {
+                  "name": "Legacy Bridge",
+                  "text": "Híd a Provo folyón a Wasatch-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.449835,
+                        40.507253
+                  ]
+            },
+            {
+                  "name": "CAF Heber Valley Museum",
+                  "text": "A Commemorative Air Force múzeuma a Heber-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -111.429111,
+                        40.479377
+                  ]
+            },
+            {
+                  "name": "Wasatch Mountain State Park",
+                  "text": "Állami park a Wasatch-hegységben golf- és túralehetőségekkel.",
+                  "category": "natural",
+                  "coords": [
+                        -111.509712,
+                        40.531588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deer Creek Overlook",
+                  "text": "Un punct de belvedere în Wasatch Range cu vedere la lacul de acumulare Deer Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -111.562018,
+                        40.449264
+                  ]
+            },
+            {
+                  "name": "Daughters of Utah Pioneers Museum",
+                  "text": "Un muzeu în Wasatch Range care prezintă artefacte ale istoriei pionierilor din Utah.",
+                  "category": "museum",
+                  "coords": [
+                        -111.413865,
+                        40.505271
+                  ]
+            },
+            {
+                  "name": "Timpanogos Valley Theater",
+                  "text": "Un teatru în Valea Timpanogos, care găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.414844,
+                        40.508702
+                  ]
+            },
+            {
+                  "name": "Deer Creek State Park",
+                  "text": "Un parc de stat în Wasatch Range în jurul lacului Deer Creek, cu facilități recreative.",
+                  "category": "natural",
+                  "coords": [
+                        -111.497968,
+                        40.433668
+                  ]
+            },
+            {
+                  "name": "Homestead Crater",
+                  "text": "Un izvor termal natural într-un crater vulcanic în Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.485022,
+                        40.523905
+                  ]
+            },
+            {
+                  "name": "High Valley Arts",
+                  "text": "Un loc de artă scenică în Heber Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.464874,
+                        40.508629
+                  ]
+            },
+            {
+                  "name": "Legacy Bridge",
+                  "text": "Un pod peste râul Provo în Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.449835,
+                        40.507253
+                  ]
+            },
+            {
+                  "name": "CAF Heber Valley Museum",
+                  "text": "Un muzeu al Comemorative Air Force în Heber Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -111.429111,
+                        40.479377
+                  ]
+            },
+            {
+                  "name": "Wasatch Mountain State Park",
+                  "text": "Un parc de stat în Munții Wasatch, cu facilități de golf și drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -111.509712,
+                        40.531588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deer Creek Overlook",
+                  "text": "A viewpoint in the Wasatch Range overlooking Deer Creek Reservoir.",
+                  "category": "natural",
+                  "coords": [
+                        -111.562018,
+                        40.449264
+                  ]
+            },
+            {
+                  "name": "Daughters of Utah Pioneers Museum",
+                  "text": "A museum in the Wasatch Range showcasing artifacts of Utah's pioneer heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -111.413865,
+                        40.505271
+                  ]
+            },
+            {
+                  "name": "Timpanogos Valley Theater",
+                  "text": "A theater in the Timpanogos Valley offering performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.414844,
+                        40.508702
+                  ]
+            },
+            {
+                  "name": "Deer Creek State Park",
+                  "text": "A state park in the Wasatch Range surrounding Deer Creek Reservoir, offering recreation.",
+                  "category": "natural",
+                  "coords": [
+                        -111.497968,
+                        40.433668
+                  ]
+            },
+            {
+                  "name": "Homestead Crater",
+                  "text": "A natural hot spring inside a volcanic crater in the Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.485022,
+                        40.523905
+                  ]
+            },
+            {
+                  "name": "High Valley Arts",
+                  "text": "A performing arts venue in Heber Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -111.464874,
+                        40.508629
+                  ]
+            },
+            {
+                  "name": "Legacy Bridge",
+                  "text": "A bridge crossing the Provo River in the Wasatch Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -111.449835,
+                        40.507253
+                  ]
+            },
+            {
+                  "name": "CAF Heber Valley Museum",
+                  "text": "A museum of the Commemorative Air Force in Heber Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -111.429111,
+                        40.479377
+                  ]
+            },
+            {
+                  "name": "Wasatch Mountain State Park",
+                  "text": "A state park in the Wasatch Mountains offering golf and hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -111.509712,
+                        40.531588
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-UT",
     coords: [-111.5, 40.5],
@@ -590,7 +5567,268 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Versants montagneux très escarpés.", "Populaire pour les sports d'hiver.", "Source pour Salt Lake City.", "Géologiquement active.", "Région de randonnée importante.", "Grands dénivelés."],
     }, image: "/poi-images/wasatch-range-relief-v2.webp"},
   {
-    id: "bighorn-mountains-relief-v2",
+    id: "bighorn-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Crooked Creek Hill",
+                  "text": "Ein Hügel im Bighorn-Mountains-Relief-Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -107.46258,
+                        44.50913
+                  ]
+            },
+            {
+                  "name": "Snowshoe Mountain",
+                  "text": "Ein Berg im Bighorn-Mountains-Relief-Gebiet, bekannt für Skifahren.",
+                  "category": "natural",
+                  "coords": [
+                        -107.515638,
+                        44.537184
+                  ]
+            },
+            {
+                  "name": "Bush Butte",
+                  "text": "Ein Gipfel in den Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.609251,
+                        44.478017
+                  ]
+            },
+            {
+                  "name": "Spanish Point",
+                  "text": "Eine Klippe in den Bighorn Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.457023,
+                        44.437462
+                  ]
+            },
+            {
+                  "name": "Scenic Viewpoint",
+                  "text": "Ein Aussichtspunkt in den Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.567,
+                        44.573498
+                  ]
+            },
+            {
+                  "name": "Antelope Butte",
+                  "text": "Ein Gipfel in den Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.494087,
+                        44.585017
+                  ]
+            },
+            {
+                  "name": "Trapper Creek Wilderness Study Area",
+                  "text": "Ein Wildnisstudiengebiet in den Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.615017,
+                        44.487654
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Crooked Creek Hill",
+                  "text": "Egy domb a Bighorn-hegység reliefjének területén.",
+                  "category": "natural",
+                  "coords": [
+                        -107.46258,
+                        44.50913
+                  ]
+            },
+            {
+                  "name": "Snowshoe Mountain",
+                  "text": "Egy hegy a Bighorn-hegység reliefjének területén, síelésről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -107.515638,
+                        44.537184
+                  ]
+            },
+            {
+                  "name": "Bush Butte",
+                  "text": "Egy csúcs a Bighorn-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -107.609251,
+                        44.478017
+                  ]
+            },
+            {
+                  "name": "Spanish Point",
+                  "text": "Egy szikla a Bighorn-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.457023,
+                        44.437462
+                  ]
+            },
+            {
+                  "name": "Scenic Viewpoint",
+                  "text": "Egy kilátó a Bighorn-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -107.567,
+                        44.573498
+                  ]
+            },
+            {
+                  "name": "Antelope Butte",
+                  "text": "Egy csúcs a Bighorn-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -107.494087,
+                        44.585017
+                  ]
+            },
+            {
+                  "name": "Trapper Creek Wilderness Study Area",
+                  "text": "Egy vadon tanulmányi terület a Bighorn-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -107.615017,
+                        44.487654
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Crooked Creek Hill",
+                  "text": "Un deal în aria reliefului Munților Bighorn.",
+                  "category": "natural",
+                  "coords": [
+                        -107.46258,
+                        44.50913
+                  ]
+            },
+            {
+                  "name": "Snowshoe Mountain",
+                  "text": "Un munte în aria reliefului Munților Bighorn, cunoscut pentru schi.",
+                  "category": "natural",
+                  "coords": [
+                        -107.515638,
+                        44.537184
+                  ]
+            },
+            {
+                  "name": "Bush Butte",
+                  "text": "Un vârf în Munții Bighorn.",
+                  "category": "natural",
+                  "coords": [
+                        -107.609251,
+                        44.478017
+                  ]
+            },
+            {
+                  "name": "Spanish Point",
+                  "text": "O stâncă în Munții Bighorn.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.457023,
+                        44.437462
+                  ]
+            },
+            {
+                  "name": "Scenic Viewpoint",
+                  "text": "Un punct de belvedere în Munții Bighorn.",
+                  "category": "natural",
+                  "coords": [
+                        -107.567,
+                        44.573498
+                  ]
+            },
+            {
+                  "name": "Antelope Butte",
+                  "text": "Un vârf în Munții Bighorn.",
+                  "category": "natural",
+                  "coords": [
+                        -107.494087,
+                        44.585017
+                  ]
+            },
+            {
+                  "name": "Trapper Creek Wilderness Study Area",
+                  "text": "O zonă de studiu a sălbăticiei în Munții Bighorn.",
+                  "category": "natural",
+                  "coords": [
+                        -107.615017,
+                        44.487654
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Crooked Creek Hill",
+                  "text": "A hill in the Bighorn Mountains relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -107.46258,
+                        44.50913
+                  ]
+            },
+            {
+                  "name": "Snowshoe Mountain",
+                  "text": "A mountain in the Bighorn Mountains relief area, known for skiing.",
+                  "category": "natural",
+                  "coords": [
+                        -107.515638,
+                        44.537184
+                  ]
+            },
+            {
+                  "name": "Bush Butte",
+                  "text": "A peak in the Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.609251,
+                        44.478017
+                  ]
+            },
+            {
+                  "name": "Spanish Point",
+                  "text": "A cliff in the Bighorn Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -107.457023,
+                        44.437462
+                  ]
+            },
+            {
+                  "name": "Scenic Viewpoint",
+                  "text": "A scenic viewpoint in the Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.567,
+                        44.573498
+                  ]
+            },
+            {
+                  "name": "Antelope Butte",
+                  "text": "A peak in the Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.494087,
+                        44.585017
+                  ]
+            },
+            {
+                  "name": "Trapper Creek Wilderness Study Area",
+                  "text": "A wilderness study area in the Bighorn Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -107.615017,
+                        44.487654
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-WY",
     coords: [-107.5, 44.5],
@@ -625,7 +5863,88 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Fait partie des montagnes Rocheuses.", "Forêts de pins denses.", "Gorges spectaculaires.", "Faible densité de population.", "Grandes populations de gibier.", "Idéal pour l'observation de la nature."],
     }, image: "/poi-images/bighorn-mountains-relief-v2.webp"},
   {
-    id: "olympic-mountains-relief-v2",
+    id: "olympic-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Norton",
+                  "text": "Ein Gipfel in den Olympic Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -123.412955,
+                        47.762034
+                  ]
+            },
+            {
+                  "name": "Mount Claywood",
+                  "text": "Ein Gipfel in den Olympic Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -123.369899,
+                        47.800645
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Norton",
+                  "text": "Egy csúcs az Olympic-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -123.412955,
+                        47.762034
+                  ]
+            },
+            {
+                  "name": "Mount Claywood",
+                  "text": "Egy csúcs az Olympic-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -123.369899,
+                        47.800645
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Norton",
+                  "text": "Un vârf în Munții Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.412955,
+                        47.762034
+                  ]
+            },
+            {
+                  "name": "Mount Claywood",
+                  "text": "Un vârf în Munții Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.369899,
+                        47.800645
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Norton",
+                  "text": "A peak in the Olympic Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -123.412955,
+                        47.762034
+                  ]
+            },
+            {
+                  "name": "Mount Claywood",
+                  "text": "A peak in the Olympic Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -123.369899,
+                        47.800645
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-WA",
     coords: [-123.5, 47.8],
@@ -660,7 +5979,232 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Climat très humide.", "Seules forêts tempérées des États-Unis.", "Forte activité glaciaire.", "Sommets escarpés.", "Vues spectaculaires.", "Écosystème unique."],
     }, image: "/poi-images/olympic-mountains-relief-v2.webp"},
   {
-    id: "uinta-mountains-relief-v2",
+    id: "uinta-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lucky Spring",
+                  "text": "Lucky Spring ist eine Quelle in den Uinta-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.066675,
+                        40.670387
+                  ]
+            },
+            {
+                  "name": "Bennion Spring",
+                  "text": "Bennion Spring ist eine Quelle in den Uinta-Bergen.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.077069,
+                        40.666872
+                  ]
+            },
+            {
+                  "name": "Mesa",
+                  "text": "Mesa ist ein Gipfel in den Uinta-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -109.955708,
+                        40.691064
+                  ]
+            },
+            {
+                  "name": "Paradise Peak",
+                  "text": "Paradise Peak ist ein Gipfel in den Uinta-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -109.95543,
+                        40.669953
+                  ]
+            },
+            {
+                  "name": "Pole Mountain",
+                  "text": "Pole Mountain ist ein Gipfel in den Uinta-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -110.03821,
+                        40.631619
+                  ]
+            },
+            {
+                  "name": "Goose Egg Peak",
+                  "text": "Goose Egg Peak ist ein Gipfel in den Uinta-Bergen.",
+                  "category": "natural",
+                  "coords": [
+                        -110.104044,
+                        40.668005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lucky Spring",
+                  "text": "A Lucky Spring egy forrás az Uinta-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.066675,
+                        40.670387
+                  ]
+            },
+            {
+                  "name": "Bennion Spring",
+                  "text": "A Bennion Spring egy forrás az Uinta-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.077069,
+                        40.666872
+                  ]
+            },
+            {
+                  "name": "Mesa",
+                  "text": "A Mesa egy csúcs az Uinta-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -109.955708,
+                        40.691064
+                  ]
+            },
+            {
+                  "name": "Paradise Peak",
+                  "text": "A Paradise Peak egy csúcs az Uinta-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -109.95543,
+                        40.669953
+                  ]
+            },
+            {
+                  "name": "Pole Mountain",
+                  "text": "A Pole Mountain egy csúcs az Uinta-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.03821,
+                        40.631619
+                  ]
+            },
+            {
+                  "name": "Goose Egg Peak",
+                  "text": "A Goose Egg Peak egy csúcs az Uinta-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.104044,
+                        40.668005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lucky Spring",
+                  "text": "Lucky Spring este un izvor în Munții Uinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.066675,
+                        40.670387
+                  ]
+            },
+            {
+                  "name": "Bennion Spring",
+                  "text": "Bennion Spring este un izvor în Munții Uinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.077069,
+                        40.666872
+                  ]
+            },
+            {
+                  "name": "Mesa",
+                  "text": "Mesa este un vârf în Munții Uinta.",
+                  "category": "natural",
+                  "coords": [
+                        -109.955708,
+                        40.691064
+                  ]
+            },
+            {
+                  "name": "Paradise Peak",
+                  "text": "Paradise Peak este un vârf în Munții Uinta.",
+                  "category": "natural",
+                  "coords": [
+                        -109.95543,
+                        40.669953
+                  ]
+            },
+            {
+                  "name": "Pole Mountain",
+                  "text": "Pole Mountain este un vârf în Munții Uinta.",
+                  "category": "natural",
+                  "coords": [
+                        -110.03821,
+                        40.631619
+                  ]
+            },
+            {
+                  "name": "Goose Egg Peak",
+                  "text": "Goose Egg Peak este un vârf în Munții Uinta.",
+                  "category": "natural",
+                  "coords": [
+                        -110.104044,
+                        40.668005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lucky Spring",
+                  "text": "Lucky Spring is a spring in the Uinta Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.066675,
+                        40.670387
+                  ]
+            },
+            {
+                  "name": "Bennion Spring",
+                  "text": "Bennion Spring is a spring in the Uinta Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.077069,
+                        40.666872
+                  ]
+            },
+            {
+                  "name": "Mesa",
+                  "text": "Mesa is a peak in the Uinta Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -109.955708,
+                        40.691064
+                  ]
+            },
+            {
+                  "name": "Paradise Peak",
+                  "text": "Paradise Peak is a peak in the Uinta Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -109.95543,
+                        40.669953
+                  ]
+            },
+            {
+                  "name": "Pole Mountain",
+                  "text": "Pole Mountain is a peak in the Uinta Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -110.03821,
+                        40.631619
+                  ]
+            },
+            {
+                  "name": "Goose Egg Peak",
+                  "text": "Goose Egg Peak is a peak in the Uinta Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -110.104044,
+                        40.668005
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-UT",
     coords: [-110.0, 40.7],
@@ -695,7 +6239,1096 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Partie la plus élevée des Montagnes Rocheuses dans l'Utah.", "Nombreux lacs de haute montagne.", "Vastes zones de nature sauvage.", "Paysages alpins spectaculaires.", "Source d'eau importante.", "Grandes altitudes."],
     }, image: "/poi-images/uinta-mountains-relief-v2.webp"},
   {
-    id: "tetons-relief-v2",
+    id: "tetons-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bradley Lake",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Bradley Lake in tetons-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -110.751723,
+                        43.712329
+                  ]
+            },
+            {
+                  "name": "Middle Teton",
+                  "text": "Der Middle Teton ist der dritthöchste Gipfel der Teton Range und Teil der Cathedral Group.",
+                  "category": "natural",
+                  "coords": [
+                        -110.811325,
+                        43.72993
+                  ]
+            },
+            {
+                  "name": "Teewinot Mountain",
+                  "text": "Teewinot Mountain ist ein markanter Gipfel im Teton-Gebirge, oft vom Jenny Lake aus sichtbar.",
+                  "category": "natural",
+                  "coords": [
+                        -110.780017,
+                        43.746686
+                  ]
+            },
+            {
+                  "name": "East Prong",
+                  "text": "East Prong ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79188,
+                        43.746042
+                  ]
+            },
+            {
+                  "name": "Mount Owen",
+                  "text": "Mount Owen ist der zweithöchste Gipfel der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797425,
+                        43.746883
+                  ]
+            },
+            {
+                  "name": "Grand Teton",
+                  "text": "Der Grand Teton ist mit 4199 Metern der höchste Gipfel der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.802436,
+                        43.741042
+                  ]
+            },
+            {
+                  "name": "Disappointment Peak",
+                  "text": "Disappointment Peak ist ein Nebengipfel des Grand Teton, benannt nach der Enttäuschung früherer Kletterer.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79242,
+                        43.733277
+                  ]
+            },
+            {
+                  "name": "Petzoldt's Caves",
+                  "text": "Petzoldt's Caves sind eine Reihe von Felsschutzdächern im Teton-Gebirge.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.794047,
+                        43.728473
+                  ]
+            },
+            {
+                  "name": "Teepe Pillar",
+                  "text": "Teepe Pillar ist ein säulenartiger Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.800987,
+                        43.735984
+                  ]
+            },
+            {
+                  "name": "Phelps Lake Overlook",
+                  "text": "Der Phelps Lake Overlook bietet Ausblicke auf den Phelps Lake im Teton-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        -110.799158,
+                        43.657131
+                  ]
+            },
+            {
+                  "name": "Albright Peak",
+                  "text": "Albright Peak ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.813945,
+                        43.670723
+                  ]
+            },
+            {
+                  "name": "Static Peak",
+                  "text": "Static Peak ist ein prominenter Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.816272,
+                        43.682741
+                  ]
+            },
+            {
+                  "name": "Buck Mountain",
+                  "text": "Buck Mountain ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818519,
+                        43.689134
+                  ]
+            },
+            {
+                  "name": "Mount Wister",
+                  "text": "Mount Wister ist ein nach einer bekannten Familie benannter Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.817245,
+                        43.701962
+                  ]
+            },
+            {
+                  "name": "South Teton",
+                  "text": "Der South Teton ist der vierthöchste Gipfel der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818922,
+                        43.718516
+                  ]
+            },
+            {
+                  "name": "Cloudveil Dome",
+                  "text": "Cloudveil Dome ist ein markanter kuppelförmiger Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.806564,
+                        43.71877
+                  ]
+            },
+            {
+                  "name": "Nez Perce",
+                  "text": "Nez Perce ist ein nach dem Indianerstamm benannter Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797436,
+                        43.719375
+                  ]
+            },
+            {
+                  "name": "Shadow Peak",
+                  "text": "Shadow Peak ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793269,
+                        43.714931
+                  ]
+            },
+            {
+                  "name": "Windy Point Turnout",
+                  "text": "Windy Point Turnout ist ein Aussichtspunkt entlang der Teton Park Road.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724476,
+                        43.677233
+                  ]
+            },
+            {
+                  "name": "Blacktail Ponds Overlook",
+                  "text": "Blacktail Ponds Overlook bietet Ausblicke auf Feuchtgebiete und die Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.696979,
+                        43.667086
+                  ]
+            },
+            {
+                  "name": "Rock Face",
+                  "text": "Rock Face ist eine markante Klippe in der Teton Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.696875,
+                        43.6616
+                  ]
+            },
+            {
+                  "name": "Menors Ferry Historic District",
+                  "text": "Menors Ferry Historic District ist eine historische Fährstelle am Snake River im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.713286,
+                        43.658813
+                  ]
+            },
+            {
+                  "name": "Blacktail Butte",
+                  "text": "Blacktail Butte ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.692705,
+                        43.635505
+                  ]
+            },
+            {
+                  "name": "Shadow Mountain",
+                  "text": "Shadow Mountain ist ein Gipfel in der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.584929,
+                        43.711326
+                  ]
+            },
+            {
+                  "name": "Mormon Row Viewpoint",
+                  "text": "Der Mormon Row Viewpoint bietet Ausblicke auf historische Scheunen und die Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.664526,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Glacier Overlook",
+                  "text": "Glacier Overlook bietet Ausblicke auf die Gletscher der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.673413,
+                        43.691094
+                  ]
+            },
+            {
+                  "name": "Teton Point Overlook",
+                  "text": "Teton Point Overlook ist ein beliebter Aussichtspunkt zum Fotografieren der Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.66031,
+                        43.717911
+                  ]
+            },
+            {
+                  "name": "Phelps Beach",
+                  "text": "Phelps Beach ist ein Seeuferstrand am Phelps Lake im Teton-Gebirge.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.801343,
+                        43.652956
+                  ]
+            },
+            {
+                  "name": "Chapel of the Transfiguration",
+                  "text": "Die Chapel of the Transfiguration ist eine historische Blockkapelle mit einem Fenster, das den Grand Teton einrahmt.",
+                  "category": "religious",
+                  "coords": [
+                        -110.715374,
+                        43.660144
+                  ]
+            },
+            {
+                  "name": "T. A. Moulton Barn",
+                  "text": "Die T. A. Moulton Barn ist eine bekannte historische Scheune im Grand-Teton-Nationalpark, die oft fotografiert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.664999,
+                        43.660687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bradley Lake",
+                  "text": "Egy kilátóhely, amely a Bradley-tóra néz, tetons-relief-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.751723,
+                        43.712329
+                  ]
+            },
+            {
+                  "name": "Middle Teton",
+                  "text": "A Middle Teton a Teton-hegység harmadik legmagasabb csúcsa, a Cathedral Group része.",
+                  "category": "natural",
+                  "coords": [
+                        -110.811325,
+                        43.72993
+                  ]
+            },
+            {
+                  "name": "Teewinot Mountain",
+                  "text": "A Teewinot Mountain a Teton-hegység egyik feltűnő csúcsa, gyakran látható a Jenny Lake felől.",
+                  "category": "natural",
+                  "coords": [
+                        -110.780017,
+                        43.746686
+                  ]
+            },
+            {
+                  "name": "East Prong",
+                  "text": "Az East Prong egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79188,
+                        43.746042
+                  ]
+            },
+            {
+                  "name": "Mount Owen",
+                  "text": "A Mount Owen a Teton-hegység második legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797425,
+                        43.746883
+                  ]
+            },
+            {
+                  "name": "Grand Teton",
+                  "text": "A Grand Teton 4199 méterével a Teton-hegység legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -110.802436,
+                        43.741042
+                  ]
+            },
+            {
+                  "name": "Disappointment Peak",
+                  "text": "A Disappointment Peak a Grand Teton mellékcsúcsa, amelyet a korai mászók csalódásáról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79242,
+                        43.733277
+                  ]
+            },
+            {
+                  "name": "Petzoldt's Caves",
+                  "text": "A Petzoldt's Caves sziklaereszek sorozata a Teton-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.794047,
+                        43.728473
+                  ]
+            },
+            {
+                  "name": "Teepe Pillar",
+                  "text": "A Teepe Pillar egy oszlopszerű csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.800987,
+                        43.735984
+                  ]
+            },
+            {
+                  "name": "Phelps Lake Overlook",
+                  "text": "A Phelps Lake Overlook kilátást nyújt a Phelps Lake-re a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.799158,
+                        43.657131
+                  ]
+            },
+            {
+                  "name": "Albright Peak",
+                  "text": "Az Albright Peak egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.813945,
+                        43.670723
+                  ]
+            },
+            {
+                  "name": "Static Peak",
+                  "text": "A Static Peak a Teton-hegység egyik kiemelkedő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -110.816272,
+                        43.682741
+                  ]
+            },
+            {
+                  "name": "Buck Mountain",
+                  "text": "A Buck Mountain egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818519,
+                        43.689134
+                  ]
+            },
+            {
+                  "name": "Mount Wister",
+                  "text": "A Mount Wister egy csúcs a Teton-hegységben, egy neves családról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -110.817245,
+                        43.701962
+                  ]
+            },
+            {
+                  "name": "South Teton",
+                  "text": "A South Teton a Teton-hegység negyedik legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818922,
+                        43.718516
+                  ]
+            },
+            {
+                  "name": "Cloudveil Dome",
+                  "text": "A Cloudveil Dome egy jellegzetes kupola alakú csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.806564,
+                        43.71877
+                  ]
+            },
+            {
+                  "name": "Nez Perce",
+                  "text": "A Nez Perce egy csúcs a Teton-hegységben, egy indián törzsről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797436,
+                        43.719375
+                  ]
+            },
+            {
+                  "name": "Shadow Peak",
+                  "text": "A Shadow Peak egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793269,
+                        43.714931
+                  ]
+            },
+            {
+                  "name": "Windy Point Turnout",
+                  "text": "A Windy Point Turnout egy kilátó a Teton Park Road mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724476,
+                        43.677233
+                  ]
+            },
+            {
+                  "name": "Blacktail Ponds Overlook",
+                  "text": "A Blacktail Ponds Overlook kilátást nyújt vizes élőhelyekre és a Teton-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -110.696979,
+                        43.667086
+                  ]
+            },
+            {
+                  "name": "Rock Face",
+                  "text": "A Rock Face egy jellegzetes sziklafal a Teton-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.696875,
+                        43.6616
+                  ]
+            },
+            {
+                  "name": "Menors Ferry Historic District",
+                  "text": "A Menors Ferry Historic District egy történelmi kompátkelő a Snake Riveren a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.713286,
+                        43.658813
+                  ]
+            },
+            {
+                  "name": "Blacktail Butte",
+                  "text": "A Blacktail Butte egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.692705,
+                        43.635505
+                  ]
+            },
+            {
+                  "name": "Shadow Mountain",
+                  "text": "A Shadow Mountain egy csúcs a Teton-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -110.584929,
+                        43.711326
+                  ]
+            },
+            {
+                  "name": "Mormon Row Viewpoint",
+                  "text": "A Mormon Row Viewpoint kilátást nyújt történelmi istállókra és a Teton-hegységre.",
+                  "category": "natural",
+                  "coords": [
+                        -110.664526,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Glacier Overlook",
+                  "text": "A Glacier Overlook kilátást nyújt a Teton-hegység gleccsereire.",
+                  "category": "natural",
+                  "coords": [
+                        -110.673413,
+                        43.691094
+                  ]
+            },
+            {
+                  "name": "Teton Point Overlook",
+                  "text": "A Teton Point Overlook népszerű kilátó a Teton-hegység fényképezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -110.66031,
+                        43.717911
+                  ]
+            },
+            {
+                  "name": "Phelps Beach",
+                  "text": "A Phelps Beach egy tóparti strand a Phelps Lake-nél a Teton-hegységben.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.801343,
+                        43.652956
+                  ]
+            },
+            {
+                  "name": "Chapel of the Transfiguration",
+                  "text": "A Chapel of the Transfiguration egy történelmi fakápolna, amelynek ablaka keretezi a Grand Tetont.",
+                  "category": "religious",
+                  "coords": [
+                        -110.715374,
+                        43.660144
+                  ]
+            },
+            {
+                  "name": "T. A. Moulton Barn",
+                  "text": "A T. A. Moulton Barn egy jól ismert történelmi istálló a Grand Teton Nemzeti Parkban, gyakran fényképezik.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.664999,
+                        43.660687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bradley Lake",
+                  "text": "Un punct de belvedere care oferă vedere spre Lacul Bradley în tetons-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -110.751723,
+                        43.712329
+                  ]
+            },
+            {
+                  "name": "Middle Teton",
+                  "text": "Middle Teton este al treilea cel mai înalt vârf din Lanțul Teton, parte a Grupului Catedrală.",
+                  "category": "natural",
+                  "coords": [
+                        -110.811325,
+                        43.72993
+                  ]
+            },
+            {
+                  "name": "Teewinot Mountain",
+                  "text": "Teewinot Mountain este un vârf proeminent din Lanțul Teton, adesea văzut de la Jenny Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -110.780017,
+                        43.746686
+                  ]
+            },
+            {
+                  "name": "East Prong",
+                  "text": "East Prong este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79188,
+                        43.746042
+                  ]
+            },
+            {
+                  "name": "Mount Owen",
+                  "text": "Mount Owen este al doilea cel mai înalt vârf din Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797425,
+                        43.746883
+                  ]
+            },
+            {
+                  "name": "Grand Teton",
+                  "text": "Grand Teton este cel mai înalt vârf din Lanțul Teton, cu 4199 de metri.",
+                  "category": "natural",
+                  "coords": [
+                        -110.802436,
+                        43.741042
+                  ]
+            },
+            {
+                  "name": "Disappointment Peak",
+                  "text": "Disappointment Peak este un vârf secundar al Grand Teton, numit după dezamăgirea primilor alpiniști.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79242,
+                        43.733277
+                  ]
+            },
+            {
+                  "name": "Petzoldt's Caves",
+                  "text": "Petzoldt's Caves sunt o serie de adăposturi stâncoase în Lanțul Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.794047,
+                        43.728473
+                  ]
+            },
+            {
+                  "name": "Teepe Pillar",
+                  "text": "Teepe Pillar este un vârf în formă de stâlp în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.800987,
+                        43.735984
+                  ]
+            },
+            {
+                  "name": "Phelps Lake Overlook",
+                  "text": "Phelps Lake Overlook oferă vederi asupra lacului Phelps din Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.799158,
+                        43.657131
+                  ]
+            },
+            {
+                  "name": "Albright Peak",
+                  "text": "Albright Peak este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.813945,
+                        43.670723
+                  ]
+            },
+            {
+                  "name": "Static Peak",
+                  "text": "Static Peak este un vârf proeminent în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.816272,
+                        43.682741
+                  ]
+            },
+            {
+                  "name": "Buck Mountain",
+                  "text": "Buck Mountain este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818519,
+                        43.689134
+                  ]
+            },
+            {
+                  "name": "Mount Wister",
+                  "text": "Mount Wister este un vârf în Lanțul Teton, numit după o familie proeminentă.",
+                  "category": "natural",
+                  "coords": [
+                        -110.817245,
+                        43.701962
+                  ]
+            },
+            {
+                  "name": "South Teton",
+                  "text": "South Teton este al patrulea cel mai înalt vârf din Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818922,
+                        43.718516
+                  ]
+            },
+            {
+                  "name": "Cloudveil Dome",
+                  "text": "Cloudveil Dome este un vârf distinctiv în formă de dom în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.806564,
+                        43.71877
+                  ]
+            },
+            {
+                  "name": "Nez Perce",
+                  "text": "Nez Perce este un vârf în Lanțul Teton, numit după tribul nativ american.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797436,
+                        43.719375
+                  ]
+            },
+            {
+                  "name": "Shadow Peak",
+                  "text": "Shadow Peak este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793269,
+                        43.714931
+                  ]
+            },
+            {
+                  "name": "Windy Point Turnout",
+                  "text": "Windy Point Turnout este un punct de belvedere de-a lungul drumului Teton Park Road.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724476,
+                        43.677233
+                  ]
+            },
+            {
+                  "name": "Blacktail Ponds Overlook",
+                  "text": "Blacktail Ponds Overlook oferă vederi asupra zonelor umede și a Lanțului Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.696979,
+                        43.667086
+                  ]
+            },
+            {
+                  "name": "Rock Face",
+                  "text": "Rock Face este o stâncă proeminentă în Lanțul Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.696875,
+                        43.6616
+                  ]
+            },
+            {
+                  "name": "Menors Ferry Historic District",
+                  "text": "Menors Ferry Historic District este un sit istoric de ferry pe râul Snake, în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.713286,
+                        43.658813
+                  ]
+            },
+            {
+                  "name": "Blacktail Butte",
+                  "text": "Blacktail Butte este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.692705,
+                        43.635505
+                  ]
+            },
+            {
+                  "name": "Shadow Mountain",
+                  "text": "Shadow Mountain este un vârf în Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.584929,
+                        43.711326
+                  ]
+            },
+            {
+                  "name": "Mormon Row Viewpoint",
+                  "text": "Mormon Row Viewpoint oferă vederi asupra hambarelor istorice și a Lanțului Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.664526,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Glacier Overlook",
+                  "text": "Glacier Overlook oferă vederi asupra ghețarilor din Lanțul Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.673413,
+                        43.691094
+                  ]
+            },
+            {
+                  "name": "Teton Point Overlook",
+                  "text": "Teton Point Overlook este un punct de belvedere popular pentru fotografierea Lanțului Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.66031,
+                        43.717911
+                  ]
+            },
+            {
+                  "name": "Phelps Beach",
+                  "text": "Phelps Beach este o plajă pe malul lacului Phelps din Lanțul Teton.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.801343,
+                        43.652956
+                  ]
+            },
+            {
+                  "name": "Chapel of the Transfiguration",
+                  "text": "Chapel of the Transfiguration este o capelă istorică din bușteni, cu o fereastră care încadrează Grand Teton.",
+                  "category": "religious",
+                  "coords": [
+                        -110.715374,
+                        43.660144
+                  ]
+            },
+            {
+                  "name": "T. A. Moulton Barn",
+                  "text": "T. A. Moulton Barn este un hambar istoric binecunoscut în Parcul Național Grand Teton, adesea fotografiat.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.664999,
+                        43.660687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bradley Lake",
+                  "text": "A viewpoint overlooking Bradley Lake in tetons-relief-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -110.751723,
+                        43.712329
+                  ]
+            },
+            {
+                  "name": "Middle Teton",
+                  "text": "Middle Teton is the third highest peak in the Teton Range, part of the Cathedral Group.",
+                  "category": "natural",
+                  "coords": [
+                        -110.811325,
+                        43.72993
+                  ]
+            },
+            {
+                  "name": "Teewinot Mountain",
+                  "text": "Teewinot Mountain is a prominent peak in the Teton Range, often seen from Jenny Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -110.780017,
+                        43.746686
+                  ]
+            },
+            {
+                  "name": "East Prong",
+                  "text": "East Prong is a peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79188,
+                        43.746042
+                  ]
+            },
+            {
+                  "name": "Mount Owen",
+                  "text": "Mount Owen is the second highest peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797425,
+                        43.746883
+                  ]
+            },
+            {
+                  "name": "Grand Teton",
+                  "text": "Grand Teton is the highest peak in the Teton Range at 13,775 feet.",
+                  "category": "natural",
+                  "coords": [
+                        -110.802436,
+                        43.741042
+                  ]
+            },
+            {
+                  "name": "Disappointment Peak",
+                  "text": "Disappointment Peak is a subpeak of Grand Teton, named for early climbers’ disappointment.",
+                  "category": "natural",
+                  "coords": [
+                        -110.79242,
+                        43.733277
+                  ]
+            },
+            {
+                  "name": "Petzoldt's Caves",
+                  "text": "Petzoldt's Caves are a series of rock shelters in the Teton Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.794047,
+                        43.728473
+                  ]
+            },
+            {
+                  "name": "Teepe Pillar",
+                  "text": "Teepe Pillar is a pillar-like peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.800987,
+                        43.735984
+                  ]
+            },
+            {
+                  "name": "Phelps Lake Overlook",
+                  "text": "Phelps Lake Overlook offers views of Phelps Lake in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.799158,
+                        43.657131
+                  ]
+            },
+            {
+                  "name": "Albright Peak",
+                  "text": "Albright Peak is a summit in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.813945,
+                        43.670723
+                  ]
+            },
+            {
+                  "name": "Static Peak",
+                  "text": "Static Peak is a prominent peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.816272,
+                        43.682741
+                  ]
+            },
+            {
+                  "name": "Buck Mountain",
+                  "text": "Buck Mountain is a peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818519,
+                        43.689134
+                  ]
+            },
+            {
+                  "name": "Mount Wister",
+                  "text": "Mount Wister is a peak in the Teton Range, named after a prominent family.",
+                  "category": "natural",
+                  "coords": [
+                        -110.817245,
+                        43.701962
+                  ]
+            },
+            {
+                  "name": "South Teton",
+                  "text": "South Teton is the fourth highest peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.818922,
+                        43.718516
+                  ]
+            },
+            {
+                  "name": "Cloudveil Dome",
+                  "text": "Cloudveil Dome is a distinctive dome-shaped peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.806564,
+                        43.71877
+                  ]
+            },
+            {
+                  "name": "Nez Perce",
+                  "text": "Nez Perce is a peak in the Teton Range, named after the Native American tribe.",
+                  "category": "natural",
+                  "coords": [
+                        -110.797436,
+                        43.719375
+                  ]
+            },
+            {
+                  "name": "Shadow Peak",
+                  "text": "Shadow Peak is a summit in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793269,
+                        43.714931
+                  ]
+            },
+            {
+                  "name": "Windy Point Turnout",
+                  "text": "Windy Point Turnout is a scenic overlook along the Teton Park Road.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724476,
+                        43.677233
+                  ]
+            },
+            {
+                  "name": "Blacktail Ponds Overlook",
+                  "text": "Blacktail Ponds Overlook provides views of wetlands and the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.696979,
+                        43.667086
+                  ]
+            },
+            {
+                  "name": "Rock Face",
+                  "text": "Rock Face is a prominent cliff in the Teton Range.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.696875,
+                        43.6616
+                  ]
+            },
+            {
+                  "name": "Menors Ferry Historic District",
+                  "text": "Menors Ferry Historic District is a historic ferry site on the Snake River in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.713286,
+                        43.658813
+                  ]
+            },
+            {
+                  "name": "Blacktail Butte",
+                  "text": "Blacktail Butte is a summit in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.692705,
+                        43.635505
+                  ]
+            },
+            {
+                  "name": "Shadow Mountain",
+                  "text": "Shadow Mountain is a peak in the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.584929,
+                        43.711326
+                  ]
+            },
+            {
+                  "name": "Mormon Row Viewpoint",
+                  "text": "Mormon Row Viewpoint offers views of historic barns and the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.664526,
+                        43.67246
+                  ]
+            },
+            {
+                  "name": "Glacier Overlook",
+                  "text": "Glacier Overlook provides views of Teton glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        -110.673413,
+                        43.691094
+                  ]
+            },
+            {
+                  "name": "Teton Point Overlook",
+                  "text": "Teton Point Overlook is a popular viewpoint for photographing the Teton Range.",
+                  "category": "natural",
+                  "coords": [
+                        -110.66031,
+                        43.717911
+                  ]
+            },
+            {
+                  "name": "Phelps Beach",
+                  "text": "Phelps Beach is a lakeside beach on Phelps Lake in the Teton Range.",
+                  "category": "recreational",
+                  "coords": [
+                        -110.801343,
+                        43.652956
+                  ]
+            },
+            {
+                  "name": "Chapel of the Transfiguration",
+                  "text": "Chapel of the Transfiguration is a historic log chapel with a window framing the Grand Teton.",
+                  "category": "religious",
+                  "coords": [
+                        -110.715374,
+                        43.660144
+                  ]
+            },
+            {
+                  "name": "T. A. Moulton Barn",
+                  "text": "T. A. Moulton Barn is a well-known historic barn in Grand Teton National Park, often photographed.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.664999,
+                        43.660687
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-WY",
     coords: [-110.7, 43.7],
@@ -730,7 +7363,88 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Fait partie du parc national de Grand Teton.", "Structure géologique jeune et très escarpée.", "Sommets alpins spectaculaires.", "Célèbre pour les randonnées.", "Glaciers en altitude.", "Destination touristique majeure."],
     }, image: "/poi-images/tetons-relief-v2.webp"},
   {
-    id: "sawtooth-mountains-relief-v2",
+    id: "sawtooth-mountains-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Horton Peak",
+                  "text": "Der Horton Peak ist ein Gipfel in den Sawtooth Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -114.748402,
+                        43.965741
+                  ]
+            },
+            {
+                  "name": "Sawtooth National Recreation Area",
+                  "text": "Das Sawtooth National Recreation Area ist ein Schutzgebiet in den Sawtooth Mountains, Teil des Sawtooth National Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -114.813394,
+                        44.04469
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Horton Peak",
+                  "text": "A Horton Peak egy csúcs a Sawtooth-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -114.748402,
+                        43.965741
+                  ]
+            },
+            {
+                  "name": "Sawtooth National Recreation Area",
+                  "text": "A Sawtooth National Recreation Area egy védett terület a Sawtooth-hegységben, a Sawtooth National Forest része.",
+                  "category": "natural",
+                  "coords": [
+                        -114.813394,
+                        44.04469
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Horton Peak",
+                  "text": "Horton Peak este un vârf în Munții Sawtooth.",
+                  "category": "natural",
+                  "coords": [
+                        -114.748402,
+                        43.965741
+                  ]
+            },
+            {
+                  "name": "Sawtooth National Recreation Area",
+                  "text": "Sawtooth National Recreation Area este o arie protejată în Munții Sawtooth, parte a Pădurii Naționale Sawtooth.",
+                  "category": "natural",
+                  "coords": [
+                        -114.813394,
+                        44.04469
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Horton Peak",
+                  "text": "Horton Peak is a peak in the Sawtooth Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -114.748402,
+                        43.965741
+                  ]
+            },
+            {
+                  "name": "Sawtooth National Recreation Area",
+                  "text": "Sawtooth National Recreation Area is a protected area in the Sawtooth Mountains, part of the Sawtooth National Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -114.813394,
+                        44.04469
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-ID",
     coords: [-114.8, 44.0],
@@ -765,7 +7479,808 @@ factsAdvanced: { de: ["Zentrales wirtschaftliches Zentrum der Region.", "Wichtig
       fr: ["Sommets dentelés caractéristiques.", "Nombreux lacs de montagne.", "Nature sauvage et préservée.", "Populaire pour la randonnée en sac à dos.", "Géologiquement très active par le passé.", "Vaste zone sauvage."],
     }, image: "/poi-images/sawtooth-mountains-relief-v2.webp"},
   {
-    id: "cascades-volcanic-north-relief-v2",
+    id: "cascades-volcanic-north-relief-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sauk Mountain",
+                  "text": "Der Sauk Mountain in der North Cascades Region ist ein beliebter Wanderberg mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -121.600797,
+                        48.522955
+                  ]
+            },
+            {
+                  "name": "Helen Buttes",
+                  "text": "Die Helen Buttes in der North Cascades Region sind eine Berggruppe mit mehreren Gipfeln.",
+                  "category": "natural",
+                  "coords": [
+                        -121.502632,
+                        48.567897
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Der Bald Mountain in der North Cascades Region ist ein bewaldeter Gipfel mit Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.585412,
+                        48.530395
+                  ]
+            },
+            {
+                  "name": "Cascade River South 1",
+                  "text": "Cascade River South 1 ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.409175,
+                        48.526821
+                  ]
+            },
+            {
+                  "name": "Cascade River - Trezise Conservation Area",
+                  "text": "Cascade River - Trezise Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.404293,
+                        48.529732
+                  ]
+            },
+            {
+                  "name": "Cascade River - Keller/Karlberg Conservation Easement",
+                  "text": "Cascade River - Keller/Karlberg Conservation Easement ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.398895,
+                        48.529038
+                  ]
+            },
+            {
+                  "name": "Diobsud Creek Abel Conservation Area",
+                  "text": "Diobsud Creek Abel Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.419926,
+                        48.561457
+                  ]
+            },
+            {
+                  "name": "Marblemount Conservation Area",
+                  "text": "Marblemount Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.478351,
+                        48.50544
+                  ]
+            },
+            {
+                  "name": "Cascadian Farm",
+                  "text": "Cascadian Farm ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530216,
+                        48.503353
+                  ]
+            },
+            {
+                  "name": "Skagit River Kahn Conservation Area",
+                  "text": "Skagit River Kahn Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530587,
+                        48.497551
+                  ]
+            },
+            {
+                  "name": "Illabot Creek Conservation Area",
+                  "text": "Illabot Creek Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.518483,
+                        48.493602
+                  ]
+            },
+            {
+                  "name": "Jackman Creek Wildlife Area",
+                  "text": "Jackman Creek Wildlife Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.535681,
+                        48.538367
+                  ]
+            },
+            {
+                  "name": "Upper Skagit 1 Conservation area",
+                  "text": "Upper Skagit 1 Conservation area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.424644,
+                        48.536597
+                  ]
+            },
+            {
+                  "name": "Upper Skagit - Malliet Conservation Easement",
+                  "text": "Upper Skagit - Malliet Conservation Easement ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.42502,
+                        48.534802
+                  ]
+            },
+            {
+                  "name": "Douglas Island Convservation Area",
+                  "text": "Douglas Island Convservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.433939,
+                        48.522711
+                  ]
+            },
+            {
+                  "name": "Cascade River South 2",
+                  "text": "Cascade River South 2 ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.386192,
+                        48.521246
+                  ]
+            },
+            {
+                  "name": "O'Brien-Riggs State Park",
+                  "text": "O'Brien-Riggs State Park ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458266,
+                        48.516441
+                  ]
+            },
+            {
+                  "name": "Skagit Bald Eagle Natural Area Preserve",
+                  "text": "Skagit Bald Eagle Natural Area Preserve ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458764,
+                        48.471543
+                  ]
+            },
+            {
+                  "name": "Illabot Creek-Perrigoue Conservation Easement",
+                  "text": "Illabot Creek-Perrigoue Conservation Easement ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.516895,
+                        48.486081
+                  ]
+            },
+            {
+                  "name": "Washington Eddy Conservation Area",
+                  "text": "Washington Eddy Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.56334,
+                        48.490599
+                  ]
+            },
+            {
+                  "name": "Barr Creek Conservation Area",
+                  "text": "Barr Creek Conservation Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.55717,
+                        48.494745
+                  ]
+            },
+            {
+                  "name": "Bald Eagle Wildlife Area",
+                  "text": "Bald Eagle Wildlife Area ist ein Naturschutzgebiet im Cascades Volcanic North Relief Gebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -121.578321,
+                        48.481756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sauk Mountain",
+                  "text": "A North Cascades régióban található Sauk Mountain egy népszerű túrahegy panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -121.600797,
+                        48.522955
+                  ]
+            },
+            {
+                  "name": "Helen Buttes",
+                  "text": "A North Cascades régióban található Helen Buttes egy többcsúcsú hegycsoport.",
+                  "category": "natural",
+                  "coords": [
+                        -121.502632,
+                        48.567897
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "A North Cascades régióban található Bald Mountain egy erdős csúcs túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -121.585412,
+                        48.530395
+                  ]
+            },
+            {
+                  "name": "Cascade River South 1",
+                  "text": "Cascade River South 1 egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.409175,
+                        48.526821
+                  ]
+            },
+            {
+                  "name": "Cascade River - Trezise Conservation Area",
+                  "text": "Cascade River - Trezise Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.404293,
+                        48.529732
+                  ]
+            },
+            {
+                  "name": "Cascade River - Keller/Karlberg Conservation Easement",
+                  "text": "Cascade River - Keller/Karlberg Conservation Easement egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.398895,
+                        48.529038
+                  ]
+            },
+            {
+                  "name": "Diobsud Creek Abel Conservation Area",
+                  "text": "Diobsud Creek Abel Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.419926,
+                        48.561457
+                  ]
+            },
+            {
+                  "name": "Marblemount Conservation Area",
+                  "text": "Marblemount Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.478351,
+                        48.50544
+                  ]
+            },
+            {
+                  "name": "Cascadian Farm",
+                  "text": "Cascadian Farm egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530216,
+                        48.503353
+                  ]
+            },
+            {
+                  "name": "Skagit River Kahn Conservation Area",
+                  "text": "Skagit River Kahn Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530587,
+                        48.497551
+                  ]
+            },
+            {
+                  "name": "Illabot Creek Conservation Area",
+                  "text": "Illabot Creek Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.518483,
+                        48.493602
+                  ]
+            },
+            {
+                  "name": "Jackman Creek Wildlife Area",
+                  "text": "Jackman Creek Wildlife Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.535681,
+                        48.538367
+                  ]
+            },
+            {
+                  "name": "Upper Skagit 1 Conservation area",
+                  "text": "Upper Skagit 1 Conservation area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.424644,
+                        48.536597
+                  ]
+            },
+            {
+                  "name": "Upper Skagit - Malliet Conservation Easement",
+                  "text": "Upper Skagit - Malliet Conservation Easement egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.42502,
+                        48.534802
+                  ]
+            },
+            {
+                  "name": "Douglas Island Convservation Area",
+                  "text": "Douglas Island Convservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.433939,
+                        48.522711
+                  ]
+            },
+            {
+                  "name": "Cascade River South 2",
+                  "text": "Cascade River South 2 egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.386192,
+                        48.521246
+                  ]
+            },
+            {
+                  "name": "O'Brien-Riggs State Park",
+                  "text": "O'Brien-Riggs State Park egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458266,
+                        48.516441
+                  ]
+            },
+            {
+                  "name": "Skagit Bald Eagle Natural Area Preserve",
+                  "text": "Skagit Bald Eagle Natural Area Preserve egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458764,
+                        48.471543
+                  ]
+            },
+            {
+                  "name": "Illabot Creek-Perrigoue Conservation Easement",
+                  "text": "Illabot Creek-Perrigoue Conservation Easement egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.516895,
+                        48.486081
+                  ]
+            },
+            {
+                  "name": "Washington Eddy Conservation Area",
+                  "text": "Washington Eddy Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.56334,
+                        48.490599
+                  ]
+            },
+            {
+                  "name": "Barr Creek Conservation Area",
+                  "text": "Barr Creek Conservation Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.55717,
+                        48.494745
+                  ]
+            },
+            {
+                  "name": "Bald Eagle Wildlife Area",
+                  "text": "Bald Eagle Wildlife Area egy természetvédelmi terület a Cascades Volcanic North Relief területen.",
+                  "category": "natural",
+                  "coords": [
+                        -121.578321,
+                        48.481756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sauk Mountain",
+                  "text": "Muntele Sauk din regiunea North Cascades este un munte popular pentru drumeții, cu vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        -121.600797,
+                        48.522955
+                  ]
+            },
+            {
+                  "name": "Helen Buttes",
+                  "text": "Helen Buttes din regiunea North Cascades este un grup de vârfuri montane.",
+                  "category": "natural",
+                  "coords": [
+                        -121.502632,
+                        48.567897
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Muntele Bald din regiunea North Cascades este un vârf împădurit cu trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        -121.585412,
+                        48.530395
+                  ]
+            },
+            {
+                  "name": "Cascade River South 1",
+                  "text": "Cascade River South 1 este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.409175,
+                        48.526821
+                  ]
+            },
+            {
+                  "name": "Cascade River - Trezise Conservation Area",
+                  "text": "Cascade River - Trezise Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.404293,
+                        48.529732
+                  ]
+            },
+            {
+                  "name": "Cascade River - Keller/Karlberg Conservation Easement",
+                  "text": "Cascade River - Keller/Karlberg Conservation Easement este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.398895,
+                        48.529038
+                  ]
+            },
+            {
+                  "name": "Diobsud Creek Abel Conservation Area",
+                  "text": "Diobsud Creek Abel Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.419926,
+                        48.561457
+                  ]
+            },
+            {
+                  "name": "Marblemount Conservation Area",
+                  "text": "Marblemount Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.478351,
+                        48.50544
+                  ]
+            },
+            {
+                  "name": "Cascadian Farm",
+                  "text": "Cascadian Farm este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530216,
+                        48.503353
+                  ]
+            },
+            {
+                  "name": "Skagit River Kahn Conservation Area",
+                  "text": "Skagit River Kahn Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530587,
+                        48.497551
+                  ]
+            },
+            {
+                  "name": "Illabot Creek Conservation Area",
+                  "text": "Illabot Creek Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.518483,
+                        48.493602
+                  ]
+            },
+            {
+                  "name": "Jackman Creek Wildlife Area",
+                  "text": "Jackman Creek Wildlife Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.535681,
+                        48.538367
+                  ]
+            },
+            {
+                  "name": "Upper Skagit 1 Conservation area",
+                  "text": "Upper Skagit 1 Conservation area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.424644,
+                        48.536597
+                  ]
+            },
+            {
+                  "name": "Upper Skagit - Malliet Conservation Easement",
+                  "text": "Upper Skagit - Malliet Conservation Easement este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.42502,
+                        48.534802
+                  ]
+            },
+            {
+                  "name": "Douglas Island Convservation Area",
+                  "text": "Douglas Island Convservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.433939,
+                        48.522711
+                  ]
+            },
+            {
+                  "name": "Cascade River South 2",
+                  "text": "Cascade River South 2 este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.386192,
+                        48.521246
+                  ]
+            },
+            {
+                  "name": "O'Brien-Riggs State Park",
+                  "text": "O'Brien-Riggs State Park este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458266,
+                        48.516441
+                  ]
+            },
+            {
+                  "name": "Skagit Bald Eagle Natural Area Preserve",
+                  "text": "Skagit Bald Eagle Natural Area Preserve este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458764,
+                        48.471543
+                  ]
+            },
+            {
+                  "name": "Illabot Creek-Perrigoue Conservation Easement",
+                  "text": "Illabot Creek-Perrigoue Conservation Easement este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.516895,
+                        48.486081
+                  ]
+            },
+            {
+                  "name": "Washington Eddy Conservation Area",
+                  "text": "Washington Eddy Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.56334,
+                        48.490599
+                  ]
+            },
+            {
+                  "name": "Barr Creek Conservation Area",
+                  "text": "Barr Creek Conservation Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.55717,
+                        48.494745
+                  ]
+            },
+            {
+                  "name": "Bald Eagle Wildlife Area",
+                  "text": "Bald Eagle Wildlife Area este o rezervație naturală în zona Cascades Volcanic North Relief.",
+                  "category": "natural",
+                  "coords": [
+                        -121.578321,
+                        48.481756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sauk Mountain",
+                  "text": "Sauk Mountain in the North Cascades region is a popular hiking peak with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -121.600797,
+                        48.522955
+                  ]
+            },
+            {
+                  "name": "Helen Buttes",
+                  "text": "Helen Buttes in the North Cascades region is a group of mountain peaks.",
+                  "category": "natural",
+                  "coords": [
+                        -121.502632,
+                        48.567897
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain in the North Cascades region is a forested peak with hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        -121.585412,
+                        48.530395
+                  ]
+            },
+            {
+                  "name": "Cascade River South 1",
+                  "text": "Cascade River South 1 is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.409175,
+                        48.526821
+                  ]
+            },
+            {
+                  "name": "Cascade River - Trezise Conservation Area",
+                  "text": "Cascade River - Trezise Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.404293,
+                        48.529732
+                  ]
+            },
+            {
+                  "name": "Cascade River - Keller/Karlberg Conservation Easement",
+                  "text": "Cascade River - Keller/Karlberg Conservation Easement is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.398895,
+                        48.529038
+                  ]
+            },
+            {
+                  "name": "Diobsud Creek Abel Conservation Area",
+                  "text": "Diobsud Creek Abel Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.419926,
+                        48.561457
+                  ]
+            },
+            {
+                  "name": "Marblemount Conservation Area",
+                  "text": "Marblemount Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.478351,
+                        48.50544
+                  ]
+            },
+            {
+                  "name": "Cascadian Farm",
+                  "text": "Cascadian Farm is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530216,
+                        48.503353
+                  ]
+            },
+            {
+                  "name": "Skagit River Kahn Conservation Area",
+                  "text": "Skagit River Kahn Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.530587,
+                        48.497551
+                  ]
+            },
+            {
+                  "name": "Illabot Creek Conservation Area",
+                  "text": "Illabot Creek Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.518483,
+                        48.493602
+                  ]
+            },
+            {
+                  "name": "Jackman Creek Wildlife Area",
+                  "text": "Jackman Creek Wildlife Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.535681,
+                        48.538367
+                  ]
+            },
+            {
+                  "name": "Upper Skagit 1 Conservation area",
+                  "text": "Upper Skagit 1 Conservation area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.424644,
+                        48.536597
+                  ]
+            },
+            {
+                  "name": "Upper Skagit - Malliet Conservation Easement",
+                  "text": "Upper Skagit - Malliet Conservation Easement is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.42502,
+                        48.534802
+                  ]
+            },
+            {
+                  "name": "Douglas Island Convservation Area",
+                  "text": "Douglas Island Convservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.433939,
+                        48.522711
+                  ]
+            },
+            {
+                  "name": "Cascade River South 2",
+                  "text": "Cascade River South 2 is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.386192,
+                        48.521246
+                  ]
+            },
+            {
+                  "name": "O'Brien-Riggs State Park",
+                  "text": "O'Brien-Riggs State Park is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458266,
+                        48.516441
+                  ]
+            },
+            {
+                  "name": "Skagit Bald Eagle Natural Area Preserve",
+                  "text": "Skagit Bald Eagle Natural Area Preserve is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.458764,
+                        48.471543
+                  ]
+            },
+            {
+                  "name": "Illabot Creek-Perrigoue Conservation Easement",
+                  "text": "Illabot Creek-Perrigoue Conservation Easement is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.516895,
+                        48.486081
+                  ]
+            },
+            {
+                  "name": "Washington Eddy Conservation Area",
+                  "text": "Washington Eddy Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.56334,
+                        48.490599
+                  ]
+            },
+            {
+                  "name": "Barr Creek Conservation Area",
+                  "text": "Barr Creek Conservation Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.55717,
+                        48.494745
+                  ]
+            },
+            {
+                  "name": "Bald Eagle Wildlife Area",
+                  "text": "Bald Eagle Wildlife Area is a nature reserve in the Cascades Volcanic North Relief area.",
+                  "category": "natural",
+                  "coords": [
+                        -121.578321,
+                        48.481756
+                  ]
+            }
+      ]
+},
     type: "mountain",
     parent: "US-WA",
     coords: [-121.5, 48.5],

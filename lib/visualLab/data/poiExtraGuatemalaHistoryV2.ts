@@ -558,7 +558,52 @@ export const poiExtraGuatemalaHistoryV2: POI[] = [
     
      image: "/poi-images/nakum-ruins-history-v2.webp"},
   {
-    id: "altar-de-sacrificios-history-v2",
+    id: "altar-de-sacrificios-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Altar de los Sacrificios",
+                  "text": "Altar de los Sacrificios war eine Maya-Stätte am Zusammenfluss von Pasión und Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.529539,
+                        16.479419
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Altar de los Sacrificios",
+                  "text": "Altar de los Sacrificios egy maja lelőhely a Pasión és Salinas folyók összefolyásánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.529539,
+                        16.479419
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Altar de los Sacrificios",
+                  "text": "Altar de los Sacrificios a fost un sit mayaș la confluența râurilor Pasión și Salinas.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.529539,
+                        16.479419
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Altar de los Sacrificios",
+                  "text": "Altar de los Sacrificios was a Maya site at the confluence of the Pasión and Salinas rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.529539,
+                        16.479419
+                  ]
+            }
+      ]
+},
     type: "historical",
     parent: "GT-PE",
     coords: [-90.53, 16.49],

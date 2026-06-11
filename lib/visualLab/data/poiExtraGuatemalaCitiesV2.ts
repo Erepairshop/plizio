@@ -2542,7 +2542,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["L'église coloniale de San Agustín est l'une des mieux conservées de la région.", "La ville possède une histoire riche remontant à l'époque précolombienne.", "Elle est située dans l'écosystème sec de la moyenne vallée du Motagua.", "Un musée archéologique présente des découvertes importantes faites dans les environs."],
     }, image: "/poi-images/gt-san-agustin-ac-cities-v2.webp"},
   {
-    id: "gt-malacatan-cities-v2",
+    id: "gt-malacatan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Agua Clara",
+                  "text": "Ein Schwimmbad in Malacatán zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        -92.146032,
+                        14.962229
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Agua Clara",
+                  "text": "Egy úszómedence Malacatánban, pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -92.146032,
+                        14.962229
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Agua Clara",
+                  "text": "O piscină în Malacatán pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -92.146032,
+                        14.962229
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Agua Clara",
+                  "text": "A swimming pool in Malacatán for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        -92.146032,
+                        14.962229
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-SM",
     coords: [-92.0667, 14.9167],

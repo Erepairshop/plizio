@@ -373,7 +373,232 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
     
      image: "/poi-images/sipacate-naranjo-national-park-nature-v2.webp"},
   {
-    id: "laguna-brava-yolnabaj-nature-v2",
+    id: "laguna-brava-yolnabaj-nature-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Cultural Tziscao",
+                  "text": "Das Museo Cultural Tziscao zeigt die lokale Kultur am Laguna Brava.",
+                  "category": "museum",
+                  "coords": [
+                        -91.666613,
+                        16.087808
+                  ]
+            },
+            {
+                  "name": "Lago Pojoj",
+                  "text": "Lago Pojoj ist ein Aussichtspunkt über einen See.",
+                  "category": "natural",
+                  "coords": [
+                        -91.672293,
+                        16.103239
+                  ]
+            },
+            {
+                  "name": "Isla de las Orquídeas",
+                  "text": "Isla de las Orquídeas ist eine Inselattraktion auf dem See.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.668264,
+                        16.104719
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Aqua Tinta",
+                  "text": "Mirador Lago Aqua Tinta bietet einen Blick auf den Lago Aqua Tinta.",
+                  "category": "natural",
+                  "coords": [
+                        -91.678378,
+                        16.112367
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna La Cañada",
+                  "text": "Mirador Laguna La Cañada ist ein Aussichtspunkt über die Laguna La Cañada.",
+                  "category": "natural",
+                  "coords": [
+                        -91.677937,
+                        16.110886
+                  ]
+            },
+            {
+                  "name": "Mirador Lago El Caracol",
+                  "text": "Mirador Lago El Caracol bietet einen Blick auf den Lago El Caracol.",
+                  "category": "natural",
+                  "coords": [
+                        -91.680295,
+                        16.108836
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Cultural Tziscao",
+                  "text": "A Museo Cultural Tziscao a helyi kultúrát mutatja be a Laguna Brava mellett.",
+                  "category": "museum",
+                  "coords": [
+                        -91.666613,
+                        16.087808
+                  ]
+            },
+            {
+                  "name": "Lago Pojoj",
+                  "text": "A Lago Pojoj egy kilátópont egy tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -91.672293,
+                        16.103239
+                  ]
+            },
+            {
+                  "name": "Isla de las Orquídeas",
+                  "text": "Az Isla de las Orquídeas egy sziget látványosság a tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.668264,
+                        16.104719
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Aqua Tinta",
+                  "text": "A Mirador Lago Aqua Tinta kilátást nyújt a Lago Aqua Tintára.",
+                  "category": "natural",
+                  "coords": [
+                        -91.678378,
+                        16.112367
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna La Cañada",
+                  "text": "A Mirador Laguna La Cañada egy kilátópont a Laguna La Cañada felett.",
+                  "category": "natural",
+                  "coords": [
+                        -91.677937,
+                        16.110886
+                  ]
+            },
+            {
+                  "name": "Mirador Lago El Caracol",
+                  "text": "A Mirador Lago El Caracol kilátást nyújt a Lago El Caracolra.",
+                  "category": "natural",
+                  "coords": [
+                        -91.680295,
+                        16.108836
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Cultural Tziscao",
+                  "text": "Muzeul Cultural Tziscao prezintă cultura locală de la Laguna Brava.",
+                  "category": "museum",
+                  "coords": [
+                        -91.666613,
+                        16.087808
+                  ]
+            },
+            {
+                  "name": "Lago Pojoj",
+                  "text": "Lago Pojoj este un punct de belvedere peste un lac.",
+                  "category": "natural",
+                  "coords": [
+                        -91.672293,
+                        16.103239
+                  ]
+            },
+            {
+                  "name": "Isla de las Orquídeas",
+                  "text": "Isla de las Orquídeas este o atracție insulară pe lac.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.668264,
+                        16.104719
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Aqua Tinta",
+                  "text": "Mirador Lago Aqua Tinta oferă o vedere spre Lacul Aqua Tinta.",
+                  "category": "natural",
+                  "coords": [
+                        -91.678378,
+                        16.112367
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna La Cañada",
+                  "text": "Mirador Laguna La Cañada este un punct de belvedere peste Laguna La Cañada.",
+                  "category": "natural",
+                  "coords": [
+                        -91.677937,
+                        16.110886
+                  ]
+            },
+            {
+                  "name": "Mirador Lago El Caracol",
+                  "text": "Mirador Lago El Caracol oferă o vedere spre Lacul El Caracol.",
+                  "category": "natural",
+                  "coords": [
+                        -91.680295,
+                        16.108836
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Cultural Tziscao",
+                  "text": "Museo Cultural Tziscao showcases local culture at Laguna Brava.",
+                  "category": "museum",
+                  "coords": [
+                        -91.666613,
+                        16.087808
+                  ]
+            },
+            {
+                  "name": "Lago Pojoj",
+                  "text": "Lago Pojoj is a viewpoint overlooking a lake.",
+                  "category": "natural",
+                  "coords": [
+                        -91.672293,
+                        16.103239
+                  ]
+            },
+            {
+                  "name": "Isla de las Orquídeas",
+                  "text": "Isla de las Orquídeas is an island attraction on the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.668264,
+                        16.104719
+                  ]
+            },
+            {
+                  "name": "Mirador Lago Aqua Tinta",
+                  "text": "Mirador Lago Aqua Tinta offers a view of Lake Aqua Tinta.",
+                  "category": "natural",
+                  "coords": [
+                        -91.678378,
+                        16.112367
+                  ]
+            },
+            {
+                  "name": "Mirador Laguna La Cañada",
+                  "text": "Mirador Laguna La Cañada is a viewpoint over Laguna La Cañada.",
+                  "category": "natural",
+                  "coords": [
+                        -91.677937,
+                        16.110886
+                  ]
+            },
+            {
+                  "name": "Mirador Lago El Caracol",
+                  "text": "Mirador Lago El Caracol offers a view of Lake El Caracol.",
+                  "category": "natural",
+                  "coords": [
+                        -91.680295,
+                        16.108836
+                  ]
+            }
+      ]
+},
     type: "lake",
     parent: "GT-HU",
     coords: [-91.6, 16.15],

@@ -3,7 +3,1024 @@ import type { POI } from "./poi";
 
 export const poiExtraUsaLifeV2: POI[] = [
   {
-    id: "san-diego-zoo-life-v2",
+    id: "san-diego-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Women's Museum of California",
+                  "text": "Das Women's Museum of California in San Diego konzentriert sich auf die Geschichte und Beiträge von Frauen.",
+                  "category": "museum",
+                  "coords": [
+                        -117.212483,
+                        32.739099
+                  ]
+            },
+            {
+                  "name": "Mingei International Museum",
+                  "text": "Das Mingei International Museum in San Diego zeigt Volkskunst und Handwerk aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        -117.151031,
+                        32.731012
+                  ]
+            },
+            {
+                  "name": "San Diego Museum of Art",
+                  "text": "Das San Diego Museum of Art ist das älteste und größte Kunstmuseum in San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.15045,
+                        32.732169
+                  ]
+            },
+            {
+                  "name": "San Diego Model Railroad Museum",
+                  "text": "Das San Diego Model Railroad Museum ist eines der größten Modelleisenbahnmuseen der Welt.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148742,
+                        32.731156
+                  ]
+            },
+            {
+                  "name": "Marston House",
+                  "text": "Das Marston House ist ein historisches Herrenhaus-Museum im Balboa Park in San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.157818,
+                        32.741698
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of San Diego",
+                  "text": "Das Maritime Museum of San Diego besitzt eine Sammlung historischer Schiffe, darunter die Star of India.",
+                  "category": "museum",
+                  "coords": [
+                        -117.174156,
+                        32.720821
+                  ]
+            },
+            {
+                  "name": "USS Midway Museum",
+                  "text": "Das USS Midway Museum ist ein Museum auf dem Flugzeugträger USS Midway in San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.175114,
+                        32.713761
+                  ]
+            },
+            {
+                  "name": "Veteran's Museum and Memorial Center",
+                  "text": "Das Veteran's Museum and Memorial Center in San Diego ehrt Veteranen und Militärgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148795,
+                        32.72579
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de la Raza",
+                  "text": "Das Centro Cultural de la Raza in San Diego fördert chicano-, mexikanische und indigene Kunst und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148657,
+                        32.727723
+                  ]
+            },
+            {
+                  "name": "Comic-Con Museum",
+                  "text": "Das Comic-Con Museum in San Diego feiert Comics und Populärkunst.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152362,
+                        32.727285
+                  ]
+            },
+            {
+                  "name": "San Diego Automotive Museum",
+                  "text": "Das San Diego Automotive Museum zeigt eine Sammlung von Oldtimern und klassischen Autos.",
+                  "category": "museum",
+                  "coords": [
+                        -117.153896,
+                        32.727482
+                  ]
+            },
+            {
+                  "name": "San Diego Air & Space Museum",
+                  "text": "Das San Diego Air & Space Museum zeigt historische Flugzeuge und Weltraumexponate.",
+                  "category": "museum",
+                  "coords": [
+                        -117.154389,
+                        32.726238
+                  ]
+            },
+            {
+                  "name": "Museum of Us",
+                  "text": "Das Museum of Us in San Diego ist ein Museum für Anthropologie und Menschheitsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152488,
+                        32.731536
+                  ]
+            },
+            {
+                  "name": "San Diego Natural History Museum",
+                  "text": "Das San Diego Natural History Museum zeigt naturkundliche Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147364,
+                        32.732056
+                  ]
+            },
+            {
+                  "name": "Reuben H. Fleet Science Center",
+                  "text": "Das Reuben H. Fleet Science Center in San Diego ist ein Wissenschaftsmuseum mit interaktiven Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147026,
+                        32.730831
+                  ]
+            },
+            {
+                  "name": "Mormon Battalion Monument",
+                  "text": "Das Mormon Battalion Monument in San Diego erinnert an den Marsch des Mormonen-Bataillons.",
+                  "category": "historical",
+                  "coords": [
+                        -117.194104,
+                        32.757126
+                  ]
+            },
+            {
+                  "name": "La Casa de Estudillo",
+                  "text": "La Casa de Estudillo ist ein historisches Adobe-Haus in der Altstadt von San Diego.",
+                  "category": "historical",
+                  "coords": [
+                        -117.196713,
+                        32.754266
+                  ]
+            },
+            {
+                  "name": "Starlight Bowl",
+                  "text": "Die Starlight Bowl ist ein Freiluft-Amphitheater im Balboa Park in San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.153353,
+                        32.72635
+                  ]
+            },
+            {
+                  "name": "Spreckels Organ Pavillion",
+                  "text": "Der Spreckels Organ Pavilion beherbergt eine der größten Freiluft-Orgel der Welt in San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.150428,
+                        32.729445
+                  ]
+            },
+            {
+                  "name": "Harbor Drive Pedestrian Bridge",
+                  "text": "Die Harbor Drive Pedestrian Bridge ist eine Fußgängerbrücke in San Diego, die das Kongresszentrum mit dem Embarcadero verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.157031,
+                        32.705068
+                  ]
+            },
+            {
+                  "name": "Spanish Village Art Center",
+                  "text": "Das Spanish Village Art Center ist ein Künstlerdorf im Balboa Park in San Diego, das für die California Pacific International Exposition 1935 erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.147554,
+                        32.733707
+                  ]
+            },
+            {
+                  "name": "Morley Field Sports Complex",
+                  "text": "Der Morley Field Sports Complex ist ein Sportkomplex im Balboa Park in San Diego, der unter anderem das San Diego Velodrome beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        -117.138237,
+                        32.738723
+                  ]
+            },
+            {
+                  "name": "Presidio Park",
+                  "text": "Der Presidio Park in San Diego markiert den Ort der ersten europäischen Siedlung in Kalifornien.",
+                  "category": "park",
+                  "coords": [
+                        -117.193552,
+                        32.758341
+                  ]
+            },
+            {
+                  "name": "Old Town San Diego State Historic Park",
+                  "text": "Der Old Town San Diego State Historic Park ist ein State Park, der das frühe 19. Jahrhundert in San Diego nachbildet.",
+                  "category": "park",
+                  "coords": [
+                        -117.197856,
+                        32.754347
+                  ]
+            },
+            {
+                  "name": "Horton Plaza Park",
+                  "text": "Der Horton Plaza Park ist ein öffentlicher Park im Zentrum von San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.161524,
+                        32.715108
+                  ]
+            },
+            {
+                  "name": "Gallagher Square",
+                  "text": "Der Gallagher Square ist ein Park im Petco Park in San Diego, der den früheren Park at the Park ersetzte.",
+                  "category": "park",
+                  "coords": [
+                        -117.156948,
+                        32.708875
+                  ]
+            },
+            {
+                  "name": "Chicano Park",
+                  "text": "Der Chicano Park in San Diego ist ein National Historic Landmark und bekannt für seine Wandmalereien.",
+                  "category": "park",
+                  "coords": [
+                        -117.143076,
+                        32.700174
+                  ]
+            },
+            {
+                  "name": "Japanese Friendship Garden",
+                  "text": "Der Japanese Friendship Garden ist ein 12 Hektar großer Garten im Balboa Park in San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.149334,
+                        32.729558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Women's Museum of California",
+                  "text": "A Women's Museum of California San Diegóban a nők történetére és hozzájárulásaira összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -117.212483,
+                        32.739099
+                  ]
+            },
+            {
+                  "name": "Mingei International Museum",
+                  "text": "A Mingei International Museum San Diegóban a világ népi művészetét és kézművességét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.151031,
+                        32.731012
+                  ]
+            },
+            {
+                  "name": "San Diego Museum of Art",
+                  "text": "A San Diego Museum of Art a legrégebbi és legnagyobb művészeti múzeum San Diegóban.",
+                  "category": "museum",
+                  "coords": [
+                        -117.15045,
+                        32.732169
+                  ]
+            },
+            {
+                  "name": "San Diego Model Railroad Museum",
+                  "text": "A San Diego Model Railroad Museum a világ egyik legnagyobb modellvasút-múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148742,
+                        32.731156
+                  ]
+            },
+            {
+                  "name": "Marston House",
+                  "text": "A Marston House egy történelmi kúria múzeum a San Diego-i Balboa Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -117.157818,
+                        32.741698
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of San Diego",
+                  "text": "A Maritime Museum of San Diego történelmi hajók gyűjteményével rendelkezik, köztük a Star of India-val.",
+                  "category": "museum",
+                  "coords": [
+                        -117.174156,
+                        32.720821
+                  ]
+            },
+            {
+                  "name": "USS Midway Museum",
+                  "text": "Az USS Midway Museum egy múzeum a USS Midway repülőgép-hordozón San Diegóban.",
+                  "category": "museum",
+                  "coords": [
+                        -117.175114,
+                        32.713761
+                  ]
+            },
+            {
+                  "name": "Veteran's Museum and Memorial Center",
+                  "text": "A Veteran's Museum and Memorial Center San Diegóban a veteránok és a katonai történelem előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148795,
+                        32.72579
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de la Raza",
+                  "text": "A Centro Cultural de la Raza San Diegóban a chicano, mexikói és bennszülött művészetet és kultúrát népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148657,
+                        32.727723
+                  ]
+            },
+            {
+                  "name": "Comic-Con Museum",
+                  "text": "A Comic-Con Museum San Diegóban a képregényeket és a populáris művészetet ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152362,
+                        32.727285
+                  ]
+            },
+            {
+                  "name": "San Diego Automotive Museum",
+                  "text": "A San Diego Automotive Museum veterán és klasszikus autók gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.153896,
+                        32.727482
+                  ]
+            },
+            {
+                  "name": "San Diego Air & Space Museum",
+                  "text": "A San Diego Air & Space Museum történelmi repülőgépeket és űrkutatási kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.154389,
+                        32.726238
+                  ]
+            },
+            {
+                  "name": "Museum of Us",
+                  "text": "A Museum of Us San Diegóban egy antropológiai és emberiségtörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152488,
+                        32.731536
+                  ]
+            },
+            {
+                  "name": "San Diego Natural History Museum",
+                  "text": "A San Diego Natural History Museum természetrajzi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147364,
+                        32.732056
+                  ]
+            },
+            {
+                  "name": "Reuben H. Fleet Science Center",
+                  "text": "A Reuben H. Fleet Science Center San Diegóban egy interaktív kiállításokkal rendelkező tudományos múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147026,
+                        32.730831
+                  ]
+            },
+            {
+                  "name": "Mormon Battalion Monument",
+                  "text": "A Mormon Battalion Monument San Diegóban a mormon zászlóalj menetére emlékezik.",
+                  "category": "historical",
+                  "coords": [
+                        -117.194104,
+                        32.757126
+                  ]
+            },
+            {
+                  "name": "La Casa de Estudillo",
+                  "text": "La Casa de Estudillo egy történelmi vályogház San Diego óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        -117.196713,
+                        32.754266
+                  ]
+            },
+            {
+                  "name": "Starlight Bowl",
+                  "text": "A Starlight Bowl egy szabadtéri amfiteátrum a San Diego-i Balboa Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.153353,
+                        32.72635
+                  ]
+            },
+            {
+                  "name": "Spreckels Organ Pavillion",
+                  "text": "A Spreckels Organ Pavilion a világ egyik legnagyobb szabadtéri orgonájának ad otthont San Diegóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.150428,
+                        32.729445
+                  ]
+            },
+            {
+                  "name": "Harbor Drive Pedestrian Bridge",
+                  "text": "A Harbor Drive gyalogoshíd San Diegóban található, összeköti a Kongresszusi Központot az Embarcaderóval.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.157031,
+                        32.705068
+                  ]
+            },
+            {
+                  "name": "Spanish Village Art Center",
+                  "text": "A Spanish Village Art Center egy művészfalu a San Diego-i Balboa Parkban, amelyet az 1935-ös California Pacific International Expositionra építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.147554,
+                        32.733707
+                  ]
+            },
+            {
+                  "name": "Morley Field Sports Complex",
+                  "text": "A Morley Field Sports Complex egy sportkomplexum a San Diego-i Balboa Parkban, amely magában foglalja a San Diego Velodrome-ot is.",
+                  "category": "park",
+                  "coords": [
+                        -117.138237,
+                        32.738723
+                  ]
+            },
+            {
+                  "name": "Presidio Park",
+                  "text": "A Presidio Park San Diegóban az első európai település helyét jelöli Kaliforniában.",
+                  "category": "park",
+                  "coords": [
+                        -117.193552,
+                        32.758341
+                  ]
+            },
+            {
+                  "name": "Old Town San Diego State Historic Park",
+                  "text": "Az Old Town San Diego State Historic Park egy állami park, amely San Diego 19. század eleji életét idézi.",
+                  "category": "park",
+                  "coords": [
+                        -117.197856,
+                        32.754347
+                  ]
+            },
+            {
+                  "name": "Horton Plaza Park",
+                  "text": "A Horton Plaza Park egy közpark San Diego belvárosában.",
+                  "category": "park",
+                  "coords": [
+                        -117.161524,
+                        32.715108
+                  ]
+            },
+            {
+                  "name": "Gallagher Square",
+                  "text": "A Gallagher Square egy park a San Diego-i Petco Parkban, amely a korábbi Park at the Parkot váltotta fel.",
+                  "category": "park",
+                  "coords": [
+                        -117.156948,
+                        32.708875
+                  ]
+            },
+            {
+                  "name": "Chicano Park",
+                  "text": "A Chicano Park San Diegóban egy nemzeti történelmi nevezetesség, híres falfestményeiről.",
+                  "category": "park",
+                  "coords": [
+                        -117.143076,
+                        32.700174
+                  ]
+            },
+            {
+                  "name": "Japanese Friendship Garden",
+                  "text": "A Japanese Friendship Garden egy 12 hektáros kert a San Diego-i Balboa Parkban.",
+                  "category": "park",
+                  "coords": [
+                        -117.149334,
+                        32.729558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Women's Museum of California",
+                  "text": "Women's Museum of California din San Diego se concentrează pe istoria și contribuțiile femeilor.",
+                  "category": "museum",
+                  "coords": [
+                        -117.212483,
+                        32.739099
+                  ]
+            },
+            {
+                  "name": "Mingei International Museum",
+                  "text": "Mingei International Museum din San Diego expune artă populară și meșteșuguri din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        -117.151031,
+                        32.731012
+                  ]
+            },
+            {
+                  "name": "San Diego Museum of Art",
+                  "text": "San Diego Museum of Art este cel mai vechi și mai mare muzeu de artă din San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.15045,
+                        32.732169
+                  ]
+            },
+            {
+                  "name": "San Diego Model Railroad Museum",
+                  "text": "San Diego Model Railroad Museum este unul dintre cele mai mari muzee de căi ferate model din lume.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148742,
+                        32.731156
+                  ]
+            },
+            {
+                  "name": "Marston House",
+                  "text": "Marston House este un muzeu casă istorică din Balboa Park, San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.157818,
+                        32.741698
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of San Diego",
+                  "text": "Maritime Museum of San Diego are o colecție de nave istorice, inclusiv Star of India.",
+                  "category": "museum",
+                  "coords": [
+                        -117.174156,
+                        32.720821
+                  ]
+            },
+            {
+                  "name": "USS Midway Museum",
+                  "text": "USS Midway Museum este un muzeu pe portavionul USS Midway din San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.175114,
+                        32.713761
+                  ]
+            },
+            {
+                  "name": "Veteran's Museum and Memorial Center",
+                  "text": "Veteran's Museum and Memorial Center din San Diego onorează veteranii și istoria militară.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148795,
+                        32.72579
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de la Raza",
+                  "text": "Centro Cultural de la Raza din San Diego promovează arta și cultura chicano, mexicană și nativă.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148657,
+                        32.727723
+                  ]
+            },
+            {
+                  "name": "Comic-Con Museum",
+                  "text": "Comic-Con Museum din San Diego sărbătorește benzile desenate și artele populare.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152362,
+                        32.727285
+                  ]
+            },
+            {
+                  "name": "San Diego Automotive Museum",
+                  "text": "San Diego Automotive Museum prezintă o colecție de mașini de epocă și clasice.",
+                  "category": "museum",
+                  "coords": [
+                        -117.153896,
+                        32.727482
+                  ]
+            },
+            {
+                  "name": "San Diego Air & Space Museum",
+                  "text": "San Diego Air & Space Museum prezintă aeronave istorice și exponate spațiale.",
+                  "category": "museum",
+                  "coords": [
+                        -117.154389,
+                        32.726238
+                  ]
+            },
+            {
+                  "name": "Museum of Us",
+                  "text": "Museum of Us din San Diego este un muzeu de antropologie și istorie umană.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152488,
+                        32.731536
+                  ]
+            },
+            {
+                  "name": "San Diego Natural History Museum",
+                  "text": "San Diego Natural History Museum prezintă exponate de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147364,
+                        32.732056
+                  ]
+            },
+            {
+                  "name": "Reuben H. Fleet Science Center",
+                  "text": "Reuben H. Fleet Science Center din San Diego este un muzeu științific cu exponate interactive.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147026,
+                        32.730831
+                  ]
+            },
+            {
+                  "name": "Mormon Battalion Monument",
+                  "text": "Monumentul Mormon Battalion din San Diego comemorează marșul Batalionului Mormon.",
+                  "category": "historical",
+                  "coords": [
+                        -117.194104,
+                        32.757126
+                  ]
+            },
+            {
+                  "name": "La Casa de Estudillo",
+                  "text": "La Casa de Estudillo este o casă istorică din chirpici în Old Town San Diego.",
+                  "category": "historical",
+                  "coords": [
+                        -117.196713,
+                        32.754266
+                  ]
+            },
+            {
+                  "name": "Starlight Bowl",
+                  "text": "Starlight Bowl este un amfiteatru în aer liber din Balboa Park, San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.153353,
+                        32.72635
+                  ]
+            },
+            {
+                  "name": "Spreckels Organ Pavillion",
+                  "text": "Spreckels Organ Pavilion găzduiește una dintre cele mai mari orgi în aer liber din lume, în San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.150428,
+                        32.729445
+                  ]
+            },
+            {
+                  "name": "Harbor Drive Pedestrian Bridge",
+                  "text": "Podul pietonal Harbor Drive este un pod pietonal în San Diego care leagă Centrul de Convenții de Embarcadero.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.157031,
+                        32.705068
+                  ]
+            },
+            {
+                  "name": "Spanish Village Art Center",
+                  "text": "Spanish Village Art Center este un sat de artiști în Parcul Balboa din San Diego, construit pentru Expoziția Internațională California Pacific din 1935.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.147554,
+                        32.733707
+                  ]
+            },
+            {
+                  "name": "Morley Field Sports Complex",
+                  "text": "Morley Field Sports Complex este un complex sportiv în Parcul Balboa din San Diego, care include Velodromul San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.138237,
+                        32.738723
+                  ]
+            },
+            {
+                  "name": "Presidio Park",
+                  "text": "Parcul Presidio din San Diego marchează locul primei așezări europene din California.",
+                  "category": "park",
+                  "coords": [
+                        -117.193552,
+                        32.758341
+                  ]
+            },
+            {
+                  "name": "Old Town San Diego State Historic Park",
+                  "text": "Old Town San Diego State Historic Park este un parc de stat care reconstituie viața din San Diego la începutul secolului al XIX-lea.",
+                  "category": "park",
+                  "coords": [
+                        -117.197856,
+                        32.754347
+                  ]
+            },
+            {
+                  "name": "Horton Plaza Park",
+                  "text": "Horton Plaza Park este un parc public în centrul orașului San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.161524,
+                        32.715108
+                  ]
+            },
+            {
+                  "name": "Gallagher Square",
+                  "text": "Gallagher Square este un parc din Petco Park din San Diego, care a înlocuit fostul Park at the Park.",
+                  "category": "park",
+                  "coords": [
+                        -117.156948,
+                        32.708875
+                  ]
+            },
+            {
+                  "name": "Chicano Park",
+                  "text": "Parcul Chicano din San Diego este un reper istoric național cunoscut pentru picturile sale murale.",
+                  "category": "park",
+                  "coords": [
+                        -117.143076,
+                        32.700174
+                  ]
+            },
+            {
+                  "name": "Japanese Friendship Garden",
+                  "text": "Japanese Friendship Garden este o grădină de 12 acri în Parcul Balboa din San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.149334,
+                        32.729558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Women's Museum of California",
+                  "text": "The Women's Museum of California in San Diego focuses on the history and contributions of women.",
+                  "category": "museum",
+                  "coords": [
+                        -117.212483,
+                        32.739099
+                  ]
+            },
+            {
+                  "name": "Mingei International Museum",
+                  "text": "The Mingei International Museum in San Diego exhibits folk art and craft from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        -117.151031,
+                        32.731012
+                  ]
+            },
+            {
+                  "name": "San Diego Museum of Art",
+                  "text": "The San Diego Museum of Art is the oldest and largest art museum in San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.15045,
+                        32.732169
+                  ]
+            },
+            {
+                  "name": "San Diego Model Railroad Museum",
+                  "text": "The San Diego Model Railroad Museum is one of the largest model railroad museums in the world.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148742,
+                        32.731156
+                  ]
+            },
+            {
+                  "name": "Marston House",
+                  "text": "The Marston House is a historic house museum in Balboa Park, San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.157818,
+                        32.741698
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of San Diego",
+                  "text": "The Maritime Museum of San Diego has a collection of historic ships including the Star of India.",
+                  "category": "museum",
+                  "coords": [
+                        -117.174156,
+                        32.720821
+                  ]
+            },
+            {
+                  "name": "USS Midway Museum",
+                  "text": "The USS Midway Museum is a museum on the aircraft carrier USS Midway in San Diego.",
+                  "category": "museum",
+                  "coords": [
+                        -117.175114,
+                        32.713761
+                  ]
+            },
+            {
+                  "name": "Veteran's Museum and Memorial Center",
+                  "text": "The Veteran's Museum and Memorial Center in San Diego honors veterans and military history.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148795,
+                        32.72579
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de la Raza",
+                  "text": "The Centro Cultural de la Raza in San Diego promotes Chicano, Mexican, and Native American art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -117.148657,
+                        32.727723
+                  ]
+            },
+            {
+                  "name": "Comic-Con Museum",
+                  "text": "The Comic-Con Museum in San Diego celebrates comic books and popular arts.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152362,
+                        32.727285
+                  ]
+            },
+            {
+                  "name": "San Diego Automotive Museum",
+                  "text": "The San Diego Automotive Museum displays a collection of vintage and classic cars.",
+                  "category": "museum",
+                  "coords": [
+                        -117.153896,
+                        32.727482
+                  ]
+            },
+            {
+                  "name": "San Diego Air & Space Museum",
+                  "text": "The San Diego Air & Space Museum features historic aircraft and space exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -117.154389,
+                        32.726238
+                  ]
+            },
+            {
+                  "name": "Museum of Us",
+                  "text": "The Museum of Us in San Diego is a museum of anthropology and human history.",
+                  "category": "museum",
+                  "coords": [
+                        -117.152488,
+                        32.731536
+                  ]
+            },
+            {
+                  "name": "San Diego Natural History Museum",
+                  "text": "The San Diego Natural History Museum features natural history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147364,
+                        32.732056
+                  ]
+            },
+            {
+                  "name": "Reuben H. Fleet Science Center",
+                  "text": "The Reuben H. Fleet Science Center in San Diego is a science museum with interactive exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -117.147026,
+                        32.730831
+                  ]
+            },
+            {
+                  "name": "Mormon Battalion Monument",
+                  "text": "The Mormon Battalion Monument in San Diego commemorates the march of the Mormon Battalion.",
+                  "category": "historical",
+                  "coords": [
+                        -117.194104,
+                        32.757126
+                  ]
+            },
+            {
+                  "name": "La Casa de Estudillo",
+                  "text": "La Casa de Estudillo is a historic adobe house in Old Town San Diego.",
+                  "category": "historical",
+                  "coords": [
+                        -117.196713,
+                        32.754266
+                  ]
+            },
+            {
+                  "name": "Starlight Bowl",
+                  "text": "The Starlight Bowl is an outdoor amphitheater in Balboa Park, San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.153353,
+                        32.72635
+                  ]
+            },
+            {
+                  "name": "Spreckels Organ Pavillion",
+                  "text": "The Spreckels Organ Pavilion houses one of the world's largest outdoor pipe organs in San Diego.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.150428,
+                        32.729445
+                  ]
+            },
+            {
+                  "name": "Harbor Drive Pedestrian Bridge",
+                  "text": "The Harbor Drive Pedestrian Bridge is a footbridge in San Diego that connects the Convention Center to the Embarcadero.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.157031,
+                        32.705068
+                  ]
+            },
+            {
+                  "name": "Spanish Village Art Center",
+                  "text": "The Spanish Village Art Center is an artists' village in Balboa Park in San Diego, built for the 1935 California Pacific International Exposition.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.147554,
+                        32.733707
+                  ]
+            },
+            {
+                  "name": "Morley Field Sports Complex",
+                  "text": "Morley Field Sports Complex is a sports complex in Balboa Park in San Diego, home to the San Diego Velodrome.",
+                  "category": "park",
+                  "coords": [
+                        -117.138237,
+                        32.738723
+                  ]
+            },
+            {
+                  "name": "Presidio Park",
+                  "text": "Presidio Park in San Diego marks the site of the first European settlement in California.",
+                  "category": "park",
+                  "coords": [
+                        -117.193552,
+                        32.758341
+                  ]
+            },
+            {
+                  "name": "Old Town San Diego State Historic Park",
+                  "text": "Old Town San Diego State Historic Park is a state park that recreates San Diego's early 19th-century life.",
+                  "category": "park",
+                  "coords": [
+                        -117.197856,
+                        32.754347
+                  ]
+            },
+            {
+                  "name": "Horton Plaza Park",
+                  "text": "Horton Plaza Park is a public park in downtown San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.161524,
+                        32.715108
+                  ]
+            },
+            {
+                  "name": "Gallagher Square",
+                  "text": "Gallagher Square is a park at Petco Park in San Diego, replacing the former Park at the Park.",
+                  "category": "park",
+                  "coords": [
+                        -117.156948,
+                        32.708875
+                  ]
+            },
+            {
+                  "name": "Chicano Park",
+                  "text": "Chicano Park in San Diego is a National Historic Landmark known for its murals.",
+                  "category": "park",
+                  "coords": [
+                        -117.143076,
+                        32.700174
+                  ]
+            },
+            {
+                  "name": "Japanese Friendship Garden",
+                  "text": "The Japanese Friendship Garden is a 12-acre garden in Balboa Park in San Diego.",
+                  "category": "park",
+                  "coords": [
+                        -117.149334,
+                        32.729558
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-CA",
     coords: [-117.149, 32.735],
@@ -39,7 +1056,232 @@ export const poiExtraUsaLifeV2: POI[] = [
     }
   },
   {
-    id: "yellowstone-national-park-life-v2",
+    id: "yellowstone-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "West Thumb",
+                  "text": "Eine Bucht im Yellowstone Lake, Teil des West Thumb Gebiets.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.532428,
+                        44.427719
+                  ]
+            },
+            {
+                  "name": "Pumice Point",
+                  "text": "Ein Aussichtspunkt aus Bimsstein am West Thumb des Yellowstone-Sees.",
+                  "category": "natural",
+                  "coords": [
+                        -110.503512,
+                        44.452514
+                  ]
+            },
+            {
+                  "name": "Overlook",
+                  "text": "Ein Aussichtspunkt im Yellowstone-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.586598,
+                        44.412087
+                  ]
+            },
+            {
+                  "name": "Thumb Geyser",
+                  "text": "Eine heiße Quelle im West Thumb Geyser Basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571911,
+                        44.41652
+                  ]
+            },
+            {
+                  "name": "King Geyser viewing point",
+                  "text": "Ein Aussichtspunkt zum King Geyser im West Thumb Geyser Basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571889,
+                        44.418368
+                  ]
+            },
+            {
+                  "name": "Lakeside Spring",
+                  "text": "Eine heiße Quelle am Seeufer des Yellowstone-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.569868,
+                        44.416318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "West Thumb",
+                  "text": "Egy öböl a Yellowstone-tóban, a West Thumb része.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.532428,
+                        44.427719
+                  ]
+            },
+            {
+                  "name": "Pumice Point",
+                  "text": "Egy habkőből álló kilátó a West Thumb-nél a Yellowstone-tónál.",
+                  "category": "natural",
+                  "coords": [
+                        -110.503512,
+                        44.452514
+                  ]
+            },
+            {
+                  "name": "Overlook",
+                  "text": "Egy kilátó a Yellowstone Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.586598,
+                        44.412087
+                  ]
+            },
+            {
+                  "name": "Thumb Geyser",
+                  "text": "Egy forró forrás a West Thumb Gejzírmedencében.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571911,
+                        44.41652
+                  ]
+            },
+            {
+                  "name": "King Geyser viewing point",
+                  "text": "Kilátó a King Gejzírhez a West Thumb Gejzírmedencében.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571889,
+                        44.418368
+                  ]
+            },
+            {
+                  "name": "Lakeside Spring",
+                  "text": "Egy forró forrás a Yellowstone-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.569868,
+                        44.416318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "West Thumb",
+                  "text": "Un golf al Lacului Yellowstone, parte a zonei West Thumb.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.532428,
+                        44.427719
+                  ]
+            },
+            {
+                  "name": "Pumice Point",
+                  "text": "Un punct de belvedere din piatră ponce la West Thumb, Lacul Yellowstone.",
+                  "category": "natural",
+                  "coords": [
+                        -110.503512,
+                        44.452514
+                  ]
+            },
+            {
+                  "name": "Overlook",
+                  "text": "Un punct de belvedere în Parcul Național Yellowstone.",
+                  "category": "natural",
+                  "coords": [
+                        -110.586598,
+                        44.412087
+                  ]
+            },
+            {
+                  "name": "Thumb Geyser",
+                  "text": "Un izvor termal în Bazinul de Gheizere West Thumb.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571911,
+                        44.41652
+                  ]
+            },
+            {
+                  "name": "King Geyser viewing point",
+                  "text": "Un punct de observare a Gheizerului King în Bazinul de Gheizere West Thumb.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571889,
+                        44.418368
+                  ]
+            },
+            {
+                  "name": "Lakeside Spring",
+                  "text": "Un izvor termal pe malul Lacului Yellowstone.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.569868,
+                        44.416318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "West Thumb",
+                  "text": "A bay in Yellowstone Lake, part of the West Thumb area.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.532428,
+                        44.427719
+                  ]
+            },
+            {
+                  "name": "Pumice Point",
+                  "text": "A pumice rock viewpoint at West Thumb of Yellowstone Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -110.503512,
+                        44.452514
+                  ]
+            },
+            {
+                  "name": "Overlook",
+                  "text": "A viewpoint in Yellowstone National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.586598,
+                        44.412087
+                  ]
+            },
+            {
+                  "name": "Thumb Geyser",
+                  "text": "A hot spring in the West Thumb Geyser Basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571911,
+                        44.41652
+                  ]
+            },
+            {
+                  "name": "King Geyser viewing point",
+                  "text": "A viewing point for King Geyser in the West Thumb Geyser Basin.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.571889,
+                        44.418368
+                  ]
+            },
+            {
+                  "name": "Lakeside Spring",
+                  "text": "A hot spring on the shore of Yellowstone Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.569868,
+                        44.416318
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-WY",
     coords: [-110.5885, 44.4280],
@@ -75,7 +1317,1024 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "disney-world-orlando-life-v2",
+    id: "disney-world-orlando-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jedi Training: Trials of the Temple",
+                  "text": "Eine Live-Show in den Disney's Hollywood Studios, bei der Kinder zu Jedi ausgebildet werden.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.558722,
+                        28.355712
+                  ]
+            },
+            {
+                  "name": "Astro Orbiter",
+                  "text": "Eine sich drehende Raketenfahrt im Magic Kingdom im Walt Disney World.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.57915,
+                        28.418425
+                  ]
+            },
+            {
+                  "name": "Ariel's Grotto",
+                  "text": "Ein Treffpunkt mit Arielle im Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.579561,
+                        28.420968
+                  ]
+            },
+            {
+                  "name": "Zootopia: Better Zoogether!",
+                  "text": "Eine Bühnenshow basierend auf Zoomania im Disney's Animal Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.590485,
+                        28.357765
+                  ]
+            },
+            {
+                  "name": "Fantasmic!",
+                  "text": "Eine nächtliche Wasser- und Pyrotechnik-Show in den Disney's Hollywood Studios.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55831,
+                        28.361213
+                  ]
+            },
+            {
+                  "name": "France Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Frankreich repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.552731,
+                        28.368992
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Marokko repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551772,
+                        28.368159
+                  ]
+            },
+            {
+                  "name": "The American Adventure Pavilion",
+                  "text": "Ein Show-Pavillon in Epcot, der die Geschichte Amerikas präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.549379,
+                        28.367781
+                  ]
+            },
+            {
+                  "name": "Germany Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Deutschland repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.54705,
+                        28.368206
+                  ]
+            },
+            {
+                  "name": "Italy Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Italien repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.548213,
+                        28.36767
+                  ]
+            },
+            {
+                  "name": "Canada Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Kanada repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551347,
+                        28.371691
+                  ]
+            },
+            {
+                  "name": "Mexico Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der Mexiko repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547578,
+                        28.371361
+                  ]
+            },
+            {
+                  "name": "Living With The Land",
+                  "text": "Eine Bootsfahrt durch Gewächshäuser und Aquakultur im Epcot.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55284,
+                        28.373973
+                  ]
+            },
+            {
+                  "name": "United Kingdom Pavilion",
+                  "text": "Ein Pavillon in der World Showcase von Epcot, der das Vereinigte Königreich repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551867,
+                        28.370498
+                  ]
+            },
+            {
+                  "name": "Frozen Ever After",
+                  "text": "Eine Bootsfahrt basierend auf Die Eiskönigin im Norwegen-Pavillon von Epcot.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.546235,
+                        28.370803
+                  ]
+            },
+            {
+                  "name": "Big Thunder Mountain Railroad",
+                  "text": "Eine Minenzug-Achterbahn im Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.584781,
+                        28.420347
+                  ]
+            },
+            {
+                  "name": "The Magic Carpets of Aladdin",
+                  "text": "Eine sich drehende Teppichfahrt im Adventureland des Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.583485,
+                        28.41845
+                  ]
+            },
+            {
+                  "name": "The Barnstormer",
+                  "text": "The Barnstormer ist eine Familien-Achterbahn im Magic Kingdom in Orlando, Florida, thematisiert als Kunstflugzeug.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.578453,
+                        28.420551
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "Space Mountain ist eine ikonische Indoor-Achterbahn im Magic Kingdom in Orlando, Florida, die durch die Dunkelheit rast.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.577252,
+                        28.419142
+                  ]
+            },
+            {
+                  "name": "The Many Adventures of Winnie the Pooh",
+                  "text": "The Many Adventures of Winnie the Pooh ist eine sanfte Dark Ride im Magic Kingdom in Orlando, Florida, basierend auf den geliebten Geschichten.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.58039,
+                        28.419978
+                  ]
+            },
+            {
+                  "name": "\"it's a small world\"",
+                  "text": "\"it's a small world\" ist eine klassische Bootsfahrt im Magic Kingdom in Orlando, Florida, bekannt für ihren eingängigen Song.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.582025,
+                        28.420836
+                  ]
+            },
+            {
+                  "name": "Disney Winter Summerland Miniature Golf;Disney winter Summerland mini golf",
+                  "text": "Disney Winter Summerland Miniature Golf ist ein Paar Indoor/Outdoor-Minigolfplätze im Walt Disney World in Orlando, Florida, thematisiert auf Winter und Sommer.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.574354,
+                        28.353388
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Epic Stunt Spectacular!",
+                  "text": "Indiana Jones Epic Stunt Spectacular! ist eine Live-Stuntshow in Disneys Hollywood Studios in Orlando, Florida, die Szenen aus den Filmen nachstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.558367,
+                        28.35663
+                  ]
+            },
+            {
+                  "name": "Toy Story Mania!",
+                  "text": "Toy Story Mania! ist eine interaktive 4D-Schießfahrt in Disneys Hollywood Studios in Orlando, Florida, mit Figuren aus Toy Story.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.561333,
+                        28.356038
+                  ]
+            },
+            {
+                  "name": "Voyage of the Little Mermaid",
+                  "text": "Voyage of the Little Mermaid ist eine Live-Bühnenshow in Disneys Hollywood Studios in Orlando, Florida, die die Geschichte von Ariel erzählt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.560997,
+                        28.35752
+                  ]
+            },
+            {
+                  "name": "Alien Swirling Saucers",
+                  "text": "Alien Swirling Saucers ist eine sich drehende Fahrt in Disneys Hollywood Studios in Orlando, Florida, thematisiert auf Toy Story-Aliens.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.562732,
+                        28.355647
+                  ]
+            },
+            {
+                  "name": "Theater of the Stars",
+                  "text": "Theater of the Stars ist ein Live-Veranstaltungsort in Disneys Hollywood Studios in Orlando, Florida, der die Beauty and the Beast-Bühnenshow beherbergt.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.559185,
+                        28.359256
+                  ]
+            },
+            {
+                  "name": "Test Track",
+                  "text": "Test Track ist eine Hochgeschwindigkeitsfahrt im Epcot in Orlando, Florida, die eine Autoteststrecke simuliert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547223,
+                        28.372852
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jedi Training: Trials of the Temple",
+                  "text": "Élő show a Disney's Hollywood Studiosban, ahol gyerekek jedivé képzik magukat.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.558722,
+                        28.355712
+                  ]
+            },
+            {
+                  "name": "Astro Orbiter",
+                  "text": "Forgó rakétás utazás a Magic Kingdomban a Walt Disney Worldben.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.57915,
+                        28.418425
+                  ]
+            },
+            {
+                  "name": "Ariel's Grotto",
+                  "text": "Találkozóhely Ariellet a Magic Kingdomban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.579561,
+                        28.420968
+                  ]
+            },
+            {
+                  "name": "Zootopia: Better Zoogether!",
+                  "text": "Színpadi show a Zootopia alapján a Disney's Animal Kingdomban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.590485,
+                        28.357765
+                  ]
+            },
+            {
+                  "name": "Fantasmic!",
+                  "text": "Éjszakai víz- és pirotechnikai show a Disney's Hollywood Studiosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55831,
+                        28.361213
+                  ]
+            },
+            {
+                  "name": "France Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Franciaországot képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.552731,
+                        28.368992
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Marokkót képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551772,
+                        28.368159
+                  ]
+            },
+            {
+                  "name": "The American Adventure Pavilion",
+                  "text": "Show-pavilon az Epcotban, amely Amerika történetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.549379,
+                        28.367781
+                  ]
+            },
+            {
+                  "name": "Germany Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Németországot képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.54705,
+                        28.368206
+                  ]
+            },
+            {
+                  "name": "Italy Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Olaszországot képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.548213,
+                        28.36767
+                  ]
+            },
+            {
+                  "name": "Canada Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Kanadát képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551347,
+                        28.371691
+                  ]
+            },
+            {
+                  "name": "Mexico Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely Mexikót képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547578,
+                        28.371361
+                  ]
+            },
+            {
+                  "name": "Living With The Land",
+                  "text": "Csónakázás üvegházakon és akvakultúrán keresztül az Epcotban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55284,
+                        28.373973
+                  ]
+            },
+            {
+                  "name": "United Kingdom Pavilion",
+                  "text": "Egy pavilon az Epcot World Showcase-ben, amely az Egyesült Királyságot képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551867,
+                        28.370498
+                  ]
+            },
+            {
+                  "name": "Frozen Ever After",
+                  "text": "Csónakázás a Jégvarázs alapján az Epcot Norvégia pavilonjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.546235,
+                        28.370803
+                  ]
+            },
+            {
+                  "name": "Big Thunder Mountain Railroad",
+                  "text": "Bányavonat hullámvasút a Magic Kingdomban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.584781,
+                        28.420347
+                  ]
+            },
+            {
+                  "name": "The Magic Carpets of Aladdin",
+                  "text": "Forgó szőnyeg utazás a Magic Kingdom Adventurelandjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.583485,
+                        28.41845
+                  ]
+            },
+            {
+                  "name": "The Barnstormer",
+                  "text": "A The Barnstormer egy családi hullámvasút a Magic Kingdomben, Orlando, Florida, egy aerobatikus repülőgép témájával.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.578453,
+                        28.420551
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "A Space Mountain egy ikonikus fedett hullámvasút a Magic Kingdomben, Orlando, Florida, a sötétben száguld.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.577252,
+                        28.419142
+                  ]
+            },
+            {
+                  "name": "The Many Adventures of Winnie the Pooh",
+                  "text": "A The Many Adventures of Winnie the Pooh egy szelíd sötét lovaglás a Magic Kingdomben, Orlando, Florida, a szeretett történetek alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.58039,
+                        28.419978
+                  ]
+            },
+            {
+                  "name": "\"it's a small world\"",
+                  "text": "Az \"it's a small world\" egy klasszikus csónakázás a Magic Kingdomben, Orlando, Florida, híres fülbemászó daláról.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.582025,
+                        28.420836
+                  ]
+            },
+            {
+                  "name": "Disney Winter Summerland Miniature Golf;Disney winter Summerland mini golf",
+                  "text": "A Disney Winter Summerland Miniature Golf egy beltéri/kültéri minigolfpálya-pár a Walt Disney World-ben, Orlando, Florida, tél és nyár témával.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.574354,
+                        28.353388
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Epic Stunt Spectacular!",
+                  "text": "Az Indiana Jones Epic Stunt Spectacular! egy élő kaszkadőrshow a Disney's Hollywood Studios-ban, Orlando, Florida, amely a filmek jeleneteit eleveníti fel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.558367,
+                        28.35663
+                  ]
+            },
+            {
+                  "name": "Toy Story Mania!",
+                  "text": "A Toy Story Mania! egy interaktív 4D lövöldözős lovaglás a Disney's Hollywood Studios-ban, Orlando, Florida, Toy Story karakterekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.561333,
+                        28.356038
+                  ]
+            },
+            {
+                  "name": "Voyage of the Little Mermaid",
+                  "text": "A Voyage of the Little Mermaid egy élő színpadi show a Disney's Hollywood Studios-ban, Orlando, Florida, amely Ariel történetét meséli el.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.560997,
+                        28.35752
+                  ]
+            },
+            {
+                  "name": "Alien Swirling Saucers",
+                  "text": "Az Alien Swirling Saucers egy pörgő lovaglás a Disney's Hollywood Studios-ban, Orlando, Florida, Toy Story idegenek témájával.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.562732,
+                        28.355647
+                  ]
+            },
+            {
+                  "name": "Theater of the Stars",
+                  "text": "A Theater of the Stars egy élő helyszín a Disney's Hollywood Studios-ban, Orlando, Florida, amely a Beauty and the Beast színpadi show-nak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.559185,
+                        28.359256
+                  ]
+            },
+            {
+                  "name": "Test Track",
+                  "text": "A Test Track egy nagy sebességű lovaglás az Epcot-ban, Orlando, Florida, amely egy autótesztpályát szimulál.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547223,
+                        28.372852
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jedi Training: Trials of the Temple",
+                  "text": "Un spectacol live la Disney's Hollywood Studios unde copiii se antrenează să devină Jedi.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.558722,
+                        28.355712
+                  ]
+            },
+            {
+                  "name": "Astro Orbiter",
+                  "text": "O plimbare cu racheta rotativă la Magic Kingdom în Walt Disney World.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.57915,
+                        28.418425
+                  ]
+            },
+            {
+                  "name": "Ariel's Grotto",
+                  "text": "O zonă de întâlnire cu Ariel la Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.579561,
+                        28.420968
+                  ]
+            },
+            {
+                  "name": "Zootopia: Better Zoogether!",
+                  "text": "Un spectacol de scenă bazat pe Zootopia la Disney's Animal Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.590485,
+                        28.357765
+                  ]
+            },
+            {
+                  "name": "Fantasmic!",
+                  "text": "Un spectacol nocturn cu apă și pirotehnice la Disney's Hollywood Studios.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55831,
+                        28.361213
+                  ]
+            },
+            {
+                  "name": "France Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Franța.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.552731,
+                        28.368992
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Marocul.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551772,
+                        28.368159
+                  ]
+            },
+            {
+                  "name": "The American Adventure Pavilion",
+                  "text": "Un pavilion de spectacol în Epcot care prezintă povestea Americii.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.549379,
+                        28.367781
+                  ]
+            },
+            {
+                  "name": "Germany Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Germania.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.54705,
+                        28.368206
+                  ]
+            },
+            {
+                  "name": "Italy Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Italia.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.548213,
+                        28.36767
+                  ]
+            },
+            {
+                  "name": "Canada Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Canada.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551347,
+                        28.371691
+                  ]
+            },
+            {
+                  "name": "Mexico Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Mexic.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547578,
+                        28.371361
+                  ]
+            },
+            {
+                  "name": "Living With The Land",
+                  "text": "O plimbare cu barca prin sere și acvacultură la Epcot.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55284,
+                        28.373973
+                  ]
+            },
+            {
+                  "name": "United Kingdom Pavilion",
+                  "text": "Un pavilion în World Showcase al Epcot care reprezintă Regatul Unit.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551867,
+                        28.370498
+                  ]
+            },
+            {
+                  "name": "Frozen Ever After",
+                  "text": "O plimbare cu barca bazată pe Frozen în pavilionul Norvegiei de la Epcot.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.546235,
+                        28.370803
+                  ]
+            },
+            {
+                  "name": "Big Thunder Mountain Railroad",
+                  "text": "Un roller coaster cu tren minier la Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.584781,
+                        28.420347
+                  ]
+            },
+            {
+                  "name": "The Magic Carpets of Aladdin",
+                  "text": "O plimbare cu covorul zburător rotativ în Adventureland din Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.583485,
+                        28.41845
+                  ]
+            },
+            {
+                  "name": "The Barnstormer",
+                  "text": "The Barnstormer este un roller coaster de familie la Magic Kingdom din Orlando, Florida, tematizat ca un avion de acrobație.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.578453,
+                        28.420551
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "Space Mountain este un iconic roller coaster interior la Magic Kingdom din Orlando, Florida, care se deplasează prin întuneric.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.577252,
+                        28.419142
+                  ]
+            },
+            {
+                  "name": "The Many Adventures of Winnie the Pooh",
+                  "text": "The Many Adventures of Winnie the Pooh este o plimbare întunecată blândă la Magic Kingdom din Orlando, Florida, bazată pe poveștile îndrăgite.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.58039,
+                        28.419978
+                  ]
+            },
+            {
+                  "name": "\"it's a small world\"",
+                  "text": "\"it's a small world\" este o plimbare clasică cu barca la Magic Kingdom din Orlando, Florida, cunoscută pentru cântecul său captivant.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.582025,
+                        28.420836
+                  ]
+            },
+            {
+                  "name": "Disney Winter Summerland Miniature Golf;Disney winter Summerland mini golf",
+                  "text": "Disney Winter Summerland Miniature Golf este o pereche de terenuri de minigolf interioare/exterioare la Walt Disney World din Orlando, Florida, tematizate iarnă și vară.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.574354,
+                        28.353388
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Epic Stunt Spectacular!",
+                  "text": "Indiana Jones Epic Stunt Spectacular! este un spectacol de cascadorii live la Disney's Hollywood Studios din Orlando, Florida, care reconstituie scene din filme.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.558367,
+                        28.35663
+                  ]
+            },
+            {
+                  "name": "Toy Story Mania!",
+                  "text": "Toy Story Mania! este o plimbare interactivă de tragere 4D la Disney's Hollywood Studios din Orlando, Florida, cu personaje Toy Story.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.561333,
+                        28.356038
+                  ]
+            },
+            {
+                  "name": "Voyage of the Little Mermaid",
+                  "text": "Voyage of the Little Mermaid este un spectacol live pe scenă la Disney's Hollywood Studios din Orlando, Florida, care spune povestea lui Ariel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.560997,
+                        28.35752
+                  ]
+            },
+            {
+                  "name": "Alien Swirling Saucers",
+                  "text": "Alien Swirling Saucers este o plimbare rotativă la Disney's Hollywood Studios din Orlando, Florida, tematizată cu extratereștrii din Toy Story.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.562732,
+                        28.355647
+                  ]
+            },
+            {
+                  "name": "Theater of the Stars",
+                  "text": "Theater of the Stars este o locație live la Disney's Hollywood Studios din Orlando, Florida, care găzduiește spectacolul de scenă Beauty and the Beast.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.559185,
+                        28.359256
+                  ]
+            },
+            {
+                  "name": "Test Track",
+                  "text": "Test Track este o plimbare de mare viteză la Epcot din Orlando, Florida, simulând un circuit de testare auto.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547223,
+                        28.372852
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jedi Training: Trials of the Temple",
+                  "text": "A live show at Disney's Hollywood Studios where children train to become Jedi.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.558722,
+                        28.355712
+                  ]
+            },
+            {
+                  "name": "Astro Orbiter",
+                  "text": "A spinning rocket ride at Magic Kingdom in Walt Disney World.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.57915,
+                        28.418425
+                  ]
+            },
+            {
+                  "name": "Ariel's Grotto",
+                  "text": "A meet-and-greet area with Ariel at Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.579561,
+                        28.420968
+                  ]
+            },
+            {
+                  "name": "Zootopia: Better Zoogether!",
+                  "text": "A stage show based on Zootopia at Disney's Animal Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.590485,
+                        28.357765
+                  ]
+            },
+            {
+                  "name": "Fantasmic!",
+                  "text": "A nighttime water and pyrotechnic show at Disney's Hollywood Studios.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55831,
+                        28.361213
+                  ]
+            },
+            {
+                  "name": "France Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing France.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.552731,
+                        28.368992
+                  ]
+            },
+            {
+                  "name": "Morocco Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing Morocco.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551772,
+                        28.368159
+                  ]
+            },
+            {
+                  "name": "The American Adventure Pavilion",
+                  "text": "A show pavilion in Epcot featuring the story of America.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.549379,
+                        28.367781
+                  ]
+            },
+            {
+                  "name": "Germany Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing Germany.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.54705,
+                        28.368206
+                  ]
+            },
+            {
+                  "name": "Italy Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing Italy.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.548213,
+                        28.36767
+                  ]
+            },
+            {
+                  "name": "Canada Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing Canada.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551347,
+                        28.371691
+                  ]
+            },
+            {
+                  "name": "Mexico Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing Mexico.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547578,
+                        28.371361
+                  ]
+            },
+            {
+                  "name": "Living With The Land",
+                  "text": "A boat ride through greenhouses and aquaculture at Epcot.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.55284,
+                        28.373973
+                  ]
+            },
+            {
+                  "name": "United Kingdom Pavilion",
+                  "text": "A pavilion in Epcot's World Showcase representing the United Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.551867,
+                        28.370498
+                  ]
+            },
+            {
+                  "name": "Frozen Ever After",
+                  "text": "A boat ride based on Frozen at Epcot's Norway Pavilion.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.546235,
+                        28.370803
+                  ]
+            },
+            {
+                  "name": "Big Thunder Mountain Railroad",
+                  "text": "A mine train roller coaster at Magic Kingdom.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.584781,
+                        28.420347
+                  ]
+            },
+            {
+                  "name": "The Magic Carpets of Aladdin",
+                  "text": "A spinning carpet ride at Magic Kingdom's Adventureland.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.583485,
+                        28.41845
+                  ]
+            },
+            {
+                  "name": "The Barnstormer",
+                  "text": "The Barnstormer is a family roller coaster at Magic Kingdom in Orlando, Florida, themed to a barnstorming airplane.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.578453,
+                        28.420551
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "Space Mountain is an iconic indoor roller coaster at Magic Kingdom in Orlando, Florida, riding through the dark.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.577252,
+                        28.419142
+                  ]
+            },
+            {
+                  "name": "The Many Adventures of Winnie the Pooh",
+                  "text": "The Many Adventures of Winnie the Pooh is a gentle dark ride at Magic Kingdom in Orlando, Florida, based on the beloved stories.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.58039,
+                        28.419978
+                  ]
+            },
+            {
+                  "name": "\"it's a small world\"",
+                  "text": "\"it's a small world\" is a classic boat ride at Magic Kingdom in Orlando, Florida, known for its catchy song.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.582025,
+                        28.420836
+                  ]
+            },
+            {
+                  "name": "Disney Winter Summerland Miniature Golf;Disney winter Summerland mini golf",
+                  "text": "Disney Winter Summerland Miniature Golf is a pair of indoor/outdoor mini-golf courses at Walt Disney World in Orlando, Florida, themed to winter and summer.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.574354,
+                        28.353388
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Epic Stunt Spectacular!",
+                  "text": "Indiana Jones Epic Stunt Spectacular! is a live stunt show at Disney's Hollywood Studios in Orlando, Florida, recreating scenes from the films.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.558367,
+                        28.35663
+                  ]
+            },
+            {
+                  "name": "Toy Story Mania!",
+                  "text": "Toy Story Mania! is an interactive 4D shooting ride at Disney's Hollywood Studios in Orlando, Florida, featuring Toy Story characters.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.561333,
+                        28.356038
+                  ]
+            },
+            {
+                  "name": "Voyage of the Little Mermaid",
+                  "text": "Voyage of the Little Mermaid is a live stage show at Disney's Hollywood Studios in Orlando, Florida, telling the story of Ariel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.560997,
+                        28.35752
+                  ]
+            },
+            {
+                  "name": "Alien Swirling Saucers",
+                  "text": "Alien Swirling Saucers is a spinning ride at Disney's Hollywood Studios in Orlando, Florida, themed to Toy Story aliens.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.562732,
+                        28.355647
+                  ]
+            },
+            {
+                  "name": "Theater of the Stars",
+                  "text": "Theater of the Stars is a live venue at Disney's Hollywood Studios in Orlando, Florida, hosting the Beauty and the Beast stage show.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.559185,
+                        28.359256
+                  ]
+            },
+            {
+                  "name": "Test Track",
+                  "text": "Test Track is a high-speed ride at Epcot in Orlando, Florida, simulating a car test track.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.547223,
+                        28.372852
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-FL",
     coords: [-81.5639, 28.3852],
@@ -111,7 +2370,88 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "everglades-national-park-life-v2",
+    id: "everglades-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marjory Stoneman Douglas Wilderness",
+                  "text": "Marjory Stoneman Douglas Wilderness ist ein Naturschutzgebiet in den Everglades, benannt nach der Naturschützerin.",
+                  "category": "natural",
+                  "coords": [
+                        -80.897733,
+                        25.339103
+                  ]
+            },
+            {
+                  "name": "Everglades-Nationalpark",
+                  "text": "Everglades National Park ist ein Naturschutzgebiet, das eine einzigartige subtropische Wildnis schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -80.882618,
+                        25.372755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marjory Stoneman Douglas Wilderness",
+                  "text": "Marjory Stoneman Douglas Wilderness egy természetvédelmi terület az Evergladesben, a természetvédőről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -80.897733,
+                        25.339103
+                  ]
+            },
+            {
+                  "name": "Everglades National Park",
+                  "text": "Everglades National Park egy természetvédelmi terület, amely egyedülálló szubtrópusi vadont véd.",
+                  "category": "natural",
+                  "coords": [
+                        -80.882618,
+                        25.372755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marjory Stoneman Douglas Wilderness",
+                  "text": "Marjory Stoneman Douglas Wilderness este o rezervație naturală în Everglades, numită după conservaționistă.",
+                  "category": "natural",
+                  "coords": [
+                        -80.897733,
+                        25.339103
+                  ]
+            },
+            {
+                  "name": "Parcul Național Everglades",
+                  "text": "Everglades National Park este o rezervație naturală care protejează o sălbăticie subtropicală unică.",
+                  "category": "natural",
+                  "coords": [
+                        -80.882618,
+                        25.372755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marjory Stoneman Douglas Wilderness",
+                  "text": "Marjory Stoneman Douglas Wilderness is a nature reserve in the Everglades area named after the conservationist.",
+                  "category": "natural",
+                  "coords": [
+                        -80.897733,
+                        25.339103
+                  ]
+            },
+            {
+                  "name": "Everglades National Park",
+                  "text": "Everglades National Park is a nature reserve protecting a unique subtropical wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -80.882618,
+                        25.372755
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-FL",
     coords: [-80.9325, 25.3220],
@@ -147,7 +2487,1312 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "central-park-zoo-life-v2",
+    id: "central-park-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum of the Moving Image",
+                  "text": "Museum in New York City, das sich der Kunst, Geschichte und Technologie von Film und Fernsehen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -73.924007,
+                        40.756195
+                  ]
+            },
+            {
+                  "name": "Hayden Planetarium",
+                  "text": "Teil des Rose Center für Erd und Weltraum, bekannt für sein kugelförmiges Theater.",
+                  "category": "museum",
+                  "coords": [
+                        -73.973321,
+                        40.781397
+                  ]
+            },
+            {
+                  "name": "American Folk Art Museum",
+                  "text": "Museum in New York City, das sich der Erhaltung und Ausstellung amerikanischer Volkskunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981596,
+                        40.77323
+                  ]
+            },
+            {
+                  "name": "The Africa Center",
+                  "text": "Kulturelle Einrichtung in New York City, die sich auf zeitgenössische afrikanische Kunst und Kultur konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.949334,
+                        40.796342
+                  ]
+            },
+            {
+                  "name": "Museum of Arts and Design",
+                  "text": "Museum in New York City, das zeitgenössische Kunst, Design und Handwerk präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981981,
+                        40.767401
+                  ]
+            },
+            {
+                  "name": "Louis Armstrong House Museum",
+                  "text": "Museum in New York City, das das ehemalige Zuhause des Jazzlegenden Louis Armstrong bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.861527,
+                        40.754576
+                  ]
+            },
+            {
+                  "name": "Cooper–Hewitt, Smithsonian Design Museum",
+                  "text": "Designmuseum untergebracht in der ehemaligen Andrew Carnegie Mansion.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957758,
+                        40.784311
+                  ]
+            },
+            {
+                  "name": "The Noguchi Museum",
+                  "text": "Museum, das vom Bildhauer Isamu Noguchi gegründet wurde und seine Werke sowie einen Skulpturengarten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.93777,
+                        40.766847
+                  ]
+            },
+            {
+                  "name": "Mount Vernon Hotel Museum",
+                  "text": "Historisches Hausmuseum in Manhattan, ursprünglich ein Hotel aus dem 19. Jahrhundert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.959713,
+                        40.760522
+                  ]
+            },
+            {
+                  "name": "Asia Society",
+                  "text": "Kulturelle Organisation in New York City, die das Verständnis für Asien durch Kunst und Veranstaltungen fördert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.964291,
+                        40.769838
+                  ]
+            },
+            {
+                  "name": "Frick Collection",
+                  "text": "Kunstmuseum im ehemaligen Frick-Anwesen, das Meisterwerke der Alten Meister zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.967168,
+                        40.771259
+                  ]
+            },
+            {
+                  "name": "The Metropolitan Museum of Art",
+                  "text": "Eines der größten und renommiertesten Kunstmuseen der Welt an der Fifth Avenue.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963434,
+                        40.779436
+                  ]
+            },
+            {
+                  "name": "Neue Galerie New York",
+                  "text": "Museum in New York City, das sich auf deutsche und österreichische Kunst und Design des frühen 20. Jahrhunderts spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        -73.960236,
+                        40.781221
+                  ]
+            },
+            {
+                  "name": "Guggenheim Museum",
+                  "text": "Ikonisches Museum, entworfen von Frank Lloyd Wright, bekannt für seine spiralförmige Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        -73.958889,
+                        40.78299
+                  ]
+            },
+            {
+                  "name": "Belvedere Castle",
+                  "text": "Schlossähnliches Bauwerk im Central Park, das einen Panoramablick bietet.",
+                  "category": "castle",
+                  "coords": [
+                        -73.968886,
+                        40.779326
+                  ]
+            },
+            {
+                  "name": "New-York Historical Society",
+                  "text": "Ältestes Museum in New York City, das der amerikanischen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -73.974249,
+                        40.779281
+                  ]
+            },
+            {
+                  "name": "General Grant National Memorial",
+                  "text": "Auch als Grant's Tomb bekannt, die letzte Ruhestätte von Präsident Ulysses S. Grant.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963051,
+                        40.813454
+                  ]
+            },
+            {
+                  "name": "The Jewish Museum",
+                  "text": "Museum in New York City, das der jüdischen Kunst und Kultur gewidmet ist und sich auf der Museum Mile befindet.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957186,
+                        40.785405
+                  ]
+            },
+            {
+                  "name": "El Museo Del Barrio",
+                  "text": "Museum in East Harlem, das sich auf lateinamerikanische und karibische Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.951366,
+                        40.793094
+                  ]
+            },
+            {
+                  "name": "Temple of Dendur",
+                  "text": "Altägyptischer Tempel, der im Metropolitan Museum of Art wiederaufgebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -73.962645,
+                        40.780447
+                  ]
+            },
+            {
+                  "name": "USS Maine Monument",
+                  "text": "Denkmal zur Erinnerung an das Schlachtschiff USS Maine und den Spanisch-Amerikanischen Krieg.",
+                  "category": "historical",
+                  "coords": [
+                        -73.980986,
+                        40.768245
+                  ]
+            },
+            {
+                  "name": "Payne Whitney House",
+                  "text": "Historisches Herrenhaus an der Fifth Avenue, heute Sitz der kulturellen Organisation Americas Society.",
+                  "category": "historical",
+                  "coords": [
+                        -73.96366,
+                        40.776565
+                  ]
+            },
+            {
+                  "name": "Soldiers' and Sailors' Monument",
+                  "text": "Denkmal im Riverside Park zu Ehren der Unionssoldaten des Bürgerkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        -73.978928,
+                        40.792096
+                  ]
+            },
+            {
+                  "name": "Comic Strip Live",
+                  "text": "Comedy-Club in Manhattan, bekannt dafür, viele Karrieren von Comedians gestartet zu haben.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.953696,
+                        40.774858
+                  ]
+            },
+            {
+                  "name": "Saint Stephen of Hungary Church",
+                  "text": "Römisch-katholische Kirche in New York City, die der ungarischen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950541,
+                        40.773802
+                  ]
+            },
+            {
+                  "name": "Vivian Beaumont Theater",
+                  "text": "Das Vivian Beaumont Theater ist ein Broadway-Theater in central-park-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.984801,
+                        40.773677
+                  ]
+            },
+            {
+                  "name": "Delacorte Theater",
+                  "text": "Das Delacorte Theater ist ein Freilufttheater in central-park-zoo-life-v2, bekannt für Shakespeare in the Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.968813,
+                        40.780272
+                  ]
+            },
+            {
+                  "name": "Trinity Lutheran Church",
+                  "text": "Die Trinity Lutheran Church ist eine lutherische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.919181,
+                        40.761879
+                  ]
+            },
+            {
+                  "name": "Brick Presbyterian Church",
+                  "text": "Die Brick Presbyterian Church ist eine presbyterianische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.955173,
+                        40.783733
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas More",
+                  "text": "Die Church of Saint Thomas More ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956728,
+                        40.782771
+                  ]
+            },
+            {
+                  "name": "Park Avenue Synagogue",
+                  "text": "Die Park Avenue Synagogue ist eine jüdische Synagoge in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957942,
+                        40.781116
+                  ]
+            },
+            {
+                  "name": "Our Lady of Good Counsel Catholic Church",
+                  "text": "Die Our Lady of Good Counsel Catholic Church ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950963,
+                        40.780644
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Die Church of the Holy Trinity ist eine episkopale Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.949552,
+                        40.778339
+                  ]
+            },
+            {
+                  "name": "Zion Saint Mark's Church",
+                  "text": "Die Zion Saint Mark's Church ist eine evangelisch-lutherische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.951044,
+                        40.776115
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Trinity",
+                  "text": "Die Cathedral of the Holy Trinity ist eine griechisch-orthodoxe Kathedrale in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956122,
+                        40.769822
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Siena Church",
+                  "text": "Die St. Catherine of Siena Church ist eine katholische Kirche in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957029,
+                        40.765323
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum of the Moving Image",
+                  "text": "New York-i múzeum, amely a film és televízió művészetének, történetének és technológiájának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.924007,
+                        40.756195
+                  ]
+            },
+            {
+                  "name": "Hayden Planetarium",
+                  "text": "A Rose Center for Earth and Space része, híres gömb alakú színházáról.",
+                  "category": "museum",
+                  "coords": [
+                        -73.973321,
+                        40.781397
+                  ]
+            },
+            {
+                  "name": "American Folk Art Museum",
+                  "text": "New York-i múzeum, amely az amerikai népművészet megőrzésére és bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981596,
+                        40.77323
+                  ]
+            },
+            {
+                  "name": "The Africa Center",
+                  "text": "New York-i kulturális intézmény, amely a kortárs afrikai művészetre és kultúrára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -73.949334,
+                        40.796342
+                  ]
+            },
+            {
+                  "name": "Museum of Arts and Design",
+                  "text": "New York-i múzeum, amely kortárs művészetet, formatervezést és kézművességet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981981,
+                        40.767401
+                  ]
+            },
+            {
+                  "name": "Louis Armstrong House Museum",
+                  "text": "New York-i múzeum, amely Louis Armstrong jazzlegenda egykori otthonát őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -73.861527,
+                        40.754576
+                  ]
+            },
+            {
+                  "name": "Cooper–Hewitt, Smithsonian Design Museum",
+                  "text": "Formatervezési múzeum az egykori Andrew Carnegie-kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957758,
+                        40.784311
+                  ]
+            },
+            {
+                  "name": "The Noguchi Museum",
+                  "text": "Az Isamu Noguchi szobrász által alapított múzeum, amely műveit és egy szoborkertet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -73.93777,
+                        40.766847
+                  ]
+            },
+            {
+                  "name": "Mount Vernon Hotel Museum",
+                  "text": "Történelmi házmúzeum Manhattanben, amely eredetileg egy 19. századi szálloda volt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.959713,
+                        40.760522
+                  ]
+            },
+            {
+                  "name": "Asia Society",
+                  "text": "New York-i kulturális szervezet, amely művészeten és eseményeken keresztül segíti Ázsia megértését.",
+                  "category": "museum",
+                  "coords": [
+                        -73.964291,
+                        40.769838
+                  ]
+            },
+            {
+                  "name": "Frick Collection",
+                  "text": "Művészeti múzeum az egykori Frick-birtokon, régi mesterek remekműveivel.",
+                  "category": "museum",
+                  "coords": [
+                        -73.967168,
+                        40.771259
+                  ]
+            },
+            {
+                  "name": "The Metropolitan Museum of Art",
+                  "text": "A világ egyik legnagyobb és legtekintélyesebb művészeti múzeuma az Ötödik sugárúton.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963434,
+                        40.779436
+                  ]
+            },
+            {
+                  "name": "Neue Galerie New York",
+                  "text": "New York-i múzeum, amely a 20. század eleji német és osztrák művészetre és formatervezésre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        -73.960236,
+                        40.781221
+                  ]
+            },
+            {
+                  "name": "Guggenheim Museum",
+                  "text": "Ikonikus múzeum, Frank Lloyd Wright tervezte, híres spirál alakú építészetéről.",
+                  "category": "museum",
+                  "coords": [
+                        -73.958889,
+                        40.78299
+                  ]
+            },
+            {
+                  "name": "Belvedere Castle",
+                  "text": "Kastélyszerű építmény a Central Parkban, panorámás kilátással.",
+                  "category": "castle",
+                  "coords": [
+                        -73.968886,
+                        40.779326
+                  ]
+            },
+            {
+                  "name": "New-York Historical Society",
+                  "text": "New York City legrégebbi múzeuma, amely az amerikai történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.974249,
+                        40.779281
+                  ]
+            },
+            {
+                  "name": "General Grant National Memorial",
+                  "text": "Grant's Tomb néven is ismert, Ulysses S. Grant elnök végső nyughelye.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963051,
+                        40.813454
+                  ]
+            },
+            {
+                  "name": "The Jewish Museum",
+                  "text": "New York-i múzeum, amely a zsidó művészet és kultúra számára van szentelve, a Museum Mile-on található.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957186,
+                        40.785405
+                  ]
+            },
+            {
+                  "name": "El Museo Del Barrio",
+                  "text": "Múzeum a kelet-harlemi részben, amely a latin-amerikai és karibi művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -73.951366,
+                        40.793094
+                  ]
+            },
+            {
+                  "name": "Temple of Dendur",
+                  "text": "Ókori egyiptomi templom, amelyet a Metropolitan Művészeti Múzeumban építettek újra.",
+                  "category": "historical",
+                  "coords": [
+                        -73.962645,
+                        40.780447
+                  ]
+            },
+            {
+                  "name": "USS Maine Monument",
+                  "text": "Emlékmű az USS Maine csatahajó és a spanyol-amerikai háború emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -73.980986,
+                        40.768245
+                  ]
+            },
+            {
+                  "name": "Payne Whitney House",
+                  "text": "Történelmi kúria az Ötödik sugárúton, jelenleg az Americas Society kulturális szervezet székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -73.96366,
+                        40.776565
+                  ]
+            },
+            {
+                  "name": "Soldiers' and Sailors' Monument",
+                  "text": "Emlékmű a Riverside Parkban az amerikai polgárháború uniós katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -73.978928,
+                        40.792096
+                  ]
+            },
+            {
+                  "name": "Comic Strip Live",
+                  "text": "Komédia klub Manhattanben, amely számos humorista karrierjét indította el.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.953696,
+                        40.774858
+                  ]
+            },
+            {
+                  "name": "Saint Stephen of Hungary Church",
+                  "text": "Római katolikus templom New Yorkban, amely a magyar közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950541,
+                        40.773802
+                  ]
+            },
+            {
+                  "name": "Vivian Beaumont Theater",
+                  "text": "A Vivian Beaumont Színház egy Broadway színház a central-park-zoo-life-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.984801,
+                        40.773677
+                  ]
+            },
+            {
+                  "name": "Delacorte Theater",
+                  "text": "A Delacorte Színház egy szabadtéri színház a central-park-zoo-life-v2-ben, amely a Shakespeare in the Park otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.968813,
+                        40.780272
+                  ]
+            },
+            {
+                  "name": "Trinity Lutheran Church",
+                  "text": "A Trinity Lutheran Church egy evangélikus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.919181,
+                        40.761879
+                  ]
+            },
+            {
+                  "name": "Brick Presbyterian Church",
+                  "text": "A Brick Presbyterian Church egy presbiteriánus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.955173,
+                        40.783733
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas More",
+                  "text": "A Church of Saint Thomas More egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956728,
+                        40.782771
+                  ]
+            },
+            {
+                  "name": "Park Avenue Synagogue",
+                  "text": "A Park Avenue Synagogue egy zsinagóga a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957942,
+                        40.781116
+                  ]
+            },
+            {
+                  "name": "Our Lady of Good Counsel Catholic Church",
+                  "text": "A Our Lady of Good Counsel Catholic Church egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950963,
+                        40.780644
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A Church of the Holy Trinity egy episzkopális templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.949552,
+                        40.778339
+                  ]
+            },
+            {
+                  "name": "Zion Saint Mark's Church",
+                  "text": "A Zion Saint Mark's Church egy evangélikus lutheránus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.951044,
+                        40.776115
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Trinity",
+                  "text": "A Cathedral of the Holy Trinity egy görög ortodox katedrális a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956122,
+                        40.769822
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Siena Church",
+                  "text": "A St. Catherine of Siena Church egy katolikus templom a central-park-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957029,
+                        40.765323
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum of the Moving Image",
+                  "text": "Muzeu în New York City dedicat artei, istoriei și tehnologiei filmului și televiziunii.",
+                  "category": "museum",
+                  "coords": [
+                        -73.924007,
+                        40.756195
+                  ]
+            },
+            {
+                  "name": "Hayden Planetarium",
+                  "text": "Parte a Rose Center for Earth and Space, renumit pentru teatrul său sferic.",
+                  "category": "museum",
+                  "coords": [
+                        -73.973321,
+                        40.781397
+                  ]
+            },
+            {
+                  "name": "American Folk Art Museum",
+                  "text": "Muzeu în New York City dedicat conservării și expunerii artei populare americane.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981596,
+                        40.77323
+                  ]
+            },
+            {
+                  "name": "The Africa Center",
+                  "text": "Instituție culturală din New York City concentrată pe arta și cultura contemporană africană.",
+                  "category": "museum",
+                  "coords": [
+                        -73.949334,
+                        40.796342
+                  ]
+            },
+            {
+                  "name": "Museum of Arts and Design",
+                  "text": "Muzeu în New York City care prezintă artă contemporană, design și meșteșuguri.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981981,
+                        40.767401
+                  ]
+            },
+            {
+                  "name": "Louis Armstrong House Museum",
+                  "text": "Muzeu în New York City care păstrează fosta casă a legendei jazz-ului Louis Armstrong.",
+                  "category": "museum",
+                  "coords": [
+                        -73.861527,
+                        40.754576
+                  ]
+            },
+            {
+                  "name": "Cooper–Hewitt, Smithsonian Design Museum",
+                  "text": "Muzeu de design găzduit în fosta conacă Andrew Carnegie.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957758,
+                        40.784311
+                  ]
+            },
+            {
+                  "name": "The Noguchi Museum",
+                  "text": "Muzeu fondat de sculptorul Isamu Noguchi, care prezintă lucrările sale și o grădină de sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        -73.93777,
+                        40.766847
+                  ]
+            },
+            {
+                  "name": "Mount Vernon Hotel Museum",
+                  "text": "Muzeu al casei istorice din Manhattan, inițial un hotel din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -73.959713,
+                        40.760522
+                  ]
+            },
+            {
+                  "name": "Asia Society",
+                  "text": "Organizație culturală din New York City care promovează înțelegerea Asiei prin artă și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        -73.964291,
+                        40.769838
+                  ]
+            },
+            {
+                  "name": "Frick Collection",
+                  "text": "Muzeu de artă găzduit în fosta reședință Frick, cu capodopere ale marilor maeștri.",
+                  "category": "museum",
+                  "coords": [
+                        -73.967168,
+                        40.771259
+                  ]
+            },
+            {
+                  "name": "The Metropolitan Museum of Art",
+                  "text": "Unul dintre cele mai mari și mai prestigioase muzee de artă din lume, pe Fifth Avenue.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963434,
+                        40.779436
+                  ]
+            },
+            {
+                  "name": "Neue Galerie New York",
+                  "text": "Muzeu în New York City specializat în arta și designul german și austriac de la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        -73.960236,
+                        40.781221
+                  ]
+            },
+            {
+                  "name": "Guggenheim Museum",
+                  "text": "Muzeu iconic proiectat de Frank Lloyd Wright, cunoscut pentru arhitectura sa în formă de spirală.",
+                  "category": "museum",
+                  "coords": [
+                        -73.958889,
+                        40.78299
+                  ]
+            },
+            {
+                  "name": "Belvedere Castle",
+                  "text": "Structură asemănătoare unui castel din Central Park, care oferă vederi panoramice.",
+                  "category": "castle",
+                  "coords": [
+                        -73.968886,
+                        40.779326
+                  ]
+            },
+            {
+                  "name": "New-York Historical Society",
+                  "text": "Cel mai vechi muzeu din New York City, dedicat istoriei americane.",
+                  "category": "museum",
+                  "coords": [
+                        -73.974249,
+                        40.779281
+                  ]
+            },
+            {
+                  "name": "General Grant National Memorial",
+                  "text": "Cunoscut și ca Grant's Tomb, locul de odihnă final al președintelui Ulysses S. Grant.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963051,
+                        40.813454
+                  ]
+            },
+            {
+                  "name": "The Jewish Museum",
+                  "text": "Muzeu din New York City dedicat artei și culturii evreiești, situat pe Museum Mile.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957186,
+                        40.785405
+                  ]
+            },
+            {
+                  "name": "El Museo Del Barrio",
+                  "text": "Muzeu în East Harlem, concentrat pe arta latino-americană și caraibiană.",
+                  "category": "museum",
+                  "coords": [
+                        -73.951366,
+                        40.793094
+                  ]
+            },
+            {
+                  "name": "Temple of Dendur",
+                  "text": "Templu egiptean antic reconstruit la Muzeul Metropolitan de Artă.",
+                  "category": "historical",
+                  "coords": [
+                        -73.962645,
+                        40.780447
+                  ]
+            },
+            {
+                  "name": "USS Maine Monument",
+                  "text": "Monument care comemorează nava de luptă USS Maine și războiul hispano-american.",
+                  "category": "historical",
+                  "coords": [
+                        -73.980986,
+                        40.768245
+                  ]
+            },
+            {
+                  "name": "Payne Whitney House",
+                  "text": "Conac istoric pe Fifth Avenue, acum sediul organizației culturale Americas Society.",
+                  "category": "historical",
+                  "coords": [
+                        -73.96366,
+                        40.776565
+                  ]
+            },
+            {
+                  "name": "Soldiers' and Sailors' Monument",
+                  "text": "Monument în Riverside Park în onoarea soldaților Uniunii din Războiul Civil.",
+                  "category": "historical",
+                  "coords": [
+                        -73.978928,
+                        40.792096
+                  ]
+            },
+            {
+                  "name": "Comic Strip Live",
+                  "text": "Club de comedie în Manhattan, cunoscut pentru lansarea carierelor multor comici.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.953696,
+                        40.774858
+                  ]
+            },
+            {
+                  "name": "Saint Stephen of Hungary Church",
+                  "text": "Biserică romano-catolică în New York City care deservește comunitatea maghiară.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950541,
+                        40.773802
+                  ]
+            },
+            {
+                  "name": "Vivian Beaumont Theater",
+                  "text": "Teatrul Vivian Beaumont este un teatru Broadway în central-park-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.984801,
+                        40.773677
+                  ]
+            },
+            {
+                  "name": "Delacorte Theater",
+                  "text": "Teatrul Delacorte este un teatru în aer liber în central-park-zoo-life-v2, cunoscut pentru Shakespeare in the Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.968813,
+                        40.780272
+                  ]
+            },
+            {
+                  "name": "Trinity Lutheran Church",
+                  "text": "Biserica Trinity Lutheran este o biserică luterană în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.919181,
+                        40.761879
+                  ]
+            },
+            {
+                  "name": "Brick Presbyterian Church",
+                  "text": "Biserica Brick Presbyterian este o biserică prezbiteriană în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.955173,
+                        40.783733
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas More",
+                  "text": "Biserica Sfântul Toma Morus este o biserică catolică în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956728,
+                        40.782771
+                  ]
+            },
+            {
+                  "name": "Park Avenue Synagogue",
+                  "text": "Sinagoga Park Avenue este o sinagogă evreiască în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957942,
+                        40.781116
+                  ]
+            },
+            {
+                  "name": "Our Lady of Good Counsel Catholic Church",
+                  "text": "Biserica Catolică Our Lady of Good Counsel este o biserică catolică în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950963,
+                        40.780644
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Biserica Sfintei Treimi este o biserică episcopală în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.949552,
+                        40.778339
+                  ]
+            },
+            {
+                  "name": "Zion Saint Mark's Church",
+                  "text": "Biserica Zion Saint Mark's este o biserică evanghelică luterană în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.951044,
+                        40.776115
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Trinity",
+                  "text": "Catedrala Sfintei Treimi este o catedrală greco-ortodoxă în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956122,
+                        40.769822
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Siena Church",
+                  "text": "Biserica Sfânta Ecaterina din Siena este o biserică catolică în central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957029,
+                        40.765323
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Moving Image",
+                  "text": "Museum in New York City dedicated to the art, history, and technology of film and television.",
+                  "category": "museum",
+                  "coords": [
+                        -73.924007,
+                        40.756195
+                  ]
+            },
+            {
+                  "name": "Hayden Planetarium",
+                  "text": "Part of the Rose Center for Earth and Space, famous for its spherical theater.",
+                  "category": "museum",
+                  "coords": [
+                        -73.973321,
+                        40.781397
+                  ]
+            },
+            {
+                  "name": "American Folk Art Museum",
+                  "text": "Museum in New York City focused on preserving and exhibiting American folk art.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981596,
+                        40.77323
+                  ]
+            },
+            {
+                  "name": "The Africa Center",
+                  "text": "Cultural institution in New York City focused on contemporary African art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -73.949334,
+                        40.796342
+                  ]
+            },
+            {
+                  "name": "Museum of Arts and Design",
+                  "text": "Museum in New York City showcasing contemporary art, design, and craft.",
+                  "category": "museum",
+                  "coords": [
+                        -73.981981,
+                        40.767401
+                  ]
+            },
+            {
+                  "name": "Louis Armstrong House Museum",
+                  "text": "Museum in New York City preserving the former home of jazz legend Louis Armstrong.",
+                  "category": "museum",
+                  "coords": [
+                        -73.861527,
+                        40.754576
+                  ]
+            },
+            {
+                  "name": "Cooper–Hewitt, Smithsonian Design Museum",
+                  "text": "Design museum housed in the former Andrew Carnegie Mansion.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957758,
+                        40.784311
+                  ]
+            },
+            {
+                  "name": "The Noguchi Museum",
+                  "text": "Museum founded by sculptor Isamu Noguchi, displaying his works and a sculpture garden.",
+                  "category": "museum",
+                  "coords": [
+                        -73.93777,
+                        40.766847
+                  ]
+            },
+            {
+                  "name": "Mount Vernon Hotel Museum",
+                  "text": "Historic house museum in Manhattan, originally a 19th-century hotel.",
+                  "category": "museum",
+                  "coords": [
+                        -73.959713,
+                        40.760522
+                  ]
+            },
+            {
+                  "name": "Asia Society",
+                  "text": "Cultural organization in New York City promoting understanding of Asia through art and events.",
+                  "category": "museum",
+                  "coords": [
+                        -73.964291,
+                        40.769838
+                  ]
+            },
+            {
+                  "name": "Frick Collection",
+                  "text": "Art museum housed in the former Frick mansion, featuring Old Master paintings.",
+                  "category": "museum",
+                  "coords": [
+                        -73.967168,
+                        40.771259
+                  ]
+            },
+            {
+                  "name": "The Metropolitan Museum of Art",
+                  "text": "One of the world's largest and most prestigious art museums, located on Fifth Avenue.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963434,
+                        40.779436
+                  ]
+            },
+            {
+                  "name": "Neue Galerie New York",
+                  "text": "Museum in New York City specializing in early 20th-century German and Austrian art and design.",
+                  "category": "museum",
+                  "coords": [
+                        -73.960236,
+                        40.781221
+                  ]
+            },
+            {
+                  "name": "Guggenheim Museum",
+                  "text": "Iconic museum designed by Frank Lloyd Wright, known for its spiral architecture.",
+                  "category": "museum",
+                  "coords": [
+                        -73.958889,
+                        40.78299
+                  ]
+            },
+            {
+                  "name": "Belvedere Castle",
+                  "text": "Castle-like structure in Central Park offering panoramic views.",
+                  "category": "castle",
+                  "coords": [
+                        -73.968886,
+                        40.779326
+                  ]
+            },
+            {
+                  "name": "New-York Historical Society",
+                  "text": "Oldest museum in New York City, dedicated to American history.",
+                  "category": "museum",
+                  "coords": [
+                        -73.974249,
+                        40.779281
+                  ]
+            },
+            {
+                  "name": "General Grant National Memorial",
+                  "text": "Also known as Grant's Tomb, the final resting place of President Ulysses S. Grant.",
+                  "category": "museum",
+                  "coords": [
+                        -73.963051,
+                        40.813454
+                  ]
+            },
+            {
+                  "name": "The Jewish Museum",
+                  "text": "Museum in New York City dedicated to Jewish art and culture, located on Museum Mile.",
+                  "category": "museum",
+                  "coords": [
+                        -73.957186,
+                        40.785405
+                  ]
+            },
+            {
+                  "name": "El Museo Del Barrio",
+                  "text": "Museum in East Harlem focused on Latin American and Caribbean art.",
+                  "category": "museum",
+                  "coords": [
+                        -73.951366,
+                        40.793094
+                  ]
+            },
+            {
+                  "name": "Temple of Dendur",
+                  "text": "Ancient Egyptian temple reconstructed at the Metropolitan Museum of Art.",
+                  "category": "historical",
+                  "coords": [
+                        -73.962645,
+                        40.780447
+                  ]
+            },
+            {
+                  "name": "USS Maine Monument",
+                  "text": "Monument commemorating the battleship USS Maine and the Spanish-American War.",
+                  "category": "historical",
+                  "coords": [
+                        -73.980986,
+                        40.768245
+                  ]
+            },
+            {
+                  "name": "Payne Whitney House",
+                  "text": "Historic mansion on Fifth Avenue, now home to the cultural organization Americas Society.",
+                  "category": "historical",
+                  "coords": [
+                        -73.96366,
+                        40.776565
+                  ]
+            },
+            {
+                  "name": "Soldiers' and Sailors' Monument",
+                  "text": "Monument in Riverside Park honoring Union soldiers of the Civil War.",
+                  "category": "historical",
+                  "coords": [
+                        -73.978928,
+                        40.792096
+                  ]
+            },
+            {
+                  "name": "Comic Strip Live",
+                  "text": "Comedy club in Manhattan known for launching many comedians' careers.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.953696,
+                        40.774858
+                  ]
+            },
+            {
+                  "name": "Saint Stephen of Hungary Church",
+                  "text": "Roman Catholic church in New York City serving the Hungarian community.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950541,
+                        40.773802
+                  ]
+            },
+            {
+                  "name": "Vivian Beaumont Theater",
+                  "text": "The Vivian Beaumont Theater is a Broadway theatre in central-park-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.984801,
+                        40.773677
+                  ]
+            },
+            {
+                  "name": "Delacorte Theater",
+                  "text": "The Delacorte Theater is an open-air theatre in central-park-zoo-life-v2, known for Shakespeare in the Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.968813,
+                        40.780272
+                  ]
+            },
+            {
+                  "name": "Trinity Lutheran Church",
+                  "text": "Trinity Lutheran Church is a Lutheran church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.919181,
+                        40.761879
+                  ]
+            },
+            {
+                  "name": "Brick Presbyterian Church",
+                  "text": "Brick Presbyterian Church is a Presbyterian church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.955173,
+                        40.783733
+                  ]
+            },
+            {
+                  "name": "Church of Saint Thomas More",
+                  "text": "Church of Saint Thomas More is a Catholic church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956728,
+                        40.782771
+                  ]
+            },
+            {
+                  "name": "Park Avenue Synagogue",
+                  "text": "Park Avenue Synagogue is a Jewish synagogue in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957942,
+                        40.781116
+                  ]
+            },
+            {
+                  "name": "Our Lady of Good Counsel Catholic Church",
+                  "text": "Our Lady of Good Counsel Catholic Church is a Catholic church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.950963,
+                        40.780644
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "Church of the Holy Trinity is an Episcopal church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.949552,
+                        40.778339
+                  ]
+            },
+            {
+                  "name": "Zion Saint Mark's Church",
+                  "text": "Zion Saint Mark's Church is an Evangelical Lutheran church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.951044,
+                        40.776115
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Holy Trinity",
+                  "text": "Cathedral of the Holy Trinity is a Greek Orthodox cathedral in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.956122,
+                        40.769822
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Siena Church",
+                  "text": "St. Catherine of Siena Church is a Catholic church in central-park-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.957029,
+                        40.765323
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-NY",
     coords: [-73.9714, 40.7678],
@@ -183,7 +3828,1312 @@ export const poiExtraUsaLifeV2: POI[] = [
     }
   },
   {
-    id: "napa-valley-vineyards-life-v2",
+    id: "napa-valley-vineyards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Coyote Peak",
+                  "text": "Coyote Peak ist ein Gipfel im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.537955,
+                        38.54289
+                  ]
+            },
+            {
+                  "name": "Mount Hood",
+                  "text": "Mount Hood ist ein Gipfel im Napa Valley, Teil der Mayacamas Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -122.554149,
+                        38.45991
+                  ]
+            },
+            {
+                  "name": "Gunsight Rock",
+                  "text": "Gunsight Rock ist ein Aussichtspunkt im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.556871,
+                        38.456401
+                  ]
+            },
+            {
+                  "name": "Silverado Museum",
+                  "text": "Das Silverado Museum ist ein Museum im Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469488,
+                        38.50765
+                  ]
+            },
+            {
+                  "name": "Saint Helena Catholic Church",
+                  "text": "Die Saint Helena Catholic Church ist eine katholische Kirche im Napa Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -122.470161,
+                        38.503652
+                  ]
+            },
+            {
+                  "name": "Brushy Peaks",
+                  "text": "Brushy Peaks sind zwei Gipfel im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.481925,
+                        38.447966
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain ist ein Gipfel im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509523,
+                        38.457398
+                  ]
+            },
+            {
+                  "name": "Red Mountain",
+                  "text": "Red Mountain ist ein Gipfel im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509981,
+                        38.45241
+                  ]
+            },
+            {
+                  "name": "Welcome to Napa Valley Sign",
+                  "text": "Das Welcome to Napa Valley Sign ist ein Begrüßungsschild im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394847,
+                        38.427417
+                  ]
+            },
+            {
+                  "name": "Sculpture Garden",
+                  "text": "Der Sculpture Garden ist ein Skulpturengarten im Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.407767,
+                        38.492459
+                  ]
+            },
+            {
+                  "name": "Balancing Rock",
+                  "text": "Balancing Rock ist eine Felsformation im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.449577,
+                        38.53338
+                  ]
+            },
+            {
+                  "name": "4-H Camp",
+                  "text": "Das 4-H Camp ist ein Jugendcamp im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.408051,
+                        38.559306
+                  ]
+            },
+            {
+                  "name": "Secret Place",
+                  "text": "Secret Place ist eine versteckte Attraktion im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.397099,
+                        38.559286
+                  ]
+            },
+            {
+                  "name": "Arrow Flat",
+                  "text": "Arrow Flat ist eine flache Gegend im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.414986,
+                        38.562735
+                  ]
+            },
+            {
+                  "name": "Roosevelt Redwood Grove",
+                  "text": "Der Roosevelt Redwood Grove ist ein Mammutbaumhain im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.413456,
+                        38.566231
+                  ]
+            },
+            {
+                  "name": "Window Tree",
+                  "text": "Window Tree ist ein Baum mit einer fensterartigen Öffnung im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430744,
+                        38.573432
+                  ]
+            },
+            {
+                  "name": "Native Grinding Stone",
+                  "text": "Native Grinding Stone ist ein archäologischer Fundort mit einem Mahlstein im Napa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -122.44146,
+                        38.565263
+                  ]
+            },
+            {
+                  "name": "Belleau Field Vineyard Lease",
+                  "text": "Belleau Field Vineyard Lease ist ein Weinbergspachtgebiet im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.438222,
+                        38.58499
+                  ]
+            },
+            {
+                  "name": "Stump Field Vineyard Lease",
+                  "text": "Stump Field Vineyard Lease ist ein Weinbergspachtgebiet im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430883,
+                        38.578507
+                  ]
+            },
+            {
+                  "name": "Coyote Dens",
+                  "text": "Coyote Dens sind Kojotenbaue im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.431701,
+                        38.580152
+                  ]
+            },
+            {
+                  "name": "Martin Spring",
+                  "text": "Martin Spring ist eine Quelle im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420899,
+                        38.580387
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point ist ein Aussichtspunkt im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420573,
+                        38.582132
+                  ]
+            },
+            {
+                  "name": "Elmshaven",
+                  "text": "Elmshaven ist ein historisches Hausmuseum im Napa Valley, ehemaliges Zuhause von Ellen G. White.",
+                  "category": "museum",
+                  "coords": [
+                        -122.47877,
+                        38.537078
+                  ]
+            },
+            {
+                  "name": "Bale Grist Mill",
+                  "text": "Bale Grist Mill ist eine historische Getreidemühle im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.509254,
+                        38.541176
+                  ]
+            },
+            {
+                  "name": "Castello di Amorosa",
+                  "text": "Castello di Amorosa ist eine burgähnliche Weinkellerei im Napa Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -122.542644,
+                        38.558383
+                  ]
+            },
+            {
+                  "name": "Bothe-Napa Valley State Park",
+                  "text": "Der Bothe-Napa Valley State Park ist ein State Park im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.539481,
+                        38.539669
+                  ]
+            },
+            {
+                  "name": "Hood Mountain - McCormick Ranch Addition",
+                  "text": "Hood Mountain – McCormick Ranch Addition ist ein Naturschutzgebiet im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.5285,
+                        38.476501
+                  ]
+            },
+            {
+                  "name": "Sugarloaf Ridge State Park",
+                  "text": "Der Sugarloaf Ridge State Park ist ein State Park im Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.522109,
+                        38.455918
+                  ]
+            },
+            {
+                  "name": "Beringer Vineyards",
+                  "text": "Beringer Vineyards ist das älteste durchgehend betriebene Weingut im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.481317,
+                        38.510434
+                  ]
+            },
+            {
+                  "name": "The Rhine House",
+                  "text": "The Rhine House ist ein burgähnliches Gebäude im Napa Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -122.479915,
+                        38.510114
+                  ]
+            },
+            {
+                  "name": "Caldwell Snyder Gallery",
+                  "text": "Eine Galerie im Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469143,
+                        38.504833
+                  ]
+            },
+            {
+                  "name": "Nimbus Arts",
+                  "text": "Ein Kunstzentrum im Napa Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.463336,
+                        38.499939
+                  ]
+            },
+            {
+                  "name": "Robert Ferguson Observatory",
+                  "text": "Ein Observatorium und Museum im Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.508743,
+                        38.43838
+                  ]
+            },
+            {
+                  "name": "Inglenook Chateau",
+                  "text": "Ein Herrenhaus im Napa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -122.431266,
+                        38.454472
+                  ]
+            },
+            {
+                  "name": "Mumm",
+                  "text": "Eine Attraktion im Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394487,
+                        38.479164
+                  ]
+            },
+            {
+                  "name": "V. Sattui Winery",
+                  "text": "Ein Weingut im Napa Valley, bekannt für seine Picknickplätze und italienische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.448556,
+                        38.488934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Coyote Peak",
+                  "text": "A Coyote Peak egy csúcs a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.537955,
+                        38.54289
+                  ]
+            },
+            {
+                  "name": "Mount Hood",
+                  "text": "A Mount Hood egy csúcs a Napa-völgyben, a Mayacamas-hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        -122.554149,
+                        38.45991
+                  ]
+            },
+            {
+                  "name": "Gunsight Rock",
+                  "text": "A Gunsight Rock egy kilátóhely a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.556871,
+                        38.456401
+                  ]
+            },
+            {
+                  "name": "Silverado Museum",
+                  "text": "A Silverado Múzeum egy múzeum a Napa-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469488,
+                        38.50765
+                  ]
+            },
+            {
+                  "name": "Saint Helena Catholic Church",
+                  "text": "A Saint Helena Catholic Church egy katolikus templom a Napa-völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        -122.470161,
+                        38.503652
+                  ]
+            },
+            {
+                  "name": "Brushy Peaks",
+                  "text": "A Brushy Peaks két csúcs a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.481925,
+                        38.447966
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "A Bald Mountain egy csúcs a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509523,
+                        38.457398
+                  ]
+            },
+            {
+                  "name": "Red Mountain",
+                  "text": "A Red Mountain egy csúcs a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509981,
+                        38.45241
+                  ]
+            },
+            {
+                  "name": "Welcome to Napa Valley Sign",
+                  "text": "A Welcome to Napa Valley Sign egy üdvözlőtábla a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394847,
+                        38.427417
+                  ]
+            },
+            {
+                  "name": "Sculpture Garden",
+                  "text": "A Sculpture Garden egy szoborkert a Napa-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -122.407767,
+                        38.492459
+                  ]
+            },
+            {
+                  "name": "Balancing Rock",
+                  "text": "A Balancing Rock egy kőzetképződmény a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.449577,
+                        38.53338
+                  ]
+            },
+            {
+                  "name": "4-H Camp",
+                  "text": "A 4-H Camp egy ifjúsági tábor a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.408051,
+                        38.559306
+                  ]
+            },
+            {
+                  "name": "Secret Place",
+                  "text": "A Secret Place egy rejtett látványosság a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.397099,
+                        38.559286
+                  ]
+            },
+            {
+                  "name": "Arrow Flat",
+                  "text": "Az Arrow Flat egy sík terület a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.414986,
+                        38.562735
+                  ]
+            },
+            {
+                  "name": "Roosevelt Redwood Grove",
+                  "text": "A Roosevelt Redwood Grove egy mamutfenyőliget a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.413456,
+                        38.566231
+                  ]
+            },
+            {
+                  "name": "Window Tree",
+                  "text": "A Window Tree egy fa ablaknyílással a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430744,
+                        38.573432
+                  ]
+            },
+            {
+                  "name": "Native Grinding Stone",
+                  "text": "A Native Grinding Stone egy régészeti lelőhely egy őrlőkővel a Napa-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -122.44146,
+                        38.565263
+                  ]
+            },
+            {
+                  "name": "Belleau Field Vineyard Lease",
+                  "text": "A Belleau Field Vineyard Lease egy szőlőbérleti terület a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.438222,
+                        38.58499
+                  ]
+            },
+            {
+                  "name": "Stump Field Vineyard Lease",
+                  "text": "A Stump Field Vineyard Lease egy szőlőbérleti terület a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430883,
+                        38.578507
+                  ]
+            },
+            {
+                  "name": "Coyote Dens",
+                  "text": "A Coyote Dens prérifarkasüregek a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.431701,
+                        38.580152
+                  ]
+            },
+            {
+                  "name": "Martin Spring",
+                  "text": "A Martin Spring egy forrás a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420899,
+                        38.580387
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Az Inspiration Point egy kilátóhely a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420573,
+                        38.582132
+                  ]
+            },
+            {
+                  "name": "Elmshaven",
+                  "text": "Az Elmshaven egy történelmi házmúzeum a Napa-völgyben, Ellen G. White egykori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        -122.47877,
+                        38.537078
+                  ]
+            },
+            {
+                  "name": "Bale Grist Mill",
+                  "text": "A Bale Grist Mill egy történelmi gabonamalom a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.509254,
+                        38.541176
+                  ]
+            },
+            {
+                  "name": "Castello di Amorosa",
+                  "text": "A Castello di Amorosa egy kastélyszerű borászat a Napa-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        -122.542644,
+                        38.558383
+                  ]
+            },
+            {
+                  "name": "Bothe-Napa Valley State Park",
+                  "text": "A Bothe-Napa Valley State Park egy állami park a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.539481,
+                        38.539669
+                  ]
+            },
+            {
+                  "name": "Hood Mountain - McCormick Ranch Addition",
+                  "text": "A Hood Mountain – McCormick Ranch Addition egy természetvédelmi terület a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.5285,
+                        38.476501
+                  ]
+            },
+            {
+                  "name": "Sugarloaf Ridge State Park",
+                  "text": "A Sugarloaf Ridge State Park egy állami park a Napa-völgyben.",
+                  "category": "natural",
+                  "coords": [
+                        -122.522109,
+                        38.455918
+                  ]
+            },
+            {
+                  "name": "Beringer Vineyards",
+                  "text": "A Beringer Vineyards a Napa-völgy legrégebben folyamatosan működő borászata.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.481317,
+                        38.510434
+                  ]
+            },
+            {
+                  "name": "The Rhine House",
+                  "text": "A Rhine House egy kastélyszerű épület a Napa-völgyben.",
+                  "category": "castle",
+                  "coords": [
+                        -122.479915,
+                        38.510114
+                  ]
+            },
+            {
+                  "name": "Caldwell Snyder Gallery",
+                  "text": "Egy galéria a Napa-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469143,
+                        38.504833
+                  ]
+            },
+            {
+                  "name": "Nimbus Arts",
+                  "text": "Egy művészeti központ a Napa-völgyben.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.463336,
+                        38.499939
+                  ]
+            },
+            {
+                  "name": "Robert Ferguson Observatory",
+                  "text": "Egy obszervatórium és múzeum a Napa-völgyben.",
+                  "category": "museum",
+                  "coords": [
+                        -122.508743,
+                        38.43838
+                  ]
+            },
+            {
+                  "name": "Inglenook Chateau",
+                  "text": "Egy kúria a Napa-völgyben.",
+                  "category": "historical",
+                  "coords": [
+                        -122.431266,
+                        38.454472
+                  ]
+            },
+            {
+                  "name": "Mumm",
+                  "text": "Egy látványosság a Napa-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394487,
+                        38.479164
+                  ]
+            },
+            {
+                  "name": "V. Sattui Winery",
+                  "text": "Egy borászat a Napa-völgyben, híres piknikezőhelyeiről és olasz stílusú építészetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.448556,
+                        38.488934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Coyote Peak",
+                  "text": "Coyote Peak este un vârf în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.537955,
+                        38.54289
+                  ]
+            },
+            {
+                  "name": "Mount Hood",
+                  "text": "Mount Hood este un vârf în Valea Napa, parte a Munților Mayacamas.",
+                  "category": "natural",
+                  "coords": [
+                        -122.554149,
+                        38.45991
+                  ]
+            },
+            {
+                  "name": "Gunsight Rock",
+                  "text": "Gunsight Rock este un punct de belvedere în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.556871,
+                        38.456401
+                  ]
+            },
+            {
+                  "name": "Silverado Museum",
+                  "text": "Muzeul Silverado este un muzeu în Valea Napa.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469488,
+                        38.50765
+                  ]
+            },
+            {
+                  "name": "Saint Helena Catholic Church",
+                  "text": "Biserica Catolică Saint Helena este o biserică catolică în Valea Napa.",
+                  "category": "religious",
+                  "coords": [
+                        -122.470161,
+                        38.503652
+                  ]
+            },
+            {
+                  "name": "Brushy Peaks",
+                  "text": "Brushy Peaks sunt două vârfuri în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.481925,
+                        38.447966
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain este un vârf în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509523,
+                        38.457398
+                  ]
+            },
+            {
+                  "name": "Red Mountain",
+                  "text": "Red Mountain este un vârf în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509981,
+                        38.45241
+                  ]
+            },
+            {
+                  "name": "Welcome to Napa Valley Sign",
+                  "text": "Semnul Welcome to Napa Valley este un semn de bun venit în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394847,
+                        38.427417
+                  ]
+            },
+            {
+                  "name": "Sculpture Garden",
+                  "text": "Grădina de Sculptură este o grădină cu sculpturi în Valea Napa.",
+                  "category": "museum",
+                  "coords": [
+                        -122.407767,
+                        38.492459
+                  ]
+            },
+            {
+                  "name": "Balancing Rock",
+                  "text": "Balancing Rock este o formațiune stâncoasă în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.449577,
+                        38.53338
+                  ]
+            },
+            {
+                  "name": "4-H Camp",
+                  "text": "Tabăra 4-H este o tabără pentru tineret în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.408051,
+                        38.559306
+                  ]
+            },
+            {
+                  "name": "Secret Place",
+                  "text": "Secret Place este o atracție ascunsă în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.397099,
+                        38.559286
+                  ]
+            },
+            {
+                  "name": "Arrow Flat",
+                  "text": "Arrow Flat este o zonă plată în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.414986,
+                        38.562735
+                  ]
+            },
+            {
+                  "name": "Roosevelt Redwood Grove",
+                  "text": "Roosevelt Redwood Grove este o pădurice de sequoia în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.413456,
+                        38.566231
+                  ]
+            },
+            {
+                  "name": "Window Tree",
+                  "text": "Window Tree este un copac cu o deschidere asemănătoare unei ferestre în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430744,
+                        38.573432
+                  ]
+            },
+            {
+                  "name": "Native Grinding Stone",
+                  "text": "Native Grinding Stone este un sit arheologic cu o piatră de măcinat în Valea Napa.",
+                  "category": "historical",
+                  "coords": [
+                        -122.44146,
+                        38.565263
+                  ]
+            },
+            {
+                  "name": "Belleau Field Vineyard Lease",
+                  "text": "Belleau Field Vineyard Lease este o suprafață de vie în arendă în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.438222,
+                        38.58499
+                  ]
+            },
+            {
+                  "name": "Stump Field Vineyard Lease",
+                  "text": "Stump Field Vineyard Lease este o suprafață de vie în arendă în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430883,
+                        38.578507
+                  ]
+            },
+            {
+                  "name": "Coyote Dens",
+                  "text": "Coyote Dens sunt vizuini de coioți în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.431701,
+                        38.580152
+                  ]
+            },
+            {
+                  "name": "Martin Spring",
+                  "text": "Martin Spring este un izvor în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420899,
+                        38.580387
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point este un punct de belvedere în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420573,
+                        38.582132
+                  ]
+            },
+            {
+                  "name": "Elmshaven",
+                  "text": "Elmshaven este un muzeu de casă istorică în Valea Napa, fosta casă a lui Ellen G. White.",
+                  "category": "museum",
+                  "coords": [
+                        -122.47877,
+                        38.537078
+                  ]
+            },
+            {
+                  "name": "Bale Grist Mill",
+                  "text": "Bale Grist Mill este o moară istorică de cereale în Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.509254,
+                        38.541176
+                  ]
+            },
+            {
+                  "name": "Castello di Amorosa",
+                  "text": "Castello di Amorosa este o cramă asemănătoare unui castel în Valea Napa.",
+                  "category": "castle",
+                  "coords": [
+                        -122.542644,
+                        38.558383
+                  ]
+            },
+            {
+                  "name": "Bothe-Napa Valley State Park",
+                  "text": "Parcul de Stat Bothe-Napa Valley este un parc de stat în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.539481,
+                        38.539669
+                  ]
+            },
+            {
+                  "name": "Hood Mountain - McCormick Ranch Addition",
+                  "text": "Hood Mountain – McCormick Ranch Addition este o rezervație naturală în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.5285,
+                        38.476501
+                  ]
+            },
+            {
+                  "name": "Sugarloaf Ridge State Park",
+                  "text": "Parcul de Stat Sugarloaf Ridge este un parc de stat în Valea Napa.",
+                  "category": "natural",
+                  "coords": [
+                        -122.522109,
+                        38.455918
+                  ]
+            },
+            {
+                  "name": "Beringer Vineyards",
+                  "text": "Beringer Vineyards este cea mai veche cramă cu funcționare continuă din Valea Napa.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.481317,
+                        38.510434
+                  ]
+            },
+            {
+                  "name": "The Rhine House",
+                  "text": "The Rhine House este o clădire asemănătoare unui castel în Valea Napa.",
+                  "category": "castle",
+                  "coords": [
+                        -122.479915,
+                        38.510114
+                  ]
+            },
+            {
+                  "name": "Caldwell Snyder Gallery",
+                  "text": "O galerie în Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469143,
+                        38.504833
+                  ]
+            },
+            {
+                  "name": "Nimbus Arts",
+                  "text": "Un centru de artă în Napa Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.463336,
+                        38.499939
+                  ]
+            },
+            {
+                  "name": "Robert Ferguson Observatory",
+                  "text": "Un observator și muzeu în Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.508743,
+                        38.43838
+                  ]
+            },
+            {
+                  "name": "Inglenook Chateau",
+                  "text": "Un conac în Napa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -122.431266,
+                        38.454472
+                  ]
+            },
+            {
+                  "name": "Mumm",
+                  "text": "O atracție în Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394487,
+                        38.479164
+                  ]
+            },
+            {
+                  "name": "V. Sattui Winery",
+                  "text": "O cramă în Napa Valley, cunoscută pentru locurile de picnic și arhitectura în stil italian.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.448556,
+                        38.488934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Coyote Peak",
+                  "text": "Coyote Peak is a peak in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.537955,
+                        38.54289
+                  ]
+            },
+            {
+                  "name": "Mount Hood",
+                  "text": "Mount Hood is a peak in the Napa Valley, part of the Mayacamas Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -122.554149,
+                        38.45991
+                  ]
+            },
+            {
+                  "name": "Gunsight Rock",
+                  "text": "Gunsight Rock is a viewpoint in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.556871,
+                        38.456401
+                  ]
+            },
+            {
+                  "name": "Silverado Museum",
+                  "text": "Silverado Museum is a museum in the Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469488,
+                        38.50765
+                  ]
+            },
+            {
+                  "name": "Saint Helena Catholic Church",
+                  "text": "Saint Helena Catholic Church is a Catholic church in the Napa Valley.",
+                  "category": "religious",
+                  "coords": [
+                        -122.470161,
+                        38.503652
+                  ]
+            },
+            {
+                  "name": "Brushy Peaks",
+                  "text": "Brushy Peaks are two peaks in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.481925,
+                        38.447966
+                  ]
+            },
+            {
+                  "name": "Bald Mountain",
+                  "text": "Bald Mountain is a peak in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509523,
+                        38.457398
+                  ]
+            },
+            {
+                  "name": "Red Mountain",
+                  "text": "Red Mountain is a peak in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.509981,
+                        38.45241
+                  ]
+            },
+            {
+                  "name": "Welcome to Napa Valley Sign",
+                  "text": "Welcome to Napa Valley Sign is a welcome sign in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394847,
+                        38.427417
+                  ]
+            },
+            {
+                  "name": "Sculpture Garden",
+                  "text": "Sculpture Garden is a sculpture garden in the Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.407767,
+                        38.492459
+                  ]
+            },
+            {
+                  "name": "Balancing Rock",
+                  "text": "Balancing Rock is a rock formation in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.449577,
+                        38.53338
+                  ]
+            },
+            {
+                  "name": "4-H Camp",
+                  "text": "4-H Camp is a youth camp in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.408051,
+                        38.559306
+                  ]
+            },
+            {
+                  "name": "Secret Place",
+                  "text": "Secret Place is a hidden attraction in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.397099,
+                        38.559286
+                  ]
+            },
+            {
+                  "name": "Arrow Flat",
+                  "text": "Arrow Flat is a flat area in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.414986,
+                        38.562735
+                  ]
+            },
+            {
+                  "name": "Roosevelt Redwood Grove",
+                  "text": "Roosevelt Redwood Grove is a redwood grove in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.413456,
+                        38.566231
+                  ]
+            },
+            {
+                  "name": "Window Tree",
+                  "text": "Window Tree is a tree with a window-like opening in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430744,
+                        38.573432
+                  ]
+            },
+            {
+                  "name": "Native Grinding Stone",
+                  "text": "Native Grinding Stone is an archaeological site with a grinding stone in the Napa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -122.44146,
+                        38.565263
+                  ]
+            },
+            {
+                  "name": "Belleau Field Vineyard Lease",
+                  "text": "Belleau Field Vineyard Lease is a vineyard lease area in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.438222,
+                        38.58499
+                  ]
+            },
+            {
+                  "name": "Stump Field Vineyard Lease",
+                  "text": "Stump Field Vineyard Lease is a vineyard lease area in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.430883,
+                        38.578507
+                  ]
+            },
+            {
+                  "name": "Coyote Dens",
+                  "text": "Coyote Dens are coyote dens in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.431701,
+                        38.580152
+                  ]
+            },
+            {
+                  "name": "Martin Spring",
+                  "text": "Martin Spring is a spring in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420899,
+                        38.580387
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point is a scenic point in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.420573,
+                        38.582132
+                  ]
+            },
+            {
+                  "name": "Elmshaven",
+                  "text": "Elmshaven is a historic house museum in the Napa Valley, former home of Ellen G. White.",
+                  "category": "museum",
+                  "coords": [
+                        -122.47877,
+                        38.537078
+                  ]
+            },
+            {
+                  "name": "Bale Grist Mill",
+                  "text": "Bale Grist Mill is a historic grist mill in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.509254,
+                        38.541176
+                  ]
+            },
+            {
+                  "name": "Castello di Amorosa",
+                  "text": "Castello di Amorosa is a castle-like winery in the Napa Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -122.542644,
+                        38.558383
+                  ]
+            },
+            {
+                  "name": "Bothe-Napa Valley State Park",
+                  "text": "Bothe-Napa Valley State Park is a state park in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.539481,
+                        38.539669
+                  ]
+            },
+            {
+                  "name": "Hood Mountain - McCormick Ranch Addition",
+                  "text": "Hood Mountain – McCormick Ranch Addition is a nature reserve in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.5285,
+                        38.476501
+                  ]
+            },
+            {
+                  "name": "Sugarloaf Ridge State Park",
+                  "text": "Sugarloaf Ridge State Park is a state park in the Napa Valley.",
+                  "category": "natural",
+                  "coords": [
+                        -122.522109,
+                        38.455918
+                  ]
+            },
+            {
+                  "name": "Beringer Vineyards",
+                  "text": "Beringer Vineyards is the oldest continuously operating winery in the Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.481317,
+                        38.510434
+                  ]
+            },
+            {
+                  "name": "The Rhine House",
+                  "text": "The Rhine House is a castle-like building in the Napa Valley.",
+                  "category": "castle",
+                  "coords": [
+                        -122.479915,
+                        38.510114
+                  ]
+            },
+            {
+                  "name": "Caldwell Snyder Gallery",
+                  "text": "A gallery in Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.469143,
+                        38.504833
+                  ]
+            },
+            {
+                  "name": "Nimbus Arts",
+                  "text": "An arts centre in Napa Valley.",
+                  "category": "cultural",
+                  "coords": [
+                        -122.463336,
+                        38.499939
+                  ]
+            },
+            {
+                  "name": "Robert Ferguson Observatory",
+                  "text": "An observatory and museum in Napa Valley.",
+                  "category": "museum",
+                  "coords": [
+                        -122.508743,
+                        38.43838
+                  ]
+            },
+            {
+                  "name": "Inglenook Chateau",
+                  "text": "A manor in Napa Valley.",
+                  "category": "historical",
+                  "coords": [
+                        -122.431266,
+                        38.454472
+                  ]
+            },
+            {
+                  "name": "Mumm",
+                  "text": "An attraction in Napa Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.394487,
+                        38.479164
+                  ]
+            },
+            {
+                  "name": "V. Sattui Winery",
+                  "text": "A winery in Napa Valley known for its picnic grounds and Italian-style architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -122.448556,
+                        38.488934
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-CA",
     coords: [-122.458, 38.502],
@@ -255,7 +5205,952 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "cedar-point-amusement-park-life-v2",
+    id: "cedar-point-amusement-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Emmanuel Temple Church",
+                  "text": "Die Emmanuel Temple Church ist eine Kirche der Christlichen Wissenschaft in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708957,
+                        41.453794
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church",
+                  "text": "Die First Presbyterian Church ist eine historische presbyterianische Kirche in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713235,
+                        41.454668
+                  ]
+            },
+            {
+                  "name": "Magnum XL-200",
+                  "text": "Der Magnum XL‑200 ist eine Achterbahn im Cedar Point; sie war die erste, die 200 Fuß Höhe überschritt.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.686087,
+                        41.485405
+                  ]
+            },
+            {
+                  "name": "Steel Vengeance",
+                  "text": "Der Steel Vengeance ist eine Hybrid-Achterbahn im Cedar Point, bekannt für ihre Airtime und Überschläge.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.693365,
+                        41.486114
+                  ]
+            },
+            {
+                  "name": "Gemini",
+                  "text": "Der Gemini ist eine Rennachterbahn im Cedar Point, eine Mischung aus Holz und Stahl.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689595,
+                        41.486383
+                  ]
+            },
+            {
+                  "name": "Woodstock Express",
+                  "text": "Der Woodstock Express ist eine Familien‑Holzachterbahn im Cedar Point mit Peanuts‑Thematisierung.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689135,
+                        41.485333
+                  ]
+            },
+            {
+                  "name": "Millennium Force",
+                  "text": "Der Millennium Force war der erste Giga‑Coaster und ist 310 Fuß hoch.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.688134,
+                        41.481656
+                  ]
+            },
+            {
+                  "name": "Top Thrill 2",
+                  "text": "Der Top Thrill 2 ist ein Strata‑Coaster im Cedar Point, der 420 Fuß erreicht; früher hieß er Top Thrill Dragster.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.685338,
+                        41.482829
+                  ]
+            },
+            {
+                  "name": "Raptor",
+                  "text": "Der Raptor ist eine invertierte Achterbahn im Cedar Point mit sieben Überschlägen.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.681726,
+                        41.479191
+                  ]
+            },
+            {
+                  "name": "Marblehead Lighthouse",
+                  "text": "Das Marblehead Lighthouse ist der älteste durchgehend betriebene Leuchtturm an den Großen Seen.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.7118,
+                        41.536399
+                  ]
+            },
+            {
+                  "name": "Cedar Point",
+                  "text": "Cedar Point ist ein großer Vergnügungspark in Sandusky mit vielen rekordbrechenden Achterbahnen.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.678842,
+                        41.478118
+                  ]
+            },
+            {
+                  "name": "Cedar Point Shores",
+                  "text": "Cedar Point Shores ist ein Wasserpark neben dem Cedar Point in Sandusky.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.685902,
+                        41.487793
+                  ]
+            },
+            {
+                  "name": "Hoover Auditorium",
+                  "text": "Das Hoover Auditorium ist ein Theater in Sandusky für Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.749543,
+                        41.543587
+                  ]
+            },
+            {
+                  "name": "Saint Marys Catholic Church",
+                  "text": "Die Saint Marys Catholic Church ist eine katholische Kirche in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713912,
+                        41.45144
+                  ]
+            },
+            {
+                  "name": "Zion Lutheran Church",
+                  "text": "Die Zion Lutheran Church ist eine lutherische Kirche in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.709899,
+                        41.452105
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "Die Saints Peter and Paul Catholic Church ist eine katholische Kirche in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708902,
+                        41.452437
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Die Grace Episcopal Church ist eine episkopale Kirche in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.7094,
+                        41.454779
+                  ]
+            },
+            {
+                  "name": "Rougarou",
+                  "text": "Der Rougarou ist eine bodenlose Achterbahn im Cedar Point mit mehreren Überschlägen.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.68679,
+                        41.482755
+                  ]
+            },
+            {
+                  "name": "Cedar Creek Mine Ride",
+                  "text": "Die Cedar Creek Mine Ride ist eine Minenzug‑Achterbahn im Cedar Point durch landschaftliches Gelände.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.690394,
+                        41.484786
+                  ]
+            },
+            {
+                  "name": "Gatekeeper",
+                  "text": "Der Gatekeeper ist eine Flügelachterbahn im Cedar Point mit einem Schlüsselloch‑Element.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.679177,
+                        41.480936
+                  ]
+            },
+            {
+                  "name": "Town Hall Museum",
+                  "text": "Das Town Hall Museum ist ein Museum im Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.691384,
+                        41.484506
+                  ]
+            },
+            {
+                  "name": "The Keeper's House",
+                  "text": "Das Keeper's House ist ein Museum im Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.742036,
+                        41.514755
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of Sandusky",
+                  "text": "Das Maritime Museum of Sandusky ist ein Museum im Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.702991,
+                        41.459687
+                  ]
+            },
+            {
+                  "name": "BackBeatQue Stage",
+                  "text": "Die BackBeatQue Stage ist ein Theater im Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.687257,
+                        41.485597
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "Das Palace Theatre ist ein Theater im Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.692294,
+                        41.486058
+                  ]
+            },
+            {
+                  "name": "Jack Aldrich Theatre",
+                  "text": "Das Jack Aldrich Theatre ist ein Theater im Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.68019,
+                        41.478811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Emmanuel Temple Church",
+                  "text": "Az Emmanuel Temple Church egy Keresztény Tudomány templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708957,
+                        41.453794
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church",
+                  "text": "A First Presbyterian Church egy történelmi presbiteriánus templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713235,
+                        41.454668
+                  ]
+            },
+            {
+                  "name": "Magnum XL-200",
+                  "text": "A Magnum XL‑200 egy hullámvasút a Cedar Pointban; ez volt az első, amely meghaladta a 200 láb magasságot.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.686087,
+                        41.485405
+                  ]
+            },
+            {
+                  "name": "Steel Vengeance",
+                  "text": "A Steel Vengeance egy hibrid hullámvasút a Cedar Pointban, amely a levegőzéséről és inverzióiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.693365,
+                        41.486114
+                  ]
+            },
+            {
+                  "name": "Gemini",
+                  "text": "A Gemini egy versenyhullámvasút a Cedar Pointban, fa és acél keveréke.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689595,
+                        41.486383
+                  ]
+            },
+            {
+                  "name": "Woodstock Express",
+                  "text": "A Woodstock Express egy családi fa hullámvasút a Cedar Pointban, Peanuts témájú.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689135,
+                        41.485333
+                  ]
+            },
+            {
+                  "name": "Millennium Force",
+                  "text": "A Millennium Force volt az első giga hullámvasút, 310 láb magas.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.688134,
+                        41.481656
+                  ]
+            },
+            {
+                  "name": "Top Thrill 2",
+                  "text": "A Top Thrill 2 egy strata hullámvasút a Cedar Pointban, 420 láb magas; korábban Top Thrill Dragster volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.685338,
+                        41.482829
+                  ]
+            },
+            {
+                  "name": "Raptor",
+                  "text": "A Raptor egy inverz hullámvasút a Cedar Pointban, hét inverzióval.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.681726,
+                        41.479191
+                  ]
+            },
+            {
+                  "name": "Marblehead Lighthouse",
+                  "text": "A Marblehead Lighthouse a legrégebbi folyamatosan működő világítótorony a Nagy-tavakon.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.7118,
+                        41.536399
+                  ]
+            },
+            {
+                  "name": "Cedar Point",
+                  "text": "A Cedar Point egy nagy vidámpark Sanduskyban, sok rekorddöntő hullámvasúttal.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.678842,
+                        41.478118
+                  ]
+            },
+            {
+                  "name": "Cedar Point Shores",
+                  "text": "A Cedar Point Shores egy vízipark a Cedar Point mellett Sanduskyban.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.685902,
+                        41.487793
+                  ]
+            },
+            {
+                  "name": "Hoover Auditorium",
+                  "text": "A Hoover Auditorium egy színház Sanduskyban előadások és események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.749543,
+                        41.543587
+                  ]
+            },
+            {
+                  "name": "Saint Marys Catholic Church",
+                  "text": "A Saint Marys Catholic Church egy katolikus templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713912,
+                        41.45144
+                  ]
+            },
+            {
+                  "name": "Zion Lutheran Church",
+                  "text": "A Zion Lutheran Church egy evangélikus templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.709899,
+                        41.452105
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "A Saints Peter and Paul Catholic Church egy katolikus templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708902,
+                        41.452437
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "A Grace Episcopal Church egy episzkopális templom Sanduskyban.",
+                  "category": "religious",
+                  "coords": [
+                        -82.7094,
+                        41.454779
+                  ]
+            },
+            {
+                  "name": "Rougarou",
+                  "text": "A Rougarou egy padló nélküli hullámvasút a Cedar Pointban, több inverzióval.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.68679,
+                        41.482755
+                  ]
+            },
+            {
+                  "name": "Cedar Creek Mine Ride",
+                  "text": "A Cedar Creek Mine Ride egy bányavonat hullámvasút a Cedar Pointban, festői terepen át.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.690394,
+                        41.484786
+                  ]
+            },
+            {
+                  "name": "Gatekeeper",
+                  "text": "A Gatekeeper egy szárnyas hullámvasút a Cedar Pointban, kulcslyuk elemmel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.679177,
+                        41.480936
+                  ]
+            },
+            {
+                  "name": "Town Hall Museum",
+                  "text": "A Town Hall Museum egy múzeum a Cedar Point Amusement Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -82.691384,
+                        41.484506
+                  ]
+            },
+            {
+                  "name": "The Keeper's House",
+                  "text": "A Keeper's House egy múzeum a Cedar Point Amusement Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -82.742036,
+                        41.514755
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of Sandusky",
+                  "text": "A Sandusky-i Tengerészeti Múzeum egy múzeum a Cedar Point Amusement Parkban.",
+                  "category": "museum",
+                  "coords": [
+                        -82.702991,
+                        41.459687
+                  ]
+            },
+            {
+                  "name": "BackBeatQue Stage",
+                  "text": "A BackBeatQue Stage egy színház a Cedar Point Amusement Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.687257,
+                        41.485597
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "A Palace Theatre egy színház a Cedar Point Amusement Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.692294,
+                        41.486058
+                  ]
+            },
+            {
+                  "name": "Jack Aldrich Theatre",
+                  "text": "A Jack Aldrich Theatre egy színház a Cedar Point Amusement Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.68019,
+                        41.478811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Emmanuel Temple Church",
+                  "text": "Emmanuel Temple Church este o biserică a Științei Creștine în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708957,
+                        41.453794
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church",
+                  "text": "First Presbyterian Church este o biserică prezbiteriană istorică în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713235,
+                        41.454668
+                  ]
+            },
+            {
+                  "name": "Magnum XL-200",
+                  "text": "Magnum XL‑200 este un roller coaster la Cedar Point; a fost primul care a depășit 200 de picioare înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.686087,
+                        41.485405
+                  ]
+            },
+            {
+                  "name": "Steel Vengeance",
+                  "text": "Steel Vengeance este un roller coaster hibrid la Cedar Point, cunoscut pentru aerul său și inversiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.693365,
+                        41.486114
+                  ]
+            },
+            {
+                  "name": "Gemini",
+                  "text": "Gemini este un roller coaster de cursă la Cedar Point, un amestec de lemn și oțel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689595,
+                        41.486383
+                  ]
+            },
+            {
+                  "name": "Woodstock Express",
+                  "text": "Woodstock Express este un roller coaster de lemn pentru familie la Cedar Point, tematizat Peanuts.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689135,
+                        41.485333
+                  ]
+            },
+            {
+                  "name": "Millennium Force",
+                  "text": "Millennium Force a fost primul giga coaster, având 310 picioare înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.688134,
+                        41.481656
+                  ]
+            },
+            {
+                  "name": "Top Thrill 2",
+                  "text": "Top Thrill 2 este un roller coaster strata la Cedar Point, atingând 420 de picioare; anterior numit Top Thrill Dragster.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.685338,
+                        41.482829
+                  ]
+            },
+            {
+                  "name": "Raptor",
+                  "text": "Raptor este un roller coaster inversat la Cedar Point, cu șapte inversiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.681726,
+                        41.479191
+                  ]
+            },
+            {
+                  "name": "Marblehead Lighthouse",
+                  "text": "Marblehead Lighthouse este cel mai vechi far în funcțiune continuă pe Marile Lacuri.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.7118,
+                        41.536399
+                  ]
+            },
+            {
+                  "name": "Cedar Point",
+                  "text": "Cedar Point este un mare parc de distracții în Sandusky, cu multe roller coastere care au doborât recorduri.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.678842,
+                        41.478118
+                  ]
+            },
+            {
+                  "name": "Cedar Point Shores",
+                  "text": "Cedar Point Shores este un parc acvatic lângă Cedar Point în Sandusky.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.685902,
+                        41.487793
+                  ]
+            },
+            {
+                  "name": "Hoover Auditorium",
+                  "text": "Hoover Auditorium este un teatru în Sandusky pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.749543,
+                        41.543587
+                  ]
+            },
+            {
+                  "name": "Saint Marys Catholic Church",
+                  "text": "Saint Marys Catholic Church este o biserică catolică în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713912,
+                        41.45144
+                  ]
+            },
+            {
+                  "name": "Zion Lutheran Church",
+                  "text": "Zion Lutheran Church este o biserică luterană în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.709899,
+                        41.452105
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "Saints Peter and Paul Catholic Church este o biserică catolică în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708902,
+                        41.452437
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Grace Episcopal Church este o biserică episcopală în Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.7094,
+                        41.454779
+                  ]
+            },
+            {
+                  "name": "Rougarou",
+                  "text": "Rougarou este un roller coaster fără podea la Cedar Point, cu multiple inversiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.68679,
+                        41.482755
+                  ]
+            },
+            {
+                  "name": "Cedar Creek Mine Ride",
+                  "text": "Cedar Creek Mine Ride este un roller coaster tip tren minier la Cedar Point prin teren pitoresc.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.690394,
+                        41.484786
+                  ]
+            },
+            {
+                  "name": "Gatekeeper",
+                  "text": "Gatekeeper este un roller coaster cu aripi la Cedar Point, cu un element cheie.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.679177,
+                        41.480936
+                  ]
+            },
+            {
+                  "name": "Town Hall Museum",
+                  "text": "Muzeul Town Hall este un muzeu în Parcul de Distracții Cedar Point.",
+                  "category": "museum",
+                  "coords": [
+                        -82.691384,
+                        41.484506
+                  ]
+            },
+            {
+                  "name": "The Keeper's House",
+                  "text": "Casa Keeper's House este un muzeu în Parcul de Distracții Cedar Point.",
+                  "category": "museum",
+                  "coords": [
+                        -82.742036,
+                        41.514755
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of Sandusky",
+                  "text": "Muzeul Maritim din Sandusky este un muzeu în Parcul de Distracții Cedar Point.",
+                  "category": "museum",
+                  "coords": [
+                        -82.702991,
+                        41.459687
+                  ]
+            },
+            {
+                  "name": "BackBeatQue Stage",
+                  "text": "Scena BackBeatQue este un teatru în Parcul de Distracții Cedar Point.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.687257,
+                        41.485597
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "Teatrul Palace este un teatru în Parcul de Distracții Cedar Point.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.692294,
+                        41.486058
+                  ]
+            },
+            {
+                  "name": "Jack Aldrich Theatre",
+                  "text": "Teatrul Jack Aldrich este un teatru în Parcul de Distracții Cedar Point.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.68019,
+                        41.478811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Emmanuel Temple Church",
+                  "text": "Emmanuel Temple Church is a Christian Science church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708957,
+                        41.453794
+                  ]
+            },
+            {
+                  "name": "First Presbyterian Church",
+                  "text": "First Presbyterian Church is a historic Presbyterian church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713235,
+                        41.454668
+                  ]
+            },
+            {
+                  "name": "Magnum XL-200",
+                  "text": "Magnum XL‑200 is a roller coaster at Cedar Point; it was the first to exceed 200 feet in height.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.686087,
+                        41.485405
+                  ]
+            },
+            {
+                  "name": "Steel Vengeance",
+                  "text": "Steel Vengeance is a hybrid roller coaster at Cedar Point, known for its airtime and inversions.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.693365,
+                        41.486114
+                  ]
+            },
+            {
+                  "name": "Gemini",
+                  "text": "Gemini is a racing roller coaster at Cedar Point, a hybrid of wood and steel.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689595,
+                        41.486383
+                  ]
+            },
+            {
+                  "name": "Woodstock Express",
+                  "text": "Woodstock Express is a family wooden roller coaster at Cedar Point themed to Peanuts.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.689135,
+                        41.485333
+                  ]
+            },
+            {
+                  "name": "Millennium Force",
+                  "text": "Millennium Force was the first giga coaster, standing 310 feet tall.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.688134,
+                        41.481656
+                  ]
+            },
+            {
+                  "name": "Top Thrill 2",
+                  "text": "Top Thrill 2 is a strata coaster at Cedar Point reaching 420 feet; formerly named Top Thrill Dragster.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.685338,
+                        41.482829
+                  ]
+            },
+            {
+                  "name": "Raptor",
+                  "text": "Raptor is an inverted roller coaster at Cedar Point with seven inversions.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.681726,
+                        41.479191
+                  ]
+            },
+            {
+                  "name": "Marblehead Lighthouse",
+                  "text": "Marblehead Lighthouse is the oldest continuously operating lighthouse on the Great Lakes.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.7118,
+                        41.536399
+                  ]
+            },
+            {
+                  "name": "Cedar Point",
+                  "text": "Cedar Point is a major amusement park in Sandusky with many record-breaking roller coasters.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.678842,
+                        41.478118
+                  ]
+            },
+            {
+                  "name": "Cedar Point Shores",
+                  "text": "Cedar Point Shores is a water park adjacent to Cedar Point in Sandusky.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.685902,
+                        41.487793
+                  ]
+            },
+            {
+                  "name": "Hoover Auditorium",
+                  "text": "Hoover Auditorium is a theatre in Sandusky for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.749543,
+                        41.543587
+                  ]
+            },
+            {
+                  "name": "Saint Marys Catholic Church",
+                  "text": "Saint Marys Catholic Church is a Catholic church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.713912,
+                        41.45144
+                  ]
+            },
+            {
+                  "name": "Zion Lutheran Church",
+                  "text": "Zion Lutheran Church is a Lutheran church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.709899,
+                        41.452105
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul Catholic Church",
+                  "text": "Saints Peter and Paul Catholic Church is a Catholic church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.708902,
+                        41.452437
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Grace Episcopal Church is an Episcopal church in Sandusky.",
+                  "category": "religious",
+                  "coords": [
+                        -82.7094,
+                        41.454779
+                  ]
+            },
+            {
+                  "name": "Rougarou",
+                  "text": "Rougarou is a floorless roller coaster at Cedar Point with multiple inversions.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.68679,
+                        41.482755
+                  ]
+            },
+            {
+                  "name": "Cedar Creek Mine Ride",
+                  "text": "Cedar Creek Mine Ride is a mine train roller coaster at Cedar Point through scenic terrain.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.690394,
+                        41.484786
+                  ]
+            },
+            {
+                  "name": "Gatekeeper",
+                  "text": "Gatekeeper is a wing roller coaster at Cedar Point with a keyhole element.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.679177,
+                        41.480936
+                  ]
+            },
+            {
+                  "name": "Town Hall Museum",
+                  "text": "The Town Hall Museum is a museum in Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.691384,
+                        41.484506
+                  ]
+            },
+            {
+                  "name": "The Keeper's House",
+                  "text": "The Keeper's House is a museum in Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.742036,
+                        41.514755
+                  ]
+            },
+            {
+                  "name": "Maritime Museum of Sandusky",
+                  "text": "The Maritime Museum of Sandusky is a museum in Cedar Point Amusement Park.",
+                  "category": "museum",
+                  "coords": [
+                        -82.702991,
+                        41.459687
+                  ]
+            },
+            {
+                  "name": "BackBeatQue Stage",
+                  "text": "BackBeatQue Stage is a theatre in Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.687257,
+                        41.485597
+                  ]
+            },
+            {
+                  "name": "Palace Theatre",
+                  "text": "The Palace Theatre is a theatre in Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.692294,
+                        41.486058
+                  ]
+            },
+            {
+                  "name": "Jack Aldrich Theatre",
+                  "text": "Jack Aldrich Theatre is a theatre in Cedar Point Amusement Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.68019,
+                        41.478811
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-OH",
     coords: [-82.6835, 41.4823],
@@ -291,7 +6186,52 @@ export const poiExtraUsaLifeV2: POI[] = [
     }
   },
   {
-    id: "california-central-valley-life-v2",
+    id: "california-central-valley-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cocklebur Beach",
+                  "text": "Der Cocklebur Beach ist ein Strand im Central Valley von Kalifornien.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.870212,
+                        37.866871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cocklebur Beach",
+                  "text": "A Cocklebur Beach egy strand Kalifornia Central Valley régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.870212,
+                        37.866871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cocklebur Beach",
+                  "text": "Plaja Cocklebur este o plajă în Central Valley a Californiei.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.870212,
+                        37.866871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cocklebur Beach",
+                  "text": "Cocklebur Beach is a beach in California's Central Valley.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.870212,
+                        37.866871
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-CA",
     coords: [-120.9, 37.9],
@@ -327,7 +6267,1348 @@ export const poiExtraUsaLifeV2: POI[] = [
     }
   },
   {
-    id: "bronx-zoo-life-v2",
+    id: "bronx-zoo-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Yankees Museum",
+                  "text": "Ein Museum in New York City, das der Geschichte der New York Yankees gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -73.925893,
+                        40.828571
+                  ]
+            },
+            {
+                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+                  "text": "Ein Gedenk- und Bildungszentrum in New York City, das an Malcolm X und Dr. Betty Shabazz erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -73.940675,
+                        40.839358
+                  ]
+            },
+            {
+                  "name": "The Met Cloisters",
+                  "text": "Ein Museum in New York City, das mittelalterliche Kunst in einem Gebäudekomplex aus romanischen und gotischen Fragmenten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -73.931923,
+                        40.864868
+                  ]
+            },
+            {
+                  "name": "Morris-Jumel Mansion",
+                  "text": "Ein historisches Herrenhaus in New York City, das älteste erhaltene Haus in Manhattan.",
+                  "category": "museum",
+                  "coords": [
+                        -73.938574,
+                        40.83445
+                  ]
+            },
+            {
+                  "name": "Poe Cottage",
+                  "text": "Das ehemalige Zuhause von Edgar Allan Poe in New York City, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -73.894247,
+                        40.865502
+                  ]
+            },
+            {
+                  "name": "Riverdale Monument",
+                  "text": "Das Riverdale Monument ist ein Kriegsdenkmal in bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.908324,
+                        40.889252
+                  ]
+            },
+            {
+                  "name": "Leland Castle",
+                  "text": "Das Leland Castle ist ein neugotisches Herrenhaus in bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.781056,
+                        40.900559
+                  ]
+            },
+            {
+                  "name": "United Palace",
+                  "text": "Das United Palace ist ein Theater in bronx-zoo-life-v2, das ursprünglich ein Filmpalast war.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.938127,
+                        40.846563
+                  ]
+            },
+            {
+                  "name": "BAAD! Bronx Academy of Arts and Dance",
+                  "text": "Die BAAD! Bronx Academy of Arts and Dance ist ein Kunst- und Tanzzentrum in bronx-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.844575,
+                        40.838243
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Genoa's Church",
+                  "text": "Die St. Catherine of Genoa's Church ist eine römisch-katholische Kirche in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.944621,
+                        40.830311
+                  ]
+            },
+            {
+                  "name": "Church of the Intercession",
+                  "text": "Die Church of the Intercession ist eine episkopalkirche in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.945284,
+                        40.832145
+                  ]
+            },
+            {
+                  "name": "Saint Spyridon Greek Orthodox Church",
+                  "text": "Die Saint Spyridon Greek Orthodox Church ist eine griechisch-orthodoxe Kirche in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.936069,
+                        40.84887
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Church of Saint John",
+                  "text": "Die römisch-katholische Kirche St. John ist eine katholische Kirche in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.907681,
+                        40.879266
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Die Grace Episcopal Church ist eine episkopale Kirche in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.783817,
+                        40.841047
+                  ]
+            },
+            {
+                  "name": "\"Joker\"-Treppe",
+                  "text": "Die Joker Stairs sind eine berühmte Treppe in bronx-zoo-life-v2 aus dem Film Joker.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.923605,
+                        40.835796
+                  ]
+            },
+            {
+                  "name": "Pelham Bay",
+                  "text": "Die Pelham Bay ist eine Bucht in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.789577,
+                        40.866211
+                  ]
+            },
+            {
+                  "name": "Macombs Dam Bridge",
+                  "text": "Die Macombs Dam Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933154,
+                        40.828157
+                  ]
+            },
+            {
+                  "name": "145th Street Bridge",
+                  "text": "Die 145th Street Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933142,
+                        40.819531
+                  ]
+            },
+            {
+                  "name": "Little Red Lighthouse",
+                  "text": "Der Little Red Lighthouse ist ein kleiner Leuchtturm in bronx-zoo-life-v2 unter der George Washington Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.946963,
+                        40.850255
+                  ]
+            },
+            {
+                  "name": "George Washington Bridge",
+                  "text": "Die George Washington Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.953485,
+                        40.85183
+                  ]
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "Die High Bridge ist eine Brücke in bronx-zoo-life-v2, ursprünglich ein Aquädukt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.929542,
+                        40.842261
+                  ]
+            },
+            {
+                  "name": "Washington Bridge",
+                  "text": "Die Washington Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.926888,
+                        40.846324
+                  ]
+            },
+            {
+                  "name": "University Heights Bridge",
+                  "text": "Die University Heights Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.914954,
+                        40.862802
+                  ]
+            },
+            {
+                  "name": "Broadway Bridge",
+                  "text": "Die Broadway Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.9111,
+                        40.873634
+                  ]
+            },
+            {
+                  "name": "Spuyten Duyvil Bridge",
+                  "text": "Die Spuyten Duyvil Bridge ist eine Drehbrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.925634,
+                        40.878247
+                  ]
+            },
+            {
+                  "name": "Henry Hudson Bridge",
+                  "text": "Die Henry Hudson Bridge ist eine Bogenbrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.921937,
+                        40.877926
+                  ]
+            },
+            {
+                  "name": "Wave Hill",
+                  "text": "Wave Hill ist ein historisches Anwesen und Garten in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.912435,
+                        40.898906
+                  ]
+            },
+            {
+                  "name": "City Island Bridge",
+                  "text": "Die City Island Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793403,
+                        40.856274
+                  ]
+            },
+            {
+                  "name": "Pelham Bay Bridge",
+                  "text": "Die Pelham Bay Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.81789,
+                        40.863408
+                  ]
+            },
+            {
+                  "name": "Pelham Bridge",
+                  "text": "Die Pelham Bridge ist eine Brücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.815744,
+                        40.862139
+                  ]
+            },
+            {
+                  "name": "Bronx-Whitestone Bridge",
+                  "text": "Die Bronx-Whitestone Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.830575,
+                        40.80334
+                  ]
+            },
+            {
+                  "name": "Throgs Neck Bridge",
+                  "text": "Die Throgs Neck Bridge ist eine Hängebrücke in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793998,
+                        40.803132
+                  ]
+            },
+            {
+                  "name": "Stepping Stones Lighthouse",
+                  "text": "Der Stepping Stones Lighthouse ist ein Leuchtturm in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774785,
+                        40.824316
+                  ]
+            },
+            {
+                  "name": "Sylvan Terrace",
+                  "text": "Die Sylvan Terrace ist ein Aussichtspunkt in bronx-zoo-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939702,
+                        40.834839
+                  ]
+            },
+            {
+                  "name": "Flatrock Nature Center",
+                  "text": "Das Flatrock Nature Center ist ein Naturzentrum und Park in bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.964304,
+                        40.877044
+                  ]
+            },
+            {
+                  "name": "Bennett Park",
+                  "text": "Der Bennett Park ist ein Park in bronx-zoo-life-v2 am höchsten natürlichen Punkt Manhattans.",
+                  "category": "park",
+                  "coords": [
+                        -73.938107,
+                        40.852842
+                  ]
+            },
+            {
+                  "name": "University Woods Park",
+                  "text": "Der University Woods Park ist ein Park in bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.915119,
+                        40.859011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Yankees Museum",
+                  "text": "Múzeum New Yorkban, a New York Yankees történetének szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -73.925893,
+                        40.828571
+                  ]
+            },
+            {
+                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+                  "text": "Emlék- és oktatási központ New Yorkban, Malcolm X és Dr. Betty Shabazz emlékére.",
+                  "category": "museum",
+                  "coords": [
+                        -73.940675,
+                        40.839358
+                  ]
+            },
+            {
+                  "name": "The Met Cloisters",
+                  "text": "Múzeum New Yorkban, amely középkori művészetet mutat be román és gótikus töredékekből álló épületegyüttesben.",
+                  "category": "museum",
+                  "coords": [
+                        -73.931923,
+                        40.864868
+                  ]
+            },
+            {
+                  "name": "Morris-Jumel Mansion",
+                  "text": "Történelmi kúria New Yorkban, Manhattan legrégebbi fennmaradt háza.",
+                  "category": "museum",
+                  "coords": [
+                        -73.938574,
+                        40.83445
+                  ]
+            },
+            {
+                  "name": "Poe Cottage",
+                  "text": "Edgar Allan Poe egykori otthona New Yorkban, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -73.894247,
+                        40.865502
+                  ]
+            },
+            {
+                  "name": "Riverdale Monument",
+                  "text": "A Riverdale Monument egy háborús emlékmű bronx-zoo-life-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -73.908324,
+                        40.889252
+                  ]
+            },
+            {
+                  "name": "Leland Castle",
+                  "text": "A Leland-kastély egy neogótikus kastély bronx-zoo-life-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -73.781056,
+                        40.900559
+                  ]
+            },
+            {
+                  "name": "United Palace",
+                  "text": "Az United Palace egy színház bronx-zoo-life-v2-ben, amely eredetileg filmpalota volt.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.938127,
+                        40.846563
+                  ]
+            },
+            {
+                  "name": "BAAD! Bronx Academy of Arts and Dance",
+                  "text": "A BAAD! Bronx Academy of Arts and Dance egy művészeti és táncközpont bronx-zoo-life-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.844575,
+                        40.838243
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Genoa's Church",
+                  "text": "A St. Catherine of Genoa's Church egy római katolikus templom bronx-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.944621,
+                        40.830311
+                  ]
+            },
+            {
+                  "name": "Church of the Intercession",
+                  "text": "A Church of the Intercession egy episzkopális templom bronx-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.945284,
+                        40.832145
+                  ]
+            },
+            {
+                  "name": "Saint Spyridon Greek Orthodox Church",
+                  "text": "A Saint Spyridon Greek Orthodox Church egy görög ortodox templom bronx-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.936069,
+                        40.84887
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Church of Saint John",
+                  "text": "A Szent János római katolikus templom egy katolikus templom bronx-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.907681,
+                        40.879266
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "A Grace Episcopal Church egy episzkopális templom bronx-zoo-life-v2-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -73.783817,
+                        40.841047
+                  ]
+            },
+            {
+                  "name": "Joker Stairs",
+                  "text": "A Joker lépcsők egy híres lépcső bronx-zoo-life-v2-ben a Joker filmből.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.923605,
+                        40.835796
+                  ]
+            },
+            {
+                  "name": "Pelham Bay",
+                  "text": "A Pelham-öböl egy öböl bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.789577,
+                        40.866211
+                  ]
+            },
+            {
+                  "name": "Macombs Dam Bridge",
+                  "text": "A Macombs Dam Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933154,
+                        40.828157
+                  ]
+            },
+            {
+                  "name": "145th Street Bridge",
+                  "text": "A 145th Street Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933142,
+                        40.819531
+                  ]
+            },
+            {
+                  "name": "Little Red Lighthouse",
+                  "text": "A Little Red Lighthouse egy kis világítótorony bronx-zoo-life-v2-ben a George Washington híd alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.946963,
+                        40.850255
+                  ]
+            },
+            {
+                  "name": "George Washington Bridge",
+                  "text": "A George Washington Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.953485,
+                        40.85183
+                  ]
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "A High Bridge egy híd bronx-zoo-life-v2-ben, eredetileg vízvezeték.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.929542,
+                        40.842261
+                  ]
+            },
+            {
+                  "name": "Washington Bridge",
+                  "text": "A Washington Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.926888,
+                        40.846324
+                  ]
+            },
+            {
+                  "name": "University Heights Bridge",
+                  "text": "A University Heights Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.914954,
+                        40.862802
+                  ]
+            },
+            {
+                  "name": "Broadway Bridge",
+                  "text": "A Broadway Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.9111,
+                        40.873634
+                  ]
+            },
+            {
+                  "name": "Spuyten Duyvil Bridge",
+                  "text": "A Spuyten Duyvil Bridge egy forgóhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.925634,
+                        40.878247
+                  ]
+            },
+            {
+                  "name": "Henry Hudson Bridge",
+                  "text": "A Henry Hudson Bridge egy ívhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.921937,
+                        40.877926
+                  ]
+            },
+            {
+                  "name": "Wave Hill",
+                  "text": "A Wave Hill egy történelmi birtok és kert bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.912435,
+                        40.898906
+                  ]
+            },
+            {
+                  "name": "City Island Bridge",
+                  "text": "A City Island Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793403,
+                        40.856274
+                  ]
+            },
+            {
+                  "name": "Pelham Bay Bridge",
+                  "text": "A Pelham Bay Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.81789,
+                        40.863408
+                  ]
+            },
+            {
+                  "name": "Pelham Bridge",
+                  "text": "A Pelham Bridge egy híd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.815744,
+                        40.862139
+                  ]
+            },
+            {
+                  "name": "Bronx-Whitestone Bridge",
+                  "text": "A Bronx-Whitestone Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.830575,
+                        40.80334
+                  ]
+            },
+            {
+                  "name": "Throgs Neck Bridge",
+                  "text": "A Throgs Neck Bridge egy függőhíd bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793998,
+                        40.803132
+                  ]
+            },
+            {
+                  "name": "Stepping Stones Lighthouse",
+                  "text": "A Stepping Stones Lighthouse egy világítótorony bronx-zoo-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774785,
+                        40.824316
+                  ]
+            },
+            {
+                  "name": "Sylvan Terrace",
+                  "text": "A Sylvan Terrace egy kilátó bronx-zoo-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939702,
+                        40.834839
+                  ]
+            },
+            {
+                  "name": "Flatrock Nature Center",
+                  "text": "A Flatrock Nature Center egy természetvédelmi központ és park bronx-zoo-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -73.964304,
+                        40.877044
+                  ]
+            },
+            {
+                  "name": "Bennett Park",
+                  "text": "A Bennett Park egy park bronx-zoo-life-v2-ben Manhattan legmagasabb természetes pontján.",
+                  "category": "park",
+                  "coords": [
+                        -73.938107,
+                        40.852842
+                  ]
+            },
+            {
+                  "name": "University Woods Park",
+                  "text": "A University Woods Park egy park bronx-zoo-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -73.915119,
+                        40.859011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Yankees Museum",
+                  "text": "Un muzeu din New York City dedicat istoriei echipei New York Yankees.",
+                  "category": "museum",
+                  "coords": [
+                        -73.925893,
+                        40.828571
+                  ]
+            },
+            {
+                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+                  "text": "Un centru memorial și educațional în New York City, în memoria lui Malcolm X și a Dr. Betty Shabazz.",
+                  "category": "museum",
+                  "coords": [
+                        -73.940675,
+                        40.839358
+                  ]
+            },
+            {
+                  "name": "The Met Cloisters",
+                  "text": "Un muzeu din New York City care expune artă medievală într-un complex de clădiri din fragmente romanice și gotice.",
+                  "category": "museum",
+                  "coords": [
+                        -73.931923,
+                        40.864868
+                  ]
+            },
+            {
+                  "name": "Morris-Jumel Mansion",
+                  "text": "Un conac istoric în New York City, cea mai veche casă păstrată din Manhattan.",
+                  "category": "museum",
+                  "coords": [
+                        -73.938574,
+                        40.83445
+                  ]
+            },
+            {
+                  "name": "Poe Cottage",
+                  "text": "Fosta casă a lui Edgar Allan Poe în New York City, acum muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -73.894247,
+                        40.865502
+                  ]
+            },
+            {
+                  "name": "Riverdale Monument",
+                  "text": "Monumentul Riverdale este un monument de război în bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.908324,
+                        40.889252
+                  ]
+            },
+            {
+                  "name": "Leland Castle",
+                  "text": "Leland Castle este un conac în stil gotic renăscut în bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.781056,
+                        40.900559
+                  ]
+            },
+            {
+                  "name": "United Palace",
+                  "text": "United Palace este un teatru în bronx-zoo-life-v2, inițial un palat de film.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.938127,
+                        40.846563
+                  ]
+            },
+            {
+                  "name": "BAAD! Bronx Academy of Arts and Dance",
+                  "text": "BAAD! Bronx Academy of Arts and Dance este un centru de arte și dans în bronx-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.844575,
+                        40.838243
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Genoa's Church",
+                  "text": "Biserica Sf. Ecaterina din Genova este o biserică romano-catolică în bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.944621,
+                        40.830311
+                  ]
+            },
+            {
+                  "name": "Church of the Intercession",
+                  "text": "Biserica Intercesiunii este o biserică episcopală în bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.945284,
+                        40.832145
+                  ]
+            },
+            {
+                  "name": "Saint Spyridon Greek Orthodox Church",
+                  "text": "Biserica Ortodoxă Greacă Sf. Spyridon este o biserică greco-ortodoxă în bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.936069,
+                        40.84887
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Church of Saint John",
+                  "text": "Biserica Romano-Catolică Sf. Ioan este o biserică catolică în bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.907681,
+                        40.879266
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Biserica Episcopală Grace este o biserică episcopală în bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.783817,
+                        40.841047
+                  ]
+            },
+            {
+                  "name": "Joker Stairs",
+                  "text": "Scările Joker sunt o scară faimoasă în bronx-zoo-life-v2 din filmul Joker.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.923605,
+                        40.835796
+                  ]
+            },
+            {
+                  "name": "Pelham Bay",
+                  "text": "Golful Pelham este un golf în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.789577,
+                        40.866211
+                  ]
+            },
+            {
+                  "name": "Macombs Dam Bridge",
+                  "text": "Podul Macombs Dam este un pod basculant în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933154,
+                        40.828157
+                  ]
+            },
+            {
+                  "name": "145th Street Bridge",
+                  "text": "Podul 145th Street este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933142,
+                        40.819531
+                  ]
+            },
+            {
+                  "name": "Little Red Lighthouse",
+                  "text": "Farul Little Red este un far mic în bronx-zoo-life-v2 sub Podul George Washington.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.946963,
+                        40.850255
+                  ]
+            },
+            {
+                  "name": "George Washington Bridge",
+                  "text": "Podul George Washington este un pod suspendat în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.953485,
+                        40.85183
+                  ]
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "Podul High este un pod în bronx-zoo-life-v2, inițial un apeduct.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.929542,
+                        40.842261
+                  ]
+            },
+            {
+                  "name": "Washington Bridge",
+                  "text": "Podul Washington este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.926888,
+                        40.846324
+                  ]
+            },
+            {
+                  "name": "University Heights Bridge",
+                  "text": "Podul University Heights este un pod basculant în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.914954,
+                        40.862802
+                  ]
+            },
+            {
+                  "name": "Broadway Bridge",
+                  "text": "Podul Broadway este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.9111,
+                        40.873634
+                  ]
+            },
+            {
+                  "name": "Spuyten Duyvil Bridge",
+                  "text": "Podul Spuyten Duyvil este un pod basculant în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.925634,
+                        40.878247
+                  ]
+            },
+            {
+                  "name": "Henry Hudson Bridge",
+                  "text": "Podul Henry Hudson este un pod în formă de arc în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.921937,
+                        40.877926
+                  ]
+            },
+            {
+                  "name": "Wave Hill",
+                  "text": "Wave Hill este un domeniu istoric și grădină în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.912435,
+                        40.898906
+                  ]
+            },
+            {
+                  "name": "City Island Bridge",
+                  "text": "Podul City Island este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793403,
+                        40.856274
+                  ]
+            },
+            {
+                  "name": "Pelham Bay Bridge",
+                  "text": "Podul Pelham Bay este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.81789,
+                        40.863408
+                  ]
+            },
+            {
+                  "name": "Pelham Bridge",
+                  "text": "Podul Pelham este un pod în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.815744,
+                        40.862139
+                  ]
+            },
+            {
+                  "name": "Bronx-Whitestone Bridge",
+                  "text": "Podul Bronx-Whitestone este un pod suspendat în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.830575,
+                        40.80334
+                  ]
+            },
+            {
+                  "name": "Throgs Neck Bridge",
+                  "text": "Podul Throgs Neck este un pod suspendat în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793998,
+                        40.803132
+                  ]
+            },
+            {
+                  "name": "Stepping Stones Lighthouse",
+                  "text": "Farul Stepping Stones este un far în bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774785,
+                        40.824316
+                  ]
+            },
+            {
+                  "name": "Sylvan Terrace",
+                  "text": "Sylvan Terrace este un punct de belvedere în bronx-zoo-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939702,
+                        40.834839
+                  ]
+            },
+            {
+                  "name": "Flatrock Nature Center",
+                  "text": "Centrul Natural Flatrock este un centru natural și parc în bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.964304,
+                        40.877044
+                  ]
+            },
+            {
+                  "name": "Bennett Park",
+                  "text": "Parcul Bennett este un parc în bronx-zoo-life-v2 la cel mai înalt punct natural al Manhattanului.",
+                  "category": "park",
+                  "coords": [
+                        -73.938107,
+                        40.852842
+                  ]
+            },
+            {
+                  "name": "University Woods Park",
+                  "text": "Parcul University Woods este un parc în bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.915119,
+                        40.859011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Yankees Museum",
+                  "text": "A museum in New York City dedicated to the history of the New York Yankees.",
+                  "category": "museum",
+                  "coords": [
+                        -73.925893,
+                        40.828571
+                  ]
+            },
+            {
+                  "name": "Malcolm X & Dr. Betty Shabazz Memorial and Educational Center",
+                  "text": "A memorial and educational center in New York City honoring Malcolm X and Dr. Betty Shabazz.",
+                  "category": "museum",
+                  "coords": [
+                        -73.940675,
+                        40.839358
+                  ]
+            },
+            {
+                  "name": "The Met Cloisters",
+                  "text": "A museum in New York City displaying medieval art in a complex of buildings assembled from Romanesque and Gothic fragments.",
+                  "category": "museum",
+                  "coords": [
+                        -73.931923,
+                        40.864868
+                  ]
+            },
+            {
+                  "name": "Morris-Jumel Mansion",
+                  "text": "A historic mansion in New York City, the oldest surviving house in Manhattan.",
+                  "category": "museum",
+                  "coords": [
+                        -73.938574,
+                        40.83445
+                  ]
+            },
+            {
+                  "name": "Poe Cottage",
+                  "text": "The former home of Edgar Allan Poe in New York City, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -73.894247,
+                        40.865502
+                  ]
+            },
+            {
+                  "name": "Riverdale Monument",
+                  "text": "The Riverdale Monument is a war memorial in bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.908324,
+                        40.889252
+                  ]
+            },
+            {
+                  "name": "Leland Castle",
+                  "text": "Leland Castle is a Gothic Revival manor in bronx-zoo-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -73.781056,
+                        40.900559
+                  ]
+            },
+            {
+                  "name": "United Palace",
+                  "text": "United Palace is a theatre in bronx-zoo-life-v2, originally a movie palace.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.938127,
+                        40.846563
+                  ]
+            },
+            {
+                  "name": "BAAD! Bronx Academy of Arts and Dance",
+                  "text": "BAAD! Bronx Academy of Arts and Dance is an arts and dance centre in bronx-zoo-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -73.844575,
+                        40.838243
+                  ]
+            },
+            {
+                  "name": "St. Catherine of Genoa's Church",
+                  "text": "St. Catherine of Genoa's Church is a Roman Catholic church in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.944621,
+                        40.830311
+                  ]
+            },
+            {
+                  "name": "Church of the Intercession",
+                  "text": "The Church of the Intercession is an Episcopal church in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.945284,
+                        40.832145
+                  ]
+            },
+            {
+                  "name": "Saint Spyridon Greek Orthodox Church",
+                  "text": "Saint Spyridon Greek Orthodox Church is a Greek Orthodox church in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.936069,
+                        40.84887
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Church of Saint John",
+                  "text": "The Roman Catholic Church of Saint John is a Catholic church in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.907681,
+                        40.879266
+                  ]
+            },
+            {
+                  "name": "Grace Episcopal Church",
+                  "text": "Grace Episcopal Church is an Episcopal church in bronx-zoo-life-v2.",
+                  "category": "religious",
+                  "coords": [
+                        -73.783817,
+                        40.841047
+                  ]
+            },
+            {
+                  "name": "Joker Stairs",
+                  "text": "The Joker Stairs are a famous staircase in bronx-zoo-life-v2 from the movie Joker.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.923605,
+                        40.835796
+                  ]
+            },
+            {
+                  "name": "Pelham Bay",
+                  "text": "Pelham Bay is a bay in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.789577,
+                        40.866211
+                  ]
+            },
+            {
+                  "name": "Macombs Dam Bridge",
+                  "text": "The Macombs Dam Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933154,
+                        40.828157
+                  ]
+            },
+            {
+                  "name": "145th Street Bridge",
+                  "text": "The 145th Street Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.933142,
+                        40.819531
+                  ]
+            },
+            {
+                  "name": "Little Red Lighthouse",
+                  "text": "The Little Red Lighthouse is a small lighthouse in bronx-zoo-life-v2 under the George Washington Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.946963,
+                        40.850255
+                  ]
+            },
+            {
+                  "name": "George Washington Bridge",
+                  "text": "The George Washington Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.953485,
+                        40.85183
+                  ]
+            },
+            {
+                  "name": "High Bridge",
+                  "text": "The High Bridge is a bridge in bronx-zoo-life-v2, originally an aqueduct.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.929542,
+                        40.842261
+                  ]
+            },
+            {
+                  "name": "Washington Bridge",
+                  "text": "The Washington Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.926888,
+                        40.846324
+                  ]
+            },
+            {
+                  "name": "University Heights Bridge",
+                  "text": "The University Heights Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.914954,
+                        40.862802
+                  ]
+            },
+            {
+                  "name": "Broadway Bridge",
+                  "text": "The Broadway Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.9111,
+                        40.873634
+                  ]
+            },
+            {
+                  "name": "Spuyten Duyvil Bridge",
+                  "text": "The Spuyten Duyvil Bridge is a swing bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.925634,
+                        40.878247
+                  ]
+            },
+            {
+                  "name": "Henry Hudson Bridge",
+                  "text": "The Henry Hudson Bridge is an arch bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.921937,
+                        40.877926
+                  ]
+            },
+            {
+                  "name": "Wave Hill",
+                  "text": "Wave Hill is a historic estate and garden in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.912435,
+                        40.898906
+                  ]
+            },
+            {
+                  "name": "City Island Bridge",
+                  "text": "The City Island Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793403,
+                        40.856274
+                  ]
+            },
+            {
+                  "name": "Pelham Bay Bridge",
+                  "text": "The Pelham Bay Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.81789,
+                        40.863408
+                  ]
+            },
+            {
+                  "name": "Pelham Bridge",
+                  "text": "The Pelham Bridge is a bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.815744,
+                        40.862139
+                  ]
+            },
+            {
+                  "name": "Bronx-Whitestone Bridge",
+                  "text": "The Bronx-Whitestone Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.830575,
+                        40.80334
+                  ]
+            },
+            {
+                  "name": "Throgs Neck Bridge",
+                  "text": "The Throgs Neck Bridge is a suspension bridge in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.793998,
+                        40.803132
+                  ]
+            },
+            {
+                  "name": "Stepping Stones Lighthouse",
+                  "text": "The Stepping Stones Lighthouse is a lighthouse in bronx-zoo-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.774785,
+                        40.824316
+                  ]
+            },
+            {
+                  "name": "Sylvan Terrace",
+                  "text": "Sylvan Terrace is a viewpoint in bronx-zoo-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -73.939702,
+                        40.834839
+                  ]
+            },
+            {
+                  "name": "Flatrock Nature Center",
+                  "text": "Flatrock Nature Center is a nature center and park in bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.964304,
+                        40.877044
+                  ]
+            },
+            {
+                  "name": "Bennett Park",
+                  "text": "Bennett Park is a park in bronx-zoo-life-v2 at the highest natural point of Manhattan.",
+                  "category": "park",
+                  "coords": [
+                        -73.938107,
+                        40.852842
+                  ]
+            },
+            {
+                  "name": "University Woods Park",
+                  "text": "University Woods Park is a park in bronx-zoo-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -73.915119,
+                        40.859011
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-NY",
     coords: [-73.8771, 40.8506],
@@ -399,7 +7680,1132 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "glacier-national-park-life-v2",
+    id: "glacier-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "McPartland Mountain",
+                  "text": "Der McPartland Mountain ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.863731,
+                        48.690528
+                  ]
+            },
+            {
+                  "name": "Heavens Peak",
+                  "text": "Der Heavens Peak ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.856231,
+                        48.708862
+                  ]
+            },
+            {
+                  "name": "Red Rocks",
+                  "text": "Der Red Rocks ist ein Aussichtspunkt im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.817513,
+                        48.695209
+                  ]
+            },
+            {
+                  "name": "Mount Cannon",
+                  "text": "Der Mount Cannon ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.774823,
+                        48.692532
+                  ]
+            },
+            {
+                  "name": "Mount Oberlin",
+                  "text": "Der Mount Oberlin ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.735949,
+                        48.704419
+                  ]
+            },
+            {
+                  "name": "Clements Mountain",
+                  "text": "Der Clements Mountain ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.740924,
+                        48.692523
+                  ]
+            },
+            {
+                  "name": "Hidden Lake Overlook",
+                  "text": "Der Hidden Lake Overlook ist ein Aussichtspunkt mit Blick auf den Hidden Lake im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.74167,
+                        48.687209
+                  ]
+            },
+            {
+                  "name": "Oberlin Bend",
+                  "text": "Der Oberlin Bend ist ein Aussichtspunkt im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.725214,
+                        48.699606
+                  ]
+            },
+            {
+                  "name": "Piegan Mountain",
+                  "text": "Der Piegan Mountain ist ein Gipfel im Glacier National Park, Teil der Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.689299,
+                        48.710331
+                  ]
+            },
+            {
+                  "name": "Cataract Mountain",
+                  "text": "Der Cataract Mountain ist ein Gipfel im Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.681399,
+                        48.724891
+                  ]
+            },
+            {
+                  "name": "Iceberg Peak",
+                  "text": "Der Iceberg Peak ist ein Gipfel im Glacier National Park, gelegen in der Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.760116,
+                        48.814422
+                  ]
+            },
+            {
+                  "name": "Grinnell Point",
+                  "text": "Eine Felsformation im Glacier-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.68289,
+                        48.787478
+                  ]
+            },
+            {
+                  "name": "Allen Mountain",
+                  "text": "Ein Gipfel im Glacier-Nationalpark, Teil der Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.657611,
+                        48.758033
+                  ]
+            },
+            {
+                  "name": "Angel Wing",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.711607,
+                        48.757677
+                  ]
+            },
+            {
+                  "name": "Mount Gould",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.714795,
+                        48.742818
+                  ]
+            },
+            {
+                  "name": "Bishops Cap",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.709281,
+                        48.724698
+                  ]
+            },
+            {
+                  "name": "Pollock Mountain",
+                  "text": "Ein Gipfel im Glacier-Nationalpark, benannt nach einem US-Senator.",
+                  "category": "natural",
+                  "coords": [
+                        -113.703011,
+                        48.71653
+                  ]
+            },
+            {
+                  "name": "Big Bend",
+                  "text": "Ein Aussichtspunkt entlang der Going-to-the-Sun-Road im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72487,
+                        48.727474
+                  ]
+            },
+            {
+                  "name": "Haystack Butte",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.732338,
+                        48.733031
+                  ]
+            },
+            {
+                  "name": "Weeping Wall",
+                  "text": "Eine Attraktion im Glacier-Nationalpark, an der Wasser aus der Felswand sickert.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.755916,
+                        48.742323
+                  ]
+            },
+            {
+                  "name": "Bird Woman Falls Overlook",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Bird Woman Falls im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.747756,
+                        48.739287
+                  ]
+            },
+            {
+                  "name": "Grinnell Glacier Overlook",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Grinnell-Gletscher im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.743517,
+                        48.762286
+                  ]
+            },
+            {
+                  "name": "Mount Grinnell",
+                  "text": "Ein Gipfel im Glacier-Nationalpark, benannt nach George Bird Grinnell.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72706,
+                        48.776644
+                  ]
+            },
+            {
+                  "name": "Redrock Falls",
+                  "text": "Ein Aussichtspunkt mit einem Wasserfall im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.710802,
+                        48.795175
+                  ]
+            },
+            {
+                  "name": "Mount Wilbur",
+                  "text": "Ein Gipfel im Glacier-Nationalpark, benannt nach einem Eisenbahnmanager.",
+                  "category": "natural",
+                  "coords": [
+                        -113.739282,
+                        48.805533
+                  ]
+            },
+            {
+                  "name": "Swiftcurrent Mountain",
+                  "text": "Ein markanter Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.766829,
+                        48.785653
+                  ]
+            },
+            {
+                  "name": "Great Northern Railway Buildings",
+                  "text": "Ein historischer Gebäudekomplex im Glacier-Nationalpark, ursprünglich von der Great Northern Railway erbaut.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.77215,
+                        48.77094
+                  ]
+            },
+            {
+                  "name": "Flattop Mountain",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.866787,
+                        48.80192
+                  ]
+            },
+            {
+                  "name": "Ahern Peak",
+                  "text": "Ein Gipfel im Glacier-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.782339,
+                        48.830811
+                  ]
+            },
+            {
+                  "name": "Heavens Peak Lookout",
+                  "text": "Ein Aussichtspunkt im Glacier-Nationalpark mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -113.876313,
+                        48.748843
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "Ein Nationalpark in Montana, bekannt für seine zerklüfteten Berge und Gletscher.",
+                  "category": "natural",
+                  "coords": [
+                        -113.801125,
+                        48.684466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "McPartland Mountain",
+                  "text": "A McPartland Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.863731,
+                        48.690528
+                  ]
+            },
+            {
+                  "name": "Heavens Peak",
+                  "text": "A Heavens Peak egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.856231,
+                        48.708862
+                  ]
+            },
+            {
+                  "name": "Red Rocks",
+                  "text": "A Red Rocks egy kilátópont a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.817513,
+                        48.695209
+                  ]
+            },
+            {
+                  "name": "Mount Cannon",
+                  "text": "A Mount Cannon egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.774823,
+                        48.692532
+                  ]
+            },
+            {
+                  "name": "Mount Oberlin",
+                  "text": "A Mount Oberlin egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.735949,
+                        48.704419
+                  ]
+            },
+            {
+                  "name": "Clements Mountain",
+                  "text": "A Clements Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.740924,
+                        48.692523
+                  ]
+            },
+            {
+                  "name": "Hidden Lake Overlook",
+                  "text": "A Hidden Lake Overlook egy kilátópont, amely a Hidden Lake-re néz a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.74167,
+                        48.687209
+                  ]
+            },
+            {
+                  "name": "Oberlin Bend",
+                  "text": "Az Oberlin Bend egy kilátópont a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.725214,
+                        48.699606
+                  ]
+            },
+            {
+                  "name": "Piegan Mountain",
+                  "text": "A Piegan Mountain egy csúcs a Glacier Nemzeti Parkban, a Lewis-hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        -113.689299,
+                        48.710331
+                  ]
+            },
+            {
+                  "name": "Cataract Mountain",
+                  "text": "A Cataract Mountain egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.681399,
+                        48.724891
+                  ]
+            },
+            {
+                  "name": "Iceberg Peak",
+                  "text": "Az Iceberg Peak egy csúcs a Glacier Nemzeti Parkban, a Lewis-hegységben található.",
+                  "category": "natural",
+                  "coords": [
+                        -113.760116,
+                        48.814422
+                  ]
+            },
+            {
+                  "name": "Grinnell Point",
+                  "text": "Egy sziklaformáció a Glacier Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.68289,
+                        48.787478
+                  ]
+            },
+            {
+                  "name": "Allen Mountain",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban, a Lewis-hegység része.",
+                  "category": "natural",
+                  "coords": [
+                        -113.657611,
+                        48.758033
+                  ]
+            },
+            {
+                  "name": "Angel Wing",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.711607,
+                        48.757677
+                  ]
+            },
+            {
+                  "name": "Mount Gould",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.714795,
+                        48.742818
+                  ]
+            },
+            {
+                  "name": "Bishops Cap",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.709281,
+                        48.724698
+                  ]
+            },
+            {
+                  "name": "Pollock Mountain",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban, egy amerikai szenátorról elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -113.703011,
+                        48.71653
+                  ]
+            },
+            {
+                  "name": "Big Bend",
+                  "text": "Egy kilátóhely a Going-to-the-Sun út mentén a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72487,
+                        48.727474
+                  ]
+            },
+            {
+                  "name": "Haystack Butte",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.732338,
+                        48.733031
+                  ]
+            },
+            {
+                  "name": "Weeping Wall",
+                  "text": "Egy látványosság a Glacier Nemzeti Parkban, ahol víz szivárog a sziklafalból.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.755916,
+                        48.742323
+                  ]
+            },
+            {
+                  "name": "Bird Woman Falls Overlook",
+                  "text": "Egy kilátóhely, ahonnan a Bird Woman-vízesés látható a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.747756,
+                        48.739287
+                  ]
+            },
+            {
+                  "name": "Grinnell Glacier Overlook",
+                  "text": "Egy kilátóhely, ahonnan a Grinnell-gleccser látható a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.743517,
+                        48.762286
+                  ]
+            },
+            {
+                  "name": "Mount Grinnell",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban, George Bird Grinnellről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72706,
+                        48.776644
+                  ]
+            },
+            {
+                  "name": "Redrock Falls",
+                  "text": "Egy kilátóhely egy vízeséssel a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.710802,
+                        48.795175
+                  ]
+            },
+            {
+                  "name": "Mount Wilbur",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban, egy vasúti vezetőről elnevezve.",
+                  "category": "natural",
+                  "coords": [
+                        -113.739282,
+                        48.805533
+                  ]
+            },
+            {
+                  "name": "Swiftcurrent Mountain",
+                  "text": "Egy kiemelkedő csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.766829,
+                        48.785653
+                  ]
+            },
+            {
+                  "name": "Great Northern Railway Buildings",
+                  "text": "Egy történelmi épületegyüttes a Glacier Nemzeti Parkban, eredetileg a Great Northern Railway építette.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.77215,
+                        48.77094
+                  ]
+            },
+            {
+                  "name": "Flattop Mountain",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.866787,
+                        48.80192
+                  ]
+            },
+            {
+                  "name": "Ahern Peak",
+                  "text": "Egy csúcs a Glacier Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -113.782339,
+                        48.830811
+                  ]
+            },
+            {
+                  "name": "Heavens Peak Lookout",
+                  "text": "Egy kilátóhely a Glacier Nemzeti Parkban, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -113.876313,
+                        48.748843
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "Egy nemzeti park Montanában, híres zord hegyeiről és gleccsereiről.",
+                  "category": "natural",
+                  "coords": [
+                        -113.801125,
+                        48.684466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "McPartland Mountain",
+                  "text": "McPartland Mountain este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.863731,
+                        48.690528
+                  ]
+            },
+            {
+                  "name": "Heavens Peak",
+                  "text": "Heavens Peak este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.856231,
+                        48.708862
+                  ]
+            },
+            {
+                  "name": "Red Rocks",
+                  "text": "Red Rocks este un punct de belvedere în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.817513,
+                        48.695209
+                  ]
+            },
+            {
+                  "name": "Mount Cannon",
+                  "text": "Mount Cannon este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.774823,
+                        48.692532
+                  ]
+            },
+            {
+                  "name": "Mount Oberlin",
+                  "text": "Mount Oberlin este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.735949,
+                        48.704419
+                  ]
+            },
+            {
+                  "name": "Clements Mountain",
+                  "text": "Clements Mountain este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.740924,
+                        48.692523
+                  ]
+            },
+            {
+                  "name": "Hidden Lake Overlook",
+                  "text": "Hidden Lake Overlook este un punct de belvedere cu vedere la Lacul Ascuns în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.74167,
+                        48.687209
+                  ]
+            },
+            {
+                  "name": "Oberlin Bend",
+                  "text": "Oberlin Bend este un punct de belvedere în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.725214,
+                        48.699606
+                  ]
+            },
+            {
+                  "name": "Piegan Mountain",
+                  "text": "Piegan Mountain este un vârf în Parcul Național Glacier, parte a Lanțului Lewis.",
+                  "category": "natural",
+                  "coords": [
+                        -113.689299,
+                        48.710331
+                  ]
+            },
+            {
+                  "name": "Cataract Mountain",
+                  "text": "Cataract Mountain este un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.681399,
+                        48.724891
+                  ]
+            },
+            {
+                  "name": "Iceberg Peak",
+                  "text": "Iceberg Peak este un vârf în Parcul Național Glacier, situat în Lanțul Lewis.",
+                  "category": "natural",
+                  "coords": [
+                        -113.760116,
+                        48.814422
+                  ]
+            },
+            {
+                  "name": "Grinnell Point",
+                  "text": "O formațiune stâncoasă în Parcul Național Glacier.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.68289,
+                        48.787478
+                  ]
+            },
+            {
+                  "name": "Allen Mountain",
+                  "text": "Un vârf în Parcul Național Glacier, parte din Lanțul Lewis.",
+                  "category": "natural",
+                  "coords": [
+                        -113.657611,
+                        48.758033
+                  ]
+            },
+            {
+                  "name": "Angel Wing",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.711607,
+                        48.757677
+                  ]
+            },
+            {
+                  "name": "Mount Gould",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.714795,
+                        48.742818
+                  ]
+            },
+            {
+                  "name": "Bishops Cap",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.709281,
+                        48.724698
+                  ]
+            },
+            {
+                  "name": "Pollock Mountain",
+                  "text": "Un vârf în Parcul Național Glacier, numit după un senator american.",
+                  "category": "natural",
+                  "coords": [
+                        -113.703011,
+                        48.71653
+                  ]
+            },
+            {
+                  "name": "Big Bend",
+                  "text": "Un punct de belvedere de-a lungul drumului Going-to-the-Sun din Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72487,
+                        48.727474
+                  ]
+            },
+            {
+                  "name": "Haystack Butte",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.732338,
+                        48.733031
+                  ]
+            },
+            {
+                  "name": "Weeping Wall",
+                  "text": "O atracție în Parcul Național Glacier, unde apa se scurge din peretele de stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.755916,
+                        48.742323
+                  ]
+            },
+            {
+                  "name": "Bird Woman Falls Overlook",
+                  "text": "Un punct de belvedere cu vedere la Cascada Bird Woman din Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.747756,
+                        48.739287
+                  ]
+            },
+            {
+                  "name": "Grinnell Glacier Overlook",
+                  "text": "Un punct de belvedere cu vedere la Ghețarul Grinnell din Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.743517,
+                        48.762286
+                  ]
+            },
+            {
+                  "name": "Mount Grinnell",
+                  "text": "Un vârf în Parcul Național Glacier, numit după George Bird Grinnell.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72706,
+                        48.776644
+                  ]
+            },
+            {
+                  "name": "Redrock Falls",
+                  "text": "Un punct de belvedere cu o cascadă în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.710802,
+                        48.795175
+                  ]
+            },
+            {
+                  "name": "Mount Wilbur",
+                  "text": "Un vârf în Parcul Național Glacier, numit după un director de cale ferată.",
+                  "category": "natural",
+                  "coords": [
+                        -113.739282,
+                        48.805533
+                  ]
+            },
+            {
+                  "name": "Swiftcurrent Mountain",
+                  "text": "Un vârf proeminent în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.766829,
+                        48.785653
+                  ]
+            },
+            {
+                  "name": "Great Northern Railway Buildings",
+                  "text": "Un complex istoric de clădiri în Parcul Național Glacier, construit inițial de Great Northern Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.77215,
+                        48.77094
+                  ]
+            },
+            {
+                  "name": "Flattop Mountain",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.866787,
+                        48.80192
+                  ]
+            },
+            {
+                  "name": "Ahern Peak",
+                  "text": "Un vârf în Parcul Național Glacier.",
+                  "category": "natural",
+                  "coords": [
+                        -113.782339,
+                        48.830811
+                  ]
+            },
+            {
+                  "name": "Heavens Peak Lookout",
+                  "text": "Un punct de observație în Parcul Național Glacier, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -113.876313,
+                        48.748843
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "Un parc național în Montana, cunoscut pentru munții săi accidentați și ghețari.",
+                  "category": "natural",
+                  "coords": [
+                        -113.801125,
+                        48.684466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "McPartland Mountain",
+                  "text": "McPartland Mountain is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.863731,
+                        48.690528
+                  ]
+            },
+            {
+                  "name": "Heavens Peak",
+                  "text": "Heavens Peak is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.856231,
+                        48.708862
+                  ]
+            },
+            {
+                  "name": "Red Rocks",
+                  "text": "Red Rocks is a scenic viewpoint in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.817513,
+                        48.695209
+                  ]
+            },
+            {
+                  "name": "Mount Cannon",
+                  "text": "Mount Cannon is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.774823,
+                        48.692532
+                  ]
+            },
+            {
+                  "name": "Mount Oberlin",
+                  "text": "Mount Oberlin is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.735949,
+                        48.704419
+                  ]
+            },
+            {
+                  "name": "Clements Mountain",
+                  "text": "Clements Mountain is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.740924,
+                        48.692523
+                  ]
+            },
+            {
+                  "name": "Hidden Lake Overlook",
+                  "text": "Hidden Lake Overlook is a viewpoint overlooking Hidden Lake in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.74167,
+                        48.687209
+                  ]
+            },
+            {
+                  "name": "Oberlin Bend",
+                  "text": "Oberlin Bend is a viewpoint in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.725214,
+                        48.699606
+                  ]
+            },
+            {
+                  "name": "Piegan Mountain",
+                  "text": "Piegan Mountain is a peak in Glacier National Park, part of the Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.689299,
+                        48.710331
+                  ]
+            },
+            {
+                  "name": "Cataract Mountain",
+                  "text": "Cataract Mountain is a peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.681399,
+                        48.724891
+                  ]
+            },
+            {
+                  "name": "Iceberg Peak",
+                  "text": "Iceberg Peak is a peak in Glacier National Park, located in the Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.760116,
+                        48.814422
+                  ]
+            },
+            {
+                  "name": "Grinnell Point",
+                  "text": "A cliff formation in Glacier National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.68289,
+                        48.787478
+                  ]
+            },
+            {
+                  "name": "Allen Mountain",
+                  "text": "A peak in Glacier National Park, part of the Lewis Range.",
+                  "category": "natural",
+                  "coords": [
+                        -113.657611,
+                        48.758033
+                  ]
+            },
+            {
+                  "name": "Angel Wing",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.711607,
+                        48.757677
+                  ]
+            },
+            {
+                  "name": "Mount Gould",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.714795,
+                        48.742818
+                  ]
+            },
+            {
+                  "name": "Bishops Cap",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.709281,
+                        48.724698
+                  ]
+            },
+            {
+                  "name": "Pollock Mountain",
+                  "text": "A peak in Glacier National Park, named after a U.S. Senator.",
+                  "category": "natural",
+                  "coords": [
+                        -113.703011,
+                        48.71653
+                  ]
+            },
+            {
+                  "name": "Big Bend",
+                  "text": "A viewpoint along the Going-to-the-Sun Road in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72487,
+                        48.727474
+                  ]
+            },
+            {
+                  "name": "Haystack Butte",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.732338,
+                        48.733031
+                  ]
+            },
+            {
+                  "name": "Weeping Wall",
+                  "text": "An attraction in Glacier National Park where water seeps from the rock face.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.755916,
+                        48.742323
+                  ]
+            },
+            {
+                  "name": "Bird Woman Falls Overlook",
+                  "text": "A viewpoint overlooking Bird Woman Falls in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.747756,
+                        48.739287
+                  ]
+            },
+            {
+                  "name": "Grinnell Glacier Overlook",
+                  "text": "A viewpoint offering views of Grinnell Glacier in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.743517,
+                        48.762286
+                  ]
+            },
+            {
+                  "name": "Mount Grinnell",
+                  "text": "A peak in Glacier National Park, named after George Bird Grinnell.",
+                  "category": "natural",
+                  "coords": [
+                        -113.72706,
+                        48.776644
+                  ]
+            },
+            {
+                  "name": "Redrock Falls",
+                  "text": "A viewpoint featuring a waterfall in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.710802,
+                        48.795175
+                  ]
+            },
+            {
+                  "name": "Mount Wilbur",
+                  "text": "A peak in Glacier National Park, named after a railroad executive.",
+                  "category": "natural",
+                  "coords": [
+                        -113.739282,
+                        48.805533
+                  ]
+            },
+            {
+                  "name": "Swiftcurrent Mountain",
+                  "text": "A prominent peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.766829,
+                        48.785653
+                  ]
+            },
+            {
+                  "name": "Great Northern Railway Buildings",
+                  "text": "A historic building complex in Glacier National Park, originally built by the Great Northern Railway.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.77215,
+                        48.77094
+                  ]
+            },
+            {
+                  "name": "Flattop Mountain",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.866787,
+                        48.80192
+                  ]
+            },
+            {
+                  "name": "Ahern Peak",
+                  "text": "A peak in Glacier National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.782339,
+                        48.830811
+                  ]
+            },
+            {
+                  "name": "Heavens Peak Lookout",
+                  "text": "A lookout point in Glacier National Park offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -113.876313,
+                        48.748843
+                  ]
+            },
+            {
+                  "name": "Glacier National Park",
+                  "text": "A national park in Montana, known for its rugged mountains and glaciers.",
+                  "category": "natural",
+                  "coords": [
+                        -113.801125,
+                        48.684466
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-MT",
     coords: [-113.7870, 48.7596],
@@ -435,7 +8841,988 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "hersheypark-life-v2",
+    id: "hersheypark-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "AACA Museum",
+                  "text": "Das AACA Museum in Hershey zeigt historische Automobile und die Geschichte des Automobils.",
+                  "category": "museum",
+                  "coords": [
+                        -76.690099,
+                        40.298177
+                  ]
+            },
+            {
+                  "name": "Great Bear",
+                  "text": "Great Bear ist eine Stahlachterbahn im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653038,
+                        40.286883
+                  ]
+            },
+            {
+                  "name": "Skyrush",
+                  "text": "Skyrush ist eine Startachterbahn im Hersheypark, bekannt für ihren steilen Abfall.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655284,
+                        40.286576
+                  ]
+            },
+            {
+                  "name": "Indian Echo Caverns",
+                  "text": "Die Indian Echo Caverns in Hershey sind ein Kalksteinhöhlensystem mit Führungen.",
+                  "category": "natural",
+                  "coords": [
+                        -76.716881,
+                        40.252836
+                  ]
+            },
+            {
+                  "name": "Hersheypark",
+                  "text": "Hersheypark ist ein bekannter Themenpark in Hershey mit zahlreichen Fahrgeschäften und Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.662081,
+                        40.288123
+                  ]
+            },
+            {
+                  "name": "Trailblazer",
+                  "text": "Trailblazer ist eine Attraktion im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653152,
+                        40.288983
+                  ]
+            },
+            {
+                  "name": "Jolly Rancher Remix",
+                  "text": "Jolly Rancher Remix ist eine Attraktion im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653842,
+                        40.289959
+                  ]
+            },
+            {
+                  "name": "Fahrenheit",
+                  "text": "Fahrenheit ist eine Attraktion im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655217,
+                        40.290226
+                  ]
+            },
+            {
+                  "name": "Wildcat's Revenge",
+                  "text": "Wildcat's Revenge ist eine Attraktion im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655569,
+                        40.292464
+                  ]
+            },
+            {
+                  "name": "Laff Trakk",
+                  "text": "Laff Trakk ist eine Attraktion im Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655237,
+                        40.293398
+                  ]
+            },
+            {
+                  "name": "Hershey's Chocolate World",
+                  "text": "Hershey's Chocolate World ist eine Attraktion in Hershey, die der Schokolade gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.660985,
+                        40.288137
+                  ]
+            },
+            {
+                  "name": "Round Top",
+                  "text": "Der Round Top ist ein Gipfel in der Gegend von Hershey.",
+                  "category": "natural",
+                  "coords": [
+                        -76.677191,
+                        40.215925
+                  ]
+            },
+            {
+                  "name": "Hershey Gardens",
+                  "text": "Ein Park in Hershey, Pennsylvania.",
+                  "category": "park",
+                  "coords": [
+                        -76.656854,
+                        40.297712
+                  ]
+            },
+            {
+                  "name": "Kinderhaus",
+                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.626733,
+                        40.274835
+                  ]
+            },
+            {
+                  "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
+                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.641529,
+                        40.304068
+                  ]
+            },
+            {
+                  "name": "The Hershey Story",
+                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.652148,
+                        40.285292
+                  ]
+            },
+            {
+                  "name": "Hummelstown Area Historical Society Library & Office",
+                  "text": "Ein Museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.709478,
+                        40.265409
+                  ]
+            },
+            {
+                  "name": "Stacks Visual Arts Center",
+                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.625428,
+                        40.270616
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655615,
+                        40.297886
+                  ]
+            },
+            {
+                  "name": "Hershey Theatre",
+                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.648809,
+                        40.285391
+                  ]
+            },
+            {
+                  "name": "Music Box Theatre",
+                  "text": "Ein Theater in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655185,
+                        40.288675
+                  ]
+            },
+            {
+                  "name": "Pony Parade",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.654331,
+                        40.29345
+                  ]
+            },
+            {
+                  "name": "Southern Painted Turtle",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651884,
+                        40.287904
+                  ]
+            },
+            {
+                  "name": "Breakers Edge",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.652872,
+                        40.291232
+                  ]
+            },
+            {
+                  "name": "Mountain Lion",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650325,
+                        40.289031
+                  ]
+            },
+            {
+                  "name": "The Old Hershey Chocolate Factory",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.646614,
+                        40.287219
+                  ]
+            },
+            {
+                  "name": "Bald Eagle",
+                  "text": "Eine Attraktion in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650762,
+                        40.288002
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "AACA Museum",
+                  "text": "A hershey-i AACA Museum történelmi autókat és az autóipar történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -76.690099,
+                        40.298177
+                  ]
+            },
+            {
+                  "name": "Great Bear",
+                  "text": "A Great Bear egy acél hullámvasút a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653038,
+                        40.286883
+                  ]
+            },
+            {
+                  "name": "Skyrush",
+                  "text": "A Skyrush egy indító hullámvasút a Hersheyparkban, amely meredek lejtőjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655284,
+                        40.286576
+                  ]
+            },
+            {
+                  "name": "Indian Echo Caverns",
+                  "text": "A hershey-i Indian Echo Caverns egy mészkőbarlang-rendszer vezetett túrákkal.",
+                  "category": "natural",
+                  "coords": [
+                        -76.716881,
+                        40.252836
+                  ]
+            },
+            {
+                  "name": "Hersheypark",
+                  "text": "A Hersheypark egy jól ismert vidámpark Hersheyben, számos hullámvasúttal és látnivalóval.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.662081,
+                        40.288123
+                  ]
+            },
+            {
+                  "name": "Trailblazer",
+                  "text": "A Trailblazer egy attrakció a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653152,
+                        40.288983
+                  ]
+            },
+            {
+                  "name": "Jolly Rancher Remix",
+                  "text": "A Jolly Rancher Remix egy attrakció a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653842,
+                        40.289959
+                  ]
+            },
+            {
+                  "name": "Fahrenheit",
+                  "text": "A Fahrenheit egy attrakció a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655217,
+                        40.290226
+                  ]
+            },
+            {
+                  "name": "Wildcat's Revenge",
+                  "text": "A Wildcat's Revenge egy attrakció a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655569,
+                        40.292464
+                  ]
+            },
+            {
+                  "name": "Laff Trakk",
+                  "text": "A Laff Trakk egy attrakció a hershey-i Hersheyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655237,
+                        40.293398
+                  ]
+            },
+            {
+                  "name": "Hershey's Chocolate World",
+                  "text": "A Hershey's Chocolate World egy csokoládénak szentelt attrakció Hersheyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.660985,
+                        40.288137
+                  ]
+            },
+            {
+                  "name": "Round Top",
+                  "text": "A Round Top egy csúcs a hershey-i térségben.",
+                  "category": "natural",
+                  "coords": [
+                        -76.677191,
+                        40.215925
+                  ]
+            },
+            {
+                  "name": "Hershey Gardens",
+                  "text": "Egy park Hersheyben, Pennsylvaniában.",
+                  "category": "park",
+                  "coords": [
+                        -76.656854,
+                        40.297712
+                  ]
+            },
+            {
+                  "name": "Kinderhaus",
+                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.626733,
+                        40.274835
+                  ]
+            },
+            {
+                  "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
+                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.641529,
+                        40.304068
+                  ]
+            },
+            {
+                  "name": "The Hershey Story",
+                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.652148,
+                        40.285292
+                  ]
+            },
+            {
+                  "name": "Hummelstown Area Historical Society Library & Office",
+                  "text": "Egy múzeum Hersheyben, Pennsylvaniában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.709478,
+                        40.265409
+                  ]
+            },
+            {
+                  "name": "Stacks Visual Arts Center",
+                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.625428,
+                        40.270616
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655615,
+                        40.297886
+                  ]
+            },
+            {
+                  "name": "Hershey Theatre",
+                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.648809,
+                        40.285391
+                  ]
+            },
+            {
+                  "name": "Music Box Theatre",
+                  "text": "Egy színház Hersheyben, Pennsylvaniában.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655185,
+                        40.288675
+                  ]
+            },
+            {
+                  "name": "Pony Parade",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.654331,
+                        40.29345
+                  ]
+            },
+            {
+                  "name": "Southern Painted Turtle",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651884,
+                        40.287904
+                  ]
+            },
+            {
+                  "name": "Breakers Edge",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.652872,
+                        40.291232
+                  ]
+            },
+            {
+                  "name": "Mountain Lion",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650325,
+                        40.289031
+                  ]
+            },
+            {
+                  "name": "The Old Hershey Chocolate Factory",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.646614,
+                        40.287219
+                  ]
+            },
+            {
+                  "name": "Bald Eagle",
+                  "text": "Egy látványosság Hersheyben, Pennsylvaniában.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650762,
+                        40.288002
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "AACA Museum",
+                  "text": "Muzeul AACA din Hershey prezintă automobile istorice și istoria automobilului.",
+                  "category": "museum",
+                  "coords": [
+                        -76.690099,
+                        40.298177
+                  ]
+            },
+            {
+                  "name": "Great Bear",
+                  "text": "Great Bear este un montagne russe din oțel la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653038,
+                        40.286883
+                  ]
+            },
+            {
+                  "name": "Skyrush",
+                  "text": "Skyrush este un roller coaster lansat la Hersheypark, cunoscut pentru căderea sa abruptă.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655284,
+                        40.286576
+                  ]
+            },
+            {
+                  "name": "Indian Echo Caverns",
+                  "text": "Peșterile Indian Echo din Hershey sunt un sistem de peșteri de calcar cu tururi ghidate.",
+                  "category": "natural",
+                  "coords": [
+                        -76.716881,
+                        40.252836
+                  ]
+            },
+            {
+                  "name": "Hersheypark",
+                  "text": "Hersheypark este un parc tematic binecunoscut din Hershey, cu numeroase curse și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.662081,
+                        40.288123
+                  ]
+            },
+            {
+                  "name": "Trailblazer",
+                  "text": "Trailblazer este o atracție la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653152,
+                        40.288983
+                  ]
+            },
+            {
+                  "name": "Jolly Rancher Remix",
+                  "text": "Jolly Rancher Remix este o atracție la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653842,
+                        40.289959
+                  ]
+            },
+            {
+                  "name": "Fahrenheit",
+                  "text": "Fahrenheit este o atracție la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655217,
+                        40.290226
+                  ]
+            },
+            {
+                  "name": "Wildcat's Revenge",
+                  "text": "Wildcat's Revenge este o atracție la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655569,
+                        40.292464
+                  ]
+            },
+            {
+                  "name": "Laff Trakk",
+                  "text": "Laff Trakk este o atracție la Hersheypark din Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655237,
+                        40.293398
+                  ]
+            },
+            {
+                  "name": "Hershey's Chocolate World",
+                  "text": "Hershey's Chocolate World este o atracție din Hershey dedicată ciocolatei.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.660985,
+                        40.288137
+                  ]
+            },
+            {
+                  "name": "Round Top",
+                  "text": "Round Top este un vârf în zona Hershey.",
+                  "category": "natural",
+                  "coords": [
+                        -76.677191,
+                        40.215925
+                  ]
+            },
+            {
+                  "name": "Hershey Gardens",
+                  "text": "Un parc în Hershey, Pennsylvania.",
+                  "category": "park",
+                  "coords": [
+                        -76.656854,
+                        40.297712
+                  ]
+            },
+            {
+                  "name": "Kinderhaus",
+                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.626733,
+                        40.274835
+                  ]
+            },
+            {
+                  "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
+                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.641529,
+                        40.304068
+                  ]
+            },
+            {
+                  "name": "The Hershey Story",
+                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.652148,
+                        40.285292
+                  ]
+            },
+            {
+                  "name": "Hummelstown Area Historical Society Library & Office",
+                  "text": "Un muzeu în Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.709478,
+                        40.265409
+                  ]
+            },
+            {
+                  "name": "Stacks Visual Arts Center",
+                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.625428,
+                        40.270616
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655615,
+                        40.297886
+                  ]
+            },
+            {
+                  "name": "Hershey Theatre",
+                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.648809,
+                        40.285391
+                  ]
+            },
+            {
+                  "name": "Music Box Theatre",
+                  "text": "Un teatru în Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655185,
+                        40.288675
+                  ]
+            },
+            {
+                  "name": "Pony Parade",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.654331,
+                        40.29345
+                  ]
+            },
+            {
+                  "name": "Southern Painted Turtle",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651884,
+                        40.287904
+                  ]
+            },
+            {
+                  "name": "Breakers Edge",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.652872,
+                        40.291232
+                  ]
+            },
+            {
+                  "name": "Mountain Lion",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650325,
+                        40.289031
+                  ]
+            },
+            {
+                  "name": "The Old Hershey Chocolate Factory",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.646614,
+                        40.287219
+                  ]
+            },
+            {
+                  "name": "Bald Eagle",
+                  "text": "O atracție în Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650762,
+                        40.288002
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "AACA Museum",
+                  "text": "The AACA Museum in Hershey displays vintage automobiles and automotive history.",
+                  "category": "museum",
+                  "coords": [
+                        -76.690099,
+                        40.298177
+                  ]
+            },
+            {
+                  "name": "Great Bear",
+                  "text": "Great Bear is a steel roller coaster at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653038,
+                        40.286883
+                  ]
+            },
+            {
+                  "name": "Skyrush",
+                  "text": "Skyrush is a launched roller coaster at Hersheypark known for its steep drop.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655284,
+                        40.286576
+                  ]
+            },
+            {
+                  "name": "Indian Echo Caverns",
+                  "text": "Indian Echo Caverns in Hershey is a limestone cave system offering guided tours.",
+                  "category": "natural",
+                  "coords": [
+                        -76.716881,
+                        40.252836
+                  ]
+            },
+            {
+                  "name": "Hersheypark",
+                  "text": "Hersheypark is a well-known theme park in Hershey with numerous rides and attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.662081,
+                        40.288123
+                  ]
+            },
+            {
+                  "name": "Trailblazer",
+                  "text": "Trailblazer is an attraction at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653152,
+                        40.288983
+                  ]
+            },
+            {
+                  "name": "Jolly Rancher Remix",
+                  "text": "Jolly Rancher Remix is an attraction at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.653842,
+                        40.289959
+                  ]
+            },
+            {
+                  "name": "Fahrenheit",
+                  "text": "Fahrenheit is an attraction at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655217,
+                        40.290226
+                  ]
+            },
+            {
+                  "name": "Wildcat's Revenge",
+                  "text": "Wildcat's Revenge is an attraction at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655569,
+                        40.292464
+                  ]
+            },
+            {
+                  "name": "Laff Trakk",
+                  "text": "Laff Trakk is an attraction at Hersheypark in Hershey.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.655237,
+                        40.293398
+                  ]
+            },
+            {
+                  "name": "Hershey's Chocolate World",
+                  "text": "Hershey's Chocolate World is an attraction in Hershey dedicated to chocolate.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.660985,
+                        40.288137
+                  ]
+            },
+            {
+                  "name": "Round Top",
+                  "text": "Round Top is a peak in the Hershey area.",
+                  "category": "natural",
+                  "coords": [
+                        -76.677191,
+                        40.215925
+                  ]
+            },
+            {
+                  "name": "Hershey Gardens",
+                  "text": "A park in Hershey, Pennsylvania.",
+                  "category": "park",
+                  "coords": [
+                        -76.656854,
+                        40.297712
+                  ]
+            },
+            {
+                  "name": "Kinderhaus",
+                  "text": "A museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.626733,
+                        40.274835
+                  ]
+            },
+            {
+                  "name": "Pennsylvania State Police Historical, Educational, & Memorial Center",
+                  "text": "A museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.641529,
+                        40.304068
+                  ]
+            },
+            {
+                  "name": "The Hershey Story",
+                  "text": "A museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.652148,
+                        40.285292
+                  ]
+            },
+            {
+                  "name": "Hummelstown Area Historical Society Library & Office",
+                  "text": "A museum in Hershey, Pennsylvania.",
+                  "category": "museum",
+                  "coords": [
+                        -76.709478,
+                        40.265409
+                  ]
+            },
+            {
+                  "name": "Stacks Visual Arts Center",
+                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.625428,
+                        40.270616
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655615,
+                        40.297886
+                  ]
+            },
+            {
+                  "name": "Hershey Theatre",
+                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.648809,
+                        40.285391
+                  ]
+            },
+            {
+                  "name": "Music Box Theatre",
+                  "text": "A theatre in Hershey, Pennsylvania.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.655185,
+                        40.288675
+                  ]
+            },
+            {
+                  "name": "Pony Parade",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.654331,
+                        40.29345
+                  ]
+            },
+            {
+                  "name": "Southern Painted Turtle",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.651884,
+                        40.287904
+                  ]
+            },
+            {
+                  "name": "Breakers Edge",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.652872,
+                        40.291232
+                  ]
+            },
+            {
+                  "name": "Mountain Lion",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650325,
+                        40.289031
+                  ]
+            },
+            {
+                  "name": "The Old Hershey Chocolate Factory",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.646614,
+                        40.287219
+                  ]
+            },
+            {
+                  "name": "Bald Eagle",
+                  "text": "An attraction in Hershey, Pennsylvania.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.650762,
+                        40.288002
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-PA",
     coords: [-76.6546, 40.2889],
@@ -507,7 +9894,1420 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "monterey-bay-aquarium-life-v2",
+    id: "monterey-bay-aquarium-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Colton Hall Museum",
+                  "text": "Colton Hall Museum ist ein Museum in Monterey Bay Aquarium Life V2, wo die kalifornische Verfassung unterzeichnet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -121.897543,
+                        36.59776
+                  ]
+            },
+            {
+                  "name": "Monterey Museum of Art",
+                  "text": "Monterey Museum of Art ist ein Museum in Monterey Bay Aquarium Life V2, das amerikanische und kalifornische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -121.896565,
+                        36.597451
+                  ]
+            },
+            {
+                  "name": "Museum of Monterey",
+                  "text": "Museum of Monterey ist ein Museum in Monterey Bay Aquarium Life V2, das die maritime Geschichte der Region erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -121.8933,
+                        36.602394
+                  ]
+            },
+            {
+                  "name": "Lone Cypress",
+                  "text": "Lone Cypress ist eine Attraktion in Monterey Bay Aquarium Life V2, ein ikonischer Baum mit Blick auf den Pazifik.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.965209,
+                        36.568747
+                  ]
+            },
+            {
+                  "name": "Fort Ord Dunes State Park",
+                  "text": "Fort Ord Dunes State Park ist ein Naturschutzgebiet in Monterey Bay Aquarium Life V2 auf dem Gelände eines ehemaligen Armeestützpunkts.",
+                  "category": "natural",
+                  "coords": [
+                        -121.823354,
+                        36.654542
+                  ]
+            },
+            {
+                  "name": "Monterey State Historic Park",
+                  "text": "Monterey State Historic Park ist ein Park in Monterey Bay Aquarium Life V2, der historische Adobe-Häuser und Gärten bewahrt.",
+                  "category": "park",
+                  "coords": [
+                        -121.894723,
+                        36.60167
+                  ]
+            },
+            {
+                  "name": "Monterey Bay Aquarium",
+                  "text": "Monterey Bay Aquarium ist ein Aquarium in Monterey Bay Aquarium Life V2, bekannt für seine großen Tanks und Artenschutzbemühungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -121.901631,
+                        36.618084
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Museum of Natural History",
+                  "text": "Pacific Grove Museum of Natural History ist ein Museum in Monterey Bay Aquarium Life V2, das naturkundliche Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -121.917199,
+                        36.621742
+                  ]
+            },
+            {
+                  "name": "Carmel Bay",
+                  "text": "Carmel Bay ist eine Bucht in monterey-bay-aquarium-life-v2; sie ist Teil des Monterey Bay National Marine Sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.954678,
+                        36.543294
+                  ]
+            },
+            {
+                  "name": "Spanish Bay",
+                  "text": "Spanish Bay ist eine Bucht in monterey-bay-aquarium-life-v2; sie ist berühmt für das Geräusch der Wellen auf ihrem Kieselstrand.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.944678,
+                        36.617737
+                  ]
+            },
+            {
+                  "name": "Asilomar Conference Grounds",
+                  "text": "Asilomar Conference Grounds ist eine Attraktion in monterey-bay-aquarium-life-v2; es ist im National Register of Historic Places eingetragen.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.936867,
+                        36.61902
+                  ]
+            },
+            {
+                  "name": "Encanto Park",
+                  "text": "Der Encanto Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.828563,
+                        36.603293
+                  ]
+            },
+            {
+                  "name": "Lover's Point",
+                  "text": "Lover's Point ist ein Aussichtspunkt in monterey-bay-aquarium-life-v2; er bietet Panoramablick auf die Monterey Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9155,
+                        36.626721
+                  ]
+            },
+            {
+                  "name": "Loma Alta",
+                  "text": "Loma Alta ist ein Gipfel in monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.876778,
+                        36.563176
+                  ]
+            },
+            {
+                  "name": "Huckleberry Hill",
+                  "text": "Huckleberry Hill ist ein Gipfel in monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.921246,
+                        36.586683
+                  ]
+            },
+            {
+                  "name": "S F B Morse Botanical Reserve",
+                  "text": "Der S F B Morse Botanical Reserve ist ein Park in monterey-bay-aquarium-life-v2; er beherbergt einheimische Pflanzengärten.",
+                  "category": "park",
+                  "coords": [
+                        -121.937455,
+                        36.592738
+                  ]
+            },
+            {
+                  "name": "Carmel Pinnacles State Marine Reserve",
+                  "text": "Carmel Pinnacles State Marine Reserve ist ein Naturschutzgebiet in monterey-bay-aquarium-life-v2; es schützt Unterwasser-Felsnadeln und Meeresleben.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9675,
+                        36.55625
+                  ]
+            },
+            {
+                  "name": "Asilomar State Beach",
+                  "text": "Asilomar State Beach ist ein Naturschutzgebiet in monterey-bay-aquarium-life-v2; es ist ein beliebter Strand zum Spazierengehen und zur Wattwanderung.",
+                  "category": "natural",
+                  "coords": [
+                        -121.940069,
+                        36.623354
+                  ]
+            },
+            {
+                  "name": "Roach Canyon Park",
+                  "text": "Der Roach Canyon Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.863516,
+                        36.545663
+                  ]
+            },
+            {
+                  "name": "Del Rey Park",
+                  "text": "Der Del Rey Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.838163,
+                        36.593941
+                  ]
+            },
+            {
+                  "name": "Work Memorial Park",
+                  "text": "Der Work Memorial Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.846651,
+                        36.594741
+                  ]
+            },
+            {
+                  "name": "Laguna Grande Regional Park",
+                  "text": "Der Laguna Grande Regional Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.855072,
+                        36.60235
+                  ]
+            },
+            {
+                  "name": "Metz Park",
+                  "text": "Der Metz Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.830736,
+                        36.620792
+                  ]
+            },
+            {
+                  "name": "David Cutino Park",
+                  "text": "Der David Cutino Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.836738,
+                        36.615618
+                  ]
+            },
+            {
+                  "name": "Beta Park",
+                  "text": "Der Beta Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.831584,
+                        36.6073
+                  ]
+            },
+            {
+                  "name": "Farallones Park",
+                  "text": "Der Farallones Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.833791,
+                        36.602954
+                  ]
+            },
+            {
+                  "name": "Mescal Neil Park",
+                  "text": "Der Mescal Neil Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.825916,
+                        36.607472
+                  ]
+            },
+            {
+                  "name": "Portola Leslie Park",
+                  "text": "Der Portola Leslie Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.82543,
+                        36.609925
+                  ]
+            },
+            {
+                  "name": "Manzanita Stuart Park",
+                  "text": "Der Manzanita Stuart Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826713,
+                        36.614124
+                  ]
+            },
+            {
+                  "name": "Havana Soliz Park",
+                  "text": "Der Havana Soliz Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.823735,
+                        36.615709
+                  ]
+            },
+            {
+                  "name": "Lincoln Cunningham Park",
+                  "text": "Der Lincoln Cunningham Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826148,
+                        36.615324
+                  ]
+            },
+            {
+                  "name": "Stillwell Park",
+                  "text": "Der Stillwell Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.81246,
+                        36.638943
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "Der Esplanade Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.925256,
+                        36.633231
+                  ]
+            },
+            {
+                  "name": "Point Piños Lighthouse Reservation",
+                  "text": "Point Piños Lighthouse Reservation ist ein Park in monterey-bay-aquarium-life-v2; er beherbergt den ältesten durchgehend betriebenen Leuchtturm an der Westküste.",
+                  "category": "park",
+                  "coords": [
+                        -121.933233,
+                        36.63336
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Ball Park",
+                  "text": "Der Pacific Grove Ball Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.929114,
+                        36.624286
+                  ]
+            },
+            {
+                  "name": "Lover's Point Park",
+                  "text": "Der Lover's Point Park ist ein Park in monterey-bay-aquarium-life-v2; er umfasst einen Strand und Picknickbereiche.",
+                  "category": "park",
+                  "coords": [
+                        -121.916502,
+                        36.625777
+                  ]
+            },
+            {
+                  "name": "Chase Park",
+                  "text": "Der Chase Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.917822,
+                        36.624702
+                  ]
+            },
+            {
+                  "name": "Shoreline Park",
+                  "text": "Der Shoreline Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.910905,
+                        36.622033
+                  ]
+            },
+            {
+                  "name": "Andy Jacobsen Park",
+                  "text": "Der Andy Jacobsen Park ist ein Park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.90998,
+                        36.620692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Colton Hall Museum",
+                  "text": "Colton Hall Museum egy múzeum a Monterey Bay Aquarium Life V2 területén, ahol a kaliforniai alkotmányt aláírták.",
+                  "category": "museum",
+                  "coords": [
+                        -121.897543,
+                        36.59776
+                  ]
+            },
+            {
+                  "name": "Monterey Museum of Art",
+                  "text": "Monterey Museum of Art egy múzeum a Monterey Bay Aquarium Life V2 területén, amely amerikai és kaliforniai művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -121.896565,
+                        36.597451
+                  ]
+            },
+            {
+                  "name": "Museum of Monterey",
+                  "text": "Museum of Monterey egy múzeum a Monterey Bay Aquarium Life V2 területén, amely a régió tengeri örökségét tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        -121.8933,
+                        36.602394
+                  ]
+            },
+            {
+                  "name": "Lone Cypress",
+                  "text": "Lone Cypress egy látványosság a Monterey Bay Aquarium Life V2 területén, egy ikonikus fa, amely a Csendes-óceánra néz.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.965209,
+                        36.568747
+                  ]
+            },
+            {
+                  "name": "Fort Ord Dunes State Park",
+                  "text": "Fort Ord Dunes State Park egy természetvédelmi terület a Monterey Bay Aquarium Life V2 területén, egy egykori katonai támaszpont helyén.",
+                  "category": "natural",
+                  "coords": [
+                        -121.823354,
+                        36.654542
+                  ]
+            },
+            {
+                  "name": "Monterey State Historic Park",
+                  "text": "Monterey State Historic Park egy park a Monterey Bay Aquarium Life V2 területén, amely történelmi vályogházakat és kerteket őriz.",
+                  "category": "park",
+                  "coords": [
+                        -121.894723,
+                        36.60167
+                  ]
+            },
+            {
+                  "name": "Monterey Bay Aquarium",
+                  "text": "Monterey Bay Aquarium egy akvárium a Monterey Bay Aquarium Life V2 területén, híres nagy tartályairól és természetvédelmi erőfeszítéseiről.",
+                  "category": "recreational",
+                  "coords": [
+                        -121.901631,
+                        36.618084
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Museum of Natural History",
+                  "text": "Pacific Grove Museum of Natural History egy múzeum a Monterey Bay Aquarium Life V2 területén, természetrajzi kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -121.917199,
+                        36.621742
+                  ]
+            },
+            {
+                  "name": "Carmel Bay",
+                  "text": "A Carmel Bay egy öböl a monterey-bay-aquarium-life-v2-ben; a Monterey Bay National Marine Sanctuary része.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.954678,
+                        36.543294
+                  ]
+            },
+            {
+                  "name": "Spanish Bay",
+                  "text": "A Spanish Bay egy öböl a monterey-bay-aquarium-life-v2-ben; híres a hullámok kavicsos parton hallható hangjáról.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.944678,
+                        36.617737
+                  ]
+            },
+            {
+                  "name": "Asilomar Conference Grounds",
+                  "text": "Az Asilomar Conference Grounds egy látványosság a monterey-bay-aquarium-life-v2-ben; szerepel a történelmi helyek nemzeti jegyzékében.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.936867,
+                        36.61902
+                  ]
+            },
+            {
+                  "name": "Encanto Park",
+                  "text": "Az Encanto Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.828563,
+                        36.603293
+                  ]
+            },
+            {
+                  "name": "Lover's Point",
+                  "text": "A Lover's Point egy kilátópont a monterey-bay-aquarium-life-v2-ben; panorámás kilátást nyújt a Monterey-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9155,
+                        36.626721
+                  ]
+            },
+            {
+                  "name": "Loma Alta",
+                  "text": "A Loma Alta egy csúcs a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -121.876778,
+                        36.563176
+                  ]
+            },
+            {
+                  "name": "Huckleberry Hill",
+                  "text": "A Huckleberry Hill egy csúcs a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -121.921246,
+                        36.586683
+                  ]
+            },
+            {
+                  "name": "S F B Morse Botanical Reserve",
+                  "text": "Az S F B Morse Botanical Reserve egy park a monterey-bay-aquarium-life-v2-ben; bennszülött növénykertekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        -121.937455,
+                        36.592738
+                  ]
+            },
+            {
+                  "name": "Carmel Pinnacles State Marine Reserve",
+                  "text": "A Carmel Pinnacles State Marine Reserve egy természetvédelmi terület a monterey-bay-aquarium-life-v2-ben; védi a víz alatti sziklatornyokat és a tengeri élővilágot.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9675,
+                        36.55625
+                  ]
+            },
+            {
+                  "name": "Asilomar State Beach",
+                  "text": "Az Asilomar State Beach egy természetvédelmi terület a monterey-bay-aquarium-life-v2-ben; népszerű strand sétáláshoz és dagálypocsolyák felfedezéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -121.940069,
+                        36.623354
+                  ]
+            },
+            {
+                  "name": "Roach Canyon Park",
+                  "text": "A Roach Canyon Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.863516,
+                        36.545663
+                  ]
+            },
+            {
+                  "name": "Del Rey Park",
+                  "text": "A Del Rey Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.838163,
+                        36.593941
+                  ]
+            },
+            {
+                  "name": "Work Memorial Park",
+                  "text": "A Work Memorial Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.846651,
+                        36.594741
+                  ]
+            },
+            {
+                  "name": "Laguna Grande Regional Park",
+                  "text": "A Laguna Grande Regional Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.855072,
+                        36.60235
+                  ]
+            },
+            {
+                  "name": "Metz Park",
+                  "text": "A Metz Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.830736,
+                        36.620792
+                  ]
+            },
+            {
+                  "name": "David Cutino Park",
+                  "text": "A David Cutino Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.836738,
+                        36.615618
+                  ]
+            },
+            {
+                  "name": "Beta Park",
+                  "text": "A Beta Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.831584,
+                        36.6073
+                  ]
+            },
+            {
+                  "name": "Farallones Park",
+                  "text": "A Farallones Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.833791,
+                        36.602954
+                  ]
+            },
+            {
+                  "name": "Mescal Neil Park",
+                  "text": "A Mescal Neil Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.825916,
+                        36.607472
+                  ]
+            },
+            {
+                  "name": "Portola Leslie Park",
+                  "text": "A Portola Leslie Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.82543,
+                        36.609925
+                  ]
+            },
+            {
+                  "name": "Manzanita Stuart Park",
+                  "text": "A Manzanita Stuart Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.826713,
+                        36.614124
+                  ]
+            },
+            {
+                  "name": "Havana Soliz Park",
+                  "text": "A Havana Soliz Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.823735,
+                        36.615709
+                  ]
+            },
+            {
+                  "name": "Lincoln Cunningham Park",
+                  "text": "A Lincoln Cunningham Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.826148,
+                        36.615324
+                  ]
+            },
+            {
+                  "name": "Stillwell Park",
+                  "text": "A Stillwell Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.81246,
+                        36.638943
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "A Esplanade Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.925256,
+                        36.633231
+                  ]
+            },
+            {
+                  "name": "Point Piños Lighthouse Reservation",
+                  "text": "A Point Piños Lighthouse Reservation egy park a monterey-bay-aquarium-life-v2-ben; itt található a nyugati part legrégebben folyamatosan működő világítótornya.",
+                  "category": "park",
+                  "coords": [
+                        -121.933233,
+                        36.63336
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Ball Park",
+                  "text": "A Pacific Grove Ball Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.929114,
+                        36.624286
+                  ]
+            },
+            {
+                  "name": "Lover's Point Park",
+                  "text": "A Lover's Point Park egy park a monterey-bay-aquarium-life-v2-ben; strandot és piknikezőhelyeket foglal magában.",
+                  "category": "park",
+                  "coords": [
+                        -121.916502,
+                        36.625777
+                  ]
+            },
+            {
+                  "name": "Chase Park",
+                  "text": "A Chase Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.917822,
+                        36.624702
+                  ]
+            },
+            {
+                  "name": "Shoreline Park",
+                  "text": "A Shoreline Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.910905,
+                        36.622033
+                  ]
+            },
+            {
+                  "name": "Andy Jacobsen Park",
+                  "text": "A Andy Jacobsen Park egy park a monterey-bay-aquarium-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -121.90998,
+                        36.620692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Colton Hall Museum",
+                  "text": "Colton Hall Museum este un muzeu în Monterey Bay Aquarium Life V2, unde a fost semnată Constituția Californiei.",
+                  "category": "museum",
+                  "coords": [
+                        -121.897543,
+                        36.59776
+                  ]
+            },
+            {
+                  "name": "Monterey Museum of Art",
+                  "text": "Monterey Museum of Art este un muzeu în Monterey Bay Aquarium Life V2, prezentând artă americană și californiană.",
+                  "category": "museum",
+                  "coords": [
+                        -121.896565,
+                        36.597451
+                  ]
+            },
+            {
+                  "name": "Museum of Monterey",
+                  "text": "Museum of Monterey este un muzeu în Monterey Bay Aquarium Life V2, explorând patrimoniul maritim al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -121.8933,
+                        36.602394
+                  ]
+            },
+            {
+                  "name": "Lone Cypress",
+                  "text": "Lone Cypress este o atracție în Monterey Bay Aquarium Life V2, un copac iconic cu vedere spre Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.965209,
+                        36.568747
+                  ]
+            },
+            {
+                  "name": "Fort Ord Dunes State Park",
+                  "text": "Fort Ord Dunes State Park este o rezervație naturală în Monterey Bay Aquarium Life V2, pe locul unei foste baze militare.",
+                  "category": "natural",
+                  "coords": [
+                        -121.823354,
+                        36.654542
+                  ]
+            },
+            {
+                  "name": "Monterey State Historic Park",
+                  "text": "Monterey State Historic Park este un parc în Monterey Bay Aquarium Life V2, păstrând adobe-uri istorice și grădini.",
+                  "category": "park",
+                  "coords": [
+                        -121.894723,
+                        36.60167
+                  ]
+            },
+            {
+                  "name": "Monterey Bay Aquarium",
+                  "text": "Monterey Bay Aquarium este un acvariu în Monterey Bay Aquarium Life V2, cunoscut pentru bazinele sale mari și eforturile de conservare.",
+                  "category": "recreational",
+                  "coords": [
+                        -121.901631,
+                        36.618084
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Museum of Natural History",
+                  "text": "Pacific Grove Museum of Natural History este un muzeu în Monterey Bay Aquarium Life V2, prezentând exponate de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        -121.917199,
+                        36.621742
+                  ]
+            },
+            {
+                  "name": "Carmel Bay",
+                  "text": "Carmel Bay este un golf în monterey-bay-aquarium-life-v2; face parte din sanctuarul marin național Monterey Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.954678,
+                        36.543294
+                  ]
+            },
+            {
+                  "name": "Spanish Bay",
+                  "text": "Spanish Bay este un golf în monterey-bay-aquarium-life-v2; este renumit pentru sunetul valurilor pe plaja sa de pietriș.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.944678,
+                        36.617737
+                  ]
+            },
+            {
+                  "name": "Asilomar Conference Grounds",
+                  "text": "Asilomar Conference Grounds este o atracție în monterey-bay-aquarium-life-v2; este înscris în Registrul Național al Locurilor Istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.936867,
+                        36.61902
+                  ]
+            },
+            {
+                  "name": "Encanto Park",
+                  "text": "Encanto Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.828563,
+                        36.603293
+                  ]
+            },
+            {
+                  "name": "Lover's Point",
+                  "text": "Lover's Point este un punct de belvedere în monterey-bay-aquarium-life-v2; oferă vederi panoramice asupra golfului Monterey.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9155,
+                        36.626721
+                  ]
+            },
+            {
+                  "name": "Loma Alta",
+                  "text": "Loma Alta este un vârf în monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.876778,
+                        36.563176
+                  ]
+            },
+            {
+                  "name": "Huckleberry Hill",
+                  "text": "Huckleberry Hill este un vârf în monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.921246,
+                        36.586683
+                  ]
+            },
+            {
+                  "name": "S F B Morse Botanical Reserve",
+                  "text": "S F B Morse Botanical Reserve este un parc în monterey-bay-aquarium-life-v2; are grădini de plante native.",
+                  "category": "park",
+                  "coords": [
+                        -121.937455,
+                        36.592738
+                  ]
+            },
+            {
+                  "name": "Carmel Pinnacles State Marine Reserve",
+                  "text": "Carmel Pinnacles State Marine Reserve este o rezervație naturală în monterey-bay-aquarium-life-v2; protejează vârfuri stâncoase subacvatice și viața marină.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9675,
+                        36.55625
+                  ]
+            },
+            {
+                  "name": "Asilomar State Beach",
+                  "text": "Asilomar State Beach este o rezervație naturală în monterey-bay-aquarium-life-v2; este o plajă populară pentru plimbări și explorarea bălților de maree.",
+                  "category": "natural",
+                  "coords": [
+                        -121.940069,
+                        36.623354
+                  ]
+            },
+            {
+                  "name": "Roach Canyon Park",
+                  "text": "Roach Canyon Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.863516,
+                        36.545663
+                  ]
+            },
+            {
+                  "name": "Del Rey Park",
+                  "text": "Del Rey Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.838163,
+                        36.593941
+                  ]
+            },
+            {
+                  "name": "Work Memorial Park",
+                  "text": "Work Memorial Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.846651,
+                        36.594741
+                  ]
+            },
+            {
+                  "name": "Laguna Grande Regional Park",
+                  "text": "Laguna Grande Regional Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.855072,
+                        36.60235
+                  ]
+            },
+            {
+                  "name": "Metz Park",
+                  "text": "Metz Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.830736,
+                        36.620792
+                  ]
+            },
+            {
+                  "name": "David Cutino Park",
+                  "text": "David Cutino Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.836738,
+                        36.615618
+                  ]
+            },
+            {
+                  "name": "Beta Park",
+                  "text": "Beta Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.831584,
+                        36.6073
+                  ]
+            },
+            {
+                  "name": "Farallones Park",
+                  "text": "Farallones Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.833791,
+                        36.602954
+                  ]
+            },
+            {
+                  "name": "Mescal Neil Park",
+                  "text": "Mescal Neil Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.825916,
+                        36.607472
+                  ]
+            },
+            {
+                  "name": "Portola Leslie Park",
+                  "text": "Portola Leslie Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.82543,
+                        36.609925
+                  ]
+            },
+            {
+                  "name": "Manzanita Stuart Park",
+                  "text": "Manzanita Stuart Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826713,
+                        36.614124
+                  ]
+            },
+            {
+                  "name": "Havana Soliz Park",
+                  "text": "Havana Soliz Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.823735,
+                        36.615709
+                  ]
+            },
+            {
+                  "name": "Lincoln Cunningham Park",
+                  "text": "Lincoln Cunningham Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826148,
+                        36.615324
+                  ]
+            },
+            {
+                  "name": "Stillwell Park",
+                  "text": "Stillwell Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.81246,
+                        36.638943
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "Esplanade Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.925256,
+                        36.633231
+                  ]
+            },
+            {
+                  "name": "Point Piños Lighthouse Reservation",
+                  "text": "Point Piños Lighthouse Reservation este un parc în monterey-bay-aquarium-life-v2; găzduiește cel mai vechi far operațional continuu de pe Coasta de Vest.",
+                  "category": "park",
+                  "coords": [
+                        -121.933233,
+                        36.63336
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Ball Park",
+                  "text": "Pacific Grove Ball Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.929114,
+                        36.624286
+                  ]
+            },
+            {
+                  "name": "Lover's Point Park",
+                  "text": "Lover's Point Park este un parc în monterey-bay-aquarium-life-v2; include o plajă și zone de picnic.",
+                  "category": "park",
+                  "coords": [
+                        -121.916502,
+                        36.625777
+                  ]
+            },
+            {
+                  "name": "Chase Park",
+                  "text": "Chase Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.917822,
+                        36.624702
+                  ]
+            },
+            {
+                  "name": "Shoreline Park",
+                  "text": "Shoreline Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.910905,
+                        36.622033
+                  ]
+            },
+            {
+                  "name": "Andy Jacobsen Park",
+                  "text": "Andy Jacobsen Park este un parc în monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.90998,
+                        36.620692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Colton Hall Museum",
+                  "text": "Colton Hall Museum is a museum in Monterey Bay Aquarium Life V2 where the California Constitution was signed.",
+                  "category": "museum",
+                  "coords": [
+                        -121.897543,
+                        36.59776
+                  ]
+            },
+            {
+                  "name": "Monterey Museum of Art",
+                  "text": "Monterey Museum of Art is a museum in Monterey Bay Aquarium Life V2 featuring American and California art.",
+                  "category": "museum",
+                  "coords": [
+                        -121.896565,
+                        36.597451
+                  ]
+            },
+            {
+                  "name": "Museum of Monterey",
+                  "text": "Museum of Monterey is a museum in Monterey Bay Aquarium Life V2 exploring the region's maritime heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -121.8933,
+                        36.602394
+                  ]
+            },
+            {
+                  "name": "Lone Cypress",
+                  "text": "Lone Cypress is an attraction in Monterey Bay Aquarium Life V2, an iconic tree overlooking the Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.965209,
+                        36.568747
+                  ]
+            },
+            {
+                  "name": "Fort Ord Dunes State Park",
+                  "text": "Fort Ord Dunes State Park is a nature reserve in Monterey Bay Aquarium Life V2 on the site of a former army base.",
+                  "category": "natural",
+                  "coords": [
+                        -121.823354,
+                        36.654542
+                  ]
+            },
+            {
+                  "name": "Monterey State Historic Park",
+                  "text": "Monterey State Historic Park is a park in Monterey Bay Aquarium Life V2 preserving historic adobes and gardens.",
+                  "category": "park",
+                  "coords": [
+                        -121.894723,
+                        36.60167
+                  ]
+            },
+            {
+                  "name": "Monterey Bay Aquarium",
+                  "text": "Monterey Bay Aquarium is an aquarium in Monterey Bay Aquarium Life V2 known for its large tanks and conservation efforts.",
+                  "category": "recreational",
+                  "coords": [
+                        -121.901631,
+                        36.618084
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Museum of Natural History",
+                  "text": "Pacific Grove Museum of Natural History is a museum in Monterey Bay Aquarium Life V2 showcasing natural history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -121.917199,
+                        36.621742
+                  ]
+            },
+            {
+                  "name": "Carmel Bay",
+                  "text": "Carmel Bay is a bay in monterey-bay-aquarium-life-v2; it is part of the Monterey Bay National Marine Sanctuary.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.954678,
+                        36.543294
+                  ]
+            },
+            {
+                  "name": "Spanish Bay",
+                  "text": "Spanish Bay is a bay in monterey-bay-aquarium-life-v2; it is famous for the sound of waves on its pebble beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.944678,
+                        36.617737
+                  ]
+            },
+            {
+                  "name": "Asilomar Conference Grounds",
+                  "text": "Asilomar Conference Grounds is an attraction in monterey-bay-aquarium-life-v2; it is listed on the National Register of Historic Places.",
+                  "category": "landmark",
+                  "coords": [
+                        -121.936867,
+                        36.61902
+                  ]
+            },
+            {
+                  "name": "Encanto Park",
+                  "text": "Encanto Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.828563,
+                        36.603293
+                  ]
+            },
+            {
+                  "name": "Lover's Point",
+                  "text": "Lover's Point is a viewpoint in monterey-bay-aquarium-life-v2; it offers panoramic views of the Monterey Bay.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9155,
+                        36.626721
+                  ]
+            },
+            {
+                  "name": "Loma Alta",
+                  "text": "Loma Alta is a peak in monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.876778,
+                        36.563176
+                  ]
+            },
+            {
+                  "name": "Huckleberry Hill",
+                  "text": "Huckleberry Hill is a peak in monterey-bay-aquarium-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -121.921246,
+                        36.586683
+                  ]
+            },
+            {
+                  "name": "S F B Morse Botanical Reserve",
+                  "text": "S F B Morse Botanical Reserve is a park in monterey-bay-aquarium-life-v2; it features native plant gardens.",
+                  "category": "park",
+                  "coords": [
+                        -121.937455,
+                        36.592738
+                  ]
+            },
+            {
+                  "name": "Carmel Pinnacles State Marine Reserve",
+                  "text": "Carmel Pinnacles State Marine Reserve is a nature reserve in monterey-bay-aquarium-life-v2; it protects underwater rock pinnacles and marine life.",
+                  "category": "natural",
+                  "coords": [
+                        -121.9675,
+                        36.55625
+                  ]
+            },
+            {
+                  "name": "Asilomar State Beach",
+                  "text": "Asilomar State Beach is a nature reserve in monterey-bay-aquarium-life-v2; it is a popular beach for walking and tide pooling.",
+                  "category": "natural",
+                  "coords": [
+                        -121.940069,
+                        36.623354
+                  ]
+            },
+            {
+                  "name": "Roach Canyon Park",
+                  "text": "Roach Canyon Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.863516,
+                        36.545663
+                  ]
+            },
+            {
+                  "name": "Del Rey Park",
+                  "text": "Del Rey Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.838163,
+                        36.593941
+                  ]
+            },
+            {
+                  "name": "Work Memorial Park",
+                  "text": "Work Memorial Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.846651,
+                        36.594741
+                  ]
+            },
+            {
+                  "name": "Laguna Grande Regional Park",
+                  "text": "Laguna Grande Regional Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.855072,
+                        36.60235
+                  ]
+            },
+            {
+                  "name": "Metz Park",
+                  "text": "Metz Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.830736,
+                        36.620792
+                  ]
+            },
+            {
+                  "name": "David Cutino Park",
+                  "text": "David Cutino Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.836738,
+                        36.615618
+                  ]
+            },
+            {
+                  "name": "Beta Park",
+                  "text": "Beta Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.831584,
+                        36.6073
+                  ]
+            },
+            {
+                  "name": "Farallones Park",
+                  "text": "Farallones Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.833791,
+                        36.602954
+                  ]
+            },
+            {
+                  "name": "Mescal Neil Park",
+                  "text": "Mescal Neil Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.825916,
+                        36.607472
+                  ]
+            },
+            {
+                  "name": "Portola Leslie Park",
+                  "text": "Portola Leslie Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.82543,
+                        36.609925
+                  ]
+            },
+            {
+                  "name": "Manzanita Stuart Park",
+                  "text": "Manzanita Stuart Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826713,
+                        36.614124
+                  ]
+            },
+            {
+                  "name": "Havana Soliz Park",
+                  "text": "Havana Soliz Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.823735,
+                        36.615709
+                  ]
+            },
+            {
+                  "name": "Lincoln Cunningham Park",
+                  "text": "Lincoln Cunningham Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.826148,
+                        36.615324
+                  ]
+            },
+            {
+                  "name": "Stillwell Park",
+                  "text": "Stillwell Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.81246,
+                        36.638943
+                  ]
+            },
+            {
+                  "name": "Esplanade Park",
+                  "text": "Esplanade Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.925256,
+                        36.633231
+                  ]
+            },
+            {
+                  "name": "Point Piños Lighthouse Reservation",
+                  "text": "Point Piños Lighthouse Reservation is a park in monterey-bay-aquarium-life-v2; it features the oldest continuously operating lighthouse on the West Coast.",
+                  "category": "park",
+                  "coords": [
+                        -121.933233,
+                        36.63336
+                  ]
+            },
+            {
+                  "name": "Pacific Grove Ball Park",
+                  "text": "Pacific Grove Ball Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.929114,
+                        36.624286
+                  ]
+            },
+            {
+                  "name": "Lover's Point Park",
+                  "text": "Lover's Point Park is a park in monterey-bay-aquarium-life-v2; it includes a beach and picnic areas.",
+                  "category": "park",
+                  "coords": [
+                        -121.916502,
+                        36.625777
+                  ]
+            },
+            {
+                  "name": "Chase Park",
+                  "text": "Chase Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.917822,
+                        36.624702
+                  ]
+            },
+            {
+                  "name": "Shoreline Park",
+                  "text": "Shoreline Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.910905,
+                        36.622033
+                  ]
+            },
+            {
+                  "name": "Andy Jacobsen Park",
+                  "text": "Andy Jacobsen Park is a park in monterey-bay-aquarium-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -121.90998,
+                        36.620692
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-CA",
     coords: [-121.9026, 36.6183],
@@ -543,7 +11343,376 @@ export const poiExtraUsaLifeV2: POI[] = [
     }
   },
   {
-    id: "olympic-national-park-life-v2",
+    id: "olympic-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Meany",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.598239,
+                        47.750643
+                  ]
+            },
+            {
+                  "name": "Mount Noyes",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.594905,
+                        47.739254
+                  ]
+            },
+            {
+                  "name": "Mount Seattle",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.577681,
+                        47.730921
+                  ]
+            },
+            {
+                  "name": "Mount Queets",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.595183,
+                        47.762032
+                  ]
+            },
+            {
+                  "name": "Mount Barnes",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.576016,
+                        47.783699
+                  ]
+            },
+            {
+                  "name": "Mount Ferry",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.568259,
+                        47.842778
+                  ]
+            },
+            {
+                  "name": "Mount Olympus",
+                  "text": "Der höchste Gipfel der Olympic Mountains im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.710907,
+                        47.801221
+                  ]
+            },
+            {
+                  "name": "Mount Mathias",
+                  "text": "Ein Berggipfel im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.677688,
+                        47.804532
+                  ]
+            },
+            {
+                  "name": "Daniel J. Evans Wilderness",
+                  "text": "Ein Wilderness-Schutzgebiet im Olympic-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -123.643555,
+                        47.799469
+                  ]
+            },
+            {
+                  "name": "Olympic-Nationalpark",
+                  "text": "Ein UNESCO-Welterbe und Nationalpark im Bundesstaat Washington.",
+                  "category": "natural",
+                  "coords": [
+                        -123.666277,
+                        47.803759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Meany",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.598239,
+                        47.750643
+                  ]
+            },
+            {
+                  "name": "Mount Noyes",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.594905,
+                        47.739254
+                  ]
+            },
+            {
+                  "name": "Mount Seattle",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.577681,
+                        47.730921
+                  ]
+            },
+            {
+                  "name": "Mount Queets",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.595183,
+                        47.762032
+                  ]
+            },
+            {
+                  "name": "Mount Barnes",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.576016,
+                        47.783699
+                  ]
+            },
+            {
+                  "name": "Mount Ferry",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.568259,
+                        47.842778
+                  ]
+            },
+            {
+                  "name": "Mount Olympus",
+                  "text": "Az Olympic-hegység legmagasabb csúcsa az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.710907,
+                        47.801221
+                  ]
+            },
+            {
+                  "name": "Mount Mathias",
+                  "text": "Hegycsúcs az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.677688,
+                        47.804532
+                  ]
+            },
+            {
+                  "name": "Daniel J. Evans Wilderness",
+                  "text": "Vadon védett terület az Olympic Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.643555,
+                        47.799469
+                  ]
+            },
+            {
+                  "name": "Olympic National Park",
+                  "text": "UNESCO Világörökség és nemzeti park Washington államban.",
+                  "category": "natural",
+                  "coords": [
+                        -123.666277,
+                        47.803759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Meany",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.598239,
+                        47.750643
+                  ]
+            },
+            {
+                  "name": "Mount Noyes",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.594905,
+                        47.739254
+                  ]
+            },
+            {
+                  "name": "Mount Seattle",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.577681,
+                        47.730921
+                  ]
+            },
+            {
+                  "name": "Mount Queets",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.595183,
+                        47.762032
+                  ]
+            },
+            {
+                  "name": "Mount Barnes",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.576016,
+                        47.783699
+                  ]
+            },
+            {
+                  "name": "Mount Ferry",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.568259,
+                        47.842778
+                  ]
+            },
+            {
+                  "name": "Mount Olympus",
+                  "text": "Cel mai înalt vârf al Munților Olympic din Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.710907,
+                        47.801221
+                  ]
+            },
+            {
+                  "name": "Mount Mathias",
+                  "text": "Un vârf montan în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.677688,
+                        47.804532
+                  ]
+            },
+            {
+                  "name": "Daniel J. Evans Wilderness",
+                  "text": "O arie sălbatică protejată în Parcul Național Olympic.",
+                  "category": "natural",
+                  "coords": [
+                        -123.643555,
+                        47.799469
+                  ]
+            },
+            {
+                  "name": "Olympic National Park",
+                  "text": "Un sit UNESCO și parc național în statul Washington.",
+                  "category": "natural",
+                  "coords": [
+                        -123.666277,
+                        47.803759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Meany",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.598239,
+                        47.750643
+                  ]
+            },
+            {
+                  "name": "Mount Noyes",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.594905,
+                        47.739254
+                  ]
+            },
+            {
+                  "name": "Mount Seattle",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.577681,
+                        47.730921
+                  ]
+            },
+            {
+                  "name": "Mount Queets",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.595183,
+                        47.762032
+                  ]
+            },
+            {
+                  "name": "Mount Barnes",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.576016,
+                        47.783699
+                  ]
+            },
+            {
+                  "name": "Mount Ferry",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.568259,
+                        47.842778
+                  ]
+            },
+            {
+                  "name": "Mount Olympus",
+                  "text": "The highest peak in the Olympic Mountains, located in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.710907,
+                        47.801221
+                  ]
+            },
+            {
+                  "name": "Mount Mathias",
+                  "text": "A mountain peak in Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.677688,
+                        47.804532
+                  ]
+            },
+            {
+                  "name": "Daniel J. Evans Wilderness",
+                  "text": "A protected wilderness area within Olympic National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -123.643555,
+                        47.799469
+                  ]
+            },
+            {
+                  "name": "Olympic National Park",
+                  "text": "A UNESCO World Heritage Site and national park in Washington state.",
+                  "category": "natural",
+                  "coords": [
+                        -123.666277,
+                        47.803759
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-WA",
     coords: [-123.604, 47.802],
@@ -579,7 +11748,1168 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "florida-citrus-groves-life-v2",
+    id: "florida-citrus-groves-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Windermere Town Hall",
+                  "text": "Das Windermere Town Hall ist das Gemeindehaus in Windermere, Florida, das die lokale Regierung beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        -81.535317,
+                        28.494883
+                  ]
+            },
+            {
+                  "name": "Orlando Florida Temple",
+                  "text": "Der Orlando Florida Temple ist ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Orlando, Florida.",
+                  "category": "religious",
+                  "coords": [
+                        -81.509479,
+                        28.507366
+                  ]
+            },
+            {
+                  "name": "Skull Island: Reign of Kong",
+                  "text": "Skull Island: Reign of Kong ist eine 3D-Dark-Ride in den Universal's Islands of Adventure in Orlando, Florida, mit King Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473049,
+                        28.469061
+                  ]
+            },
+            {
+                  "name": "Hagrid’s Magical Creatures Motorbike Adventure",
+                  "text": "Hagrid’s Magical Creatures Motorbike Adventure ist eine geschichtengetriebene Achterbahn in den Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473509,
+                        28.473436
+                  ]
+            },
+            {
+                  "name": "Flight of the Hippogriff",
+                  "text": "Flight of the Hippogriff ist eine Familien-Achterbahn in den Universal's Islands of Adventure in Orlando, Florida, thematisiert auf Hippogreife.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473834,
+                        28.472447
+                  ]
+            },
+            {
+                  "name": "Jurassic World VelociCoaster",
+                  "text": "Jurassic World VelociCoaster ist eine gestartete Achterbahn in den Universal's Islands of Adventure in Orlando, Florida, mit hoher Geschwindigkeit und Inversionen.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.472487,
+                        28.471167
+                  ]
+            },
+            {
+                  "name": "The Amazing Adventures of Spider-Man",
+                  "text": "The Amazing Adventures of Spider-Man ist eine 3D-Bewegungssimulatorfahrt in den Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469693,
+                        28.47004
+                  ]
+            },
+            {
+                  "name": "Universal CityWalk Orlando",
+                  "text": "Universal CityWalk Orlando ist ein Unterhaltungskomplex im Universal Orlando Resort in Orlando, Florida, mit Restaurants und Geschäften.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.466265,
+                        28.47348
+                  ]
+            },
+            {
+                  "name": "Universal Volcano Bay",
+                  "text": "Universal Volcano Bay ist ein Wasserthemenpark im Universal Orlando Resort in Orlando, Florida, mit einem Vulkan als Mittelpunkt.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.473042,
+                        28.461676
+                  ]
+            },
+            {
+                  "name": "Jurassic Park River Adventure",
+                  "text": "Jurassic Park River Adventure ist eine Wasserfloßfahrt in den Universal's Islands of Adventure in Orlando, Florida, mit animatronischen Dinosauriern.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473782,
+                        28.470252
+                  ]
+            },
+            {
+                  "name": "The Incredible Hulk Coaster",
+                  "text": "The Incredible Hulk Coaster ist eine gestartete Achterbahn in den Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468776,
+                        28.471502
+                  ]
+            },
+            {
+                  "name": "Dudley Doo-Right's Ripsaw Falls",
+                  "text": "Dudley Doo-Right's Ripsaw Falls ist eine Wasserholzachterbahn in den Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.471786,
+                        28.469205
+                  ]
+            },
+            {
+                  "name": "Despicable Me Minion Mayhem",
+                  "text": "Despicable Me Minion Mayhem ist eine 3D-Bewegungssimulatorfahrt in den Universal Studios Florida in Orlando, Florida, mit den Minions.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468194,
+                        28.47531
+                  ]
+            },
+            {
+                  "name": "Race Through New York Starring Jimmy Fallon",
+                  "text": "Race Through New York Starring Jimmy Fallon ist ein simuliertes Rennen durch New York in den Universal Studios Florida in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469482,
+                        28.475706
+                  ]
+            },
+            {
+                  "name": "Revenge of the Mummy",
+                  "text": "Revenge of the Mummy ist eine Hochgeschwindigkeits-Indoor-Achterbahn in den Universal Studios Florida in Orlando, Florida, mit einem Rückwärtsstart.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469985,
+                        28.476863
+                  ]
+            },
+            {
+                  "name": "Harry Potter and the Escape from Gringotts",
+                  "text": "Harry Potter and the Escape from Gringotts ist eine 3D-Dark-Ride in den Universal Studios Florida in Orlando, Florida, mit einer Fallstrecke.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.470037,
+                        28.480158
+                  ]
+            },
+            {
+                  "name": "Men in Black: Alien Attack",
+                  "text": "Eine Dark-Ride-Attraktion in Florida Citrus Groves Life v2, die auf der Men in Black-Filmreihe basiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.467587,
+                        28.480905
+                  ]
+            },
+            {
+                  "name": "Wauseon Bay",
+                  "text": "Eine Bucht in Florida Citrus Groves Life v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.544348,
+                        28.501698
+                  ]
+            },
+            {
+                  "name": "Ravenall Park",
+                  "text": "Ein öffentlicher Park in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.440817,
+                        28.519776
+                  ]
+            },
+            {
+                  "name": "Clear Lake Park",
+                  "text": "Ein Park am Clear Lake in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.408279,
+                        28.514879
+                  ]
+            },
+            {
+                  "name": "Doctor I. Sylvester Hankins Park",
+                  "text": "Ein nach Dr. I. Sylvester Hankins benannter Park in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.418601,
+                        28.5259
+                  ]
+            },
+            {
+                  "name": "Washington Shores Park",
+                  "text": "Ein Park in Florida Citrus Groves Life v2 namens Washington Shores.",
+                  "category": "park",
+                  "coords": [
+                        -81.420679,
+                        28.527677
+                  ]
+            },
+            {
+                  "name": "Malibu Groves Park",
+                  "text": "Ein Park in Florida Citrus Groves Life v2 namens Malibu Groves.",
+                  "category": "park",
+                  "coords": [
+                        -81.439371,
+                        28.538248
+                  ]
+            },
+            {
+                  "name": "Poppy Park",
+                  "text": "Ein Park in Florida Citrus Groves Life v2 namens Poppy Park.",
+                  "category": "park",
+                  "coords": [
+                        -81.452149,
+                        28.523265
+                  ]
+            },
+            {
+                  "name": "Willie Mays Park",
+                  "text": "Ein nach dem Baseballspieler Willie Mays benannter Park in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.43793,
+                        28.517746
+                  ]
+            },
+            {
+                  "name": "Fun Spot America",
+                  "text": "Ein Freizeitpark in Florida Citrus Groves Life v2 mit Fahrgeschäften und Spielen.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.455552,
+                        28.466491
+                  ]
+            },
+            {
+                  "name": "Universal Studios Florida",
+                  "text": "Ein großer Themenpark in Florida Citrus Groves Life v2 mit verschiedenen Attraktionen und Shows.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.468944,
+                        28.477811
+                  ]
+            },
+            {
+                  "name": "Orlando Metropolitan Museum of Art",
+                  "text": "Ein Kunstmuseum in Florida Citrus Groves Life v2 mit wechselnden Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -81.427289,
+                        28.487844
+                  ]
+            },
+            {
+                  "name": "Minorville",
+                  "text": "Eine archäologische Stätte in Florida Citrus Groves Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -81.537562,
+                        28.552246
+                  ]
+            },
+            {
+                  "name": "Universal Globe",
+                  "text": "Ein großes Globus-Denkmal in Florida Citrus Groves Life v2, das Teil der Universal Studios ist.",
+                  "category": "historical",
+                  "coords": [
+                        -81.466419,
+                        28.474554
+                  ]
+            },
+            {
+                  "name": "Universal's Horror Make-Up Show",
+                  "text": "Eine Live-Show in Florida Citrus Groves Life v2, die Spezialeffekte aus Horrorfilmen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467182,
+                        28.476694
+                  ]
+            },
+            {
+                  "name": "Animal Actors on Location!",
+                  "text": "Eine Live-Show in Florida Citrus Groves Life v2 mit dressierten Tieren.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467484,
+                        28.478445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Windermere Town Hall",
+                  "text": "A Windermere Town Hall a városháza Windermere-ben, Florida, amely a helyi önkormányzatot szolgálja.",
+                  "category": "historical",
+                  "coords": [
+                        -81.535317,
+                        28.494883
+                  ]
+            },
+            {
+                  "name": "Orlando Florida Temple",
+                  "text": "Az Orlando Florida Temple az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza temploma Orlando-ban, Florida.",
+                  "category": "religious",
+                  "coords": [
+                        -81.509479,
+                        28.507366
+                  ]
+            },
+            {
+                  "name": "Skull Island: Reign of Kong",
+                  "text": "A Skull Island: Reign of Kong egy 3D sötét lovaglás a Universal's Islands of Adventure-ben, Orlando, Florida, King Konggal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473049,
+                        28.469061
+                  ]
+            },
+            {
+                  "name": "Hagrid’s Magical Creatures Motorbike Adventure",
+                  "text": "A Hagrid’s Magical Creatures Motorbike Adventure egy történetvezérelt hullámvasút a Universal's Islands of Adventure-ben, Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473509,
+                        28.473436
+                  ]
+            },
+            {
+                  "name": "Flight of the Hippogriff",
+                  "text": "A Flight of the Hippogriff egy családi hullámvasút a Universal's Islands of Adventure-ben, Orlando, Florida, hippogriff témával.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473834,
+                        28.472447
+                  ]
+            },
+            {
+                  "name": "Jurassic World VelociCoaster",
+                  "text": "A Jurassic World VelociCoaster egy indított hullámvasút a Universal's Islands of Adventure-ben, Orlando, Florida, nagy sebességgel és inverziókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.472487,
+                        28.471167
+                  ]
+            },
+            {
+                  "name": "The Amazing Adventures of Spider-Man",
+                  "text": "A The Amazing Adventures of Spider-Man egy 3D mozgásszimulátor lovaglás a Universal's Islands of Adventure-ben, Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469693,
+                        28.47004
+                  ]
+            },
+            {
+                  "name": "Universal CityWalk Orlando",
+                  "text": "A Universal CityWalk Orlando egy szórakoztató komplexum a Universal Orlando Resort-ban, Orlando, Florida, éttermekkel és üzletekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.466265,
+                        28.47348
+                  ]
+            },
+            {
+                  "name": "Universal Volcano Bay",
+                  "text": "A Universal Volcano Bay egy vízi tematikus park a Universal Orlando Resort-ban, Orlando, Florida, egy vulkán központtal.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.473042,
+                        28.461676
+                  ]
+            },
+            {
+                  "name": "Jurassic Park River Adventure",
+                  "text": "A Jurassic Park River Adventure egy vízi tutajozás a Universal's Islands of Adventure-ben, Orlando, Florida, animatronikus dinoszauruszokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473782,
+                        28.470252
+                  ]
+            },
+            {
+                  "name": "The Incredible Hulk Coaster",
+                  "text": "A The Incredible Hulk Coaster egy indított hullámvasút a Universal's Islands of Adventure-ben, Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468776,
+                        28.471502
+                  ]
+            },
+            {
+                  "name": "Dudley Doo-Right's Ripsaw Falls",
+                  "text": "A Dudley Doo-Right's Ripsaw Falls egy vízi fahullámvasút a Universal's Islands of Adventure-ben, Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.471786,
+                        28.469205
+                  ]
+            },
+            {
+                  "name": "Despicable Me Minion Mayhem",
+                  "text": "A Despicable Me Minion Mayhem egy 3D mozgásszimulátor lovaglás a Universal Studios Florida-ban, Orlando, Florida, a Minionokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468194,
+                        28.47531
+                  ]
+            },
+            {
+                  "name": "Race Through New York Starring Jimmy Fallon",
+                  "text": "A Race Through New York Starring Jimmy Fallon egy szimulált verseny New Yorkon keresztül a Universal Studios Florida-ban, Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469482,
+                        28.475706
+                  ]
+            },
+            {
+                  "name": "Revenge of the Mummy",
+                  "text": "A Revenge of the Mummy egy nagy sebességű fedett hullámvasút a Universal Studios Florida-ban, Orlando, Florida, hátrafelé indulással.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469985,
+                        28.476863
+                  ]
+            },
+            {
+                  "name": "Harry Potter and the Escape from Gringotts",
+                  "text": "A Harry Potter and the Escape from Gringotts egy 3D sötét lovaglás a Universal Studios Florida-ban, Orlando, Florida, egy ejtőpályával.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.470037,
+                        28.480158
+                  ]
+            },
+            {
+                  "name": "Men in Black: Alien Attack",
+                  "text": "Egy sötét utazásos attrakció a Florida Citrus Groves Life v2-ben, a Men in Black filmsorozat alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.467587,
+                        28.480905
+                  ]
+            },
+            {
+                  "name": "Wauseon Bay",
+                  "text": "Egy öböl a Florida Citrus Groves Life v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.544348,
+                        28.501698
+                  ]
+            },
+            {
+                  "name": "Ravenall Park",
+                  "text": "Egy nyilvános park a Florida Citrus Groves Life v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -81.440817,
+                        28.519776
+                  ]
+            },
+            {
+                  "name": "Clear Lake Park",
+                  "text": "Egy park a Clear Lake mellett a Florida Citrus Groves Life v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -81.408279,
+                        28.514879
+                  ]
+            },
+            {
+                  "name": "Doctor I. Sylvester Hankins Park",
+                  "text": "Egy park Florida Citrus Groves Life v2-ben, Dr. I. Sylvester Hankinsről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -81.418601,
+                        28.5259
+                  ]
+            },
+            {
+                  "name": "Washington Shores Park",
+                  "text": "Egy park a Florida Citrus Groves Life v2-ben, Washington Shores néven.",
+                  "category": "park",
+                  "coords": [
+                        -81.420679,
+                        28.527677
+                  ]
+            },
+            {
+                  "name": "Malibu Groves Park",
+                  "text": "Egy park a Florida Citrus Groves Life v2-ben, Malibu Groves néven.",
+                  "category": "park",
+                  "coords": [
+                        -81.439371,
+                        28.538248
+                  ]
+            },
+            {
+                  "name": "Poppy Park",
+                  "text": "Egy park a Florida Citrus Groves Life v2-ben, Poppy Park néven.",
+                  "category": "park",
+                  "coords": [
+                        -81.452149,
+                        28.523265
+                  ]
+            },
+            {
+                  "name": "Willie Mays Park",
+                  "text": "Egy park a Florida Citrus Groves Life v2-ben, Willie Mays baseballjátékosról elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -81.43793,
+                        28.517746
+                  ]
+            },
+            {
+                  "name": "Fun Spot America",
+                  "text": "Egy vidámpark a Florida Citrus Groves Life v2-ben, játékokkal és attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.455552,
+                        28.466491
+                  ]
+            },
+            {
+                  "name": "Universal Studios Florida",
+                  "text": "Egy nagy vidámpark a Florida Citrus Groves Life v2-ben, számos attrakcióval és show-val.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.468944,
+                        28.477811
+                  ]
+            },
+            {
+                  "name": "Orlando Metropolitan Museum of Art",
+                  "text": "Egy művészeti múzeum a Florida Citrus Groves Life v2-ben, időszakos kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -81.427289,
+                        28.487844
+                  ]
+            },
+            {
+                  "name": "Minorville",
+                  "text": "Egy régészeti lelőhely a Florida Citrus Groves Life v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -81.537562,
+                        28.552246
+                  ]
+            },
+            {
+                  "name": "Universal Globe",
+                  "text": "Egy nagy földgömb-emlékmű a Florida Citrus Groves Life v2-ben, a Universal Studios része.",
+                  "category": "historical",
+                  "coords": [
+                        -81.466419,
+                        28.474554
+                  ]
+            },
+            {
+                  "name": "Universal's Horror Make-Up Show",
+                  "text": "Egy élő show a Florida Citrus Groves Life v2-ben, amely horrorfilmek speciális effektjeit mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467182,
+                        28.476694
+                  ]
+            },
+            {
+                  "name": "Animal Actors on Location!",
+                  "text": "Egy élő show a Florida Citrus Groves Life v2-ben, betanított állatokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467484,
+                        28.478445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Windermere Town Hall",
+                  "text": "Windermere Town Hall este clădirea municipală din Windermere, Florida, care deservește guvernul local.",
+                  "category": "historical",
+                  "coords": [
+                        -81.535317,
+                        28.494883
+                  ]
+            },
+            {
+                  "name": "Orlando Florida Temple",
+                  "text": "Orlando Florida Temple este un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Orlando, Florida.",
+                  "category": "religious",
+                  "coords": [
+                        -81.509479,
+                        28.507366
+                  ]
+            },
+            {
+                  "name": "Skull Island: Reign of Kong",
+                  "text": "Skull Island: Reign of Kong este o plimbare întunecată 3D la Universal's Islands of Adventure din Orlando, Florida, cu King Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473049,
+                        28.469061
+                  ]
+            },
+            {
+                  "name": "Hagrid’s Magical Creatures Motorbike Adventure",
+                  "text": "Hagrid’s Magical Creatures Motorbike Adventure este un roller coaster condus de poveste la Universal's Islands of Adventure din Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473509,
+                        28.473436
+                  ]
+            },
+            {
+                  "name": "Flight of the Hippogriff",
+                  "text": "Flight of the Hippogriff este un roller coaster de familie la Universal's Islands of Adventure din Orlando, Florida, tematizat cu hipogrifi.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473834,
+                        28.472447
+                  ]
+            },
+            {
+                  "name": "Jurassic World VelociCoaster",
+                  "text": "Jurassic World VelociCoaster este un roller coaster lansat la Universal's Islands of Adventure din Orlando, Florida, cu viteză mare și inversiuni.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.472487,
+                        28.471167
+                  ]
+            },
+            {
+                  "name": "The Amazing Adventures of Spider-Man",
+                  "text": "The Amazing Adventures of Spider-Man este o plimbare cu simulator de mișcare 3D la Universal's Islands of Adventure din Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469693,
+                        28.47004
+                  ]
+            },
+            {
+                  "name": "Universal CityWalk Orlando",
+                  "text": "Universal CityWalk Orlando este un complex de divertisment la Universal Orlando Resort din Orlando, Florida, cu restaurante și magazine.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.466265,
+                        28.47348
+                  ]
+            },
+            {
+                  "name": "Universal Volcano Bay",
+                  "text": "Universal Volcano Bay este un parc tematic acvatic la Universal Orlando Resort din Orlando, Florida, centrat pe un vulcan.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.473042,
+                        28.461676
+                  ]
+            },
+            {
+                  "name": "Jurassic Park River Adventure",
+                  "text": "Jurassic Park River Adventure este o plimbare cu pluta pe apă la Universal's Islands of Adventure din Orlando, Florida, cu dinozauri animatronici.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473782,
+                        28.470252
+                  ]
+            },
+            {
+                  "name": "The Incredible Hulk Coaster",
+                  "text": "The Incredible Hulk Coaster este un roller coaster lansat la Universal's Islands of Adventure din Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468776,
+                        28.471502
+                  ]
+            },
+            {
+                  "name": "Dudley Doo-Right's Ripsaw Falls",
+                  "text": "Dudley Doo-Right's Ripsaw Falls este o plimbare cu bușteni pe apă la Universal's Islands of Adventure din Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.471786,
+                        28.469205
+                  ]
+            },
+            {
+                  "name": "Despicable Me Minion Mayhem",
+                  "text": "Despicable Me Minion Mayhem este o plimbare cu simulator de mișcare 3D la Universal Studios Florida din Orlando, Florida, cu Minionii.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468194,
+                        28.47531
+                  ]
+            },
+            {
+                  "name": "Race Through New York Starring Jimmy Fallon",
+                  "text": "Race Through New York Starring Jimmy Fallon este o cursă simulată prin New York la Universal Studios Florida din Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469482,
+                        28.475706
+                  ]
+            },
+            {
+                  "name": "Revenge of the Mummy",
+                  "text": "Revenge of the Mummy este un roller coaster interior de mare viteză la Universal Studios Florida din Orlando, Florida, cu o lansare înapoi.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469985,
+                        28.476863
+                  ]
+            },
+            {
+                  "name": "Harry Potter and the Escape from Gringotts",
+                  "text": "Harry Potter and the Escape from Gringotts este o plimbare întunecată 3D la Universal Studios Florida din Orlando, Florida, cu o pistă de cădere.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.470037,
+                        28.480158
+                  ]
+            },
+            {
+                  "name": "Men in Black: Alien Attack",
+                  "text": "O atracție de tip dark ride în Florida Citrus Groves Life v2, bazată pe seria de filme Men in Black.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.467587,
+                        28.480905
+                  ]
+            },
+            {
+                  "name": "Wauseon Bay",
+                  "text": "Un golf din Florida Citrus Groves Life v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.544348,
+                        28.501698
+                  ]
+            },
+            {
+                  "name": "Ravenall Park",
+                  "text": "Un parc public din Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.440817,
+                        28.519776
+                  ]
+            },
+            {
+                  "name": "Clear Lake Park",
+                  "text": "Un parc lângă Clear Lake în Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.408279,
+                        28.514879
+                  ]
+            },
+            {
+                  "name": "Doctor I. Sylvester Hankins Park",
+                  "text": "Un parc din Florida Citrus Groves Life v2, numit după doctorul I. Sylvester Hankins.",
+                  "category": "park",
+                  "coords": [
+                        -81.418601,
+                        28.5259
+                  ]
+            },
+            {
+                  "name": "Washington Shores Park",
+                  "text": "Un parc din Florida Citrus Groves Life v2, numit Washington Shores.",
+                  "category": "park",
+                  "coords": [
+                        -81.420679,
+                        28.527677
+                  ]
+            },
+            {
+                  "name": "Malibu Groves Park",
+                  "text": "Un parc din Florida Citrus Groves Life v2, numit Malibu Groves.",
+                  "category": "park",
+                  "coords": [
+                        -81.439371,
+                        28.538248
+                  ]
+            },
+            {
+                  "name": "Poppy Park",
+                  "text": "Un parc din Florida Citrus Groves Life v2, numit Poppy Park.",
+                  "category": "park",
+                  "coords": [
+                        -81.452149,
+                        28.523265
+                  ]
+            },
+            {
+                  "name": "Willie Mays Park",
+                  "text": "Un parc din Florida Citrus Groves Life v2, numit după jucătorul de baseball Willie Mays.",
+                  "category": "park",
+                  "coords": [
+                        -81.43793,
+                        28.517746
+                  ]
+            },
+            {
+                  "name": "Fun Spot America",
+                  "text": "Un parc tematic în Florida Citrus Groves Life v2, cu jocuri și atracții.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.455552,
+                        28.466491
+                  ]
+            },
+            {
+                  "name": "Universal Studios Florida",
+                  "text": "Un mare parc tematic în Florida Citrus Groves Life v2, cu diferite atracții și spectacole.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.468944,
+                        28.477811
+                  ]
+            },
+            {
+                  "name": "Orlando Metropolitan Museum of Art",
+                  "text": "Un muzeu de artă în Florida Citrus Groves Life v2, cu expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        -81.427289,
+                        28.487844
+                  ]
+            },
+            {
+                  "name": "Minorville",
+                  "text": "Un sit arheologic în Florida Citrus Groves Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -81.537562,
+                        28.552246
+                  ]
+            },
+            {
+                  "name": "Universal Globe",
+                  "text": "Un monument glob mare în Florida Citrus Groves Life v2, parte a Universal Studios.",
+                  "category": "historical",
+                  "coords": [
+                        -81.466419,
+                        28.474554
+                  ]
+            },
+            {
+                  "name": "Universal's Horror Make-Up Show",
+                  "text": "Un spectacol live în Florida Citrus Groves Life v2, care demonstrează efecte speciale de groază.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467182,
+                        28.476694
+                  ]
+            },
+            {
+                  "name": "Animal Actors on Location!",
+                  "text": "Un spectacol live în Florida Citrus Groves Life v2 cu animale dresate.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467484,
+                        28.478445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Windermere Town Hall",
+                  "text": "Windermere Town Hall is the municipal building in Windermere, Florida, serving the local government.",
+                  "category": "historical",
+                  "coords": [
+                        -81.535317,
+                        28.494883
+                  ]
+            },
+            {
+                  "name": "Orlando Florida Temple",
+                  "text": "Orlando Florida Temple is a temple of the Church of Jesus Christ of Latter-day Saints in Orlando, Florida.",
+                  "category": "religious",
+                  "coords": [
+                        -81.509479,
+                        28.507366
+                  ]
+            },
+            {
+                  "name": "Skull Island: Reign of Kong",
+                  "text": "Skull Island: Reign of Kong is a 3D dark ride at Universal's Islands of Adventure in Orlando, Florida, featuring King Kong.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473049,
+                        28.469061
+                  ]
+            },
+            {
+                  "name": "Hagrid’s Magical Creatures Motorbike Adventure",
+                  "text": "Hagrid’s Magical Creatures Motorbike Adventure is a story-driven roller coaster at Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473509,
+                        28.473436
+                  ]
+            },
+            {
+                  "name": "Flight of the Hippogriff",
+                  "text": "Flight of the Hippogriff is a family roller coaster at Universal's Islands of Adventure in Orlando, Florida, themed to hippogriffs.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473834,
+                        28.472447
+                  ]
+            },
+            {
+                  "name": "Jurassic World VelociCoaster",
+                  "text": "Jurassic World VelociCoaster is a launched roller coaster at Universal's Islands of Adventure in Orlando, Florida, with high speed and inversions.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.472487,
+                        28.471167
+                  ]
+            },
+            {
+                  "name": "The Amazing Adventures of Spider-Man",
+                  "text": "The Amazing Adventures of Spider-Man is a 3D motion simulator ride at Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469693,
+                        28.47004
+                  ]
+            },
+            {
+                  "name": "Universal CityWalk Orlando",
+                  "text": "Universal CityWalk Orlando is an entertainment complex at Universal Orlando Resort in Orlando, Florida, with dining and shops.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.466265,
+                        28.47348
+                  ]
+            },
+            {
+                  "name": "Universal Volcano Bay",
+                  "text": "Universal Volcano Bay is a water theme park at Universal Orlando Resort in Orlando, Florida, centered around a volcano.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.473042,
+                        28.461676
+                  ]
+            },
+            {
+                  "name": "Jurassic Park River Adventure",
+                  "text": "Jurassic Park River Adventure is a water flume ride at Universal's Islands of Adventure in Orlando, Florida, featuring animatronic dinosaurs.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.473782,
+                        28.470252
+                  ]
+            },
+            {
+                  "name": "The Incredible Hulk Coaster",
+                  "text": "The Incredible Hulk Coaster is a launched roller coaster at Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468776,
+                        28.471502
+                  ]
+            },
+            {
+                  "name": "Dudley Doo-Right's Ripsaw Falls",
+                  "text": "Dudley Doo-Right's Ripsaw Falls is a log flume water ride at Universal's Islands of Adventure in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.471786,
+                        28.469205
+                  ]
+            },
+            {
+                  "name": "Despicable Me Minion Mayhem",
+                  "text": "Despicable Me Minion Mayhem is a 3D motion simulator ride at Universal Studios Florida in Orlando, Florida, featuring the Minions.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.468194,
+                        28.47531
+                  ]
+            },
+            {
+                  "name": "Race Through New York Starring Jimmy Fallon",
+                  "text": "Race Through New York Starring Jimmy Fallon is a simulated race through New York at Universal Studios Florida in Orlando, Florida.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469482,
+                        28.475706
+                  ]
+            },
+            {
+                  "name": "Revenge of the Mummy",
+                  "text": "Revenge of the Mummy is a high-speed indoor roller coaster at Universal Studios Florida in Orlando, Florida, with a backwards launch.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469985,
+                        28.476863
+                  ]
+            },
+            {
+                  "name": "Harry Potter and the Escape from Gringotts",
+                  "text": "Harry Potter and the Escape from Gringotts is a 3D dark ride at Universal Studios Florida in Orlando, Florida, with a drop track.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.470037,
+                        28.480158
+                  ]
+            },
+            {
+                  "name": "Men in Black: Alien Attack",
+                  "text": "A dark ride attraction in Florida Citrus Groves Life v2, based on the Men in Black film series.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.467587,
+                        28.480905
+                  ]
+            },
+            {
+                  "name": "Wauseon Bay",
+                  "text": "A bay in Florida Citrus Groves Life v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.544348,
+                        28.501698
+                  ]
+            },
+            {
+                  "name": "Ravenall Park",
+                  "text": "A public park in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.440817,
+                        28.519776
+                  ]
+            },
+            {
+                  "name": "Clear Lake Park",
+                  "text": "A park by Clear Lake in Florida Citrus Groves Life v2.",
+                  "category": "park",
+                  "coords": [
+                        -81.408279,
+                        28.514879
+                  ]
+            },
+            {
+                  "name": "Doctor I. Sylvester Hankins Park",
+                  "text": "A park in Florida Citrus Groves Life v2, named after Doctor I. Sylvester Hankins.",
+                  "category": "park",
+                  "coords": [
+                        -81.418601,
+                        28.5259
+                  ]
+            },
+            {
+                  "name": "Washington Shores Park",
+                  "text": "A park in Florida Citrus Groves Life v2 called Washington Shores.",
+                  "category": "park",
+                  "coords": [
+                        -81.420679,
+                        28.527677
+                  ]
+            },
+            {
+                  "name": "Malibu Groves Park",
+                  "text": "A park in Florida Citrus Groves Life v2 called Malibu Groves.",
+                  "category": "park",
+                  "coords": [
+                        -81.439371,
+                        28.538248
+                  ]
+            },
+            {
+                  "name": "Poppy Park",
+                  "text": "A park in Florida Citrus Groves Life v2 called Poppy Park.",
+                  "category": "park",
+                  "coords": [
+                        -81.452149,
+                        28.523265
+                  ]
+            },
+            {
+                  "name": "Willie Mays Park",
+                  "text": "A park in Florida Citrus Groves Life v2, named after baseball player Willie Mays.",
+                  "category": "park",
+                  "coords": [
+                        -81.43793,
+                        28.517746
+                  ]
+            },
+            {
+                  "name": "Fun Spot America",
+                  "text": "A theme park in Florida Citrus Groves Life v2 with rides and games.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.455552,
+                        28.466491
+                  ]
+            },
+            {
+                  "name": "Universal Studios Florida",
+                  "text": "A major theme park in Florida Citrus Groves Life v2 with various attractions and shows.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.468944,
+                        28.477811
+                  ]
+            },
+            {
+                  "name": "Orlando Metropolitan Museum of Art",
+                  "text": "An art museum in Florida Citrus Groves Life v2 with rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -81.427289,
+                        28.487844
+                  ]
+            },
+            {
+                  "name": "Minorville",
+                  "text": "An archaeological site in Florida Citrus Groves Life v2.",
+                  "category": "historical",
+                  "coords": [
+                        -81.537562,
+                        28.552246
+                  ]
+            },
+            {
+                  "name": "Universal Globe",
+                  "text": "A large globe monument in Florida Citrus Groves Life v2, part of Universal Studios.",
+                  "category": "historical",
+                  "coords": [
+                        -81.466419,
+                        28.474554
+                  ]
+            },
+            {
+                  "name": "Universal's Horror Make-Up Show",
+                  "text": "A live show in Florida Citrus Groves Life v2 demonstrating horror make-up effects.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467182,
+                        28.476694
+                  ]
+            },
+            {
+                  "name": "Animal Actors on Location!",
+                  "text": "A live show in Florida Citrus Groves Life v2 featuring trained animals.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.467484,
+                        28.478445
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-FL",
     coords: [-81.5, 28.5],
@@ -615,7 +12945,1348 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "shedd-aquarium-chicago-life-v2",
+    id: "shedd-aquarium-chicago-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Field Museum",
+                  "text": "Das Field Museum beherbergt das berühmte Tyrannosaurus Rex-Skelett Sue.",
+                  "category": "museum",
+                  "coords": [
+                        -87.617001,
+                        41.866214
+                  ]
+            },
+            {
+                  "name": "Chess Studio",
+                  "text": "Das Chess Studio war das Aufnahmestudio von Chess Records.",
+                  "category": "museum",
+                  "coords": [
+                        -87.62422,
+                        41.853614
+                  ]
+            },
+            {
+                  "name": "Henry B. Clarke House",
+                  "text": "Das Henry B. Clarke House ist das älteste erhaltene Haus in Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.621876,
+                        41.857074
+                  ]
+            },
+            {
+                  "name": "Chinese American Museum of Chicago",
+                  "text": "Das Chinese American Museum of Chicago befindet sich im Chinatown Viertel.",
+                  "category": "museum",
+                  "coords": [
+                        -87.633525,
+                        41.851204
+                  ]
+            },
+            {
+                  "name": "Tadeusz Kościuszko Monument",
+                  "text": "Das Tadeusz Kościuszko Monument befindet sich im Humboldt Park und ehrt den polnischen Helden.",
+                  "category": "historical",
+                  "coords": [
+                        -87.612518,
+                        41.866282
+                  ]
+            },
+            {
+                  "name": "Karel Havlíček Monument",
+                  "text": "Ein Denkmal in Chicago zu Ehren des tschechischen Schriftstellers und Journalisten Karel Havlíček Borovský.",
+                  "category": "historical",
+                  "coords": [
+                        -87.610469,
+                        41.866312
+                  ]
+            },
+            {
+                  "name": "Italo Balbo Monument",
+                  "text": "Eine römische Säule in Chicago, ein Geschenk Italiens von 1933, die an den Transatlantikflug des Fliegers Italo Balbo erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -87.613574,
+                        41.861501
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus Monument",
+                  "text": "Eine Bronzestatue des Astronomen Nikolaus Kopernikus in Chicago, eine Nachbildung eines Warschauer Denkmals.",
+                  "category": "historical",
+                  "coords": [
+                        -87.607802,
+                        41.866352
+                  ]
+            },
+            {
+                  "name": "Saint Jerome's Croatian Catholic Church",
+                  "text": "Eine kroatisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.63394,
+                        41.841978
+                  ]
+            },
+            {
+                  "name": "Arie Crown Theater",
+                  "text": "Ein großes Theater im McCormick Place in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.611791,
+                        41.851901
+                  ]
+            },
+            {
+                  "name": "Huntington Bank Pavilion at Northerly Island",
+                  "text": "Ein Freiluft-Amphitheater auf Northerly Island in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.608608,
+                        41.86312
+                  ]
+            },
+            {
+                  "name": "Second Presbyterian Church",
+                  "text": "Eine historische presbyterianische Kirche in Chicago, bekannt für ihr Arts-and-Crafts-Interieur und Tiffany-Buntglasfenster.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624392,
+                        41.85574
+                  ]
+            },
+            {
+                  "name": "Soka Gakkai International Buddhist Center",
+                  "text": "Ein buddhistisches Zentrum in Chicago, das der Soka Gakkai International angegliedert ist.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625293,
+                        41.862506
+                  ]
+            },
+            {
+                  "name": "Carr Memorial Chapel",
+                  "text": "Eine Gedenkkapelle in Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624388,
+                        41.83626
+                  ]
+            },
+            {
+                  "name": "Quinn Chapel African Methodist Episcopal Church",
+                  "text": "Eine historische afroamerikanische methodistische Bischofskirche in Chicago, eine der ältesten afroamerikanischen Kirchen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625077,
+                        41.849075
+                  ]
+            },
+            {
+                  "name": "Olivet Baptist Church",
+                  "text": "Eine historische Baptistenkirche in Chicago, prominent in der afroamerikanischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        -87.616613,
+                        41.838173
+                  ]
+            },
+            {
+                  "name": "Saint Mary of Perpetual Help Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.652415,
+                        41.835756
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Roman Catholic Church",
+                  "text": "Eine römisch-katholische Kirche im Bridgeport-Viertel von Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65276,
+                        41.842497
+                  ]
+            },
+            {
+                  "name": "St. Charles Air Line Bridge",
+                  "text": "Eine Hubbrücke über den Chicago River in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.634541,
+                        41.860921
+                  ]
+            },
+            {
+                  "name": "Canal Street Railroad Bridge",
+                  "text": "Eine Hub-Eisenbahnbrücke über den Chicago River in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.637006,
+                        41.855655
+                  ]
+            },
+            {
+                  "name": "Ramova Theatre",
+                  "text": "Ein historisches Theater in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.646559,
+                        41.830243
+                  ]
+            },
+            {
+                  "name": "Northerly Island",
+                  "text": "Eine künstliche Halbinsel am Michigansee in Chicago mit einem Park und einem Open-Air-Konzertgelände.",
+                  "category": "park",
+                  "coords": [
+                        -87.608392,
+                        41.860626
+                  ]
+            },
+            {
+                  "name": "Gold Star Families Park",
+                  "text": "Ein Gedenkpark in Chicago, der den Familien gefallener Militärangehöriger gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        -87.614105,
+                        41.862517
+                  ]
+            },
+            {
+                  "name": "Ping Tom Memorial Park",
+                  "text": "Ein Park im Chinatown von Chicago, benannt nach dem Gemeindeführer Ping Tom.",
+                  "category": "park",
+                  "coords": [
+                        -87.633982,
+                        41.85791
+                  ]
+            },
+            {
+                  "name": "Dunbar Park",
+                  "text": "Ein Park im Bronzeville-Viertel von Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.620443,
+                        41.84031
+                  ]
+            },
+            {
+                  "name": "Park No. 474",
+                  "text": "Ein kleiner Park im Near South Side von Chicago, auch bekannt als Harold Washington Playlot Park.",
+                  "category": "park",
+                  "coords": [
+                        -87.627511,
+                        41.835509
+                  ]
+            },
+            {
+                  "name": "Armour Square Park",
+                  "text": "Ein Park im Armour-Square-Viertel von Chicago, nahe Chinatown.",
+                  "category": "park",
+                  "coords": [
+                        -87.634002,
+                        41.833657
+                  ]
+            },
+            {
+                  "name": "Shedd Aquarium",
+                  "text": "Eines der größten Aquarien der Welt, am Michigansee in Chicago gelegen.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.613637,
+                        41.867607
+                  ]
+            },
+            {
+                  "name": "Getz Theater",
+                  "text": "Ein Theater in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.625081,
+                        41.869553
+                  ]
+            },
+            {
+                  "name": "Monastery of the Holy Cross",
+                  "text": "Ein Kloster in Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65317,
+                        41.837775
+                  ]
+            },
+            {
+                  "name": "Lake Meadows Park",
+                  "text": "Ein Park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.611898,
+                        41.837299
+                  ]
+            },
+            {
+                  "name": "Groveland Park",
+                  "text": "Ein Park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.610251,
+                        41.833649
+                  ]
+            },
+            {
+                  "name": "John Wilson Park",
+                  "text": "Ein Park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.654571,
+                        41.831985
+                  ]
+            },
+            {
+                  "name": "McGuane Park",
+                  "text": "Ein Park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.64776,
+                        41.840789
+                  ]
+            },
+            {
+                  "name": "Bosley Park",
+                  "text": "Ein Park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.653708,
+                        41.838993
+                  ]
+            },
+            {
+                  "name": "Margaret Burroughs Beach",
+                  "text": "Ein Strand in Chicago.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.606454,
+                        41.839263
+                  ]
+            },
+            {
+                  "name": "Glass Curtain Gallery",
+                  "text": "Eine Kunstgalerie in Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.626115,
+                        41.868914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Field Museum",
+                  "text": "A Field Museum otthont ad a híres Tyrannosaurus Rex Sue csontvázának.",
+                  "category": "museum",
+                  "coords": [
+                        -87.617001,
+                        41.866214
+                  ]
+            },
+            {
+                  "name": "Chess Studio",
+                  "text": "A Chess Studio a Chess Records felvételi stúdiója volt.",
+                  "category": "museum",
+                  "coords": [
+                        -87.62422,
+                        41.853614
+                  ]
+            },
+            {
+                  "name": "Henry B. Clarke House",
+                  "text": "A Henry B. Clarke House a legrégebbi fennmaradt ház Chicagóban.",
+                  "category": "museum",
+                  "coords": [
+                        -87.621876,
+                        41.857074
+                  ]
+            },
+            {
+                  "name": "Chinese American Museum of Chicago",
+                  "text": "A Chinese American Museum of Chicago a Chinatown negyedben található.",
+                  "category": "museum",
+                  "coords": [
+                        -87.633525,
+                        41.851204
+                  ]
+            },
+            {
+                  "name": "Tadeusz Kościuszko Monument",
+                  "text": "A Tadeusz Kościuszko-emlékmű a Humboldt Parkban található, és a lengyel hőst tiszteli.",
+                  "category": "historical",
+                  "coords": [
+                        -87.612518,
+                        41.866282
+                  ]
+            },
+            {
+                  "name": "Karel Havlíček Monument",
+                  "text": "Egy chicagói emlékmű, amely Karel Havlíček Borovský cseh író és újságíró tiszteletére készült.",
+                  "category": "historical",
+                  "coords": [
+                        -87.610469,
+                        41.866312
+                  ]
+            },
+            {
+                  "name": "Italo Balbo Monument",
+                  "text": "Egy római oszlop Chicagóban, Olaszország 1933-as ajándéka, amely Italo Balbo pilóta transzatlanti repülésére emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -87.613574,
+                        41.861501
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus Monument",
+                  "text": "Nicolaus Copernicus csillagász bronzszobra Chicagóban, egy varsói emlékmű másolata.",
+                  "category": "historical",
+                  "coords": [
+                        -87.607802,
+                        41.866352
+                  ]
+            },
+            {
+                  "name": "Saint Jerome's Croatian Catholic Church",
+                  "text": "Horvát katolikus templom Chicago Bridgeport negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -87.63394,
+                        41.841978
+                  ]
+            },
+            {
+                  "name": "Arie Crown Theater",
+                  "text": "Egy nagy színház a chicagói McCormick Place-en belül.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.611791,
+                        41.851901
+                  ]
+            },
+            {
+                  "name": "Huntington Bank Pavilion at Northerly Island",
+                  "text": "Egy szabadtéri amfiteátrum a chicagói Northerly Islanden.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.608608,
+                        41.86312
+                  ]
+            },
+            {
+                  "name": "Second Presbyterian Church",
+                  "text": "Történelmi presbiteri templom Chicagóban, híres Arts and Crafts belső teréről és Tiffany-üvegablakairól.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624392,
+                        41.85574
+                  ]
+            },
+            {
+                  "name": "Soka Gakkai International Buddhist Center",
+                  "text": "Egy buddhista központ Chicagóban, a Soka Gakkai Internationalhoz kapcsolódva.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625293,
+                        41.862506
+                  ]
+            },
+            {
+                  "name": "Carr Memorial Chapel",
+                  "text": "Emlékkápolna Chicagóban.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624388,
+                        41.83626
+                  ]
+            },
+            {
+                  "name": "Quinn Chapel African Methodist Episcopal Church",
+                  "text": "Történelmi afroamerikai metodista episzkopális templom Chicagóban, a város egyik legrégebbi afroamerikai temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625077,
+                        41.849075
+                  ]
+            },
+            {
+                  "name": "Olivet Baptist Church",
+                  "text": "Történelmi baptista templom Chicagóban, jelentős az afroamerikai közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        -87.616613,
+                        41.838173
+                  ]
+            },
+            {
+                  "name": "Saint Mary of Perpetual Help Roman Catholic Church",
+                  "text": "Római katolikus templom Chicago Bridgeport negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -87.652415,
+                        41.835756
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Roman Catholic Church",
+                  "text": "Római katolikus templom Chicago Bridgeport negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65276,
+                        41.842497
+                  ]
+            },
+            {
+                  "name": "St. Charles Air Line Bridge",
+                  "text": "Egy függőlegesen emelhető híd a Chicago folyó felett Chicagóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.634541,
+                        41.860921
+                  ]
+            },
+            {
+                  "name": "Canal Street Railroad Bridge",
+                  "text": "Egy függőlegesen emelhető vasúti híd a Chicago folyó felett Chicagóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.637006,
+                        41.855655
+                  ]
+            },
+            {
+                  "name": "Ramova Theatre",
+                  "text": "Egy történelmi színház Chicagóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.646559,
+                        41.830243
+                  ]
+            },
+            {
+                  "name": "Northerly Island",
+                  "text": "Egy mesterséges félsziget a Michigan-tavon Chicagóban, parkkal és szabadtéri koncerthelyszínnel.",
+                  "category": "park",
+                  "coords": [
+                        -87.608392,
+                        41.860626
+                  ]
+            },
+            {
+                  "name": "Gold Star Families Park",
+                  "text": "Emlékpark Chicagóban, a elesett katonák családjainak szentelve.",
+                  "category": "park",
+                  "coords": [
+                        -87.614105,
+                        41.862517
+                  ]
+            },
+            {
+                  "name": "Ping Tom Memorial Park",
+                  "text": "Egy park Chicago Chinatown negyedében, Ping Tom közösségi vezetőről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -87.633982,
+                        41.85791
+                  ]
+            },
+            {
+                  "name": "Dunbar Park",
+                  "text": "Egy park Chicago Bronzeville negyedében.",
+                  "category": "park",
+                  "coords": [
+                        -87.620443,
+                        41.84031
+                  ]
+            },
+            {
+                  "name": "Park No. 474",
+                  "text": "Egy kis park Chicago Near South Side negyedében, más néven Harold Washington Playlot Park.",
+                  "category": "park",
+                  "coords": [
+                        -87.627511,
+                        41.835509
+                  ]
+            },
+            {
+                  "name": "Armour Square Park",
+                  "text": "Egy park Chicago Armour Square negyedében, Chinatown közelében.",
+                  "category": "park",
+                  "coords": [
+                        -87.634002,
+                        41.833657
+                  ]
+            },
+            {
+                  "name": "Shedd Aquarium",
+                  "text": "A világ egyik legnagyobb beltéri akváriuma, a Michigan-tó partján Chicagóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.613637,
+                        41.867607
+                  ]
+            },
+            {
+                  "name": "Getz Theater",
+                  "text": "Egy színház Chicagóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.625081,
+                        41.869553
+                  ]
+            },
+            {
+                  "name": "Monastery of the Holy Cross",
+                  "text": "Egy kolostor Chicagóban.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65317,
+                        41.837775
+                  ]
+            },
+            {
+                  "name": "Lake Meadows Park",
+                  "text": "Egy park Chicagóban.",
+                  "category": "park",
+                  "coords": [
+                        -87.611898,
+                        41.837299
+                  ]
+            },
+            {
+                  "name": "Groveland Park",
+                  "text": "Egy park Chicagóban.",
+                  "category": "park",
+                  "coords": [
+                        -87.610251,
+                        41.833649
+                  ]
+            },
+            {
+                  "name": "John Wilson Park",
+                  "text": "Egy park Chicagóban.",
+                  "category": "park",
+                  "coords": [
+                        -87.654571,
+                        41.831985
+                  ]
+            },
+            {
+                  "name": "McGuane Park",
+                  "text": "Egy park Chicagóban.",
+                  "category": "park",
+                  "coords": [
+                        -87.64776,
+                        41.840789
+                  ]
+            },
+            {
+                  "name": "Bosley Park",
+                  "text": "Egy park Chicagóban.",
+                  "category": "park",
+                  "coords": [
+                        -87.653708,
+                        41.838993
+                  ]
+            },
+            {
+                  "name": "Margaret Burroughs Beach",
+                  "text": "Egy strand Chicagóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.606454,
+                        41.839263
+                  ]
+            },
+            {
+                  "name": "Glass Curtain Gallery",
+                  "text": "Egy művészeti galéria Chicagóban.",
+                  "category": "museum",
+                  "coords": [
+                        -87.626115,
+                        41.868914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Field Museum",
+                  "text": "Muzeul Field găzduiește celebrul schelet de Tyrannosaurus Rex, Sue.",
+                  "category": "museum",
+                  "coords": [
+                        -87.617001,
+                        41.866214
+                  ]
+            },
+            {
+                  "name": "Chess Studio",
+                  "text": "Chess Studio a fost studioul de înregistrări al casei de discuri Chess Records.",
+                  "category": "museum",
+                  "coords": [
+                        -87.62422,
+                        41.853614
+                  ]
+            },
+            {
+                  "name": "Henry B. Clarke House",
+                  "text": "Casa Henry B. Clarke este cea mai veche casă supraviețuitoare din Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.621876,
+                        41.857074
+                  ]
+            },
+            {
+                  "name": "Chinese American Museum of Chicago",
+                  "text": "Muzeul Chinezesc-American din Chicago se află în cartierul Chinatown.",
+                  "category": "museum",
+                  "coords": [
+                        -87.633525,
+                        41.851204
+                  ]
+            },
+            {
+                  "name": "Tadeusz Kościuszko Monument",
+                  "text": "Monumentul lui Tadeusz Kościuszko se află în Parcul Humboldt și îl cinstește pe eroul polonez.",
+                  "category": "historical",
+                  "coords": [
+                        -87.612518,
+                        41.866282
+                  ]
+            },
+            {
+                  "name": "Karel Havlíček Monument",
+                  "text": "Un monument din Chicago care îl onorează pe scriitorul și jurnalistul ceh Karel Havlíček Borovský.",
+                  "category": "historical",
+                  "coords": [
+                        -87.610469,
+                        41.866312
+                  ]
+            },
+            {
+                  "name": "Italo Balbo Monument",
+                  "text": "O coloană romană din Chicago, un dar al Italiei din 1933, care comemorează zborul transatlantic al aviatorului Italo Balbo.",
+                  "category": "historical",
+                  "coords": [
+                        -87.613574,
+                        41.861501
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus Monument",
+                  "text": "O statuie de bronz a astronomului Nicolaus Copernicus din Chicago, o replică a unui monument din Varșovia.",
+                  "category": "historical",
+                  "coords": [
+                        -87.607802,
+                        41.866352
+                  ]
+            },
+            {
+                  "name": "Saint Jerome's Croatian Catholic Church",
+                  "text": "O biserică catolică croată în cartierul Bridgeport din Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.63394,
+                        41.841978
+                  ]
+            },
+            {
+                  "name": "Arie Crown Theater",
+                  "text": "Un teatru mare situat în cadrul McCormick Place din Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.611791,
+                        41.851901
+                  ]
+            },
+            {
+                  "name": "Huntington Bank Pavilion at Northerly Island",
+                  "text": "Un amfiteatru în aer liber pe Insula Northerly din Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.608608,
+                        41.86312
+                  ]
+            },
+            {
+                  "name": "Second Presbyterian Church",
+                  "text": "O biserică prezbiteriană istorică din Chicago, cunoscută pentru interiorul său Arts and Crafts și vitraliile Tiffany.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624392,
+                        41.85574
+                  ]
+            },
+            {
+                  "name": "Soka Gakkai International Buddhist Center",
+                  "text": "Un centru budist din Chicago afiliat cu Soka Gakkai International.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625293,
+                        41.862506
+                  ]
+            },
+            {
+                  "name": "Carr Memorial Chapel",
+                  "text": "O capelă memorială din Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624388,
+                        41.83626
+                  ]
+            },
+            {
+                  "name": "Quinn Chapel African Methodist Episcopal Church",
+                  "text": "O biserică istorică afro-americană metodistă episcopală din Chicago, una dintre cele mai vechi biserici afro-americane din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625077,
+                        41.849075
+                  ]
+            },
+            {
+                  "name": "Olivet Baptist Church",
+                  "text": "O biserică baptistă istorică din Chicago, proeminentă în comunitatea afro-americană.",
+                  "category": "religious",
+                  "coords": [
+                        -87.616613,
+                        41.838173
+                  ]
+            },
+            {
+                  "name": "Saint Mary of Perpetual Help Roman Catholic Church",
+                  "text": "O biserică romano-catolică în cartierul Bridgeport din Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.652415,
+                        41.835756
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Roman Catholic Church",
+                  "text": "O biserică romano-catolică în cartierul Bridgeport din Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65276,
+                        41.842497
+                  ]
+            },
+            {
+                  "name": "St. Charles Air Line Bridge",
+                  "text": "Un pod cu elevator vertical peste râul Chicago din Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.634541,
+                        41.860921
+                  ]
+            },
+            {
+                  "name": "Canal Street Railroad Bridge",
+                  "text": "Un pod de cale ferată cu elevator vertical peste râul Chicago din Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.637006,
+                        41.855655
+                  ]
+            },
+            {
+                  "name": "Ramova Theatre",
+                  "text": "Un teatru istoric din Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.646559,
+                        41.830243
+                  ]
+            },
+            {
+                  "name": "Northerly Island",
+                  "text": "O peninsulă artificială pe lacul Michigan din Chicago, cu un parc și un loc de concerte în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -87.608392,
+                        41.860626
+                  ]
+            },
+            {
+                  "name": "Gold Star Families Park",
+                  "text": "Un parc memorial din Chicago dedicat familiilor militarilor căzuți.",
+                  "category": "park",
+                  "coords": [
+                        -87.614105,
+                        41.862517
+                  ]
+            },
+            {
+                  "name": "Ping Tom Memorial Park",
+                  "text": "Un parc în Chinatown din Chicago, numit după liderul comunitar Ping Tom.",
+                  "category": "park",
+                  "coords": [
+                        -87.633982,
+                        41.85791
+                  ]
+            },
+            {
+                  "name": "Dunbar Park",
+                  "text": "Un parc în cartierul Bronzeville din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.620443,
+                        41.84031
+                  ]
+            },
+            {
+                  "name": "Park No. 474",
+                  "text": "Un mic parc în cartierul Near South Side din Chicago, cunoscut și ca Harold Washington Playlot Park.",
+                  "category": "park",
+                  "coords": [
+                        -87.627511,
+                        41.835509
+                  ]
+            },
+            {
+                  "name": "Armour Square Park",
+                  "text": "Un parc în cartierul Armour Square din Chicago, aproape de Chinatown.",
+                  "category": "park",
+                  "coords": [
+                        -87.634002,
+                        41.833657
+                  ]
+            },
+            {
+                  "name": "Shedd Aquarium",
+                  "text": "Unul dintre cele mai mari acvarii interioare din lume, situat pe malul lacului Michigan din Chicago.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.613637,
+                        41.867607
+                  ]
+            },
+            {
+                  "name": "Getz Theater",
+                  "text": "Un teatru din Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.625081,
+                        41.869553
+                  ]
+            },
+            {
+                  "name": "Monastery of the Holy Cross",
+                  "text": "O mănăstire din Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65317,
+                        41.837775
+                  ]
+            },
+            {
+                  "name": "Lake Meadows Park",
+                  "text": "Un parc din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.611898,
+                        41.837299
+                  ]
+            },
+            {
+                  "name": "Groveland Park",
+                  "text": "Un parc din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.610251,
+                        41.833649
+                  ]
+            },
+            {
+                  "name": "John Wilson Park",
+                  "text": "Un parc din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.654571,
+                        41.831985
+                  ]
+            },
+            {
+                  "name": "McGuane Park",
+                  "text": "Un parc din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.64776,
+                        41.840789
+                  ]
+            },
+            {
+                  "name": "Bosley Park",
+                  "text": "Un parc din Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.653708,
+                        41.838993
+                  ]
+            },
+            {
+                  "name": "Margaret Burroughs Beach",
+                  "text": "O plajă din Chicago.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.606454,
+                        41.839263
+                  ]
+            },
+            {
+                  "name": "Glass Curtain Gallery",
+                  "text": "O galerie de artă din Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.626115,
+                        41.868914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Field Museum",
+                  "text": "The Field Museum houses the famous Tyrannosaurus Rex skeleton Sue.",
+                  "category": "museum",
+                  "coords": [
+                        -87.617001,
+                        41.866214
+                  ]
+            },
+            {
+                  "name": "Chess Studio",
+                  "text": "Chess Studio was the recording studio of Chess Records.",
+                  "category": "museum",
+                  "coords": [
+                        -87.62422,
+                        41.853614
+                  ]
+            },
+            {
+                  "name": "Henry B. Clarke House",
+                  "text": "The Henry B. Clarke House is the oldest surviving house in Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.621876,
+                        41.857074
+                  ]
+            },
+            {
+                  "name": "Chinese American Museum of Chicago",
+                  "text": "The Chinese American Museum of Chicago is located in Chinatown.",
+                  "category": "museum",
+                  "coords": [
+                        -87.633525,
+                        41.851204
+                  ]
+            },
+            {
+                  "name": "Tadeusz Kościuszko Monument",
+                  "text": "The Tadeusz Kościuszko Monument is located in Humboldt Park and honors the Polish hero.",
+                  "category": "historical",
+                  "coords": [
+                        -87.612518,
+                        41.866282
+                  ]
+            },
+            {
+                  "name": "Karel Havlíček Monument",
+                  "text": "A monument in Chicago honoring Czech writer and journalist Karel Havlíček Borovský.",
+                  "category": "historical",
+                  "coords": [
+                        -87.610469,
+                        41.866312
+                  ]
+            },
+            {
+                  "name": "Italo Balbo Monument",
+                  "text": "A Roman column in Chicago, a gift from Italy in 1933, commemorating aviator Italo Balbo's transatlantic flight.",
+                  "category": "historical",
+                  "coords": [
+                        -87.613574,
+                        41.861501
+                  ]
+            },
+            {
+                  "name": "Nicolaus Copernicus Monument",
+                  "text": "A bronze statue of the astronomer Nicolaus Copernicus in Chicago, a replica of a Warsaw monument.",
+                  "category": "historical",
+                  "coords": [
+                        -87.607802,
+                        41.866352
+                  ]
+            },
+            {
+                  "name": "Saint Jerome's Croatian Catholic Church",
+                  "text": "A Croatian Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.63394,
+                        41.841978
+                  ]
+            },
+            {
+                  "name": "Arie Crown Theater",
+                  "text": "A large theater located within McCormick Place in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.611791,
+                        41.851901
+                  ]
+            },
+            {
+                  "name": "Huntington Bank Pavilion at Northerly Island",
+                  "text": "An outdoor amphitheater on Northerly Island in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.608608,
+                        41.86312
+                  ]
+            },
+            {
+                  "name": "Second Presbyterian Church",
+                  "text": "A historic Presbyterian church in Chicago known for its Arts and Crafts interior and Tiffany stained glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624392,
+                        41.85574
+                  ]
+            },
+            {
+                  "name": "Soka Gakkai International Buddhist Center",
+                  "text": "A Buddhist center in Chicago affiliated with Soka Gakkai International.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625293,
+                        41.862506
+                  ]
+            },
+            {
+                  "name": "Carr Memorial Chapel",
+                  "text": "A memorial chapel in Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.624388,
+                        41.83626
+                  ]
+            },
+            {
+                  "name": "Quinn Chapel African Methodist Episcopal Church",
+                  "text": "A historic African Methodist Episcopal church in Chicago, one of the oldest African American churches in the city.",
+                  "category": "religious",
+                  "coords": [
+                        -87.625077,
+                        41.849075
+                  ]
+            },
+            {
+                  "name": "Olivet Baptist Church",
+                  "text": "A historic Baptist church in Chicago, prominent in the African American community.",
+                  "category": "religious",
+                  "coords": [
+                        -87.616613,
+                        41.838173
+                  ]
+            },
+            {
+                  "name": "Saint Mary of Perpetual Help Roman Catholic Church",
+                  "text": "A Roman Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.652415,
+                        41.835756
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Roman Catholic Church",
+                  "text": "A Roman Catholic church in the Bridgeport neighborhood of Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65276,
+                        41.842497
+                  ]
+            },
+            {
+                  "name": "St. Charles Air Line Bridge",
+                  "text": "A vertical lift bridge over the Chicago River in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.634541,
+                        41.860921
+                  ]
+            },
+            {
+                  "name": "Canal Street Railroad Bridge",
+                  "text": "A vertical lift railroad bridge over the Chicago River in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.637006,
+                        41.855655
+                  ]
+            },
+            {
+                  "name": "Ramova Theatre",
+                  "text": "A historic theater in Chicago.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.646559,
+                        41.830243
+                  ]
+            },
+            {
+                  "name": "Northerly Island",
+                  "text": "A man-made peninsula on Lake Michigan in Chicago, featuring a park and outdoor concert venue.",
+                  "category": "park",
+                  "coords": [
+                        -87.608392,
+                        41.860626
+                  ]
+            },
+            {
+                  "name": "Gold Star Families Park",
+                  "text": "A memorial park in Chicago dedicated to the families of fallen military members.",
+                  "category": "park",
+                  "coords": [
+                        -87.614105,
+                        41.862517
+                  ]
+            },
+            {
+                  "name": "Ping Tom Memorial Park",
+                  "text": "A park in Chicago's Chinatown, named after community leader Ping Tom.",
+                  "category": "park",
+                  "coords": [
+                        -87.633982,
+                        41.85791
+                  ]
+            },
+            {
+                  "name": "Dunbar Park",
+                  "text": "A park in Chicago's Bronzeville neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        -87.620443,
+                        41.84031
+                  ]
+            },
+            {
+                  "name": "Park No. 474",
+                  "text": "A small park in Chicago's Near South Side, also known as Harold Washington Playlot Park.",
+                  "category": "park",
+                  "coords": [
+                        -87.627511,
+                        41.835509
+                  ]
+            },
+            {
+                  "name": "Armour Square Park",
+                  "text": "A park in Chicago's Armour Square neighborhood, near Chinatown.",
+                  "category": "park",
+                  "coords": [
+                        -87.634002,
+                        41.833657
+                  ]
+            },
+            {
+                  "name": "Shedd Aquarium",
+                  "text": "One of the largest indoor aquariums in the world, located on Lake Michigan in Chicago.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.613637,
+                        41.867607
+                  ]
+            },
+            {
+                  "name": "Getz Theater",
+                  "text": "A theater in Chicago.",
+                  "category": "cultural",
+                  "coords": [
+                        -87.625081,
+                        41.869553
+                  ]
+            },
+            {
+                  "name": "Monastery of the Holy Cross",
+                  "text": "A monastery in Chicago.",
+                  "category": "religious",
+                  "coords": [
+                        -87.65317,
+                        41.837775
+                  ]
+            },
+            {
+                  "name": "Lake Meadows Park",
+                  "text": "A park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.611898,
+                        41.837299
+                  ]
+            },
+            {
+                  "name": "Groveland Park",
+                  "text": "A park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.610251,
+                        41.833649
+                  ]
+            },
+            {
+                  "name": "John Wilson Park",
+                  "text": "A park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.654571,
+                        41.831985
+                  ]
+            },
+            {
+                  "name": "McGuane Park",
+                  "text": "A park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.64776,
+                        41.840789
+                  ]
+            },
+            {
+                  "name": "Bosley Park",
+                  "text": "A park in Chicago.",
+                  "category": "park",
+                  "coords": [
+                        -87.653708,
+                        41.838993
+                  ]
+            },
+            {
+                  "name": "Margaret Burroughs Beach",
+                  "text": "A beach in Chicago.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.606454,
+                        41.839263
+                  ]
+            },
+            {
+                  "name": "Glass Curtain Gallery",
+                  "text": "An art gallery in Chicago.",
+                  "category": "museum",
+                  "coords": [
+                        -87.626115,
+                        41.868914
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-IL",
     coords: [-87.6139, 41.8676],
@@ -651,7 +14322,556 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "rocky-mountain-national-park-life-v2",
+    id: "rocky-mountain-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rocky Mountain National Park",
+                  "text": "Der Rocky Mountain National Park ist ein Nationalpark in Colorado, bekannt für seine Berglandschaften und vielfältige Tierwelt.",
+                  "category": "park",
+                  "coords": [
+                        -105.708895,
+                        40.333318
+                  ]
+            },
+            {
+                  "name": "Hallett Peak",
+                  "text": "Der Hallett Peak ist ein markanter Gipfel im Rocky Mountain National Park, oft bestiegen über die Keyhole Route.",
+                  "category": "natural",
+                  "coords": [
+                        -105.685964,
+                        40.303029
+                  ]
+            },
+            {
+                  "name": "Taylor Peak",
+                  "text": "Der Taylor Peak ist ein Berggipfel im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.680853,
+                        40.274781
+                  ]
+            },
+            {
+                  "name": "Powell Peak",
+                  "text": "Der Powell Peak im Rocky Mountain National Park ist nach dem Entdecker John Wesley Powell benannt.",
+                  "category": "natural",
+                  "coords": [
+                        -105.664727,
+                        40.265818
+                  ]
+            },
+            {
+                  "name": "Emerald Lake Overlook",
+                  "text": "Der Emerald Lake Overlook im Rocky Mountain National Park bietet Ausblicke auf den Emerald Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -105.670351,
+                        40.314551
+                  ]
+            },
+            {
+                  "name": "Dream Lake Overlook",
+                  "text": "Der Dream Lake Overlook im Rocky Mountain National Park bietet malerische Ausblicke auf den Dream Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -105.659112,
+                        40.312587
+                  ]
+            },
+            {
+                  "name": "Many Parks Curve",
+                  "text": "Many Parks Curve ist ein malerischer Aussichtspunkt entlang der Trail Ridge Road im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.631266,
+                        40.387278
+                  ]
+            },
+            {
+                  "name": "Mushroom Rocks",
+                  "text": "Die Mushroom Rocks im Rocky Mountain National Park sind einzigartige Felsformationen und bieten einen Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        -105.726977,
+                        40.413204
+                  ]
+            },
+            {
+                  "name": "Rock Cut",
+                  "text": "Rock Cut ist ein Aussichtspunkt im Rocky Mountain National Park, wo die Trail Ridge Road durch Felsen führt.",
+                  "category": "natural",
+                  "coords": [
+                        -105.733197,
+                        40.41208
+                  ]
+            },
+            {
+                  "name": "Forest Canyon Overlook",
+                  "text": "Der Forest Canyon Overlook im Rocky Mountain National Park bietet Ausblicke auf den Forest Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -105.713953,
+                        40.395813
+                  ]
+            },
+            {
+                  "name": "Mount Ida",
+                  "text": "Der Mount Ida ist ein Gipfel im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.778849,
+                        40.372088
+                  ]
+            },
+            {
+                  "name": "Chief Cheley Peak",
+                  "text": "Der Chief Cheley Peak ist ein Berggipfel im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.774184,
+                        40.367295
+                  ]
+            },
+            {
+                  "name": "Mount Julian",
+                  "text": "Der Mount Julian ist ein Gipfel im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.757508,
+                        40.371095
+                  ]
+            },
+            {
+                  "name": "Kathie Mennel Amphitheater",
+                  "text": "Das Kathie Mennel Amphitheater im Rocky Mountain National Park veranstaltet Rangerprogramme und Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -105.570634,
+                        40.346203
+                  ]
+            },
+            {
+                  "name": "Rocky Mountain Wilderness",
+                  "text": "Die Rocky Mountain Wilderness ist ein Wildnisgebiet im Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.699595,
+                        40.355393
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rocky Mountain National Park",
+                  "text": "A Rocky Mountain Nemzeti Park egy nemzeti park Coloradóban, amely hegyi tájairól és változatos vadvilágáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -105.708895,
+                        40.333318
+                  ]
+            },
+            {
+                  "name": "Hallett Peak",
+                  "text": "A Hallett Peak egy kiemelkedő csúcs a Rocky Mountain Nemzeti Parkban, gyakran a Keyhole Route-on keresztül mászják meg.",
+                  "category": "natural",
+                  "coords": [
+                        -105.685964,
+                        40.303029
+                  ]
+            },
+            {
+                  "name": "Taylor Peak",
+                  "text": "A Taylor Peak egy hegycsúcs a Rocky Mountain Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -105.680853,
+                        40.274781
+                  ]
+            },
+            {
+                  "name": "Powell Peak",
+                  "text": "A Powell Peak a Rocky Mountain Nemzeti Parkban John Wesley Powell felfedezőről kapta a nevét.",
+                  "category": "natural",
+                  "coords": [
+                        -105.664727,
+                        40.265818
+                  ]
+            },
+            {
+                  "name": "Emerald Lake Overlook",
+                  "text": "Az Emerald Lake Overlook a Rocky Mountain Nemzeti Parkban kilátást nyújt az Emerald Lake-re.",
+                  "category": "natural",
+                  "coords": [
+                        -105.670351,
+                        40.314551
+                  ]
+            },
+            {
+                  "name": "Dream Lake Overlook",
+                  "text": "A Dream Lake Overlook a Rocky Mountain Nemzeti Parkban festői kilátást nyújt a Dream Lake-re.",
+                  "category": "natural",
+                  "coords": [
+                        -105.659112,
+                        40.312587
+                  ]
+            },
+            {
+                  "name": "Many Parks Curve",
+                  "text": "A Many Parks Curve egy festői kilátóhely a Trail Ridge Road mentén a Rocky Mountain Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -105.631266,
+                        40.387278
+                  ]
+            },
+            {
+                  "name": "Mushroom Rocks",
+                  "text": "A Mushroom Rocks a Rocky Mountain Nemzeti Parkban egyedi sziklaformációk, amelyek kilátópontot kínálnak.",
+                  "category": "natural",
+                  "coords": [
+                        -105.726977,
+                        40.413204
+                  ]
+            },
+            {
+                  "name": "Rock Cut",
+                  "text": "A Rock Cut egy kilátóhely a Rocky Mountain Nemzeti Parkban, ahol a Trail Ridge Road átszel a sziklákon.",
+                  "category": "natural",
+                  "coords": [
+                        -105.733197,
+                        40.41208
+                  ]
+            },
+            {
+                  "name": "Forest Canyon Overlook",
+                  "text": "A Forest Canyon Overlook a Rocky Mountain Nemzeti Parkban kilátást nyújt a Forest Canyonra.",
+                  "category": "natural",
+                  "coords": [
+                        -105.713953,
+                        40.395813
+                  ]
+            },
+            {
+                  "name": "Mount Ida",
+                  "text": "A Mount Ida egy csúcs a Rocky Mountain Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -105.778849,
+                        40.372088
+                  ]
+            },
+            {
+                  "name": "Chief Cheley Peak",
+                  "text": "A Chief Cheley Peak egy hegycsúcs a Rocky Mountain Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -105.774184,
+                        40.367295
+                  ]
+            },
+            {
+                  "name": "Mount Julian",
+                  "text": "A Mount Julian egy csúcs a Rocky Mountain Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -105.757508,
+                        40.371095
+                  ]
+            },
+            {
+                  "name": "Kathie Mennel Amphitheater",
+                  "text": "A Kathie Mennel Amfiteátrum a Rocky Mountain Nemzeti Parkban rangerek programjainak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -105.570634,
+                        40.346203
+                  ]
+            },
+            {
+                  "name": "Rocky Mountain Wilderness",
+                  "text": "A Rocky Mountain Wilderness egy vadon a Rocky Mountain Nemzeti Park területén.",
+                  "category": "natural",
+                  "coords": [
+                        -105.699595,
+                        40.355393
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rocky Mountain National Park",
+                  "text": "Parcul Național Rocky Mountain este un parc național din Colorado, cunoscut pentru peisajele montane și fauna diversă.",
+                  "category": "park",
+                  "coords": [
+                        -105.708895,
+                        40.333318
+                  ]
+            },
+            {
+                  "name": "Hallett Peak",
+                  "text": "Vârful Hallett este un vârf proeminent din Parcul Național Rocky Mountain, adesea escaladat prin Keyhole Route.",
+                  "category": "natural",
+                  "coords": [
+                        -105.685964,
+                        40.303029
+                  ]
+            },
+            {
+                  "name": "Taylor Peak",
+                  "text": "Vârful Taylor este un vârf montan în Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.680853,
+                        40.274781
+                  ]
+            },
+            {
+                  "name": "Powell Peak",
+                  "text": "Vârful Powell din Parcul Național Rocky Mountain poartă numele exploratorului John Wesley Powell.",
+                  "category": "natural",
+                  "coords": [
+                        -105.664727,
+                        40.265818
+                  ]
+            },
+            {
+                  "name": "Emerald Lake Overlook",
+                  "text": "Punctul de belvedere Emerald Lake din Parcul Național Rocky Mountain oferă vederi asupra lacului Emerald.",
+                  "category": "natural",
+                  "coords": [
+                        -105.670351,
+                        40.314551
+                  ]
+            },
+            {
+                  "name": "Dream Lake Overlook",
+                  "text": "Punctul de belvedere Dream Lake din Parcul Național Rocky Mountain oferă priveliști pitorești asupra lacului Dream.",
+                  "category": "natural",
+                  "coords": [
+                        -105.659112,
+                        40.312587
+                  ]
+            },
+            {
+                  "name": "Many Parks Curve",
+                  "text": "Many Parks Curve este un punct de belvedere pitoresc de-a lungul drumului Trail Ridge din Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.631266,
+                        40.387278
+                  ]
+            },
+            {
+                  "name": "Mushroom Rocks",
+                  "text": "Mushroom Rocks din Parcul Național Rocky Mountain sunt formațiuni stâncoase unice care oferă un punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -105.726977,
+                        40.413204
+                  ]
+            },
+            {
+                  "name": "Rock Cut",
+                  "text": "Rock Cut este un punct de belvedere în Parcul Național Rocky Mountain, unde drumul Trail Ridge taie prin stâncă.",
+                  "category": "natural",
+                  "coords": [
+                        -105.733197,
+                        40.41208
+                  ]
+            },
+            {
+                  "name": "Forest Canyon Overlook",
+                  "text": "Punctul de belvedere Forest Canyon din Parcul Național Rocky Mountain oferă vederi asupra canionului Forest.",
+                  "category": "natural",
+                  "coords": [
+                        -105.713953,
+                        40.395813
+                  ]
+            },
+            {
+                  "name": "Mount Ida",
+                  "text": "Vârful Mount Ida este un vârf în Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.778849,
+                        40.372088
+                  ]
+            },
+            {
+                  "name": "Chief Cheley Peak",
+                  "text": "Vârful Chief Cheley este un vârf montan în Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.774184,
+                        40.367295
+                  ]
+            },
+            {
+                  "name": "Mount Julian",
+                  "text": "Vârful Mount Julian este un vârf în Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.757508,
+                        40.371095
+                  ]
+            },
+            {
+                  "name": "Kathie Mennel Amphitheater",
+                  "text": "Amfiteatrul Kathie Mennel din Parcul Național Rocky Mountain găzduiește programe și evenimente ale rangerilor.",
+                  "category": "cultural",
+                  "coords": [
+                        -105.570634,
+                        40.346203
+                  ]
+            },
+            {
+                  "name": "Rocky Mountain Wilderness",
+                  "text": "Rocky Mountain Wilderness este o zonă sălbatică din Parcul Național Rocky Mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -105.699595,
+                        40.355393
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rocky Mountain National Park",
+                  "text": "Rocky Mountain National Park is a national park in Colorado known for its mountain landscapes and diverse wildlife.",
+                  "category": "park",
+                  "coords": [
+                        -105.708895,
+                        40.333318
+                  ]
+            },
+            {
+                  "name": "Hallett Peak",
+                  "text": "Hallett Peak is a prominent peak in Rocky Mountain National Park, often ascended via the Keyhole Route.",
+                  "category": "natural",
+                  "coords": [
+                        -105.685964,
+                        40.303029
+                  ]
+            },
+            {
+                  "name": "Taylor Peak",
+                  "text": "Taylor Peak is a mountain peak in Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.680853,
+                        40.274781
+                  ]
+            },
+            {
+                  "name": "Powell Peak",
+                  "text": "Powell Peak in Rocky Mountain National Park is named after explorer John Wesley Powell.",
+                  "category": "natural",
+                  "coords": [
+                        -105.664727,
+                        40.265818
+                  ]
+            },
+            {
+                  "name": "Emerald Lake Overlook",
+                  "text": "Emerald Lake Overlook in Rocky Mountain National Park offers views of Emerald Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -105.670351,
+                        40.314551
+                  ]
+            },
+            {
+                  "name": "Dream Lake Overlook",
+                  "text": "Dream Lake Overlook in Rocky Mountain National Park provides scenic views of Dream Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -105.659112,
+                        40.312587
+                  ]
+            },
+            {
+                  "name": "Many Parks Curve",
+                  "text": "Many Parks Curve is a scenic viewpoint along Trail Ridge Road in Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.631266,
+                        40.387278
+                  ]
+            },
+            {
+                  "name": "Mushroom Rocks",
+                  "text": "Mushroom Rocks in Rocky Mountain National Park are unique rock formations offering a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -105.726977,
+                        40.413204
+                  ]
+            },
+            {
+                  "name": "Rock Cut",
+                  "text": "Rock Cut is a viewpoint in Rocky Mountain National Park where Trail Ridge Road cuts through rock.",
+                  "category": "natural",
+                  "coords": [
+                        -105.733197,
+                        40.41208
+                  ]
+            },
+            {
+                  "name": "Forest Canyon Overlook",
+                  "text": "Forest Canyon Overlook in Rocky Mountain National Park provides views of Forest Canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -105.713953,
+                        40.395813
+                  ]
+            },
+            {
+                  "name": "Mount Ida",
+                  "text": "Mount Ida is a peak in Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.778849,
+                        40.372088
+                  ]
+            },
+            {
+                  "name": "Chief Cheley Peak",
+                  "text": "Chief Cheley Peak is a mountain peak in Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.774184,
+                        40.367295
+                  ]
+            },
+            {
+                  "name": "Mount Julian",
+                  "text": "Mount Julian is a peak in Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.757508,
+                        40.371095
+                  ]
+            },
+            {
+                  "name": "Kathie Mennel Amphitheater",
+                  "text": "Kathie Mennel Amphitheater in Rocky Mountain National Park hosts ranger programs and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -105.570634,
+                        40.346203
+                  ]
+            },
+            {
+                  "name": "Rocky Mountain Wilderness",
+                  "text": "Rocky Mountain Wilderness is a wilderness area within Rocky Mountain National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -105.699595,
+                        40.355393
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-CO",
     coords: [-105.6836, 40.3428],
@@ -687,7 +14907,196 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "wisconsin-dairy-farms-life-v2",
+    id: "wisconsin-dairy-farms-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gallery 164",
+                  "text": "Kunstgalerie im Gebiet Wisconsin Dairy Farms Life.",
+                  "category": "museum",
+                  "coords": [
+                        -89.672529,
+                        44.784054
+                  ]
+            },
+            {
+                  "name": "Mosinee School Forest",
+                  "text": "Naturschutzgebiet mit Wald in der Nähe von Mosinee.",
+                  "category": "natural",
+                  "coords": [
+                        -89.694303,
+                        44.833643
+                  ]
+            },
+            {
+                  "name": "Twin Oaks Environmental Center",
+                  "text": "Umweltbildungszentrum in der Region Wisconsin Dairy Farms Life.",
+                  "category": "natural",
+                  "coords": [
+                        -89.547085,
+                        44.827661
+                  ]
+            },
+            {
+                  "name": "Wausau School Forest",
+                  "text": "Schulwald bei Wausau, der als Naturschutzgebiet dient.",
+                  "category": "natural",
+                  "coords": [
+                        -89.679922,
+                        44.850063
+                  ]
+            },
+            {
+                  "name": "Riedel-Redmond Nature Preserve",
+                  "text": "Naturschutzgebiet mit dem Namen Riedel-Redmond.",
+                  "category": "natural",
+                  "coords": [
+                        -89.681561,
+                        44.791749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gallery 164",
+                  "text": "Művészeti galéria a Wisconsin Dairy Farms Life területén.",
+                  "category": "museum",
+                  "coords": [
+                        -89.672529,
+                        44.784054
+                  ]
+            },
+            {
+                  "name": "Mosinee School Forest",
+                  "text": "Természetvédelmi terület erdővel Mosinee közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -89.694303,
+                        44.833643
+                  ]
+            },
+            {
+                  "name": "Twin Oaks Environmental Center",
+                  "text": "Környezeti nevelési központ a Wisconsin Dairy Farms Life régióban.",
+                  "category": "natural",
+                  "coords": [
+                        -89.547085,
+                        44.827661
+                  ]
+            },
+            {
+                  "name": "Wausau School Forest",
+                  "text": "Iskolai erdő Wausau mellett, természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -89.679922,
+                        44.850063
+                  ]
+            },
+            {
+                  "name": "Riedel-Redmond Nature Preserve",
+                  "text": "Riedel-Redmond természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -89.681561,
+                        44.791749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gallery 164",
+                  "text": "Galerie de artă în zona Wisconsin Dairy Farms Life.",
+                  "category": "museum",
+                  "coords": [
+                        -89.672529,
+                        44.784054
+                  ]
+            },
+            {
+                  "name": "Mosinee School Forest",
+                  "text": "Rezervație naturală cu pădure lângă Mosinee.",
+                  "category": "natural",
+                  "coords": [
+                        -89.694303,
+                        44.833643
+                  ]
+            },
+            {
+                  "name": "Twin Oaks Environmental Center",
+                  "text": "Centru de educație ecologică în regiunea Wisconsin Dairy Farms Life.",
+                  "category": "natural",
+                  "coords": [
+                        -89.547085,
+                        44.827661
+                  ]
+            },
+            {
+                  "name": "Wausau School Forest",
+                  "text": "Pădure școlară lângă Wausau, rezervație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -89.679922,
+                        44.850063
+                  ]
+            },
+            {
+                  "name": "Riedel-Redmond Nature Preserve",
+                  "text": "Rezervația naturală Riedel-Redmond.",
+                  "category": "natural",
+                  "coords": [
+                        -89.681561,
+                        44.791749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gallery 164",
+                  "text": "Art gallery in the Wisconsin Dairy Farms Life area.",
+                  "category": "museum",
+                  "coords": [
+                        -89.672529,
+                        44.784054
+                  ]
+            },
+            {
+                  "name": "Mosinee School Forest",
+                  "text": "Nature reserve with forest near Mosinee.",
+                  "category": "natural",
+                  "coords": [
+                        -89.694303,
+                        44.833643
+                  ]
+            },
+            {
+                  "name": "Twin Oaks Environmental Center",
+                  "text": "Environmental education center in the Wisconsin Dairy Farms Life region.",
+                  "category": "natural",
+                  "coords": [
+                        -89.547085,
+                        44.827661
+                  ]
+            },
+            {
+                  "name": "Wausau School Forest",
+                  "text": "School forest near Wausau, used as a nature reserve.",
+                  "category": "natural",
+                  "coords": [
+                        -89.679922,
+                        44.850063
+                  ]
+            },
+            {
+                  "name": "Riedel-Redmond Nature Preserve",
+                  "text": "Nature preserve named Riedel-Redmond.",
+                  "category": "natural",
+                  "coords": [
+                        -89.681561,
+                        44.791749
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-WI",
     coords: [-89.6385, 44.7863],
@@ -723,7 +15132,1456 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "legoland-california-life-v2",
+    id: "legoland-california-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Legoland California",
+                  "text": "Legoland California ist ein Themenpark in legoland-california-life-v2, der auf Lego-Steinen basiert.",
+                  "category": "recreational",
+                  "coords": [
+                        -117.311686,
+                        33.128019
+                  ]
+            },
+            {
+                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
+                  "text": "Das San Dieguito Heritage Museum at the Heritage Ranch ist ein Museum in legoland-california-life-v2, das sich auf lokales Erbe konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -117.279806,
+                        33.057194
+                  ]
+            },
+            {
+                  "name": "Museum of Making Music",
+                  "text": "Das Museum of Making Music ist ein Museum in legoland-california-life-v2, das der Geschichte der Musikinstrumente gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -117.317028,
+                        33.127248
+                  ]
+            },
+            {
+                  "name": "Avo Playhouse",
+                  "text": "Das Avo Playhouse ist ein Theater in legoland-california-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.241132,
+                        33.20253
+                  ]
+            },
+            {
+                  "name": "Wave Waterpark",
+                  "text": "Der Wave Waterpark ist ein Wasserpark-Attraktion in legoland-california-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.246489,
+                        33.199157
+                  ]
+            },
+            {
+                  "name": "Mount Whitney",
+                  "text": "Der Mount Whitney ist ein Gipfel in legoland-california-life-v2 und der höchste Berg in den zusammenhängenden Vereinigten Staaten.",
+                  "category": "natural",
+                  "coords": [
+                        -117.155169,
+                        33.108801
+                  ]
+            },
+            {
+                  "name": "Breeze Hill",
+                  "text": "Der Breeze Hill ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.259492,
+                        33.191656
+                  ]
+            },
+            {
+                  "name": "Calavera Mountain",
+                  "text": "Der Calavera Mountain ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.281703,
+                        33.16726
+                  ]
+            },
+            {
+                  "name": "Coxey Hill",
+                  "text": "Der Coxey Hill ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.255591,
+                        33.159205
+                  ]
+            },
+            {
+                  "name": "San Francisco Peak",
+                  "text": "Der San Francisco Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.264912,
+                        33.169889
+                  ]
+            },
+            {
+                  "name": "Alta Vista Gardens",
+                  "text": "Die Alta Vista Gardens sind ein Garten in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.219371,
+                        33.210166
+                  ]
+            },
+            {
+                  "name": "Cerro de las Posas",
+                  "text": "Der Cerro de las Posas ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.192569,
+                        33.108109
+                  ]
+            },
+            {
+                  "name": "Double Peak",
+                  "text": "Der Double Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.177594,
+                        33.109428
+                  ]
+            },
+            {
+                  "name": "Franks Peak",
+                  "text": "Der Franks Peak ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.157175,
+                        33.104878
+                  ]
+            },
+            {
+                  "name": "La Costa Canyon Park",
+                  "text": "Der La Costa Canyon Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.242258,
+                        33.089485
+                  ]
+            },
+            {
+                  "name": "Mount Hinton",
+                  "text": "Der Mount Hinton ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.25602,
+                        33.150007
+                  ]
+            },
+            {
+                  "name": "Mount Marron",
+                  "text": "Der Mount Marron ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.250591,
+                        33.145594
+                  ]
+            },
+            {
+                  "name": "Evans Point",
+                  "text": "Der Evans Point ist ein Gipfel in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.298585,
+                        33.142456
+                  ]
+            },
+            {
+                  "name": "Jacks Pond Park",
+                  "text": "Der Jacks Pond Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.141399,
+                        33.132159
+                  ]
+            },
+            {
+                  "name": "Woodland Park",
+                  "text": "Der Woodland Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.131985,
+                        33.14894
+                  ]
+            },
+            {
+                  "name": "Knob Hill Park",
+                  "text": "Der Knob Hill Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.120003,
+                        33.138395
+                  ]
+            },
+            {
+                  "name": "Walnut Grove Park",
+                  "text": "Der Walnut Grove Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.152644,
+                        33.183177
+                  ]
+            },
+            {
+                  "name": "Raintree Park",
+                  "text": "Der Raintree Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.238105,
+                        33.2119
+                  ]
+            },
+            {
+                  "name": "Civic Center Park",
+                  "text": "Der Civic Center Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.234259,
+                        33.203085
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Der Wildwood Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.236162,
+                        33.205571
+                  ]
+            },
+            {
+                  "name": "Breeze Hill Park",
+                  "text": "Der Breeze Hill Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.254604,
+                        33.186219
+                  ]
+            },
+            {
+                  "name": "Calavera Park",
+                  "text": "Der Calavera Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.299106,
+                        33.166059
+                  ]
+            },
+            {
+                  "name": "Thibodo Park",
+                  "text": "Der Thibodo Park ist ein Park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.228874,
+                        33.171378
+                  ]
+            },
+            {
+                  "name": "Buena Vista Park Pond and Open Space",
+                  "text": "Ein Park mit einem Teich und Freiflächen.",
+                  "category": "park",
+                  "coords": [
+                        -117.245361,
+                        33.154422
+                  ]
+            },
+            {
+                  "name": "Brengle Terrace Park",
+                  "text": "Ein Park in der Gegend von Legoland California.",
+                  "category": "park",
+                  "coords": [
+                        -117.220841,
+                        33.209873
+                  ]
+            },
+            {
+                  "name": "Discovery Community Park",
+                  "text": "Ein Gemeinschaftspark in der Nähe von Legoland.",
+                  "category": "park",
+                  "coords": [
+                        -117.178649,
+                        33.124378
+                  ]
+            },
+            {
+                  "name": "William R Bradley Park",
+                  "text": "Ein Park benannt nach William R. Bradley.",
+                  "category": "park",
+                  "coords": [
+                        -117.201828,
+                        33.138031
+                  ]
+            },
+            {
+                  "name": "Cadencia Park",
+                  "text": "Ein Park in der Cadencia-Gegend.",
+                  "category": "park",
+                  "coords": [
+                        -117.232366,
+                        33.091706
+                  ]
+            },
+            {
+                  "name": "Levante School Park",
+                  "text": "Ein Park, der zur Levante-Schule gehört.",
+                  "category": "park",
+                  "coords": [
+                        -117.242425,
+                        33.079957
+                  ]
+            },
+            {
+                  "name": "Stagecoach Park",
+                  "text": "Ein Park mit dem Thema Postkutsche.",
+                  "category": "park",
+                  "coords": [
+                        -117.233823,
+                        33.076095
+                  ]
+            },
+            {
+                  "name": "Carrillo Ranch Park",
+                  "text": "Ein Park auf der Carrillo Ranch.",
+                  "category": "park",
+                  "coords": [
+                        -117.237102,
+                        33.119165
+                  ]
+            },
+            {
+                  "name": "Laguna Riviera City Park",
+                  "text": "Ein Stadtpark in Laguna Riviera.",
+                  "category": "park",
+                  "coords": [
+                        -117.31183,
+                        33.146534
+                  ]
+            },
+            {
+                  "name": "Vista Historical Society",
+                  "text": "Ein Museum zur lokalen Geschichte in Vista.",
+                  "category": "museum",
+                  "coords": [
+                        -117.204425,
+                        33.20428
+                  ]
+            },
+            {
+                  "name": "Cannon Art Gallery",
+                  "text": "Eine Kunstgalerie in der Gegend.",
+                  "category": "museum",
+                  "coords": [
+                        -117.269424,
+                        33.105585
+                  ]
+            },
+            {
+                  "name": "Model Shop",
+                  "text": "Ein Museum, das Modelle ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -117.310744,
+                        33.128076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Legoland California",
+                  "text": "A Legoland California egy vidámpark legoland-california-life-v2-ben, amely Lego kockákon alapul.",
+                  "category": "recreational",
+                  "coords": [
+                        -117.311686,
+                        33.128019
+                  ]
+            },
+            {
+                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
+                  "text": "A San Dieguito Örökség Múzeum a Heritage Ranch-on egy múzeum legoland-california-life-v2-ben, amely a helyi örökségre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -117.279806,
+                        33.057194
+                  ]
+            },
+            {
+                  "name": "Museum of Making Music",
+                  "text": "A Zenealkotás Múzeuma egy múzeum legoland-california-life-v2-ben, amely a hangszerek történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -117.317028,
+                        33.127248
+                  ]
+            },
+            {
+                  "name": "Avo Playhouse",
+                  "text": "Az Avo Playhouse egy színház legoland-california-life-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.241132,
+                        33.20253
+                  ]
+            },
+            {
+                  "name": "Wave Waterpark",
+                  "text": "A Wave Waterpark egy vízipark-attrakció legoland-california-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.246489,
+                        33.199157
+                  ]
+            },
+            {
+                  "name": "Mount Whitney",
+                  "text": "A Mount Whitney egy csúcs legoland-california-life-v2-ben és a legmagasabb hegy az Egyesült Államok szárazföldi részén.",
+                  "category": "natural",
+                  "coords": [
+                        -117.155169,
+                        33.108801
+                  ]
+            },
+            {
+                  "name": "Breeze Hill",
+                  "text": "A Breeze Hill egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.259492,
+                        33.191656
+                  ]
+            },
+            {
+                  "name": "Calavera Mountain",
+                  "text": "A Calavera Mountain egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.281703,
+                        33.16726
+                  ]
+            },
+            {
+                  "name": "Coxey Hill",
+                  "text": "A Coxey Hill egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.255591,
+                        33.159205
+                  ]
+            },
+            {
+                  "name": "San Francisco Peak",
+                  "text": "A San Francisco Peak egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.264912,
+                        33.169889
+                  ]
+            },
+            {
+                  "name": "Alta Vista Gardens",
+                  "text": "Az Alta Vista Gardens egy kert legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.219371,
+                        33.210166
+                  ]
+            },
+            {
+                  "name": "Cerro de las Posas",
+                  "text": "A Cerro de las Posas egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.192569,
+                        33.108109
+                  ]
+            },
+            {
+                  "name": "Double Peak",
+                  "text": "A Double Peak egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.177594,
+                        33.109428
+                  ]
+            },
+            {
+                  "name": "Franks Peak",
+                  "text": "A Franks Peak egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.157175,
+                        33.104878
+                  ]
+            },
+            {
+                  "name": "La Costa Canyon Park",
+                  "text": "A La Costa Canyon Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.242258,
+                        33.089485
+                  ]
+            },
+            {
+                  "name": "Mount Hinton",
+                  "text": "A Mount Hinton egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.25602,
+                        33.150007
+                  ]
+            },
+            {
+                  "name": "Mount Marron",
+                  "text": "A Mount Marron egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.250591,
+                        33.145594
+                  ]
+            },
+            {
+                  "name": "Evans Point",
+                  "text": "A Evans Point egy csúcs legoland-california-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -117.298585,
+                        33.142456
+                  ]
+            },
+            {
+                  "name": "Jacks Pond Park",
+                  "text": "A Jacks Pond Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.141399,
+                        33.132159
+                  ]
+            },
+            {
+                  "name": "Woodland Park",
+                  "text": "A Woodland Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.131985,
+                        33.14894
+                  ]
+            },
+            {
+                  "name": "Knob Hill Park",
+                  "text": "A Knob Hill Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.120003,
+                        33.138395
+                  ]
+            },
+            {
+                  "name": "Walnut Grove Park",
+                  "text": "A Walnut Grove Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.152644,
+                        33.183177
+                  ]
+            },
+            {
+                  "name": "Raintree Park",
+                  "text": "A Raintree Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.238105,
+                        33.2119
+                  ]
+            },
+            {
+                  "name": "Civic Center Park",
+                  "text": "A Civic Center Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.234259,
+                        33.203085
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "A Wildwood Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.236162,
+                        33.205571
+                  ]
+            },
+            {
+                  "name": "Breeze Hill Park",
+                  "text": "A Breeze Hill Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.254604,
+                        33.186219
+                  ]
+            },
+            {
+                  "name": "Calavera Park",
+                  "text": "A Calavera Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.299106,
+                        33.166059
+                  ]
+            },
+            {
+                  "name": "Thibodo Park",
+                  "text": "A Thibodo Park egy park legoland-california-life-v2-ben.",
+                  "category": "park",
+                  "coords": [
+                        -117.228874,
+                        33.171378
+                  ]
+            },
+            {
+                  "name": "Buena Vista Park Pond and Open Space",
+                  "text": "Egy park tóval és nyílt területtel.",
+                  "category": "park",
+                  "coords": [
+                        -117.245361,
+                        33.154422
+                  ]
+            },
+            {
+                  "name": "Brengle Terrace Park",
+                  "text": "Egy park a legolandi kaliforniai területen.",
+                  "category": "park",
+                  "coords": [
+                        -117.220841,
+                        33.209873
+                  ]
+            },
+            {
+                  "name": "Discovery Community Park",
+                  "text": "Egy közösségi park Legoland közelében.",
+                  "category": "park",
+                  "coords": [
+                        -117.178649,
+                        33.124378
+                  ]
+            },
+            {
+                  "name": "William R Bradley Park",
+                  "text": "Egy park, amely William R. Bradley nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        -117.201828,
+                        33.138031
+                  ]
+            },
+            {
+                  "name": "Cadencia Park",
+                  "text": "Egy park a Cadencia környékén.",
+                  "category": "park",
+                  "coords": [
+                        -117.232366,
+                        33.091706
+                  ]
+            },
+            {
+                  "name": "Levante School Park",
+                  "text": "Egy park, amely a Levante Iskolához tartozik.",
+                  "category": "park",
+                  "coords": [
+                        -117.242425,
+                        33.079957
+                  ]
+            },
+            {
+                  "name": "Stagecoach Park",
+                  "text": "Egy park postakocsi témában.",
+                  "category": "park",
+                  "coords": [
+                        -117.233823,
+                        33.076095
+                  ]
+            },
+            {
+                  "name": "Carrillo Ranch Park",
+                  "text": "Egy park a Carrillo Ranch területén.",
+                  "category": "park",
+                  "coords": [
+                        -117.237102,
+                        33.119165
+                  ]
+            },
+            {
+                  "name": "Laguna Riviera City Park",
+                  "text": "Egy városi park Laguna Rivierában.",
+                  "category": "park",
+                  "coords": [
+                        -117.31183,
+                        33.146534
+                  ]
+            },
+            {
+                  "name": "Vista Historical Society",
+                  "text": "Egy helytörténeti múzeum Vistában.",
+                  "category": "museum",
+                  "coords": [
+                        -117.204425,
+                        33.20428
+                  ]
+            },
+            {
+                  "name": "Cannon Art Gallery",
+                  "text": "Egy művészeti galéria a környéken.",
+                  "category": "museum",
+                  "coords": [
+                        -117.269424,
+                        33.105585
+                  ]
+            },
+            {
+                  "name": "Model Shop",
+                  "text": "Egy múzeum, amely modelleket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.310744,
+                        33.128076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Legoland California",
+                  "text": "Legoland California este un parc tematic în legoland-california-life-v2 bazat pe cărămizi Lego.",
+                  "category": "recreational",
+                  "coords": [
+                        -117.311686,
+                        33.128019
+                  ]
+            },
+            {
+                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
+                  "text": "Muzeul Patrimoniului San Dieguito de la Heritage Ranch este un muzeu în legoland-california-life-v2 care se concentrează pe patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        -117.279806,
+                        33.057194
+                  ]
+            },
+            {
+                  "name": "Museum of Making Music",
+                  "text": "Muzeul Realizării Muzicii este un muzeu în legoland-california-life-v2 dedicat istoriei instrumentelor muzicale.",
+                  "category": "museum",
+                  "coords": [
+                        -117.317028,
+                        33.127248
+                  ]
+            },
+            {
+                  "name": "Avo Playhouse",
+                  "text": "Teatrul Avo este un teatru în legoland-california-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.241132,
+                        33.20253
+                  ]
+            },
+            {
+                  "name": "Wave Waterpark",
+                  "text": "Parcul Acvatic Wave este o atracție de parc acvatic în legoland-california-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.246489,
+                        33.199157
+                  ]
+            },
+            {
+                  "name": "Mount Whitney",
+                  "text": "Muntele Whitney este un vârf în legoland-california-life-v2 și cel mai înalt munte din Statele Unite contigue.",
+                  "category": "natural",
+                  "coords": [
+                        -117.155169,
+                        33.108801
+                  ]
+            },
+            {
+                  "name": "Breeze Hill",
+                  "text": "Dealul Breeze este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.259492,
+                        33.191656
+                  ]
+            },
+            {
+                  "name": "Calavera Mountain",
+                  "text": "Muntele Calavera este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.281703,
+                        33.16726
+                  ]
+            },
+            {
+                  "name": "Coxey Hill",
+                  "text": "Dealul Coxey este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.255591,
+                        33.159205
+                  ]
+            },
+            {
+                  "name": "San Francisco Peak",
+                  "text": "Vârful San Francisco este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.264912,
+                        33.169889
+                  ]
+            },
+            {
+                  "name": "Alta Vista Gardens",
+                  "text": "Grădinile Alta Vista sunt o grădină în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.219371,
+                        33.210166
+                  ]
+            },
+            {
+                  "name": "Cerro de las Posas",
+                  "text": "Cerro de las Posas este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.192569,
+                        33.108109
+                  ]
+            },
+            {
+                  "name": "Double Peak",
+                  "text": "Vârful Dublu este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.177594,
+                        33.109428
+                  ]
+            },
+            {
+                  "name": "Franks Peak",
+                  "text": "Vârful Franks este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.157175,
+                        33.104878
+                  ]
+            },
+            {
+                  "name": "La Costa Canyon Park",
+                  "text": "Parcul La Costa Canyon este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.242258,
+                        33.089485
+                  ]
+            },
+            {
+                  "name": "Mount Hinton",
+                  "text": "Muntele Hinton este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.25602,
+                        33.150007
+                  ]
+            },
+            {
+                  "name": "Mount Marron",
+                  "text": "Muntele Marron este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.250591,
+                        33.145594
+                  ]
+            },
+            {
+                  "name": "Evans Point",
+                  "text": "Punctul Evans este un vârf în legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.298585,
+                        33.142456
+                  ]
+            },
+            {
+                  "name": "Jacks Pond Park",
+                  "text": "Parcul iazului Jacks este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.141399,
+                        33.132159
+                  ]
+            },
+            {
+                  "name": "Woodland Park",
+                  "text": "Parcul Woodland este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.131985,
+                        33.14894
+                  ]
+            },
+            {
+                  "name": "Knob Hill Park",
+                  "text": "Parcul Knob Hill este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.120003,
+                        33.138395
+                  ]
+            },
+            {
+                  "name": "Walnut Grove Park",
+                  "text": "Parcul Walnut Grove este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.152644,
+                        33.183177
+                  ]
+            },
+            {
+                  "name": "Raintree Park",
+                  "text": "Parcul Raintree este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.238105,
+                        33.2119
+                  ]
+            },
+            {
+                  "name": "Civic Center Park",
+                  "text": "Parcul Centrului Civic este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.234259,
+                        33.203085
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Parcul Wildwood este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.236162,
+                        33.205571
+                  ]
+            },
+            {
+                  "name": "Breeze Hill Park",
+                  "text": "Parcul Breeze Hill este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.254604,
+                        33.186219
+                  ]
+            },
+            {
+                  "name": "Calavera Park",
+                  "text": "Parcul Calavera este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.299106,
+                        33.166059
+                  ]
+            },
+            {
+                  "name": "Thibodo Park",
+                  "text": "Parcul Thibodo este un parc în legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.228874,
+                        33.171378
+                  ]
+            },
+            {
+                  "name": "Buena Vista Park Pond and Open Space",
+                  "text": "Un parc cu iaz și spațiu deschis.",
+                  "category": "park",
+                  "coords": [
+                        -117.245361,
+                        33.154422
+                  ]
+            },
+            {
+                  "name": "Brengle Terrace Park",
+                  "text": "Un parc în zona Legoland California.",
+                  "category": "park",
+                  "coords": [
+                        -117.220841,
+                        33.209873
+                  ]
+            },
+            {
+                  "name": "Discovery Community Park",
+                  "text": "Un parc comunitar lângă Legoland.",
+                  "category": "park",
+                  "coords": [
+                        -117.178649,
+                        33.124378
+                  ]
+            },
+            {
+                  "name": "William R Bradley Park",
+                  "text": "Un parc numit după William R. Bradley.",
+                  "category": "park",
+                  "coords": [
+                        -117.201828,
+                        33.138031
+                  ]
+            },
+            {
+                  "name": "Cadencia Park",
+                  "text": "Un parc în zona Cadencia.",
+                  "category": "park",
+                  "coords": [
+                        -117.232366,
+                        33.091706
+                  ]
+            },
+            {
+                  "name": "Levante School Park",
+                  "text": "Un parc asociat Școlii Levante.",
+                  "category": "park",
+                  "coords": [
+                        -117.242425,
+                        33.079957
+                  ]
+            },
+            {
+                  "name": "Stagecoach Park",
+                  "text": "Un parc cu tematică diligență.",
+                  "category": "park",
+                  "coords": [
+                        -117.233823,
+                        33.076095
+                  ]
+            },
+            {
+                  "name": "Carrillo Ranch Park",
+                  "text": "Un parc la Carrillo Ranch.",
+                  "category": "park",
+                  "coords": [
+                        -117.237102,
+                        33.119165
+                  ]
+            },
+            {
+                  "name": "Laguna Riviera City Park",
+                  "text": "Un parc orășenesc în Laguna Riviera.",
+                  "category": "park",
+                  "coords": [
+                        -117.31183,
+                        33.146534
+                  ]
+            },
+            {
+                  "name": "Vista Historical Society",
+                  "text": "Un muzeu de istorie locală în Vista.",
+                  "category": "museum",
+                  "coords": [
+                        -117.204425,
+                        33.20428
+                  ]
+            },
+            {
+                  "name": "Cannon Art Gallery",
+                  "text": "O galerie de artă în zonă.",
+                  "category": "museum",
+                  "coords": [
+                        -117.269424,
+                        33.105585
+                  ]
+            },
+            {
+                  "name": "Model Shop",
+                  "text": "Un muzeu care prezintă modele.",
+                  "category": "museum",
+                  "coords": [
+                        -117.310744,
+                        33.128076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Legoland California",
+                  "text": "Legoland California is a theme park in legoland-california-life-v2 based on Lego bricks.",
+                  "category": "recreational",
+                  "coords": [
+                        -117.311686,
+                        33.128019
+                  ]
+            },
+            {
+                  "name": "San Dieguito Heritage Museum at the Heritage Ranch",
+                  "text": "San Dieguito Heritage Museum at the Heritage Ranch is a museum in legoland-california-life-v2 focusing on local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -117.279806,
+                        33.057194
+                  ]
+            },
+            {
+                  "name": "Museum of Making Music",
+                  "text": "Museum of Making Music is a museum in legoland-california-life-v2 dedicated to the history of musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -117.317028,
+                        33.127248
+                  ]
+            },
+            {
+                  "name": "Avo Playhouse",
+                  "text": "Avo Playhouse is a theatre in legoland-california-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.241132,
+                        33.20253
+                  ]
+            },
+            {
+                  "name": "Wave Waterpark",
+                  "text": "Wave Waterpark is a water park attraction in legoland-california-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.246489,
+                        33.199157
+                  ]
+            },
+            {
+                  "name": "Mount Whitney",
+                  "text": "Mount Whitney is a peak in legoland-california-life-v2 and the highest mountain in the contiguous United States.",
+                  "category": "natural",
+                  "coords": [
+                        -117.155169,
+                        33.108801
+                  ]
+            },
+            {
+                  "name": "Breeze Hill",
+                  "text": "Breeze Hill is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.259492,
+                        33.191656
+                  ]
+            },
+            {
+                  "name": "Calavera Mountain",
+                  "text": "Calavera Mountain is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.281703,
+                        33.16726
+                  ]
+            },
+            {
+                  "name": "Coxey Hill",
+                  "text": "Coxey Hill is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.255591,
+                        33.159205
+                  ]
+            },
+            {
+                  "name": "San Francisco Peak",
+                  "text": "San Francisco Peak is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.264912,
+                        33.169889
+                  ]
+            },
+            {
+                  "name": "Alta Vista Gardens",
+                  "text": "Alta Vista Gardens is a garden in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.219371,
+                        33.210166
+                  ]
+            },
+            {
+                  "name": "Cerro de las Posas",
+                  "text": "Cerro de las Posas is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.192569,
+                        33.108109
+                  ]
+            },
+            {
+                  "name": "Double Peak",
+                  "text": "Double Peak is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.177594,
+                        33.109428
+                  ]
+            },
+            {
+                  "name": "Franks Peak",
+                  "text": "Franks Peak is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.157175,
+                        33.104878
+                  ]
+            },
+            {
+                  "name": "La Costa Canyon Park",
+                  "text": "La Costa Canyon Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.242258,
+                        33.089485
+                  ]
+            },
+            {
+                  "name": "Mount Hinton",
+                  "text": "Mount Hinton is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.25602,
+                        33.150007
+                  ]
+            },
+            {
+                  "name": "Mount Marron",
+                  "text": "Mount Marron is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.250591,
+                        33.145594
+                  ]
+            },
+            {
+                  "name": "Evans Point",
+                  "text": "Evans Point is a peak in legoland-california-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -117.298585,
+                        33.142456
+                  ]
+            },
+            {
+                  "name": "Jacks Pond Park",
+                  "text": "Jacks Pond Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.141399,
+                        33.132159
+                  ]
+            },
+            {
+                  "name": "Woodland Park",
+                  "text": "Woodland Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.131985,
+                        33.14894
+                  ]
+            },
+            {
+                  "name": "Knob Hill Park",
+                  "text": "Knob Hill Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.120003,
+                        33.138395
+                  ]
+            },
+            {
+                  "name": "Walnut Grove Park",
+                  "text": "Walnut Grove Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.152644,
+                        33.183177
+                  ]
+            },
+            {
+                  "name": "Raintree Park",
+                  "text": "Raintree Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.238105,
+                        33.2119
+                  ]
+            },
+            {
+                  "name": "Civic Center Park",
+                  "text": "Civic Center Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.234259,
+                        33.203085
+                  ]
+            },
+            {
+                  "name": "Wildwood Park",
+                  "text": "Wildwood Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.236162,
+                        33.205571
+                  ]
+            },
+            {
+                  "name": "Breeze Hill Park",
+                  "text": "Breeze Hill Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.254604,
+                        33.186219
+                  ]
+            },
+            {
+                  "name": "Calavera Park",
+                  "text": "Calavera Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.299106,
+                        33.166059
+                  ]
+            },
+            {
+                  "name": "Thibodo Park",
+                  "text": "Thibodo Park is a park in legoland-california-life-v2.",
+                  "category": "park",
+                  "coords": [
+                        -117.228874,
+                        33.171378
+                  ]
+            },
+            {
+                  "name": "Buena Vista Park Pond and Open Space",
+                  "text": "A park with a pond and open space.",
+                  "category": "park",
+                  "coords": [
+                        -117.245361,
+                        33.154422
+                  ]
+            },
+            {
+                  "name": "Brengle Terrace Park",
+                  "text": "A park in the Legoland California area.",
+                  "category": "park",
+                  "coords": [
+                        -117.220841,
+                        33.209873
+                  ]
+            },
+            {
+                  "name": "Discovery Community Park",
+                  "text": "A community park near Legoland.",
+                  "category": "park",
+                  "coords": [
+                        -117.178649,
+                        33.124378
+                  ]
+            },
+            {
+                  "name": "William R Bradley Park",
+                  "text": "A park named after William R. Bradley.",
+                  "category": "park",
+                  "coords": [
+                        -117.201828,
+                        33.138031
+                  ]
+            },
+            {
+                  "name": "Cadencia Park",
+                  "text": "A park in the Cadencia area.",
+                  "category": "park",
+                  "coords": [
+                        -117.232366,
+                        33.091706
+                  ]
+            },
+            {
+                  "name": "Levante School Park",
+                  "text": "A park associated with Levante School.",
+                  "category": "park",
+                  "coords": [
+                        -117.242425,
+                        33.079957
+                  ]
+            },
+            {
+                  "name": "Stagecoach Park",
+                  "text": "A park with a stagecoach theme.",
+                  "category": "park",
+                  "coords": [
+                        -117.233823,
+                        33.076095
+                  ]
+            },
+            {
+                  "name": "Carrillo Ranch Park",
+                  "text": "A park at Carrillo Ranch.",
+                  "category": "park",
+                  "coords": [
+                        -117.237102,
+                        33.119165
+                  ]
+            },
+            {
+                  "name": "Laguna Riviera City Park",
+                  "text": "A city park in Laguna Riviera.",
+                  "category": "park",
+                  "coords": [
+                        -117.31183,
+                        33.146534
+                  ]
+            },
+            {
+                  "name": "Vista Historical Society",
+                  "text": "A museum of local history in Vista.",
+                  "category": "museum",
+                  "coords": [
+                        -117.204425,
+                        33.20428
+                  ]
+            },
+            {
+                  "name": "Cannon Art Gallery",
+                  "text": "An art gallery in the area.",
+                  "category": "museum",
+                  "coords": [
+                        -117.269424,
+                        33.105585
+                  ]
+            },
+            {
+                  "name": "Model Shop",
+                  "text": "A museum showcasing models.",
+                  "category": "museum",
+                  "coords": [
+                        -117.310744,
+                        33.128076
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-CA",
     coords: [-117.211, 33.126],
@@ -759,7 +16617,808 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "grand-teton-national-park-life-v2",
+    id: "grand-teton-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Moran",
+                  "text": "Mount Moran ist ein markanter Gipfel in der Teton Range im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.776325,
+                        43.83521
+                  ]
+            },
+            {
+                  "name": "East Horn",
+                  "text": "East Horn ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.766324,
+                        43.834377
+                  ]
+            },
+            {
+                  "name": "Bearpaw Bay",
+                  "text": "Bearpaw Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724657,
+                        43.846879
+                  ]
+            },
+            {
+                  "name": "Moran Bay",
+                  "text": "Moran Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.717434,
+                        43.858269
+                  ]
+            },
+            {
+                  "name": "North Bar Bay",
+                  "text": "North Bar Bay ist eine Bucht im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.680767,
+                        43.866048
+                  ]
+            },
+            {
+                  "name": "Mount Woodring",
+                  "text": "Mount Woodring ist ein Gipfel in der Teton Range im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793825,
+                        43.802987
+                  ]
+            },
+            {
+                  "name": "Mount Saint John",
+                  "text": "Mount Saint John ist ein Gipfel in der Teton Range im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.772358,
+                        43.781961
+                  ]
+            },
+            {
+                  "name": "Rockchuck Peak",
+                  "text": "Rockchuck Peak ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.767713,
+                        43.788273
+                  ]
+            },
+            {
+                  "name": "West Horn",
+                  "text": "West Horn ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.769936,
+                        43.8316
+                  ]
+            },
+            {
+                  "name": "Cunningham Cabin",
+                  "text": "Cunningham Cabin ist eine historische Blockhütte im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.558301,
+                        43.778608
+                  ]
+            },
+            {
+                  "name": "Mount Moran Turnout",
+                  "text": "Mount Moran Turnout bietet einen Aussichtspunkt auf den Mount Moran im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.641574,
+                        43.803426
+                  ]
+            },
+            {
+                  "name": "Spalding Bay",
+                  "text": "Spalding Bay ist eine Bucht am Jackson Lake im Grand-Teton-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.666322,
+                        43.816325
+                  ]
+            },
+            {
+                  "name": "Jackson Lake Viewpoint",
+                  "text": "Jackson Lake Viewpoint bietet einen malerischen Blick auf den Jackson Lake im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.611908,
+                        43.843882
+                  ]
+            },
+            {
+                  "name": "Hidden Falls (and ground squirrels dining room)",
+                  "text": "Hidden Falls ist ein Aussichtspunkt mit einem Wasserfall und Erdhörnchen im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.750809,
+                        43.765006
+                  ]
+            },
+            {
+                  "name": "Jenny Lake Overlook",
+                  "text": "Jenny Lake Overlook bietet eine Aussicht auf den Jenny Lake im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.71779,
+                        43.768115
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point ist ein malerischer Aussichtspunkt im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.748258,
+                        43.767007
+                  ]
+            },
+            {
+                  "name": "Symmetry Spire",
+                  "text": "Symmetry Spire ist ein markanter Gipfel und Kletterziel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.76524,
+                        43.773929
+                  ]
+            },
+            {
+                  "name": "Rock Of Ages",
+                  "text": "Rock Of Ages ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.778191,
+                        43.773566
+                  ]
+            },
+            {
+                  "name": "The Jaw",
+                  "text": "The Jaw ist ein Gipfel im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.787158,
+                        43.778265
+                  ]
+            },
+            {
+                  "name": "Snake River Overlook",
+                  "text": "Snake River Overlook ist ein berühmter Aussichtspunkt auf den Snake River im Grand-Teton-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -110.624091,
+                        43.753899
+                  ]
+            },
+            {
+                  "name": "Grand Teton National Park",
+                  "text": "Grand Teton National Park ist ein Schutzgebiet in Wyoming, bekannt für seine Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -110.705473,
+                        43.818533
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre ist ein natürliches Amphitheater im Grand-Teton-Nationalpark.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.615483,
+                        43.841741
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Moran",
+                  "text": "A Mount Moran a Teton-hegység feltűnő csúcsa a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.776325,
+                        43.83521
+                  ]
+            },
+            {
+                  "name": "East Horn",
+                  "text": "Az East Horn egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.766324,
+                        43.834377
+                  ]
+            },
+            {
+                  "name": "Bearpaw Bay",
+                  "text": "A Bearpaw Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724657,
+                        43.846879
+                  ]
+            },
+            {
+                  "name": "Moran Bay",
+                  "text": "A Moran Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.717434,
+                        43.858269
+                  ]
+            },
+            {
+                  "name": "North Bar Bay",
+                  "text": "A North Bar Bay egy öböl a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.680767,
+                        43.866048
+                  ]
+            },
+            {
+                  "name": "Mount Woodring",
+                  "text": "A Mount Woodring a Teton-hegység csúcsa a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793825,
+                        43.802987
+                  ]
+            },
+            {
+                  "name": "Mount Saint John",
+                  "text": "A Mount Saint John egy csúcs a Teton-hegyláncban, a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.772358,
+                        43.781961
+                  ]
+            },
+            {
+                  "name": "Rockchuck Peak",
+                  "text": "A Rockchuck Peak egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.767713,
+                        43.788273
+                  ]
+            },
+            {
+                  "name": "West Horn",
+                  "text": "A West Horn egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.769936,
+                        43.8316
+                  ]
+            },
+            {
+                  "name": "Cunningham Cabin",
+                  "text": "A Cunningham Cabin egy történelmi rönkház a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.558301,
+                        43.778608
+                  ]
+            },
+            {
+                  "name": "Mount Moran Turnout",
+                  "text": "A Mount Moran Turnout egy kilátópont a Mount Moranra a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.641574,
+                        43.803426
+                  ]
+            },
+            {
+                  "name": "Spalding Bay",
+                  "text": "A Spalding Bay egy öböl a Jackson Lake-en a Grand Teton Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.666322,
+                        43.816325
+                  ]
+            },
+            {
+                  "name": "Jackson Lake Viewpoint",
+                  "text": "A Jackson Lake Viewpoint festői kilátást nyújt a Jackson Lake-re a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.611908,
+                        43.843882
+                  ]
+            },
+            {
+                  "name": "Hidden Falls (and ground squirrels dining room)",
+                  "text": "A Hidden Falls egy kilátópont vízeséssel és ürgékkel a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.750809,
+                        43.765006
+                  ]
+            },
+            {
+                  "name": "Jenny Lake Overlook",
+                  "text": "A Jenny Lake Overlook kilátást nyújt a Jenny Lake-re a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.71779,
+                        43.768115
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Az Inspiration Point egy festői kilátópont a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.748258,
+                        43.767007
+                  ]
+            },
+            {
+                  "name": "Symmetry Spire",
+                  "text": "A Symmetry Spire egy kiemelkedő csúcs és mászócél a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.76524,
+                        43.773929
+                  ]
+            },
+            {
+                  "name": "Rock Of Ages",
+                  "text": "A Rock Of Ages egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.778191,
+                        43.773566
+                  ]
+            },
+            {
+                  "name": "The Jaw",
+                  "text": "A The Jaw egy csúcs a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.787158,
+                        43.778265
+                  ]
+            },
+            {
+                  "name": "Snake River Overlook",
+                  "text": "A Snake River Overlook egy híres kilátópont a Snake Riverre a Grand Teton Nemzeti Parkban.",
+                  "category": "natural",
+                  "coords": [
+                        -110.624091,
+                        43.753899
+                  ]
+            },
+            {
+                  "name": "Grand Teton National Park",
+                  "text": "A Grand Teton Nemzeti Park egy védett terület Wyomingban, híres hegyi tájáról.",
+                  "category": "natural",
+                  "coords": [
+                        -110.705473,
+                        43.818533
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Az Amphitheatre egy természetes színház a Grand Teton Nemzeti Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.615483,
+                        43.841741
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Moran",
+                  "text": "Mount Moran este un vârf proeminent în lanțul Teton din Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.776325,
+                        43.83521
+                  ]
+            },
+            {
+                  "name": "East Horn",
+                  "text": "East Horn este un vârf în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.766324,
+                        43.834377
+                  ]
+            },
+            {
+                  "name": "Bearpaw Bay",
+                  "text": "Bearpaw Bay este un golf în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724657,
+                        43.846879
+                  ]
+            },
+            {
+                  "name": "Moran Bay",
+                  "text": "Moran Bay este un golf în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.717434,
+                        43.858269
+                  ]
+            },
+            {
+                  "name": "North Bar Bay",
+                  "text": "North Bar Bay este un golf în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.680767,
+                        43.866048
+                  ]
+            },
+            {
+                  "name": "Mount Woodring",
+                  "text": "Mount Woodring este un vârf în lanțul Teton din Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793825,
+                        43.802987
+                  ]
+            },
+            {
+                  "name": "Mount Saint John",
+                  "text": "Mount Saint John este un vârf în lanțul Teton, în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.772358,
+                        43.781961
+                  ]
+            },
+            {
+                  "name": "Rockchuck Peak",
+                  "text": "Rockchuck Peak este un vârf în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.767713,
+                        43.788273
+                  ]
+            },
+            {
+                  "name": "West Horn",
+                  "text": "West Horn este un vârf în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.769936,
+                        43.8316
+                  ]
+            },
+            {
+                  "name": "Cunningham Cabin",
+                  "text": "Cunningham Cabin este o cabană istorică din bușteni în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.558301,
+                        43.778608
+                  ]
+            },
+            {
+                  "name": "Mount Moran Turnout",
+                  "text": "Mount Moran Turnout oferă un punct de belvedere către Mount Moran în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.641574,
+                        43.803426
+                  ]
+            },
+            {
+                  "name": "Spalding Bay",
+                  "text": "Spalding Bay este un golf pe Lacul Jackson în Parcul Național Grand Teton.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.666322,
+                        43.816325
+                  ]
+            },
+            {
+                  "name": "Jackson Lake Viewpoint",
+                  "text": "Jackson Lake Viewpoint oferă o vedere pitorească asupra Lacului Jackson în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.611908,
+                        43.843882
+                  ]
+            },
+            {
+                  "name": "Hidden Falls (and ground squirrels dining room)",
+                  "text": "Hidden Falls este un punct de belvedere cu o cascadă și veverițe de pământ în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.750809,
+                        43.765006
+                  ]
+            },
+            {
+                  "name": "Jenny Lake Overlook",
+                  "text": "Jenny Lake Overlook oferă o vedere asupra Lacului Jenny în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.71779,
+                        43.768115
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point este un punct de belvedere pitoresc în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.748258,
+                        43.767007
+                  ]
+            },
+            {
+                  "name": "Symmetry Spire",
+                  "text": "Symmetry Spire este un vârf proeminent și destinație de cățărare în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.76524,
+                        43.773929
+                  ]
+            },
+            {
+                  "name": "Rock Of Ages",
+                  "text": "Rock Of Ages este un vârf în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.778191,
+                        43.773566
+                  ]
+            },
+            {
+                  "name": "The Jaw",
+                  "text": "The Jaw este un vârf în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.787158,
+                        43.778265
+                  ]
+            },
+            {
+                  "name": "Snake River Overlook",
+                  "text": "Snake River Overlook este un punct de belvedere celebru asupra Râului Snake în Parcul Național Grand Teton.",
+                  "category": "natural",
+                  "coords": [
+                        -110.624091,
+                        43.753899
+                  ]
+            },
+            {
+                  "name": "Grand Teton National Park",
+                  "text": "Parcul Național Grand Teton este o arie protejată din Wyoming, cunoscută pentru peisajul său montan.",
+                  "category": "natural",
+                  "coords": [
+                        -110.705473,
+                        43.818533
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre este un amfiteatru natural în Parcul Național Grand Teton.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.615483,
+                        43.841741
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Moran",
+                  "text": "Mount Moran is a prominent peak in the Teton Range in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.776325,
+                        43.83521
+                  ]
+            },
+            {
+                  "name": "East Horn",
+                  "text": "East Horn is a peak in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.766324,
+                        43.834377
+                  ]
+            },
+            {
+                  "name": "Bearpaw Bay",
+                  "text": "Bearpaw Bay is a bay in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.724657,
+                        43.846879
+                  ]
+            },
+            {
+                  "name": "Moran Bay",
+                  "text": "Moran Bay is a bay in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.717434,
+                        43.858269
+                  ]
+            },
+            {
+                  "name": "North Bar Bay",
+                  "text": "North Bar Bay is a bay in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.680767,
+                        43.866048
+                  ]
+            },
+            {
+                  "name": "Mount Woodring",
+                  "text": "Mount Woodring is a peak in the Teton Range in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.793825,
+                        43.802987
+                  ]
+            },
+            {
+                  "name": "Mount Saint John",
+                  "text": "Mount Saint John is a peak in the Teton Range within Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.772358,
+                        43.781961
+                  ]
+            },
+            {
+                  "name": "Rockchuck Peak",
+                  "text": "Rockchuck Peak is a peak in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.767713,
+                        43.788273
+                  ]
+            },
+            {
+                  "name": "West Horn",
+                  "text": "West Horn is a peak in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.769936,
+                        43.8316
+                  ]
+            },
+            {
+                  "name": "Cunningham Cabin",
+                  "text": "Cunningham Cabin is a historic log cabin in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.558301,
+                        43.778608
+                  ]
+            },
+            {
+                  "name": "Mount Moran Turnout",
+                  "text": "Mount Moran Turnout offers a viewpoint of Mount Moran in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.641574,
+                        43.803426
+                  ]
+            },
+            {
+                  "name": "Spalding Bay",
+                  "text": "Spalding Bay is a bay on Jackson Lake in Grand Teton National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -110.666322,
+                        43.816325
+                  ]
+            },
+            {
+                  "name": "Jackson Lake Viewpoint",
+                  "text": "Jackson Lake Viewpoint provides a scenic view of Jackson Lake in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.611908,
+                        43.843882
+                  ]
+            },
+            {
+                  "name": "Hidden Falls (and ground squirrels dining room)",
+                  "text": "Hidden Falls is a viewpoint with a waterfall and ground squirrels in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.750809,
+                        43.765006
+                  ]
+            },
+            {
+                  "name": "Jenny Lake Overlook",
+                  "text": "Jenny Lake Overlook offers a vista of Jenny Lake in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.71779,
+                        43.768115
+                  ]
+            },
+            {
+                  "name": "Inspiration Point",
+                  "text": "Inspiration Point is a scenic overlook in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.748258,
+                        43.767007
+                  ]
+            },
+            {
+                  "name": "Symmetry Spire",
+                  "text": "Symmetry Spire is a prominent peak and climbing destination in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.76524,
+                        43.773929
+                  ]
+            },
+            {
+                  "name": "Rock Of Ages",
+                  "text": "Rock Of Ages is a peak in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.778191,
+                        43.773566
+                  ]
+            },
+            {
+                  "name": "The Jaw",
+                  "text": "The Jaw is a peak in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.787158,
+                        43.778265
+                  ]
+            },
+            {
+                  "name": "Snake River Overlook",
+                  "text": "Snake River Overlook is a famous viewpoint of the Snake River in Grand Teton National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -110.624091,
+                        43.753899
+                  ]
+            },
+            {
+                  "name": "Grand Teton National Park",
+                  "text": "Grand Teton National Park is a protected area in Wyoming known for its mountain scenery.",
+                  "category": "natural",
+                  "coords": [
+                        -110.705473,
+                        43.818533
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre is a natural amphitheater in Grand Teton National Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -110.615483,
+                        43.841741
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-WY",
     coords: [-110.6817, 43.7904],
@@ -795,7 +17454,52 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "georgia-peach-orchards-life-v2",
+    id: "georgia-peach-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rutland Performing Arts Center",
+                  "text": "Rutland Performing Arts Center ist ein Theater in georgia-peach-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.712977,
+                        32.738183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rutland Performing Arts Center",
+                  "text": "Rutland Performing Arts Center egy színház georgia-peach-orchards-life-v2-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.712977,
+                        32.738183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rutland Performing Arts Center",
+                  "text": "Rutland Performing Arts Center este un teatru în georgia-peach-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.712977,
+                        32.738183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rutland Performing Arts Center",
+                  "text": "Rutland Performing Arts Center is a theatre in georgia-peach-orchards-life-v2.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.712977,
+                        32.738183
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-GA",
     coords: [-83.8, 32.7],
@@ -831,7 +17535,1060 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "seaworld-orlando-life-v2",
+    id: "seaworld-orlando-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Universal Orlando",
+                  "text": "Universal Orlando ist ein großes Themenpark-Resort in Orlando mit zwei Hauptparks.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.457009,
+                        28.455942
+                  ]
+            },
+            {
+                  "name": "Universal Epic Universe",
+                  "text": "Universal Epic Universe ist ein neuer Themenpark im Bau im Universal Orlando Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.446988,
+                        28.443051
+                  ]
+            },
+            {
+                  "name": "Gatorland",
+                  "text": "Gatorland ist ein Themenpark und Wildtierreservat in Orlando, bekannt für Alligatorenshows.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.40213,
+                        28.354911
+                  ]
+            },
+            {
+                  "name": "Discovery Cove",
+                  "text": "Discovery Cove ist ein All-Inclusive-Tagesresort in Orlando, wo Gäste mit Delfinen schwimmen können.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.463925,
+                        28.405165
+                  ]
+            },
+            {
+                  "name": "SeaWorld",
+                  "text": "SeaWorld Orlando ist ein Meeres-Themenpark in Orlando, bekannt für Orca-Shows und Achterbahnen.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.46106,
+                        28.410201
+                  ]
+            },
+            {
+                  "name": "Stardust Racers",
+                  "text": "Stardust Racers ist eine Achterbahn im Universal Epic Universe.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.446559,
+                        28.441508
+                  ]
+            },
+            {
+                  "name": "Basilica of Mary, Queen of the Universe",
+                  "text": "Die Basilica of Mary, Queen of the Universe ist eine katholische Basilika in Orlando.",
+                  "category": "religious",
+                  "coords": [
+                        -81.496141,
+                        28.384828
+                  ]
+            },
+            {
+                  "name": "Kraken",
+                  "text": "Kraken ist eine bodenlose Achterbahn im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.458751,
+                        28.411695
+                  ]
+            },
+            {
+                  "name": "Journey to Atlantis",
+                  "text": "Journey to Atlantis ist eine Wasser-Achterbahn im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459222,
+                        28.413065
+                  ]
+            },
+            {
+                  "name": "Manta",
+                  "text": "Manta ist eine fliegende Achterbahn im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.46167,
+                        28.412078
+                  ]
+            },
+            {
+                  "name": "Skeletons: Museum of Osteology",
+                  "text": "Skeletons: Museum of Osteology ist ein Museum in Orlando mit echten Tierskeletten.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469137,
+                        28.442778
+                  ]
+            },
+            {
+                  "name": "Aquatica",
+                  "text": "Aquatica ist ein Wasserpark in Orlando.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.456851,
+                        28.415508
+                  ]
+            },
+            {
+                  "name": "Chocolate Kingdom - Factory Adventure Tour",
+                  "text": "Chocolate Kingdom – Factory Adventure Tour ist ein Museum in Orlando mit einer Schokoladenfabrik-Tour.",
+                  "category": "museum",
+                  "coords": [
+                        -81.462319,
+                        28.423792
+                  ]
+            },
+            {
+                  "name": "Chocolate Museum & Cafe",
+                  "text": "Das Chocolate Museum & Cafe ist ein Museum und Café in Orlando, das sich auf Schokolade konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -81.464877,
+                        28.393804
+                  ]
+            },
+            {
+                  "name": "WonderWorks Family Attractions",
+                  "text": "WonderWorks Family Attractions ist ein interaktives Museum in Orlando mit praktischen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        -81.471493,
+                        28.433791
+                  ]
+            },
+            {
+                  "name": "Osceola Performing Arts Center",
+                  "text": "Das Osceola Performing Arts Center ist ein Zentrum für darstellende Künste in Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.40199,
+                        28.341488
+                  ]
+            },
+            {
+                  "name": "The Untrainable Dragon",
+                  "text": "The Untrainable Dragon ist eine Theateraufführung in Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.444606,
+                        28.439586
+                  ]
+            },
+            {
+                  "name": "Nautilus Theater",
+                  "text": "Das Nautilus Theater ist ein Theater im SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.4596,
+                        28.408848
+                  ]
+            },
+            {
+                  "name": "Pirate's Dinner Adventure",
+                  "text": "Pirate's Dinner Adventure ist ein Theater im SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.468007,
+                        28.455579
+                  ]
+            },
+            {
+                  "name": "Dare 2 Escape",
+                  "text": "Dare 2 Escape ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.486507,
+                        28.33364
+                  ]
+            },
+            {
+                  "name": "Dragon Racer's Rally",
+                  "text": "Dragon Racer's Rally ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.445343,
+                        28.44145
+                  ]
+            },
+            {
+                  "name": "K1 Speed Indoor Go Karts",
+                  "text": "K1 Speed Indoor Go Karts ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.411933,
+                        28.429753
+                  ]
+            },
+            {
+                  "name": "Gator Jumparoo Show",
+                  "text": "Gator Jumparoo Show ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.403376,
+                        28.355803
+                  ]
+            },
+            {
+                  "name": "Explorer's Aviary",
+                  "text": "Explorer's Aviary ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461988,
+                        28.404407
+                  ]
+            },
+            {
+                  "name": "Wind-Away River",
+                  "text": "Wind-Away River ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462069,
+                        28.405397
+                  ]
+            },
+            {
+                  "name": "Walruses",
+                  "text": "Walruses ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.463825,
+                        28.407671
+                  ]
+            },
+            {
+                  "name": "Ice Breaker",
+                  "text": "Ice Breaker ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462959,
+                        28.408816
+                  ]
+            },
+            {
+                  "name": "Orcas",
+                  "text": "Orcas ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461572,
+                        28.40874
+                  ]
+            },
+            {
+                  "name": "Shark Encounter",
+                  "text": "Shark Encounter ist eine Attraktion im SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459629,
+                        28.409757
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Universal Orlando",
+                  "text": "A Universal Orlando egy nagy tematikus park komplexum Orlandóban, két fő parkkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.457009,
+                        28.455942
+                  ]
+            },
+            {
+                  "name": "Universal Epic Universe",
+                  "text": "A Universal Epic Universe egy új, építés alatt álló tematikus park a Universal Orlando Resortban.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.446988,
+                        28.443051
+                  ]
+            },
+            {
+                  "name": "Gatorland",
+                  "text": "A Gatorland egy tematikus park és vadvédelmi terület Orlandóban, híres aligátorbemutatóiról.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.40213,
+                        28.354911
+                  ]
+            },
+            {
+                  "name": "Discovery Cove",
+                  "text": "A Discovery Cove egy mindent magában foglaló napközi üdülőhely Orlandóban, ahol a vendégek delfinekkel úszhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.463925,
+                        28.405165
+                  ]
+            },
+            {
+                  "name": "SeaWorld",
+                  "text": "A SeaWorld Orlando egy tengeri témájú park Orlandóban, híres kardszárnyú delfin bemutatóiról és hullámvasútjairól.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.46106,
+                        28.410201
+                  ]
+            },
+            {
+                  "name": "Stardust Racers",
+                  "text": "A Stardust Racers egy hullámvasút a Universal Epic Universe-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.446559,
+                        28.441508
+                  ]
+            },
+            {
+                  "name": "Basilica of Mary, Queen of the Universe",
+                  "text": "A Basilica of Mary, Queen of the Universe egy katolikus bazilika Orlandóban.",
+                  "category": "religious",
+                  "coords": [
+                        -81.496141,
+                        28.384828
+                  ]
+            },
+            {
+                  "name": "Kraken",
+                  "text": "A Kraken egy padló nélküli hullámvasút a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.458751,
+                        28.411695
+                  ]
+            },
+            {
+                  "name": "Journey to Atlantis",
+                  "text": "A Journey to Atlantis egy vízi hullámvasút a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459222,
+                        28.413065
+                  ]
+            },
+            {
+                  "name": "Manta",
+                  "text": "A Manta egy repülő hullámvasút a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.46167,
+                        28.412078
+                  ]
+            },
+            {
+                  "name": "Skeletons: Museum of Osteology",
+                  "text": "A Skeletons: Museum of Osteology egy múzeum Orlandóban, valódi állati csontvázakkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469137,
+                        28.442778
+                  ]
+            },
+            {
+                  "name": "Aquatica",
+                  "text": "Az Aquatica egy vízipark Orlandóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.456851,
+                        28.415508
+                  ]
+            },
+            {
+                  "name": "Chocolate Kingdom - Factory Adventure Tour",
+                  "text": "A Chocolate Kingdom – Factory Adventure Tour egy múzeum Orlandóban csokoládégyár túrával.",
+                  "category": "museum",
+                  "coords": [
+                        -81.462319,
+                        28.423792
+                  ]
+            },
+            {
+                  "name": "Chocolate Museum & Cafe",
+                  "text": "A Chocolate Museum & Cafe egy múzeum és kávézó Orlandóban, amely a csokoládéra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -81.464877,
+                        28.393804
+                  ]
+            },
+            {
+                  "name": "WonderWorks Family Attractions",
+                  "text": "A WonderWorks Family Attractions egy interaktív múzeum Orlandóban, tapintható kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        -81.471493,
+                        28.433791
+                  ]
+            },
+            {
+                  "name": "Osceola Performing Arts Center",
+                  "text": "Az Osceola Performing Arts Center egy előadóművészeti központ Orlandóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.40199,
+                        28.341488
+                  ]
+            },
+            {
+                  "name": "The Untrainable Dragon",
+                  "text": "A The Untrainable Dragon egy színházi előadás Orlandóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.444606,
+                        28.439586
+                  ]
+            },
+            {
+                  "name": "Nautilus Theater",
+                  "text": "A Nautilus Színház egy színház a SeaWorld Orlandóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.4596,
+                        28.408848
+                  ]
+            },
+            {
+                  "name": "Pirate's Dinner Adventure",
+                  "text": "Pirate's Dinner Adventure egy színház a SeaWorld Orlandóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.468007,
+                        28.455579
+                  ]
+            },
+            {
+                  "name": "Dare 2 Escape",
+                  "text": "A Dare 2 Escape egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.486507,
+                        28.33364
+                  ]
+            },
+            {
+                  "name": "Dragon Racer's Rally",
+                  "text": "Dragon Racer's Rally egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.445343,
+                        28.44145
+                  ]
+            },
+            {
+                  "name": "K1 Speed Indoor Go Karts",
+                  "text": "K1 Speed Indoor Go Karts egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.411933,
+                        28.429753
+                  ]
+            },
+            {
+                  "name": "Gator Jumparoo Show",
+                  "text": "Gator Jumparoo Show egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.403376,
+                        28.355803
+                  ]
+            },
+            {
+                  "name": "Explorer's Aviary",
+                  "text": "Explorer's Aviary egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461988,
+                        28.404407
+                  ]
+            },
+            {
+                  "name": "Wind-Away River",
+                  "text": "Wind-Away River egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462069,
+                        28.405397
+                  ]
+            },
+            {
+                  "name": "Walruses",
+                  "text": "Walruses egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.463825,
+                        28.407671
+                  ]
+            },
+            {
+                  "name": "Ice Breaker",
+                  "text": "Ice Breaker egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462959,
+                        28.408816
+                  ]
+            },
+            {
+                  "name": "Orcas",
+                  "text": "Orcas egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461572,
+                        28.40874
+                  ]
+            },
+            {
+                  "name": "Shark Encounter",
+                  "text": "Shark Encounter egy attrakció a SeaWorld Orlandóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459629,
+                        28.409757
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Universal Orlando",
+                  "text": "Universal Orlando este un mare complex de parcuri tematice din Orlando, cu două parcuri principale.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.457009,
+                        28.455942
+                  ]
+            },
+            {
+                  "name": "Universal Epic Universe",
+                  "text": "Universal Epic Universe este un nou parc tematic în construcție în cadrul Universal Orlando Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.446988,
+                        28.443051
+                  ]
+            },
+            {
+                  "name": "Gatorland",
+                  "text": "Gatorland este un parc tematic și rezervație naturală din Orlando, cunoscut pentru spectacolele cu aligatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.40213,
+                        28.354911
+                  ]
+            },
+            {
+                  "name": "Discovery Cove",
+                  "text": "Discovery Cove este o stațiune all-inclusive de o zi din Orlando, unde oaspeții pot înota cu delfinii.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.463925,
+                        28.405165
+                  ]
+            },
+            {
+                  "name": "SeaWorld",
+                  "text": "SeaWorld Orlando este un parc tematic marin din Orlando, cunoscut pentru spectacolele cu orci și montagne russe.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.46106,
+                        28.410201
+                  ]
+            },
+            {
+                  "name": "Stardust Racers",
+                  "text": "Stardust Racers este o montagne russe la Universal Epic Universe.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.446559,
+                        28.441508
+                  ]
+            },
+            {
+                  "name": "Basilica of Mary, Queen of the Universe",
+                  "text": "Basilica of Mary, Queen of the Universe este o bazilică catolică din Orlando.",
+                  "category": "religious",
+                  "coords": [
+                        -81.496141,
+                        28.384828
+                  ]
+            },
+            {
+                  "name": "Kraken",
+                  "text": "Kraken este o montagne russe fără podea la SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.458751,
+                        28.411695
+                  ]
+            },
+            {
+                  "name": "Journey to Atlantis",
+                  "text": "Journey to Atlantis este o montagne russe acvatică la SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459222,
+                        28.413065
+                  ]
+            },
+            {
+                  "name": "Manta",
+                  "text": "Manta este o montagne russe zburătoare la SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.46167,
+                        28.412078
+                  ]
+            },
+            {
+                  "name": "Skeletons: Museum of Osteology",
+                  "text": "Skeletons: Museum of Osteology este un muzeu din Orlando cu schelete reale de animale.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469137,
+                        28.442778
+                  ]
+            },
+            {
+                  "name": "Aquatica",
+                  "text": "Aquatica este un parc acvatic din Orlando.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.456851,
+                        28.415508
+                  ]
+            },
+            {
+                  "name": "Chocolate Kingdom - Factory Adventure Tour",
+                  "text": "Chocolate Kingdom – Factory Adventure Tour este un muzeu din Orlando cu un tur al fabricii de ciocolată.",
+                  "category": "museum",
+                  "coords": [
+                        -81.462319,
+                        28.423792
+                  ]
+            },
+            {
+                  "name": "Chocolate Museum & Cafe",
+                  "text": "Chocolate Museum & Cafe este un muzeu și o cafenea din Orlando, axată pe ciocolată.",
+                  "category": "museum",
+                  "coords": [
+                        -81.464877,
+                        28.393804
+                  ]
+            },
+            {
+                  "name": "WonderWorks Family Attractions",
+                  "text": "WonderWorks Family Attractions este un muzeu interactiv din Orlando cu exponate practice.",
+                  "category": "museum",
+                  "coords": [
+                        -81.471493,
+                        28.433791
+                  ]
+            },
+            {
+                  "name": "Osceola Performing Arts Center",
+                  "text": "Osceola Performing Arts Center este un centru de arte performative din Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.40199,
+                        28.341488
+                  ]
+            },
+            {
+                  "name": "The Untrainable Dragon",
+                  "text": "The Untrainable Dragon este un spectacol de teatru în Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.444606,
+                        28.439586
+                  ]
+            },
+            {
+                  "name": "Nautilus Theater",
+                  "text": "Teatrul Nautilus este un teatru în SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.4596,
+                        28.408848
+                  ]
+            },
+            {
+                  "name": "Pirate's Dinner Adventure",
+                  "text": "Pirate's Dinner Adventure este un teatru în SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.468007,
+                        28.455579
+                  ]
+            },
+            {
+                  "name": "Dare 2 Escape",
+                  "text": "Dare 2 Escape este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.486507,
+                        28.33364
+                  ]
+            },
+            {
+                  "name": "Dragon Racer's Rally",
+                  "text": "Dragon Racer's Rally este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.445343,
+                        28.44145
+                  ]
+            },
+            {
+                  "name": "K1 Speed Indoor Go Karts",
+                  "text": "K1 Speed Indoor Go Karts este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.411933,
+                        28.429753
+                  ]
+            },
+            {
+                  "name": "Gator Jumparoo Show",
+                  "text": "Gator Jumparoo Show este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.403376,
+                        28.355803
+                  ]
+            },
+            {
+                  "name": "Explorer's Aviary",
+                  "text": "Explorer's Aviary este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461988,
+                        28.404407
+                  ]
+            },
+            {
+                  "name": "Wind-Away River",
+                  "text": "Wind-Away River este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462069,
+                        28.405397
+                  ]
+            },
+            {
+                  "name": "Walruses",
+                  "text": "Walruses este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.463825,
+                        28.407671
+                  ]
+            },
+            {
+                  "name": "Ice Breaker",
+                  "text": "Ice Breaker este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462959,
+                        28.408816
+                  ]
+            },
+            {
+                  "name": "Orcas",
+                  "text": "Orcas este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461572,
+                        28.40874
+                  ]
+            },
+            {
+                  "name": "Shark Encounter",
+                  "text": "Shark Encounter este o atracție în SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459629,
+                        28.409757
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Universal Orlando",
+                  "text": "Universal Orlando is a large theme park resort in Orlando featuring two major parks.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.457009,
+                        28.455942
+                  ]
+            },
+            {
+                  "name": "Universal Epic Universe",
+                  "text": "Universal Epic Universe is a new theme park under construction at Universal Orlando Resort.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.446988,
+                        28.443051
+                  ]
+            },
+            {
+                  "name": "Gatorland",
+                  "text": "Gatorland is a theme park and wildlife preserve in Orlando known for alligator shows.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.40213,
+                        28.354911
+                  ]
+            },
+            {
+                  "name": "Discovery Cove",
+                  "text": "Discovery Cove is an all-inclusive day resort in Orlando where guests can swim with dolphins.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.463925,
+                        28.405165
+                  ]
+            },
+            {
+                  "name": "SeaWorld",
+                  "text": "SeaWorld Orlando is a marine-life theme park in Orlando known for orca shows and roller coasters.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.46106,
+                        28.410201
+                  ]
+            },
+            {
+                  "name": "Stardust Racers",
+                  "text": "Stardust Racers is a roller coaster at Universal Epic Universe.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.446559,
+                        28.441508
+                  ]
+            },
+            {
+                  "name": "Basilica of Mary, Queen of the Universe",
+                  "text": "The Basilica of Mary, Queen of the Universe is a Catholic basilica in Orlando.",
+                  "category": "religious",
+                  "coords": [
+                        -81.496141,
+                        28.384828
+                  ]
+            },
+            {
+                  "name": "Kraken",
+                  "text": "Kraken is a floorless roller coaster at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.458751,
+                        28.411695
+                  ]
+            },
+            {
+                  "name": "Journey to Atlantis",
+                  "text": "Journey to Atlantis is a water roller coaster at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459222,
+                        28.413065
+                  ]
+            },
+            {
+                  "name": "Manta",
+                  "text": "Manta is a flying roller coaster at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.46167,
+                        28.412078
+                  ]
+            },
+            {
+                  "name": "Skeletons: Museum of Osteology",
+                  "text": "Skeletons: Museum of Osteology is a museum in Orlando displaying real animal skeletons.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.469137,
+                        28.442778
+                  ]
+            },
+            {
+                  "name": "Aquatica",
+                  "text": "Aquatica is a water park in Orlando.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.456851,
+                        28.415508
+                  ]
+            },
+            {
+                  "name": "Chocolate Kingdom - Factory Adventure Tour",
+                  "text": "Chocolate Kingdom – Factory Adventure Tour is a museum in Orlando offering a chocolate factory tour.",
+                  "category": "museum",
+                  "coords": [
+                        -81.462319,
+                        28.423792
+                  ]
+            },
+            {
+                  "name": "Chocolate Museum & Cafe",
+                  "text": "Chocolate Museum & Cafe is a museum and cafe in Orlando focused on chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        -81.464877,
+                        28.393804
+                  ]
+            },
+            {
+                  "name": "WonderWorks Family Attractions",
+                  "text": "WonderWorks Family Attractions is an interactive museum in Orlando with hands-on exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -81.471493,
+                        28.433791
+                  ]
+            },
+            {
+                  "name": "Osceola Performing Arts Center",
+                  "text": "Osceola Performing Arts Center is a performing arts center in Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.40199,
+                        28.341488
+                  ]
+            },
+            {
+                  "name": "The Untrainable Dragon",
+                  "text": "The Untrainable Dragon is a theatrical show in Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.444606,
+                        28.439586
+                  ]
+            },
+            {
+                  "name": "Nautilus Theater",
+                  "text": "The Nautilus Theater is a theatre at SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.4596,
+                        28.408848
+                  ]
+            },
+            {
+                  "name": "Pirate's Dinner Adventure",
+                  "text": "Pirate's Dinner Adventure is a theatre at SeaWorld Orlando.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.468007,
+                        28.455579
+                  ]
+            },
+            {
+                  "name": "Dare 2 Escape",
+                  "text": "Dare 2 Escape is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.486507,
+                        28.33364
+                  ]
+            },
+            {
+                  "name": "Dragon Racer's Rally",
+                  "text": "Dragon Racer's Rally is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.445343,
+                        28.44145
+                  ]
+            },
+            {
+                  "name": "K1 Speed Indoor Go Karts",
+                  "text": "K1 Speed Indoor Go Karts is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.411933,
+                        28.429753
+                  ]
+            },
+            {
+                  "name": "Gator Jumparoo Show",
+                  "text": "Gator Jumparoo Show is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.403376,
+                        28.355803
+                  ]
+            },
+            {
+                  "name": "Explorer's Aviary",
+                  "text": "Explorer's Aviary is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461988,
+                        28.404407
+                  ]
+            },
+            {
+                  "name": "Wind-Away River",
+                  "text": "Wind-Away River is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462069,
+                        28.405397
+                  ]
+            },
+            {
+                  "name": "Walruses",
+                  "text": "Walruses is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.463825,
+                        28.407671
+                  ]
+            },
+            {
+                  "name": "Ice Breaker",
+                  "text": "Ice Breaker is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.462959,
+                        28.408816
+                  ]
+            },
+            {
+                  "name": "Orcas",
+                  "text": "Orcas is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.461572,
+                        28.40874
+                  ]
+            },
+            {
+                  "name": "Shark Encounter",
+                  "text": "Shark Encounter is an attraction at SeaWorld Orlando.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.459629,
+                        28.409757
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-FL",
     coords: [-81.462, 28.411],
@@ -867,7 +18624,1348 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "zion-national-park-life-v2",
+    id: "zion-national-park-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mountain of Mystery",
+                  "text": "Ein auffälliger Gipfel im Zion-Nationalpark, oft vom Zion-Mount Carmel Highway aus sichtbar.",
+                  "category": "natural",
+                  "coords": [
+                        -112.937156,
+                        37.304117
+                  ]
+            },
+            {
+                  "name": "Ivins Mountain",
+                  "text": "Ein Gipfel im Zion-Nationalpark, benannt nach einem frühen Siedler namens Ivins.",
+                  "category": "natural",
+                  "coords": [
+                        -113.005846,
+                        37.287193
+                  ]
+            },
+            {
+                  "name": "Castle Dome",
+                  "text": "Ein turmartiger Gipfel im Zion-Nationalpark, der an eine Burg erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -112.970774,
+                        37.266648
+                  ]
+            },
+            {
+                  "name": "Lady Mountain",
+                  "text": "Ein Gipfel im Zion-Nationalpark, dessen Profil an eine Frau erinnern soll.",
+                  "category": "natural",
+                  "coords": [
+                        -112.966052,
+                        37.254149
+                  ]
+            },
+            {
+                  "name": "Isaac Peak",
+                  "text": "Ein Gipfel im Zion-Nationalpark, benannt nach dem frühen Siedler Isaac Behunin.",
+                  "category": "natural",
+                  "coords": [
+                        -112.972982,
+                        37.244804
+                  ]
+            },
+            {
+                  "name": "Mount Moroni",
+                  "text": "Ein Gipfel im Zion-Nationalpark, benannt nach dem Engel Moroni.",
+                  "category": "natural",
+                  "coords": [
+                        -112.963721,
+                        37.24309
+                  ]
+            },
+            {
+                  "name": "Red Arch Mountain",
+                  "text": "Ein Berg im Zion-Nationalpark mit einem markanten roten Bogen.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94918,
+                        37.255075
+                  ]
+            },
+            {
+                  "name": "Cable Mountain",
+                  "text": "Ein Gipfel im Zion-Nationalpark, der früher für ein Seilbahnsystem zur Holzabfuhr genutzt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -112.933551,
+                        37.26776
+                  ]
+            },
+            {
+                  "name": "Angels Landing",
+                  "text": "Ein ikonischer Gipfel im Zion-Nationalpark, berühmt für seine anspruchsvolle Wanderung mit Ketten.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94799,
+                        37.269315
+                  ]
+            },
+            {
+                  "name": "Deertrap Mountain",
+                  "text": "Ein Gipfel im Zion-Nationalpark, dessen Name auf die einstige Hirschjagd verweist.",
+                  "category": "natural",
+                  "coords": [
+                        -112.943828,
+                        37.237482
+                  ]
+            },
+            {
+                  "name": "Mountain of the Sun",
+                  "text": "Ein Gipfel im Zion-Nationalpark, der für seine morgendliche Beleuchtung durch die Sonne bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -112.953406,
+                        37.234871
+                  ]
+            },
+            {
+                  "name": "Bee Hive",
+                  "text": "Ein Gipfel im Zion-Nationalpark, der an einen Bienenstock erinnert, einem Symbol der Mormonen.",
+                  "category": "natural",
+                  "coords": [
+                        -112.986885,
+                        37.224982
+                  ]
+            },
+            {
+                  "name": "The Sentinel",
+                  "text": "Ein Gipfel im Zion-Nationalpark, der wie ein Wächter über dem Canyon thront.",
+                  "category": "natural",
+                  "coords": [
+                        -112.981524,
+                        37.23125
+                  ]
+            },
+            {
+                  "name": "Meridian Tower",
+                  "text": "Eine hohe Spitze im Zion-Nationalpark auf der östlichen Seite.",
+                  "category": "natural",
+                  "coords": [
+                        -113.000774,
+                        37.231093
+                  ]
+            },
+            {
+                  "name": "The West Temple",
+                  "text": "Ein massiver Sandsteinmonolith im Zion-Nationalpark auf der Westseite des Canyons.",
+                  "category": "natural",
+                  "coords": [
+                        -113.020219,
+                        37.210187
+                  ]
+            },
+            {
+                  "name": "South Guardian Angel",
+                  "text": "Ein Gipfel im Zion-Nationalpark südlich der bekannten Guardian-Angel-Formation.",
+                  "category": "natural",
+                  "coords": [
+                        -113.05911,
+                        37.295815
+                  ]
+            },
+            {
+                  "name": "Tabernacle Dome",
+                  "text": "Ein kuppelförmiger Gipfel im Zion-Nationalpark, der an den Salt-Lake-Tabernakel erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -113.092892,
+                        37.300115
+                  ]
+            },
+            {
+                  "name": "Cave Knoll",
+                  "text": "Ein Gipfel im Zion-Nationalpark mit Höhlen.",
+                  "category": "natural",
+                  "coords": [
+                        -113.104112,
+                        37.320814
+                  ]
+            },
+            {
+                  "name": "North Guardian Angel",
+                  "text": "Ein Gipfel im Zion-Nationalpark nördlich des Guardian Angel.",
+                  "category": "natural",
+                  "coords": [
+                        -113.057722,
+                        37.316648
+                  ]
+            },
+            {
+                  "name": "Pine Valley Peak",
+                  "text": "Ein Gipfel in den Pine Valley Mountains nahe dem Zion-Nationalpark.",
+                  "category": "natural",
+                  "coords": [
+                        -113.078097,
+                        37.335718
+                  ]
+            },
+            {
+                  "name": "Zion Wilderness",
+                  "text": "Ein ausgewiesenes Wildnisgebiet innerhalb des Zion-Nationalparks.",
+                  "category": "natural",
+                  "coords": [
+                        -113.03389,
+                        37.304166
+                  ]
+            },
+            {
+                  "name": "Zion National Park",
+                  "text": "Ein ikonischer Nationalpark in Utah, berühmt für seine tiefen Canyons und lebhaften Farben.",
+                  "category": "natural",
+                  "coords": [
+                        -113.026489,
+                        37.298412
+                  ]
+            },
+            {
+                  "name": "The Great White Throne",
+                  "text": "Ein massiver weißer Sandsteinmonolith im Zion-Nationalpark, eines seiner markantesten Wahrzeichen.",
+                  "category": "natural",
+                  "coords": [
+                        -112.941051,
+                        37.261093
+                  ]
+            },
+            {
+                  "name": "Floating Rock",
+                  "text": "Ein Felsformation namens Floating Rock im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949411,
+                        37.31011
+                  ]
+            },
+            {
+                  "name": "House Rock",
+                  "text": "House Rock ist eine Felsformation im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.946652,
+                        37.302879
+                  ]
+            },
+            {
+                  "name": "200' Waterfall",
+                  "text": "Der 200-Fuß-Wasserfall ist ein Wasserfall im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949087,
+                        37.300233
+                  ]
+            },
+            {
+                  "name": "Big Springs",
+                  "text": "Big Springs ist eine Quelle im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.957098,
+                        37.331053
+                  ]
+            },
+            {
+                  "name": "Upper Emerald Pool",
+                  "text": "Der Obere Smaragdteich ist ein Teich im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.966577,
+                        37.257618
+                  ]
+            },
+            {
+                  "name": "Middle Emerald Pool",
+                  "text": "Der Mittlere Smaragdteich ist ein Teich im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.962993,
+                        37.257183
+                  ]
+            },
+            {
+                  "name": "Hidden Canyon",
+                  "text": "Hidden Canyon ist eine Schlucht im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.938036,
+                        37.264809
+                  ]
+            },
+            {
+                  "name": "Free Standing Arch",
+                  "text": "Free Standing Arch ist ein natürlicher Bogen im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.93777,
+                        37.263775
+                  ]
+            },
+            {
+                  "name": "Zion Canyon Scenic Drive",
+                  "text": "Der Zion-Canyon-Scenic-Drive ist eine berühmte Panoramastraße durch die Zion-Schlucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.97342,
+                        37.21953
+                  ]
+            },
+            {
+                  "name": "Dinosaur Tracks",
+                  "text": "Dinosaurier-Fußabdrücke im Zion-Nationalpark sind versteinerte Spuren.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.069957,
+                        37.299646
+                  ]
+            },
+            {
+                  "name": "Little Girl's Misery Hill Climb",
+                  "text": "Little Girl's Misery Hill Climb ist ein anspruchsvoller Wanderweg im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.086382,
+                        37.289294
+                  ]
+            },
+            {
+                  "name": "The Subway",
+                  "text": "The Subway ist eine berühmte Schluchtwanderung im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.052314,
+                        37.309287
+                  ]
+            },
+            {
+                  "name": "R3 - Keyhole Falls - Bolted Rappel Anchor: 10 ft.",
+                  "text": "R3 – Keyhole Falls – Bolted Rappel Anchor: 10 ft. ist ein Abseilanker an einem Wasserfall im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.051315,
+                        37.310545
+                  ]
+            },
+            {
+                  "name": "R2 - Bolted Rappel Anchor: 6 ft.",
+                  "text": "R2 – Bolted Rappel Anchor: 6 ft. ist ein Abseilanker im Zion-Nationalpark.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.048427,
+                        37.312153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mountain of Mystery",
+                  "text": "Feltűnő csúcs a Zion Nemzeti Parkban, gyakran látható a Zion–Mount Carmel autóútról.",
+                  "category": "natural",
+                  "coords": [
+                        -112.937156,
+                        37.304117
+                  ]
+            },
+            {
+                  "name": "Ivins Mountain",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelyet egy Ivins nevű korai telepesről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -113.005846,
+                        37.287193
+                  ]
+            },
+            {
+                  "name": "Castle Dome",
+                  "text": "Toronyszerű csúcs a Zion Nemzeti Parkban, amely egy kastélyra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -112.970774,
+                        37.266648
+                  ]
+            },
+            {
+                  "name": "Lady Mountain",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelynek profilja állítólag egy hölgyre hasonlít.",
+                  "category": "natural",
+                  "coords": [
+                        -112.966052,
+                        37.254149
+                  ]
+            },
+            {
+                  "name": "Isaac Peak",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelyet Isaac Behunin korai telepesről neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -112.972982,
+                        37.244804
+                  ]
+            },
+            {
+                  "name": "Mount Moroni",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelyet Moroni angyalról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        -112.963721,
+                        37.24309
+                  ]
+            },
+            {
+                  "name": "Red Arch Mountain",
+                  "text": "Hegy a Zion Nemzeti Parkban, amelyen feltűnő vörös ív található.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94918,
+                        37.255075
+                  ]
+            },
+            {
+                  "name": "Cable Mountain",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelyet egykor sodronyköteles farönkszállításra használtak.",
+                  "category": "natural",
+                  "coords": [
+                        -112.933551,
+                        37.26776
+                  ]
+            },
+            {
+                  "name": "Angels Landing",
+                  "text": "Ikonikus csúcs a Zion Nemzeti Parkban, híres a láncokkal kikövezett kihívásokkal teli túrájáról.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94799,
+                        37.269315
+                  ]
+            },
+            {
+                  "name": "Deertrap Mountain",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amelynek neve a szarvasok csapdázására utal.",
+                  "category": "natural",
+                  "coords": [
+                        -112.943828,
+                        37.237482
+                  ]
+            },
+            {
+                  "name": "Mountain of the Sun",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amely a nap első sugarainak megvilágításáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -112.953406,
+                        37.234871
+                  ]
+            },
+            {
+                  "name": "Bee Hive",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amely egy méhkashoz hasonlít, a mormon szimbolika egyik jele.",
+                  "category": "natural",
+                  "coords": [
+                        -112.986885,
+                        37.224982
+                  ]
+            },
+            {
+                  "name": "The Sentinel",
+                  "text": "Csúcs a Zion Nemzeti Parkban, amely őrszemként magasodik a kanyon fölé.",
+                  "category": "natural",
+                  "coords": [
+                        -112.981524,
+                        37.23125
+                  ]
+            },
+            {
+                  "name": "Meridian Tower",
+                  "text": "Magas torony a Zion Nemzeti Park keleti oldalán.",
+                  "category": "natural",
+                  "coords": [
+                        -113.000774,
+                        37.231093
+                  ]
+            },
+            {
+                  "name": "The West Temple",
+                  "text": "Hatalmas homokkő monolit a Zion Nemzeti Parkban, a kanyon nyugati oldalán.",
+                  "category": "natural",
+                  "coords": [
+                        -113.020219,
+                        37.210187
+                  ]
+            },
+            {
+                  "name": "South Guardian Angel",
+                  "text": "Csúcs a Zion Nemzeti Parkban, az ismert Guardian Angel formációtól délre.",
+                  "category": "natural",
+                  "coords": [
+                        -113.05911,
+                        37.295815
+                  ]
+            },
+            {
+                  "name": "Tabernacle Dome",
+                  "text": "Kupola alakú csúcs a Zion Nemzeti Parkban, amely a Salt Lake Tabernákulumra emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -113.092892,
+                        37.300115
+                  ]
+            },
+            {
+                  "name": "Cave Knoll",
+                  "text": "Csúcs a Zion Nemzeti Parkban barlangokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -113.104112,
+                        37.320814
+                  ]
+            },
+            {
+                  "name": "North Guardian Angel",
+                  "text": "Csúcs a Zion Nemzeti Parkban a Guardian Angeltől északra.",
+                  "category": "natural",
+                  "coords": [
+                        -113.057722,
+                        37.316648
+                  ]
+            },
+            {
+                  "name": "Pine Valley Peak",
+                  "text": "Csúcs a Pine Valley-hegységben, a Zion Nemzeti Park közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -113.078097,
+                        37.335718
+                  ]
+            },
+            {
+                  "name": "Zion Wilderness",
+                  "text": "Kijelölt vadon terület a Zion Nemzeti Parkon belül.",
+                  "category": "natural",
+                  "coords": [
+                        -113.03389,
+                        37.304166
+                  ]
+            },
+            {
+                  "name": "Zion National Park",
+                  "text": "Ikonikus nemzeti park Utahban, híres mély kanyonjairól és élénk színeiről.",
+                  "category": "natural",
+                  "coords": [
+                        -113.026489,
+                        37.298412
+                  ]
+            },
+            {
+                  "name": "The Great White Throne",
+                  "text": "Hatalmas fehér homokkő monolit a Zion Nemzeti Parkban, egyik legjellegzetesebb nevezetessége.",
+                  "category": "natural",
+                  "coords": [
+                        -112.941051,
+                        37.261093
+                  ]
+            },
+            {
+                  "name": "Floating Rock",
+                  "text": "Egy Floating Rock nevű sziklaformáció a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949411,
+                        37.31011
+                  ]
+            },
+            {
+                  "name": "House Rock",
+                  "text": "House Rock egy sziklaformáció a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.946652,
+                        37.302879
+                  ]
+            },
+            {
+                  "name": "200' Waterfall",
+                  "text": "A 200 láb magas vízesés a Zion Nemzeti Parkban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949087,
+                        37.300233
+                  ]
+            },
+            {
+                  "name": "Big Springs",
+                  "text": "Big Springs egy forrás a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.957098,
+                        37.331053
+                  ]
+            },
+            {
+                  "name": "Upper Emerald Pool",
+                  "text": "A Felső Smaragd-tó egy tó a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.966577,
+                        37.257618
+                  ]
+            },
+            {
+                  "name": "Middle Emerald Pool",
+                  "text": "A Középső Smaragd-tó egy tó a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.962993,
+                        37.257183
+                  ]
+            },
+            {
+                  "name": "Hidden Canyon",
+                  "text": "Hidden Canyon egy kanyon a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.938036,
+                        37.264809
+                  ]
+            },
+            {
+                  "name": "Free Standing Arch",
+                  "text": "Free Standing Arch egy természetes ív a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.93777,
+                        37.263775
+                  ]
+            },
+            {
+                  "name": "Zion Canyon Scenic Drive",
+                  "text": "A Zion Canyon Scenic Drive egy híres panorámaút a Zion-kanyonon keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.97342,
+                        37.21953
+                  ]
+            },
+            {
+                  "name": "Dinosaur Tracks",
+                  "text": "Dinoszaurusz lábnyomok a Zion Nemzeti Parkban megkövesedett nyomok.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.069957,
+                        37.299646
+                  ]
+            },
+            {
+                  "name": "Little Girl's Misery Hill Climb",
+                  "text": "Little Girl's Misery Hill Climb egy nehéz túraútvonal a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.086382,
+                        37.289294
+                  ]
+            },
+            {
+                  "name": "The Subway",
+                  "text": "The Subway egy híres kanyontúra a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.052314,
+                        37.309287
+                  ]
+            },
+            {
+                  "name": "R3 - Keyhole Falls - Bolted Rappel Anchor: 10 ft.",
+                  "text": "R3 – Keyhole Falls – Bolted Rappel Anchor: 10 ft. egy ereszkedő horgony egy vízesésnél a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.051315,
+                        37.310545
+                  ]
+            },
+            {
+                  "name": "R2 - Bolted Rappel Anchor: 6 ft.",
+                  "text": "R2 – Bolted Rappel Anchor: 6 ft. egy ereszkedő horgony a Zion Nemzeti Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.048427,
+                        37.312153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mountain of Mystery",
+                  "text": "Un vârf proeminent în Parcul Național Zion, adesea vizibil de pe Drumul Zion-Mount Carmel.",
+                  "category": "natural",
+                  "coords": [
+                        -112.937156,
+                        37.304117
+                  ]
+            },
+            {
+                  "name": "Ivins Mountain",
+                  "text": "Un vârf în Parcul Național Zion, numit după un colonist timpuriu pe nume Ivins.",
+                  "category": "natural",
+                  "coords": [
+                        -113.005846,
+                        37.287193
+                  ]
+            },
+            {
+                  "name": "Castle Dome",
+                  "text": "Un vârf asemănător unui turn în Parcul Național Zion, care amintește de un castel.",
+                  "category": "natural",
+                  "coords": [
+                        -112.970774,
+                        37.266648
+                  ]
+            },
+            {
+                  "name": "Lady Mountain",
+                  "text": "Un vârf în Parcul Național Zion, al cărui profil se spune că seamănă cu o doamnă.",
+                  "category": "natural",
+                  "coords": [
+                        -112.966052,
+                        37.254149
+                  ]
+            },
+            {
+                  "name": "Isaac Peak",
+                  "text": "Un vârf în Parcul Național Zion, numit după colonistul timpuriu Isaac Behunin.",
+                  "category": "natural",
+                  "coords": [
+                        -112.972982,
+                        37.244804
+                  ]
+            },
+            {
+                  "name": "Mount Moroni",
+                  "text": "Un vârf în Parcul Național Zion, numit după îngerul Moroni.",
+                  "category": "natural",
+                  "coords": [
+                        -112.963721,
+                        37.24309
+                  ]
+            },
+            {
+                  "name": "Red Arch Mountain",
+                  "text": "Un munte în Parcul Național Zion cu un arc roșu distinctiv.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94918,
+                        37.255075
+                  ]
+            },
+            {
+                  "name": "Cable Mountain",
+                  "text": "Un vârf în Parcul Național Zion, odată folosit pentru un sistem de cablu pentru transportul lemnului.",
+                  "category": "natural",
+                  "coords": [
+                        -112.933551,
+                        37.26776
+                  ]
+            },
+            {
+                  "name": "Angels Landing",
+                  "text": "Un vârf iconic în Parcul Național Zion, renumit pentru drumeția sa dificilă cu lanțuri.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94799,
+                        37.269315
+                  ]
+            },
+            {
+                  "name": "Deertrap Mountain",
+                  "text": "Un vârf în Parcul Național Zion, al cărui nume face referire la capturarea căprioarelor.",
+                  "category": "natural",
+                  "coords": [
+                        -112.943828,
+                        37.237482
+                  ]
+            },
+            {
+                  "name": "Mountain of the Sun",
+                  "text": "Un vârf în Parcul Național Zion, cunoscut pentru iluminarea sa la răsărit.",
+                  "category": "natural",
+                  "coords": [
+                        -112.953406,
+                        37.234871
+                  ]
+            },
+            {
+                  "name": "Bee Hive",
+                  "text": "Un vârf în Parcul Național Zion care seamănă cu un stup, un simbol mormon.",
+                  "category": "natural",
+                  "coords": [
+                        -112.986885,
+                        37.224982
+                  ]
+            },
+            {
+                  "name": "The Sentinel",
+                  "text": "Un vârf în Parcul Național Zion care veghează asupra canionului ca o santinelă.",
+                  "category": "natural",
+                  "coords": [
+                        -112.981524,
+                        37.23125
+                  ]
+            },
+            {
+                  "name": "Meridian Tower",
+                  "text": "Un turn înalt în Parcul Național Zion, pe latura estică.",
+                  "category": "natural",
+                  "coords": [
+                        -113.000774,
+                        37.231093
+                  ]
+            },
+            {
+                  "name": "The West Temple",
+                  "text": "Un monolit masiv de gresie în Parcul Național Zion, pe partea vestică a canionului.",
+                  "category": "natural",
+                  "coords": [
+                        -113.020219,
+                        37.210187
+                  ]
+            },
+            {
+                  "name": "South Guardian Angel",
+                  "text": "Un vârf în Parcul Național Zion, la sud de celebra formațiune Guardian Angel.",
+                  "category": "natural",
+                  "coords": [
+                        -113.05911,
+                        37.295815
+                  ]
+            },
+            {
+                  "name": "Tabernacle Dome",
+                  "text": "Un vârf în formă de dom în Parcul Național Zion, care amintește de Tabernacolul din Salt Lake.",
+                  "category": "natural",
+                  "coords": [
+                        -113.092892,
+                        37.300115
+                  ]
+            },
+            {
+                  "name": "Cave Knoll",
+                  "text": "Un vârf în Parcul Național Zion cu peșteri.",
+                  "category": "natural",
+                  "coords": [
+                        -113.104112,
+                        37.320814
+                  ]
+            },
+            {
+                  "name": "North Guardian Angel",
+                  "text": "Un vârf în Parcul Național Zion la nord de Guardian Angel.",
+                  "category": "natural",
+                  "coords": [
+                        -113.057722,
+                        37.316648
+                  ]
+            },
+            {
+                  "name": "Pine Valley Peak",
+                  "text": "Un vârf în Munții Pine Valley, aproape de Parcul Național Zion.",
+                  "category": "natural",
+                  "coords": [
+                        -113.078097,
+                        37.335718
+                  ]
+            },
+            {
+                  "name": "Zion Wilderness",
+                  "text": "O zonă sălbatică desemnată în interiorul Parcului Național Zion.",
+                  "category": "natural",
+                  "coords": [
+                        -113.03389,
+                        37.304166
+                  ]
+            },
+            {
+                  "name": "Zion National Park",
+                  "text": "Un parc național iconic în Utah, renumit pentru canioanele sale adânci și culorile vibrante.",
+                  "category": "natural",
+                  "coords": [
+                        -113.026489,
+                        37.298412
+                  ]
+            },
+            {
+                  "name": "The Great White Throne",
+                  "text": "Un monolit masiv de gresie albă în Parcul Național Zion, unul dintre cele mai emblematice repere ale sale.",
+                  "category": "natural",
+                  "coords": [
+                        -112.941051,
+                        37.261093
+                  ]
+            },
+            {
+                  "name": "Floating Rock",
+                  "text": "O formațiune stâncoasă numită Floating Rock în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949411,
+                        37.31011
+                  ]
+            },
+            {
+                  "name": "House Rock",
+                  "text": "House Rock este o formațiune stâncoasă în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.946652,
+                        37.302879
+                  ]
+            },
+            {
+                  "name": "200' Waterfall",
+                  "text": "Cascada de 200 de picioare este o cascadă în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949087,
+                        37.300233
+                  ]
+            },
+            {
+                  "name": "Big Springs",
+                  "text": "Big Springs este un izvor în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.957098,
+                        37.331053
+                  ]
+            },
+            {
+                  "name": "Upper Emerald Pool",
+                  "text": "Piscina Superioară de Smarald este un iaz în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.966577,
+                        37.257618
+                  ]
+            },
+            {
+                  "name": "Middle Emerald Pool",
+                  "text": "Piscina Mijlocie de Smarald este un iaz în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.962993,
+                        37.257183
+                  ]
+            },
+            {
+                  "name": "Hidden Canyon",
+                  "text": "Hidden Canyon este un canion în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.938036,
+                        37.264809
+                  ]
+            },
+            {
+                  "name": "Free Standing Arch",
+                  "text": "Free Standing Arch este un arc natural în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.93777,
+                        37.263775
+                  ]
+            },
+            {
+                  "name": "Zion Canyon Scenic Drive",
+                  "text": "Zion Canyon Scenic Drive este un drum panoramic celebru prin canionul Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.97342,
+                        37.21953
+                  ]
+            },
+            {
+                  "name": "Dinosaur Tracks",
+                  "text": "Urmele de dinozaur din Parcul Național Zion sunt amprente fosilizate.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.069957,
+                        37.299646
+                  ]
+            },
+            {
+                  "name": "Little Girl's Misery Hill Climb",
+                  "text": "Little Girl's Misery Hill Climb este un traseu de drumeție dificil în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.086382,
+                        37.289294
+                  ]
+            },
+            {
+                  "name": "The Subway",
+                  "text": "The Subway este un renumit traseu prin canion în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.052314,
+                        37.309287
+                  ]
+            },
+            {
+                  "name": "R3 - Keyhole Falls - Bolted Rappel Anchor: 10 ft.",
+                  "text": "R3 – Keyhole Falls – Bolted Rappel Anchor: 10 ft. este un punct de rapel la o cascadă în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.051315,
+                        37.310545
+                  ]
+            },
+            {
+                  "name": "R2 - Bolted Rappel Anchor: 6 ft.",
+                  "text": "R2 – Bolted Rappel Anchor: 6 ft. este un punct de rapel în Parcul Național Zion.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.048427,
+                        37.312153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mountain of Mystery",
+                  "text": "A notable peak in Zion National Park often seen from the Zion-Mount Carmel Highway.",
+                  "category": "natural",
+                  "coords": [
+                        -112.937156,
+                        37.304117
+                  ]
+            },
+            {
+                  "name": "Ivins Mountain",
+                  "text": "A peak in Zion National Park named after early settler Ivins.",
+                  "category": "natural",
+                  "coords": [
+                        -113.005846,
+                        37.287193
+                  ]
+            },
+            {
+                  "name": "Castle Dome",
+                  "text": "A tower-like peak in Zion National Park resembling a castle.",
+                  "category": "natural",
+                  "coords": [
+                        -112.970774,
+                        37.266648
+                  ]
+            },
+            {
+                  "name": "Lady Mountain",
+                  "text": "A peak in Zion National Park with a profile said to resemble a lady.",
+                  "category": "natural",
+                  "coords": [
+                        -112.966052,
+                        37.254149
+                  ]
+            },
+            {
+                  "name": "Isaac Peak",
+                  "text": "A peak in Zion National Park named after early settler Isaac Behunin.",
+                  "category": "natural",
+                  "coords": [
+                        -112.972982,
+                        37.244804
+                  ]
+            },
+            {
+                  "name": "Mount Moroni",
+                  "text": "A peak in Zion National Park named after the angel Moroni.",
+                  "category": "natural",
+                  "coords": [
+                        -112.963721,
+                        37.24309
+                  ]
+            },
+            {
+                  "name": "Red Arch Mountain",
+                  "text": "A mountain in Zion National Park featuring a distinctive red arch.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94918,
+                        37.255075
+                  ]
+            },
+            {
+                  "name": "Cable Mountain",
+                  "text": "A peak in Zion National Park once used for a cable logging system.",
+                  "category": "natural",
+                  "coords": [
+                        -112.933551,
+                        37.26776
+                  ]
+            },
+            {
+                  "name": "Angels Landing",
+                  "text": "An iconic peak in Zion National Park known for its challenging hike with chains.",
+                  "category": "natural",
+                  "coords": [
+                        -112.94799,
+                        37.269315
+                  ]
+            },
+            {
+                  "name": "Deertrap Mountain",
+                  "text": "A peak in Zion National Park with a name referencing deer trapping.",
+                  "category": "natural",
+                  "coords": [
+                        -112.943828,
+                        37.237482
+                  ]
+            },
+            {
+                  "name": "Mountain of the Sun",
+                  "text": "A peak in Zion National Park known for its sunrise illumination.",
+                  "category": "natural",
+                  "coords": [
+                        -112.953406,
+                        37.234871
+                  ]
+            },
+            {
+                  "name": "Bee Hive",
+                  "text": "A peak in Zion National Park resembling a beehive, a Mormon symbol.",
+                  "category": "natural",
+                  "coords": [
+                        -112.986885,
+                        37.224982
+                  ]
+            },
+            {
+                  "name": "The Sentinel",
+                  "text": "A peak in Zion National Park that overlooks the canyon like a sentinel.",
+                  "category": "natural",
+                  "coords": [
+                        -112.981524,
+                        37.23125
+                  ]
+            },
+            {
+                  "name": "Meridian Tower",
+                  "text": "A tall spire in Zion National Park located on the east side.",
+                  "category": "natural",
+                  "coords": [
+                        -113.000774,
+                        37.231093
+                  ]
+            },
+            {
+                  "name": "The West Temple",
+                  "text": "A large sandstone monolith in Zion National Park on the west side of the canyon.",
+                  "category": "natural",
+                  "coords": [
+                        -113.020219,
+                        37.210187
+                  ]
+            },
+            {
+                  "name": "South Guardian Angel",
+                  "text": "A peak in Zion National Park south of the famous Guardian Angel formation.",
+                  "category": "natural",
+                  "coords": [
+                        -113.05911,
+                        37.295815
+                  ]
+            },
+            {
+                  "name": "Tabernacle Dome",
+                  "text": "A dome-shaped peak in Zion National Park resembling the Salt Lake Tabernacle.",
+                  "category": "natural",
+                  "coords": [
+                        -113.092892,
+                        37.300115
+                  ]
+            },
+            {
+                  "name": "Cave Knoll",
+                  "text": "A peak in Zion National Park featuring caves.",
+                  "category": "natural",
+                  "coords": [
+                        -113.104112,
+                        37.320814
+                  ]
+            },
+            {
+                  "name": "North Guardian Angel",
+                  "text": "A peak in Zion National Park north of the Guardian Angel.",
+                  "category": "natural",
+                  "coords": [
+                        -113.057722,
+                        37.316648
+                  ]
+            },
+            {
+                  "name": "Pine Valley Peak",
+                  "text": "A peak in the Pine Valley Mountains near Zion National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.078097,
+                        37.335718
+                  ]
+            },
+            {
+                  "name": "Zion Wilderness",
+                  "text": "A designated wilderness area within Zion National Park.",
+                  "category": "natural",
+                  "coords": [
+                        -113.03389,
+                        37.304166
+                  ]
+            },
+            {
+                  "name": "Zion National Park",
+                  "text": "An iconic national park in Utah renowned for its deep canyons and vibrant colors.",
+                  "category": "natural",
+                  "coords": [
+                        -113.026489,
+                        37.298412
+                  ]
+            },
+            {
+                  "name": "The Great White Throne",
+                  "text": "A massive white sandstone monolith in Zion National Park, one of its most iconic landmarks.",
+                  "category": "natural",
+                  "coords": [
+                        -112.941051,
+                        37.261093
+                  ]
+            },
+            {
+                  "name": "Floating Rock",
+                  "text": "A rock formation called Floating Rock in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949411,
+                        37.31011
+                  ]
+            },
+            {
+                  "name": "House Rock",
+                  "text": "House Rock is a rock formation in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.946652,
+                        37.302879
+                  ]
+            },
+            {
+                  "name": "200' Waterfall",
+                  "text": "The 200' Waterfall is a waterfall in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.949087,
+                        37.300233
+                  ]
+            },
+            {
+                  "name": "Big Springs",
+                  "text": "Big Springs is a spring in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.957098,
+                        37.331053
+                  ]
+            },
+            {
+                  "name": "Upper Emerald Pool",
+                  "text": "Upper Emerald Pool is a pool in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.966577,
+                        37.257618
+                  ]
+            },
+            {
+                  "name": "Middle Emerald Pool",
+                  "text": "Middle Emerald Pool is a pool in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.962993,
+                        37.257183
+                  ]
+            },
+            {
+                  "name": "Hidden Canyon",
+                  "text": "Hidden Canyon is a canyon in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.938036,
+                        37.264809
+                  ]
+            },
+            {
+                  "name": "Free Standing Arch",
+                  "text": "Free Standing Arch is a natural arch in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.93777,
+                        37.263775
+                  ]
+            },
+            {
+                  "name": "Zion Canyon Scenic Drive",
+                  "text": "Zion Canyon Scenic Drive is a famous scenic road through Zion Canyon.",
+                  "category": "landmark",
+                  "coords": [
+                        -112.97342,
+                        37.21953
+                  ]
+            },
+            {
+                  "name": "Dinosaur Tracks",
+                  "text": "Dinosaur Tracks in Zion National Park are fossilized footprints.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.069957,
+                        37.299646
+                  ]
+            },
+            {
+                  "name": "Little Girl's Misery Hill Climb",
+                  "text": "Little Girl's Misery Hill Climb is a challenging hiking route in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.086382,
+                        37.289294
+                  ]
+            },
+            {
+                  "name": "The Subway",
+                  "text": "The Subway is a famous slot canyon hike in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.052314,
+                        37.309287
+                  ]
+            },
+            {
+                  "name": "R3 - Keyhole Falls - Bolted Rappel Anchor: 10 ft.",
+                  "text": "R3 – Keyhole Falls – Bolted Rappel Anchor: 10 ft. is a rappel anchor at a waterfall in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.051315,
+                        37.310545
+                  ]
+            },
+            {
+                  "name": "R2 - Bolted Rappel Anchor: 6 ft.",
+                  "text": "R2 – Bolted Rappel Anchor: 6 ft. is a rappel anchor in Zion National Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -113.048427,
+                        37.312153
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-UT",
     coords: [-113.0263, 37.2982],
@@ -903,7 +20001,52 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "iowa-corn-fields-life-v2",
+    id: "iowa-corn-fields-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Die Wehrmann Prairie",
+                  "text": "Die Wehrmann Prairie ist ein Prärie-Naturschutzgebiet in iowa-corn-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -93.01835,
+                        41.878846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Die Wehrmann Prairie",
+                  "text": "Die Wehrmann Prairie egy préri természetvédelmi terület iowa-corn-fields-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -93.01835,
+                        41.878846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Die Wehrmann Prairie",
+                  "text": "Die Wehrmann Prairie este o rezervație naturală de prerie în iowa-corn-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -93.01835,
+                        41.878846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Die Wehrmann Prairie",
+                  "text": "Die Wehrmann Prairie is a prairie nature reserve in iowa-corn-fields-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -93.01835,
+                        41.878846
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-IA",
     coords: [-93.0977, 41.8780],
@@ -939,7 +20082,1096 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "busch-gardens-tampa-bay-life-v2",
+    id: "busch-gardens-tampa-bay-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Robles Park",
+                  "text": "Ein historischer Park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.455013,
+                        27.974024
+                  ]
+            },
+            {
+                  "name": "Busch Gardens Tampa",
+                  "text": "Ein großer Themenpark in Tampa mit Achterbahnen und Tierausstellungen.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.421205,
+                        28.037944
+                  ]
+            },
+            {
+                  "name": "Museum of Science & Industry",
+                  "text": "Ein Museum in Tampa, das sich auf Wissenschaft und Technik konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -82.404626,
+                        28.053662
+                  ]
+            },
+            {
+                  "name": "Tampa Covenant Church",
+                  "text": "Eine Kirche in Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.4922,
+                        28.0687
+                  ]
+            },
+            {
+                  "name": "Seminole Heights United Methodist Church",
+                  "text": "Eine Kirche in Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.454777,
+                        28.003037
+                  ]
+            },
+            {
+                  "name": "American Legion Playground",
+                  "text": "Ein Spielplatzpark in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.458428,
+                        28.011408
+                  ]
+            },
+            {
+                  "name": "22nd Street Park",
+                  "text": "Ein Park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.435986,
+                        28.019438
+                  ]
+            },
+            {
+                  "name": "Gwazi Field",
+                  "text": "Ein Park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.424597,
+                        28.035028
+                  ]
+            },
+            {
+                  "name": "Al Lopez Park",
+                  "text": "Ein Park in Tampa, benannt nach dem Baseball-Manager Al Lopez.",
+                  "category": "park",
+                  "coords": [
+                        -82.503121,
+                        27.988575
+                  ]
+            },
+            {
+                  "name": "Adventure Island",
+                  "text": "Ein Wasserpark in Tampa.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.413159,
+                        28.041935
+                  ]
+            },
+            {
+                  "name": "Cracker Country",
+                  "text": "Ein Museum in Tampa, das Floridas Pioniergeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -82.361849,
+                        27.988348
+                  ]
+            },
+            {
+                  "name": "Science Discovery Center",
+                  "text": "Ein Wissenschaftsmuseum in Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.471464,
+                        28.012569
+                  ]
+            },
+            {
+                  "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+                  "text": "Ein Museum für zeitgenössische Kunst an der University of South Florida in Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.415549,
+                        28.063497
+                  ]
+            },
+            {
+                  "name": "USF Student Memorial",
+                  "text": "Ein Denkmal für Studenten der University of South Florida in Tampa.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412926,
+                        28.065194
+                  ]
+            },
+            {
+                  "name": "Teaching Auditorium and Theatre I",
+                  "text": "Ein Theater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.414486,
+                        28.06347
+                  ]
+            },
+            {
+                  "name": "MSC Amphitheatre",
+                  "text": "Ein Amphitheater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.41345,
+                        28.063538
+                  ]
+            },
+            {
+                  "name": "Pantopia Theatre",
+                  "text": "Ein Theater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.42286,
+                        28.038587
+                  ]
+            },
+            {
+                  "name": "Stanleyville Theatre",
+                  "text": "Ein Theater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.425005,
+                        28.037138
+                  ]
+            },
+            {
+                  "name": "Marakesh Theater",
+                  "text": "Ein Theater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.422388,
+                        28.032974
+                  ]
+            },
+            {
+                  "name": "Moroccan Palace Theatre",
+                  "text": "Ein Theater in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.421209,
+                        28.03366
+                  ]
+            },
+            {
+                  "name": "The Peninsularium",
+                  "text": "Ein Kunstzentrum in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.451716,
+                        27.979113
+                  ]
+            },
+            {
+                  "name": "Where he did it to em",
+                  "text": "Eine Attraktion in Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.465903,
+                        28.077066
+                  ]
+            },
+            {
+                  "name": "Shooters World",
+                  "text": "Eine Attraktion in Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.462542,
+                        28.069739
+                  ]
+            },
+            {
+                  "name": "Treehouse trek",
+                  "text": "Treehouse trek ist ein Seilgarten im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425691,
+                        28.035196
+                  ]
+            },
+            {
+                  "name": "Iron Gwazi",
+                  "text": "Iron Gwazi ist eine Stahlachterbahn im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423085,
+                        28.033985
+                  ]
+            },
+            {
+                  "name": "Hippopotamus",
+                  "text": "Hippopotamus ist eine Tierausstellung mit Flusspferden im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.420347,
+                        28.035214
+                  ]
+            },
+            {
+                  "name": "Congo River Rapids",
+                  "text": "Congo River Rapids ist eine Wildwasserbahn im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423925,
+                        28.040051
+                  ]
+            },
+            {
+                  "name": "Kangaroo Petting zoo",
+                  "text": "Kangaroo Petting zoo ist ein Streichelzoo, in dem Besucher Kängurus interagieren können, im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425788,
+                        28.032981
+                  ]
+            },
+            {
+                  "name": "Florida Boardwalk & Wildlife Center",
+                  "text": "Florida Boardwalk & Wildlife Center ist eine Promenade und ein Tierbeobachtungsbereich im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.471357,
+                        28.014148
+                  ]
+            },
+            {
+                  "name": "Free-Flight Aviary",
+                  "text": "Free-Flight Aviary ist eine begehbare Voliere im Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.470025,
+                        28.013893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Robles Park",
+                  "text": "Egy történelmi park Tampában.",
+                  "category": "park",
+                  "coords": [
+                        -82.455013,
+                        27.974024
+                  ]
+            },
+            {
+                  "name": "Busch Gardens Tampa",
+                  "text": "Egy nagy témapark Tampában hullámvasutakkal és állatbemutatókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.421205,
+                        28.037944
+                  ]
+            },
+            {
+                  "name": "Museum of Science & Industry",
+                  "text": "Egy múzeum Tampában, amely a tudományra és az iparra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -82.404626,
+                        28.053662
+                  ]
+            },
+            {
+                  "name": "Tampa Covenant Church",
+                  "text": "Egy templom Tampában.",
+                  "category": "religious",
+                  "coords": [
+                        -82.4922,
+                        28.0687
+                  ]
+            },
+            {
+                  "name": "Seminole Heights United Methodist Church",
+                  "text": "Egy templom Tampában.",
+                  "category": "religious",
+                  "coords": [
+                        -82.454777,
+                        28.003037
+                  ]
+            },
+            {
+                  "name": "American Legion Playground",
+                  "text": "Egy játszótér park Tampában.",
+                  "category": "park",
+                  "coords": [
+                        -82.458428,
+                        28.011408
+                  ]
+            },
+            {
+                  "name": "22nd Street Park",
+                  "text": "Egy park Tampában.",
+                  "category": "park",
+                  "coords": [
+                        -82.435986,
+                        28.019438
+                  ]
+            },
+            {
+                  "name": "Gwazi Field",
+                  "text": "Egy park Tampában.",
+                  "category": "park",
+                  "coords": [
+                        -82.424597,
+                        28.035028
+                  ]
+            },
+            {
+                  "name": "Al Lopez Park",
+                  "text": "Egy park Tampában, amelyet Al Lopez baseballmenedzserről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -82.503121,
+                        27.988575
+                  ]
+            },
+            {
+                  "name": "Adventure Island",
+                  "text": "Egy vízi témapark Tampában.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.413159,
+                        28.041935
+                  ]
+            },
+            {
+                  "name": "Cracker Country",
+                  "text": "Egy múzeum Tampában, amely Florida úttörő múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -82.361849,
+                        27.988348
+                  ]
+            },
+            {
+                  "name": "Science Discovery Center",
+                  "text": "Egy tudományos múzeum Tampában.",
+                  "category": "museum",
+                  "coords": [
+                        -82.471464,
+                        28.012569
+                  ]
+            },
+            {
+                  "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+                  "text": "Egy kortárs művészeti múzeum a South Florida Egyetemen Tampában.",
+                  "category": "museum",
+                  "coords": [
+                        -82.415549,
+                        28.063497
+                  ]
+            },
+            {
+                  "name": "USF Student Memorial",
+                  "text": "Egy emlékmű a South Florida Egyetem diákjainak Tampában.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412926,
+                        28.065194
+                  ]
+            },
+            {
+                  "name": "Teaching Auditorium and Theatre I",
+                  "text": "Egy színház Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.414486,
+                        28.06347
+                  ]
+            },
+            {
+                  "name": "MSC Amphitheatre",
+                  "text": "Egy amfiteátrum Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.41345,
+                        28.063538
+                  ]
+            },
+            {
+                  "name": "Pantopia Theatre",
+                  "text": "Egy színház Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.42286,
+                        28.038587
+                  ]
+            },
+            {
+                  "name": "Stanleyville Theatre",
+                  "text": "Egy színház Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.425005,
+                        28.037138
+                  ]
+            },
+            {
+                  "name": "Marakesh Theater",
+                  "text": "Egy színház Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.422388,
+                        28.032974
+                  ]
+            },
+            {
+                  "name": "Moroccan Palace Theatre",
+                  "text": "Egy színház Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.421209,
+                        28.03366
+                  ]
+            },
+            {
+                  "name": "The Peninsularium",
+                  "text": "Egy művészeti központ Tampában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.451716,
+                        27.979113
+                  ]
+            },
+            {
+                  "name": "Where he did it to em",
+                  "text": "Egy látványosság Tampában.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.465903,
+                        28.077066
+                  ]
+            },
+            {
+                  "name": "Shooters World",
+                  "text": "Egy látványosság Tampában.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.462542,
+                        28.069739
+                  ]
+            },
+            {
+                  "name": "Treehouse trek",
+                  "text": "A Treehouse trek egy kötélpálya-attrakció a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425691,
+                        28.035196
+                  ]
+            },
+            {
+                  "name": "Iron Gwazi",
+                  "text": "Az Iron Gwazi egy acél hullámvasút a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423085,
+                        28.033985
+                  ]
+            },
+            {
+                  "name": "Hippopotamus",
+                  "text": "A Hippopotamus egy vízilovakat bemutató állatkiállítás a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.420347,
+                        28.035214
+                  ]
+            },
+            {
+                  "name": "Congo River Rapids",
+                  "text": "A Congo River Rapids egy vízi csónakázós attrakció a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423925,
+                        28.040051
+                  ]
+            },
+            {
+                  "name": "Kangaroo Petting zoo",
+                  "text": "A Kangaroo Petting zoo egy simogató állatkert, ahol a látogatók kengurukkal érintkezhetnek a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425788,
+                        28.032981
+                  ]
+            },
+            {
+                  "name": "Florida Boardwalk & Wildlife Center",
+                  "text": "A Florida Boardwalk & Wildlife Center egy sétány és vadmegfigyelő terület a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.471357,
+                        28.014148
+                  ]
+            },
+            {
+                  "name": "Free-Flight Aviary",
+                  "text": "A Free-Flight Aviary egy bejárható madárröpd a Busch Gardens Tampa Bayben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.470025,
+                        28.013893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Robles Park",
+                  "text": "Un parc istoric în Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.455013,
+                        27.974024
+                  ]
+            },
+            {
+                  "name": "Busch Gardens Tampa",
+                  "text": "Un parc tematic major în Tampa cu montagne russe și exponate cu animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.421205,
+                        28.037944
+                  ]
+            },
+            {
+                  "name": "Museum of Science & Industry",
+                  "text": "Un muzeu în Tampa care se concentrează pe știință și industrie.",
+                  "category": "museum",
+                  "coords": [
+                        -82.404626,
+                        28.053662
+                  ]
+            },
+            {
+                  "name": "Tampa Covenant Church",
+                  "text": "O biserică în Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.4922,
+                        28.0687
+                  ]
+            },
+            {
+                  "name": "Seminole Heights United Methodist Church",
+                  "text": "O biserică în Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.454777,
+                        28.003037
+                  ]
+            },
+            {
+                  "name": "American Legion Playground",
+                  "text": "Un parc cu loc de joacă în Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.458428,
+                        28.011408
+                  ]
+            },
+            {
+                  "name": "22nd Street Park",
+                  "text": "Un parc în Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.435986,
+                        28.019438
+                  ]
+            },
+            {
+                  "name": "Gwazi Field",
+                  "text": "Un parc în Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.424597,
+                        28.035028
+                  ]
+            },
+            {
+                  "name": "Al Lopez Park",
+                  "text": "Un parc în Tampa numit după managerul de baseball Al Lopez.",
+                  "category": "park",
+                  "coords": [
+                        -82.503121,
+                        27.988575
+                  ]
+            },
+            {
+                  "name": "Adventure Island",
+                  "text": "Un parc tematic acvatic în Tampa.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.413159,
+                        28.041935
+                  ]
+            },
+            {
+                  "name": "Cracker Country",
+                  "text": "Un muzeu în Tampa care prezintă istoria pionierilor din Florida.",
+                  "category": "museum",
+                  "coords": [
+                        -82.361849,
+                        27.988348
+                  ]
+            },
+            {
+                  "name": "Science Discovery Center",
+                  "text": "Un muzeu de știință în Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.471464,
+                        28.012569
+                  ]
+            },
+            {
+                  "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+                  "text": "Un muzeu de artă contemporană la Universitatea din Florida de Sud din Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.415549,
+                        28.063497
+                  ]
+            },
+            {
+                  "name": "USF Student Memorial",
+                  "text": "Un memorial pentru studenții de la Universitatea din Florida de Sud din Tampa.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412926,
+                        28.065194
+                  ]
+            },
+            {
+                  "name": "Teaching Auditorium and Theatre I",
+                  "text": "Un teatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.414486,
+                        28.06347
+                  ]
+            },
+            {
+                  "name": "MSC Amphitheatre",
+                  "text": "Un amfiteatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.41345,
+                        28.063538
+                  ]
+            },
+            {
+                  "name": "Pantopia Theatre",
+                  "text": "Un teatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.42286,
+                        28.038587
+                  ]
+            },
+            {
+                  "name": "Stanleyville Theatre",
+                  "text": "Un teatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.425005,
+                        28.037138
+                  ]
+            },
+            {
+                  "name": "Marakesh Theater",
+                  "text": "Un teatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.422388,
+                        28.032974
+                  ]
+            },
+            {
+                  "name": "Moroccan Palace Theatre",
+                  "text": "Un teatru în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.421209,
+                        28.03366
+                  ]
+            },
+            {
+                  "name": "The Peninsularium",
+                  "text": "Un centru de artă în Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.451716,
+                        27.979113
+                  ]
+            },
+            {
+                  "name": "Where he did it to em",
+                  "text": "O atracție în Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.465903,
+                        28.077066
+                  ]
+            },
+            {
+                  "name": "Shooters World",
+                  "text": "O atracție în Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.462542,
+                        28.069739
+                  ]
+            },
+            {
+                  "name": "Treehouse trek",
+                  "text": "Treehouse trek este o cursă de frânghii la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425691,
+                        28.035196
+                  ]
+            },
+            {
+                  "name": "Iron Gwazi",
+                  "text": "Iron Gwazi este un roller coaster de oțel la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423085,
+                        28.033985
+                  ]
+            },
+            {
+                  "name": "Hippopotamus",
+                  "text": "Hippopotamus este o expoziție de animale cu hipopotami la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.420347,
+                        28.035214
+                  ]
+            },
+            {
+                  "name": "Congo River Rapids",
+                  "text": "Congo River Rapids este o plimbare cu rapizi pe apă la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423925,
+                        28.040051
+                  ]
+            },
+            {
+                  "name": "Kangaroo Petting zoo",
+                  "text": "Kangaroo Petting zoo este o grădină zoologică unde vizitatorii pot interacționa cu canguri la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425788,
+                        28.032981
+                  ]
+            },
+            {
+                  "name": "Florida Boardwalk & Wildlife Center",
+                  "text": "Florida Boardwalk & Wildlife Center este o promenadă și o zonă de observare a faunei sălbatice la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.471357,
+                        28.014148
+                  ]
+            },
+            {
+                  "name": "Free-Flight Aviary",
+                  "text": "Free-Flight Aviary este o volieră pe care o poți traversa la Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.470025,
+                        28.013893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Robles Park",
+                  "text": "A historic park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.455013,
+                        27.974024
+                  ]
+            },
+            {
+                  "name": "Busch Gardens Tampa",
+                  "text": "A major theme park in Tampa featuring roller coasters and animal exhibits.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.421205,
+                        28.037944
+                  ]
+            },
+            {
+                  "name": "Museum of Science & Industry",
+                  "text": "A museum in Tampa focusing on science and industry.",
+                  "category": "museum",
+                  "coords": [
+                        -82.404626,
+                        28.053662
+                  ]
+            },
+            {
+                  "name": "Tampa Covenant Church",
+                  "text": "A church in Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.4922,
+                        28.0687
+                  ]
+            },
+            {
+                  "name": "Seminole Heights United Methodist Church",
+                  "text": "A church in Tampa.",
+                  "category": "religious",
+                  "coords": [
+                        -82.454777,
+                        28.003037
+                  ]
+            },
+            {
+                  "name": "American Legion Playground",
+                  "text": "A playground park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.458428,
+                        28.011408
+                  ]
+            },
+            {
+                  "name": "22nd Street Park",
+                  "text": "A park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.435986,
+                        28.019438
+                  ]
+            },
+            {
+                  "name": "Gwazi Field",
+                  "text": "A park in Tampa.",
+                  "category": "park",
+                  "coords": [
+                        -82.424597,
+                        28.035028
+                  ]
+            },
+            {
+                  "name": "Al Lopez Park",
+                  "text": "A park in Tampa named after baseball manager Al Lopez.",
+                  "category": "park",
+                  "coords": [
+                        -82.503121,
+                        27.988575
+                  ]
+            },
+            {
+                  "name": "Adventure Island",
+                  "text": "A water theme park in Tampa.",
+                  "category": "recreational",
+                  "coords": [
+                        -82.413159,
+                        28.041935
+                  ]
+            },
+            {
+                  "name": "Cracker Country",
+                  "text": "A museum in Tampa showcasing Florida's pioneer history.",
+                  "category": "museum",
+                  "coords": [
+                        -82.361849,
+                        27.988348
+                  ]
+            },
+            {
+                  "name": "Science Discovery Center",
+                  "text": "A science museum in Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.471464,
+                        28.012569
+                  ]
+            },
+            {
+                  "name": "University Of South Florida Contemporary Art Museum;Contemporary Art Museum",
+                  "text": "A contemporary art museum at the University of South Florida in Tampa.",
+                  "category": "museum",
+                  "coords": [
+                        -82.415549,
+                        28.063497
+                  ]
+            },
+            {
+                  "name": "USF Student Memorial",
+                  "text": "A memorial for students at the University of South Florida in Tampa.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412926,
+                        28.065194
+                  ]
+            },
+            {
+                  "name": "Teaching Auditorium and Theatre I",
+                  "text": "A theatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.414486,
+                        28.06347
+                  ]
+            },
+            {
+                  "name": "MSC Amphitheatre",
+                  "text": "An amphitheatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.41345,
+                        28.063538
+                  ]
+            },
+            {
+                  "name": "Pantopia Theatre",
+                  "text": "A theatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.42286,
+                        28.038587
+                  ]
+            },
+            {
+                  "name": "Stanleyville Theatre",
+                  "text": "A theatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.425005,
+                        28.037138
+                  ]
+            },
+            {
+                  "name": "Marakesh Theater",
+                  "text": "A theatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.422388,
+                        28.032974
+                  ]
+            },
+            {
+                  "name": "Moroccan Palace Theatre",
+                  "text": "A theatre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.421209,
+                        28.03366
+                  ]
+            },
+            {
+                  "name": "The Peninsularium",
+                  "text": "An arts centre in Tampa.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.451716,
+                        27.979113
+                  ]
+            },
+            {
+                  "name": "Where he did it to em",
+                  "text": "An attraction in Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.465903,
+                        28.077066
+                  ]
+            },
+            {
+                  "name": "Shooters World",
+                  "text": "An attraction in Tampa.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.462542,
+                        28.069739
+                  ]
+            },
+            {
+                  "name": "Treehouse trek",
+                  "text": "Treehouse trek is a ropes course attraction at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425691,
+                        28.035196
+                  ]
+            },
+            {
+                  "name": "Iron Gwazi",
+                  "text": "Iron Gwazi is a steel roller coaster at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423085,
+                        28.033985
+                  ]
+            },
+            {
+                  "name": "Hippopotamus",
+                  "text": "Hippopotamus is an animal exhibit featuring hippos at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.420347,
+                        28.035214
+                  ]
+            },
+            {
+                  "name": "Congo River Rapids",
+                  "text": "Congo River Rapids is a river rapids water ride at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.423925,
+                        28.040051
+                  ]
+            },
+            {
+                  "name": "Kangaroo Petting zoo",
+                  "text": "Kangaroo Petting zoo is a petting zoo where visitors can interact with kangaroos at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.425788,
+                        28.032981
+                  ]
+            },
+            {
+                  "name": "Florida Boardwalk & Wildlife Center",
+                  "text": "Florida Boardwalk & Wildlife Center is a boardwalk and wildlife viewing area at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.471357,
+                        28.014148
+                  ]
+            },
+            {
+                  "name": "Free-Flight Aviary",
+                  "text": "Free-Flight Aviary is a walk-through aviary at Busch Gardens Tampa Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.470025,
+                        28.013893
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-FL",
     coords: [-82.419, 28.036],
@@ -975,7 +21207,1420 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "great-smoky-mountains-life-v2",
+    id: "great-smoky-mountains-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Le Conte",
+                  "text": "Mount Le Conte ist einer der höchsten Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436827,
+                        35.654261
+                  ]
+            },
+            {
+                  "name": "Kuwohi",
+                  "text": "Kuwohi, früher bekannt als Clingmans Dome, ist der höchste Punkt in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.498379,
+                        35.562864
+                  ]
+            },
+            {
+                  "name": "Chimney Tops",
+                  "text": "Chimney Tops ist ein beliebtes Wanderziel mit Zwillingsgipfeln in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477777,
+                        35.629491
+                  ]
+            },
+            {
+                  "name": "Great Smoky Mountains National Park",
+                  "text": "Great Smoky Mountains National Park ist der meistbesuchte Nationalpark in den Vereinigten Staaten.",
+                  "category": "natural",
+                  "coords": [
+                        -83.508164,
+                        35.601147
+                  ]
+            },
+            {
+                  "name": "Fort Harry",
+                  "text": "Fort Harry ist ein historisches Fort in den Great Smoky Mountains.",
+                  "category": "fortress",
+                  "coords": [
+                        -83.474202,
+                        35.638826
+                  ]
+            },
+            {
+                  "name": "Blanket Mountain",
+                  "text": "Blanket Mountain ist ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.611814,
+                        35.624935
+                  ]
+            },
+            {
+                  "name": "Dripping Spring Mountain",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.600024,
+                        35.610557
+                  ]
+            },
+            {
+                  "name": "Cold Spring Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.608307,
+                        35.580014
+                  ]
+            },
+            {
+                  "name": "Cliff Top",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444302,
+                        35.654461
+                  ]
+            },
+            {
+                  "name": "Myrtle Point",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.431809,
+                        35.653291
+                  ]
+            },
+            {
+                  "name": "Anakeesta Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.413746,
+                        35.634066
+                  ]
+            },
+            {
+                  "name": "Peregrine Peak",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444592,
+                        35.640114
+                  ]
+            },
+            {
+                  "name": "Mount Weaver",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436626,
+                        35.605574
+                  ]
+            },
+            {
+                  "name": "Mt. Buckley",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.506157,
+                        35.56215
+                  ]
+            },
+            {
+                  "name": "Mount Love",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.493272,
+                        35.566837
+                  ]
+            },
+            {
+                  "name": "Andrews Bald",
+                  "text": "Ein grasbewachsener Gipfel in den Great Smoky Mountains mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -83.494327,
+                        35.539074
+                  ]
+            },
+            {
+                  "name": "Buckhorn Bald",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.509793,
+                        35.523726
+                  ]
+            },
+            {
+                  "name": "Jerry Bald",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.482956,
+                        35.529181
+                  ]
+            },
+            {
+                  "name": "Round Top Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.459888,
+                        35.549011
+                  ]
+            },
+            {
+                  "name": "Fern Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.547411,
+                        35.527912
+                  ]
+            },
+            {
+                  "name": "Suli Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.550859,
+                        35.553422
+                  ]
+            },
+            {
+                  "name": "Jenkins Knob",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.544733,
+                        35.565299
+                  ]
+            },
+            {
+                  "name": "Silers Bald",
+                  "text": "Ein grasbewachsener Gipfel entlang des Appalachian Trail in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.565413,
+                        35.565885
+                  ]
+            },
+            {
+                  "name": "Ben Parton Lookout",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.591929,
+                        35.5938
+                  ]
+            },
+            {
+                  "name": "Little Goshen",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.541789,
+                        35.607285
+                  ]
+            },
+            {
+                  "name": "Mount Collins",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472447,
+                        35.586554
+                  ]
+            },
+            {
+                  "name": "Sugarland Mountain",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477963,
+                        35.609273
+                  ]
+            },
+            {
+                  "name": "Mount Mingus",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.45903,
+                        35.617898
+                  ]
+            },
+            {
+                  "name": "Balsam Point",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472763,
+                        35.653189
+                  ]
+            },
+            {
+                  "name": "West Point",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.453207,
+                        35.654662
+                  ]
+            },
+            {
+                  "name": "Bull Head",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.487776,
+                        35.662469
+                  ]
+            },
+            {
+                  "name": "Piney Mountain",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.467429,
+                        35.679114
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.566368,
+                        35.644835
+                  ]
+            },
+            {
+                  "name": "Maloney Point",
+                  "text": "Ein Gipfel in den Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.573773,
+                        35.674606
+                  ]
+            },
+            {
+                  "name": "Sugarlands Stone Cabin",
+                  "text": "Eine historische Steinhütte aus der frühen Besiedlungszeit im Sugarlands-Gebiet.",
+                  "category": "historical",
+                  "coords": [
+                        -83.512085,
+                        35.657581
+                  ]
+            },
+            {
+                  "name": "Elkmont Amphitheater",
+                  "text": "Ein Freilichtamphitheater im historischen Elkmont-Distrikt, das für Zusammenkünfte genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.585635,
+                        35.66032
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Ein natürlicher Felsbogen entlang eines Wanderwegs in den Great Smoky Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.438313,
+                        35.63908
+                  ]
+            },
+            {
+                  "name": "Ben Morton Overlook",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.422651,
+                        35.617051
+                  ]
+            },
+            {
+                  "name": "Newfound Gap Overlook",
+                  "text": "Ein berühmter Aussichtspunkt entlang der Newfound Gap Road mit weitem Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -83.424601,
+                        35.61109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Le Conte",
+                  "text": "Mount Le Conte a Great Smoky Mountains egyik legmagasabb csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436827,
+                        35.654261
+                  ]
+            },
+            {
+                  "name": "Kuwohi",
+                  "text": "Kuwohi, korábban Clingmans Dome néven ismert, a Great Smoky Mountains legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -83.498379,
+                        35.562864
+                  ]
+            },
+            {
+                  "name": "Chimney Tops",
+                  "text": "Chimney Tops egy népszerű túracélpont ikercsúcsokkal a Great Smoky Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477777,
+                        35.629491
+                  ]
+            },
+            {
+                  "name": "Great Smoky Mountains National Park",
+                  "text": "Great Smoky Mountains Nemzeti Park a leglátogatottabb nemzeti park az Egyesült Államokban.",
+                  "category": "natural",
+                  "coords": [
+                        -83.508164,
+                        35.601147
+                  ]
+            },
+            {
+                  "name": "Fort Harry",
+                  "text": "Fort Harry egy történelmi erőd a Great Smoky Mountainsben.",
+                  "category": "fortress",
+                  "coords": [
+                        -83.474202,
+                        35.638826
+                  ]
+            },
+            {
+                  "name": "Blanket Mountain",
+                  "text": "Blanket Mountain egy csúcs a Great Smoky Mountainsben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.611814,
+                        35.624935
+                  ]
+            },
+            {
+                  "name": "Dripping Spring Mountain",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.600024,
+                        35.610557
+                  ]
+            },
+            {
+                  "name": "Cold Spring Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.608307,
+                        35.580014
+                  ]
+            },
+            {
+                  "name": "Cliff Top",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444302,
+                        35.654461
+                  ]
+            },
+            {
+                  "name": "Myrtle Point",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.431809,
+                        35.653291
+                  ]
+            },
+            {
+                  "name": "Anakeesta Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.413746,
+                        35.634066
+                  ]
+            },
+            {
+                  "name": "Peregrine Peak",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444592,
+                        35.640114
+                  ]
+            },
+            {
+                  "name": "Mount Weaver",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436626,
+                        35.605574
+                  ]
+            },
+            {
+                  "name": "Mt. Buckley",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.506157,
+                        35.56215
+                  ]
+            },
+            {
+                  "name": "Mount Love",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.493272,
+                        35.566837
+                  ]
+            },
+            {
+                  "name": "Andrews Bald",
+                  "text": "Egy fűvel borított csúcs a Great Smoky Mountains-hegységben, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.494327,
+                        35.539074
+                  ]
+            },
+            {
+                  "name": "Buckhorn Bald",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.509793,
+                        35.523726
+                  ]
+            },
+            {
+                  "name": "Jerry Bald",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.482956,
+                        35.529181
+                  ]
+            },
+            {
+                  "name": "Round Top Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.459888,
+                        35.549011
+                  ]
+            },
+            {
+                  "name": "Fern Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.547411,
+                        35.527912
+                  ]
+            },
+            {
+                  "name": "Suli Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.550859,
+                        35.553422
+                  ]
+            },
+            {
+                  "name": "Jenkins Knob",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.544733,
+                        35.565299
+                  ]
+            },
+            {
+                  "name": "Silers Bald",
+                  "text": "Egy fűvel borított csúcs az Appalachian Trail mentén a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.565413,
+                        35.565885
+                  ]
+            },
+            {
+                  "name": "Ben Parton Lookout",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.591929,
+                        35.5938
+                  ]
+            },
+            {
+                  "name": "Little Goshen",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.541789,
+                        35.607285
+                  ]
+            },
+            {
+                  "name": "Mount Collins",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472447,
+                        35.586554
+                  ]
+            },
+            {
+                  "name": "Sugarland Mountain",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477963,
+                        35.609273
+                  ]
+            },
+            {
+                  "name": "Mount Mingus",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.45903,
+                        35.617898
+                  ]
+            },
+            {
+                  "name": "Balsam Point",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472763,
+                        35.653189
+                  ]
+            },
+            {
+                  "name": "West Point",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.453207,
+                        35.654662
+                  ]
+            },
+            {
+                  "name": "Bull Head",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.487776,
+                        35.662469
+                  ]
+            },
+            {
+                  "name": "Piney Mountain",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.467429,
+                        35.679114
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.566368,
+                        35.644835
+                  ]
+            },
+            {
+                  "name": "Maloney Point",
+                  "text": "Egy csúcs a Great Smoky Mountains-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -83.573773,
+                        35.674606
+                  ]
+            },
+            {
+                  "name": "Sugarlands Stone Cabin",
+                  "text": "Egy történelmi kőkabin a korai település időszakából a Sugarlands területen.",
+                  "category": "historical",
+                  "coords": [
+                        -83.512085,
+                        35.657581
+                  ]
+            },
+            {
+                  "name": "Elkmont Amphitheater",
+                  "text": "Egy szabadtéri amfiteátrum a történelmi Elkmont negyedben, összejövetelekhez használva.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.585635,
+                        35.66032
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Egy természetes sziklás ív egy túraút mentén a Great Smoky Mountains-hegységben.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.438313,
+                        35.63908
+                  ]
+            },
+            {
+                  "name": "Ben Morton Overlook",
+                  "text": "Egy kilátóhely a Great Smoky Mountains-re néző kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.422651,
+                        35.617051
+                  ]
+            },
+            {
+                  "name": "Newfound Gap Overlook",
+                  "text": "Egy híres kilátóhely a Newfound Gap Road mentén, távoli panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.424601,
+                        35.61109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Le Conte",
+                  "text": "Mount Le Conte este unul dintre cele mai înalte vârfuri din Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436827,
+                        35.654261
+                  ]
+            },
+            {
+                  "name": "Kuwohi",
+                  "text": "Kuwohi, cunoscut anterior ca Clingmans Dome, este cel mai înalt punct din Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.498379,
+                        35.562864
+                  ]
+            },
+            {
+                  "name": "Chimney Tops",
+                  "text": "Chimney Tops este o destinație populară de drumeții cu vârfuri gemene în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477777,
+                        35.629491
+                  ]
+            },
+            {
+                  "name": "Great Smoky Mountains National Park",
+                  "text": "Parcul Național Great Smoky Mountains este cel mai vizitat parc național din Statele Unite.",
+                  "category": "natural",
+                  "coords": [
+                        -83.508164,
+                        35.601147
+                  ]
+            },
+            {
+                  "name": "Fort Harry",
+                  "text": "Fort Harry este un fort istoric situat în Munții Great Smoky.",
+                  "category": "fortress",
+                  "coords": [
+                        -83.474202,
+                        35.638826
+                  ]
+            },
+            {
+                  "name": "Blanket Mountain",
+                  "text": "Blanket Mountain este un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.611814,
+                        35.624935
+                  ]
+            },
+            {
+                  "name": "Dripping Spring Mountain",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.600024,
+                        35.610557
+                  ]
+            },
+            {
+                  "name": "Cold Spring Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.608307,
+                        35.580014
+                  ]
+            },
+            {
+                  "name": "Cliff Top",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444302,
+                        35.654461
+                  ]
+            },
+            {
+                  "name": "Myrtle Point",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.431809,
+                        35.653291
+                  ]
+            },
+            {
+                  "name": "Anakeesta Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.413746,
+                        35.634066
+                  ]
+            },
+            {
+                  "name": "Peregrine Peak",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444592,
+                        35.640114
+                  ]
+            },
+            {
+                  "name": "Mount Weaver",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436626,
+                        35.605574
+                  ]
+            },
+            {
+                  "name": "Mt. Buckley",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.506157,
+                        35.56215
+                  ]
+            },
+            {
+                  "name": "Mount Love",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.493272,
+                        35.566837
+                  ]
+            },
+            {
+                  "name": "Andrews Bald",
+                  "text": "Un vârf acoperit cu iarbă în Munții Great Smoky, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -83.494327,
+                        35.539074
+                  ]
+            },
+            {
+                  "name": "Buckhorn Bald",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.509793,
+                        35.523726
+                  ]
+            },
+            {
+                  "name": "Jerry Bald",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.482956,
+                        35.529181
+                  ]
+            },
+            {
+                  "name": "Round Top Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.459888,
+                        35.549011
+                  ]
+            },
+            {
+                  "name": "Fern Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.547411,
+                        35.527912
+                  ]
+            },
+            {
+                  "name": "Suli Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.550859,
+                        35.553422
+                  ]
+            },
+            {
+                  "name": "Jenkins Knob",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.544733,
+                        35.565299
+                  ]
+            },
+            {
+                  "name": "Silers Bald",
+                  "text": "Un vârf acoperit cu iarbă de-a lungul Appalachian Trail în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.565413,
+                        35.565885
+                  ]
+            },
+            {
+                  "name": "Ben Parton Lookout",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.591929,
+                        35.5938
+                  ]
+            },
+            {
+                  "name": "Little Goshen",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.541789,
+                        35.607285
+                  ]
+            },
+            {
+                  "name": "Mount Collins",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472447,
+                        35.586554
+                  ]
+            },
+            {
+                  "name": "Sugarland Mountain",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477963,
+                        35.609273
+                  ]
+            },
+            {
+                  "name": "Mount Mingus",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.45903,
+                        35.617898
+                  ]
+            },
+            {
+                  "name": "Balsam Point",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472763,
+                        35.653189
+                  ]
+            },
+            {
+                  "name": "West Point",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.453207,
+                        35.654662
+                  ]
+            },
+            {
+                  "name": "Bull Head",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.487776,
+                        35.662469
+                  ]
+            },
+            {
+                  "name": "Piney Mountain",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.467429,
+                        35.679114
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.566368,
+                        35.644835
+                  ]
+            },
+            {
+                  "name": "Maloney Point",
+                  "text": "Un vârf în Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.573773,
+                        35.674606
+                  ]
+            },
+            {
+                  "name": "Sugarlands Stone Cabin",
+                  "text": "O cabană de piatră istorică din perioada timpurie de colonizare în zona Sugarlands.",
+                  "category": "historical",
+                  "coords": [
+                        -83.512085,
+                        35.657581
+                  ]
+            },
+            {
+                  "name": "Elkmont Amphitheater",
+                  "text": "Un amfiteatru în aer liber în districtul istoric Elkmont, folosit pentru adunări.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.585635,
+                        35.66032
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "Un arc natural de stâncă de-a lungul unui traseu de drumeție în Munții Great Smoky.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.438313,
+                        35.63908
+                  ]
+            },
+            {
+                  "name": "Ben Morton Overlook",
+                  "text": "Un punct de belvedere cu vedere spre Munții Great Smoky.",
+                  "category": "natural",
+                  "coords": [
+                        -83.422651,
+                        35.617051
+                  ]
+            },
+            {
+                  "name": "Newfound Gap Overlook",
+                  "text": "Un punct de belvedere renumit de-a lungul Newfound Gap Road, cu vedere panoramică largă.",
+                  "category": "natural",
+                  "coords": [
+                        -83.424601,
+                        35.61109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Le Conte",
+                  "text": "Mount Le Conte is one of the highest peaks in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436827,
+                        35.654261
+                  ]
+            },
+            {
+                  "name": "Kuwohi",
+                  "text": "Kuwohi, formerly known as Clingmans Dome, is the highest point in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.498379,
+                        35.562864
+                  ]
+            },
+            {
+                  "name": "Chimney Tops",
+                  "text": "Chimney Tops is a popular hiking destination with twin peaks in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477777,
+                        35.629491
+                  ]
+            },
+            {
+                  "name": "Great Smoky Mountains National Park",
+                  "text": "Great Smoky Mountains National Park is the most visited national park in the United States.",
+                  "category": "natural",
+                  "coords": [
+                        -83.508164,
+                        35.601147
+                  ]
+            },
+            {
+                  "name": "Fort Harry",
+                  "text": "Fort Harry is a historic fort located in the Great Smoky Mountains.",
+                  "category": "fortress",
+                  "coords": [
+                        -83.474202,
+                        35.638826
+                  ]
+            },
+            {
+                  "name": "Blanket Mountain",
+                  "text": "Blanket Mountain is a peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.611814,
+                        35.624935
+                  ]
+            },
+            {
+                  "name": "Dripping Spring Mountain",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.600024,
+                        35.610557
+                  ]
+            },
+            {
+                  "name": "Cold Spring Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.608307,
+                        35.580014
+                  ]
+            },
+            {
+                  "name": "Cliff Top",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444302,
+                        35.654461
+                  ]
+            },
+            {
+                  "name": "Myrtle Point",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.431809,
+                        35.653291
+                  ]
+            },
+            {
+                  "name": "Anakeesta Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.413746,
+                        35.634066
+                  ]
+            },
+            {
+                  "name": "Peregrine Peak",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.444592,
+                        35.640114
+                  ]
+            },
+            {
+                  "name": "Mount Weaver",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.436626,
+                        35.605574
+                  ]
+            },
+            {
+                  "name": "Mt. Buckley",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.506157,
+                        35.56215
+                  ]
+            },
+            {
+                  "name": "Mount Love",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.493272,
+                        35.566837
+                  ]
+            },
+            {
+                  "name": "Andrews Bald",
+                  "text": "A grassy peak in the Great Smoky Mountains with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -83.494327,
+                        35.539074
+                  ]
+            },
+            {
+                  "name": "Buckhorn Bald",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.509793,
+                        35.523726
+                  ]
+            },
+            {
+                  "name": "Jerry Bald",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.482956,
+                        35.529181
+                  ]
+            },
+            {
+                  "name": "Round Top Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.459888,
+                        35.549011
+                  ]
+            },
+            {
+                  "name": "Fern Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.547411,
+                        35.527912
+                  ]
+            },
+            {
+                  "name": "Suli Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.550859,
+                        35.553422
+                  ]
+            },
+            {
+                  "name": "Jenkins Knob",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.544733,
+                        35.565299
+                  ]
+            },
+            {
+                  "name": "Silers Bald",
+                  "text": "A grassy bald along the Appalachian Trail in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.565413,
+                        35.565885
+                  ]
+            },
+            {
+                  "name": "Ben Parton Lookout",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.591929,
+                        35.5938
+                  ]
+            },
+            {
+                  "name": "Little Goshen",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.541789,
+                        35.607285
+                  ]
+            },
+            {
+                  "name": "Mount Collins",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472447,
+                        35.586554
+                  ]
+            },
+            {
+                  "name": "Sugarland Mountain",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.477963,
+                        35.609273
+                  ]
+            },
+            {
+                  "name": "Mount Mingus",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.45903,
+                        35.617898
+                  ]
+            },
+            {
+                  "name": "Balsam Point",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.472763,
+                        35.653189
+                  ]
+            },
+            {
+                  "name": "West Point",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.453207,
+                        35.654662
+                  ]
+            },
+            {
+                  "name": "Bull Head",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.487776,
+                        35.662469
+                  ]
+            },
+            {
+                  "name": "Piney Mountain",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.467429,
+                        35.679114
+                  ]
+            },
+            {
+                  "name": "Burnt Mountain",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.566368,
+                        35.644835
+                  ]
+            },
+            {
+                  "name": "Maloney Point",
+                  "text": "A peak in the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.573773,
+                        35.674606
+                  ]
+            },
+            {
+                  "name": "Sugarlands Stone Cabin",
+                  "text": "A historic stone cabin from the early settlement period in the Sugarlands area.",
+                  "category": "historical",
+                  "coords": [
+                        -83.512085,
+                        35.657581
+                  ]
+            },
+            {
+                  "name": "Elkmont Amphitheater",
+                  "text": "An outdoor amphitheater in the historic Elkmont district, used for gatherings.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.585635,
+                        35.66032
+                  ]
+            },
+            {
+                  "name": "Arch Rock",
+                  "text": "A natural rock arch along a hiking trail in the Great Smoky Mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.438313,
+                        35.63908
+                  ]
+            },
+            {
+                  "name": "Ben Morton Overlook",
+                  "text": "An overlook with views of the Great Smoky Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -83.422651,
+                        35.617051
+                  ]
+            },
+            {
+                  "name": "Newfound Gap Overlook",
+                  "text": "A famous overlook along Newfound Gap Road with sweeping panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -83.424601,
+                        35.61109
+                  ]
+            }
+      ]
+},
     type: "animal-habitat",
     parent: "US-TN",
     coords: [-83.507, 35.611],
@@ -1011,7 +22656,1132 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "washington-apple-orchards-life-v2",
+    id: "washington-apple-orchards-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Blewett Stamp Mill",
+                  "text": "Ruinen einer historischen Stampfmühle in washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.660217,
+                        47.425013
+                  ]
+            },
+            {
+                  "name": "Tiptop",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.608532,
+                        47.44033
+                  ]
+            },
+            {
+                  "name": "Deer Park Spring",
+                  "text": "Eine natürliche Quelle in washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.621418,
+                        47.451
+                  ]
+            },
+            {
+                  "name": "Windmill Point",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.64932,
+                        47.436569
+                  ]
+            },
+            {
+                  "name": "Wedge Mountain",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein markanter Berg in der Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.70666,
+                        47.516359
+                  ]
+            },
+            {
+                  "name": "Edward Peak",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, gelegen in der Enchantments-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -120.760853,
+                        47.517544
+                  ]
+            },
+            {
+                  "name": "Cannon Mountain",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2 in der Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802376,
+                        47.502706
+                  ]
+            },
+            {
+                  "name": "Colchuck Balanced Rock",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, bekannt für seine Balancierfelsformation.",
+                  "category": "natural",
+                  "coords": [
+                        -120.818579,
+                        47.491451
+                  ]
+            },
+            {
+                  "name": "Jabberwocky Tower",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein Granitturm in den Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82599,
+                        47.491016
+                  ]
+            },
+            {
+                  "name": "Enchantment Peak",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein prominenter Gipfel in den Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802691,
+                        47.489198
+                  ]
+            },
+            {
+                  "name": "Prusik Peak",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein bekanntes Kletterziel in den Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.784554,
+                        47.487394
+                  ]
+            },
+            {
+                  "name": "The Temple",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein markanter Gipfel in der Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.769511,
+                        47.4904
+                  ]
+            },
+            {
+                  "name": "McClellan Peak",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2 in der Stuart Range.",
+                  "category": "natural",
+                  "coords": [
+                        -120.785747,
+                        47.470103
+                  ]
+            },
+            {
+                  "name": "Witches Tower",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein Granitturm in den Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.825356,
+                        47.476656
+                  ]
+            },
+            {
+                  "name": "Little Annapurna",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2, ein kleiner Gipfel in den Enchantments, der an Annapurna erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -120.814585,
+                        47.468081
+                  ]
+            },
+            {
+                  "name": "Etienne Creek Mining Area",
+                  "text": "Ruinen eines Bergbaugebiets in washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.695019,
+                        47.429992
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.715361,
+                        47.412066
+                  ]
+            },
+            {
+                  "name": "Wildlife Viewing Blind",
+                  "text": "Eine Attraktion zur Tierbeobachtung in washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.66857,
+                        47.557409
+                  ]
+            },
+            {
+                  "name": "Peshastin Lookout",
+                  "text": "Ein Aussichtspunkt in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.629075,
+                        47.565455
+                  ]
+            },
+            {
+                  "name": "Boundary Butte",
+                  "text": "Ein Gipfel in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.650139,
+                        47.539668
+                  ]
+            },
+            {
+                  "name": "Core Enchantments Permit Area",
+                  "text": "Ein Naturschutzgebiet mit Genehmigungspflicht in den Enchantments in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.776241,
+                        47.496876
+                  ]
+            },
+            {
+                  "name": "Camas Meadows Natural Area Preserve",
+                  "text": "Ein Naturschutzgebiet in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.580737,
+                        47.473078
+                  ]
+            },
+            {
+                  "name": "Snow Permit Area",
+                  "text": "Ein Naturschutzgebiet mit Genehmigungspflicht in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.730555,
+                        47.499943
+                  ]
+            },
+            {
+                  "name": "Colchuck Permit Area",
+                  "text": "Das Colchuck Permit Area ist ein Naturschutzgebiet in der Region Washington Apple Orchards, bekannt für seine malerischen Landschaften.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82142,
+                        47.499907
+                  ]
+            },
+            {
+                  "name": "Canyon Wren Recital Hall",
+                  "text": "Das Canyon Wren Recital Hall ist ein Theater in der Region Washington Apple Orchards, das Aufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685063,
+                        47.551767
+                  ]
+            },
+            {
+                  "name": "Chapel Theater/Salmon Gallery",
+                  "text": "Das Chapel Theater/Salmon Gallery ist ein Theater in der Region Washington Apple Orchards, das Aufführungs- und Galerieräume kombiniert.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.681336,
+                        47.550784
+                  ]
+            },
+            {
+                  "name": "Snowy Owl Theater",
+                  "text": "Das Snowy Owl Theater ist ein Theater in der Region Washington Apple Orchards, das Live-Shows präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685636,
+                        47.552885
+                  ]
+            },
+            {
+                  "name": "Dog Beach",
+                  "text": "Der Dog Beach ist ein Strand für Hunde in der Region Washington Apple Orchards.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.70621,
+                        47.586027
+                  ]
+            },
+            {
+                  "name": "Mountain Home Ridge (CDLT)",
+                  "text": "Mountain Home Ridge (CDLT) ist ein Naturschutzgebiet in der Region Washington Apple Orchards, Teil des Chelan-Douglas Land Trust.",
+                  "category": "natural",
+                  "coords": [
+                        -120.653853,
+                        47.549149
+                  ]
+            },
+            {
+                  "name": "Leavenworth National Fish Hatchery",
+                  "text": "Die Leavenworth National Fish Hatchery ist ein Naturschutzgebiet in der Region Washington Apple Orchards, das als Fischzuchtanlage dient.",
+                  "category": "natural",
+                  "coords": [
+                        -120.675357,
+                        47.555001
+                  ]
+            },
+            {
+                  "name": "Hatchery Park Ampitheater",
+                  "text": "Das Hatchery Park Amphitheater ist eine Attraktion in der Region Washington Apple Orchards, gelegen in einem Park.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.676008,
+                        47.557996
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blewett Stamp Mill",
+                  "text": "Egy történelmi bélyegzőmalom romjai washington-apple-orchards-life-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -120.660217,
+                        47.425013
+                  ]
+            },
+            {
+                  "name": "Tiptop",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.608532,
+                        47.44033
+                  ]
+            },
+            {
+                  "name": "Deer Park Spring",
+                  "text": "Egy természetes forrás washington-apple-orchards-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.621418,
+                        47.451
+                  ]
+            },
+            {
+                  "name": "Windmill Point",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.64932,
+                        47.436569
+                  ]
+            },
+            {
+                  "name": "Wedge Mountain",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy kiemelkedő hegy az Alpine Lakes Wilderness-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.70666,
+                        47.516359
+                  ]
+            },
+            {
+                  "name": "Edward Peak",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, az Enchantments régióban található.",
+                  "category": "natural",
+                  "coords": [
+                        -120.760853,
+                        47.517544
+                  ]
+            },
+            {
+                  "name": "Cannon Mountain",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben az Alpine Lakes Wilderness-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802376,
+                        47.502706
+                  ]
+            },
+            {
+                  "name": "Colchuck Balanced Rock",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, híres kiegyensúlyozott sziklájáról.",
+                  "category": "natural",
+                  "coords": [
+                        -120.818579,
+                        47.491451
+                  ]
+            },
+            {
+                  "name": "Jabberwocky Tower",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy gránittorony az Enchantments-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82599,
+                        47.491016
+                  ]
+            },
+            {
+                  "name": "Enchantment Peak",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, az Enchantments egyik kiemelkedő csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802691,
+                        47.489198
+                  ]
+            },
+            {
+                  "name": "Prusik Peak",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy híres mászócélpont az Enchantments-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.784554,
+                        47.487394
+                  ]
+            },
+            {
+                  "name": "The Temple",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy jellegzetes csúcs az Alpine Lakes Wilderness-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.769511,
+                        47.4904
+                  ]
+            },
+            {
+                  "name": "McClellan Peak",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben a Stuart-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.785747,
+                        47.470103
+                  ]
+            },
+            {
+                  "name": "Witches Tower",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy gránittorony az Enchantments-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.825356,
+                        47.476656
+                  ]
+            },
+            {
+                  "name": "Little Annapurna",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben, egy kis csúcs az Enchantments-ben, amely Annapurnára emlékeztet.",
+                  "category": "natural",
+                  "coords": [
+                        -120.814585,
+                        47.468081
+                  ]
+            },
+            {
+                  "name": "Etienne Creek Mining Area",
+                  "text": "Egy bányászati terület romjai washington-apple-orchards-life-v2-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -120.695019,
+                        47.429992
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.715361,
+                        47.412066
+                  ]
+            },
+            {
+                  "name": "Wildlife Viewing Blind",
+                  "text": "Egy vadmegfigyelési attrakció washington-apple-orchards-life-v2-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.66857,
+                        47.557409
+                  ]
+            },
+            {
+                  "name": "Peshastin Lookout",
+                  "text": "Egy kilátópony washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.629075,
+                        47.565455
+                  ]
+            },
+            {
+                  "name": "Boundary Butte",
+                  "text": "Egy csúcs washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.650139,
+                        47.539668
+                  ]
+            },
+            {
+                  "name": "Core Enchantments Permit Area",
+                  "text": "Egy engedélyköteles természetvédelmi terület az Enchantments-ben, washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.776241,
+                        47.496876
+                  ]
+            },
+            {
+                  "name": "Camas Meadows Natural Area Preserve",
+                  "text": "Egy természetvédelmi terület washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.580737,
+                        47.473078
+                  ]
+            },
+            {
+                  "name": "Snow Permit Area",
+                  "text": "Egy engedélyköteles természetvédelmi terület washington-apple-orchards-life-v2-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -120.730555,
+                        47.499943
+                  ]
+            },
+            {
+                  "name": "Colchuck Permit Area",
+                  "text": "A Colchuck Permit Area egy természetvédelmi terület a washingtoni almaültetvények vidékén, festői tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82142,
+                        47.499907
+                  ]
+            },
+            {
+                  "name": "Canyon Wren Recital Hall",
+                  "text": "A Canyon Wren Recital Hall egy színház a washingtoni almaültetvények vidékén, előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685063,
+                        47.551767
+                  ]
+            },
+            {
+                  "name": "Chapel Theater/Salmon Gallery",
+                  "text": "A Chapel Theater/Salmon Gallery egy színház a washingtoni almaültetvények vidékén, amely előadó- és galériateret ötvöz.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.681336,
+                        47.550784
+                  ]
+            },
+            {
+                  "name": "Snowy Owl Theater",
+                  "text": "A Snowy Owl Theater egy színház a washingtoni almaültetvények vidékén, élő előadásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685636,
+                        47.552885
+                  ]
+            },
+            {
+                  "name": "Dog Beach",
+                  "text": "A Dog Beach egy kutya strand a washingtoni almaültetvények vidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.70621,
+                        47.586027
+                  ]
+            },
+            {
+                  "name": "Mountain Home Ridge (CDLT)",
+                  "text": "A Mountain Home Ridge (CDLT) egy természetvédelmi terület a washingtoni almaültetvények vidékén, a Chelan-Douglas Land Trust része.",
+                  "category": "natural",
+                  "coords": [
+                        -120.653853,
+                        47.549149
+                  ]
+            },
+            {
+                  "name": "Leavenworth National Fish Hatchery",
+                  "text": "A Leavenworth National Fish Hatchery egy természetvédelmi terület a washingtoni almaültetvények vidékén, halnevelő üzemként működik.",
+                  "category": "natural",
+                  "coords": [
+                        -120.675357,
+                        47.555001
+                  ]
+            },
+            {
+                  "name": "Hatchery Park Ampitheater",
+                  "text": "A Hatchery Park Amfiteátrum egy látványosság a washingtoni almaültetvények vidékén, egy parkban található.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.676008,
+                        47.557996
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blewett Stamp Mill",
+                  "text": "Ruinele unei mori de ștampilă istorice în washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.660217,
+                        47.425013
+                  ]
+            },
+            {
+                  "name": "Tiptop",
+                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.608532,
+                        47.44033
+                  ]
+            },
+            {
+                  "name": "Deer Park Spring",
+                  "text": "Un izvor natural în washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.621418,
+                        47.451
+                  ]
+            },
+            {
+                  "name": "Windmill Point",
+                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.64932,
+                        47.436569
+                  ]
+            },
+            {
+                  "name": "Wedge Mountain",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un munte proeminent în Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.70666,
+                        47.516359
+                  ]
+            },
+            {
+                  "name": "Edward Peak",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, situat în regiunea Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.760853,
+                        47.517544
+                  ]
+            },
+            {
+                  "name": "Cannon Mountain",
+                  "text": "Un vârf în washington-apple-orchards-life-v2 în Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802376,
+                        47.502706
+                  ]
+            },
+            {
+                  "name": "Colchuck Balanced Rock",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, cunoscut pentru formațiunea sa de stâncă echilibrată.",
+                  "category": "natural",
+                  "coords": [
+                        -120.818579,
+                        47.491451
+                  ]
+            },
+            {
+                  "name": "Jabberwocky Tower",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un turn de granit în Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82599,
+                        47.491016
+                  ]
+            },
+            {
+                  "name": "Enchantment Peak",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un vârf proeminent în Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802691,
+                        47.489198
+                  ]
+            },
+            {
+                  "name": "Prusik Peak",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, o destinație renumită pentru alpinism în Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.784554,
+                        47.487394
+                  ]
+            },
+            {
+                  "name": "The Temple",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un vârf distinctiv în Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.769511,
+                        47.4904
+                  ]
+            },
+            {
+                  "name": "McClellan Peak",
+                  "text": "Un vârf în washington-apple-orchards-life-v2 în Masivul Stuart.",
+                  "category": "natural",
+                  "coords": [
+                        -120.785747,
+                        47.470103
+                  ]
+            },
+            {
+                  "name": "Witches Tower",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un turn de granit în Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.825356,
+                        47.476656
+                  ]
+            },
+            {
+                  "name": "Little Annapurna",
+                  "text": "Un vârf în washington-apple-orchards-life-v2, un vârf mic în Enchantments care seamănă cu Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        -120.814585,
+                        47.468081
+                  ]
+            },
+            {
+                  "name": "Etienne Creek Mining Area",
+                  "text": "Ruinele unei zone miniere în washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.695019,
+                        47.429992
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.715361,
+                        47.412066
+                  ]
+            },
+            {
+                  "name": "Wildlife Viewing Blind",
+                  "text": "O atracție de observare a faunei sălbatice în washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.66857,
+                        47.557409
+                  ]
+            },
+            {
+                  "name": "Peshastin Lookout",
+                  "text": "Un punct de belvedere în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.629075,
+                        47.565455
+                  ]
+            },
+            {
+                  "name": "Boundary Butte",
+                  "text": "Un vârf în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.650139,
+                        47.539668
+                  ]
+            },
+            {
+                  "name": "Core Enchantments Permit Area",
+                  "text": "O rezervație naturală cu permis în Enchantments în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.776241,
+                        47.496876
+                  ]
+            },
+            {
+                  "name": "Camas Meadows Natural Area Preserve",
+                  "text": "O rezervație naturală în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.580737,
+                        47.473078
+                  ]
+            },
+            {
+                  "name": "Snow Permit Area",
+                  "text": "O rezervație naturală cu permis în washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.730555,
+                        47.499943
+                  ]
+            },
+            {
+                  "name": "Colchuck Permit Area",
+                  "text": "Colchuck Permit Area este o rezervație naturală în regiunea livezilor de mere din Washington, cunoscută pentru peisajele sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82142,
+                        47.499907
+                  ]
+            },
+            {
+                  "name": "Canyon Wren Recital Hall",
+                  "text": "Canyon Wren Recital Hall este un teatru în regiunea livezilor de mere din Washington, care găzduiește spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685063,
+                        47.551767
+                  ]
+            },
+            {
+                  "name": "Chapel Theater/Salmon Gallery",
+                  "text": "Chapel Theater/Salmon Gallery este un teatru în regiunea livezilor de mere din Washington, combinând spațiul de spectacol cu cel de galerie.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.681336,
+                        47.550784
+                  ]
+            },
+            {
+                  "name": "Snowy Owl Theater",
+                  "text": "Snowy Owl Theater este un teatru în regiunea livezilor de mere din Washington, care prezintă spectacole live.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685636,
+                        47.552885
+                  ]
+            },
+            {
+                  "name": "Dog Beach",
+                  "text": "Dog Beach este o plajă pentru câini în regiunea livezilor de mere din Washington.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.70621,
+                        47.586027
+                  ]
+            },
+            {
+                  "name": "Mountain Home Ridge (CDLT)",
+                  "text": "Mountain Home Ridge (CDLT) este o rezervație naturală în regiunea livezilor de mere din Washington, parte a Chelan-Douglas Land Trust.",
+                  "category": "natural",
+                  "coords": [
+                        -120.653853,
+                        47.549149
+                  ]
+            },
+            {
+                  "name": "Leavenworth National Fish Hatchery",
+                  "text": "Leavenworth National Fish Hatchery este o rezervație naturală în regiunea livezilor de mere din Washington, care funcționează ca o crescătorie de pești.",
+                  "category": "natural",
+                  "coords": [
+                        -120.675357,
+                        47.555001
+                  ]
+            },
+            {
+                  "name": "Hatchery Park Ampitheater",
+                  "text": "Hatchery Park Amphitheater este o atracție în regiunea livezilor de mere din Washington, situat într-un parc.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.676008,
+                        47.557996
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blewett Stamp Mill",
+                  "text": "Ruins of a historic stamp mill in washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.660217,
+                        47.425013
+                  ]
+            },
+            {
+                  "name": "Tiptop",
+                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.608532,
+                        47.44033
+                  ]
+            },
+            {
+                  "name": "Deer Park Spring",
+                  "text": "A natural spring in washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.621418,
+                        47.451
+                  ]
+            },
+            {
+                  "name": "Windmill Point",
+                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.64932,
+                        47.436569
+                  ]
+            },
+            {
+                  "name": "Wedge Mountain",
+                  "text": "A peak in washington-apple-orchards-life-v2 that is a prominent mountain in the Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.70666,
+                        47.516359
+                  ]
+            },
+            {
+                  "name": "Edward Peak",
+                  "text": "A peak in washington-apple-orchards-life-v2 located in the Enchantments region.",
+                  "category": "natural",
+                  "coords": [
+                        -120.760853,
+                        47.517544
+                  ]
+            },
+            {
+                  "name": "Cannon Mountain",
+                  "text": "A peak in washington-apple-orchards-life-v2 in the Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802376,
+                        47.502706
+                  ]
+            },
+            {
+                  "name": "Colchuck Balanced Rock",
+                  "text": "A peak in washington-apple-orchards-life-v2 known for its balanced rock formation.",
+                  "category": "natural",
+                  "coords": [
+                        -120.818579,
+                        47.491451
+                  ]
+            },
+            {
+                  "name": "Jabberwocky Tower",
+                  "text": "A peak in washington-apple-orchards-life-v2 that is a granite tower in the Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82599,
+                        47.491016
+                  ]
+            },
+            {
+                  "name": "Enchantment Peak",
+                  "text": "A peak in washington-apple-orchards-life-v2, a prominent peak in the Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.802691,
+                        47.489198
+                  ]
+            },
+            {
+                  "name": "Prusik Peak",
+                  "text": "A peak in washington-apple-orchards-life-v2, a famous climbing destination in the Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.784554,
+                        47.487394
+                  ]
+            },
+            {
+                  "name": "The Temple",
+                  "text": "A peak in washington-apple-orchards-life-v2, a distinctive peak in the Alpine Lakes Wilderness.",
+                  "category": "natural",
+                  "coords": [
+                        -120.769511,
+                        47.4904
+                  ]
+            },
+            {
+                  "name": "McClellan Peak",
+                  "text": "A peak in washington-apple-orchards-life-v2 in the Stuart Range.",
+                  "category": "natural",
+                  "coords": [
+                        -120.785747,
+                        47.470103
+                  ]
+            },
+            {
+                  "name": "Witches Tower",
+                  "text": "A peak in washington-apple-orchards-life-v2, a granite tower in the Enchantments.",
+                  "category": "natural",
+                  "coords": [
+                        -120.825356,
+                        47.476656
+                  ]
+            },
+            {
+                  "name": "Little Annapurna",
+                  "text": "A peak in washington-apple-orchards-life-v2, a small peak in the Enchantments resembling Annapurna.",
+                  "category": "natural",
+                  "coords": [
+                        -120.814585,
+                        47.468081
+                  ]
+            },
+            {
+                  "name": "Etienne Creek Mining Area",
+                  "text": "Ruins of a mining area in washington-apple-orchards-life-v2.",
+                  "category": "historical",
+                  "coords": [
+                        -120.695019,
+                        47.429992
+                  ]
+            },
+            {
+                  "name": "Iron Mountain",
+                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.715361,
+                        47.412066
+                  ]
+            },
+            {
+                  "name": "Wildlife Viewing Blind",
+                  "text": "A wildlife viewing attraction in washington-apple-orchards-life-v2.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.66857,
+                        47.557409
+                  ]
+            },
+            {
+                  "name": "Peshastin Lookout",
+                  "text": "A viewpoint in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.629075,
+                        47.565455
+                  ]
+            },
+            {
+                  "name": "Boundary Butte",
+                  "text": "A peak in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.650139,
+                        47.539668
+                  ]
+            },
+            {
+                  "name": "Core Enchantments Permit Area",
+                  "text": "A permit area nature reserve in the Enchantments in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.776241,
+                        47.496876
+                  ]
+            },
+            {
+                  "name": "Camas Meadows Natural Area Preserve",
+                  "text": "A nature reserve in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.580737,
+                        47.473078
+                  ]
+            },
+            {
+                  "name": "Snow Permit Area",
+                  "text": "A permit area nature reserve in washington-apple-orchards-life-v2.",
+                  "category": "natural",
+                  "coords": [
+                        -120.730555,
+                        47.499943
+                  ]
+            },
+            {
+                  "name": "Colchuck Permit Area",
+                  "text": "Colchuck Permit Area is a nature reserve in the Washington apple orchards region, known for its scenic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -120.82142,
+                        47.499907
+                  ]
+            },
+            {
+                  "name": "Canyon Wren Recital Hall",
+                  "text": "Canyon Wren Recital Hall is a theatre in the Washington apple orchards area, hosting performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685063,
+                        47.551767
+                  ]
+            },
+            {
+                  "name": "Chapel Theater/Salmon Gallery",
+                  "text": "Chapel Theater/Salmon Gallery is a theatre in the Washington apple orchards region, combining performance and gallery space.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.681336,
+                        47.550784
+                  ]
+            },
+            {
+                  "name": "Snowy Owl Theater",
+                  "text": "Snowy Owl Theater is a theatre in the Washington apple orchards region, presenting live shows.",
+                  "category": "cultural",
+                  "coords": [
+                        -120.685636,
+                        47.552885
+                  ]
+            },
+            {
+                  "name": "Dog Beach",
+                  "text": "Dog Beach is a beach for dogs in the Washington apple orchards region.",
+                  "category": "recreational",
+                  "coords": [
+                        -120.70621,
+                        47.586027
+                  ]
+            },
+            {
+                  "name": "Mountain Home Ridge (CDLT)",
+                  "text": "Mountain Home Ridge (CDLT) is a nature reserve in the Washington apple orchards area, part of the Chelan-Douglas Land Trust.",
+                  "category": "natural",
+                  "coords": [
+                        -120.653853,
+                        47.549149
+                  ]
+            },
+            {
+                  "name": "Leavenworth National Fish Hatchery",
+                  "text": "Leavenworth National Fish Hatchery is a nature reserve in the Washington apple orchards region, serving as a fish hatchery.",
+                  "category": "natural",
+                  "coords": [
+                        -120.675357,
+                        47.555001
+                  ]
+            },
+            {
+                  "name": "Hatchery Park Ampitheater",
+                  "text": "Hatchery Park Amphitheater is an attraction in the Washington apple orchards area, located within a park.",
+                  "category": "landmark",
+                  "coords": [
+                        -120.676008,
+                        47.557996
+                  ]
+            }
+      ]
+},
     type: "agriculture",
     parent: "US-WA",
     coords: [-120.7, 47.5],
@@ -1047,7 +23817,880 @@ export const poiExtraUsaLifeV2: POI[] = [
     },
   },
   {
-    id: "knott-s-berry-farm-life-v2",
+    id: "knott-s-berry-farm-life-v2", "sights": {
+      "de": [
+            {
+                  "name": "Disney Gallery",
+                  "text": "Die Disney Gallery in Anaheim zeigt Kunstwerke aus dem Disney-Universum.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91843,
+                        33.810195
+                  ]
+            },
+            {
+                  "name": "MUZEO",
+                  "text": "MUZEO ist ein Museum in Anaheim im historischen Carnegie-Bibliotheksgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91363,
+                        33.833607
+                  ]
+            },
+            {
+                  "name": "Turtle Talk with Crush",
+                  "text": "Turtle Talk with Crush ist eine interaktive Show im Disney California Adventure Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.917839,
+                        33.807286
+                  ]
+            },
+            {
+                  "name": "Storybook Land Canal Boats",
+                  "text": "Storybook Land Canal Boats ist eine Bootsfahrt im Disneyland Park in Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.91822,
+                        33.813691
+                  ]
+            },
+            {
+                  "name": "Finding Nemo Submarine Voyage",
+                  "text": "Finding Nemo Submarine Voyage ist eine U-Boot-Fahrt im Disneyland Park in Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917176,
+                        33.812831
+                  ]
+            },
+            {
+                  "name": "Jumpin' Jellyfish",
+                  "text": "In knott-s-berry-farm-life-v2 ist Jumpin' Jellyfish eine Fallschirmsprungfahrt mit Quallenmotiv.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922689,
+                        33.805997
+                  ]
+            },
+            {
+                  "name": "Grizzly River Run",
+                  "text": "In knott-s-berry-farm-life-v2 ist Grizzly River Run eine Wildwasserbahn durch den Grizzly Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920639,
+                        33.807193
+                  ]
+            },
+            {
+                  "name": "Frontierland Landing",
+                  "text": "In knott-s-berry-farm-life-v2 ist Frontierland Landing der Einstiegsbereich für die Sailing Ship Columbia, ein Nachbau eines Schiffes aus dem 18. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920578,
+                        33.812242
+                  ]
+            },
+            {
+                  "name": "Casey Jr. Circus Train",
+                  "text": "In knott-s-berry-farm-life-v2 ist Casey Jr. Circus Train eine kleine Zugfahrt basierend auf dem Dumbo-Film.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.919237,
+                        33.813722
+                  ]
+            },
+            {
+                  "name": "Davy Crockett Explorer Canoes",
+                  "text": "In knott-s-berry-farm-life-v2 können Gäste bei Davy Crockett Explorer Canoes Kanu auf dem Rivers of America fahren.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922126,
+                        33.812518
+                  ]
+            },
+            {
+                  "name": "Silver Bullet",
+                  "text": "In knott-s-berry-farm-life-v2 ist Silver Bullet eine hängende Looping-Achterbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000005,
+                        33.844655
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Adventure",
+                  "text": "In knott-s-berry-farm-life-v2 ist Indiana Jones Adventure eine immersive Dark Ride in einem Jeep-Fahrzeug.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.921345,
+                        33.809934
+                  ]
+            },
+            {
+                  "name": "Adventureland Treehouse",
+                  "text": "In knott-s-berry-farm-life-v2 ist Adventureland Treehouse ein begehbares Baumhaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920549,
+                        33.811248
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "In knott-s-berry-farm-life-v2 ist Little India ein lebendiges Kulturviertel mit indischen Geschäften und Restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.082163,
+                        33.862174
+                  ]
+            },
+            {
+                  "name": "Coast Rider",
+                  "text": "In knott-s-berry-farm-life-v2 ist Coast Rider eine Wilde-Maus-Achterbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.002026,
+                        33.845245
+                  ]
+            },
+            {
+                  "name": "Xcelerator",
+                  "text": "In knott-s-berry-farm-life-v2 ist Xcelerator eine Katapult-Achterbahn, die auf 132 km/h beschleunigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000836,
+                        33.845938
+                  ]
+            },
+            {
+                  "name": "Sierra Sidewinder",
+                  "text": "In knott-s-berry-farm-life-v2 ist Sierra Sidewinder eine sich drehende Achterbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.99876,
+                        33.844769
+                  ]
+            },
+            {
+                  "name": "GhostRider",
+                  "text": "In knott-s-berry-farm-life-v2 ist GhostRider eine Holzachterbahn.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.999014,
+                        33.842979
+                  ]
+            },
+            {
+                  "name": "Muckenthaler Cultural Center",
+                  "text": "In knott-s-berry-farm-life-v2 ist das Muckenthaler Cultural Center ein Kulturzentrum in einem historischen Herrenhaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.944001,
+                        33.875834
+                  ]
+            },
+            {
+                  "name": "Astro Orbitor",
+                  "text": "In knott-s-berry-farm-life-v2 ist Astro Orbitor eine raketenförmige Rundfahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.918288,
+                        33.812095
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "In knott-s-berry-farm-life-v2 ist Space Mountain eine Indoor-Achterbahn im Dunkeln.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.9175,
+                        33.810969
+                  ]
+            },
+            {
+                  "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
+                  "text": "In knott-s-berry-farm-life-v2 ist Monsters, Inc. Mike & Sulley to the Rescue! eine Dark Ride basierend auf dem Film.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917173,
+                        33.80851
+                  ]
+            },
+            {
+                  "name": "Guardians of the Galaxy: Mission Breakout",
+                  "text": "In knott-s-berry-farm-life-v2 ist Guardians of the Galaxy: Mission Breakout ein Free-Fall-Turm.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.916904,
+                        33.806613
+                  ]
+            },
+            {
+                  "name": "Incredicoaster",
+                  "text": "In knott-s-berry-farm-life-v2 ist Incredicoaster eine Katapult-Achterbahn mit dem Thema „Die Unglaublichen“.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920481,
+                        33.804559
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Disney Gallery",
+                  "text": "Az Anaheim-i Disney Gallery a Disney-univerzum műalkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91843,
+                        33.810195
+                  ]
+            },
+            {
+                  "name": "MUZEO",
+                  "text": "A MUZEO egy múzeum Anaheimben, a történelmi Carnegie Könyvtár épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91363,
+                        33.833607
+                  ]
+            },
+            {
+                  "name": "Turtle Talk with Crush",
+                  "text": "A Turtle Talk with Crush egy interaktív show a Disney California Adventure Parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.917839,
+                        33.807286
+                  ]
+            },
+            {
+                  "name": "Storybook Land Canal Boats",
+                  "text": "A Storybook Land Canal Boats egy hajóút az Anaheim-i Disneyland Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.91822,
+                        33.813691
+                  ]
+            },
+            {
+                  "name": "Finding Nemo Submarine Voyage",
+                  "text": "A Finding Nemo Submarine Voyage egy tengeralattjáró-út az Anaheim-i Disneyland Parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917176,
+                        33.812831
+                  ]
+            },
+            {
+                  "name": "Jumpin' Jellyfish",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Jumpin' Jellyfish egy ejtőernyős ugratás, amely medúzák témájú.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922689,
+                        33.805997
+                  ]
+            },
+            {
+                  "name": "Grizzly River Run",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Grizzly River Run egy vízi tutajozás a Grizzly Peak-en keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920639,
+                        33.807193
+                  ]
+            },
+            {
+                  "name": "Frontierland Landing",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Frontierland Landing a Sailing Ship Columbia beszállóhelye, egy 18. századi hajó mása.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920578,
+                        33.812242
+                  ]
+            },
+            {
+                  "name": "Casey Jr. Circus Train",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Casey Jr. Circus Train egy kis vonatozás, amely a Dumbo film alapján készült.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.919237,
+                        33.813722
+                  ]
+            },
+            {
+                  "name": "Davy Crockett Explorer Canoes",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Davy Crockett Explorer Canoes lehetővé teszi a vendégeknek, hogy kenuzzanak a Rivers of America-n.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922126,
+                        33.812518
+                  ]
+            },
+            {
+                  "name": "Silver Bullet",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Silver Bullet egy függő hurkolt hullámvasút.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000005,
+                        33.844655
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Adventure",
+                  "text": "A knott-s-berry-farm-life-v2 területén az Indiana Jones Adventure egy magával ragadó sötét utazás dzsip járműben.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.921345,
+                        33.809934
+                  ]
+            },
+            {
+                  "name": "Adventureland Treehouse",
+                  "text": "A knott-s-berry-farm-life-v2 területén az Adventureland Treehouse egy sétálható faház.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920549,
+                        33.811248
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Little India egy vibráló kulturális negyed indiai boltokkal és éttermekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.082163,
+                        33.862174
+                  ]
+            },
+            {
+                  "name": "Coast Rider",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Coast Rider egy vad egér hullámvasút.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.002026,
+                        33.845245
+                  ]
+            },
+            {
+                  "name": "Xcelerator",
+                  "text": "A knott-s-berry-farm-life-v2 területén az Xcelerator egy katapult hullámvasút, amely 132 km/h-ra gyorsul.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000836,
+                        33.845938
+                  ]
+            },
+            {
+                  "name": "Sierra Sidewinder",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Sierra Sidewinder egy forgó hullámvasút.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.99876,
+                        33.844769
+                  ]
+            },
+            {
+                  "name": "GhostRider",
+                  "text": "A knott-s-berry-farm-life-v2 területén a GhostRider egy fa hullámvasút.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.999014,
+                        33.842979
+                  ]
+            },
+            {
+                  "name": "Muckenthaler Cultural Center",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Muckenthaler Cultural Center egy kulturális központ egy történelmi kastélyban.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.944001,
+                        33.875834
+                  ]
+            },
+            {
+                  "name": "Astro Orbitor",
+                  "text": "A knott-s-berry-farm-life-v2 területén az Astro Orbitor egy rakétatémájú körhinta.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.918288,
+                        33.812095
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Space Mountain egy beltéri hullámvasút a sötétben.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.9175,
+                        33.810969
+                  ]
+            },
+            {
+                  "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Monsters, Inc. Mike & Sulley to the Rescue! egy sötét utazás a film alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917173,
+                        33.80851
+                  ]
+            },
+            {
+                  "name": "Guardians of the Galaxy: Mission Breakout",
+                  "text": "A knott-s-berry-farm-life-v2 területén a Guardians of the Galaxy: Mission Breakout egy szabadeső torony.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.916904,
+                        33.806613
+                  ]
+            },
+            {
+                  "name": "Incredicoaster",
+                  "text": "A knott-s-berry-farm-life-v2 területén az Incredicoaster egy katapult hullámvasút A Hihetetlen család témával.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920481,
+                        33.804559
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Disney Gallery",
+                  "text": "Disney Gallery din Anaheim prezintă opere de artă din universul Disney.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91843,
+                        33.810195
+                  ]
+            },
+            {
+                  "name": "MUZEO",
+                  "text": "MUZEO este un muzeu în Anaheim, găzduit în clădirea istorică a Bibliotecii Carnegie.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91363,
+                        33.833607
+                  ]
+            },
+            {
+                  "name": "Turtle Talk with Crush",
+                  "text": "Turtle Talk with Crush este un spectacol interactiv în Disney California Adventure Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.917839,
+                        33.807286
+                  ]
+            },
+            {
+                  "name": "Storybook Land Canal Boats",
+                  "text": "Storybook Land Canal Boats este o plimbare cu barca în Disneyland Park din Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.91822,
+                        33.813691
+                  ]
+            },
+            {
+                  "name": "Finding Nemo Submarine Voyage",
+                  "text": "Finding Nemo Submarine Voyage este o plimbare cu submarin în Disneyland Park din Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917176,
+                        33.812831
+                  ]
+            },
+            {
+                  "name": "Jumpin' Jellyfish",
+                  "text": "În knott-s-berry-farm-life-v2, Jumpin' Jellyfish este o plimbare cu parașuta tematică meduzelor.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922689,
+                        33.805997
+                  ]
+            },
+            {
+                  "name": "Grizzly River Run",
+                  "text": "În knott-s-berry-farm-life-v2, Grizzly River Run este o plimbare cu rapiduri prin Grizzly Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920639,
+                        33.807193
+                  ]
+            },
+            {
+                  "name": "Frontierland Landing",
+                  "text": "În knott-s-berry-farm-life-v2, Frontierland Landing este zona de îmbarcare pentru Sailing Ship Columbia, o replică a unei nave din secolul al XVIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920578,
+                        33.812242
+                  ]
+            },
+            {
+                  "name": "Casey Jr. Circus Train",
+                  "text": "În knott-s-berry-farm-life-v2, Casey Jr. Circus Train este o plimbare cu un trenuleț bazat pe filmul Dumbo.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.919237,
+                        33.813722
+                  ]
+            },
+            {
+                  "name": "Davy Crockett Explorer Canoes",
+                  "text": "În knott-s-berry-farm-life-v2, Davy Crockett Explorer Canoes permite oaspeților să vâslească cu canoe pe Rivers of America.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922126,
+                        33.812518
+                  ]
+            },
+            {
+                  "name": "Silver Bullet",
+                  "text": "În knott-s-berry-farm-life-v2, Silver Bullet este un roller coaster suspendat cu bucle.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000005,
+                        33.844655
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Adventure",
+                  "text": "În knott-s-berry-farm-life-v2, Indiana Jones Adventure este o plimbare întunecată imersivă într-un vehicul jeep.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.921345,
+                        33.809934
+                  ]
+            },
+            {
+                  "name": "Adventureland Treehouse",
+                  "text": "În knott-s-berry-farm-life-v2, Adventureland Treehouse este o căsuță în copac pe care o poți vizita.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920549,
+                        33.811248
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "În knott-s-berry-farm-life-v2, Little India este un cartier cultural vibrant cu magazine și restaurante indiene.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.082163,
+                        33.862174
+                  ]
+            },
+            {
+                  "name": "Coast Rider",
+                  "text": "În knott-s-berry-farm-life-v2, Coast Rider este un roller coaster de tip șoarece sălbatic.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.002026,
+                        33.845245
+                  ]
+            },
+            {
+                  "name": "Xcelerator",
+                  "text": "În knott-s-berry-farm-life-v2, Xcelerator este un roller coaster lansat care accelerează la 132 km/h.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000836,
+                        33.845938
+                  ]
+            },
+            {
+                  "name": "Sierra Sidewinder",
+                  "text": "În knott-s-berry-farm-life-v2, Sierra Sidewinder este un roller coaster care se rotește.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.99876,
+                        33.844769
+                  ]
+            },
+            {
+                  "name": "GhostRider",
+                  "text": "În knott-s-berry-farm-life-v2, GhostRider este un roller coaster din lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.999014,
+                        33.842979
+                  ]
+            },
+            {
+                  "name": "Muckenthaler Cultural Center",
+                  "text": "În knott-s-berry-farm-life-v2, Muckenthaler Cultural Center este un centru cultural găzduit într-un conac istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.944001,
+                        33.875834
+                  ]
+            },
+            {
+                  "name": "Astro Orbitor",
+                  "text": "În knott-s-berry-farm-life-v2, Astro Orbitor este o plimbare rotitoare tematică rachetă.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.918288,
+                        33.812095
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "În knott-s-berry-farm-life-v2, Space Mountain este un roller coaster interior în întuneric.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.9175,
+                        33.810969
+                  ]
+            },
+            {
+                  "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
+                  "text": "În knott-s-berry-farm-life-v2, Monsters, Inc. Mike & Sulley to the Rescue! este o plimbare întunecată bazată pe film.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917173,
+                        33.80851
+                  ]
+            },
+            {
+                  "name": "Guardians of the Galaxy: Mission Breakout",
+                  "text": "În knott-s-berry-farm-life-v2, Guardians of the Galaxy: Mission Breakout este un turn cu cădere liberă.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.916904,
+                        33.806613
+                  ]
+            },
+            {
+                  "name": "Incredicoaster",
+                  "text": "În knott-s-berry-farm-life-v2, Incredicoaster este un roller coaster lansat cu tema Familia Incredibililor.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920481,
+                        33.804559
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Disney Gallery",
+                  "text": "Disney Gallery in Anaheim showcases artwork from the Disney universe.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91843,
+                        33.810195
+                  ]
+            },
+            {
+                  "name": "MUZEO",
+                  "text": "MUZEO is a museum in Anaheim housed in the historic Carnegie Library building.",
+                  "category": "museum",
+                  "coords": [
+                        -117.91363,
+                        33.833607
+                  ]
+            },
+            {
+                  "name": "Turtle Talk with Crush",
+                  "text": "Turtle Talk with Crush is an interactive show at Disney California Adventure Park.",
+                  "category": "cultural",
+                  "coords": [
+                        -117.917839,
+                        33.807286
+                  ]
+            },
+            {
+                  "name": "Storybook Land Canal Boats",
+                  "text": "Storybook Land Canal Boats is a boat ride at Disneyland Park in Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.91822,
+                        33.813691
+                  ]
+            },
+            {
+                  "name": "Finding Nemo Submarine Voyage",
+                  "text": "Finding Nemo Submarine Voyage is a submarine ride at Disneyland Park in Anaheim.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917176,
+                        33.812831
+                  ]
+            },
+            {
+                  "name": "Jumpin' Jellyfish",
+                  "text": "In knott-s-berry-farm-life-v2, Jumpin' Jellyfish is a parachute drop ride themed to jellyfish.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922689,
+                        33.805997
+                  ]
+            },
+            {
+                  "name": "Grizzly River Run",
+                  "text": "In knott-s-berry-farm-life-v2, Grizzly River Run is a river rapids ride through Grizzly Peak.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920639,
+                        33.807193
+                  ]
+            },
+            {
+                  "name": "Frontierland Landing",
+                  "text": "In knott-s-berry-farm-life-v2, Frontierland Landing is the boarding area for the Sailing Ship Columbia, a replica of an 18th-century ship.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920578,
+                        33.812242
+                  ]
+            },
+            {
+                  "name": "Casey Jr. Circus Train",
+                  "text": "In knott-s-berry-farm-life-v2, Casey Jr. Circus Train is a small train ride based on the Dumbo movie.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.919237,
+                        33.813722
+                  ]
+            },
+            {
+                  "name": "Davy Crockett Explorer Canoes",
+                  "text": "In knott-s-berry-farm-life-v2, Davy Crockett Explorer Canoes lets guests paddle canoes around Rivers of America.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.922126,
+                        33.812518
+                  ]
+            },
+            {
+                  "name": "Silver Bullet",
+                  "text": "In knott-s-berry-farm-life-v2, Silver Bullet is a suspended looping roller coaster.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000005,
+                        33.844655
+                  ]
+            },
+            {
+                  "name": "Indiana Jones Adventure",
+                  "text": "In knott-s-berry-farm-life-v2, Indiana Jones Adventure is an immersive dark ride in a jeep vehicle.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.921345,
+                        33.809934
+                  ]
+            },
+            {
+                  "name": "Adventureland Treehouse",
+                  "text": "In knott-s-berry-farm-life-v2, Adventureland Treehouse is a walk-through treehouse attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920549,
+                        33.811248
+                  ]
+            },
+            {
+                  "name": "Little India",
+                  "text": "In knott-s-berry-farm-life-v2, Little India is a vibrant cultural district known for Indian shops and restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.082163,
+                        33.862174
+                  ]
+            },
+            {
+                  "name": "Coast Rider",
+                  "text": "In knott-s-berry-farm-life-v2, Coast Rider is a wild mouse roller coaster.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.002026,
+                        33.845245
+                  ]
+            },
+            {
+                  "name": "Xcelerator",
+                  "text": "In knott-s-berry-farm-life-v2, Xcelerator is a launched roller coaster that accelerates to 82 mph.",
+                  "category": "landmark",
+                  "coords": [
+                        -118.000836,
+                        33.845938
+                  ]
+            },
+            {
+                  "name": "Sierra Sidewinder",
+                  "text": "In knott-s-berry-farm-life-v2, Sierra Sidewinder is a spinning roller coaster.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.99876,
+                        33.844769
+                  ]
+            },
+            {
+                  "name": "GhostRider",
+                  "text": "In knott-s-berry-farm-life-v2, GhostRider is a wooden roller coaster.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.999014,
+                        33.842979
+                  ]
+            },
+            {
+                  "name": "Muckenthaler Cultural Center",
+                  "text": "In knott-s-berry-farm-life-v2, Muckenthaler Cultural Center is a cultural center housed in a historic mansion.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.944001,
+                        33.875834
+                  ]
+            },
+            {
+                  "name": "Astro Orbitor",
+                  "text": "In knott-s-berry-farm-life-v2, Astro Orbitor is a rocket-themed spinner ride.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.918288,
+                        33.812095
+                  ]
+            },
+            {
+                  "name": "Space Mountain",
+                  "text": "In knott-s-berry-farm-life-v2, Space Mountain is an indoor roller coaster in the dark.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.9175,
+                        33.810969
+                  ]
+            },
+            {
+                  "name": "Monsters, Inc. Mike & Sulley to the Rescue!",
+                  "text": "In knott-s-berry-farm-life-v2, Monsters, Inc. Mike & Sulley to the Rescue! is a dark ride based on the movie.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.917173,
+                        33.80851
+                  ]
+            },
+            {
+                  "name": "Guardians of the Galaxy: Mission Breakout",
+                  "text": "In knott-s-berry-farm-life-v2, Guardians of the Galaxy: Mission Breakout is a drop tower ride.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.916904,
+                        33.806613
+                  ]
+            },
+            {
+                  "name": "Incredicoaster",
+                  "text": "In knott-s-berry-farm-life-v2, Incredicoaster is a launched roller coaster themed to The Incredibles.",
+                  "category": "landmark",
+                  "coords": [
+                        -117.920481,
+                        33.804559
+                  ]
+            }
+      ]
+},
     type: "kid-landmark",
     parent: "US-CA",
     coords: [-117.998, 33.844],

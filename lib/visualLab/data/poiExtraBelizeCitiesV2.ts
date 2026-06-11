@@ -3846,7 +3846,88 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Le village est principalement habité par des Mayas Mopan.", "Il se trouve en bordure du Cockscomb Basin Wildlife Sanctuary.", "Les habitants pratiquent le tissage traditionnel et l'artisanat.", "L'agriculture de subsistance (maïs, haricots, cacao) est la base de la vie.", "Les maisons sont souvent construites dans le style traditionnel maya avec des matériaux naturels.", "Maya Mopan est un centre pour la préservation de la langue mopan.", "Le village propose des visites culturelles et des nuitées chez l'habitant.", "La nature environnante offre d'excellents sentiers de randonnée."],
     }, image: "/poi-images/maya-mopan-cities-v2.webp"},
   {
-    id: "consejo-cities-v2",
+    id: "consejo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acuario Mamisha",
+                  "text": "Aquarium in Consejo mit Meereslebewesen, geeignet für Kinder und Familien.",
+                  "category": "wildlife",
+                  "coords": [
+                        -88.309149,
+                        18.516576
+                  ]
+            },
+            {
+                  "name": "Fosa de clavados Chetumal",
+                  "text": "Schwimmbad mit Sprungturm in Consejo, ideal für Wassersportler.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.274463,
+                        18.523663
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acuario Mamisha",
+                  "text": "Akvárium Consejóban tengeri élőlényekkel, gyerekeknek és családoknak.",
+                  "category": "wildlife",
+                  "coords": [
+                        -88.309149,
+                        18.516576
+                  ]
+            },
+            {
+                  "name": "Fosa de clavados Chetumal",
+                  "text": "Úszómedence ugrótoronnyal Consejóban, vízi sportokhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.274463,
+                        18.523663
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acuario Mamisha",
+                  "text": "Acvariu în Consejo cu viețuitoare marine, pentru copii și familii.",
+                  "category": "wildlife",
+                  "coords": [
+                        -88.309149,
+                        18.516576
+                  ]
+            },
+            {
+                  "name": "Fosa de clavados Chetumal",
+                  "text": "Piscină cu trambulină în Consejo, pentru sporturi acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.274463,
+                        18.523663
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acuario Mamisha",
+                  "text": "Aquarium in Consejo with marine life, suitable for children and families.",
+                  "category": "wildlife",
+                  "coords": [
+                        -88.309149,
+                        18.516576
+                  ]
+            },
+            {
+                  "name": "Fosa de clavados Chetumal",
+                  "text": "Swimming pool with diving board in Consejo, for water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.274463,
+                        18.523663
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CZL",
     coords: [-88.3167, 18.45],
@@ -4440,7 +4521,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
   },
   {
-    id: "chan-chen-cities-v2",
+    id: "chan-chen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Ecoturístico Balneario Palmar",
+                  "text": "Das Centro Ecoturístico Balneario Palmar in Chan Chen ist ein umweltfreundliches Strandresort mit natürlichen Pools und Gärten, ideal für Familien, die die Natur suchen.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.527148,
+                        18.440453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Ecoturístico Balneario Palmar",
+                  "text": "A Centro Ecoturístico Balneario Palmar Chan Chenben egy környezetbarát tengerparti üdülőhely természetes medencékkel és kertekkel, tökéletes a természetet kereső családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.527148,
+                        18.440453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Ecoturístico Balneario Palmar",
+                  "text": "Centro Ecoturístico Balneario Palmar în Chan Chen este o stațiune de plajă ecologică cu piscine naturale și grădini, perfectă pentru familii care caută natură.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.527148,
+                        18.440453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Ecoturístico Balneario Palmar",
+                  "text": "Centro Ecoturístico Balneario Palmar in Chan Chen is an eco-friendly beach resort with natural pools and gardens, perfect for families seeking nature.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.527148,
+                        18.440453
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CZL",
     coords: [-88.5833, 18.4667],
