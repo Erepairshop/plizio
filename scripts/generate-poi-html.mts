@@ -271,6 +271,15 @@ try {
   if (fs.existsSync(svp)) SV_OK = JSON.parse(fs.readFileSync(svp, "utf-8"));
 } catch {}
 function svKey(lat: number, lng: number): string { return `${lat.toFixed(4)},${lng.toFixed(4)}`; }
+// OSM hard-facts per sight coord (website / opening_hours / fee / wheelchair / ele),
+// extracted LLM-free from the OSM dumps (_extract_osm_facts.py). Keyed identically to
+// svKey ("lat,lng" @4dp) so renderSightCard can look up by the sight's own coords.
+type SightFacts = { website?: string; opening_hours?: string; fee?: string; wheelchair?: string; ele?: number; phone?: string };
+let SIGHT_FACTS: Record<string, SightFacts> = {};
+try {
+  const sfp = path.resolve(process.cwd(), "public", "data", "_sight_facts.json");
+  if (fs.existsSync(sfp)) SIGHT_FACTS = JSON.parse(fs.readFileSync(sfp, "utf-8"));
+} catch {}
 // Pano-id-aware Street View URL — pano_id mindig a konkret panoramat nyitja.
 function svHref(lat: number, lng: number): string {
   const v = SV_OK[svKey(lat, lng)];
@@ -2187,7 +2196,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   if (poi.length) geoItems.push(`<div class="plz-meta-item"><div class="label">${I("length", lang)}</div><div class="value">${poi.length} km</div></div>`);
   if (poi.area) geoItems.push(`<div class="plz-meta-item"><div class="label">${I("area", lang)}</div><div class="value">${poi.area} km²</div></div>`);
   if (poi.coords && poi.coords.length >= 2) {
-    geoItems.push(`<div class="plz-meta-item"><div class="label">${I("coordinates", lang)}</div><div class="value">${poi.coords[1].toFixed(3)}, ${poi.coords[0].toFixed(3)}</div></div>`);
+    geoItems.push(`<div class="plz-meta-item"><div class="label">${I("coordinates", lang)}</div><div class="value">${poi.coords[1].toFixed(5)}, ${poi.coords[0].toFixed(5)}</div></div>`);
   }
 
   // OSM link
@@ -2367,6 +2376,7 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     // Street View pegman — only when the availability sweep confirmed imagery.
     // Sight coords convention: [lng, lat].
     let svBtn = "";
+    let factsHtml = "";
     const sc = (s as any).coords;
     if (Array.isArray(sc) && sc.length === 2 && typeof sc[0] === "number" && typeof sc[1] === "number") {
       const [slng, slat] = sc;
@@ -2382,8 +2392,23 @@ function renderHtml(poi: POI, lang: Lang): string | null {
         const nm = encodeURIComponent(s.name.replace(/ß/g, "ss").replace(/\s+/g, " ").trim());
         svBtn = `<a class="plz-sight-sv plz-sight-gm" href="https://www.google.com/maps/search/${nm}/@${slat.toFixed(6)},${slng.toFixed(6)},17z" target="_blank" rel="nofollow noopener" title="Google Maps" aria-label="Google Maps">${GMAPS_PIN_SVG}</a>`;
       }
+      // OSM hard-facts (LLM-free): hivatalos oldal / nyitvatartas / magassag / akadalymentes / belepo
+      const fct = SIGHT_FACTS[svKey(slat, slng)];
+      if (fct) {
+        const PC = PRACTICAL_COPY[lang] || PRACTICAL_COPY.en;
+        const parts: string[] = [];
+        if (fct.website && /^https?:\/\//.test(fct.website)) {
+          const dom = fct.website.replace(/^https?:\/\/(www\.)?/, "").replace(/\/.*$/, "");
+          parts.push(`<a class="plz-sf-web" itemprop="url" href="${escapeHtml(fct.website)}" target="_blank" rel="nofollow noopener">🌐 ${escapeHtml(dom)}</a>`);
+        }
+        if (fct.opening_hours) parts.push(`<span itemprop="openingHours" content="${escapeHtml(fct.opening_hours)}">🕒 ${escapeHtml(fct.opening_hours.slice(0, 60))}</span>`);
+        if (typeof fct.ele === "number") parts.push(`<span>⛰ ${fct.ele} m</span>`);
+        if (fct.wheelchair === "yes") parts.push(`<span title="${escapeHtml(PC.accessibility)}">♿</span>`);
+        if (fct.fee === "no") parts.push(`<span>🆓</span>`); else if (fct.fee === "yes") parts.push(`<span title="${escapeHtml(PC.entranceFee)}">💶</span>`);
+        if (parts.length) factsHtml = `<div class="plz-sight-facts">${parts.join("")}</div>`;
+      }
     }
-    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}${sightCatBadge(s)}</h3>${dist}<div itemprop="description">${txt}</div>${attr}</div></div></article>`;
+    return `<article class="plz-sight" itemscope itemtype="https://schema.org/TouristAttraction"><div class="plz-sight-body">${img}<div><h3 itemprop="name">${nameHtml}${svBtn}${sightCatBadge(s)}</h3>${dist}<div itemprop="description">${txt}</div>${factsHtml}${attr}</div></div></article>`;
   };
   const sightsObj = (poi as { sights?: Record<string, SightItem[]> }).sights
     || (sidecarSightsFor(poi) as Record<string, SightItem[]> | null);
@@ -2872,6 +2897,9 @@ ready();})();</script>
 .plz-sight-sv svg{display:block}
 .plz-sight-gm{background:#ea4335}
 .plz-sight-gm:hover{background:#d33426;box-shadow:0 2px 8px rgba(234,67,53,.6)}
+.plz-sight-facts{display:flex;flex-wrap:wrap;gap:6px 14px;margin-top:6px;font-size:.82rem;color:rgba(255,255,255,.62)}
+.plz-sight-facts a.plz-sf-web{color:#7fd6e6;text-decoration:none}
+.plz-sight-facts a.plz-sf-web:hover{text-decoration:underline}
 .plz-sight-cat{display:inline-block;margin-left:8px;vertical-align:2px;background:#ffffff10;border:1px solid #ffffff22;border-radius:999px;padding:2px 9px;font-size:.62rem;font-weight:700;color:#9fc4ff;text-transform:uppercase;letter-spacing:.04em;white-space:nowrap}
 .plz-hero-sv{position:absolute;right:10px;bottom:10px;z-index:5;display:inline-flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;background:#fbbc04;color:#fff;box-shadow:0 2px 6px rgba(0,0,0,.45);transition:transform .15s,box-shadow .15s}
 .plz-hero-sv:hover{transform:scale(1.12);box-shadow:0 3px 10px rgba(251,188,4,.65);background:#f9ab00}
